@@ -173,6 +173,8 @@ URL with non-word characters replaced by `_`):
 ./
 |-- links_bfs.json                          # Step 1: visited_order + by_depth
 |-- step2_results.jsonl                     # Step 2: one JSON line per page
+|-- annotations/                            # LLM-free per-page ground truth (default ON)
+|   `-- page_<N>.json                       # image/video/link/text counts + lists + text_full
 |-- run.log                                 # combined stdout/stderr
 `-- verification_out/
     `-- <host_slug>/
@@ -188,6 +190,11 @@ URL with non-word characters replaced by `_`):
             `-- texts/
                 `-- included_texts.jsonl    # full text bodies that passed T1/T2
 ```
+
+`annotations/` is produced by an LLM-free Playwright pass that records what
+the page actually contains (images, videos, links, full text). It is the
+ground-truth side used by `scripts/eval_unified.py`. Disable it with
+`--no_annotation` if you only want the predictive outputs.
 
 The bulk runner (`scripts/run_bara.py`) creates one such tree per URL
 under `--out`:
@@ -209,6 +216,7 @@ under `--out`:
 |------|-------|
 | `links_bfs.json` | `{start_url, max_depth, max_width, max_pages, visited_order: [url], by_depth: {0: [url], 1: [url], ...}, dead_links: [url]}` |
 | `step2_results.jsonl` | One JSON object per line: `{sub_url, page_index, last_extracted_content: {content, ...}}` -- `content` carries `Text(s)`, `Image(s)`, `Video(s)` sections |
+| `annotations/page_<N>.json` | `{image_count, images: [url], video_count, videos: [url], link_count, links: [{text, href}], text_length, text_full}` |
 | `verification_records.jsonl` | One JSON object per artifact: `{artifact_url, artifact_type, source_page, page_index, gate1_observed, gate2_download_ok, gate3_mime_ok, gate4_not_duplicate, gate5_not_hallucinated, file_hash, mime_type, text_similarity (text only), text_content (text only), final_decision, exclusion_reasons, verified_at, duration_ms}` |
 | `verification_summary.json` | `{total_candidates, by_type: {image: {included, excluded, ...}, video: {...}, text: {...}}}` |
 | `artifacts/texts/included_texts.jsonl` | One JSON per accepted text: `{candidate_id, text, source_page, page_index, char_count, word_count, observation_channel, text_similarity, verified_at}` |

@@ -36,7 +36,7 @@ Text (2 gates, both via `gate1_observed`):
 | Gate | Check |
 |------|-------|
 | T1 | Normalized candidate text appears verbatim in the page DOM. |
-| T2 | When T1 fails, token Jaccard >= 0.1 against a sliding DOM window. |
+| T2 | When T1 fails, token-set similarity against a sliding DOM window passes a fuzzy threshold. |
 
 T3 (boilerplate) and T4 (text dedup) are NOT part of the inclusion decision
 (see `web_crawler/pipeline/verification/text.py` for the rationale).
@@ -48,7 +48,7 @@ T3 (boilerplate) and T4 (text dedup) are NOT part of the inclusion decision
 |-- web_crawler/                    Main pipeline package (web_crawler.main)
 |   |-- main.py                     CLI entry
 |   |-- pipeline/
-|   |   |-- step1.py / step2.py / step3.py
+|   |   |-- step1.py / step2.py
 |   |   |-- runtime.py
 |   |   |-- bfs_rules.py
 |   |   `-- verification/           5-gate (image/video) + T1+T2 (text)
@@ -78,21 +78,20 @@ python -m playwright install chromium
 The two patch files under `web_crawler/_patch_browser_use_*.py` are loaded at
 import time by `web_crawler.pipeline.runtime` and fix two issues in
 `browser-use==0.7.0`:
-* hardcoded 8-30s per-event timeouts (raised to a configurable default of
-  180s via `BROWSER_USE_EVENT_TIMEOUT`);
+* hardcoded per-event timeouts that fire before slow hosts become
+  interactable (overridable via `BROWSER_USE_EVENT_TIMEOUT`);
 * `top_p` / `seed` being forwarded into the OpenAI client constructor (which
   rejects them).
 
 ## Run modes
 
-`web_crawler.main` exposes four primary modes via `--run_mode`:
+`web_crawler.main` exposes three primary modes via `--run_mode`:
 
 | Mode | Flag | What it does |
 |------|------|--------------|
 | Full pipeline (default) | `--run_mode all` | Step 1 BFS -> Step 2 extraction -> verification -> save |
 | Step 1 only             | `--run_mode step1` | Playwright BFS only; writes `links_bfs.json` |
 | Step 2 only             | `--run_mode step2 --start_url_path links_bfs.json` | Reads a precomputed `links_bfs.json`, runs LLM extraction + verification |
-| Step 3 only             | `--run_mode step3` | (Optional) downstream classification stage |
 
 ### 1) Full pipeline
 

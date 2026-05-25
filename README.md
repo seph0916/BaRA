@@ -38,9 +38,6 @@ Text Gate (2 gates, both via `gate1_observed`):
 | T1 | Normalized candidate text appears verbatim in the page DOM. |
 | T2 | When T1 fails, token-set similarity against a sliding DOM window passes a fuzzy threshold. |
 
-T3 (boilerplate) and T4 (text dedup) are NOT part of the inclusion decision
-(see `web_crawler/pipeline/verification/text.py` for the rationale).
-
 ## Repository layout
 
 ```

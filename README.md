@@ -163,6 +163,56 @@ By default each topic runs sequentially with Step 2 concurrency 1. Use
 allow M concurrent LLM calls inside each topic. `--timeout-s` (default
 1800) sets the per-topic timeout.
 
+## Output layout
+
+A full pipeline run on a single start URL produces the following tree in
+the working directory (the `<host_slug>` folder is named after the start
+URL with non-word characters replaced by `_`):
+
+```
+./
+|-- links_bfs.json                          # Step 1: visited_order + by_depth
+|-- step2_results.jsonl                     # Step 2: one JSON line per page
+|-- run.log                                 # combined stdout/stderr
+`-- verification_out/
+    `-- <host_slug>/
+        |-- verification_records.jsonl      # one JSON line per artifact (gates + decision)
+        |-- verification_summary.json       # site-level totals (by_type counts)
+        |-- dom_dump/                       # rendered HTML per page (used by T1 / text gates)
+        |   `-- page_<N>.html
+        |-- network_dump/                   # per-page HTTP metadata captured during extraction
+        |   `-- page_<N>.json
+        `-- artifacts/                      # ONLY artifacts that passed verification
+            |-- images/<hash>.{jpg,png,webp,...}
+            |-- videos/<hash>.{mp4,webm,...}
+            `-- texts/
+                `-- included_texts.jsonl    # full text bodies that passed T1/T2
+```
+
+The bulk runner (`scripts/run_bara.py`) creates one such tree per URL
+under `--out`:
+
+```
+./runs/bara_demo/
+|-- web_<slug_1>/
+|   |-- links_bfs.json
+|   |-- step2_results.jsonl
+|   |-- run.log
+|   `-- verification_out/<host_slug>/...
+|-- web_<slug_2>/...
+`-- ...
+```
+
+### File-by-file
+
+| File | Shape |
+|------|-------|
+| `links_bfs.json` | `{start_url, max_depth, max_width, max_pages, visited_order: [url], by_depth: {0: [url], 1: [url], ...}, dead_links: [url]}` |
+| `step2_results.jsonl` | One JSON object per line: `{sub_url, page_index, last_extracted_content: {content, ...}}` -- `content` carries `Text(s)`, `Image(s)`, `Video(s)` sections |
+| `verification_records.jsonl` | One JSON object per artifact: `{artifact_url, artifact_type, source_page, page_index, gate1_observed, gate2_download_ok, gate3_mime_ok, gate4_not_duplicate, gate5_not_hallucinated, file_hash, mime_type, text_similarity (text only), text_content (text only), final_decision, exclusion_reasons, verified_at, duration_ms}` |
+| `verification_summary.json` | `{total_candidates, by_type: {image: {included, excluded, ...}, video: {...}, text: {...}}}` |
+| `artifacts/texts/included_texts.jsonl` | One JSON per accepted text: `{candidate_id, text, source_page, page_index, char_count, word_count, observation_channel, text_similarity, verified_at}` |
+
 ## Real-world seed list
 
 `data/seed_urls.selected.jsonl` is the 50-site seed list used for the

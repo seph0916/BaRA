@@ -21,7 +21,7 @@ hallucinated and unverifiable artifacts.
 
 ### Verification gates
 
-Image / Video (5 gates, all must pass):
+Image / Video Gate (5 gates, all must pass):
 
 | Gate | Check |
 |------|-------|
@@ -31,7 +31,7 @@ Image / Video (5 gates, all must pass):
 | T4 | Content hash is not a duplicate within the same site. |
 | T5 | Hallucination flag (derived from T1: URL not in source DOM -> high). |
 
-Text (2 gates, both via `gate1_observed`):
+Text Gate (2 gates, both via `gate1_observed`):
 
 | Gate | Check |
 |------|-------|
@@ -51,7 +51,7 @@ T3 (boilerplate) and T4 (text dedup) are NOT part of the inclusion decision
 |   |   |-- step1.py / step2.py
 |   |   |-- runtime.py
 |   |   |-- bfs_rules.py
-|   |   `-- verification/           5-gate (image/video) + T1+T2 (text)
+|   |   `-- verification/           5-Gate (image/video) + Text Gate (T1+T2) (text)
 |   |-- _patch_browser_use_*.py     Local patches for browser-use 0.7.0
 |   `-- verify_links_bfs_good.py    URL liveness check (HTTP + browser fallback)
 |-- scripts/
@@ -92,7 +92,7 @@ follow-up gating phase of Step 2 rather than a separate run mode.
 | Stage | Flag(s) | What it does | Output |
 |-------|---------|--------------|--------|
 | **Step 1: link collection** | `--run_mode step1` | Playwright BFS (no LLM) | `links_bfs.json` |
-| **Step 2: extraction -> verification** | `--run_mode step2 --start_url_path links_bfs.json --enable_verification` | LLM extraction per page, then LLM-free gate filtering (image/video 5-gate, text T1+T2) | `step2_results.jsonl`, `verification_records.jsonl`, `artifacts/` |
+| **Step 2: extraction -> verification** | `--run_mode step2 --start_url_path links_bfs.json --enable_verification` | LLM extraction per page, then LLM-free gate filtering (image/video 5-Gate, text Gate T1+T2) | `step2_results.jsonl`, `verification_records.jsonl`, `artifacts/` |
 | **Full pipeline** | `--run_mode all --enable_verification` | Step 1 -> Step 2 (extraction -> verification) | all of the above |
 
 ### 1) Full pipeline

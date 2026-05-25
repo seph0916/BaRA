@@ -85,13 +85,16 @@ import time by `web_crawler.pipeline.runtime` and fix two issues in
 
 ## Run modes
 
-`web_crawler.main` exposes three primary modes via `--run_mode`:
+The pipeline is organized as three independent stages. `--run_mode` selects
+the stage(s); `--enable_verification` activates the gating stage on top of
+Step 2.
 
-| Mode | Flag | What it does |
-|------|------|--------------|
-| Full pipeline (default) | `--run_mode all` | Step 1 BFS -> Step 2 extraction -> verification -> save |
-| Step 1 only             | `--run_mode step1` | Playwright BFS only; writes `links_bfs.json` |
-| Step 2 only             | `--run_mode step2 --start_url_path links_bfs.json` | Reads a precomputed `links_bfs.json`, runs LLM extraction + verification |
+| Stage | Flag(s) | What it does | Output |
+|-------|---------|--------------|--------|
+| **Step 1: link collection** | `--run_mode step1` | Playwright BFS (no LLM) | `links_bfs.json` |
+| **Step 2: extraction** | `--run_mode step2 --start_url_path links_bfs.json` | LLM-driven content extraction per page | `step2_results.jsonl` |
+| **Verification** | add `--enable_verification` to any Step 2 / full run | LLM-free gate filtering (image/video 5-gate, text T1+T2) | `verification_records.jsonl`, `artifacts/` |
+| **Full pipeline** | `--run_mode all --enable_verification` | Step 1 -> Step 2 -> Verification | all of the above |
 
 ### 1) Full pipeline
 
@@ -127,7 +130,21 @@ PYTHONPATH=. python -m web_crawler.main \
 
 Writes `links_bfs.json` and exits.
 
-### 3) Step 2 only -- data collection + verification on existing links
+### 3) Step 2 (extraction) on existing links
+
+```bash
+PYTHONPATH=. python -m web_crawler.main \
+    --first_url https://example.com/some-site \
+    --start_url_path links_bfs.json \
+    --run_mode step2 \
+    --llm_provider openrouter \
+    --model_name google/gemini-3-flash-preview \
+    --api_keys "$OPENROUTER_API_KEY"
+```
+
+Writes `step2_results.jsonl` with the raw LLM extractions.
+
+### 4) Step 2 + Verification (extraction with gate filtering)
 
 ```bash
 PYTHONPATH=. python -m web_crawler.main \
@@ -141,7 +158,10 @@ PYTHONPATH=. python -m web_crawler.main \
     --api_keys "$OPENROUTER_API_KEY"
 ```
 
-### 4) Bulk runner for many URLs
+Adds per-artifact gate records to `verification_out/<host>/verification_records.jsonl`
+and stores the verified media / text under `verification_out/<host>/artifacts/`.
+
+### 5) Bulk runner for many URLs
 
 ```bash
 python scripts/run_bara.py \

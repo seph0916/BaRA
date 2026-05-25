@@ -1,4 +1,4 @@
-# BaRA: BFS-and-Reflection Agent
+# BaRA: Budget-constrained and Reliable Web Data Collection Agent
 
 BaRA is a deterministic Playwright-based crawler combined with an LLM-driven
 content extraction and an LLM-free verification module that filters

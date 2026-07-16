@@ -1,0 +1,75 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/image.webp",
+        "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/image.webp",
+        "https://plainvanillaweb.com/blog/articles/2026-03-01-redesigning-plain-vanilla/image.webp",
+        "https://plainvanillaweb.com/blog/articles/2025-07-16-local-first-architecture/image.webp",
+        "https://plainvanillaweb.com/blog/articles/2025-07-13-history-architecture/image.webp",
+        "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/image.webp",
+        "https://plainvanillaweb.com/blog/articles/2025-06-12-view-transitions/image.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 14,
+    "links": [
+        {
+            "text": "Plain Vanilla",
+            "href": "https://plainvanillaweb.com/index.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/#"
+        },
+        {
+            "text": "<details> matters",
+            "href": "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/"
+        },
+        {
+            "text": "<details> matters",
+            "href": "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/"
+        },
+        {
+            "text": "Redesigning Plain Vanilla",
+            "href": "https://plainvanillaweb.com/blog/articles/2026-03-01-redesigning-plain-vanilla/"
+        },
+        {
+            "text": "Local-first web application architecture",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-07-16-local-first-architecture/"
+        },
+        {
+            "text": "The history of web application architecture",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-07-13-history-architecture/"
+        },
+        {
+            "text": "Clean client-side routing",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/"
+        },
+        {
+            "text": "Bringing React's <ViewTransition> to vanilla JS",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-06-12-view-transitions/"
+        },
+        {
+            "text": "Archive",
+            "href": "https://plainvanillaweb.com/blog/archive.html"
+        },
+        {
+            "text": "RSS",
+            "href": "https://plainvanillaweb.com/blog/feed.xml"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/blog/#top"
+        }
+    ],
+    "text_length": 927,
+    "text_full": "Plain Vanilla Blog\n\nA blog about vanilla web development — no frameworks, just standards.\n\nPlain Vanilla\nBlog\nFeatured\n<details> matters\n\nAn oddball element set to take the main stage.\n\nMarch 9, 2026\nLatest Posts\n<details> matters\n\nAn oddball element set to take the main stage.\n\nMarch 9, 2026\nRedesigning Plain Vanilla\n\nStepping out of my comfort zone.\n\nMarch 1, 2026\nLocal-first web application architecture\n\nMaybe we just need to dig a little deeper (into the client).\n\nJuly 16, 2025\nThe history of web application architecture\n\nThe many different ways of building for the web, and their many frustrations.\n\nJuly 13, 2025\nClean client-side routing\n\nFinding a nice way of doing single-page app routing without a library.\n\nJune 25, 2025\nBringing React's <ViewTransition> to vanilla JS\n\nBringing React's declarative view transitions API to vanilla as a custom element.\n\nJune 12, 2025\n\nArchive | RSS\n\nContact GitHub\n\nBack to top"
+}

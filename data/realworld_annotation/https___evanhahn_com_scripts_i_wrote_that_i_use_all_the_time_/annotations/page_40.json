@@ -1,0 +1,361 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 87,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Little web app to pick a random programming language",
+            "href": "https://evanhahn.com/random-programming-language/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Introducing llm-eliza",
+            "href": "https://evanhahn.com/llm-eliza/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#satire",
+            "href": "https://evanhahn.com/tags/satire/"
+        },
+        {
+            "text": "Introducing gzpeek, a tool to parse gzip metadata",
+            "href": "https://evanhahn.com/introducing-gzpeek/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#zig",
+            "href": "https://evanhahn.com/tags/zig/"
+        },
+        {
+            "text": "An LLM that's 7500× stupider",
+            "href": "https://evanhahn.com/an-llm-thats-7500x-stupider/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Experiment: making TypeScript immutable-by-default",
+            "href": "https://evanhahn.com/typescript-immutability-experiment/"
+        },
+        {
+            "text": "#typescript",
+            "href": "https://evanhahn.com/tags/typescript/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Fizz Buzz without conditionals or booleans",
+            "href": "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "Local LLMs versus offline Wikipedia",
+            "href": "https://evanhahn.com/local-llms-versus-offline-wikipedia/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Whisper transcription vs. iPhone 11 Pro and iPhone 16 Plus: an informal test",
+            "href": "https://evanhahn.com/informally-testing-whisper-on-iphone-11pro-and-16plus/"
+        },
+        {
+            "text": "#ios",
+            "href": "https://evanhahn.com/tags/ios/"
+        },
+        {
+            "text": "#audio",
+            "href": "https://evanhahn.com/tags/audio/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "My failed attempt to shrink all npm packages by 5%",
+            "href": "https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Makeshift hot reload: my submission to HTMHell 2024",
+            "href": "https://evanhahn.com/htmhell-2024/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Progressive enhancement for content",
+            "href": "https://evanhahn.com/progressive-enhancement-for-content/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent",
+            "href": "https://evanhahn.com/node-torrent-import/"
+        },
+        {
+            "text": "#bittorrent",
+            "href": "https://evanhahn.com/tags/bittorrent/"
+        },
+        {
+            "text": "#decentralization",
+            "href": "https://evanhahn.com/tags/decentralization/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Torrent snapshot of my open source projects, as of 2024",
+            "href": "https://evanhahn.com/2024-01-01-torrents-of-my-open-source-projects/"
+        },
+        {
+            "text": "#bittorrent",
+            "href": "https://evanhahn.com/tags/bittorrent/"
+        },
+        {
+            "text": "#decentralization",
+            "href": "https://evanhahn.com/tags/decentralization/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Play a jingle on Git commits",
+            "href": "https://evanhahn.com/jingle-on-git-commit/"
+        },
+        {
+            "text": "#git",
+            "href": "https://evanhahn.com/tags/git/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Introducing UTF-21, a toy character encoding",
+            "href": "https://evanhahn.com/utf-21/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Re-implementing JavaScript's == in JavaScript",
+            "href": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#spec",
+            "href": "https://evanhahn.com/tags/spec/"
+        },
+        {
+            "text": "An experiment: syntax highlighting for the English language",
+            "href": "https://evanhahn.com/experimenting-with-english-highlighting/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "#design",
+            "href": "https://evanhahn.com/tags/design/"
+        },
+        {
+            "text": "Concept: making asynchronous loading look synchronous",
+            "href": "https://evanhahn.com/javascript-method_missing/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#firefox",
+            "href": "https://evanhahn.com/tags/firefox/"
+        },
+        {
+            "text": "Under 1% of English words are alphabetical",
+            "href": "https://evanhahn.com/under-1-of-english-words-are-alphabetical/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#c",
+            "href": "https://evanhahn.com/tags/c/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "Is it worth cheating Caltrain?",
+            "href": "https://evanhahn.com/is-it-worth-cheating-caltrain/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        }
+    ],
+    "text_length": 1869,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n20 posts tagged #experiment\n2026\nLittle web app to pick a random programming language\n2026-03-22 #experiment\nIntroducing llm-eliza\n2026-03-08 #ai #experiment #release #satire\nIntroducing gzpeek, a tool to parse gzip metadata\n2026-02-26 #compression #experiment #release #tool #zig\nAn LLM that's 7500× stupider\n2026-01-27 #ai #experiment #ollama\n2025\nExperiment: making TypeScript immutable-by-default\n2025-11-18 #typescript #experiment\nFizz Buzz without conditionals or booleans\n2025-11-12 #experiment #python\nLocal LLMs versus offline Wikipedia\n2025-07-19 #experiment #ai #data #ollama\nWhisper transcription vs. iPhone 11 Pro and iPhone 16 Plus: an informal test\n2025-01-28 #ios #audio #performance #experiment\nMy failed attempt to shrink all npm packages by 5%\n2025-01-27 #performance #node #javascript #experiment\n2024\nMakeshift hot reload: my submission to HTMHell 2024\n2024-12-11 #web #experiment\nProgressive enhancement for content\n2024-05-24 #web #experiment\nimport myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent\n2024-01-13 #bittorrent #decentralization #experiment #node #javascript\nTorrent snapshot of my open source projects, as of 2024\n2024-01-01 #bittorrent #decentralization #helmet #open-source #experiment\n2023\nPlay a jingle on Git commits\n2023-07-22 #git #experiment\nIntroducing UTF-21, a toy character encoding\n2023-06-09 #unicode #release #experiment\n2022\nRe-implementing JavaScript's == in JavaScript\n2022-08-19 #javascript #experiment #spec\n2013\nAn experiment: syntax highlighting for the English language\n2013-11-18 #experiment #writing #design\nConcept: making asynchronous loading look synchronous\n2013-05-12 #experiment #javascript #firefox\n2012\nUnder 1% of English words are alphabetical\n2012-09-11 #experiment #c #coffeescript\nIs it worth cheating Caltrain?\n2012-06-09 #data #experiment"
+}

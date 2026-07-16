@@ -1,0 +1,133 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 30,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "I turned this blog post into a talk",
+            "href": "https://evanhahn.com/chicagojs2023/"
+        },
+        {
+            "text": "length property",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length"
+        },
+        {
+            "text": "Unicode glossary",
+            "href": "https://www.unicode.org/glossary/"
+        },
+        {
+            "text": "extended grapheme cluster",
+            "href": "https://www.unicode.org/glossary/#extended_grapheme_cluster"
+        },
+        {
+            "text": "scalars",
+            "href": "https://www.unicode.org/glossary/#unicode_scalar_value"
+        },
+        {
+            "text": "UTF-16 code units",
+            "href": "https://www.unicode.org/glossary/#code_unit"
+        },
+        {
+            "text": "surrogate pairs",
+            "href": "https://www.unicode.org/glossary/#surrogate_pair"
+        },
+        {
+            "text": "slice()",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice"
+        },
+        {
+            "text": "iterating over a string",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/@@iterator"
+        },
+        {
+            "text": "Intl.Segmenter()",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter"
+        },
+        {
+            "text": "“It’s Not Wrong that \"🤦🏼‍♂️\".length == 7”",
+            "href": "https://hsivonen.fi/string-length/"
+        },
+        {
+            "text": "“The Absolute Minimum Every Software Developer Must Know About Unicode in 2023”",
+            "href": "https://tonsky.me/blog/unicode/"
+        },
+        {
+            "text": "“JavaScript has a Unicode problem”",
+            "href": "https://mathiasbynens.be/notes/javascript-unicode"
+        },
+        {
+            "text": "a talk I gave on this topic",
+            "href": "https://evanhahn.com/chicagojs2023/"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 4723,
+    "text_full": "Why does \"👩🏾‍🌾\" have a length of 7 in JavaScript?\nby Evan Hahn, updated Oct 2, 2023 (originally posted May 27, 2023), tagged #unicode #javascript\n\nI turned this blog post into a talk which you might prefer.\n\nIn short: 👩🏾‍🌾 is made of 1 grapheme cluster, 4 scalars, and 7 UTF-16 code units. That’s why its length is 7.\n\nThe length property is used to determine the length of a JavaScript string. Sometimes, its results are intuitive:\n\n\"E\".length;\n\n// => 1\n\n\n\n\"♬\".length;\n\n// => 1\n\n\n…sometimes, its results are surprising:\n\n\"🌸\".length;\n\n// => 2\n\n\n\n\"👩🏾‍🌾\".length;\n\n// => 7\n\n\nTo understand why this happens, you need to understand a few terms from the Unicode glossary.\n\nThe first term is the extended grapheme cluster. This is probably what most people would call a character. E, ♬, 🌸, and 👩🏾‍🌾 are examples of extended grapheme clusters.\n\nExtended grapheme clusters are made up of scalars. Scalars are integers between 0 and 1114111, though many of these numbers are currently unused.\n\nMany extended grapheme clusters contain just one scalar. For example, 🌸 is made up of the scalar 127800 and E is made up of scalar 69. 👩🏾‍🌾, however, is made up of four scalars: 128105, 127998, 8205, and 127806.\n\n(Scalars are usually written in hex with a “U+” prefix. For example, the scalar for ♬ is 9836, which might be written as “U+266C”.)\n\nInternally, JavaScript stores these scalars as UTF-16 code units. Each code unit is a 16-bit unsigned integer, which can store numbers between 0 and 65,535. Many scalars fit into a single code unit. Scalars that are too big get split apart into two 16-bit numbers. These are called surrogate pairs, which is a term you might see.\n\nFor example, ♬ is made up of the scalar 9836. That fits into a single 16-bit integer, so we just store 9836.\n\nThe scalar for 🌸 is 127800. That’s too big for a 16-bit integer so we have to break it up. It gets split up into 55356 and 57144. (I won’t discuss how this splitting works, but it’s not too complicated—the bits are divided in the middle and a different number is added to each half.)\n\nThat’s why \"🌸\".length === 2—JavaScript is interrogating the number of UTF-16 code units, which is 2 in this case.\n\n👩🏾‍🌾 is made up of four scalars. One of those scalars fits in a single UTF-16 code unit, but the remaining three are too big and get split up. That makes for a total of 7 code units. That’s why \"👩🏾‍🌾\".length === 7.\n\nTo summarize our examples:\n\nExtended grapheme cluster\tScalar(s)\tUTF-16 code units\nE\t69\t69\n♬\t9836\t9836\n🌸\t127800\t55356, 57144\n👩🏾‍🌾\t128105, 127998, 8205, 127806\t55357, 56425, 55356, 57342, 8205, 55356, 57150\n\nMost JavaScript string operations also work with UTF-16.\n\nslice(), for example, works with UTF-16 code units too. That’s why you might get strange results if you slice in the middle of a surrogate pair:\n\n\"The best character is X\".slice(-1);\n\n// => \"X\"\n\n\n\n\"The best character is 🌸\".slice(-1);\n\n// => \"\\udf38\"\n\n\nHowever, not all JavaScript string operations use UTF-16 code units. For example, iterating over a string works a little differently:\n\n// The spread operator uses an iterator:\n\n[...\"👩🏾‍🌾\"];\n\n// => [\"👩\",\"🏾\",\"\",\"🌾\"]\n\n\n\n// Same for `for ... of`:\n\nfor (const c of \"👩🏾‍🌾\") {\n\n  console.log(c);\n\n}\n\n// => \"👩\"\n\n// => \"🏾\"\n\n// => \"\"\n\n// => \"🌾\"\n\n\nAs you can see, this iterates over scalars, not UTF-16 code units.\n\nIntl.Segmenter(), an object that doesn’t work in all browsers, can help you iterate over extended grapheme clusters if that’s what you need:\n\nconst str = \"farmer: 👩🏾‍🌾\";\n\n\n\n// Warning: this is not supported on all browsers!\n\nconst segments = new Intl.Segmenter().segment(str);\n\n[...segments];\n\n// => [\n\n//      { segment: \"f\", index: 0, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \"a\", index: 1, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \"r\", index: 2, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \"m\", index: 3, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \"e\", index: 4, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \"r\", index: 5, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \":\", index: 6, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \" \", index: 7, input: \"farmer: 👩🏾‍🌾\" },\n\n//      { segment: \"👩🏾‍🌾\", index: 8, input: \"farmer: 👩🏾‍🌾\" }\n\n//    ]\n\n\nFor more on this tricky stuff, check out “It’s Not Wrong that \"🤦🏼‍♂️\".length == 7”, “The Absolute Minimum Every Software Developer Must Know About Unicode in 2023”, “JavaScript has a Unicode problem”, and a talk I gave on this topic.\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

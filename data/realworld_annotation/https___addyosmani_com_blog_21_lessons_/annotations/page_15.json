@@ -1,0 +1,110 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://addyosmani.com/assets/bootstrap.jpg",
+        "https://addyosmani.com/assets/images/addy_2022.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 24,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "",
+            "href": "http://addyosmani.com/blog/jquery-ui-bootstrap/"
+        },
+        {
+            "text": "jQuery UI Bootstrap",
+            "href": "http://addyosmani.github.com/jquery-ui-bootstrap"
+        },
+        {
+            "text": "Bootstrap",
+            "href": "http://twitter.github.com/bootstrap"
+        },
+        {
+            "text": "homepage",
+            "href": "http://addyosmani.github.com/jquery-ui-bootstrap"
+        },
+        {
+            "text": "jQuery UI",
+            "href": "http://jqueryui.com/"
+        },
+        {
+            "text": "homepage",
+            "href": "http://addyosmani.github.com/jquery-ui-bootstrap"
+        },
+        {
+            "text": "Wijmo",
+            "href": "http://wijmo.com/"
+        },
+        {
+            "text": "Chris Bannon",
+            "href": "https://twitter.com/#!/b4nn0n"
+        },
+        {
+            "text": "GitHub",
+            "href": "http://github.com/addyosmani/jquery-ui-bootstrap"
+        },
+        {
+            "text": "Addy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.",
+            "href": "http://twitter.com/addyosmani"
+        },
+        {
+            "text": "Tweet",
+            "href": "https://twitter.com/intent/tweet?text=https://addyosmani.com/blog/jquery-ui-bootstrap/%20-%20jQuery%20UI%20Bootstrap%20-%20A%20New%20Bootstrap-inspired%20Theme%20For%20Your%20Widgets%20by%20@addyosmani"
+        },
+        {
+            "text": "Bluesky",
+            "href": "https://bsky.app/intent/compose?text=jQuery%20UI%20Bootstrap%20-%20A%20New%20Bootstrap-inspired%20Theme%20For%20Your%20Widgets%20-%20https://addyosmani.com/blog/jquery-ui-bootstrap/"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/share?text=jQuery%20UI%20Bootstrap%20-%20A%20New%20Bootstrap-inspired%20Theme%20For%20Your%20Widgets%0Ahttps://addyosmani.com/blog/jquery-ui-bootstrap/"
+        },
+        {
+            "text": "Threads",
+            "href": "https://www.threads.net/intent/post?text=jQuery%20UI%20Bootstrap%20-%20A%20New%20Bootstrap-inspired%20Theme%20For%20Your%20Widgets%0Ahttps://addyosmani.com/blog/jquery-ui-bootstrap/"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://addyosmani.com/blog/jquery-ui-bootstrap/"
+        },
+        {
+            "text": "Share",
+            "href": "https://addyosmani.com/blog/jquery-ui-bootstrap/#"
+        }
+    ],
+    "text_length": 3519,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\njQuery UI Bootstrap - A New Bootstrap-inspired Theme For Your Widgets\nJANUARY 1, 2012\n\nI recently released the first version of a new project called jQuery UI Bootstrap - a Twitter Bootstrap inspired theme for UI widgets. For a demo of the theme or to download it, hop on over to the project homepage.\n\nIntroduction\n\nBootstrap was one of my favorite OS projects to come out of 2011 and I found myself regularly using it a base for a number of projects, both at work and otherwise. However, whilst planning out the user-interfaces for some new projects at AOL, I ran into a problem:\n\nWe wanted to use jQuery UI for widget development but also wanted to use it alongside Bootstrap. Bootstrap has a great visual design for everything from buttons to tabs and would provide us with an excellent base theme we could iterate on as projects progressed.\n\nAs some of you may know, not only wasn't there a Bootstrapped theme available for jQuery UI but if you added both it and Bootstrap to a page, you would quickly find that a number of CSS styles for UI widgets would break due to collisions. This isn't at all a fault of the Bootstrap project - it wasn't created to be used with jQuery UI, however, a solution was required.\n\nWhat is jQuery UI Bootstrap?\n\njQuery UI Bootstrap offers a clean implementation of the Twitter Bootstrap design as a jQuery UI theme that can be applied to widgets . It also includes a 'cleaned up' version of Bootstrap which *can* be used alongside this particular theme (and possibly others) without needing to worry about styles colliding. \n\nAs a demonstration, why not take a look at the project's homepage? - both the intro area and download buttons are using Bootstrap for theming whilst everything else is using a jQuery UI for theirs. The benefit of this is that you're free to use everything from Bootstrap's wells to grids for your page layout and the jQuery UI theme for interactive widgets.\n\nIt's a solution which (I hope) others find useful. \n\nThe project is still quite early on in development, but you can already use a number of components (buttons, button sets, horizontal sliders, tabs, modal windows, date-pickers) in production with some confidence it should all work. Tweaking is still being done for things like buttons with icons and third-party widgets, but I'll be sure to post up any progress up on GitHub so the community can use the theme too.\n\nFrequently asked questions\n\nWhat browsers does the theme target?\n\nAt present: Chrome 15+ (supports 13/14 too), Opera (stable + next), Firefox 5+, Safari 5+, IE 8+. I\n\nIs the theme compatible with Wijmo?\n\nThe initial release shows a proof-of-concept implementation of the Bootstrap menu styles applied to the Wijmo menu. Chris Bannon is currently working on a fork of jQuery UI Bootstrap with the goal of adding improved Wijmo support (to this and other components) and I'll be sure to announce once that work has been merged in.\n\nFeedback\n\nIf you have any ideas or issues you'd like to submit about the project, please feel free to do so either in the comments section below or on GitHub.\n\nA quick thanks to everyone on Twitter that provided me feedback on the theme over the past week. You really helped me get a sense of what needed to be tweaked for 0.1 and I appreciate it. \n\nAddy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.\n Tweet  Bluesky  Mastodon  Threads  LinkedIn  Share\n\nWant more? Subscribe to my free newsletter:\nSubscribe"
+}

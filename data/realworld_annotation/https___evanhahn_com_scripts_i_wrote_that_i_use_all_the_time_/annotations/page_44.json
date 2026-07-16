@@ -1,0 +1,45 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 8,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Cheatsheet for Rink, the unit-aware calculator",
+            "href": "https://evanhahn.com/rink-cheatsheet/"
+        },
+        {
+            "text": "#cli",
+            "href": "https://evanhahn.com/tags/cli/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        }
+    ],
+    "text_length": 122,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n1 post tagged #cli\n2025\nCheatsheet for Rink, the unit-aware calculator\n2025-03-19 #cli #guide"
+}

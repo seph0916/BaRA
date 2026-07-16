@@ -1,0 +1,171 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/leaky-abstractions.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 39,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=The+Law+of+Leaky+Abstractions%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Flaw-of-leaky-abstractions%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Flaw-of-leaky-abstractions%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Flaw-of-leaky-abstractions%2F&title=The+Law+of+Leaky+Abstractions%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/law-of-leaky-abstractions/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/#sidenote"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/#further-reading"
+        },
+        {
+            "text": "The Law of Leaky Abstractions\nJoel Spolsky's original blog post",
+            "href": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"
+        },
+        {
+            "text": "A Note on Distributed Computing\nFallacies of Distributed Systems",
+            "href": "https://scholar.harvard.edu/waldo/publications/note-distributed-computing"
+        },
+        {
+            "text": "Towards a New Model of Abstraction in Software Engineering\nGregor Kiczales' foundational paper on open implementations and abstraction leakage",
+            "href": "https://web.archive.org/web/20110604013045/http://www2.parc.com/csl/groups/sda/publications/papers/Kiczales-IMSA92/for-web.pdf"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "ARCHITECTURE\nHyrum's Law\n\nWith a sufficient number of API users, all observable behaviors of your system will be depended on by somebody.",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/"
+        },
+        {
+            "text": "ARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.",
+            "href": "https://lawsofsoftwareengineering.com/laws/galls-law/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 4752,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nThe Law of Leaky Abstractions\nThe Law of Leaky Abstractions\nARCHITECTURE\nMID-LEVEL\n2 min read\n\nAll non-trivial abstractions, to some degree, are leaky.\n\nTakeaways\nNo matter how well-designed, abstractions (libraries, frameworks, etc.) have edge cases that depend on internal details.\nDevelopers should understand that using a high-level tool doesn’t absolve them from knowing what’s happening underneath, at least at a basic level.\n“Leaky” means you might encounter performance issues, bugs, or behavior that force you to consider the underlying system (e.g., networking, OS) on which the abstraction sits.\nWhen creating abstractions, strive to minimize leakage and document the cases in which it might break.\nOverview\n\nThis law observes that in complex systems, the abstractions we create, meant to hide complexity, inevitably fail in some scenarios, revealing the underlying complexity to the programmer.\n\nFor example, consider an ORM (object-relational mapper) that lets you treat database entries as objects. Most of the time it works, but occasionally you hit a case where performance is terrible and you have to think about the SQL queries being generated. The abstraction “leaks” details of the database.\n\nThe law isn’t saying abstractions are bad. They are essential. But it reminds us that one must be prepared for when they break.\n\nLeaky Abstractions\n\nExamples\n\nA good example is memory management in high-level languages. Languages like Java and Python abstract away manual memory allocation thanks to garbage collection. Yet leaks still happen (objects not being freed due to lingering references), or you encounter the abstraction’s limits (such as GC pauses affecting performance). Suddenly, the developer needs to know how garbage collection works internally, and the abstraction of “infinite memory” has leaked.\n\nWeb developers often treat an HTTP request as something fast, abstracting away the network. However, when latency spikes or packets drop, the network’s reality leaks into your application.\n\nOrigins\n\nJoel Spolsky introduced this law in a 2002 blog post. He gave examples such as TCP (which abstracts reliable connections over IP, but on a bad network the abstraction leaks, causing timeouts) or the virtual memory abstraction.\n\nThe concept resonates with many earlier thoughts in computing, essentially a restatement of “there’s no free lunch” with abstractions.\n\nAll Models Are Wrong (George Box's Law)\n\nGeorge Box said, “All models are wrong, but some are useful.” Every abstraction you build, whether a class hierarchy, an API contract, or a data model, is a lie. It’s basically a simplified version of reality that ignores inconvenient details. The question isn’t whether your model is wrong. It’s whether it’s wrong in ways that matter.\n\nYour database schema assumes users have one email address, until they don’t. Your payment model treats refunds like reversed payments, until chargebacks arrive. Accept that every model will leak, and design for the leak, not against it.\n\nFurther Reading\nThe Law of Leaky Abstractions\nJoel Spolsky's original blog post\nA Note on Distributed Computing\nFallacies of Distributed Systems\nTowards a New Model of Abstraction in Software Engineering\nGregor Kiczales' foundational paper on open implementations and abstraction leakage\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). The Law of Leaky Abstractions. Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/\n\nPlain text: \"The Law of Leaky Abstractions\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/\n\nBibTeX: @misc{milanovic_law-of-leaky-abstractions_2026, author = {Dr. Milan Milanović}, title = {The Law of Leaky Abstractions}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nARCHITECTURE\nHyrum's Law\n\nWith a sufficient number of API users, all observable behaviors of your system will be depended on by somebody.\n\nARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

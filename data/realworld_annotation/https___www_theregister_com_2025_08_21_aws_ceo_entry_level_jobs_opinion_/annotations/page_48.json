@@ -1,0 +1,332 @@
+{
+    "image_count": 16,
+    "images": [
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/the_register_vulture_logo.53c8756c.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass.9cbf748e.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass_vulture.292e7b64.svg",
+        "https://cdn.theregister.com/assets/images/burger_menu.5dd339c3.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://vendorvoice.theregister.com/media/images/aws-capgemini-logo_NBbteiJ.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/vv_images_aws_capgemini_lifecycle.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_images_aws_capgemini_aws_digita.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_images_aws_capgemini_omniaware_.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_images_making_it_real_in_indust.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_images_aws_capgemini_enabling_a.2e16d0ba.fill-648x234.jpg",
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_two_lines.7bfa3d3e.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_one_line.b1e3235b.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 76,
+    "links": [
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "Automotive",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/automotive/"
+        },
+        {
+            "text": "Energy And Utilities",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/energy_and_utilities/"
+        },
+        {
+            "text": "Financial Services",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/financial_services/"
+        },
+        {
+            "text": "SOLUTION\n\nLifecycle Optimization for Aerospace\n\nExplore Capgemini’s Aerospace Lifecycle Optimization solution, powered by AWS, which uses advanced analytics, digital engineering and data-driven insights to enhance aircraft performance, streamline maintenance planning and reduce operational costs across the aerospace value chain.",
+            "href": "https://go.theregister.com/k/solutions/lifecycle-optimization-for-aerospace"
+        },
+        {
+            "text": "SOLUTION\n\nAWS Digital Continuity\n\nDiscover Capgemini's AWS Digital Continuity solution, designed to ensure seamless data integrity, availability and business resilience across cloud and hybrid environments, enabling organisations to maintain uninterrupted operations, simplify data strategies and maximise value from their digital investments.",
+            "href": "https://go.theregister.com/k/solutions/aws-digital-continuity"
+        },
+        {
+            "text": "SOLUTION\n\nOmniAware Connected Defense\n\nLearn how Capgemini and AWS co-developed OmniAware, a secure, cloud-native defence platform that delivers scalable data ingestion, real-time intelligence and GenAI-ready capabilities with compliance to defence-grade standards, helping defence and intelligence organisations modernise operations while maintaining sovereignty and security.",
+            "href": "https://go.theregister.com/k/solutions/omniaware-connected-defense"
+        },
+        {
+            "text": "PODCAST\n\nMaking It Real in Industries with AWS at re:Invent 2025\n\nLive from AWS re:Invent 2025 in Las Vegas, this episode features Tim Murnin from AWS in conversation with the Cloud Realities team, exploring industry trends, the evolving role of the CIO, cloud innovation and what’s shaping the future of tech.",
+            "href": "https://go.theregister.com/k/Making-It-Real-in-Industries-with-AWS-at-re-Invent-2025"
+        },
+        {
+            "text": "CLIENT SUCCESS STORY\n\nEnabling Aerospace Part Reuse For More Sustainable Practices\n\nRead how Capgemini and AWS developed an AI-driven aerospace platform that automates aircraft analysis, increases parts reuse rates, accelerates decision-making by 30-50% and supports circular economy goals to reduce waste and enhance sustainability across the aerospace value chain.",
+            "href": "https://go.theregister.com/k/enabling-aerospace-part-reuse-for-more-sustainable-practices"
+        },
+        {
+            "text": "BACK TO TOP",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/aerospace_and_defense/#vendor-voice"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/Profile/contact/"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/Profile/about_the_register/"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/Profile/privacy/"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/Profile/terms_and_conditions_of_use/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        }
+    ],
+    "text_length": 2233,
+    "text_full": "Sign in\n\nThe Register Home Page\n\nSearch\nNavigation\n\nSponsored By\n\nAerospace And Defense\nAutomotive\nEnergy And Utilities\nFinancial Services\nAerospace & Defense: Breaking the barriers to responsible innovation\n\nSOLUTION\n\nLifecycle Optimization for Aerospace\n\nExplore Capgemini’s Aerospace Lifecycle Optimization solution, powered by AWS, which uses advanced analytics, digital engineering and data-driven insights to enhance aircraft performance, streamline maintenance planning and reduce operational costs across the aerospace value chain.\n\nSOLUTION\n\nAWS Digital Continuity\n\nDiscover Capgemini's AWS Digital Continuity solution, designed to ensure seamless data integrity, availability and business resilience across cloud and hybrid environments, enabling organisations to maintain uninterrupted operations, simplify data strategies and maximise value from their digital investments.\n\nSOLUTION\n\nOmniAware Connected Defense\n\nLearn how Capgemini and AWS co-developed OmniAware, a secure, cloud-native defence platform that delivers scalable data ingestion, real-time intelligence and GenAI-ready capabilities with compliance to defence-grade standards, helping defence and intelligence organisations modernise operations while maintaining sovereignty and security.\n\nPODCAST\n\nMaking It Real in Industries with AWS at re:Invent 2025\n\nLive from AWS re:Invent 2025 in Las Vegas, this episode features Tim Murnin from AWS in conversation with the Cloud Realities team, exploring industry trends, the evolving role of the CIO, cloud innovation and what’s shaping the future of tech.\n\nCLIENT SUCCESS STORY\n\nEnabling Aerospace Part Reuse For More Sustainable Practices\n\nRead how Capgemini and AWS developed an AI-driven aerospace platform that automates aircraft analysis, increases parts reuse rates, accelerates decision-making by 30-50% and supports circular economy goals to reduce waste and enhance sustainability across the aerospace value chain.\n\nBACK TO TOP\nThe Register Home Page\n\nBiting the hand that feeds IT\n\nABOUT US\nContact us\nAdvertise with us\nWho we are\nOUR WEBSITES\nThe Next Platform\nDevClass\nBlocks and Files\nYOUR PRIVACY\nCookies Policy\nPrivacy Policy\nTs & Cs\nSituation Publishing\n\nCopyright. All rights reserved © 1998–2026"
+}

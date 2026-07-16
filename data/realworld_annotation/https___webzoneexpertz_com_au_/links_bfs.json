@@ -1,0 +1,79 @@
+{
+  "start_url": "https://webzoneexpertz.com.au/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://webzoneexpertz.com.au/",
+    "https://webzoneexpertz.com.au/about",
+    "https://webzoneexpertz.com.au/web-development",
+    "https://webzoneexpertz.com.au/mobile-application",
+    "https://webzoneexpertz.com.au/dedicated-hiring",
+    "https://webzoneexpertz.com.au/domain-hosting",
+    "https://webzoneexpertz.com.au/search-engine-optimization",
+    "https://webzoneexpertz.com.au/social-media-optimization",
+    "https://webzoneexpertz.com.au/google-place-marketing",
+    "https://webzoneexpertz.com.au/pay-per-click"
+  ],
+  "by_depth": {
+    "0": [
+      "https://webzoneexpertz.com.au/"
+    ],
+    "1": [
+      "https://webzoneexpertz.com.au/about",
+      "https://webzoneexpertz.com.au/web-development",
+      "https://webzoneexpertz.com.au/mobile-application",
+      "https://webzoneexpertz.com.au/dedicated-hiring",
+      "https://webzoneexpertz.com.au/domain-hosting"
+    ],
+    "2": [
+      "https://webzoneexpertz.com.au/search-engine-optimization",
+      "https://webzoneexpertz.com.au/social-media-optimization",
+      "https://webzoneexpertz.com.au/google-place-marketing",
+      "https://webzoneexpertz.com.au/pay-per-click",
+      "https://webzoneexpertz.com.au/logo-design",
+      "https://webzoneexpertz.com.au/e-commerce-website-development",
+      "https://webzoneexpertz.com.au/packages",
+      "https://webzoneexpertz.com.au/website-2",
+      "https://webzoneexpertz.com.au/seo",
+      "https://webzoneexpertz.com.au/gll",
+      "https://webzoneexpertz.com.au/reels",
+      "https://webzoneexpertz.com.au/blog",
+      "https://webzoneexpertz.com.au/cost-calculator",
+      "https://webzoneexpertz.com.au/contact",
+      "https://webzoneexpertz.com.au/website-design",
+      "https://webzoneexpertz.com.au/web-application-development",
+      "https://webzoneexpertz.com.au/small-business-website",
+      "https://webzoneexpertz.com.au/e-commerce-website-design",
+      "https://webzoneexpertz.com.au/e-commerce-app",
+      "https://webzoneexpertz.com.au/seo-services",
+      "https://webzoneexpertz.com.au/social-media-marketing",
+      "https://webzoneexpertz.com.au/ppc-management",
+      "https://webzoneexpertz.com.au/content-marketing-services",
+      "https://webzoneexpertz.com.au/android-app-development",
+      "https://webzoneexpertz.com.au/ios-app-development"
+    ],
+    "3": [
+      "https://webzoneexpertz.com.au/hybrid-app-development",
+      "https://webzoneexpertz.com.au/brand-identity",
+      "https://webzoneexpertz.com.au/brochure-design",
+      "https://webzoneexpertz.com.au/explainer-video",
+      "https://webzoneexpertz.com.au/portfolio",
+      "https://webzoneexpertz.com.au/graphicdesign",
+      "https://webzoneexpertz.com.au/index.php/web-development",
+      "https://webzoneexpertz.com.au/index.php/mobile-application",
+      "https://webzoneexpertz.com.au/index.php/domain-hosting",
+      "https://webzoneexpertz.com.au/index.php/search-engine-optimization",
+      "https://webzoneexpertz.com.au/index.php/social-media-optimization",
+      "https://webzoneexpertz.com.au/index.php/google-place-marketing",
+      "https://webzoneexpertz.com.au/index.php/pay-per-click",
+      "https://webzoneexpertz.com.au/index.php/logo-design",
+      "https://webzoneexpertz.com.au/index.php/e-commerce-website-development",
+      "https://webzoneexpertz.com.au/about-us",
+      "https://webzoneexpertz.com.au/services/web-development",
+      "https://webzoneexpertz.com.au/services/mobile-application",
+      "https://webzoneexpertz.com.au/payment-pin"
+    ]
+  },
+  "dead_links": []
+}

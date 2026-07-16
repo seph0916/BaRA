@@ -1,0 +1,333 @@
+{
+    "image_count": 33,
+    "images": [
+        "https://hey.paris/images/books/kaleidoscope.jpg",
+        "https://hey.paris/images/books/unity-cookbook-2.jpg",
+        "https://hey.paris/images/books/practical-simulations-ml-zh.jpg",
+        "https://hey.paris/images/books/practical-simulations-ml.jpg",
+        "https://hey.paris/images/books/head-first-swift-zh.jpg",
+        "https://hey.paris/images/books/head-first-swift.jpg",
+        "https://hey.paris/images/books/unity-cookbook-1.jpg",
+        "https://hey.paris/images/books/practical-ai-swift-zh.jpg",
+        "https://hey.paris/images/books/practical-ai-swift.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-3-zh.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-3.jpg",
+        "https://hey.paris/images/books/learning-swift-3-zh.jpg",
+        "https://hey.paris/images/books/learning-swift-3.jpg",
+        "https://hey.paris/images/books/mobile-game-unity-ja.jpg",
+        "https://hey.paris/images/books/mobile-game-unity-pl.jpg",
+        "https://hey.paris/images/books/mobile-game-unity-zh.jpg",
+        "https://hey.paris/images/books/mobile-game-unity.jpg",
+        "https://hey.paris/images/books/learning-swift-2.jpg",
+        "https://hey.paris/images/books/kerbal-guide.jpg",
+        "https://hey.paris/images/books/learning-swift-1-zh.jpg",
+        "https://hey.paris/images/books/learning-swift-1.jpg",
+        "https://hey.paris/images/books/whats-new-swift-3.jpg",
+        "https://hey.paris/images/books/swift-apple-watch.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-2-zh.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-2.jpg",
+        "https://hey.paris/images/books/swift-cocoa.jpg",
+        "https://hey.paris/images/books/ios-game-cookbook-1.jpg",
+        "https://hey.paris/images/books/learning-cocoa-4.jpg",
+        "https://hey.paris/images/books/learning-cocoa-3-pt.jpg",
+        "https://hey.paris/images/books/learning-cocoa-3-zh.jpg",
+        "https://hey.paris/images/books/learning-cocoa-3.jpg",
+        "https://hey.paris/images/books/unity-dummies.jpg",
+        "https://hey.paris/images/books/iphone-ipad-dummies.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 72,
+    "links": [
+        {
+            "text": "Paris Buttfield-Addison",
+            "href": "https://hey.paris/"
+        },
+        {
+            "text": "EVENTS",
+            "href": "https://hey.paris/books-and-events/events/"
+        },
+        {
+            "text": "WRITING",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://hey.paris/about/"
+        },
+        {
+            "text": "POSTS",
+            "href": "https://hey.paris/all-posts/"
+        },
+        {
+            "text": "The Game Narrative Kaleidoscope",
+            "href": "https://www.inklestudios.com/kaleidoscope/"
+        },
+        {
+            "text": "Unity Development Cookbook, 2nd Ed.",
+            "href": "https://www.oreilly.com/library/view/unity-development-cookbook/9781098113704/"
+        },
+        {
+            "text": "Practical Simulations for Machine Learning",
+            "href": "https://www.oreilly.com/library/view/practical-simulations-for/9781492089919/"
+        },
+        {
+            "text": "Head First Swift",
+            "href": "https://www.oreilly.com/library/view/head-first-swift/9781491923184/"
+        },
+        {
+            "text": "Unity Game Development Cookbook",
+            "href": "https://www.oreilly.com/library/view/unity-game-development/9781491999141/"
+        },
+        {
+            "text": "Practical Artificial Intelligence with Swift",
+            "href": "https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/"
+        },
+        {
+            "text": "iOS Swift Game Development Cookbook, 3rd Ed.",
+            "href": "https://www.oreilly.com/library/view/ios-swift-game/9781491999073/"
+        },
+        {
+            "text": "Learning Swift, 3rd Ed.",
+            "href": "https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/"
+        },
+        {
+            "text": "Mobile Game Development with Unity",
+            "href": "https://www.oreilly.com/library/view/mobile-game-development/9781491944738/"
+        },
+        {
+            "text": "Learning Swift, 2nd Ed.",
+            "href": "https://www.oreilly.com/library/view/learning-swift-2nd/9781491967058/"
+        },
+        {
+            "text": "The Kerbal Player's Guide",
+            "href": "https://www.oreilly.com/library/view/the-kerbal-players/9781491913475/"
+        },
+        {
+            "text": "Learning Swift, 1st Ed.",
+            "href": "https://www.oreilly.com/library/view/learning-swift/9781491940730/"
+        },
+        {
+            "text": "What's New in Swift 3",
+            "href": "https://www.oreilly.com/library/view/whats-new-in/9781492049050/"
+        },
+        {
+            "text": "Swift Development for the Apple Watch",
+            "href": "https://www.oreilly.com/library/view/swift-development-for/9781491925263/"
+        },
+        {
+            "text": "iOS Swift Game Development Cookbook, 2nd Ed.",
+            "href": "https://www.oreilly.com/library/view/ios-swift-game/9781491920794/"
+        },
+        {
+            "text": "Swift Development with Cocoa",
+            "href": "https://www.oreilly.com/library/view/swift-development-with/9781491909683/"
+        },
+        {
+            "text": "iOS Game Development Cookbook",
+            "href": "https://www.oreilly.com/library/view/ios-game-development/9781449369644/"
+        },
+        {
+            "text": "Learning Cocoa with Objective-C, 4th Ed.",
+            "href": "https://www.oreilly.com/library/view/learning-cocoa-with/9781491901380/"
+        },
+        {
+            "text": "Learning Cocoa with Objective-C, 3rd Ed.",
+            "href": "https://www.oreilly.com/library/view/learning-cocoa-with/9781449355432/"
+        },
+        {
+            "text": "Unity Mobile Game Development For Dummies",
+            "href": "https://www.wiley.com/en-us/Unity+Mobile+Game+Development+for+Dummies-p-9780470937662"
+        },
+        {
+            "text": "iPhone & iPad Game Development For Dummies",
+            "href": "https://www.wiley.com/en-gb/iPhone+and+iPad+Game+Development+For+Dummies-p-9780470599105"
+        },
+        {
+            "text": "The Chair",
+            "href": "https://hey.paris/fiction/the-chair/"
+        },
+        {
+            "text": "Bolted Down",
+            "href": "https://hey.paris/fiction/bolted-down/"
+        },
+        {
+            "text": "The Last Session",
+            "href": "https://hey.paris/posts/finalsession/"
+        },
+        {
+            "text": "Signal to Noise",
+            "href": "https://hey.paris/fiction/signal-to-noise/"
+        },
+        {
+            "text": "Gerrik of Puddle",
+            "href": "https://hey.paris/fiction/gerrik-of-puddle/"
+        },
+        {
+            "text": "The Game Narrative Kaleidoscope",
+            "href": "https://www.inklestudios.com/kaleidoscope/"
+        },
+        {
+            "text": "Unity Development Cookbook Second Edition",
+            "href": "https://www.oreilly.com/library/view/unity-development-cookbook/9781098113704/"
+        },
+        {
+            "text": "Practical Simulations for Machine Learning",
+            "href": "https://www.oreilly.com/library/view/practical-simulations-for/9781492089919/"
+        },
+        {
+            "text": "機器學習模擬應用｜將合成資料運用於AI",
+            "href": "https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&bn=A715"
+        },
+        {
+            "text": "Head First Swift",
+            "href": "https://www.oreilly.com/library/view/head-first-swift/9781491923184/"
+        },
+        {
+            "text": "深入淺出Swift程式設計",
+            "href": "https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&bn=A550"
+        },
+        {
+            "text": "Unity Game Development Cookbook (First Edition)",
+            "href": "https://www.oreilly.com/library/view/unity-game-development/9781491999141/"
+        },
+        {
+            "text": "Practical Artificial Intelligence with Swift",
+            "href": "https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/"
+        },
+        {
+            "text": "Swift 人工智能实战：从基础理论到AI 驱动的应用程序开发",
+            "href": "https://www.oreilly.com/library/view/swift-ai/9787111675389/"
+        },
+        {
+            "text": "iOS Swift Game Development Cookbook (Third Edition)",
+            "href": "https://www.oreilly.com/library/view/ios-swift-game/9781491999073/"
+        },
+        {
+            "text": "Swift游戏开发经典实例: iOS Swift Game Development Cookbook (Third Edition)",
+            "href": "https://www.oreilly.com/library/view/swift/9787519840129/"
+        },
+        {
+            "text": "Learning Swift (Third Edition)",
+            "href": "https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/"
+        },
+        {
+            "text": "Swift 學習手冊 第三版",
+            "href": "https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&bn=A558"
+        },
+        {
+            "text": "Mobile Game Development with Unity",
+            "href": "https://www.oreilly.com/library/view/mobile-game-development/9781491944738/"
+        },
+        {
+            "text": "Unityによるモバイルゲーム開発 ―作りながら学ぶ2D/3Dゲームプログラミング入門",
+            "href": "https://www.oreilly.com/library/view/unity-2d3d/9784873118505/"
+        },
+        {
+            "text": "Unity Tworzenie gier mobilnych",
+            "href": "https://www.oreilly.com/library/view/unity/9781098125011/"
+        },
+        {
+            "text": "Unity行動遊戲開發實務",
+            "href": "https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&bn=A445"
+        },
+        {
+            "text": "Learning Swift (Second Edition)",
+            "href": "https://www.oreilly.com/library/view/learning-swift-2nd/9781491967058/"
+        },
+        {
+            "text": "The Kerbal Player’s Guide",
+            "href": "https://www.oreilly.com/library/view/the-kerbal-players/9781491913475/"
+        },
+        {
+            "text": "Learning Swift (First Edition)",
+            "href": "https://www.oreilly.com/library/view/learning-swift/9781491940730/"
+        },
+        {
+            "text": "Swift学习手册",
+            "href": "https://www.oreilly.com/library/view/swift/9787519803223/"
+        },
+        {
+            "text": "What’s New in Swift 3",
+            "href": "https://www.oreilly.com/library/view/whats-new-in/9781492049050/"
+        },
+        {
+            "text": "Swift Development for the Apple Watch",
+            "href": "https://www.oreilly.com/library/view/swift-development-for/9781491925263/"
+        },
+        {
+            "text": "iOS Swift Game Development Cookbook (Second Edition)",
+            "href": "https://www.oreilly.com/library/view/ios-swift-game/9781491920794/"
+        },
+        {
+            "text": "iOS Swift 遊戲程式開發錦囊妙計 第二版",
+            "href": "https://www.oreilly.com/library/view/ios-swift/9789863479048/"
+        },
+        {
+            "text": "Swift Development with Cocoa",
+            "href": "https://www.oreilly.com/library/view/swift-development-with/9781491909683/"
+        },
+        {
+            "text": "iOS Game Development Cookbook (First Edition)",
+            "href": "https://www.oreilly.com/library/view/ios-game-development/9781449369644/"
+        },
+        {
+            "text": "Learning Cocoa with Objective-C (Fourth Edition)",
+            "href": "https://www.oreilly.com/library/view/learning-cocoa-with/9781491901380/"
+        },
+        {
+            "text": "Learning Cocoa with Objective-C (Third Edition)",
+            "href": "https://www.oreilly.com/library/view/learning-cocoa-with/9781449355432/"
+        },
+        {
+            "text": "Aprendendo Cocoa com Objective-C",
+            "href": "https://novatec.com.br/livros/aprendendo-cocoa-com-objective-c/"
+        },
+        {
+            "text": "Cocoa學習手冊：使用Objective-C(第三版)",
+            "href": "https://www.oreilly.com/library/view/cocoa-objective-c/9789862768136/"
+        },
+        {
+            "text": "Unity Mobile Game Development for Dummies",
+            "href": "https://search.worldcat.org/title/751100288"
+        },
+        {
+            "text": "iPhone and iPad Game Development For Dummies",
+            "href": "https://www.wiley.com/en-gb/iPhone+and+iPad+Game+Development+For+Dummies-p-9780470599105"
+        },
+        {
+            "text": "Développer des jeux pour iPhone et iPad pour les Nuls",
+            "href": "https://search.worldcat.org/title/717622899"
+        },
+        {
+            "text": "A better recipe for game jams: using the Mechanics Dynamics Aesthetics framework for planning",
+            "href": "https://hey.paris/papers/buttfield-addison2016.pdf"
+        },
+        {
+            "text": "“It’s useless for that”: Finding, Frustration, and Fun with Mobile Technology in Outdoor Markets",
+            "href": "https://hey.paris/papers/nugent2016.pdf"
+        },
+        {
+            "text": "SMART-AF: Development of a decision support smartphone app to improve antithrombotic prescribing in atrial fibrillation",
+            "href": "https://hey.paris/papers/chalmers2015.pdf"
+        },
+        {
+            "text": "iPad as PIM device: input, interrelation and indexes",
+            "href": "https://hey.paris/papers/285.pdf"
+        },
+        {
+            "text": "“Everything goes into or out of the iPad” – the iPad, information scraps and personal information management",
+            "href": "https://hey.paris/papers/OzCHI12EverythinggoesintooroutoftheiPad.pdf"
+        },
+        {
+            "text": "The pile of least effort: supporting lived document management practices",
+            "href": "https://hey.paris/papers/buttfield-addison2009.pdf"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://hey.paris/privacy/"
+        }
+    ],
+    "text_length": 6696,
+    "text_full": "Paris Buttfield-Addison\nTechnology · Policy · Games · Arts · Education · Writing\nEVENTS\nWRITING\nABOUT\nPOSTS\nWriting\nThe Game Narrative Kaleidoscope\nUnity Development Cookbook, 2nd Ed.\nPractical Simulations for Machine Learning\nHead First Swift\nUnity Game Development Cookbook\nPractical Artificial Intelligence with Swift\niOS Swift Game Development Cookbook, 3rd Ed.\nLearning Swift, 3rd Ed.\nMobile Game Development with Unity\nLearning Swift, 2nd Ed.\nThe Kerbal Player's Guide\nLearning Swift, 1st Ed.\nWhat's New in Swift 3\nSwift Development for the Apple Watch\niOS Swift Game Development Cookbook, 2nd Ed.\nSwift Development with Cocoa\niOS Game Development Cookbook\nLearning Cocoa with Objective-C, 4th Ed.\nLearning Cocoa with Objective-C, 3rd Ed.\nUnity Mobile Game Development For Dummies\niPhone & iPad Game Development For Dummies\nFiction\n\nOccasionally (more often than not, lately) I pretend I can write fiction:\n\nThe Chair (short story)\nBolted Down (short story)\nThe Last Session (short story)\nSignal to Noise (short story, 2025)\nGerrik of Puddle (short story, 2026)\nBooks\n\nFor nearly 15 years, I wrote a lot of technical books, initially for Wiley, and then for O’Reilly Media. I’m currently taking a deliberate break from writing books, but hope to return to it in the future.\n\nThe Game Narrative Kaleidoscope\n\nThe Game Narrative Kaleidoscope (inkle, 2026) — 100+ essays on the craft of game writing, collated by Jon Ingold.\n\nUnity Development Cookbook Second Edition\n\nEnglish: Unity Development Cookbook Second Edition (O’Reilly Media, 2023)\n\nPractical Simulations for Machine Learning\n\nEnglish: Practical Simulations for Machine Learning (O’Reilly Media, 2022)\nChinese: 機器學習模擬應用｜將合成資料運用於AI (Gotop Information, 2022)\n\nHead First Swift\n\nEnglish: Head First Swift (O’Reilly Media, 2021)\nChinese: 深入淺出Swift程式設計 (Gotop Information, 2022)\n\nUnity Game Development Cookbook (First Edition)\n\nEnglish: Unity Game Development Cookbook (First Edition) (O’Reilly Media, 2019)\n\nPractical Artificial Intelligence with Swift\n\nEnglish: Practical Artificial Intelligence with Swift (O’Reilly Media, 2019)\nChinese: Swift 人工智能实战：从基础理论到AI 驱动的应用程序开发 (China Machine Press, 2019)\n\niOS Swift Game Development Cookbook (Third Edition)\n\nEnglish: iOS Swift Game Development Cookbook (Third Edition) (O’Reilly Media, 2018)\nChinese: Swift游戏开发经典实例: iOS Swift Game Development Cookbook (Third Edition) (Gotop Information, 2020)\n\nLearning Swift (Third Edition)\n\nEnglish: Learning Swift (Third Edition) (O’Reilly Media, 2018)\nChinese: Swift 學習手冊 第三版 (Gotop Information, 2018)\n\nMobile Game Development with Unity\n\nEnglish: Mobile Game Development with Unity (O’Reilly Media, 2017)\nJapanese: Unityによるモバイルゲーム開発 ―作りながら学ぶ2D/3Dゲームプログラミング入門 (O’Reilly Japan, 2017)\nPolish: Unity Tworzenie gier mobilnych. (Helion, 2018)\nChinese: Unity行動遊戲開發實務 (Gotop Information, 2018)\n\nLearning Swift (Second Edition)\n\nEnglish: Learning Swift (Second Edition) (O’Reilly Media, 2017)\n\nThe Kerbal Player’s Guide\n\nEnglish: The Kerbal Player’s Guide (O’Reilly Media, 2017)\n\nLearning Swift (First Edition)\n\nEnglish: Learning Swift (First Edition) (O’Reilly Media, 2016)\nChinese: Swift学习手册 (China Electric Power Press, 2017)\n\nWhat’s New in Swift 3\n\nEnglish: What’s New in Swift 3 (O’Reilly Media, 2016)\n\nSwift Development for the Apple Watch\n\nEnglish: Swift Development for the Apple Watch (O’Reilly Media, 2016)\n\niOS Swift Game Development Cookbook (Second Edition)\n\nEnglish: iOS Swift Game Development Cookbook (Second Edition) (O’Reilly Media, 2015)\nChinese: iOS Swift 遊戲程式開發錦囊妙計 第二版 (GoTop Information, 2015)\n\nSwift Development with Cocoa\n\nEnglish: Swift Development with Cocoa (O’Reilly Media, 2014)\n\niOS Game Development Cookbook (First Edition)\n\nEnglish: iOS Game Development Cookbook (First Edition) (O’Reilly Media, 2014)\n\nLearning Cocoa with Objective-C (Fourth Edition)\n\nEnglish:Learning Cocoa with Objective-C (Fourth Edition) (O’Reilly Media, 2014)\n\nLearning Cocoa With Objective-C (Third Edition)\n\nEnglish: Learning Cocoa with Objective-C (Third Edition) (O’Reilly Media, 2012)\nPortuguese: Aprendendo Cocoa com Objective-C (Novatec, 2013)\nChinese: Cocoa學習手冊：使用Objective-C(第三版) (GoTop Information, 2013)\n\nGamification: how we can use game mechanics in areas that are not a game\n\nEnglish: Gamification: how we can use game mechanics in areas that are not a game (Media Evolution, 2011)\n\nUnity Mobile Game Development for Dummies\n\nEnglish: Unity Mobile Game Development for Dummies (Wiley Publishing, 2011)\n\niPhone and iPad Game Development For Dummies\n\nEnglish: iPhone and iPad Game Development For Dummies (Wiley Publishing, 2010)\nFrench: Développer des jeux pour iPhone et iPad pour les Nuls (Wiley Publishing, 2011)\nSelected Papers\n\nI also occasionally put my PhD to use, and pretend to be an academic. Here are some of the papers I’ve written:\n\nButtfield-Addison, P., Manning, J., & Nugent, T. (2016). A better recipe for game jams: using the Mechanics Dynamics Aesthetics framework for planning. In proceedings of the International Conference on Game Jams, Hackathons, and Game Creation Events 2016.\nManning, J., Buttfield-Addison, P., Nugent, T, & Lueg, C. (2015). User Interfaces in Science Fiction in Video Games. Presented at OzCHI 2015, workshop on HCI and Science-Fiction: Inspirations, Achievements, or a Mismatch 2015.\nNugent, T., Buttfield-Addison, P., Lueg, C., & Dermoudy, J. (2015). “It’s useless for that”: Finding, Frustration, and Fun with Mobile Technology in Outdoor Markets. In proceedings of 2015 Joint APSA-ASCEPT Annual Conference 2015.\nChalmers, L., Bereznicki, L., Prasad, R., Hancock, N., MacIntyre, PD., McKenzie, DS., Boland, CM., Frain, B., & Buttfield-Addison, P. (2015). SMART-AF: Development of a decision support smartphone app to improve antithrombotic prescribing in atrial fibrillation. In proceedings of the 2015 International Conference on Pervasive Computing Technologies for Healthcare.\nButtfield-Addison, P., Lueg, C., & Ellis, L. (2013). iPad as PIM device: input, interrelation and indexes. In proceedings of iConference 2013.\nButtfield-Addison, P., Lueg, C., Ellis, L., & Manning, J. (2012). “Everything goes into or out of the iPad” – the iPad, information scraps and personal information management. In proceedings of OZCHI 2012.\nBurns, P., Buttfield-Addison, P., D’Orazio, M., & Nugent, T. (2011). The Serendipity Engine. OZCHI 2011 Design Challenge.\nManning, J. A., Lueg, C., & Buttfield-Addison, P. S. (2009). Avoiding creepy people: social networks increasing the pleasure of carpooling. OZCHI 2009.\nButtfield-Addison, P., & Lueg, C. (2009). The pile of least effort: supporting lived document management practices. In proceedings of OZCHI 2009.\n\n© 2026 Dr Paris Buttfield-Addison · Privacy"
+}

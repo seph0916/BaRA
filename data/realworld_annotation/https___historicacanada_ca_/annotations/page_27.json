@@ -1,0 +1,672 @@
+{
+    "image_count": 108,
+    "images": [
+        "https://www.historicacanada.ca/img/logo.svg",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2025%2F09%2F30%2Fadagg.jpg.720x405_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2024%2F10%2F28%2FMRH_THUMBNAIL_1.jpg.720x405_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2025%2F05%2F07%2Fbora-las-yt.jpg.720x405_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FGreyOwl_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F17%2FWinnie_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FSittingBull_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FBorduas_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FMarconi_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FMcLuhan_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FSandfordFleming_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FAvro_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FJohnMcCrae_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FNitro_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FReseau_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FMauriceRichard_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FSecord_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75",
+        "https://www.historicacanada.ca/_next/image?url=https%3A%2F%2Fwww.historicacanada.ca%2Fcms%2Fpublic%2Fimages%2F2023%2F03%2F21%2FVoltigeurs_FR.jpg.320x180_q85_crop-smart_upscale.jpg&w=3840&q=75"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 138,
+    "links": [
+        {
+            "text": "Sauter au contenu",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes#page-header"
+        },
+        {
+            "text": "",
+            "href": "https://www.historicacanada.ca/fr"
+        },
+        {
+            "text": "À Propos",
+            "href": "https://www.historicacanada.ca/fr/a-propos"
+        },
+        {
+            "text": "Programmes",
+            "href": "https://www.historicacanada.ca/fr/programmes"
+        },
+        {
+            "text": "Nouvelles et médias",
+            "href": "https://www.historicacanada.ca/fr/nouvelles-medias"
+        },
+        {
+            "text": "DONS",
+            "href": "https://www.historicacanada.ca/fr/dons"
+        },
+        {
+            "text": "EN",
+            "href": "https://www.historicacanada.ca/productions/minutes"
+        },
+        {
+            "text": "MINUTES DU PATRIMOINE",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes"
+        },
+        {
+            "text": "BALADOS",
+            "href": "https://www.historicacanada.ca/fr/productions/balados"
+        },
+        {
+            "text": "VIDÉOS",
+            "href": "https://www.historicacanada.ca/fr/productions/videos-educatives"
+        },
+        {
+            "text": "GUIDES D'ÉDUCATION",
+            "href": "https://www.historicacanada.ca/fr/productions/guides"
+        },
+        {
+            "text": "RECHERCHER DES PRODUCTIONS",
+            "href": "https://www.historicacanada.ca/fr/productions/rechercher"
+        },
+        {
+            "text": "Accueil",
+            "href": "https://www.historicacanada.ca/fr"
+        },
+        {
+            "text": "Anne Innis Dagg\nNouveau!\nEn 1956, la Dre Anne Innis Dagg est devenue la première chercheuse occidentale à étudier un mammifère en milieu sauvage en Afrique. Elle est toujours considérée comme l’une des plus grandes expertes en matière de girafes.",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/anne-innis-dagg"
+        },
+        {
+            "text": "Mary Riter Hamilton\nLe choix de l'équipe\nMary Riter Hamilton a peint les champs de bataille après la Première Guerre mondiale pour témoigner de son coût dévastateur. Elle a souffert de maladies mentales et physiques en raison de ses peintures témoignant des expériences des soldats canadiens",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/minutes-du-patrimoine-mary-riter-hamilton"
+        },
+        {
+            "text": "Bora Laskin\nPopulaire\nBora Laskin, l’un des plus grands juristes du Canada, a surmonté l’antisémitisme pour devenir le premier juge en chef juif de la Cour suprême du Canada.",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/bora-laskin"
+        },
+        {
+            "text": "Rechercher et filtrer",
+            "href": "https://www.historicacanada.ca/fr/productions/rechercher?sr=1"
+        },
+        {
+            "text": "Anne Innis Dagg\n2025",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/anne-innis-dagg"
+        },
+        {
+            "text": "Bora Laskin\n2025",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/bora-laskin"
+        },
+        {
+            "text": "Edwin A. Baker\n2024",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/minutes-du-patrimoine-edwin-a-baker"
+        },
+        {
+            "text": "Mary Riter Hamilton\n2024",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/minutes-du-patrimoine-mary-riter-hamilton"
+        },
+        {
+            "text": "Norman Kwong\n2024",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/norman-kwong"
+        },
+        {
+            "text": "Mary « Bonnie » Baker\n2023",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/mary-bonnie-baker"
+        },
+        {
+            "text": "Paldi\n2023",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/paldi"
+        },
+        {
+            "text": "Jackie Shane\n2022",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jackie-shane"
+        },
+        {
+            "text": "Chloe Cooley\n2022",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/chloe-cooley"
+        },
+        {
+            "text": "Tom Longboat\n2022",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/tom-longboat"
+        },
+        {
+            "text": "Oscar Peterson\n2021",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/oscar-peterson"
+        },
+        {
+            "text": "La découverte de l'insuline\n2021",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/la-decouverte-de-linsuline"
+        },
+        {
+            "text": "Libération des Pays-Bas\n2020",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/liberation-des-pays-bas"
+        },
+        {
+            "text": "Elsie MacGill\n2020",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/elsie-macgill"
+        },
+        {
+            "text": "L'Asahi de Vancouver\n2019",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/lasahi-de-vancouver"
+        },
+        {
+            "text": "Jour J\n2019",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jour-j"
+        },
+        {
+            "text": "La déportation des Acadiens\n2019",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/la-deportation-des-acadiens"
+        },
+        {
+            "text": "Lucy Maud Montgomery\n2018",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/lucy-maud-montgomery"
+        },
+        {
+            "text": "Jim Egan\n2018",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jim-egan"
+        },
+        {
+            "text": "Les Grads d'Edmonton\n2017",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-grads-dedmonton"
+        },
+        {
+            "text": "Les réfugiés de la mer\n2017",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-refugies-de-la-mer"
+        },
+        {
+            "text": "Le marché Kensington\n2017",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-marche-kensington"
+        },
+        {
+            "text": "Viola Desmond\n2016",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/viola-desmond"
+        },
+        {
+            "text": "Chanie Wenjack\n2016",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/chanie-wenjack"
+        },
+        {
+            "text": "Naskumituwin (traité)\n2016",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/naskumituwin-traite"
+        },
+        {
+            "text": "Kenojuak Ashevak\n2016",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/kenojuak-ashevak"
+        },
+        {
+            "text": "Les infirmières canadiennes\n2015",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-infirmieres-canadiennes"
+        },
+        {
+            "text": "Terry Fox\n2015",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/terry-fox"
+        },
+        {
+            "text": "Les Falcons de Winnipeg\n2014",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-falcons-de-winnipeg"
+        },
+        {
+            "text": "Les hauteurs de Queenston\n2013",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-hauteurs-de-queenston"
+        },
+        {
+            "text": "Richard Pierpoint\n2012",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/richard-pierpoint"
+        },
+        {
+            "text": "Andrew Mynarski\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/andrew-mynarski"
+        },
+        {
+            "text": "Dextraze au Congo\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/dextraze-au-congo"
+        },
+        {
+            "text": "De retour de la guerre\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/de-retour-de-la-guerre"
+        },
+        {
+            "text": "La crête de Vimy\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/la-crete-de-vimy"
+        },
+        {
+            "text": "La plage de Juno\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/la-plage-de-juno"
+        },
+        {
+            "text": "Mona Parsons\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/mona-parsons"
+        },
+        {
+            "text": "Osborn de Hong Kong\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/osborn-de-hong-kong"
+        },
+        {
+            "text": "Tommy Prince\n2005",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/tommy-prince"
+        },
+        {
+            "text": "J.S. Woodsworth\n2003",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/js-woodsworth"
+        },
+        {
+            "text": "Lucille Teasdale\n2000",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/lucille-teasdale"
+        },
+        {
+            "text": "Stratford\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/stratford"
+        },
+        {
+            "text": "Expo '67\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/expo-67"
+        },
+        {
+            "text": "John Humphrey\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/john-humphrey"
+        },
+        {
+            "text": "Le Collège Frontière\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-college-frontiere"
+        },
+        {
+            "text": "Marion Orr\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/marion-orr"
+        },
+        {
+            "text": "Le sirop\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-sirop"
+        },
+        {
+            "text": "Jackie Robinson\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jackie-robinson"
+        },
+        {
+            "text": "Nat Taylor\n1997",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/nat-taylor"
+        },
+        {
+            "text": "Hart et Papineau\n1995",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/hart-et-papineau"
+        },
+        {
+            "text": "L'équipe de Paris\n1995",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/lequipe-de-paris"
+        },
+        {
+            "text": "Pauline Vanier\n1995",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/pauline-vanier"
+        },
+        {
+            "text": "La pompe\n1995",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/la-pompe"
+        },
+        {
+            "text": "Le Bluenose\n1995",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-bluenose"
+        },
+        {
+            "text": "L'hôpital de Myrnam\n1995",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/lhopital-de-myrnam"
+        },
+        {
+            "text": "La Bolduc\n1993",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/la-bolduc"
+        },
+        {
+            "text": "Sam Steele\n1993",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/sam-steele"
+        },
+        {
+            "text": "Joseph-Armand Bombardier\n1993",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/joseph-armand-bombardier"
+        },
+        {
+            "text": "Inukshuk\n1993",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/inukshuk"
+        },
+        {
+            "text": "Maurice Ruddick\n1993",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/maurice-ruddick"
+        },
+        {
+            "text": "Maple Leaf Gardens\n1993",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/maple-leaf-gardens"
+        },
+        {
+            "text": "Emily Carr\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/emily-carr"
+        },
+        {
+            "text": "Baldwin et LaFontaine\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/baldwin-et-lafontaine"
+        },
+        {
+            "text": "Joseph Casavant\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/joseph-casavant"
+        },
+        {
+            "text": "L'institutrice rurale de l'Île P.-É.\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/linstitutrice-rurale-de-lile-p-e"
+        },
+        {
+            "text": "Jean Nicollet\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jean-nicollet"
+        },
+        {
+            "text": "Les Vikings\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-vikings"
+        },
+        {
+            "text": "Le gardien de la paix\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-gardien-de-la-paix"
+        },
+        {
+            "text": "Joseph Tyrrell\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/joseph-tyrrell"
+        },
+        {
+            "text": "Le gouverneur Frontenac\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-gouverneur-frontenac"
+        },
+        {
+            "text": "Le grand feu du Saguenay\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-grand-feu-du-saguenay"
+        },
+        {
+            "text": "Basket-ball\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/basket-ball"
+        },
+        {
+            "text": "Agnes Macphail\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/agnes-macphail"
+        },
+        {
+            "text": "Emily Murphy\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/emily-murphy"
+        },
+        {
+            "text": "Les sages-femmes\n1992",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-sages-femmes"
+        },
+        {
+            "text": "Le gouvernement responsable\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-gouvernement-responsable"
+        },
+        {
+            "text": "Jacques Cartier\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jacques-cartier"
+        },
+        {
+            "text": "Jean Cabot\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jean-cabot"
+        },
+        {
+            "text": "Superman\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/superman"
+        },
+        {
+            "text": "Wilder Penfield\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/wilder-penfield"
+        },
+        {
+            "text": "L'explosion d'Halifax\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/lexplosion-dhalifax"
+        },
+        {
+            "text": "Le chemin de la bravoure\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-chemin-de-la-bravoure"
+        },
+        {
+            "text": "Les orphelins d'Irlande\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-orphelins-dirlande"
+        },
+        {
+            "text": "Les maisons de tourbe\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-maisons-de-tourbe"
+        },
+        {
+            "text": "Le chemin de fer clandestin\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-chemin-de-fer-clandestin"
+        },
+        {
+            "text": "Jacques Plante\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jacques-plante"
+        },
+        {
+            "text": "Jennie Trout\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/jennie-trout"
+        },
+        {
+            "text": "Nellie McClung\n1991",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/nellie-mcclung"
+        },
+        {
+            "text": "Étienne Parent\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/etienne-parent"
+        },
+        {
+            "text": "Les drapeaux\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-drapeaux"
+        },
+        {
+            "text": "Grey Owl\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/grey-owl"
+        },
+        {
+            "text": "Winnie\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/winnie"
+        },
+        {
+            "text": "Sitting Bull\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/sitting-bull"
+        },
+        {
+            "text": "Paul-Émile Borduas\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/paul-emile-borduas"
+        },
+        {
+            "text": "Marconi\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/marconi"
+        },
+        {
+            "text": "Marshall McLuhan\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/marshall-mcluhan"
+        },
+        {
+            "text": "Sir Sandford Fleming\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/sir-sandford-fleming"
+        },
+        {
+            "text": "L'Arrow d'Avro\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/larrow-davro"
+        },
+        {
+            "text": "John McCrae\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/john-mccrae"
+        },
+        {
+            "text": "Nitro\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/nitro"
+        },
+        {
+            "text": "Le Réseau\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/le-reseau"
+        },
+        {
+            "text": "Maurice « Rocket » Richard\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/maurice-rocket-richard"
+        },
+        {
+            "text": "Laura Secord\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/laura-secord"
+        },
+        {
+            "text": "Les Voltigeurs de Québec\n1990",
+            "href": "https://www.historicacanada.ca/fr/productions/minutes/les-voltigeurs-de-quebec"
+        },
+        {
+            "text": "À propos",
+            "href": "https://www.historicacanada.ca/fr/a-propos"
+        },
+        {
+            "text": "Emplois",
+            "href": "https://www.historicacanada.ca/fr/a-propos/emplois"
+        },
+        {
+            "text": "Formulaire de demande d’utilisation de contenu de Historica Canada",
+            "href": "https://www.cognitoforms.com/historicacanada1/formulairededemandedutilisationdecontenudehistoricacanada"
+        },
+        {
+            "text": "",
+            "href": "https://www.facebook.com/Historica.Canada/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/HistoricaCanada"
+        },
+        {
+            "text": "",
+            "href": "https://www.instagram.com/historicacanada/"
+        },
+        {
+            "text": "",
+            "href": "https://www.youtube.com/c/HistoricaCanada"
+        },
+        {
+            "text": "",
+            "href": "https://www.tiktok.com/@historicacanada?lang=fr"
+        },
+        {
+            "text": "",
+            "href": "https://ca.linkedin.com/company/historica-canada"
+        },
+        {
+            "text": "",
+            "href": "https://t.snapchat.com/UEjspXuX"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/did:plc:vva5bw27atiw7itylau5zkmi"
+        },
+        {
+            "text": "Le Défi de la citoyenneté",
+            "href": "https://www.thecanadianencyclopedia.ca/fr/quiz/cc-quiz-citoyennete"
+        },
+        {
+            "text": "Minutes du Patrimoine",
+            "href": "https://historicacanada.ca/fr/productions/minutes"
+        },
+        {
+            "text": "Le Projet Mémoire",
+            "href": "http://www.leprojetmemoire.com/"
+        },
+        {
+            "text": "L’Encyclopédie canadienne",
+            "href": "http://encyclopediecanadienne.ca/fr/"
+        },
+        {
+            "text": "Partenariat: Le Monde Se Souvient",
+            "href": "https://lemondesesouvient.ca/"
+        },
+        {
+            "text": "Site créé par DS",
+            "href": "https://sheinin.ca/"
+        }
+    ],
+    "text_length": 4245,
+    "text_full": "Sauter au contenu\nÀ Propos\nProgrammes\nNouvelles et médias\nDONS\nEN\nMINUTES DU PATRIMOINE\nBALADOS\nVIDÉOS\nGUIDES D'ÉDUCATION\nRECHERCHER DES PRODUCTIONS\nAccueil\n / Minutes du patrimoine\nMinutes du patrimoine\n\nLa collection de Minutes du patrimoine est une série bilingue d’annonces d’intérêt public axées sur l’histoire. Chaque court-métrage de 60 secondes dépeint une personnalité, un événement ou un récit marquants de l’histoire du Canada. Présentées pour la première fois en 1991, les Minutes du patrimoine ont été diffusées à la télévision, au cinéma et en ligne.\n\nÉpisodes en vedette\nAnne Innis Dagg\nNouveau!\nEn 1956, la Dre Anne Innis Dagg est devenue la première chercheuse occidentale à étudier un mammifère en milieu sauvage en Afrique. Elle est toujours considérée comme l’une des plus grandes expertes en matière de girafes.\nMary Riter Hamilton\nLe choix de l'équipe\nMary Riter Hamilton a peint les champs de bataille après la Première Guerre mondiale pour témoigner de son coût dévastateur. Elle a souffert de maladies mentales et physiques en raison de ses peintures témoignant des expériences des soldats canadiens\nBora Laskin\nPopulaire\nBora Laskin, l’un des plus grands juristes du Canada, a surmonté l’antisémitisme pour devenir le premier juge en chef juif de la Cour suprême du Canada.\nTous épisodes (104)\nTrier par :\nDate\nA à Z\nRechercher et filtrer\nAnne Innis Dagg\n2025\nBora Laskin\n2025\nEdwin A. Baker\n2024\nMary Riter Hamilton\n2024\nNorman Kwong\n2024\nMary « Bonnie » Baker\n2023\nPaldi\n2023\nJackie Shane\n2022\nChloe Cooley\n2022\nTom Longboat\n2022\nOscar Peterson\n2021\nLa découverte de l'insuline\n2021\nLibération des Pays-Bas\n2020\nElsie MacGill\n2020\nL'Asahi de Vancouver\n2019\nJour J\n2019\nLa déportation des Acadiens\n2019\nLucy Maud Montgomery\n2018\nJim Egan\n2018\nLes Grads d'Edmonton\n2017\nLes réfugiés de la mer\n2017\nLe marché Kensington\n2017\nViola Desmond\n2016\nChanie Wenjack\n2016\nNaskumituwin (traité)\n2016\nKenojuak Ashevak\n2016\nLes infirmières canadiennes\n2015\nTerry Fox\n2015\nLes Falcons de Winnipeg\n2014\nLes hauteurs de Queenston\n2013\nRichard Pierpoint\n2012\nAndrew Mynarski\n2005\nDextraze au Congo\n2005\nDe retour de la guerre\n2005\nLa crête de Vimy\n2005\nLa plage de Juno\n2005\nMona Parsons\n2005\nOsborn de Hong Kong\n2005\nTommy Prince\n2005\nJ.S. Woodsworth\n2003\nLucille Teasdale\n2000\nStratford\n1997\nExpo '67\n1997\nJohn Humphrey\n1997\nLe Collège Frontière\n1997\nMarion Orr\n1997\nLe sirop\n1997\nJackie Robinson\n1997\nNat Taylor\n1997\nHart et Papineau\n1995\nL'équipe de Paris\n1995\nPauline Vanier\n1995\nLa pompe\n1995\nLe Bluenose\n1995\nL'hôpital de Myrnam\n1995\nLa Bolduc\n1993\nSam Steele\n1993\nJoseph-Armand Bombardier\n1993\nInukshuk\n1993\nMaurice Ruddick\n1993\nMaple Leaf Gardens\n1993\nEmily Carr\n1992\nBaldwin et LaFontaine\n1992\nJoseph Casavant\n1992\nL'institutrice rurale de l'Île P.-É.\n1992\nJean Nicollet\n1992\nLes Vikings\n1992\nLe gardien de la paix\n1992\nJoseph Tyrrell\n1992\nLe gouverneur Frontenac\n1992\nLe grand feu du Saguenay\n1992\nBasket-ball\n1992\nAgnes Macphail\n1992\nEmily Murphy\n1992\nLes sages-femmes\n1992\nLe gouvernement responsable\n1991\nJacques Cartier\n1991\nJean Cabot\n1991\nSuperman\n1991\nWilder Penfield\n1991\nL'explosion d'Halifax\n1991\nLe chemin de la bravoure\n1991\nLes orphelins d'Irlande\n1991\nLes maisons de tourbe\n1991\nLe chemin de fer clandestin\n1991\nJacques Plante\n1991\nJennie Trout\n1991\nNellie McClung\n1991\nÉtienne Parent\n1990\nLes drapeaux\n1990\nGrey Owl\n1990\nWinnie\n1990\nSitting Bull\n1990\nPaul-Émile Borduas\n1990\nMarconi\n1990\nMarshall McLuhan\n1990\nSir Sandford Fleming\n1990\nL'Arrow d'Avro\n1990\nJohn McCrae\n1990\nNitro\n1990\nLe Réseau\n1990\nMaurice « Rocket » Richard\n1990\nLaura Secord\n1990\nLes Voltigeurs de Québec\n1990\n\nHistorica Canada est un organisme de bienfaisance qui offre des programmes dans les deux langues officielles que vous pouvez utiliser afin d’explorer, d’apprendre et de réfléchir à notre histoire et à ce que signifie le fait d’être Canadien.\n\nLe numéro d'entreprise de Historica Canada est 885434720RR0001\n\nÀ propos\nPolitiques\nEmplois\nFormulaire de demande d’utilisation de contenu de Historica Canada\n\nSuivez-nous\nPlus de Historica Canada\nLe Défi de la citoyenneté\nMinutes du Patrimoine\nLe Projet Mémoire\nL’Encyclopédie canadienne\nPartenariat: Le Monde Se Souvient\n© Historica Canada 2026. Tous droits réservés.\nSite créé par DS"
+}

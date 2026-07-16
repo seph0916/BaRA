@@ -1,0 +1,49 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/let-and-context-rspec-pattern/rspec-let-context-pattern_hud62507713aa918dddb5440df59744214_144056_800x0_resize_box_3.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 9,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "← All posts",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "Using Let and Context to Modularize RSpec Tests",
+            "href": "https://piechowski.io/post/let-and-context-rspec-pattern/"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "testing",
+            "href": "https://piechowski.io/tags/testing"
+        }
+    ],
+    "text_length": 432,
+    "text_full": "Work With Me\nGithub\nBlog\n← All posts\nPosts tagged: testing\nDec 23, 2019\nUsing Let and Context to Modularize RSpec Tests\n\nWhen test suites contain a lot of duplication, coupling occurs at an individual spec basis. By utilizing core RSpec functionality, developers can clean up specs in order to reduce duplication and add clarity to the focal point of the spec.\n\nruby\ndevelopment\ntesting\nLet's talk about your codebase.\nEmail\nMessage"
+}

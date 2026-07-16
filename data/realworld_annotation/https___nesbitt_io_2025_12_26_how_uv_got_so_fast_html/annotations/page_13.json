@@ -1,0 +1,143 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 33,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "deep-dive",
+            "href": "https://nesbitt.io/search#deep-dive"
+        },
+        {
+            "text": "FAIR package manager",
+            "href": "https://fair.pm/"
+        },
+        {
+            "text": "I wrote about FAIR in December",
+            "href": "https://nesbitt.io/2025/12/21/federated-package-management.html"
+        },
+        {
+            "text": "wrote candidly about this",
+            "href": "https://joost.blog/fair-wordpress-and-knowing-when-to-stop/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html#typo3"
+        },
+        {
+            "text": "pivoting to TYPO3",
+            "href": "https://fair.pm/blog/2026/02/26/second-star-to-the-right-and-straight-on-till-morning/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html#the-cost-of-a-new-package-manager"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html#beyond-cms-plugins"
+        },
+        {
+            "text": "FAIR blog",
+            "href": "https://fair.pm/blog/2025/11/04/what-is-fair/"
+        },
+        {
+            "text": "Bluesky’s AT Protocol approach to moderation",
+            "href": "https://docs.bsky.app/docs/advanced-guides/moderation"
+        },
+        {
+            "text": "cargo-crev",
+            "href": "https://github.com/crev-dev/cargo-crev"
+        },
+        {
+            "text": "plc.directory",
+            "href": "https://web.plc.directory/"
+        },
+        {
+            "text": "a related idea with PkgFed",
+            "href": "https://nesbitt.io/2026/01/25/pkgfed-activitypub-for-package-releases.html"
+        },
+        {
+            "text": "whale fall",
+            "href": "https://nesbitt.io/2026/02/21/whale-fall.html"
+        },
+        {
+            "text": "Common Package Specification",
+            "href": "https://nesbitt.io/2026/04/13/common-package-specification.html"
+        },
+        {
+            "text": "The Roles of Packages",
+            "href": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html"
+        },
+        {
+            "text": "If It Quacks Like a Package Manager",
+            "href": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+        },
+        {
+            "text": "Package Managers Need to Cool Down",
+            "href": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
+        },
+        {
+            "text": "Package Management is Naming All the Way Down",
+            "href": "https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2026-03-14-whats-going-on-with-fair-package-manager.md"
+        }
+    ],
+    "text_length": 9150,
+    "text_full": "Andrew Nesbitt\n      \nWhat's Going On with FAIR Package Manager\npackage-managersdeep-dive\n\nMar 14, 2026\n\nThe FAIR package manager started as a response to the 2024 Automattic/WP Engine conflict, when Matt Mullenweg used access to the WordPress.org plugin repository as leverage in a business dispute. Plugin authors and hosting companies watched a single person effectively weaponize the central registry, and FAIR was built to make sure that couldn’t happen again, assembling federated package distribution, cryptographic identity with DIDs and ED25519 signatures, and a labeler system borrowed from Bluesky’s moderation architecture under the Linux Foundation in a matter of months.\n\nI wrote about FAIR in December while working through why federated package management keeps running into Zooko’s triangle, the observation that naming systems can have human-readable names, decentralization, and security, but only two at once. FAIR chose secure and decentralized, then had to rebuild central infrastructure for discovery (AspireCloud) and trust (labelers) to make the system usable, which is what any federated registry ends up doing once it needs to be usable by people who don’t want to think about DIDs.\n\nThe WordPress drama cooled off faster than anyone expected, and with it went the political urgency that had been driving FAIR adoption. Joost de Valk, one of FAIR’s founders, wrote candidly about this: the technical work succeeded, but hosting companies wouldn’t invest in something that required them to take sides in a governance fight that had already de-escalated. FAIR became, in Joost’s words, “aspirational rather than actionable” for WordPress. He also acknowledged an uncomfortable truth buried in the original dispute: Mullenweg’s complaint that too many companies profit from WordPress without contributing back has some legitimate economic basis, even if his methods were wrong.\n\nTYPO3#\n\nSo FAIR is pivoting to TYPO3, a PHP-based enterprise CMS with deep roots in German-speaking Europe. Joost and Karim Marucchi have stepped away from day-to-day work, and the project is continuing under its Linux Foundation governance with TYPO3 community collaboration, starting at the CloudFest hackathon. The TYPO3 extension repository has around 2,400 packages available via Composer (and about 9,000 in its traditional extension repository), compared to WordPress’s 60,000+ plugins. The user base is similarly smaller, maybe a tenth the install base and a hundredth the monthly active users.\n\nTYPO3 has stronger traction in Europe, particularly Germany and the Nordics, where digital sovereignty is a live political issue and the EU’s Cyber Resilience Act arriving in December 2027 makes supply chain integrity a regulatory requirement rather than a nice-to-have. FAIR’s labeler system maps neatly onto CRA compliance: independent labelers could verify that extensions meet the Act’s requirements for vulnerability handling, update availability, and software bill of materials, turning what started as a Bluesky-inspired moderation tool into an automated compliance engine. For TYPO3 agencies that will need to demonstrate supply chain diligence to EU regulators, that’s a more concrete value proposition than “decentralization.”\n\nWordPress was always going to be a hard first target because the governance crisis that created demand for FAIR was also the thing that made adoption politically fraught, and TYPO3 doesn’t carry that baggage. The community seems genuinely interested in the technical properties of federated distribution rather than using it as a protest vote against a specific person, and the scale is manageable enough that FAIR’s developers can iterate on the protocol without worrying about breaking sixty thousand plugins.\n\nThe cost of a new package manager#\n\nEven with Linux Foundation backing, partnerships with Fastly for infrastructure and Patchstack for security data, a global team of contributors, and genuine urgency driving the initial development, FAIR still couldn’t sustain itself without ecosystem buy-in from hosting companies willing to fund ongoing work. Joost’s post is pretty clear that you cannot build alternative infrastructure of this magnitude on goodwill alone. The protocol design, the client plugins, the aggregator, the labelers, the explorer interface, the trust model specification all shipped in under a year, which is impressive, but shipping is the easy part compared to the ongoing cost of maintaining a registry that people actually depend on. Anyone who thinks standing up a new package manager is a weekend project should look at what FAIR required and consider that it’s still early days.\n\nBeyond CMS plugins#\n\nThe FAIR blog explicitly names Ghost, Drupal, and Joomla as potential adopters, and the design is intentionally platform-agnostic, with the various components communicating through a protocol layer rather than anything hardcoded to WordPress’s update API.\n\nThe labeler architecture, adapted from Bluesky’s AT Protocol approach to moderation, is the part with the widest applicability. Most package registries today decide both where packages live and which ones get flagged for malware, but FAIR splits those responsibilities apart. Imagine that Snyk, Socket, and Patchstack each ran a labeler, and your package manager’s config specified that you’d only install packages with a passing assessment from at least two of them. The registry wouldn’t need to make judgement calls about what’s safe, and security vendors would compete on the accuracy of their assessments rather than on access to registry internals, which is not how any current package manager works, though I wouldn’t be surprised if we start seeing more projects in this space. cargo-crev already lets Rust developers publish cryptographically signed reviews of crates that others can subscribe to, which is a similar idea applied to peer trust rather than vendor assessment.\n\nFAIR’s DID-based identity system gives every package a cryptographic identity that persists regardless of where it’s hosted, so if a registry disappears or a maintainer gets locked out, the package’s identity travels with it. That matters less for ecosystems where the central registry is stable and well-governed than for the long tail of smaller package managers where a single server going down can take the whole ecosystem offline.\n\nFAIR uses did:plc, the same DID method as Bluesky, which resolves through plc.directory, a centralized global directory that all DID resolution depends on. There are plans to spin it out into an independent organization, but for now FAIR’s “decentralized” identity layer routes through infrastructure operated by a single company. If plc.directory goes down or changes its terms, every DID in the system stops resolving, breaking package identity verification and update trust chains, which means a project built to eliminate single points of failure in package distribution has quietly introduced one in identity resolution.\n\ndid:plc exists because it’s fast and supports key rotation, both important for package signing, but if FAIR wants true sovereignty it would need to support something like did:web, which ties identity to DNS rather than to Bluesky’s infrastructure. That trades one dependency for another, but at least DNS is a commodity that no single company controls.\n\nThe AT Protocol concepts that FAIR borrowed, particularly the labeler pattern and the separation of identity from hosting, have applications well beyond CMS plugins, and I’m curious whether FAIR itself becomes the vehicle or whether other projects pick up the ideas independently. I wrote about a related idea with PkgFed, using ActivityPub to federate package release notifications rather than the packages themselves, and FAIR goes further by federating the actual distribution, which is harder but potentially more valuable for ecosystems where the registry itself is a single point of failure.\n\nFAIR reminds me of the whale fall pattern, except that the WordPress plugin ecosystem didn’t actually die. The governance crisis just revealed how fragile its centralized distribution was, and FAIR evolved to fill a niche that most people didn’t know existed until that fragility became visible. Whether TYPO3 turns out to be its permanent habitat or a stepping stone to broader adoption probably depends on whether communities come to it for the technical properties rather than out of political urgency.\n\nRelated posts\nCommon Package Specification Apr 13, 2026\n\nNot the cross-ecosystem format the name suggests.\n\nThe Roles of Packages Mar 29, 2026\n\nApplying Sajaniemi's roles of variables to packages across every kind of package manager.\n\nIf It Quacks Like a Package Manager Mar 8, 2026\n\nSome tools waddle like package managers without learning to swim.\n\nPackage Managers Need to Cool Down Mar 4, 2026\n\nA survey of dependency cooldown support across package managers and update tools.\n\nPackage Management is Naming All the Way Down Mar 3, 2026\n\nThere are two hard problems in computer science, and package managers found at least eight of them.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

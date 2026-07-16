@@ -1,0 +1,43 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 8,
+    "links": [
+        {
+            "text": "Purcell's Posts",
+            "href": "https://sethpurcell.com/"
+        },
+        {
+            "text": "RSS Feed",
+            "href": "https://sethpurcell.com/rss.xml"
+        },
+        {
+            "text": "leadership",
+            "href": "https://sethpurcell.com/tags/leadership/"
+        },
+        {
+            "text": "1",
+            "href": "https://sethpurcell.com/writing/leadership-is-just-three-things#user-content-fn-1"
+        },
+        {
+            "text": "#",
+            "href": "https://sethpurcell.com/writing/leadership-is-just-three-things#footnote-label"
+        },
+        {
+            "text": "↩",
+            "href": "https://sethpurcell.com/writing/leadership-is-just-three-things#user-content-fnref-1"
+        },
+        {
+            "text": "Previous Post\nMy Top 0x10 Tips for Hiring Great Developers",
+            "href": "https://sethpurcell.com/writing/tips-for-hiring-great-engineers"
+        },
+        {
+            "text": "Next Post\nNotes on Marc Wortman's “Admiral Hyman Rickover”",
+            "href": "https://sethpurcell.com/writing/notes-on-admiral-hyman-rickover"
+        }
+    ],
+    "text_length": 4418,
+    "text_full": "Purcell's Posts\nSend an email to Purcell's Posts\nRSS Feed\nLeadership is Just Three Things\n\nA lot of people seem confused about what leadership is, but it's really very simple.\n\nOct 16, 2024\nleadership\n\nI’m often surprised by how unclear people are on what leadership is and what leaders do. This is partly due to the barrage of confusing nonsense out there like “leadership is about making sure every voice is heard” (sorry, no). But while it may often be difficult to do, the good news is that leadership is very easy to understand. Fundamentally, leadership is about getting multiple people to accomplish one thing. Everything else is just implementation details.\n\nIn many areas of human endeavor, starting with ancient ones like hunting and warfare, a team will usually outperform an individual (due to greater numbers) or an uncoordinated group of individuals (due to greater effectiveness). And leadership is usually required to form, direct, and motivate a team. In other words, leadership exists because some tasks require more than one person to pull them off, more coordination than just showing up, and more motivation than just hanging out.\n\nFor instance, let’s say a band of hunter-gatherers spies some bison grazing near a cliff. One person alone can’t do much to move the herd. But many people acting together can surround the animals, get them into a panic, and drive them over the cliff to their demise.1 For this to happen, someone needs to have the basic idea and sell everyone else on it—“Hey, what if we worked together?”; someone needs to form a plan on how to get it done—“Ok, you’ll go here, I’ll go there, she’ll go that way and start shouting” (and direct the action in real time as the situation evolves); and someone may need to supply motivation if the band is more fearful of getting trampled than hungry—“C’mon, this will provide meat for the whole winter!”\n\nSo in my analysis, leadership involves three distinct functions: unification, direction, and motivation. These functions can all be performed by the same person, or each function can be performed by different (or multiple) people. It doesn’t matter; it’s all leadership. For instance, a great orator can persuade several clans to join forces to defend their land from invaders (unification). Then a trio of generals can decide the strategy of the now-unified army (direction). And then a dozen courageous captains can lead their men to victory by remaining confident about their chances, choosing tactics, and fighting courageously (direction and motivation). Every one of these individuals can be fairly said to have been a leader in the victory, though they did so in different ways and at different scales. (In some cases a situation may be so threatening that it spontaneously creates unity without anyone needing to instigate it, and supplies plenty of motivation besides, leaving the leaders to focus on directing the response to the threat.)\n\nTo beat this horse to death, for a group of humans to successfully accomplish a shared mission, three things must happen. First, they need to become a team, which usually entails defining the mission, and may also require persuading each member that they’re better off as part of the team than on their own, or even negotiating the terms of a union. Second, they usually need to undertake the mission as a directed force rather than chaotically, lest a key advantage of being unified (coordination) be lost. And third, because humans have their own interests and will often cheat, desert, or slack off if they can get away with it, they need to be encouraged to try hard and/or punished for trying to dodge their responsibility. A leader is simply anyone who supplies one or more of these aspects of leadership. Great leaders are able to do this in very difficult situations.\n\nTo sum up: operating as a team is massively advantageous in many high-stakes situations, and leadership is the art of creating and operating teams to maximum effectiveness. It’s the key to how a group of human individuals can transform into a distributed superorganism for the benefit of all its members. Ants don’t need leaders to achieve this! But humans do.\n\nFootnotes#\n\nYes, people really did hunt bison this way. ↩\n\nPrevious Post\nMy Top 0x10 Tips for Hiring Great Developers\nNext Post\nNotes on Marc Wortman's “Admiral Hyman Rickover”\nCopyright © 2026 by Seth Purcell\n | \nHosted on a Raspberry Pi 5"
+}

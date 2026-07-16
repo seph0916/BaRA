@@ -1,0 +1,61 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/vim-tabnew/vim-help-tabnew_huaa90c9621e7cfd80322d8a5f4d061da8_48072_1500x0_resize_q75_h2_box_3.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 12,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "vim",
+            "href": "https://piechowski.io/tags/vim"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "How to Close a Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabclose/"
+        },
+        {
+            "text": "How to Close a Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabclose/"
+        },
+        {
+            "text": "Vim: How to Open Current Opened File in New Tab",
+            "href": "https://piechowski.io/post/how-to-open-current-opened-file-in-new-tab-vim/"
+        },
+        {
+            "text": "The Git Commands I Run Before Reading Any Code",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        },
+        {
+            "text": "Why Your Engineering Team Is Slow (It's the Codebase, Not the People)",
+            "href": "https://piechowski.io/post/codebase-drag-audit/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        }
+    ],
+    "text_length": 1337,
+    "text_full": "Work With Me\nGithub\nBlog\nHow to Open a New Tab in Vim\n\nTo open a new tab in vim, use :tabnew\n\nAlly Piechowski · Feb 10, 2022 · 1 min read\nvim\ndevelopment\n\nIn order to open a new tab in vim, in normal mode type :tabnew.\n\nThis will open a new tab with an empty buffer.\n\nYou can read more by typing :help tabnew, which outputs this message:\n\n:[count]tabe[dit]\t\t\t\t*:tabe* *:tabedit* *:tabnew*\n:[count]tabnew\n\t\tOpen a new tab page with an empty window, after the current\n\t\ttab page. If [count] is given the new tab page appears after\n\t\tthe tabpage [count] otherwise the new tab page will appear\n\t\tafter the current one. >\n\t\t    :tabnew     \" opens tabpage after the current one\n\t\t    :.tabnew    \" as above\n\t\t    :+tabnew    \" opens tabpage after the next tab page\n\t\t\t\t\" note: it is one further than :tabnew\n\t\t    :-tabnew    \" opens tabpage before the current\n\t\t    :0tabnew    \" opens tabpage before the first one\n\t\t    :$tabnew    \" opens tabpage after the last one\n\n\nLooking to close a tab instead? See How to Close a Tab in Vim.\n\nRelated Articles\nHow to Close a Tab in Vim\nVim: How to Open Current Opened File in New Tab\nThe Git Commands I Run Before Reading Any Code\nWhy Your Engineering Team Is Slow (It's the Codebase, Not the People)\nHow I Audit a Legacy Rails Codebase in the First Week\nLet's talk about your codebase.\nEmail\nMessage"
+}

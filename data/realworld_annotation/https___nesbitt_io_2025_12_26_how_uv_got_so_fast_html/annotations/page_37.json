@@ -1,0 +1,139 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 32,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "security",
+            "href": "https://nesbitt.io/search#security"
+        },
+        {
+            "text": "supply-chain",
+            "href": "https://nesbitt.io/search#supply-chain"
+        },
+        {
+            "text": "maintainers",
+            "href": "https://nesbitt.io/search#maintainers"
+        },
+        {
+            "text": "1989 film",
+            "href": "https://en.wikipedia.org/wiki/Weekend_at_Bernie%27s"
+        },
+        {
+            "text": "some detail last week",
+            "href": "https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html"
+        },
+        {
+            "text": "describes",
+            "href": "https://byroot.github.io/ruby/bundler/2026/04/20/bundle-features.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html#what-counts-as-dead"
+        },
+        {
+            "text": "ecosyste.ms",
+            "href": "https://ecosyste.ms/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html#the-numbers"
+        },
+        {
+            "text": "module proxy",
+            "href": "https://proxy.golang.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html#knocking-on-the-door"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html#why-now"
+        },
+        {
+            "text": "filling maintainer inboxes with slop reports",
+            "href": "https://sethmlarson.dev/slop-security-reports"
+        },
+        {
+            "text": "Dumb Ways for an Open Source Project to Die",
+            "href": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html"
+        },
+        {
+            "text": "Free as in Tribbles",
+            "href": "https://nesbitt.io/2026/05/07/free-as-in-tribbles.html"
+        },
+        {
+            "text": "Language Registries Are Unstable by Default",
+            "href": "https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html"
+        },
+        {
+            "text": "Not a Security Issue",
+            "href": "https://nesbitt.io/2026/05/12/not-a-security-issue.html"
+        },
+        {
+            "text": "The Mismeasure of Open Source",
+            "href": "https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2026-05-08-weekend-at-bernies.md"
+        }
+    ],
+    "text_length": 10860,
+    "text_full": "Andrew Nesbitt\n      \nWeekend at Bernie's\nopen-sourcesecuritysupply-chainmaintainers\n\nMay 8, 2026\n\nIn the 1989 film, two junior employees turn up at their boss’s beach house to find him dead, and spend the rest of the weekend wheeling him around the party with sunglasses on so nobody notices. The other guests keep slapping him on the back and putting drinks in his hand. It works because nobody looks too closely and because everyone has a strong incentive for Bernie to still be alive.\n\nI have spent the last couple of weeks trying to work out how many of the open source packages we all depend on are in roughly that condition: resolving in every install, pulling millions of downloads a week, accepting new issues, with nobody behind the sunglasses. I’m asking now rather than a few years ago because AI-assisted vulnerability discovery is changing how often somebody actually checks for a pulse.\n\nThis matters most at the point where one of those packages gets a security report. Sometimes nobody responds at all, the embargo expires, and a CVE is published with no fixed version to point at. Sometimes a fix does get written, often by the reporter or a drive-by contributor, and it lands in git or sits in an open PR, but the one account with publish rights on the registry has gone and the patched code never reaches anyone’s install command.\n\nLinux distributions deal with that second case routinely because distro packagers have always carried patches without waiting for upstream, but language package managers have no equivalent role. The registry namespace belongs to whoever registered it, and if they’re gone there is nobody standing between you and the unpatched tarball. There are per-application workarounds, which I went through in some detail last week, but they put the work on every downstream consumer individually rather than fixing the published artifact once.\n\nThere’s also a quieter way an unmaintained package causes problems that doesn’t need a vulnerability in the package itself. If it declares a tight version range on one of its own dependencies, and that dependency is actively maintained and ships a security release in a new major version, the resolver can’t reach the fix because the dead package’s constraint won’t allow it. Everything downstream gets held on the vulnerable version by a single line in a manifest that nobody is around to edit, which is more or less the situation byroot describes hitting with openssl in Bundler.\n\nWhat counts as dead#\n\nThe naive way to do this is to look at the last commit date, call anything over two years old “abandoned”, and publish a scary number. I didn’t want to do that, because a package with no commits since 2019 isn’t necessarily dead. A lot of the most depended-on packages in any ecosystem are forty lines long, finished, and don’t need commits. The thing I actually want to know is whether anyone would answer if you knocked, and the commit log on its own doesn’t tell you that.\n\nSo I started from the ecosyste.ms critical package set, which is the top packages per registry by a blend of downloads and dependent repos, across sixteen package managers. That gave me 8,606 packages backed by 5,874 distinct repositories. For each repo I pulled a year of commit activity, a year of issue and PR activity, who closed or merged anything, who has publish rights on the registry, the date of the last release, and any security advisories filed against the package. Then I sorted them into four buckets.\n\nActive: regular non-bot commits to the default branch, or a release, in the past year.\nDormant: little or no development, but someone with write access has closed an issue, merged a PR, or pushed a commit in the past year, so a fix could plausibly land.\nDead: the repo is archived, or issues/PRs were filed in the past year and nobody with write access closed, merged, committed or released anything in response.\nUnknown: no issues or PRs filed and no activity, so responsiveness hasn’t been tested.\n\nDead requires evidence of non-response rather than just inactivity, because I’d rather undercount than put a package on a list whose author happened to take a year off.\n\nThe numbers#\n\nOf those 5,874 critical repos, 48.8% are active, 20.2% are dormant, 12.1% are dead, and 18.9% are unknown. So just under half are unambiguously maintained. Twelve percent confirmed dead doesn’t sound enormous, but those 713 repositories back packages whose dependent-repo counts sum to about 290 million (these are edges in the dependency graph, not deduplicated repositories), and adding the dormant and unknown buckets takes that sum well past a billion.\n\nBroken down by ecosystem the dead share wobbles a bit, but it’s in double figures almost everywhere I have enough repos to say anything:\n\necosystem\trepos\tactive\tdormant\tdead\tunknown\tdead %\nnpm\t1599\t578\t385\t181\t455\t11.3\nrubygems\t683\t347\t158\t74\t104\t10.8\ncargo\t580\t365\t95\t69\t51\t11.9\npackagist\t547\t380\t62\t66\t39\t12.1\ngo\t530\t188\t122\t107\t113\t20.2\npypi\t458\t335\t73\t37\t13\t8.1\nhackage\t396\t100\t105\t69\t122\t17.4\nmaven\t370\t234\t36\t27\t73\t7.3\nconda\t302\t202\t53\t12\t35\t4.0\njulia\t173\t34\t34\t37\t68\t21.4\nhex\t153\t73\t35\t17\t28\t11.1\n\nA repo appears under every ecosystem it publishes to, so the columns sum to more than 5,874. I’ve left out the five smallest registries (swiftpm, nuget, cocoapods, pub, cpan) where the sample is under 100 repos and the percentages are mostly noise.\n\nGo’s 20% is high enough not to be noise, and I suspect part of it is import paths going stale when repositories move while the module proxy keeps the old path installable, so nobody downstream is forced to notice. npm sits near the middle on dead share but dominates by absolute volume, and its unknown column is enormous. That’s mostly an artifact of what npm’s critical set looks like: hundreds of tiny utilities that nobody files issues against because there’s nothing to file.\n\nThe top of the dead list, sorted by dependent repos, is almost entirely those tiny npm utilities. fast-deep-equal, fast-json-stable-stringify, utils-merge, require-directory, each with somewhere between three and five million repos depending on them and no maintainer activity in years. About a third of the non-active packages have zero runtime dependencies of their own, so they’re leaves. The most depended-on dead code is also the code with the least in it, which is simultaneously reassuring (very little to go wrong in forty lines) and the entire problem, since there’s also very little reason for anyone to ever read those forty lines again.\n\nKnocking on the door#\n\nOf the 713 dead repos, 322 are formally archived on GitHub, where the owner has at least put up a sign saying so. The other 391 are the Bernies: not archived, often with green squares on the contribution graph from Dependabot commits to branches nobody will ever merge, and an issue tab that’s still accepting input.\n\n321 of them had at least one issue filed by a human in the past year. 243 had at least one pull request opened in the past year with zero merged, and some of those PRs are the fix, sitting there with the patch attached and nobody left who can press the button.\n\nThe registry side is often worse than the repo side: 1,414 of the dead-or-dormant packages have exactly one account with publish rights, and for a lot of the dead ones it’s reasonable to assume that account’s owner has moved on, lost the 2FA device, or forgotten the package exists.\n\nI’m more worried about the dormant bucket than the dead one, since there are considerably more of them and 156 have exactly one person with write access who has done anything in the past year. That one person is also on the receiving end of all the AI-generated report spam and entitled drive-by demands that make solo maintainership steadily less appealing as a way to spend your evenings, and every one of those repos is a single goat-farming career change from the dead column.\n\nWhy now#\n\nA dead package with five million dependents and zero CVEs is unexamined rather than safe, and for most of the last decade that distinction barely mattered. The supply of people willing to spend an afternoon auditing a 200-line string-escaping utility from 2017 was roughly zero, so “nobody has bothered to look” was, in practice, a perfectly good defence.\n\nIt is becoming a much worse one, because the same AI tooling that’s filling maintainer inboxes with slop reports is also, increasingly, finding real things. The cost of pointing a model at a tarball and asking what’s wrong with it has dropped to almost nothing, and the population of people doing that for bounties or for a foothold is growing a great deal faster than the population able to act on what they send in.\n\nAcross the whole critical set there are already 110 published advisories with no patched version available, by which I mean no first_patched_version in the advisory data at all rather than a fix that’s tagged in git but never released. Some are against packages that were dead long before the advisory was filed, so the disclosure process ran its course, the CVE was published, and there is no version to upgrade to. Every other package in the dead bucket is in the same position with respect to the next advisory filed against it.\n\nThe unknown 18.9% bothers me about as much as the dead 12.1%, since those are repos where nobody has filed an issue or a PR in a year and there’s been no test of whether anyone is home. The first security report against any of them will be that test.\n\nA lot of people are about to start running that test at once, on purpose, across whole registries, and a meaningful fraction of what they find will be real. When the report lands on a package in the dead column there is currently no good path for it: no distro-style downstream packager who can publish under the same name, and abandoned-package policies at most registries that assume someone wants to take ownership of the name rather than just get one fix out.\n\nTreating every entry in the lockfile as though there’s a maintainer behind it who’ll handle whatever comes in has been a workable assumption mainly because so few reports were ever filed. Registries and the communities around them are going to need an actual process for a valid CVE against a package with nobody to receive it, and right now most of them don’t have one.\n\nRelated posts\nDumb Ways for an Open Source Project to Die May 19, 2026\n\nHow your dependencies became Bernies\n\nFree as in Tribbles May 7, 2026\n\nThe next metaphor after free-as-in-puppy\n\nLanguage Registries Are Unstable by Default May 15, 2026\n\napt install -t unstable, but make it your whole personality\n\nNot a Security Issue May 12, 2026\n\nHow curl's disclosure policy filtered an AI scanner's findings at source\n\nThe Mismeasure of Open Source May 9, 2026\n\nThe streetlight effect in project-health scoring\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

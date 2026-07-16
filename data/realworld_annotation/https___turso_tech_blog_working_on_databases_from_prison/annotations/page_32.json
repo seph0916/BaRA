@@ -1,0 +1,100 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://trust.turso.tech/doc?s=0ks6v3n39d6y46f605711c",
+        "https://trust.turso.tech/logos/fly.io",
+        "https://trust.turso.tech/logos/stripe.com",
+        "https://trust.turso.tech/logos/clerk.com"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 21,
+    "links": [
+        {
+            "text": "Skip to navigation",
+            "href": "https://trust.turso.tech/#trust-center-navigation"
+        },
+        {
+            "text": "Skip to main content",
+            "href": "https://trust.turso.tech/#trust-center-main-content"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://turso.tech/privacy-policy"
+        },
+        {
+            "text": "Overview",
+            "href": "https://trust.turso.tech/"
+        },
+        {
+            "text": "Controls",
+            "href": "https://trust.turso.tech/controls"
+        },
+        {
+            "text": "Subprocessors",
+            "href": "https://trust.turso.tech/subprocessors"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://trust.turso.tech/faq"
+        },
+        {
+            "text": "View all",
+            "href": "https://trust.turso.tech/controls"
+        },
+        {
+            "text": "Infrastructure security",
+            "href": "https://trust.turso.tech/controls#infrastructure-security"
+        },
+        {
+            "text": "View 17 more Infrastructure security controls",
+            "href": "https://trust.turso.tech/controls#infrastructure-security"
+        },
+        {
+            "text": "Organizational security",
+            "href": "https://trust.turso.tech/controls#organizational-security"
+        },
+        {
+            "text": "View 9 more Organizational security controls",
+            "href": "https://trust.turso.tech/controls#organizational-security"
+        },
+        {
+            "text": "Product security",
+            "href": "https://trust.turso.tech/controls#product-security"
+        },
+        {
+            "text": "View 2 more Product security controls",
+            "href": "https://trust.turso.tech/controls#product-security"
+        },
+        {
+            "text": "Internal security procedures",
+            "href": "https://trust.turso.tech/controls#internal-security-procedures"
+        },
+        {
+            "text": "View 33 more Internal security procedures controls",
+            "href": "https://trust.turso.tech/controls#internal-security-procedures"
+        },
+        {
+            "text": "Data and privacy",
+            "href": "https://trust.turso.tech/controls#data-and-privacy"
+        },
+        {
+            "text": "View all",
+            "href": "https://trust.turso.tech/subprocessors"
+        },
+        {
+            "text": "View all",
+            "href": "https://trust.turso.tech/faq"
+        },
+        {
+            "text": "",
+            "href": "https://www.vanta.com/products/trust-center?utm_campaign=powered_by_vanta&utm_source=trust-center&utm_medium=product"
+        }
+    ],
+    "text_length": 2428,
+    "text_full": "Skip to navigation\nSkip to main content\n|\nTurso's Trust Center\nTurso\n\nTurso is a database-as-a-service company offering SQLite-based databases. Users can create up to millions of databases, and replicate them anywhere, including their own infrastructure.\n\nsecurity@turso.tech\nPrivacy Policy\nOverview\nControls\nSubprocessors\nFAQ\nControls\n\nUpdated 2 minutes ago\n\nView all\nInfrastructure security\nfa-circle-check alpaca-fa-solid\nUnique production database authentication enforced\nfa-circle-check alpaca-fa-solid\nEncryption key access restricted\nfa-circle-check alpaca-fa-solid\nUnique account authentication enforced\nView 17 more Infrastructure security controls\nOrganizational security\nfa-circle-check alpaca-fa-solid\nAsset disposal procedures utilized\nfa-circle-check alpaca-fa-solid\nProduction inventory maintained\nfa-circle-check alpaca-fa-solid\nPortable media encrypted\nView 9 more Organizational security controls\nProduct security\nfa-circle-check alpaca-fa-solid\nData encryption utilized\nfa-circle-check alpaca-fa-solid\nControl self-assessments conducted\nfa-circle-check alpaca-fa-solid\nPenetration testing performed\nView 2 more Product security controls\nInternal security procedures\nfa-circle-check alpaca-fa-solid\nContinuity and Disaster Recovery plans established\nfa-circle-check alpaca-fa-solid\nContinuity and Disaster Recovery plans tested\nfa-circle-check alpaca-fa-solid\nCybersecurity insurance maintained\nView 33 more Internal security procedures controls\nData and privacy\nfa-circle-check alpaca-fa-solid\nData retention procedures established\nfa-circle-check alpaca-fa-solid\nCustomer data deleted upon leaving\nfa-circle-check alpaca-fa-solid\nData classification policy established\nData collected\nfa-check alpaca-fa-regular\nCustomer personally identifiable information\nfa-xmark-large alpaca-fa-solid\nCredit card information\nfa-xmark-large alpaca-fa-solid\nPersonal health information\nSubprocessors\nView all\nAmazon Web Services\n•\nCloud provider\n\nBackups into S3\n\nFly.io\n•\nDatabase Infrastructure\n\nCloud hosting\n\nStripe\n•\nFinance and payments\n\nPayment processing\n\nClerk\n•\nAuthentication provider\n\nAuthentication to the Turso platform\n\nFAQ\nView all\nfa-chevron-down alpaca-fa-regular\nWhere are your servers located?\nfa-chevron-down alpaca-fa-regular\nHow can I be sure my data stays in the European Union?\nfa-chevron-down alpaca-fa-regular\nHow are backups handled?\nfa-chevron-down alpaca-fa-regular\nDo you encrypt data at rest?"
+}

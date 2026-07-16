@@ -1,0 +1,80 @@
+{
+  "start_url": "https://goto-restaurants.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://goto-restaurants.com/",
+    "https://goto-restaurants.com/about-us.html",
+    "https://goto-restaurants.com/local/houston",
+    "https://goto-restaurants.com/local/los-angeles",
+    "https://goto-restaurants.com/local/new-york",
+    "https://goto-restaurants.com/local/chicago",
+    "https://goto-restaurants.com/cate/restaurant-in-houston",
+    "https://goto-restaurants.com/cate/chinese-restaurant-in-houston",
+    "https://goto-restaurants.com/cate/seafood-restaurant-in-houston",
+    "https://goto-restaurants.com/cate/mexican-restaurant-in-houston",
+    "https://goto-restaurants.com/cate/bar-in-houston"
+  ],
+  "by_depth": {
+    "0": [
+      "https://goto-restaurants.com/"
+    ],
+    "1": [
+      "https://goto-restaurants.com/about-us.html",
+      "https://goto-restaurants.com/local/houston",
+      "https://goto-restaurants.com/local/los-angeles",
+      "https://goto-restaurants.com/local/new-york",
+      "https://goto-restaurants.com/local/chicago"
+    ],
+    "2": [
+      "https://goto-restaurants.com/cate/restaurant-in-houston",
+      "https://goto-restaurants.com/cate/chinese-restaurant-in-houston",
+      "https://goto-restaurants.com/cate/seafood-restaurant-in-houston",
+      "https://goto-restaurants.com/cate/mexican-restaurant-in-houston",
+      "https://goto-restaurants.com/cate/bar-in-houston",
+      "https://goto-restaurants.com/cate/restaurant-in-los-angeles",
+      "https://goto-restaurants.com/cate/seafood-restaurant-in-los-angeles",
+      "https://goto-restaurants.com/cate/italian-restaurant-in-los-angeles",
+      "https://goto-restaurants.com/cate/mexican-restaurant-in-los-angeles",
+      "https://goto-restaurants.com/cate/japanese-restaurant-in-los-angeles",
+      "https://goto-restaurants.com/cate/restaurant-in-new-york",
+      "https://goto-restaurants.com/cate/chinese-restaurant-in-new-york",
+      "https://goto-restaurants.com/cate/coffee-shop-in-new-york",
+      "https://goto-restaurants.com/cate/italian-restaurant-in-new-york",
+      "https://goto-restaurants.com/cate/japanese-restaurant-in-new-york",
+      "https://goto-restaurants.com/cate/restaurant-in-chicago",
+      "https://goto-restaurants.com/cate/chinese-restaurant-in-chicago",
+      "https://goto-restaurants.com/cate/mexican-restaurant-in-chicago",
+      "https://goto-restaurants.com/cate/pizza-restaurant-in-chicago",
+      "https://goto-restaurants.com/cate/fast-food-restaurant-in-chicago"
+    ],
+    "3": [
+      "https://goto-restaurants.com/cate/bar-grill-in-houston",
+      "https://goto-restaurants.com/cate/vietnamese-restaurant-in-houston",
+      "https://goto-restaurants.com/cate/salvadoran-restaurant-in-houston",
+      "https://goto-restaurants.com/cate/pho-restaurant-in-houston",
+      "https://le-cafe-josephine.goto-restaurants.com/",
+      "https://happy-china-cafe.goto-restaurants.com/",
+      "https://star-wok-asian-bistro.goto-restaurants.com/",
+      "https://uncle-lees-cafe.goto-restaurants.com/",
+      "https://wula-buhuan.goto-restaurants.com/",
+      "https://gaos-bbq-houston.goto-restaurants.com/",
+      "https://cajun-town-cafe.goto-restaurants.com/",
+      "https://mf-lobster-ceviche.goto-restaurants.com/",
+      "https://lindas-seafood.goto-restaurants.com/",
+      "https://seafood-heaven.goto-restaurants.com/",
+      "https://rices-fried-chicken-seafood.goto-restaurants.com/",
+      "https://taqueria-y-neveria-san-luis.goto-restaurants.com/",
+      "https://tekila-mexican-grill.goto-restaurants.com/",
+      "https://los-nopalitos.goto-restaurants.com/",
+      "https://taqueria-los-reyes.goto-restaurants.com/",
+      "https://el-dorado-taco-houston.goto-restaurants.com/",
+      "https://henke-pillot.goto-restaurants.com/",
+      "https://post-oak-ice-house.goto-restaurants.com/",
+      "https://simone-on-sunset.goto-restaurants.com/",
+      "https://marquis-ii.goto-restaurants.com/"
+    ]
+  },
+  "dead_links": []
+}

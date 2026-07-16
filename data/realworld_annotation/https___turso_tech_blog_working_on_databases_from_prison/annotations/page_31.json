@@ -1,0 +1,188 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-light.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=089d09358d8f5a3e3815861a7419a616",
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-dark.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=2946b82b1620bb2c7839f85d7e2e113b",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=af25d2e8-30d1-4d3f-9eed-1140c0db2e93&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=40e10459-602e-48cf-921c-0b09faf2b5d0&pt=Support%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fsupport&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342943294.47657489530187278&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=af25d2e8-30d1-4d3f-9eed-1140c0db2e93&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=40e10459-602e-48cf-921c-0b09faf2b5d0&pt=Support%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fsupport&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342943294.47657489530187278&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 43,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://docs.turso.tech/support#content-area"
+        },
+        {
+            "text": "Turso home page",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://turso.tech/app"
+        },
+        {
+            "text": "tursodatabase/turso18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "tursodatabase/turso\n18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Turso Database (beta)",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Turso Cloud",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "AgentFS (beta)",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Turso Homepage",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/tursodb/quickstart"
+        },
+        {
+            "text": "Change Data Capture",
+            "href": "https://docs.turso.tech/tursodb/cdc"
+        },
+        {
+            "text": "Concurrent Writes",
+            "href": "https://docs.turso.tech/tursodb/concurrent-writes"
+        },
+        {
+            "text": "Encryption",
+            "href": "https://docs.turso.tech/tursodb/encryption"
+        },
+        {
+            "text": "Vector Search",
+            "href": "https://docs.turso.tech/guides/vector-search"
+        },
+        {
+            "text": "Agent Databases",
+            "href": "https://docs.turso.tech/guides/agent-databases"
+        },
+        {
+            "text": "AI Memory",
+            "href": "https://docs.turso.tech/guides/ai-memory"
+        },
+        {
+            "text": "Code Indexing",
+            "href": "https://docs.turso.tech/guides/code-indexing"
+        },
+        {
+            "text": "Content Caching",
+            "href": "https://docs.turso.tech/guides/content-caching"
+        },
+        {
+            "text": "Getting Started",
+            "href": "https://docs.turso.tech/sql-reference/cli/getting-started"
+        },
+        {
+            "text": "Command-Line Options",
+            "href": "https://docs.turso.tech/sql-reference/cli/command-line-options"
+        },
+        {
+            "text": "Shell Commands",
+            "href": "https://docs.turso.tech/sql-reference/cli/shell-commands"
+        },
+        {
+            "text": "Compatibility",
+            "href": "https://docs.turso.tech/sql-reference/compatibility"
+        },
+        {
+            "text": "Data Types",
+            "href": "https://docs.turso.tech/sql-reference/data-types"
+        },
+        {
+            "text": "Expressions",
+            "href": "https://docs.turso.tech/sql-reference/expressions"
+        },
+        {
+            "text": "Multi-Process Access",
+            "href": "https://docs.turso.tech/sql-reference/multiprocess-access"
+        },
+        {
+            "text": "Extensions",
+            "href": "https://docs.turso.tech/sql-reference/extensions"
+        },
+        {
+            "text": "PRAGMAs",
+            "href": "https://docs.turso.tech/sql-reference/pragmas"
+        },
+        {
+            "text": "Experimental Features",
+            "href": "https://docs.turso.tech/sql-reference/experimental-features"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "https://docs.turso.tech/llms.txt",
+            "href": "https://docs.turso.tech/llms.txt"
+        },
+        {
+            "text": "Getting Started\nIf you’re new to Turso, the easiest way to get started is with this quickstart.",
+            "href": "https://docs.turso.tech/quickstart"
+        },
+        {
+            "text": "Discord\nShow off what you’re working on, ask for help, and chat with the community.",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "FAQs\nIf you have a question about your account or billing, you’ll find answers to most questions on our website.",
+            "href": "https://turso.tech/pricing#faqs"
+        },
+        {
+            "text": "Suggest edits",
+            "href": "https://github.com/tursodatabase/turso-docs/edit/main/support.mdx"
+        },
+        {
+            "text": "Raise issue",
+            "href": "https://github.com/tursodatabase/turso-docs/issues/new?title=Issue%20on%20docs&body=Path:%20/support"
+        },
+        {
+            "text": "discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "github",
+            "href": "https://github.com/tursodatabase"
+        },
+        {
+            "text": "twitter",
+            "href": "https://twitter.com/tursodatabase"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "Powered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform",
+            "href": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=turso"
+        }
+    ],
+    "text_length": 1410,
+    "text_full": "Skip to main content\nTurso home page\nSearch...\nCtrl K\nDashboard\ntursodatabase/turso\n18,893\nTurso Database (beta)\nTurso Cloud\nAgentFS (beta)\nTurso Homepage\nDiscord\nGitHub\nGetting Started\nIntroduction\nQuickstart\nConnect\nFundamentals\nChange Data Capture\nConcurrent Writes\nEncryption\nVector Search\nSync\nAI and Agents\nAgent Databases\nAI Memory\nCode Indexing\nContent Caching\nCLI Reference\nGetting Started\nCommand-Line Options\nShell Commands\nSQL Reference\nCompatibility\nData Types\nExpressions\nStatements\nFunctions\nMulti-Process Access\nExtensions\nPRAGMAs\nExperimental Features\nChangelog\nChangelog\nSupport\n\nWe’re always here to help.\n\nCopy page\nDocumentation Index\n\nFetch the complete documentation index at: https://docs.turso.tech/llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nGetting Started\nIf you’re new to Turso, the easiest way to get started is with this quickstart.\nDiscord\nShow off what you’re working on, ask for help, and chat with the community.\nSecurity\nIf you spot something that doesn’t look right, or you’ve discovered a security related bug or issue, let us know.\nFAQs\nIf you have a question about your account or billing, you’ll find answers to most questions on our website.\n\nWas this page helpful?\n\nYes\nNo\nSuggest edits\nRaise issue\ndiscord\ngithub\ntwitter\nlinkedin\nPowered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform"
+}

@@ -1,0 +1,894 @@
+{
+    "image_count": 6,
+    "images": [
+        "https://www.nationalpopularvote.com/sites/all/themes/npv/logo.png",
+        "https://www.nationalpopularvote.com/sites/default/files/co-house-hearing-2019-2-12.png",
+        "https://www.nationalpopularvote.com/sites/default/files/npv_co_20190128.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/senate-hearing-sb42-2019-1-23_0.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/ca_npv_2.png",
+        "https://www.nationalpopularvote.com/sites/default/files/co-gordon.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 219,
+    "links": [
+        {
+            "text": "Search",
+            "href": "https://www.nationalpopularvote.com/search"
+        },
+        {
+            "text": "",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "DONATE",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/co#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/co#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/co#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Books",
+            "href": "https://www.nationalpopularvote.com/books"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Donate",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Electoral College",
+            "href": "https://www.nationalpopularvote.com/electoral-college"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Get Email Updates",
+            "href": "https://www.nationalpopularvote.com/get-email-updates"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Map",
+            "href": "https://www.nationalpopularvote.com/state-status"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/co#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "News History",
+            "href": "https://www.nationalpopularvote.com/news-history"
+        },
+        {
+            "text": "News Stories",
+            "href": "https://www.nationalpopularvote.com/news"
+        },
+        {
+            "text": "Newsletters",
+            "href": "https://www.nationalpopularvote.com/newsletters"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "Store",
+            "href": "https://www.zazzle.com/store/nationalpopularvote"
+        },
+        {
+            "text": "Text and Explanation of Bill",
+            "href": "https://www.nationalpopularvote.com/bill-text"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/state/co#"
+        },
+        {
+            "text": "Introduction: What It Is - Why It's Needed",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Myths About Big Cities",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-2"
+        },
+        {
+            "text": "Myths About Small States",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-3"
+        },
+        {
+            "text": "Myths About Fraud",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-4"
+        },
+        {
+            "text": "Myths About Constitutionality",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-5"
+        },
+        {
+            "text": "Myths About Big States and Big Counties",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-6"
+        },
+        {
+            "text": "Myths About Post Election Rule Changes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-7"
+        },
+        {
+            "text": "Myths About Interstate Compacts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-8"
+        },
+        {
+            "text": "Myths About Faithless Electors",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-9"
+        },
+        {
+            "text": "Myths About 15% Presidents",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-10"
+        },
+        {
+            "text": "Myths about Missing Votes and Hurricanes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-11"
+        },
+        {
+            "text": "Myths About Single-State Veto (Achilles’ Heel)",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-12"
+        },
+        {
+            "text": "Myths About Recounts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-13"
+        },
+        {
+            "text": "Myths About Missing Vote Counts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-14"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Write Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        },
+        {
+            "text": "Ask your Colorado state legislators",
+            "href": "http://www.national-popular-vote.com/Campaign/CO/CO0"
+        },
+        {
+            "text": "Send a letter-to-the-editor to a Colorado newspaper",
+            "href": "https://www.nationalpopularvote.com/writing-letter-editor-colorado"
+        },
+        {
+            "text": "Submit an op-ed to a Colorado newspaper",
+            "href": "https://www.nationalpopularvote.com/submitting-op-ed-colorado-newspapers"
+        },
+        {
+            "text": "Colorado National Popular Vote web page",
+            "href": "https://www.coloradonpv.org/"
+        },
+        {
+            "text": "National Popular Vote’s Facebook",
+            "href": "https://www.facebook.com/nationalpopularvoteinc"
+        },
+        {
+            "text": "National Popular Vote’s Twitter",
+            "href": "https://twitter.com/natlpopularvote"
+        },
+        {
+            "text": "status of HB1102",
+            "href": "http://leg.colorado.gov/bills/hb25-1102"
+        },
+        {
+            "text": "official election returns",
+            "href": "https://results.enr.clarityelections.com/CO/105975/web.264614/#/detail/1126"
+        },
+        {
+            "text": "Denver Post editorial urging YES vote on National Popular Vote (Proposition 113)",
+            "href": "https://www.denverpost.com/2020/09/05/proposition-113-national-popular-vote-colorado-endorsement/"
+        },
+        {
+            "text": "Gov. Jared Polis throws support behind national popular vote",
+            "href": "https://www.coloradopolitics.com/2020-election/gov-jared-polis-throws-support-behind-national-popular-vote-question/article_e8908e3c-1235-11eb-adda-6f7aa0efbe56.html?utm_email=54EA54BF64B8949EC4B0B4BABB&g2i_eui=jA5qhquiRkeS0kRMXya0zQsTRsUf48j%2b&g2i_source=newsletter&g2i_campaign=copo_morning_update_pref5&utm_source=listrak&utm_medium=email&utm_term=https%3a%2f%2fwww.coloradopolitics.com%2f2020-election%2fgov-jared-polis-throws-support-behind-national-popular-vote-question%2farticle_e8908e3c-1235-11eb-adda-6f7aa0efbe56.html%23utm_source%3dcoloradopolitics.com%26utm_campaign%3d%252Femail%252Fdaily-afternoon%252F%253Fdt%253D%26utm_medium%3demail%26utm_content%3dheadline&utm_campaign=Colorado+Politics+Afternoon+Update+%7c+%23Listrak%5cContent+URL%3d%22https%3a%2f%2fcosprings.mg2cms.com%2fapi%2femailcon#utm_source=coloradopolitics.com&utm_campaign=%2Femail%2Fdaily-afternoon%2F%3Fdt%3D&utm_medium=email&utm_content=headline"
+        },
+        {
+            "text": "Colorado is no longer a swing state and with that battleground status goes our sway on federal policy",
+            "href": "https://www.denverpost.com/2020/10/07/colorado-swing-state-battleground-donald-trump-joe-biden/"
+        },
+        {
+            "text": "Ballotpedia web page on Proposition 113",
+            "href": "https://ballotpedia.org/Colorado_Proposition_113,_National_Popular_Vote_Interstate_Compact_Referendum_(2020)"
+        },
+        {
+            "text": "Yes On National Popular Vote (Proposition 113) web site",
+            "href": "http://www.yesonnationalpopularvote.com/"
+        },
+        {
+            "text": "Washington Post August 2, 2019 article",
+            "href": "https://www.washingtonpost.com/politics/colorado-approved-a-national-popular-vote-law-now-it-might-be-repealed/2019/08/02/a305b1de-b468-11e9-8e94-71a35969e4d8_story.html?utm_term=.13ddfbc33bbd"
+        },
+        {
+            "text": "status of SB19-042",
+            "href": "https://leg.colorado.gov/bills/sb19-042"
+        },
+        {
+            "text": "9NEWS TV",
+            "href": "https://www.9news.com/article/news/local/next/polis-signs-national-popular-vote-into-law-but-it-doesnt-take-effect-yet/73-e16c5671-f29a-46a8-8dd7-c945d240c6ae"
+        },
+        {
+            "text": "Denver Post",
+            "href": "https://www.denverpost.com/2019/03/15/jared-polis-national-popular-vote-colorado/"
+        },
+        {
+            "text": "Colorado Public Radio",
+            "href": "https://www.cpr.org/news/story/national-popular-vote-act-becomes-colorado-law-with-gov-jared-polis-signature"
+        },
+        {
+            "text": "Associated Press",
+            "href": "https://coloradosun.com/2019/03/15/national-popular-vote-colorado-jared-polis-law/"
+        },
+        {
+            "text": "U.S. News and World Report",
+            "href": "https://www.usnews.com/news/best-states/colorado/articles/2019-03-15/colorado-governor-signs-law-on-presidential-electors"
+        },
+        {
+            "text": "status of SB19-042",
+            "href": "https://leg.colorado.gov/bills/sb19-042"
+        },
+        {
+            "text": "U.S. News and World Report",
+            "href": "https://www.usnews.com/news/national-news/articles/2019-02-25/colorado-governor-to-sign-bill-to-sidestep-electoral-college-for-popular-vote"
+        },
+        {
+            "text": "Fort Collins Coloradoan",
+            "href": "https://www.coloradoan.com/story/news/2019/02/15/gov-jared-polis-rep-joann-ginal-pledge-big-things-health-care-education-and-environment/2887803002/"
+        },
+        {
+            "text": "status of SB19-042",
+            "href": "https://leg.colorado.gov/bills/sb19-042"
+        },
+        {
+            "text": "Associated Press",
+            "href": "https://www.apnews.com/ae67e26e3a9b4b1cb41a68899fb2d982"
+        },
+        {
+            "text": "Denver Post",
+            "href": "https://www.denverpost.com/2019/02/12/colorado-national-popular-vote-bill-electoral-college/"
+        },
+        {
+            "text": "CBS TV Denver",
+            "href": "https://denver.cbslocal.com/2019/02/12/vote-count-equally-electoral-college-bill/"
+        },
+        {
+            "text": "Colorado Politics",
+            "href": "https://www.coloradopolitics.com/news/premium/bill-to-change-how-we-elect-presidents-advances-through-colorado/article_4deb9242-2ef6-11e9-a81f-db5088bcfed0.html"
+        },
+        {
+            "text": "Denver Post",
+            "href": "https://www.denverpost.com/2019/02/01/colorado-electoral-college-popular-vote/"
+        },
+        {
+            "text": "Denver Post",
+            "href": "https://www.denverpost.com/2019/02/12/national-popular-vote-colorado-bill-electoral-college/"
+        },
+        {
+            "text": "Coloradoan",
+            "href": "https://www.coloradoan.com/story/news/local/colorado/2019/01/30/colorado-senate-advance-bill-national-popular-vote-pact/2724616002/"
+        },
+        {
+            "text": "Durango Herald",
+            "href": "https://durangoherald.com/articles/261440"
+        },
+        {
+            "text": "President of League of Women Voters of Boulder County",
+            "href": "https://longmontobserver.org/featured/opinion-peggy-leech-president-lowvbc-the-national-popular-vote/"
+        },
+        {
+            "text": "Colorado Politics",
+            "href": "https://www.coloradopolitics.com/news/premium/cover-story-does-colorado-need-a-new-way-to-pick/article_59c53516-24c7-11e9-b057-c36f91bd71f5.html"
+        },
+        {
+            "text": "Colorado Sentinel",
+            "href": "https://www.sentinelcolorado.com/opinion/editorial-let-colorado-help-guide-the-nation-toward-a-popular-vote-for-president/"
+        },
+        {
+            "text": "Boulder Daily Camera",
+            "href": "http://www.dailycamera.com/editorials/ci_32408430/editorial-colorado-national-popular-vote-compact"
+        },
+        {
+            "text": "Boulder Camera",
+            "href": "http://www.dailycamera.com/guest-opinions/ci_32439751/mike-foote-every-vote-is-equal-under-national"
+        },
+        {
+            "text": "Bradenton Herald",
+            "href": "https://www.bradenton.com/news/local/health-care/article226293565.html"
+        },
+        {
+            "text": "Longmont Observer",
+            "href": "https://longmontobserver.org/city/government/national-popular-vote-bill-clears-key-colorado-house-committee/"
+        },
+        {
+            "text": "Fort Morgan Times",
+            "href": "http://www.fortmorgantimes.com/fort-morgan-local-news/ci_32459221/colorado-general-assembly-national-popular-vote-bill-advances"
+        },
+        {
+            "text": "status of SB19-042",
+            "href": "https://leg.colorado.gov/bills/sb19-042"
+        },
+        {
+            "text": "Colorado Politics",
+            "href": "https://www.coloradopolitics.com/news/premium/state-senate-oks-bill-linking-colorado-s-presidential-choice-to/article_48ed8e70-2349-11e9-a746-e3c7bdc44b23.html"
+        },
+        {
+            "text": "Colorado Springs Gazette",
+            "href": "https://gazette.com/news/state-senate-oks-bill-linking-colorado-presidential-choice-to-national/article_0c623342-235e-11e9-b54e-1be328e0fe1f.html"
+        },
+        {
+            "text": "CBS 4 Denver TV",
+            "href": "https://denver.cbslocal.com/2019/01/29/colorado-national-popular-vote-electoral-college/"
+        },
+        {
+            "text": "KDVR TV (Fox)",
+            "href": "https://kdvr.com/2019/01/29/colorado-senate-passes-bill-to-essentially-eliminate-electoral-college/"
+        },
+        {
+            "text": "State, Veterans, & Military Affairs Committee",
+            "href": "https://leg.colorado.gov/committee/granicus/1474851"
+        },
+        {
+            "text": "status of SB19-042",
+            "href": "https://leg.colorado.gov/bills/sb19-042"
+        },
+        {
+            "text": "9News TV story",
+            "href": "https://www.9news.com/article/news/local/local-politics/colorado-state-lawmakers-float-bill-that-might-get-rid-of-the-electoral-college/73-e62a22a4-be57-459a-bf2d-835c535d76d2"
+        },
+        {
+            "text": "Colorado Public Radio",
+            "href": "https://www.cpr.org/news/story/colorado-could-join-effort-to-sideline-the-electoral-college"
+        },
+        {
+            "text": "Fort Collins Coloradoan",
+            "href": "https://www.coloradoan.com/story/news/2019/01/22/colorado-national-popular-vote-bill-gets-first-hearing/2648093002/"
+        },
+        {
+            "text": "Colorado Politics",
+            "href": "https://www.coloradopolitics.com/news/premium/colorado-senate-bill-would-link-state-s-electoral-votes-to/article_9848e610-1f46-11e9-af8e-bbb52b84e8b7.html"
+        },
+        {
+            "text": "The Daily Sentinel editorial",
+            "href": "https://www.gjsentinel.com/opinion/editorials/electoral-makeover/article_1ee2d3c4-1ea8-11e9-aa1e-10604b9f1ff4.html"
+        },
+        {
+            "text": "The Denver Channel",
+            "href": "https://www.thedenverchannel.com/news/360/bill-to-move-colorado-to-a-national-popular-vote-state-passes-senate-committee"
+        },
+        {
+            "text": "Boulder Colorado Daily Camera",
+            "href": "http://www.dailycamera.com/editorials/ci_32408430/editorial-colorado-national-popular-vote-compact"
+        },
+        {
+            "text": "status of SB19-042",
+            "href": "https://leg.colorado.gov/bills/sb19-042"
+        },
+        {
+            "text": "Status of SB17-099",
+            "href": "https://leg.colorado.gov/bills/sb17-099"
+        },
+        {
+            "text": "HB 1299",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/archive/CO-HB1299-of-2009-Kerr.pdf"
+        },
+        {
+            "text": "Denver Post",
+            "href": "http://archive.nationalpopularvote.com/pages/editorials/denverpost.php"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        }
+    ],
+    "text_length": 9533,
+    "text_full": "Toggle navigation\nSearch\nDONATE\nHome\n \nExplanation\n \nAnswering Myths\n \nVideos\n \nEmail Your Legislator\n \nLetter-to-Editor\n \nVolunteer\n \nMedia\n \nAbout\n \nEvents\n\nState status: AK AL AR AZ CA CO CT DC DE FL GA HI IA ID IL IN KS KY LA MA MD ME MI MN MO MS MT NC ND NE NH NJ NM NV NY OH OK OR PA RI SC SD TN TX UT VA VT WA WI WV WY\n\nColorado\nAsk your Colorado state legislators to continue their support for the National Popular Vote law (and to oppose attempts to repeal it)\nSend a letter-to-the-editor to a Colorado newspaper\nSubmit an op-ed to a Colorado newspaper \nColorado National Popular Vote web page\nNational Popular Vote’s Facebook page\nNational Popular Vote’s Twitter page\n\nOn January 27, 2025, Representatives Ken Degraaf (R), Carlos Barron (R), and Jarvis Caldwell (R) introduced a bill to repeal the National Popular Vote law approved by Colorado Voters in November 2020. On February 2, 2025, the House Committee on State, Civic, Military, & Veterans Affairs voted to postpone the bill indefinitely (status of HB1102). \n\nOn November 3, 2020, Colorado voters approved the National Popular Vote law that had been enacted in 2019 by the Colorado legislature and Governor.   Click here for official election returns from Colorado Secretary of State.\n\nDenver Post editorial urging YES vote on National Popular Vote (Proposition 113)\n\"Gov. Jared Polis throws support behind national popular vote\" Colorado Politics article\nColorado is no longer a swing state and with that battleground status goes our sway on federal policy -- Op-ed by Doug Friednash \nBallotpedia web page on Proposition 113 \nYes On National Popular Vote (Proposition 113) web site\n\nOn August 1, 2019, a referendum petition was filed to force a statewide vote on November 3, 2020 on the National Popular Vote law passed by the Colorado legislature and signed by Governor Polis in March 2019.  \n\nWashington Post August 2, 2019 article on referendum petition\n\nOn March 15, 2019, Governor Jared Polis signed the National Popular Vote bill (status of SB19-042).  \n\n9NEWS TV story\nDenver Post article\nColorado Public Radio story\nAssociated Press story in Colorado Sun\nU.S. News and World Report article\n\nOn February 21, 2019, the Colorado House of Representatives passed the National Popular Vote bill 34-29 (status of SB19-042) and sent the bill to Governor Polis.  \n\nU.S. News and World Report article\n\nOn February 15, 2019, an article in the Fort Collins Coloradoan reported that Governor Jared Polis told a town hall meeting in Fort Collins that \"I'll have the pen ready\" if the National Popular Vote hits his desk.\n\nOn February 12, 2019, the House State, Veterans, & Military Affairs Committee voted 6-3 to approve the National Popular Vote bill (status of SB19-042). The bill now goes to the floor of the Colorado House of Representatives.\n\nAssociated Press story \nDenver Post story\nCBS TV Denver story\nColorado Politics story\nDenver Post editorial endorsing the National Popular Vote bill\nDenver Post article\nColoradoan article\nDurango Herald article\nStatement by President of League of Women Voters of Boulder County\nColorado Politics article\nColorado Sentinel editorial endorsing the National Popular Vote bill\nBoulder Daily Camera editorial endorsing the National Popular Vote bill\nBoulder Camera op-ed by Senator Michael Foote \nBradenton Herald editorial\nLongmont Observer article\nFort Morgan Times article\n\nHearing on National Popular Vote bill at House State, Veterans, & Military Affairs Committee on February 12, 2019\n\nOn January 29, 2019, the National Popular Vote bill was approved 19-16 on third reading by the Colorado Senate.  The bill now goes to the Colorado House of Representatives.\n\nThe National Popular Vote bill in Colorado has been endorsed by Common Cause Colorado, League of Women Voters of Colorado, AFL-CIO Colorado, Working Families Party Colorado, March-On Colorado, National March-On, COLOR, Our Revolution Metro Denver, and America Votes Colorado. \n\nOn January 28, 2019, the National Popular Vote bill was approved on second reading by the Colorado Senate (status of SB19-042).  \n\nColorado Politics article\nColorado Springs Gazette article\nCBS 4 Denver TV news story\nKDVR TV (Fox) story\n\nSenator Michael Foote leads debate on SB42 in Colorado Senate on January 28, 2019\n\nOn Wednesday January 23, 2019, the  State, Veterans, & Military Affairs Committee held a 4 1/2 hour public hearing on the National Popular Vote bill (status of SB19-042). A total of 72 people signed up to testify. The committee approved the bill by a 3-2 vote. \n\n9News TV story\nColorado Public Radio story\nFort Collins Coloradoan article \nColorado Politics article\nThe Daily Sentinel editorial (Grand Junction)\nThe Denver Channel article\nBoulder Colorado Daily Camera editorial\n\nState Senator Michael Foote and Colorado Secretary of State Jena Griswold at witness table at Senate hearing on January 23, 2019\n\nIn January 2019, Senator Foote is sponsoring the National Popular Vote bill (status of SB19-042) in the Senate, and Representatives Sirota and Arndt are sponsoring the bill in the  Colorado House of Representatives.   \n\nIn 2017, Senator Andy Kerr and Representative Paul Rosenthal introduced the National Popular Vote bill (Status of SB17-099), along with Senators Irene Aguilar, Steve Fenberg, Leroy Garcia, Lucia Guzman, Matt Jones, John Kefalas, Michael Merrifield ,Dominick Moreno, and Angela Williams.\n\nOn March 17, 2009, the Colorado House of Representatives passed the National Popular Vote bill (HB 1299).\n\nCaptionColorado Representative Andrew Kerr, sponsor of the National Popular Vote bill in Colorado, speaking during House debate on March 17, 2009. \n\nA survey of 800 Colorado voters conducted on December 21-22, 2008 showed 68% overall support for a national popular vote for President. Support was 79% among Democrats, 56% among Republicans, and 70% among independents. By age, support was 83% among 18-29 year olds, 59% among 30-45 year olds, 71% among 46-65 year olds, and 66% for those older than 65 By gender, support was 77% among women and 58% among men. By race, support was 68% among whites (representing 81% of respondents), 75% among Hispanics (representing 12% of respondents), 57% among African American (representing 4% of respondents), and 62% of Others (representing 4% of respondents). The survey has a margin of error of plus or minus 3 1/2%.\n\nOn January 24, 2007, the Colorado State Senate approved the National Popular Vote bill (SB-07-046 ). The Senate's approval on third (final) reading followed the Senate's approval on second reading on January 22. The bill was approved by the Senate Committee on State, Veterans and Military Affairs on January 17. \n\nCaptionColorado Senate Majority Leader Ken Gordon presents National Popular Vote bill to Senate Committee on State, Veterans and Military Affairs on January 17, 2007\n\nRepresentative Jack Pommer is sponsoring the National Popular Vote bill in the Colorado House of Representatives.\n\nThe bill was introduced into Colorado Legislature on January 10, 2007, by Colorado Senate Majority Leader Ken Gordon. The National Popular Vote bill would enact an interstate compact entitled the \"Agreement Among the States to Elect the President by National Popular Vote\" in Colorado.\n\nIn 2006, Colorado's Senate was the first state legislative house in the nation to pass National Popular Vote's legislation for nationwide election of the President (SB 06-223). Among the Senators voting for the bill on its third reading on April 17, 2006, were Senators Ken Gordon (D), John Evans (R), and Lew Entz (R). During debate on April 14, Senate Majority Leader Ken Gordon said,\n\n\"We're trying to count every vote equally. … We think the president should be the person who gets the majority vote. It's the bedrock of our democracy.\"\n\nSenator Evan (Parker) said on April 14,\n\n\"This bill addresses some serious flaws in the Electoral College process.\"\n\nThe Colorado Senate's action on April 17, 2006, followed a favorable vote on the bill's second reading on April 14, 2006, and a favorable vote on April 10, 2006, in the Senate Judiciary Committee. At that time, the committee heard testimony from Colorado Common Cause Executive Director Pete Maysmith, National Popular Vote President Barry Fadem, Dr. John R. Koza (originator of the National Popular Vote bill), and Colorado attorney Mark Grueskin. A Denver Post editorial on April 19, 2006, said it is \"time to rethink presidential elections.\"\n\nIn a statement on April 15, 2006, referring to the Colorado Senate's favorable vote on the bill's second reading, Senator Gordon said,\n\n\"This is the bill that would join Colorado in a compact of states who would all agree to send their votes to the person who receives the largest popular vote in the country. The compact only goes into effect if states representing a majority of the Electoral College join. Right now not everyone's vote is equal in electing a President. I think it makes sense to make the President the person who gets the most votes. It is revolutionary, I admit. It is called democracy. I know some people are concerned. It is a big change, and I don't want to discount the concerns of people who feel we should be cautious, but I believe that if the framers of the Constitution were around now they would favor a woman's right to vote, they would oppose slavery and they would support electing the President by majority vote.\"\n\nThe national popular vote winner should become President\nOne-person, one-vote\nCandidates should have a reason to campaign in all 50 states"
+}

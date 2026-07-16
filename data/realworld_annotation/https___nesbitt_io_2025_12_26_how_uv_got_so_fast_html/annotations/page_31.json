@@ -1,0 +1,179 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 42,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "ecosyste.ms",
+            "href": "https://nesbitt.io/search#ecosyste.ms"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "blog.ecosyste.ms",
+            "href": "https://blog.ecosyste.ms/2025/11/17/documenting-package-manager-data.html"
+        },
+        {
+            "text": "CHAOSS Package Metadata Working Group",
+            "href": "https://github.com/chaoss/wg-package-metadata"
+        },
+        {
+            "text": "Alpha-Omega",
+            "href": "https://alpha-omega.dev/"
+        },
+        {
+            "text": "Package Manager Commands",
+            "href": "https://github.com/ecosyste-ms/package-manager-commands"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#package-manager-commands"
+        },
+        {
+            "text": "github.com/ecosyste-ms/package-manager-commands/blob/main/commands.csv",
+            "href": "https://github.com/ecosyste-ms/package-manager-commands/blob/main/commands.csv"
+        },
+        {
+            "text": "Package Manager Manifest Examples",
+            "href": "https://github.com/ecosyste-ms/package-manager-manifest-examples"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#package-manager-manifest-examples"
+        },
+        {
+            "text": "Bibliothecary",
+            "href": "https://github.com/ecosyste-ms/bibliothecary"
+        },
+        {
+            "text": "Package Manager OpenAPI Schemas",
+            "href": "https://github.com/ecosyste-ms/package-manager-openapi-schemas"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#package-manager-openapi-schemas"
+        },
+        {
+            "text": "packages.ecosyste.ms",
+            "href": "https://github.com/ecosyste-ms/packages"
+        },
+        {
+            "text": "Package Managers OPML",
+            "href": "https://github.com/ecosyste-ms/package-managers-opml"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#package-managers-opml"
+        },
+        {
+            "text": "Package Manager Hooks",
+            "href": "https://github.com/ecosyste-ms/package-manager-hooks"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#package-manager-hooks"
+        },
+        {
+            "text": "Package Manager Archives",
+            "href": "https://github.com/ecosyste-ms/package-manager-archives"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#package-manager-archives"
+        },
+        {
+            "text": "Package Manager Resolvers",
+            "href": "https://github.com/ecosyste-ms/package-manager-resolvers"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#package-manager-resolvers"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data#contributing"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "Package Manager Easter Eggs",
+            "href": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
+        },
+        {
+            "text": "Package Manager Mirroring",
+            "href": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html"
+        },
+        {
+            "text": "Package Manager Magic Files",
+            "href": "https://nesbitt.io/2026/03/05/package-manager-magic-files.html"
+        },
+        {
+            "text": "Package Managers Need to Cool Down",
+            "href": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-11-30-documenting-package-manager-data.md"
+        }
+    ],
+    "text_length": 5647,
+    "text_full": "Andrew Nesbitt\n      \nDocumenting Package Manager Data\npackage-managersecosyste.msreference\n\nNov 30, 2025\n\nOriginally posted on blog.ecosyste.ms on November 17, 2025.\n\nPackage managers are the quiet workhorses of computing. They make installing software on a machine trivial, but they have their differences, and as recent events have shown, those differences can lead to vulnerabilities and provide opportunities for attackers to disrupt public and private services alike.\n\necosyste.ms is in something of a unique position: having aggregated and normalized package data from over 70 sources we know something about how package managers work, and how they differ from one another.\n\nWorking alongside the CHAOSS Package Metadata Working Group and Alpha-Omega we’ve documented the similarities and differences across package registries and clients, publishing eight repositories of information about how package managers work today. In doing so we hope to identify common problems and work toward better practices:\n\nPackage Manager Commands#\n\nA cross-reference table of commands across 48 package managers. When you switch from npm to cargo, or pip to poetry, this maps the equivalent commands between ecosystems.\n\nThe data is extracted from manpages and --help outputs and stored as JSON files in data/managers/ with generated markdown tables and CSV exports.\n\nCheck out the whole csv file rendered as a huge table here: github.com/ecosyste-ms/package-manager-commands/blob/main/commands.csv\n\nPackage Manager Manifest Examples#\n\nOver 145 manifest and lockfile examples from 34 package ecosystems, organized by PURL type.\n\nManifests include package.json, requirements.txt, pyproject.toml, Cargo.toml, Gemfile, composer.json, go.mod, pom.xml, and more. Lockfiles include package-lock.json, yarn.lock, poetry.lock, Cargo.lock, Gemfile.lock, composer.lock, go.sum, and others.\n\nInitially extracted from Bibliothecary, with additional examples from tools like Trivy, Syft, OSV-Scanner, and Grype. Each example documents its filename, type (manifest/lockfile), source project, and what features it demonstrates.\n\nPackage Manager OpenAPI Schemas#\n\nOpenAPI 3.0 specifications for 25+ package registry APIs including npm, PyPI, Maven, RubyGems, Cargo, Docker, and Terraform.\n\nMost schemas are generated using the packages.ecosyste.ms mapping code. Two registries, crates.io and open-vsx.org, have official OpenAPI specs. Hopefully more registries will publish official specs in the future.\n\nYou can use these specs to generate API clients, create documentation with Swagger UI, or build mock servers for testing.\n\nPackage Managers OPML#\n\nRSS and Atom feeds for tracking releases from package managers, registries, and related infrastructure projects. Import the OPML file into any feed reader to follow updates from npm, pip, cargo, Homebrew, Docker, Renovate, Dependabot, and others.\n\nFeeds are organized by language and ecosystem.\n\nPackage Manager Hooks#\n\nA reference documenting lifecycle hooks across package manager ecosystems, categorizing them into two types: package-defined hooks (scripts embedded by package authors that execute during installation, building, or publishing) and system/plugin hooks (extension points for users and tools to modify package manager behavior globally).\n\nCovers hooks across npm, Yarn, pnpm, Cargo, pip, Composer, RubyGems, Maven, Gradle, and many others. For each ecosystem, it documents when hooks execute, their implementation mechanisms, and security implications.\n\nPackage Manager Archives#\n\nDocumentation of archive formats used by package managers, covering both language-specific ecosystems (gems, wheels, npm tarballs, crates) and system-level formats (deb, rpm, apk).\n\nEach entry documents internal archive structure, compression methods, metadata file locations, implementation quirks, and edge cases that commonly cause problems. Ruby gems use nested gzip compression within tar archives; Python wheels are actually ZIP files with specific metadata requirements; npm packages employ pax extended headers for long filenames.\n\nPackage Manager Resolvers#\n\nA reference documenting dependency resolution algorithms across package managers. Covers nine algorithm families: SAT solving (Composer, DNF, Conda), PubGrub (Dart pub, Poetry, uv), backtracking (pip, Cargo), minimal version selection (Go modules), deduplication with nesting (npm, Yarn, pnpm), version mediation (Maven, Gradle, NuGet), Molinillo (Bundler, RubyGems), and others.\n\nEach section explains how the algorithm works, its trade-offs, and why certain package managers chose their approach to solving dependency hell.\n\nContributing#\n\nThese repositories collect what we’ve learned while researching the space. If you’re building parsers, SBOM generators, or tools that work across package ecosystems, these might be useful references.\n\nAll eight repositories are released under CC0 1.0 Universal and accept contributions if you have corrections or additions.\n\nRelated posts\nPackage Security Problems for AI Agents Apr 8, 2026\n\nPackages all the way down, agents all the way up.\n\nPackage Manager Easter Eggs Apr 3, 2026\n\nA tour of the easter eggs hiding inside package managers.\n\nPackage Manager Mirroring Mar 20, 2026\n\nEvery mirroring tool I could find, and the protocols underneath them.\n\nPackage Manager Magic Files Mar 5, 2026\n\nPackage manager magic files and where to find them: .npmrc, MANIFEST.in, Directory.Packages.props, .pnpmfile.cjs, and more.\n\nPackage Managers Need to Cool Down Mar 4, 2026\n\nA survey of dependency cooldown support across package managers and update tools.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

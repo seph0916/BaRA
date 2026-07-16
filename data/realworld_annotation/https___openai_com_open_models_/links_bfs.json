@@ -1,0 +1,79 @@
+{
+  "start_url": "https://openai.com/open-models",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://openai.com/open-models",
+    "https://openai.com/",
+    "https://openai.com/research/index",
+    "https://openai.com/business",
+    "https://openai.com/api",
+    "https://openai.com/about",
+    "https://openai.com/research",
+    "https://openai.com/stories/",
+    "https://openai.com/index/introducing-gpt-5-5",
+    "https://openai.com/index/introducing-chatgpt-images-2-0"
+  ],
+  "by_depth": {
+    "0": [
+      "https://openai.com/open-models"
+    ],
+    "1": [
+      "https://openai.com/",
+      "https://openai.com/research/index",
+      "https://openai.com/business",
+      "https://openai.com/api",
+      "https://openai.com/about"
+    ],
+    "2": [
+      "https://openai.com/research",
+      "https://openai.com/stories/",
+      "https://openai.com/index/introducing-gpt-5-5",
+      "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "https://openai.com/index/work-with-codex-from-anywhere",
+      "https://openai.com/research/index/publication/",
+      "https://openai.com/research/index/conclusion/",
+      "https://openai.com/research/index/milestone",
+      "https://openai.com/research/index/release/",
+      "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "https://openai.com/contact-sales",
+      "https://openai.com/solutions",
+      "https://openai.com/solutions/use-case/coding",
+      "https://openai.com/chatgpt/enterprise",
+      "https://openai.com/business/chatgpt-pricing",
+      "https://developers.openai.com/api/docs/models/gpt-5.5",
+      "https://developers.openai.com/api/docs/models/gpt-5.4",
+      "https://developers.openai.com/api/docs/models/gpt-5.4-mini",
+      "https://platform.openai.com/",
+      "https://platform.openai.com/docs/guides/latest-model",
+      "https://openai.com/index/planning-for-agi-and-beyond/",
+      "https://openai.com/charter",
+      "https://openai.com/careers/search",
+      "https://openai.com/index/gpt-5-5-instant",
+      "https://openai.com/index/gpt-5-5-instant-system-card"
+    ],
+    "3": [
+      "https://openai.com/safety/",
+      "https://openai.com/index/introducing-gpt-5-4",
+      "https://openai.com/index/gpt-5-3-instant/",
+      "https://openai.com/index/introducing-o3-and-o4-mini",
+      "https://openai.com/index/openai-o3-mini",
+      "https://openai.com/stories",
+      "https://openai.com/stories/chatgpt",
+      "https://openai.com/stories/api",
+      "https://openai.com/stories/sora",
+      "https://openai.com/index/small-business-stories",
+      "https://openai.com/news/product-releases",
+      "https://openai.com/research/index/release",
+      "https://openai.com/index/gpt-5-5-system-card",
+      "https://openai.com/index/gdpval",
+      "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "https://openai.com/news/company-announcements",
+      "https://openai.com/residency",
+      "https://openai.com/signals",
+      "https://openai.com/index/introducing-gpt-5-3-codex"
+    ]
+  },
+  "dead_links": []
+}

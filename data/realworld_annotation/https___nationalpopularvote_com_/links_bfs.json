@@ -1,0 +1,79 @@
+{
+  "start_url": "https://nationalpopularvote.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://nationalpopularvote.com/",
+    "https://www.nationalpopularvote.com/search/node",
+    "https://www.nationalpopularvote.com/",
+    "https://www.nationalpopularvote.com/donate",
+    "https://www.nationalpopularvote.com/written-explanation",
+    "https://www.nationalpopularvote.com/answering-myths",
+    "https://www.nationalpopularvote.com/write",
+    "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state",
+    "https://www.nationalpopularvote.com/volunteer",
+    "https://www.nationalpopularvote.com/media-inquiries"
+  ],
+  "by_depth": {
+    "0": [
+      "https://nationalpopularvote.com/"
+    ],
+    "1": [
+      "https://www.nationalpopularvote.com/search/node",
+      "https://www.nationalpopularvote.com/",
+      "https://www.nationalpopularvote.com/donate",
+      "https://www.nationalpopularvote.com/written-explanation",
+      "https://www.nationalpopularvote.com/answering-myths"
+    ],
+    "2": [
+      "https://www.nationalpopularvote.com/write",
+      "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state",
+      "https://www.nationalpopularvote.com/volunteer",
+      "https://www.nationalpopularvote.com/media-inquiries",
+      "https://www.nationalpopularvote.com/polls",
+      "https://www.nationalpopularvote.com/about",
+      "https://www.nationalpopularvote.com/advisory-board",
+      "https://www.nationalpopularvote.com/contact",
+      "https://www.nationalpopularvote.com/books",
+      "https://www.nationalpopularvote.com/electoral-college",
+      "https://www.nationalpopularvote.com/get-email-updates",
+      "https://www.nationalpopularvote.com/state-status",
+      "https://www.nationalpopularvote.com/news-history",
+      "https://www.nationalpopularvote.com/news",
+      "https://www.nationalpopularvote.com/newsletters",
+      "https://www.nationalpopularvote.com/bill-text",
+      "https://www.nationalpopularvote.com/state/ak",
+      "https://www.nationalpopularvote.com/state/al",
+      "https://www.nationalpopularvote.com/state/ar",
+      "https://www.nationalpopularvote.com/state/az",
+      "https://www.nationalpopularvote.com/state/ca",
+      "https://www.nationalpopularvote.com/state/co",
+      "https://www.nationalpopularvote.com/state/ct",
+      "https://www.nationalpopularvote.com/state/dc",
+      "https://www.nationalpopularvote.com/state/de"
+    ],
+    "3": [
+      "https://www.nationalpopularvote.com/state/fl",
+      "https://www.nationalpopularvote.com/state/ga",
+      "https://www.nationalpopularvote.com/state/hi",
+      "https://www.nationalpopularvote.com/state/ia",
+      "https://www.nationalpopularvote.com/state/id",
+      "https://www.nationalpopularvote.com/state/il",
+      "https://www.nationalpopularvote.com/state/in",
+      "https://www.nationalpopularvote.com/state/ks",
+      "https://www.nationalpopularvote.com/state/ky",
+      "https://www.nationalpopularvote.com/state/la",
+      "https://www.nationalpopularvote.com/state/ma",
+      "https://www.nationalpopularvote.com/state/md",
+      "https://www.nationalpopularvote.com/state/me",
+      "https://www.nationalpopularvote.com/state/mi",
+      "https://www.nationalpopularvote.com/state/mn",
+      "https://www.nationalpopularvote.com/state/mo",
+      "https://www.nationalpopularvote.com/state/ms",
+      "https://www.nationalpopularvote.com/state/mt",
+      "https://www.nationalpopularvote.com/state/nc"
+    ]
+  },
+  "dead_links": []
+}

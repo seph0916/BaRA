@@ -1,0 +1,3870 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://daringfireball.net/graphics/logos/",
+        "https://daringfireball.net/martini/images/workos.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 964,
+    "links": [
+        {
+            "text": "",
+            "href": "https://daringfireball.net/"
+        },
+        {
+            "text": "ARCHIVE",
+            "href": "https://daringfireball.net/archive/"
+        },
+        {
+            "text": "THE TALK SHOW",
+            "href": "https://daringfireball.net/thetalkshow/"
+        },
+        {
+            "text": "DITHERING",
+            "href": "https://dithering.fm/"
+        },
+        {
+            "text": "PROJECTS",
+            "href": "https://daringfireball.net/projects/"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://daringfireball.net/contact/"
+        },
+        {
+            "text": "COLOPHON",
+            "href": "https://daringfireball.net/colophon/"
+        },
+        {
+            "text": "FEEDS / SOCIAL",
+            "href": "https://daringfireball.net/feeds/"
+        },
+        {
+            "text": "SPONSORSHIP",
+            "href": "https://daringfireball.net/feeds/sponsors/"
+        },
+        {
+            "text": "",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "Daring Fireball RSS feed",
+            "href": "http://daringfireball.net/feeds/sponsors"
+        },
+        {
+            "text": "WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/05/workos_agents_need_context_shi"
+        },
+        {
+            "text": "Drata",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/05/drata_5"
+        },
+        {
+            "text": "WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/05/workos_ready_to_sell_to_enterp"
+        },
+        {
+            "text": "WorkOS: Go From ‘We Don’t Support SSO’ to Enterprise Ready in a Weekend",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/04/workos_go_from_we_dont_support"
+        },
+        {
+            "text": "Rec League",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/04/rec_league"
+        },
+        {
+            "text": "WorkOS FGA: The Authorization Layer for AI Agents",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/04/workos_fga_the_authorization_l"
+        },
+        {
+            "text": "Zed, a Font Superfamily",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/04/zed_a_font_superfamily"
+        },
+        {
+            "text": "Material Security",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/03/material_security"
+        },
+        {
+            "text": "npx workos: From Auth Integration to Environment Management, Zero ClickOps",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/03/npx_workos_from_auth_integrati"
+        },
+        {
+            "text": "Mux — Video API for Developers",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/03/mux_--_video_api_for_developer"
+        },
+        {
+            "text": "Finalist",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/03/finalist"
+        },
+        {
+            "text": "npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/03/npx_workos_an_ai_agent_that_wr"
+        },
+        {
+            "text": "Hands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/02/hands-on_workshop_fix_it_faste_1"
+        },
+        {
+            "text": "Hands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/02/hands-on_workshop_fix_it_faste"
+        },
+        {
+            "text": "WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/02/workos_pipes_ship_third-party_2"
+        },
+        {
+            "text": "WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/01/workos_pipes_ship_third-party_1"
+        },
+        {
+            "text": "Meh",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/01/meh_2"
+        },
+        {
+            "text": "WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/01/workos_pipes_ship_third-party"
+        },
+        {
+            "text": "Copilot Money",
+            "href": "https://daringfireball.net/feeds/sponsors/2026/01/copilot_money_1"
+        },
+        {
+            "text": "ListenLater.net",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/12/listenlaternet_2"
+        },
+        {
+            "text": "Copilot Money",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/12/copilot_money"
+        },
+        {
+            "text": "Finalist Daily Planner for iOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/12/finalist_daily_planner_for_ios"
+        },
+        {
+            "text": "Jaho Coffee Roaster",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/12/jaho_coffee_roaster_1"
+        },
+        {
+            "text": "Protect Your App From Bots and Abuse With WorkOS Radar",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/12/protect_your_app_from_bots_and"
+        },
+        {
+            "text": "Dekáf Coffee Roasters — Holiday Gift Bundles",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/11/dekaf_coffee_roasters_holiday"
+        },
+        {
+            "text": "Clerk for iOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/11/clerk_for_ios"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/11/workos_scalable_secure_authent_10"
+        },
+        {
+            "text": "Mux: Video API for Developers",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/11/mux_video_api_for_developers_1"
+        },
+        {
+            "text": "Jaho Coffee Roaster",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/10/jaho_coffee_roaster"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/10/workos_scalable_secure_authent_9"
+        },
+        {
+            "text": "Mux: Video API for Developers",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/10/mux_video_api_for_developers"
+        },
+        {
+            "text": "Drata",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/10/drata_4"
+        },
+        {
+            "text": "S&P Global",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/09/sp_global"
+        },
+        {
+            "text": "Drata",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/09/drata_3"
+        },
+        {
+            "text": "Dekáf Coffee Roasters",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/09/dekaf_coffee_roasters_2"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/09/workos_scalable_secure_authent_8"
+        },
+        {
+            "text": "TextJam",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/09/textjam"
+        },
+        {
+            "text": "Walk the World",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/08/walk_the_world"
+        },
+        {
+            "text": "Phoenix.new",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/08/phoenixnew_1"
+        },
+        {
+            "text": "Dekáf Coffee Roasters",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/08/dekaf_coffee_roasters_1"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/08/workos_scalable_secure_authent_7"
+        },
+        {
+            "text": "Hello Weather",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/07/hello_weather"
+        },
+        {
+            "text": "SafeBase by Drata",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/07/safebase_by_drata"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/07/workos_scalable_secure_authent_6"
+        },
+        {
+            "text": "Drata",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/07/drata_2"
+        },
+        {
+            "text": "Phoenix.new",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/07/phoenixnew"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/06/workos_scalable_secure_authent_5"
+        },
+        {
+            "text": "Drata",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/06/drata_1"
+        },
+        {
+            "text": "DetailsPro",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/06/detailspro_1"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/06/workos_scalable_secure_authent_4"
+        },
+        {
+            "text": "Ooni Halo Pro Spiral Mixer",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/05/ooni_halo_pro_spiral_mixer"
+        },
+        {
+            "text": "Drata",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/05/drata"
+        },
+        {
+            "text": "Bolt: What Do You Want to Build?",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/05/bolt_what_do_you_want_to_build"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/05/workos_scalable_secure_authent_3"
+        },
+        {
+            "text": "ListenLater.net",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/04/listenlaternet_1"
+        },
+        {
+            "text": "Dekáf Coffee Roasters",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/04/dekaf_coffee_roasters"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/04/workos_scalable_secure_authent_2"
+        },
+        {
+            "text": "Democracy",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/03/democracy"
+        },
+        {
+            "text": "Lex.Games: Free Daily Word Games",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/03/lexgames_free_daily_word_games"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/03/workos_scalable_secure_authent_1"
+        },
+        {
+            "text": "WorkOS: Scalable, Secure Authentication",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/03/workos_scalable_secure_authent"
+        },
+        {
+            "text": "Protect Your App With WorkOS Radar",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/02/protect_your_app_with_workos_r_2"
+        },
+        {
+            "text": "Clerk — Complete User Management for Your iOS Application",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/02/clerk_--_complete_user_managem"
+        },
+        {
+            "text": "Protect Your App With WorkOS Radar",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/01/protect_your_app_with_workos_r_1"
+        },
+        {
+            "text": "Fucking Amazon",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/01/fucking_amazon_1"
+        },
+        {
+            "text": "Protect Your App With WorkOS Radar",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/01/protect_your_app_with_workos_r"
+        },
+        {
+            "text": "ListenLater.net",
+            "href": "https://daringfireball.net/feeds/sponsors/2025/01/listenlaternet"
+        },
+        {
+            "text": "Due",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/12/due"
+        },
+        {
+            "text": "Jiiiii",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/12/jiiiii"
+        },
+        {
+            "text": "CoverSutra",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/12/coversutra"
+        },
+        {
+            "text": "1Password: You Want to Charge How Much for SSO?",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/12/1password_you_want_to_charge_h"
+        },
+        {
+            "text": "Streaks and Little Streaks",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/11/streaks_and_little_streaks"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/11/workos_17"
+        },
+        {
+            "text": "Upgraded",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/11/upgraded"
+        },
+        {
+            "text": "1Password: The Infinite Loop of Security",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/11/1password_the_infinite_loop_of_1"
+        },
+        {
+            "text": "Nomorobo",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/10/nomorobo"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/10/workos_16"
+        },
+        {
+            "text": "Weather Up: At-a-Glance Forecasts",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/10/weather_up"
+        },
+        {
+            "text": "1Password: Without C-Suite Buy-In, Security Is Just Rearranging Deck Chairs",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/10/1password_without_c-suite_buy-_1"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/09/workos_15"
+        },
+        {
+            "text": "Method",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/09/method"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/09/workos_14"
+        },
+        {
+            "text": "Tiptop",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/09/tiptop"
+        },
+        {
+            "text": "1Password: You Can’t Ignore GDPR Anymore",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/09/1password_you_cant_ignore_gdpr_1"
+        },
+        {
+            "text": "You Want to Charge How Much for SSO?",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/08/you_want_to_charge_how_much_fo"
+        },
+        {
+            "text": "1Password: The Infinite Loop of Security",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/08/1password_the_infinite_loop_of"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/08/workos_13"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/08/workos_12"
+        },
+        {
+            "text": "1Password: Without C-Suite Buy-In, Security Is Just Rearranging Deck Chairs",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/08/1password_without_c-suite_buy-"
+        },
+        {
+            "text": "1Password: You Can’t Ignore GDPR Anymore",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/07/1password_you_cant_ignore_gdpr"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/07/workos_11"
+        },
+        {
+            "text": "Dabba",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/07/dabba"
+        },
+        {
+            "text": "BriefLook",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/07/brieflook"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/06/workos_10"
+        },
+        {
+            "text": "Kolide by 1Password: ‘Looking Past the Smoke and Mirrors of the MGM Hack’",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/06/kolide_by_1password_looking_pa"
+        },
+        {
+            "text": "DetailsPro",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/06/detailspro"
+        },
+        {
+            "text": "Kolide: ‘Are You Worse at Security Than the TSA?’",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/06/kolide_are_you_worse_at_securi_1"
+        },
+        {
+            "text": "Atoms × MKBHD 251.1",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/05/atoms_mkbhd_2511"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/05/workos_9"
+        },
+        {
+            "text": "Kolide: ‘Struggling to Afford Cybersecurity Insurance? Here’s Why.’",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/05/kolide_struggling_to_afford_cy_1"
+        },
+        {
+            "text": "Nylas for Email and Calendar APIs",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/05/nylas_for_email_and_calendar_a_2"
+        },
+        {
+            "text": "Kolide: ‘Voice Clones Have Crossed the Uncanny Valley’",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/04/kolide_voice_clones_have_cross"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/04/workos_8"
+        },
+        {
+            "text": "Kolide: ‘Looking Past the Smoke and Mirrors of the MGM Hack’",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/04/kolide_looking_past_the_smoke"
+        },
+        {
+            "text": "Pok Pok",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/04/pok_pok"
+        },
+        {
+            "text": "Kolide: ‘Are You Worse at Security Than the TSA?’",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/04/kolide_are_you_worse_at_securi"
+        },
+        {
+            "text": "Kolide: ‘Struggling to Afford Cybersecurity Insurance? Here’s Why.’",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/03/kolide_struggling_to_afford_cy"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/03/workos_7"
+        },
+        {
+            "text": "CloudSLAW",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/03/cloudslaw"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/02/workos_6"
+        },
+        {
+            "text": "Sonar Mac App for GitHub/GitLab Issues",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/02/sonar_mac_app_for_githubgitlab"
+        },
+        {
+            "text": "Nylas for Email and Calendar APIs",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/02/nylas_for_email_and_calendar_a_1"
+        },
+        {
+            "text": "Infos",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/02/infos"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/01/workos_5"
+        },
+        {
+            "text": "Day One Journal App",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/01/day_one_journal_app"
+        },
+        {
+            "text": "HEY Calendar",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/01/hey_calendar"
+        },
+        {
+            "text": "It’s Meh",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/01/its_meh"
+        },
+        {
+            "text": "Fantastical",
+            "href": "https://daringfireball.net/feeds/sponsors/2024/01/fantastical_3"
+        },
+        {
+            "text": "Fantastical",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/12/fantastical_2"
+        },
+        {
+            "text": "Obsidian",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/12/obsidian_1"
+        },
+        {
+            "text": "Kolide: ‘The Dirty Secret of OS Updates’",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/12/kolide_the_dirty_secret_of_os_1"
+        },
+        {
+            "text": "Obsidian",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/12/obsidian"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta. Watch the Demo Today",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/11/kolide_--_device_trust_for_okt_6"
+        },
+        {
+            "text": "Kolide: ‘The Dirty Secret of OS Updates’",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/11/kolide_the_dirty_secret_of_os"
+        },
+        {
+            "text": "Vanta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/11/vanta"
+        },
+        {
+            "text": "Tailscale",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/11/tailscale_4"
+        },
+        {
+            "text": "Tailscale",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/10/tailscale_3"
+        },
+        {
+            "text": "Tailscale",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/10/tailscale_2"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta. Watch the Demo Today",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/10/kolide_--_device_trust_for_okt_5"
+        },
+        {
+            "text": "iMazing 3 Coming Soon: Save 30% and Try Out the Beta Today!",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/10/imazing_3_coming_soon_save_30"
+        },
+        {
+            "text": "The Dirty Secret of OS Updates",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/10/the_dirty_secret_of_os_updates_2"
+        },
+        {
+            "text": "Get your DX Checkup",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/09/get_your_dx_checkup"
+        },
+        {
+            "text": "Multi — Multiplayer Collaboration for macOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/09/multimultiplayer_collaboration"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta. Watch the Demo Today.",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/09/kolide_--_device_trust_for_okt_4"
+        },
+        {
+            "text": "Oh Dear",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/09/oh_dear"
+        },
+        {
+            "text": "Jigx",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/08/jigx_1"
+        },
+        {
+            "text": "The Dirty Secret of OS Updates",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/08/the_dirty_secret_of_os_updates_1"
+        },
+        {
+            "text": "Rewatch",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/08/rewatch"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta. Watch the demo today.",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/08/kolide_--_device_trust_for_okt_3"
+        },
+        {
+            "text": "Warp — Your Terminal, Reimagined",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/07/warp_your_terminal_reimagined"
+        },
+        {
+            "text": "The Dirty Secret of OS Updates",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/07/the_dirty_secret_of_os_updates"
+        },
+        {
+            "text": "Jigx",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/07/jigx"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta. Watch the demo today.",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/07/kolide_--_device_trust_for_okt_2"
+        },
+        {
+            "text": "Nylas for Email and Calendar APIs",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/07/nylas_for_email_and_calendar_a"
+        },
+        {
+            "text": "Axiom",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/06/axiom"
+        },
+        {
+            "text": "Kolide — Zero Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/06/kolide_zero_trust_for_okta_1"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/06/kolide_device_trust_for_okta_1"
+        },
+        {
+            "text": "Retool",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/06/retool_6"
+        },
+        {
+            "text": "Sky Guide",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/05/sky_guide"
+        },
+        {
+            "text": "Kolide — Zero Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/05/kolide_zero_trust_for_okta"
+        },
+        {
+            "text": "Onin Keyboard Calendar",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/05/onin_keyboard_calendar"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/05/workos_4"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/05/kolide_device_trust_for_okta"
+        },
+        {
+            "text": "Limited Edition: Atoms × MKBHD Sneaker M251",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/04/limited_edition_atoms_mkbhd_sn"
+        },
+        {
+            "text": "Kolide — Zero Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/04/kolide_--_zero_trust_for_okta_2"
+        },
+        {
+            "text": "Meh.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/04/meh_1"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/04/workos_3"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/03/kolide_--_device_trust_for_okt_1"
+        },
+        {
+            "text": "Kolide — Zero Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/03/kolide_--_zero_trust_for_okta_1"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/03/workos_2"
+        },
+        {
+            "text": "Kolide — Device Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/03/kolide_--_device_trust_for_okt"
+        },
+        {
+            "text": "Kolide — Zero Trust for Okta",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/02/kolide_--_zero_trust_for_okta"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/02/workos_1"
+        },
+        {
+            "text": "Double the Brightness of Your MacBook Pro With Vivid",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/01/double_the_brightness_of_your"
+        },
+        {
+            "text": "Meh",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/01/meh"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2023/01/workos"
+        },
+        {
+            "text": "Retool",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/12/retool_5"
+        },
+        {
+            "text": "Kolide — Endpoint Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/12/kolide_--_endpoint_security_fo"
+        },
+        {
+            "text": "Doxie Pro — The Document Scanner for Home, Office, or Home Office",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/11/doxie_pro_the_document_scanner"
+        },
+        {
+            "text": "Tuple",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/11/tuple"
+        },
+        {
+            "text": "Kolide — Endpoint Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/11/kolide_endpoint_security_for_t_4"
+        },
+        {
+            "text": "Kolide — Endpoint Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/11/kolide_endpoint_security_for_t_3"
+        },
+        {
+            "text": "Atoms",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/10/atoms_1"
+        },
+        {
+            "text": "Kolide — Endpoint Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/10/kolide_endpoint_security_for_t_2"
+        },
+        {
+            "text": "Kolide — Endpoint Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/10/kolide_endpoint_security_for_t_1"
+        },
+        {
+            "text": "Kolide — Endpoint Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/10/kolide_endpoint_security_for_t"
+        },
+        {
+            "text": "Fantastical",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/10/fantastical_1"
+        },
+        {
+            "text": "Fantastical",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/09/fantastical"
+        },
+        {
+            "text": "Warp",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/09/warp"
+        },
+        {
+            "text": "iMazing",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/09/imazing"
+        },
+        {
+            "text": "Retool",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/09/retool_4"
+        },
+        {
+            "text": "Status Hero",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/08/status_hero"
+        },
+        {
+            "text": "RevenueCat",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/08/revenuecat_2"
+        },
+        {
+            "text": "RevenueCat",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/08/revenuecat_1"
+        },
+        {
+            "text": "Sourcegraph",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/08/sourcegraph_2"
+        },
+        {
+            "text": "Sourcegraph",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/08/sourcegraph_1"
+        },
+        {
+            "text": "Beam Beta",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/07/beam_beta"
+        },
+        {
+            "text": "RevenueCat",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/07/revenuecat"
+        },
+        {
+            "text": "Sofa",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/07/sofa"
+        },
+        {
+            "text": "Tailscale SSH",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/07/tailscale_ssh"
+        },
+        {
+            "text": "Tailscale",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/06/tailscale_1"
+        },
+        {
+            "text": "Tailscale",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/06/tailscale"
+        },
+        {
+            "text": "Rows",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/06/rows_2"
+        },
+        {
+            "text": "Retool",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/06/retool_3"
+        },
+        {
+            "text": "Kolide — Endpoint Security Powered by People",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/06/kolide_--_endpoint_security_po_2"
+        },
+        {
+            "text": "Kolide — Endpoint Security Powered by People",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/05/kolide_endpoint_security_power_1"
+        },
+        {
+            "text": "Keyboard Maestro",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/05/keyboard_maestro"
+        },
+        {
+            "text": "Kolide — Endpoint Security Powered by People",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/05/kolide_endpoint_security_power"
+        },
+        {
+            "text": "Kolide — Endpoint Security Powered by People",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/05/kolide_--_endpoint_security_po_1"
+        },
+        {
+            "text": "Tara AI: Git Ship Done",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/04/tara_ai_git_ship_done"
+        },
+        {
+            "text": "Kolide — Endpoint Security Powered by People",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/04/kolide_--_endpoint_security_po"
+        },
+        {
+            "text": "Kolide",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/04/kolide_4"
+        },
+        {
+            "text": "Kolide",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/04/kolide_3"
+        },
+        {
+            "text": "Studio 3T",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/03/studio_3t"
+        },
+        {
+            "text": "Kolide",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/03/kolide_2"
+        },
+        {
+            "text": "MacStadium — The Mac Cloud for Business",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/03/macstadium_--_the_mac_cloud_fo"
+        },
+        {
+            "text": "Kolide",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/03/kolide_1"
+        },
+        {
+            "text": "Unlined — No More Unwanted Calls from a ‘Karen’",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/02/unlined_--_no_m"
+        },
+        {
+            "text": "Kolide",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/02/kolide"
+        },
+        {
+            "text": "Instabug’s Mobile App Performance Monitoring",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/02/instabugs_mobile_app_performan"
+        },
+        {
+            "text": "Rows",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/02/rows_1"
+        },
+        {
+            "text": "🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 meh.com 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/02/_mehcom"
+        },
+        {
+            "text": "You.com — Search Less, Code More",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/01/youcom_--_search_less_code_mor"
+        },
+        {
+            "text": "Listen Notes: The Best Podcast Search Engine and Database",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/01/listen_notes_the_best_podcast"
+        },
+        {
+            "text": "Hex",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/01/hex"
+        },
+        {
+            "text": "Mux",
+            "href": "https://daringfireball.net/feeds/sponsors/2022/01/mux_1"
+        },
+        {
+            "text": "MacUpdater",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/12/macupdater"
+        },
+        {
+            "text": "Shaker & Spoon",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/12/shaker_spoon"
+        },
+        {
+            "text": "Mux",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/12/mux"
+        },
+        {
+            "text": "Wifi Dabba",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/12/wifi_dabba_1"
+        },
+        {
+            "text": "Atoms — New Colors & Holiday Discount",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/11/atoms_new_colors_holiday_disco"
+        },
+        {
+            "text": "Retool",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/11/retool_2"
+        },
+        {
+            "text": "Mux Video",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/11/mux_video_5"
+        },
+        {
+            "text": "Rows",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/11/rows"
+        },
+        {
+            "text": "Shortcut (Formerly Clubhouse.io)",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/10/shortcut_formerly_clubhouseio"
+        },
+        {
+            "text": "Mux Video",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/10/mux_video_4"
+        },
+        {
+            "text": "Fucking Meh.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/10/fucking_mehcom"
+        },
+        {
+            "text": "Copilot",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/10/copilot"
+        },
+        {
+            "text": "Quill — Messaging to Make Your Team Better",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/09/quill_messaging_to_make_your_t_1"
+        },
+        {
+            "text": "Retool",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/09/retool_1"
+        },
+        {
+            "text": "Why Podcasts Are My New Wikipedia  — the  Perfect Informal Learning Resource",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/09/why_podcasts_are_my_new_wikipe"
+        },
+        {
+            "text": "NXLog Enterprise Edition",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/09/nxlog_enterprise_edition"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/08/morning_brew_9"
+        },
+        {
+            "text": "Stacker",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/08/stacker"
+        },
+        {
+            "text": "Mux Video",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/08/mux_video_3"
+        },
+        {
+            "text": "Retool",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/08/retool"
+        },
+        {
+            "text": "Tara AI — Build Better Software, Faster",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/08/tara_ai_build_better_software"
+        },
+        {
+            "text": "GitFinder",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/07/gitfinder"
+        },
+        {
+            "text": "Flatfile Portal",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/07/flatfile_portal_2"
+        },
+        {
+            "text": "Flatfile Portal",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/07/flatfile_portal_1"
+        },
+        {
+            "text": "Literati",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/07/literati_1"
+        },
+        {
+            "text": "Mux Video",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/06/mux_video_2"
+        },
+        {
+            "text": "Flatfile Portal",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/06/flatfile_portal"
+        },
+        {
+            "text": "Simris",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/06/simris"
+        },
+        {
+            "text": "The All-Star Mac Bundle Featuring Parallels Pro",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/06/the_all-star_mac_bundle_featur"
+        },
+        {
+            "text": "Quill — Messaging to Make Your Team Better",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/05/quill_messaging_to_make_your_t"
+        },
+        {
+            "text": "Point Card",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/05/point_card_1"
+        },
+        {
+            "text": "SongPop Party",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/05/songpop_party"
+        },
+        {
+            "text": "Literati",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/05/literati"
+        },
+        {
+            "text": "Magic Lasso Adblock",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/05/magic_lasso_adblock_2"
+        },
+        {
+            "text": "Point Card",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/04/point_card"
+        },
+        {
+            "text": "Tom Bihn: Big Restock Coming Thursday",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/04/tom_bihn_big_restock_coming_th"
+        },
+        {
+            "text": "Raycast — Spotlight on Steroids",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/04/raycast_spotlight_on_steroids"
+        },
+        {
+            "text": "Ordoro",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/04/ordoro"
+        },
+        {
+            "text": "Tom Bihn’s Synik 22",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/03/tom_bihns_synik_22"
+        },
+        {
+            "text": "Simris Algae Omega-3",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/03/simris_algae_omega-3_2"
+        },
+        {
+            "text": "Sourcegraph",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/03/sourcegraph"
+        },
+        {
+            "text": "Tara AI — Easy Agile for Software Teams",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/03/tara_ai_--_easy_agile_for_soft"
+        },
+        {
+            "text": "Atoms Are Sold Out",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/03/atoms_are_sold_out"
+        },
+        {
+            "text": "Instabug: Application Performance Monitoring Built for Mobile Apps",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/02/instabug_application_performan_1"
+        },
+        {
+            "text": "Mux Video",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/02/mux_video_1"
+        },
+        {
+            "text": "Flatfile Portal",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/02/flatfile_concierge_1"
+        },
+        {
+            "text": "Flatfile Concierge",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/02/flatfile_concierge"
+        },
+        {
+            "text": "How I Accidentally Built a Podcast API Business",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/01/how_i_accidentally_built_a_pod"
+        },
+        {
+            "text": "Honk",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/01/honk"
+        },
+        {
+            "text": "FeaturePeek",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/01/featurepeek"
+        },
+        {
+            "text": "Motion",
+            "href": "https://daringfireball.net/feeds/sponsors/2021/01/motion"
+        },
+        {
+            "text": "Mux Video",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/12/mux_video"
+        },
+        {
+            "text": "Wifi Dabba",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/12/wifi_dabba"
+        },
+        {
+            "text": "The Official Cyber Monday Mac Bundle Featuring Parallels Pro & Luminar 4",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/12/the_official_cyber_monday_mac"
+        },
+        {
+            "text": "Honest Security",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/12/honest_security"
+        },
+        {
+            "text": "Halide Mark II",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/11/halide_mark_ii"
+        },
+        {
+            "text": "Kandji",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/11/kandji_4"
+        },
+        {
+            "text": "Tara AI — Product Development for Teams",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/11/tara_ai_--_product_development"
+        },
+        {
+            "text": "Atoms",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/11/atoms"
+        },
+        {
+            "text": "Sketch",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/11/sketch_1"
+        },
+        {
+            "text": "Kandji",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/10/kandji_3"
+        },
+        {
+            "text": "Infolio",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/10/infolio"
+        },
+        {
+            "text": "Kandji",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/10/kandji_2"
+        },
+        {
+            "text": "Instabug: Application Performance Monitoring Built for Mobile Apps",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/10/instabug_application_performan"
+        },
+        {
+            "text": "Simris Algae Omega-3",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/09/simris_algae_omega-3_1"
+        },
+        {
+            "text": "Kandji",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/09/kandji_1"
+        },
+        {
+            "text": "HEY",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/09/hey"
+        },
+        {
+            "text": "ODA — Modular Everyday Bags",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/09/oda_modular_everyday_bags"
+        },
+        {
+            "text": "MacStadium: Half Off Forever (HOF) Promo",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/08/macstadium_half_off_forever_ho"
+        },
+        {
+            "text": "Kandji",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/08/kandji"
+        },
+        {
+            "text": "Wifi Dabba — Own a Piece of the Internet in India",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/08/wifi_dabba_--_own_a_piece_of_t"
+        },
+        {
+            "text": "Tara AI — Smart Project Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/08/tara_ai_--_smart_project_manag"
+        },
+        {
+            "text": "Loopback From Rogue Amoeba",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/08/loopback_from_rogue_amoeba"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/07/morning_brew_8"
+        },
+        {
+            "text": "Algoriddim — djay Pro AI",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/07/algoriddim_djay_pro_ai"
+        },
+        {
+            "text": "Simris Algae Omega-3",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/07/simris_algae_omega-3"
+        },
+        {
+            "text": "Change the Twenty: The Harriet Tubman Twenty Dollar Bill",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/07/change_for_twenty_the_harriet"
+        },
+        {
+            "text": "YES PLZ: The Best Coffee in Your Kitchen",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/07/yes_plz_the_best_coffee_in_you_2"
+        },
+        {
+            "text": "Atoms Everyday Face Mask",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/06/atoms_everyday_face_mask"
+        },
+        {
+            "text": "Danilo Campos",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/06/danilo_campos"
+        },
+        {
+            "text": "Introducing the 7 Best Pressure Washers",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/06/introducing_the_7_best_pressur"
+        },
+        {
+            "text": "Magic Lasso Adblock",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/06/magic_lasso_adblock_1"
+        },
+        {
+            "text": "The Magic Puzzle Company",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/05/the_magic_puzzle_company"
+        },
+        {
+            "text": "The Square Small Business Hackathon",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/05/the_square_small_business_hack"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/05/morning_brew_7"
+        },
+        {
+            "text": "The Essential Website Audit from Say Yeah!",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/05/the_essential_website_audit_fr"
+        },
+        {
+            "text": "Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/04/jamf_now_6"
+        },
+        {
+            "text": "Magic Lasso Adblock",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/04/magic_lasso_adblock"
+        },
+        {
+            "text": "SoundSource From Rogue Amoeba",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/03/soundsource_from_rogue_amoeba"
+        },
+        {
+            "text": "NextDraft",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/03/nextdraft_1"
+        },
+        {
+            "text": "YES PLZ — the Best Coffee in Your Kitchen",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/03/yes_plz_the_best_coffee_in_you_1"
+        },
+        {
+            "text": "YES PLZ — the Best Coffee in Your Kitchen",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/03/yes_plz_the_best_coffee_in_you"
+        },
+        {
+            "text": "Scanii",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/02/scanii"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/02/morning_brew_6"
+        },
+        {
+            "text": "Square",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/02/square"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/02/morning_brew_5"
+        },
+        {
+            "text": "Kolide: User Focused Security For Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/01/kolide_user_focused_security_f_7"
+        },
+        {
+            "text": "SQLPro Studio — Database Client for macOS & iOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/01/sqlpro_studio_--_database_clie"
+        },
+        {
+            "text": "MyNetDiary",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/01/mynetdiary_1"
+        },
+        {
+            "text": "Kolide: User Focused Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2020/01/kolide_user_focused_security_f_6"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/12/morning_brew_4"
+        },
+        {
+            "text": "Atoms — Ideal Everyday Shoes",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/12/atoms_ideal_everyday_shoes_4"
+        },
+        {
+            "text": "Doxie Mobile Scanners — Scan Smarter, Not Harder",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/12/doxie_mobile_scanners_scan_sma"
+        },
+        {
+            "text": "SignEasy",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/12/signeasy"
+        },
+        {
+            "text": "Basecamp, Before + After",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/11/basecamp_before_after"
+        },
+        {
+            "text": "1Password",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/11/1password"
+        },
+        {
+            "text": "Kolide: User Focused Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/11/kolide_user_focused_security_f_5"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/11/morning_brew_3"
+        },
+        {
+            "text": "Guardian Firewall",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/10/guardian_firewall"
+        },
+        {
+            "text": "Future",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/10/future"
+        },
+        {
+            "text": "Addigy: Unified Apple Device Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/10/addigy_unified_apple_device_ma"
+        },
+        {
+            "text": "Kolide: User Focused Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/10/kolide_user_focused_security_f_4"
+        },
+        {
+            "text": "Jamf Now: Secure and On-Demand, Apple Mobile Device Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/09/jamf_now_secure_and_on-demand"
+        },
+        {
+            "text": "Procreate",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/09/procreate_3"
+        },
+        {
+            "text": "Instabug",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/09/instabug"
+        },
+        {
+            "text": "Kolide: User Focused Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/09/kolide_user_focused_security_f_3"
+        },
+        {
+            "text": "Kolide: User Focused Security for Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/09/kolide_user_focused_security_f_2"
+        },
+        {
+            "text": "Atoms — Ideal Everyday Shoes",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/08/atoms_ideal_everyday_shoes_3"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/08/morning_brew_2"
+        },
+        {
+            "text": "Easily Secure and Manage Your Apple Devices with Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/08/easily_secure_and_manage_your"
+        },
+        {
+            "text": "Shape Up: Stop Running in Circles and Ship Work That Matters",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/07/shape_up_stop_running_in_circl_1"
+        },
+        {
+            "text": "TextExpander",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/07/textexpander"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/07/morning_brew_1"
+        },
+        {
+            "text": "Kolide: User Focused Security For Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/07/kolide_user_focused_security_f_1"
+        },
+        {
+            "text": "Kolide: User Focused Security For Teams That Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/06/kolide_user_focused_security_f"
+        },
+        {
+            "text": "MacStadium — Simple, Scalable, Secure Mac Infrastructure",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/06/macstadium_--_simple_scalable"
+        },
+        {
+            "text": "Pixelmator Photo",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/06/pixelmator_photo_1"
+        },
+        {
+            "text": "Memos — Photographic Memory",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/05/memos_photographic_memory"
+        },
+        {
+            "text": "Layers + The Talk Show Live",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/05/layers_the_talk_show_live"
+        },
+        {
+            "text": "Atoms — Ideal Everyday Shoes",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/05/atoms_ideal_everyday_shoes_2"
+        },
+        {
+            "text": "Monarch Trips",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/04/monarch_trips"
+        },
+        {
+            "text": "Morning Brew",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/04/morning_brew"
+        },
+        {
+            "text": "Agenda + Reminders",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/04/agenda_reminders"
+        },
+        {
+            "text": "Jamf Now – Easy Apple Device Management for Any Organization",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/04/jamf_now_easy_apple_device_man_1"
+        },
+        {
+            "text": "StackSocial’s Epic Mac Bundle Ft. Fantastical 2",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/04/stacksocials_epic_mac_bundle_f"
+        },
+        {
+            "text": "Meh.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/03/mehcom_1"
+        },
+        {
+            "text": "GravityView: Don’t Write Code. Blow Minds.",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/03/gravityview_dont_write_code_bl"
+        },
+        {
+            "text": "Jamf Now — Easy Apple device management for any organization",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/03/jamf_now_easy_apple_device_man"
+        },
+        {
+            "text": "Atoms — Ideal Everyday Shoes",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/03/atoms_ideal_everyday_shoes_1"
+        },
+        {
+            "text": "Buddy: The Fastest Website Deployments",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/02/buddy_the_fastest_website_depl"
+        },
+        {
+            "text": "Atoms — Ideal Everyday Shoes",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/02/atoms_ideal_everyday_shoes"
+        },
+        {
+            "text": "Jamf Now — Easily Secure and Manage Your Apple Devices",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/02/jamf_now_easily_secure_and_man"
+        },
+        {
+            "text": "Skillshare — The Best Way to Learn Online",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/02/skillshare_--_the_best_way_to_3"
+        },
+        {
+            "text": "Square In-App Payments SDK",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/01/square_in-app_payments_sdk"
+        },
+        {
+            "text": "Dashlane",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/01/dashlane"
+        },
+        {
+            "text": "Procreate",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/01/procreate_2"
+        },
+        {
+            "text": "HyperDrive: World’s First USB-C Hub for 2018 iPad Pro",
+            "href": "https://daringfireball.net/feeds/sponsors/2019/01/hyperdrive_worlds_1st_usb-c_hu"
+        },
+        {
+            "text": "Banktivity 7 Personal Finance Software for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/12/banktivity_7_personal_finance"
+        },
+        {
+            "text": "SketchParty TV",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/12/sketchparty_tv"
+        },
+        {
+            "text": "Agenda Adds Images",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/12/agenda_adds_images"
+        },
+        {
+            "text": "Outlier",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/12/outlier_2"
+        },
+        {
+            "text": "Doxie Mobile Scanners — Give the Gift of Paperless",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/12/doxie_mobile_scanners_give_the"
+        },
+        {
+            "text": "iFixit: The Free Online Repair Manual for Everything, Written by Everyone",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/11/ifixit_the_free_online_repair"
+        },
+        {
+            "text": "SQLPro — Database Management for macOS and iOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/11/sqlpro_database_management_for"
+        },
+        {
+            "text": "Square Reader SDK",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/11/square_reader_sdk"
+        },
+        {
+            "text": "Universe",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/11/universe"
+        },
+        {
+            "text": "Fleetsmith: Automated Apple Device Management for Security-Minded Teams",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/10/fleetsmith_automated_apple_dev"
+        },
+        {
+            "text": "Audio Memos Pro — The Voice Recorder",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/10/audio_memos_pro_--_the_voice_r"
+        },
+        {
+            "text": "Flow",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/10/flow"
+        },
+        {
+            "text": "HyperJuice: World’s Most Powerful USB-C Battery Pack",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/10/hyperjuice_worlds_most_powerfu"
+        },
+        {
+            "text": "Skillshare — The Best Way to Learn Online",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/10/skillshare_--_the_best_way_to_2"
+        },
+        {
+            "text": "Jamf Now: Streamlined Apple Device Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/09/jamf_now_streamlined_apple_dev"
+        },
+        {
+            "text": "Ingage Instants",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/09/instants"
+        },
+        {
+            "text": "Brilliant",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/09/brilliant_1"
+        },
+        {
+            "text": "Creative Selection",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/09/creative_selection"
+        },
+        {
+            "text": "Jamf Now: Manage Your Apple Devices in Minutes",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/08/jamf_now_manage_your_apple_dev_1"
+        },
+        {
+            "text": "Brilliant",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/08/brilliant"
+        },
+        {
+            "text": "UpHabit",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/08/uphabit"
+        },
+        {
+            "text": "Honeybadger",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/08/honeybadger"
+        },
+        {
+            "text": "Jamf Now: Manage Your Apple Devices in Minutes",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/07/jamf_now_manage_your_apple_dev"
+        },
+        {
+            "text": "MartianCraft",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/07/martiancraft"
+        },
+        {
+            "text": "Timing: Track your Time. Then Spend it Better.",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/07/timing_track_your_time_then_sp"
+        },
+        {
+            "text": "Journey Across Bhutan: The World’s First Carbon-Negative Country",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/07/journey_across_bhutan_the_worl"
+        },
+        {
+            "text": "Kolide for Mac: User Focused Security",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/07/kolide_for_mac_user_focused_se_2"
+        },
+        {
+            "text": "Field Notes: ‘Three Missions’ Edition",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/06/field_notes_three_missions_edi"
+        },
+        {
+            "text": "Snap Kit by Snapchat",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/06/snap_kit_by_snapchat"
+        },
+        {
+            "text": "Skillshare — The Best Way to Learn Online",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/06/skillshare_--_the_best_way_to_1"
+        },
+        {
+            "text": "Instabug: Comprehensive Bug Reporting and In-App Feedback SDK for Mobile Apps",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/06/instabug_comprehensive_bug_rep_1"
+        },
+        {
+            "text": "Easily Manage Your Apple Devices in Minutes: Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/05/_easily_manage_your_apple_devi"
+        },
+        {
+            "text": "The Quip Electric Toothbrush Keeps Brushing Better",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/05/the_quip_electric_toothbrush_k"
+        },
+        {
+            "text": "Kolide for Mac: User Focused Security",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/05/kolide_for_mac_user_focused_se_1"
+        },
+        {
+            "text": "Skillshare — The Best Way to Learn Online",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/05/skillshare_--_the_best_way_to"
+        },
+        {
+            "text": "Kolide for Mac: User Focused Security",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/05/kolide_for_mac_user_focused_se"
+        },
+        {
+            "text": "Turn Touch Wooden Smart Home Remote",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/04/turn_touch_wooden_smart_home_r"
+        },
+        {
+            "text": "Jamf Now: Easily Manage Apple Devices in Minutes",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/04/jamf_now_easily_manage_apple_d"
+        },
+        {
+            "text": "JetPens",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/04/jetpens"
+        },
+        {
+            "text": "Diamond Assets",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/03/diamond_assets"
+        },
+        {
+            "text": "Ultra Fractal",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/03/ultra_fractal"
+        },
+        {
+            "text": "Shaker & Spoon — Make Great Drinks",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/03/shaker_spoon_make_great_drinks_1"
+        },
+        {
+            "text": "Tax Time Tip: The IRS Accepts Doxie’s Scanned Receipts",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/03/tax_time_tip_the_irs_accepts_d"
+        },
+        {
+            "text": "Build Your Dream Career With Skillshare",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/02/build_your_dream_career_with_s"
+        },
+        {
+            "text": "Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/02/jamf_now_5"
+        },
+        {
+            "text": "Meh.com: Selling Shit You Don’t Want for So Cheap That You Buy It Anyway",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/02/mehcom_selling_shit_you_dont_w"
+        },
+        {
+            "text": "Instabug: Comprehensive Bug Reporting SDK for Mobile Apps",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/01/instabug_comprehensive_bug_rep"
+        },
+        {
+            "text": "Shaker & Spoon — Make Great Drinks",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/01/shaker_spoon_make_great_drinks"
+        },
+        {
+            "text": "Aaptiv: #1 Audio Fitness App",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/01/aaptiv_1_audio_fitness_app_2"
+        },
+        {
+            "text": "Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/01/jamf_now_4"
+        },
+        {
+            "text": "Aaptiv: #1 Audio Fitness App",
+            "href": "https://daringfireball.net/feeds/sponsors/2018/01/aaptiv_1_audio_fitness_app_1"
+        },
+        {
+            "text": "Aaptiv: #1 Audio Fitness App",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/12/aaptiv_1_audio_fitness_app"
+        },
+        {
+            "text": "eero",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/12/eero"
+        },
+        {
+            "text": "Microsoft App Center",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/12/microsoft_app_center_1"
+        },
+        {
+            "text": "Doxie: Scan Anywhere, 30% Off For DF Readers",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/12/doxie_scan_anywhere_30_off_for"
+        },
+        {
+            "text": "Jamf Now — Manage and Protect Apple Devices in Minutes",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/11/jamf_now_--_manage_and_protect"
+        },
+        {
+            "text": "Go Paperless With Doxie — Up to $90 Off, Now Through Monday",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/11/go_paperless_with_doxie_up_to"
+        },
+        {
+            "text": "Microsoft App Center",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/11/microsoft_app_center"
+        },
+        {
+            "text": "Squarespace Domains",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/11/squarespace_domains_4"
+        },
+        {
+            "text": "Kolide Fleet for Osquery",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/10/kolide_fleet_for_osquery"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/10/squarespace_16"
+        },
+        {
+            "text": "DuckDuckGo",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/10/duckduckgo_1"
+        },
+        {
+            "text": "Setapp",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/10/setapp"
+        },
+        {
+            "text": "Jamf Now: On-Demand, Apple Mobile Device Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/10/jamf_now_on-demand_apple_mobil"
+        },
+        {
+            "text": "CleanMyMac",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/09/cleanmymac"
+        },
+        {
+            "text": "Squarespace Personalized Templates",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/09/squarespace_developer_tools"
+        },
+        {
+            "text": "Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/09/jamf_now_3"
+        },
+        {
+            "text": "Gray Langur Tours: Adventure into Hidden and Mysterious Bhutan",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/08/gray_langur_tours_adventure_in"
+        },
+        {
+            "text": "Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/08/jamf_now_2"
+        },
+        {
+            "text": "Outlier",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/08/outlier_1"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/08/squarespace_15"
+        },
+        {
+            "text": "DuckDuckGo",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/07/duckduckgo"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/07/squarespace_14"
+        },
+        {
+            "text": "FlightLogger",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/07/flightlogger"
+        },
+        {
+            "text": "Timing — Automatic Time Tracking for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/06/timing_automatic_time_tracking"
+        },
+        {
+            "text": "MNML: A macOS Writing App for Medium.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/06/mnml_a_macos_writing_app_for_m"
+        },
+        {
+            "text": "Squarespace Domains",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/06/squarespace_domains_3"
+        },
+        {
+            "text": "Field Notes",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/06/field_notes"
+        },
+        {
+            "text": "Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/05/jamf_now_1"
+        },
+        {
+            "text": "Flow: Simple Project Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/05/flow_simple_project_management"
+        },
+        {
+            "text": "Stashword iOS App and Website",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/05/stashword_ios_app_and_website"
+        },
+        {
+            "text": "Squarespace: Customizable Design",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/05/squarespace_customizable_desig"
+        },
+        {
+            "text": "Amazon Web Service Device Farm",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/05/amazon_web_service_device_farm"
+        },
+        {
+            "text": "Outlier",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/04/outlier"
+        },
+        {
+            "text": "Fastly",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/04/fastly_1"
+        },
+        {
+            "text": "Fastly",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/04/fastly"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/04/squarespace_13"
+        },
+        {
+            "text": "BuildZoom Is a Better Way to Remodel",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/03/buildzoom_is_a_better_way_to_r"
+        },
+        {
+            "text": "HealthFace for Apple Watch",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/03/healthface_for_apple_watch"
+        },
+        {
+            "text": "Quip Electric Toothbrush",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/03/quip_electric_toothbrush"
+        },
+        {
+            "text": "Squarespace Domains",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/03/squarespace_domains_2"
+        },
+        {
+            "text": "Buddybuild: A CI / CD Built for iOS Developers",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/02/buddybuild_a_ci_cd_built_for_i"
+        },
+        {
+            "text": "Mac Private Clouds From MacStadium",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/02/mac_private_clouds_from_macsta"
+        },
+        {
+            "text": "Squarespace Domains",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/02/squarespace_domains_1"
+        },
+        {
+            "text": "Jamf Now",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/02/jamf_now"
+        },
+        {
+            "text": "Setapp by MacPaw Is an ‘Unstore’ Alternative to the Mac App Store",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/01/setapp_by_macpaw_is_an_unstore"
+        },
+        {
+            "text": "Smartling: Translate Mobile Apps in an Instant",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/01/smartling_translate_mobile_app"
+        },
+        {
+            "text": "V for Wikipedia",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/01/v_for_wikipedia"
+        },
+        {
+            "text": "Speedtest Desktop Apps for Mac and Windows",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/01/speedtest_desktop_apps_for_mac"
+        },
+        {
+            "text": "Aaptiv: On-Demand Audio Fitness",
+            "href": "https://daringfireball.net/feeds/sponsors/2017/01/aaptiv_on-demand_audio_fitness"
+        },
+        {
+            "text": "StoryWorth",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/12/storyworth_1"
+        },
+        {
+            "text": "Padded Spaces: Where Gadgets Go to Relax",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/12/padded_spaces_where_gadgets_go_2"
+        },
+        {
+            "text": "eero Wi-Fi System",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/12/eero_wi-fi_system"
+        },
+        {
+            "text": "Introducing Prop ’n Go Tote — Any Device / Any Angle / Anywhere",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/11/introducing_prop_n_go_tote_any"
+        },
+        {
+            "text": "Introducing Doxie Q — Go Seriously Paperless",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/11/introducing_doxie_q_go_serious"
+        },
+        {
+            "text": "Victory: A Charting Library for React.js and React Native",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/11/victory_a_charting_library_for"
+        },
+        {
+            "text": "Intercom",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/11/intercom"
+        },
+        {
+            "text": "NextDraft",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/11/nextdraft"
+        },
+        {
+            "text": "Pearl RearVision",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/10/pearl_rearvision"
+        },
+        {
+            "text": "Squarespace Domains",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/10/squarespace_domains"
+        },
+        {
+            "text": "SQLPro — Database Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/10/sqlpro_--_database_management"
+        },
+        {
+            "text": "Tito",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/10/tito"
+        },
+        {
+            "text": "iFixit’s Pro Tech Toolkit",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/09/ifixits_pro_tech_toolkit"
+        },
+        {
+            "text": "Sticker Pals",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/09/sticker_pals"
+        },
+        {
+            "text": "Mountain Duck",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/09/mountain_duck"
+        },
+        {
+            "text": "FilmTouch",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/09/filmtouch"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/08/squarespace_12"
+        },
+        {
+            "text": "What Can You Do With 10 KB?",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/08/what_can_you_do_with_10_kb"
+        },
+        {
+            "text": "Cloud Native Computing Foundation (CNCF)",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/08/cloud_native_computing_foundat"
+        },
+        {
+            "text": "MacUpdate’s Summer Mac App Bundle Is Here, and You Should Grab One",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/08/macupdates_summer_mac_app_bund"
+        },
+        {
+            "text": "Notebook From Zoho",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/07/notebook_from_zoho_1"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/07/squarespace_11"
+        },
+        {
+            "text": "Notebook From Zoho",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/07/notebook_from_zoho"
+        },
+        {
+            "text": "Algoriddim: 2016 Apple Design Award Winner",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/07/algoriddim_2016_apple_design_a"
+        },
+        {
+            "text": "Field Notes Reporter’s Notebook",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/06/field_notes_reporters_notebook"
+        },
+        {
+            "text": "Try a Modern Intranet for Free",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/06/try_a_modern_intranet_for_free_1"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/06/squarespace_10"
+        },
+        {
+            "text": "MacStadium: Mac Hosting and Colocation",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/06/macstadium_mac_hosting_and_col"
+        },
+        {
+            "text": "Streaks",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/05/streaks"
+        },
+        {
+            "text": "Try a Modern Intranet for Free",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/05/try_a_modern_intranet_for_free"
+        },
+        {
+            "text": "Meh.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/05/mehcom"
+        },
+        {
+            "text": "Blue Bottle Coffee",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/05/blue_bottle_coffee"
+        },
+        {
+            "text": "StoryWorth",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/05/storyworth"
+        },
+        {
+            "text": "Procreate",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/04/procreate_1"
+        },
+        {
+            "text": "Introducing Imprint",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/04/introducing_imprint"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/04/squarespace_9"
+        },
+        {
+            "text": "Macminicolo’s Impossible Promo",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/04/macminicolos_impossible_promo"
+        },
+        {
+            "text": "Igloo, a Modern Intranet",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/03/igloo_a_modern_intranet_2"
+        },
+        {
+            "text": "Bushel",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/03/bushel_2"
+        },
+        {
+            "text": "Cloud Status App",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/03/cloud_status_app"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/03/squarespace_8"
+        },
+        {
+            "text": "Igloo, a Modern Intranet",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/03/igloo_a_modern_intranet_1"
+        },
+        {
+            "text": "Manuscripts and Findings: Your Research Is Ready for a Big Upgrade",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/02/manuscripts_and_findings_your"
+        },
+        {
+            "text": "DevMate by MacPaw",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/02/devmate_by_macpaw"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/02/squarespace_7"
+        },
+        {
+            "text": "Igloo, a Modern Intranet",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/02/igloo_a_modern_intranet"
+        },
+        {
+            "text": "Meh.com — If You Liked Woot, Back When Woot Was Just One Deal a Day",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/01/mehcom_--_if_you_liked_woot_ba"
+        },
+        {
+            "text": "imgix",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/01/imgix"
+        },
+        {
+            "text": "CloudMagic for Mac: A Beautifully Simple Email App",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/01/cloudmagic_for_mac_a_beautiful"
+        },
+        {
+            "text": "2016: The Year to Go Paperless",
+            "href": "https://daringfireball.net/feeds/sponsors/2016/01/2016_the_year_to_go_paperless"
+        },
+        {
+            "text": "TrackR atlas",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/12/trackr_atlas"
+        },
+        {
+            "text": "The Photojojo Iris Phone Lens",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/12/the_photojojo_iris_phone_lens"
+        },
+        {
+            "text": "StackSocial’s Mac Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/12/stacksocials_mac_bundle"
+        },
+        {
+            "text": "Doxie – Give the Gift of Paperless",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/12/doxie_give_the_gift_of_paperle_1"
+        },
+        {
+            "text": "The Holiday Must Have: A Travel Wallet From Bellroy",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/11/the_holiday_must_have_a_travel"
+        },
+        {
+            "text": "iBedside and Prop ’n Go",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/11/ibedside_and_prop_n_go"
+        },
+        {
+            "text": "Bellroy’s Latest Slim Fix: Your iPhone and Wallet in One",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/11/bellroys_latest_slim_fix_your"
+        },
+        {
+            "text": "Smooch: Build Better Messaging",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/11/smooch_build_better_messaging"
+        },
+        {
+            "text": "Bellroy Makes Slim Wallets Easier To Use",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/11/bellroy_makes_slim_wallets_eas"
+        },
+        {
+            "text": "Makerbase",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/10/makerbase"
+        },
+        {
+            "text": "Igloo",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/10/igloo_5"
+        },
+        {
+            "text": "Iconic — A Photographic Tribute to Apple Innovation",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/10/iconic_--_a_photographic_tribu"
+        },
+        {
+            "text": "Oh Hey, It’s meh.com Again",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/10/oh_hey_its_mehcom_again"
+        },
+        {
+            "text": "Mapbox iOS SDK",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/09/mapbox_ios_sdk_1"
+        },
+        {
+            "text": "Mapbox iOS SDK",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/09/mapbox_ios_sdk"
+        },
+        {
+            "text": "MacUpdate’s Fall Bundle Is Back",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/09/macupdates_fall_bundle_is_back"
+        },
+        {
+            "text": "Igloo Is an Intranet You’ll Actually Like",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/09/igloo_is_an_intranet_youll_act_4"
+        },
+        {
+            "text": "for Meetings",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/08/for_meetings"
+        },
+        {
+            "text": "Mapbox Mobile",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/08/mapbox_mobile_1"
+        },
+        {
+            "text": "Mapbox Mobile",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/08/mapbox_mobile"
+        },
+        {
+            "text": "Bold Poker Is Your Personal Poker Dealer",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/08/bold_poker_is_your_personal_po"
+        },
+        {
+            "text": "Igloo Is an Intranet You’ll Actually Like",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/08/igloo_is_an_intranet_youll_act_3"
+        },
+        {
+            "text": "Web Designer News: Curated Stories for Designers",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/07/web_designer_news_curated_stor"
+        },
+        {
+            "text": "Bushel",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/07/bushel_1"
+        },
+        {
+            "text": "MailChimp",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/07/mailchimp_3"
+        },
+        {
+            "text": "DevMate",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/07/devmate"
+        },
+        {
+            "text": "Nest Cam",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/07/nest_cam"
+        },
+        {
+            "text": "Meet Nest Cam",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/06/meet_nest_cam"
+        },
+        {
+            "text": "Intercom: Connect With Your Mobile Users",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/06/intercom_connect_with_your_mob"
+        },
+        {
+            "text": "The Inside Story of Answers: How Six People Built the #2 Mobile Analytics Tool in Just a Few Months",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/06/the_inside_story_of_answers_ho_1"
+        },
+        {
+            "text": "The Inside Story of Answers: How Six People Built the #2 Mobile Analytics Tool in Just a Few Months",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/06/the_inside_story_of_answers_ho"
+        },
+        {
+            "text": "How We Built the #2 Most Popular Mobile Analytics SDK in a Few Months",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/06/how_we_built_the_2_most_popula"
+        },
+        {
+            "text": "MailChimp",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/05/mailchimp_2"
+        },
+        {
+            "text": "Direct Mail for OS X",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/05/direct_mail_for_os_x"
+        },
+        {
+            "text": "CleanMyMac 3",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/05/cleanmymac_3"
+        },
+        {
+            "text": "Review Monitor: App Store Reviews in Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/05/review_monitor_app_store_revie"
+        },
+        {
+            "text": "Pixate",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/04/pixate_5"
+        },
+        {
+            "text": "Todoist",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/04/todoist"
+        },
+        {
+            "text": "Rock On: A SongPop Adventure",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/04/rock_on_a_songpop_adventure"
+        },
+        {
+            "text": "PencilCase by Robots and Pencils",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/04/pencilcase_by_robots_and_penci"
+        },
+        {
+            "text": "Igloo",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/03/igloo_4"
+        },
+        {
+            "text": "SupportKit: Beautifully Simple In-App Messaging",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/03/supportkit_beautifully_simple"
+        },
+        {
+            "text": "Bushel",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/03/bushel"
+        },
+        {
+            "text": "Tuft & Needle",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/03/tuft_needle"
+        },
+        {
+            "text": "HelloTalk",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/03/hellotalk"
+        },
+        {
+            "text": "The Ultra-Premium Mac Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/02/the_ultra-premium_mac_bundle"
+        },
+        {
+            "text": "Igloo",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/02/igloo_3"
+        },
+        {
+            "text": "62 Amazing Fonts, Brushes, Graphics, Stock Photos, Wordpress Themes and More!",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/02/62_amazing_fonts_brushes_graph"
+        },
+        {
+            "text": "Pixate Free",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/02/pixate_free"
+        },
+        {
+            "text": "Slack",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/01/slack"
+        },
+        {
+            "text": "Procreate Pocket",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/01/procreate_pocket"
+        },
+        {
+            "text": "BiteMyApple.co",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/01/bitemyappleco"
+        },
+        {
+            "text": "The Best Blogging App of 2014",
+            "href": "https://daringfireball.net/feeds/sponsors/2015/01/the_best_blogging_app_of_2014"
+        },
+        {
+            "text": "BBEdit",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/12/bbedit"
+        },
+        {
+            "text": "Page Not Found",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/12/page_not_found"
+        },
+        {
+            "text": "…",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/12/post"
+        },
+        {
+            "text": "(╯°□°)╯︵ ┻━uozɐɯɐ━┻",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/12/_uoz"
+        },
+        {
+            "text": "Padded Spaces: Where Gadgets Go to Relax",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/12/padded_spaces_where_gadgets_go_1"
+        },
+        {
+            "text": "The New Doxie Go Wi-Fi — Scan Anywhere, $50 Off for DF Readers",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/11/the_new_doxie_go_wi-fi_scan_an"
+        },
+        {
+            "text": "Desk: A Desktop Blogging App You’ll Love (and Use)",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/11/desk_a_desktop_blogging_app_yo"
+        },
+        {
+            "text": "Igloo",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/11/igloo_2"
+        },
+        {
+            "text": "Fucking Amazon",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/11/fucking_amazon"
+        },
+        {
+            "text": "Midroll — Podcast Advertising",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/10/midroll_podcast_advertising"
+        },
+        {
+            "text": "Pixate",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/10/pixate_4"
+        },
+        {
+            "text": "Igloo",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/10/igloo_1"
+        },
+        {
+            "text": "In A Flash Laser — Boutique Printing, Laser Cutting, and Engraving Service",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/10/in_a_flash_laser_--_boutique_p"
+        },
+        {
+            "text": "ThinkUp",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/10/thinkup"
+        },
+        {
+            "text": "MacUpdate’s Biggest App Bundle of the Year",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/09/macupdates_biggest_app_bundle"
+        },
+        {
+            "text": "Igloo",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/09/igloo"
+        },
+        {
+            "text": "Pixate",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/09/pixate_3"
+        },
+        {
+            "text": "Pixate",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/09/pixate_2"
+        },
+        {
+            "text": "MailChimp",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/08/mailchimp_1"
+        },
+        {
+            "text": "TopBrewer",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/08/topbrewer_1"
+        },
+        {
+            "text": "PaintCode 2",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/08/paintcode_2"
+        },
+        {
+            "text": "iOS at Google",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/08/ios_at_google"
+        },
+        {
+            "text": "Drop",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/07/drop"
+        },
+        {
+            "text": "TopBrewer",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/07/topbrewer"
+        },
+        {
+            "text": "Faded — Simply Beautiful Mobile Photography",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/07/faded_simply_beautiful_mobile"
+        },
+        {
+            "text": "Manything Smart Video Monitoring",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/07/manything_smart_video_monitori"
+        },
+        {
+            "text": "Bellroy: Slim Your Wallet",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/07/bellroy_slim_your_wallet_1"
+        },
+        {
+            "text": "Introducing Canvas From Campaign Monitor",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/06/introducing_canvas_from_campai"
+        },
+        {
+            "text": "Unbox Epic Every Month With Loot Crate",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/06/unbox_epic_every_month_with_lo"
+        },
+        {
+            "text": "Microsoft Azure Mobile Services",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/06/microsoft_azure_mobile_service"
+        },
+        {
+            "text": "Pixate",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/06/pixate_1"
+        },
+        {
+            "text": "Igloo Introduces Social Task Management",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/05/igloo_introduces_social_task_m"
+        },
+        {
+            "text": "Mustbin",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/05/mustbin"
+        },
+        {
+            "text": "Slingshot",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/05/slingshot"
+        },
+        {
+            "text": "Meet Applause: An App Quality Company",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/05/meet_applause_an_app_quality_c"
+        },
+        {
+            "text": "Craft",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/04/craft"
+        },
+        {
+            "text": "Bellroy: Slim Your Wallet",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/04/bellroy_slim_your_wallet"
+        },
+        {
+            "text": "JetPens.com — Cool Writing Instruments and Office Toys",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/04/jetpenscom_-_cool_writing_inst"
+        },
+        {
+            "text": "Igloo Is an Intranet You’ll Actually Like",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/04/igloo_is_an_intranet_youll_act_2"
+        },
+        {
+            "text": "Crashlytics — The Most Powerful, Real-time Crash Reporting for iOS and Android",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/03/crashlytics_the_most_powerful"
+        },
+        {
+            "text": "Igloo Is an Intranet You’ll Actually Like",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/03/igloo_is_an_intranet_youll_act_1"
+        },
+        {
+            "text": "Field Notes Brand",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/03/field_notes_brand"
+        },
+        {
+            "text": "We Are Looking for Highly Skilled iOS Developers to Join Booking.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/03/we_are_looking_for_highly_skil"
+        },
+        {
+            "text": "Pixate Freestyle",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/03/pixate_freestyle_1"
+        },
+        {
+            "text": "Picturelife — The One Platform You Need for Your Photos and Videos",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/02/picturelife_--_the_one_platfor"
+        },
+        {
+            "text": "An Event Apart",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/02/an_event_apart_3"
+        },
+        {
+            "text": "IP Camera Recorder",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/02/ip_camera_recorder"
+        },
+        {
+            "text": "New Relic",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/02/new_relic_2"
+        },
+        {
+            "text": "CleanMyMac 2 by MacPaw",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/01/cleanmymac_2_by_macpaw"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/01/squarespace_6"
+        },
+        {
+            "text": "Duplicate, a New Typeface From Commercial Type",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/01/duplicate_a_new_typeface_from"
+        },
+        {
+            "text": "Tracking Billable Hours in 2014 With Harvest",
+            "href": "https://daringfireball.net/feeds/sponsors/2014/01/tracking_billable_hours_in_201"
+        },
+        {
+            "text": "Macminicolo 2014 Promo",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/12/macminicolo_2014_promo"
+        },
+        {
+            "text": "Picturelife",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/12/picturelife"
+        },
+        {
+            "text": "Pixate Freestyle",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/12/pixate_freestyle"
+        },
+        {
+            "text": "Save Big With MacUpdate’s Winter Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/12/save_big_with_macupdates_winte"
+        },
+        {
+            "text": "Padded Spaces: Where Gadgets Go to Relax",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/12/padded_spaces_where_gadgets_go"
+        },
+        {
+            "text": "OmniGraffle 6",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/11/omnigraffle_6"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/11/squarespace_5"
+        },
+        {
+            "text": "Scan Anywhere — Doxie Flip and Doxie Go",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/11/scan_anywhere_--_doxie_flip_an"
+        },
+        {
+            "text": "Igloo Is an Intranet You’ll Actually Like",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/11/igloo_is_an_intranet_youll_act"
+        },
+        {
+            "text": "Transporter",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/10/transporter"
+        },
+        {
+            "text": "Glove.ly, Invisible Touchscreen Gloves",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/10/glovely_invisible_touchscreen"
+        },
+        {
+            "text": "The Roadee Knows…",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/10/the_roadee_knows"
+        },
+        {
+            "text": "New Relic’s FutureStack Conference",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/10/new_relics_futurestack_confere"
+        },
+        {
+            "text": "Igloo, an Intranet You’ll Actually Like",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/09/igloo_an_intranet_youll_actual_1"
+        },
+        {
+            "text": "Save 90% with MacUpdate’s Fall Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/09/save_90_with_macupdates_fall_b"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/09/squarespace_4"
+        },
+        {
+            "text": "Adobe Typekit",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/09/adobe_typekit"
+        },
+        {
+            "text": "Shutterstock",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/09/shutterstock_2"
+        },
+        {
+            "text": "Shutterstock",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/08/shutterstock_1"
+        },
+        {
+            "text": "Shutterstock",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/08/shutterstock"
+        },
+        {
+            "text": "iDraw",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/08/idraw"
+        },
+        {
+            "text": "SmugMug",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/08/smugmug_1"
+        },
+        {
+            "text": "SmugMug",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/07/smugmug"
+        },
+        {
+            "text": "Everpix",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/07/everpix_1"
+        },
+        {
+            "text": "Manything",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/07/manything"
+        },
+        {
+            "text": "Igloo, an Intranet You’ll Actually Like",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/07/igloo_an_intranet_youll_actual"
+        },
+        {
+            "text": "BatchGeo",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/07/batchgeo"
+        },
+        {
+            "text": "Collaborate.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/06/collaboratecom"
+        },
+        {
+            "text": "Adobe Kuler",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/06/adobe_kuler"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/06/squarespace_3"
+        },
+        {
+            "text": "Robots & Pencils",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/06/robots_pencils"
+        },
+        {
+            "text": "GetResponse, World’s Easiest Email Marketing",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/05/getresponse_worlds_easiest_ema"
+        },
+        {
+            "text": "Nozbe",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/05/nozbe"
+        },
+        {
+            "text": "Desktop Fonts in Adobe Typekit",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/05/desktop_fonts_in_adobe_typekit"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/05/squarespace_2"
+        },
+        {
+            "text": "Mac SuperBundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/05/mac_superbundle"
+        },
+        {
+            "text": "Macminicolo Forever Promo",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/04/macminicolo_forever_promo"
+        },
+        {
+            "text": "Windows Azure Mobile Services",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/04/windows_azure_mobile_services"
+        },
+        {
+            "text": "Pixate: CSS Styling, Animation, and Bootstrap for Native Mobile Apps",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/04/pixate_css_styling_animation_a"
+        },
+        {
+            "text": "Core Data — Secure Incremental Store for iOS and OS X",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/04/core_data_secure_incremental_s"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/03/squarespace_1"
+        },
+        {
+            "text": "CleanMyMac 2",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/03/cleanmymac_2"
+        },
+        {
+            "text": "MacUpdate $49.99 Spring Bundle with Parallels Desktop 8",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/03/macupdate_4999_spring_bundle_w_1"
+        },
+        {
+            "text": "Xamarin",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/03/xamarin"
+        },
+        {
+            "text": "Introducing Squarespace Commerce",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/02/introducing_squarespace_commer"
+        },
+        {
+            "text": "Everpix",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/02/everpix"
+        },
+        {
+            "text": "Tower — The Most Powerful Git Client for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/02/tower_the_most_powerful_git_cl_1"
+        },
+        {
+            "text": "Almond+",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/02/almond"
+        },
+        {
+            "text": "Squarespace",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/01/squarespace"
+        },
+        {
+            "text": "Typekit by Adobe",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/01/typekit_by_adobe"
+        },
+        {
+            "text": "Colugo for iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/01/colugo_for_iphone"
+        },
+        {
+            "text": "Harvest",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/01/harvest_3"
+        },
+        {
+            "text": "1Password 4 for iOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2013/01/1password_4_for_ios"
+        },
+        {
+            "text": "Shiny Things and TLAF Xmas Sale",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/12/shiny_things_and_tlaf_xmas_sal"
+        },
+        {
+            "text": "New Relic",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/12/new_relic_1"
+        },
+        {
+            "text": "Tonx",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/12/tonx"
+        },
+        {
+            "text": "New Relic",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/12/new_relic"
+        },
+        {
+            "text": "Doxie: Give the Gift of Paperless — Just $149",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/11/doxie_give_the_gift_of_paperle"
+        },
+        {
+            "text": "MacLegion: 11 Top Mac Apps, Including TechTool Pro, Over 90 Percent Off",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/11/maclegion_11_top_mac_apps_incl"
+        },
+        {
+            "text": "Tower — Version Control Without the Pain",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/11/tower_version_control_without"
+        },
+        {
+            "text": "Koku — A Personal Finance Manager for Mac and iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/11/koku_a_personal_finance_manage"
+        },
+        {
+            "text": "Doxie One — ‘Scanning made simple. Paperless made personal.’",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/11/doxie_one_scanning_made_simple"
+        },
+        {
+            "text": "Echograph",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/10/echograph"
+        },
+        {
+            "text": "Harvest",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/10/harvest_2"
+        },
+        {
+            "text": "AppCode",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/10/appcode"
+        },
+        {
+            "text": "The Squarespace Developer Platform",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/10/the_squarespace_developer_plat"
+        },
+        {
+            "text": "Sakura Quick Math",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/09/sakura_quick_math"
+        },
+        {
+            "text": "Avocado",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/09/avocado"
+        },
+        {
+            "text": "Metakine Mac App Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/09/metakine_mac_app_bundle"
+        },
+        {
+            "text": "LayerVault",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/09/layervault"
+        },
+        {
+            "text": "Sketch",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/08/sketch"
+        },
+        {
+            "text": "RapidWeaver 5 Mega Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/08/rapidweaver_5_mega_bundle"
+        },
+        {
+            "text": "Pixate",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/08/pixate"
+        },
+        {
+            "text": "The All-New Squarespace 6",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/08/the_all-new_squarespace_6"
+        },
+        {
+            "text": "Juggernaut: Revenge of Sovering",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/07/juggernaut_revenge_of_sovering"
+        },
+        {
+            "text": "JIRA Mobile Connect",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/07/jira_mobile_connect"
+        },
+        {
+            "text": "Procreate",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/07/procreate"
+        },
+        {
+            "text": "Harvest — It’s Halftime, America",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/07/harvest_its_halftime_america"
+        },
+        {
+            "text": "Doxie Go — ‘Scan Anywhere’",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/07/doxie_go_scan_anywhere"
+        },
+        {
+            "text": "Tapstream for iOS, Mac, and Android",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/06/tapstream_for_ios_mac_and_andr"
+        },
+        {
+            "text": "Pixelmator",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/06/pixelmator_3"
+        },
+        {
+            "text": "Toca Boca",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/06/toca_boca"
+        },
+        {
+            "text": "MacUpdate June 2012 Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/06/macupdate_june_2012_bundle"
+        },
+        {
+            "text": "RadarScope for Mac and iOS",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/05/radarscope_for_mac_and_ios"
+        },
+        {
+            "text": "Bronson Watermarker",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/05/bronson_watermarker"
+        },
+        {
+            "text": "Harvest",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/05/harvest_1"
+        },
+        {
+            "text": "Audible.com — The Internet’s Leading Provider of Audiobooks",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/04/audiblecom_--_the_internets_le"
+        },
+        {
+            "text": "Printopia",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/04/printopia"
+        },
+        {
+            "text": "Everyme",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/04/everyme"
+        },
+        {
+            "text": "Trending for iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/04/trending_for_iphone"
+        },
+        {
+            "text": "SkyView — Explore the Universe",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/03/skyview_--_explore_the_univers"
+        },
+        {
+            "text": "MacUpdate March 2012 Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/03/macupdate_march_2012_bundle"
+        },
+        {
+            "text": "Sparrow for iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/03/sparrow_for_iphone"
+        },
+        {
+            "text": "MacLegion Spring Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/03/maclegion_spring_bundle"
+        },
+        {
+            "text": "Mac DVDRipper Pro: The Easiest DVD Ripper for Your Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/02/mac_dvdripper_pro_the_easiest"
+        },
+        {
+            "text": "Awesomize",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/02/awesomize"
+        },
+        {
+            "text": "Tower — The Most Powerful Git Client for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/02/tower_the_most_powerful_git_cl"
+        },
+        {
+            "text": "If You Can Hear It, Audio Hijack Pro Can Record It",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/02/if_you_can_hear_it_audio_hijac"
+        },
+        {
+            "text": "Scan Wirelessly: Doxie Go + Wi-Fi",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/01/scan_wirelessly_doxie_go_wi-fi"
+        },
+        {
+            "text": "MindNode",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/01/mindnode"
+        },
+        {
+            "text": "BBEdit 10",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/01/bbedit_10"
+        },
+        {
+            "text": "Sparrow for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/01/sparrow_for_mac"
+        },
+        {
+            "text": "Harvest",
+            "href": "https://daringfireball.net/feeds/sponsors/2012/01/harvest"
+        },
+        {
+            "text": "Tapfolio for iPad",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/12/tapfolio_for_ipad_1"
+        },
+        {
+            "text": "The Little App Factory",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/12/the_little_app_factory"
+        },
+        {
+            "text": "Appcuity",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/12/appcuity"
+        },
+        {
+            "text": "Process for iPad",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/12/process_for_ipad"
+        },
+        {
+            "text": "DaisyDisk",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/11/daisydisk_2"
+        },
+        {
+            "text": "RipIt",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/11/ripit_5"
+        },
+        {
+            "text": "Readable",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/11/readable"
+        },
+        {
+            "text": "Tapfolio for iPad",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/11/tapfolio_for_ipad"
+        },
+        {
+            "text": "Doxie Go — ‘Scan Anywhere, No Computer Required’",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/10/doxie_go_scan_anywhere_no_comp"
+        },
+        {
+            "text": "DollarApp",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/10/dollarapp"
+        },
+        {
+            "text": "VueScan Mobile",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/10/vuescan_mobile"
+        },
+        {
+            "text": "VMware Fusion 4",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/10/vmware_fusion_4_2"
+        },
+        {
+            "text": "VMware Fusion 4",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/10/vmware_fusion_4_1"
+        },
+        {
+            "text": "VMware Fusion 4",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/09/vmware_fusion_4"
+        },
+        {
+            "text": "Lanbito.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/09/lanbitocom"
+        },
+        {
+            "text": "Virtuoso Piano",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/09/virtuoso_piano"
+        },
+        {
+            "text": "The BundleHunt Creativity Mac App Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/09/the_bundlehunt_creativity_mac"
+        },
+        {
+            "text": "5-Star Alert: Thieving Dogs Swipe Cat Art!",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/08/5-star_alert_thieving_dogs_swi"
+        },
+        {
+            "text": "VMware in Education, Back to School Special — Up to 50 Percent Off",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/08/vmware_in_education_back_to_sc"
+        },
+        {
+            "text": "XYDO Brief: The News You Want, Via Email",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/08/xydo_brief_the_news_you_want_v"
+        },
+        {
+            "text": "Macworld’s Total Lion Superguide",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/08/macworlds_total_lion_superguid"
+        },
+        {
+            "text": "AskDifferent",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/08/askdifferent"
+        },
+        {
+            "text": "TripCase",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/07/tripcase"
+        },
+        {
+            "text": "Squrl",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/07/squrl"
+        },
+        {
+            "text": "PDFpen from Smile",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/07/pdfpen_from_smile"
+        },
+        {
+            "text": "DaisyDisk",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/07/daisydisk_1"
+        },
+        {
+            "text": "Billings Pro 1.5 with Marketcircle Cloud",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/06/billings_pro_15_with_marketcir"
+        },
+        {
+            "text": "The AppStorm Freelance Mac App Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/06/the_appstorm_freelance_mac_app"
+        },
+        {
+            "text": "iStockphoto",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/06/istockphoto_1"
+        },
+        {
+            "text": "Pixelmator 2.0 Sneak Preview",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/06/pixelmator_20_sneak_preview"
+        },
+        {
+            "text": "iStockphoto",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/05/istockphoto"
+        },
+        {
+            "text": "Sparrow — the New Mail for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/05/sparrow_the_new_mail_for_mac"
+        },
+        {
+            "text": "Remember The Milk for iPad",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/05/remember_the_milk_for_ipad"
+        },
+        {
+            "text": "VMware Fusion 3",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/05/vmware_fusion_3_2"
+        },
+        {
+            "text": "Koku",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/05/koku"
+        },
+        {
+            "text": "MacLegion Spring 2011 Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/04/maclegion_spring_2011_bundle"
+        },
+        {
+            "text": "DaisyDisk",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/04/daisydisk"
+        },
+        {
+            "text": "Lithium Network, Server and Storage Monitoring",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/04/lithium_network_server_and_sto"
+        },
+        {
+            "text": "Midnight Martian",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/04/midnight_martian"
+        },
+        {
+            "text": "MacUpdate Spring 2011 Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/03/macupdate_spring_2011_bundle"
+        },
+        {
+            "text": "Harvest Time Tracking and Invoicing",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/03/harvest_time_tracking_and_invo"
+        },
+        {
+            "text": "REAL Studio",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/03/real_studio"
+        },
+        {
+            "text": "RE.minder and GAME.minder",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/03/reminder_and_gameminder"
+        },
+        {
+            "text": "GroupMe",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/03/groupme"
+        },
+        {
+            "text": "Pixelmator",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/02/pixelmator_2"
+        },
+        {
+            "text": "XYDO: Social News Evolved",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/02/xydo_social_news_evolved"
+        },
+        {
+            "text": "Pixelmator",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/02/pixelmator_1"
+        },
+        {
+            "text": "Pixelmator",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/01/pixelmator"
+        },
+        {
+            "text": "Wigglehop",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/01/wigglehop"
+        },
+        {
+            "text": "Sourcebits",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/01/sourcebits_5"
+        },
+        {
+            "text": "AccountEdge",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/01/accountedge"
+        },
+        {
+            "text": "Mutual Mobile",
+            "href": "https://daringfireball.net/feeds/sponsors/2011/01/mutual_mobile"
+        },
+        {
+            "text": "Hunter Research and Technology",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/12/hunter_research_and_technology"
+        },
+        {
+            "text": "TLAF Holiday Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/12/tlaf_holiday_bundle"
+        },
+        {
+            "text": "Sourcebits",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/12/sourcebits_3"
+        },
+        {
+            "text": "djay for iPad",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/12/djay_for_ipad"
+        },
+        {
+            "text": "MyNetDiary",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/11/mynetdiary"
+        },
+        {
+            "text": "Robokill",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/11/robokill"
+        },
+        {
+            "text": "RipIt",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/11/ripit_4"
+        },
+        {
+            "text": "TouchUp for iPad",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/11/touchup_for_ipad"
+        },
+        {
+            "text": ".tv",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/11/tv"
+        },
+        {
+            "text": "VaultPress",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/10/vaultpress_1"
+        },
+        {
+            "text": "AppShopper App",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/10/appshopper_app"
+        },
+        {
+            "text": "RipIt",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/10/ripit_3"
+        },
+        {
+            "text": "Carcassonne",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/10/carcassonne"
+        },
+        {
+            "text": "Night Stand HD",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/09/night_stand_hd_1"
+        },
+        {
+            "text": "PowerMax.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/09/powermaxcom"
+        },
+        {
+            "text": "Ringtones",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/09/ringtones"
+        },
+        {
+            "text": "ICONGOODS Softwear Apparel",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/09/icongoods_softwear_apparel"
+        },
+        {
+            "text": "Felt Tip Inc.",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/09/felt_tip_inc"
+        },
+        {
+            "text": "Sourcebits",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/08/sourcebits_4"
+        },
+        {
+            "text": "RipIt",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/08/ripit_2"
+        },
+        {
+            "text": "Flickpad",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/08/flickpad"
+        },
+        {
+            "text": "My-Cast Weather Radar",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/08/my-cast_weather_radar"
+        },
+        {
+            "text": "Sourcebits",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/07/sourcebits_2"
+        },
+        {
+            "text": "ReadMore by Navel Labs",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/07/readmore_by_navel_labs"
+        },
+        {
+            "text": "EleMints",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/07/elemints"
+        },
+        {
+            "text": "Pocket Informant — Bringing Events and Tasks Together at Last",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/07/pocket_informant_bringing_even"
+        },
+        {
+            "text": "VaultPress",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/06/vaultpress"
+        },
+        {
+            "text": "ChimpKit",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/06/chimpkit"
+        },
+        {
+            "text": "Night Stand HD",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/06/night_stand_hd"
+        },
+        {
+            "text": "Undercover: Bad News for Mac Thieves",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/06/undercover_bad_news_for_mac_th"
+        },
+        {
+            "text": "1Password and Knox",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/06/1password_and_knox"
+        },
+        {
+            "text": "Mutual Mobile App Solutions",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/05/mutual_mobile_app_solutions"
+        },
+        {
+            "text": "Tags for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/05/tags_for_mac"
+        },
+        {
+            "text": "Night Stand",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/05/night_stand"
+        },
+        {
+            "text": "Direct Mail",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/05/direct_mail"
+        },
+        {
+            "text": "Penultimate",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/04/penultimate"
+        },
+        {
+            "text": "Paratroopers: Air Assault From Software Factory, LLC",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/04/paratroopers_air_assault_from"
+        },
+        {
+            "text": "Climate",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/04/climate"
+        },
+        {
+            "text": "Doxie: ‘The Amazing Scanner for Documents’",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/04/doxie_the_amazing_scanner_for"
+        },
+        {
+            "text": "Rivet",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/03/rivet_1"
+        },
+        {
+            "text": "MacUpdate $49.99 Spring Bundle With Parallels Desktop 5",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/03/macupdate_4999_spring_bundle_w"
+        },
+        {
+            "text": "OmniGraphSketcher From the Omni Group",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/03/omnigraphsketcher_from_the_omn"
+        },
+        {
+            "text": "DailyDeeds",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/03/dailydeeds"
+        },
+        {
+            "text": "The Mac Sale Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/03/the_mac_sale_bundle"
+        },
+        {
+            "text": "Rivet",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/02/rivet"
+        },
+        {
+            "text": "MemoryMiner",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/02/memoryminer"
+        },
+        {
+            "text": "Sourcebits",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/02/sourcebits_1"
+        },
+        {
+            "text": "Radioshift from Rogue Amoeba",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/02/radioshift_from_rogue_amoeba"
+        },
+        {
+            "text": "Sortfolio",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/01/sortfolio"
+        },
+        {
+            "text": "theNextTrain",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/01/thenexttrain"
+        },
+        {
+            "text": "Sourcebits",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/01/sourcebits"
+        },
+        {
+            "text": "Lose It or Lose It",
+            "href": "https://daringfireball.net/feeds/sponsors/2010/01/lose_it_or_lose_it"
+        },
+        {
+            "text": "Warships",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/12/warships"
+        },
+        {
+            "text": "RipIt",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/12/ripit_1"
+        },
+        {
+            "text": "Andrews & Dunham Damn Fine Tea",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/12/andrews_dunham_damn_fine_tea"
+        },
+        {
+            "text": "VMware Fusion 3",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/12/vmware_fusion_3_1"
+        },
+        {
+            "text": "VMware Fusion 3",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/12/vmware_fusion_3"
+        },
+        {
+            "text": "Voices",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/11/voices"
+        },
+        {
+            "text": "Lux Delux",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/11/lux_delux"
+        },
+        {
+            "text": "BusyCal",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/11/busycal"
+        },
+        {
+            "text": "Spots: Wi-Fi Hotspot Directory for iPhone and iPod Touch",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/11/spots_find_local_wi-fi_sources"
+        },
+        {
+            "text": "Ulysses 2.0",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/10/ulysses_20"
+        },
+        {
+            "text": "TouchPad",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/10/touchpad"
+        },
+        {
+            "text": "pzizz relax",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/10/pzizz_relax"
+        },
+        {
+            "text": "SCORE! FIFA 10 by EA Sports is now available for your iPhone & iPod Touch",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/10/score_fifa_10_by_ea_sports_is"
+        },
+        {
+            "text": "MailChimp",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/09/mailchimp"
+        },
+        {
+            "text": "Other World Computing — Serving the Mac Universe Since 1988",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/09/other_world_computing_serving"
+        },
+        {
+            "text": "BOGGLE for iPhone and iPod Touch",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/09/boggle_for_iphone_and_ipod_tou"
+        },
+        {
+            "text": "The Sims 3 Is Now $6.99 (30% Discount)",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/09/the_sims_3_is_now_699_30_disco"
+        },
+        {
+            "text": "Trivia Wars",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/08/trivia_wars"
+        },
+        {
+            "text": "RipIt",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/08/ripit"
+        },
+        {
+            "text": "Where To? — Find Points of Interest on iPhone/iPod Touch",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/08/where_to_find_points_of_intere"
+        },
+        {
+            "text": "SimplyTweet 2.0 — Full Featured iPhone Twitter Application With Push",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/08/simplytweet_20_full_featured_i"
+        },
+        {
+            "text": "Comics by comiXology for the iPhone and iPod Touch (App Store Link)",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/08/comics_by_comixology_for_the_i"
+        },
+        {
+            "text": "Cultured Code",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/07/cultured_code"
+        },
+        {
+            "text": "Numbrix for iPhone/iPod Touch",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/07/numbrix_for_iphoneipod_touch"
+        },
+        {
+            "text": "VMware Fusion 2.0",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/07/vmware_fusion_20"
+        },
+        {
+            "text": "Classics (App Store Link)",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/07/classics_app_store_link"
+        },
+        {
+            "text": "Delicious Library",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/06/delicious_library_3"
+        },
+        {
+            "text": "Satchel, the Backpack Client for iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/06/satchel_the_backpack_client_fo"
+        },
+        {
+            "text": "Tiny Dancer (App Store Link)",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/06/tiny_dancer_app_store_link"
+        },
+        {
+            "text": "Groceries by Sophiestication Software",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/06/groceries_by_sophiestication_s"
+        },
+        {
+            "text": "SimplyTweet",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/06/simplytweet"
+        },
+        {
+            "text": "Evom",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/05/evom"
+        },
+        {
+            "text": "Delicious Library",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/05/delicious_library_1"
+        },
+        {
+            "text": "Groceries",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/05/groceries"
+        },
+        {
+            "text": "Jumsoft",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/05/jumsoft"
+        },
+        {
+            "text": "Tweetie for Mac",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/04/tweetie_for_mac"
+        },
+        {
+            "text": "Rogue Amoeba: What Kind Of A Name Is That?",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/04/rogue_amoeba_what_kind_of_a_na"
+        },
+        {
+            "text": "Spanning Sync",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/04/spanning_sync"
+        },
+        {
+            "text": "An Event Apart",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/04/an_event_apart_2"
+        },
+        {
+            "text": "The Omni Group: Makers of OmniFocus, OmniGraffle, OmniPlan, and More",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/03/the_omni_group_makers_of_omnif"
+        },
+        {
+            "text": "OmniPlan for Mac OS X",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/03/omniplan_for_mac_os_x"
+        },
+        {
+            "text": "OmniGraffle for Mac OS X",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/03/omnigraffle_for_mac_os_x"
+        },
+        {
+            "text": "OmniFocus for Mac OS X and iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/03/omnifocus_for_mac_os_x_and_iph"
+        },
+        {
+            "text": "Sifter — Bug and Issue Tracking",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/03/sifter_bug_issue_tracking"
+        },
+        {
+            "text": "Hey Mac Software",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/02/hey_mac_software"
+        },
+        {
+            "text": "Delicious Library",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/02/delicious_library"
+        },
+        {
+            "text": "iStat by Bjango (iTunes Link)",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/02/istat_by_bjango"
+        },
+        {
+            "text": "On The Job 3",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/02/on_the_job_3"
+        },
+        {
+            "text": "Zumobi",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/01/zumobi"
+        },
+        {
+            "text": "Kindling",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/01/kindling"
+        },
+        {
+            "text": "Hoefler & Frere-Jones",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/01/hoefler_frere-jones"
+        },
+        {
+            "text": "BprWtxhi",
+            "href": "https://daringfireball.net/feeds/sponsors/2009/01/bprwtxhi"
+        },
+        {
+            "text": "Delicious Library 2",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/12/delicious_library_2"
+        },
+        {
+            "text": "Free Software at The Mac Giving Tree",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/12/free_software_at_the_mac_givin"
+        },
+        {
+            "text": "Flick Bowling",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/12/flick_bowling"
+        },
+        {
+            "text": "Classics for iPhone and iPod touch",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/12/classics_for_iphone_and_ipod_t"
+        },
+        {
+            "text": "Sound Studio 3",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/12/sound_studio_3"
+        },
+        {
+            "text": "Macworld Conference and Expo",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/11/macworld_conference_and_expo_1"
+        },
+        {
+            "text": "Billings 3",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/11/billings_3"
+        },
+        {
+            "text": "BBEdit 9",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/11/bbedit_9"
+        },
+        {
+            "text": "Macworld Conference and Expo",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/11/macworld_conference_and_expo"
+        },
+        {
+            "text": "Espresso",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/10/espresso"
+        },
+        {
+            "text": "FileMagnet",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/10/filemagnet"
+        },
+        {
+            "text": "FlipBook",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/10/flipbook"
+        },
+        {
+            "text": "Sketches",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/10/sketches"
+        },
+        {
+            "text": "SaaS Rails Kit",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/09/saas_rails_kit"
+        },
+        {
+            "text": "Loopt",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/09/loopt"
+        },
+        {
+            "text": "Where To? GPS Points of Interest 1.1",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/09/where_to_gps_points_of_interes"
+        },
+        {
+            "text": "MacUpdate Back-to-School Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/09/macupdate_back-to-school_bundl"
+        },
+        {
+            "text": "Drobo by Data Robotics",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/09/drobo_by_data_robotics_1"
+        },
+        {
+            "text": "Drobo by Data Robotics",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/08/drobo_by_data_robotics"
+        },
+        {
+            "text": "DS Media Labs: iPhone Gaming at Its Finest",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/08/ds_media_labs_iphone_gaming_at"
+        },
+        {
+            "text": "iPodRip",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/08/ipodrip"
+        },
+        {
+            "text": "Pennies — Budget Tracking for iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/08/pennies_budget_tracking_for_ip"
+        },
+        {
+            "text": "HoudahSpot 2: Spotlight Unleashed",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/07/houdahspot_2_spotlight_unleash"
+        },
+        {
+            "text": "Superbiate & Son, Inc.",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/07/superbiate_son_inc"
+        },
+        {
+            "text": "tap tap tap — tasty bits for your iPhone",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/07/tap_tap_tap_tasty_bits_for_you"
+        },
+        {
+            "text": "Indie Mac Software Summer Sale",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/07/indie_mac_software_summer_sale"
+        },
+        {
+            "text": "ScreenCastsOnline — Weekly Mac Video Tutorials",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/06/screencastsonline_weekly_mac_v"
+        },
+        {
+            "text": "An Event Apart",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/06/an_event_apart_1"
+        },
+        {
+            "text": "JNSoftware",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/06/jnsoftware"
+        },
+        {
+            "text": "MacHeist",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/06/macheist"
+        },
+        {
+            "text": "Icon Resource",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/06/icon_resource"
+        },
+        {
+            "text": "Hazel",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/05/hazel"
+        },
+        {
+            "text": "Macminicolo.net",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/05/macminicolonet"
+        },
+        {
+            "text": "An Event Apart",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/05/an_event_apart"
+        },
+        {
+            "text": "DEVONtechnologies",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/05/devontechnologies"
+        },
+        {
+            "text": "doubleTwist",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/04/doubletwist"
+        },
+        {
+            "text": "MacUpdate Parallels Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/04/macupdate_parallels_bundle"
+        },
+        {
+            "text": "Qwitter",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/04/qwitter"
+        },
+        {
+            "text": "Drobo",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/04/drobo"
+        },
+        {
+            "text": "Moneydance",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/03/moneydance"
+        },
+        {
+            "text": "Mac Indie Deals",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/03/mac_indie_deals"
+        },
+        {
+            "text": "Mail Attachments Iconizer",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/03/mail_attachments_iconizer"
+        },
+        {
+            "text": "R-U-ON: Hosted IT Monitoring. Simple.",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/03/ruon_hosted_it_monitoring_simp"
+        },
+        {
+            "text": "Authentic Jobs: Full-time and Freelance Job Board",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/03/authentic_jobs_fulltime_and_fr"
+        },
+        {
+            "text": "Big Medium: Web Publishing Made Easy",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/02/big_medium_web_publishing_made"
+        },
+        {
+            "text": "Tinderbox: The Tool for Notes",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/02/tinderbox_the_tool_for_notes"
+        },
+        {
+            "text": "MX: Managing Experience",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/02/mx_managing_experience"
+        },
+        {
+            "text": "FileChute",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/02/filechute"
+        },
+        {
+            "text": "FontShop",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/01/fontshop"
+        },
+        {
+            "text": "Beanstalk: Hosted Subversion",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/01/beanstalk_hosted_subversion"
+        },
+        {
+            "text": "H-Squared",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/01/hsquared"
+        },
+        {
+            "text": "MacHeist II Software Bundle",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/01/macheist_ii_software_bundle"
+        },
+        {
+            "text": "Inco",
+            "href": "https://daringfireball.net/feeds/sponsors/2008/01/inco"
+        },
+        {
+            "text": "BusySync",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/12/busysync"
+        },
+        {
+            "text": "FlickrExport by Connected Flow",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/12/flickrexport_by_connected_flow"
+        },
+        {
+            "text": "Jumpchart",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/12/jumpchart"
+        },
+        {
+            "text": "Rogue Amoeba Software",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/11/rogue_amoeba_software"
+        },
+        {
+            "text": "Evolve Wireless Sound System by Griffin Technology",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/11/evolve_wireless_sound_system_b"
+        },
+        {
+            "text": "PeepCode Screencasts",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/11/peepcode_screencasts"
+        },
+        {
+            "text": "Joyent",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/11/joyent"
+        },
+        {
+            "text": "Bruji",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/10/bruji_1"
+        },
+        {
+            "text": "SimpleMovieX",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/10/simplemoviex"
+        },
+        {
+            "text": "Bruji",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/10/bruji"
+        },
+        {
+            "text": "Mentat",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/10/mentat"
+        },
+        {
+            "text": "Fluther.com",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/10/fluthercom_1"
+        },
+        {
+            "text": "FileSpot",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/09/filespot_1"
+        },
+        {
+            "text": "Zengobi",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/09/zengobi_1"
+        },
+        {
+            "text": "Phone Different",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/09/phone_different_1"
+        },
+        {
+            "text": "PeepCode Screencasts",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/09/peepcode_screencasts_1"
+        },
+        {
+            "text": "FastMac",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/08/fastmac_1"
+        },
+        {
+            "text": "Tinderbox",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/08/tinderbox_1"
+        },
+        {
+            "text": "Litmus",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/08/litmus_1"
+        },
+        {
+            "text": "Griffin Technology",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/08/griffin_technology_1"
+        },
+        {
+            "text": "Rogue Amoeba",
+            "href": "https://daringfireball.net/feeds/sponsors/2007/07/rogue_amoeba_1"
+        },
+        {
+            "text": "Display Preferences",
+            "href": "https://daringfireball.net/preferences/"
+        }
+    ],
+    "text_length": 38346,
+    "text_full": "By JOHN GRUBER\n\nARCHIVE\nTHE TALK SHOW\nDITHERING\nPROJECTS\nCONTACT\nCOLOPHON\nFEEDS / SOCIAL\nSPONSORSHIP\n\nOpenAI, Anthropic, Cursor, and Perplexity chose WorkOS over building it themselves.\n\nPrevious sponsors of the Daring Fireball RSS feed:\n\nWorkOS: Agents Need Context. Ship the Integrations That Give It to Them.   18 May 2026\n\nDrata   11 May 2026\n\nWorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.    4 May 2026\n\nWorkOS: Go From ‘We Don’t Support SSO’ to Enterprise Ready in a Weekend   28 Apr 2026\n\nRec League   21 Apr 2026\n\nWorkOS FGA: The Authorization Layer for AI Agents   13 Apr 2026\n\nZed, a Font Superfamily    6 Apr 2026\n\nMaterial Security   30 Mar 2026\n\nnpx workos: From Auth Integration to Environment Management, Zero ClickOps   23 Mar 2026\n\nMux — Video API for Developers   16 Mar 2026\n\nFinalist    9 Mar 2026\n\nnpx workos: An AI Agent That Writes Auth Directly Into Your Codebase    2 Mar 2026\n\nHands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry   24 Feb 2026\n\nHands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry   16 Feb 2026\n\nWorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth    9 Feb 2026\n\nWorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth   26 Jan 2026\n\nMeh   21 Jan 2026\n\nWorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth   12 Jan 2026\n\nCopilot Money    5 Jan 2026\n\nListenLater.net   29 Dec 2025\n\nCopilot Money   22 Dec 2025\n\nFinalist Daily Planner for iOS   15 Dec 2025\n\nJaho Coffee Roaster    8 Dec 2025\n\nProtect Your App From Bots and Abuse With WorkOS Radar    1 Dec 2025\n\nDekáf Coffee Roasters — Holiday Gift Bundles   24 Nov 2025\n\nClerk for iOS   17 Nov 2025\n\nWorkOS: Scalable, Secure Authentication   10 Nov 2025\n\nMux: Video API for Developers    3 Nov 2025\n\nJaho Coffee Roaster   27 Oct 2025\n\nWorkOS: Scalable, Secure Authentication   20 Oct 2025\n\nMux: Video API for Developers   13 Oct 2025\n\nDrata    7 Oct 2025\n\nS&P Global   29 Sep 2025\n\nDrata   23 Sep 2025\n\nDekáf Coffee Roasters   20 Sep 2025\n\nWorkOS: Scalable, Secure Authentication    8 Sep 2025\n\nTextJam    2 Sep 2025\n\nWalk the World   26 Aug 2025\n\nPhoenix.new   18 Aug 2025\n\nDekáf Coffee Roasters   11 Aug 2025\n\nWorkOS: Scalable, Secure Authentication    4 Aug 2025\n\nHello Weather   28 Jul 2025\n\nSafeBase by Drata   21 Jul 2025\n\nWorkOS: Scalable, Secure Authentication   15 Jul 2025\n\nDrata    7 Jul 2025\n\nPhoenix.new    1 Jul 2025\n\nWorkOS: Scalable, Secure Authentication   24 Jun 2025\n\nDrata   16 Jun 2025\n\nDetailsPro    9 Jun 2025\n\nWorkOS: Scalable, Secure Authentication    4 Jun 2025\n\nOoni Halo Pro Spiral Mixer   27 May 2025\n\nDrata   19 May 2025\n\nBolt: What Do You Want to Build?   12 May 2025\n\nWorkOS: Scalable, Secure Authentication    6 May 2025\n\nListenLater.net   28 Apr 2025\n\nDekáf Coffee Roasters   14 Apr 2025\n\nWorkOS: Scalable, Secure Authentication    8 Apr 2025\n\nDemocracy   31 Mar 2025\n\nLex.Games: Free Daily Word Games   24 Mar 2025\n\nWorkOS: Scalable, Secure Authentication   19 Mar 2025\n\nWorkOS: Scalable, Secure Authentication   11 Mar 2025\n\nProtect Your App With WorkOS Radar   24 Feb 2025\n\nClerk — Complete User Management for Your iOS Application   10 Feb 2025\n\nProtect Your App With WorkOS Radar   27 Jan 2025\n\nFucking Amazon   22 Jan 2025\n\nProtect Your App With WorkOS Radar   13 Jan 2025\n\nListenLater.net    1 Jan 2025\n\nDue   23 Dec 2024\n\nJiiiii   17 Dec 2024\n\nCoverSutra    9 Dec 2024\n\n1Password: You Want to Charge How Much for SSO?    3 Dec 2024\n\nStreaks and Little Streaks   25 Nov 2024\n\nWorkOS   18 Nov 2024\n\nUpgraded   17 Nov 2024\n\n1Password: The Infinite Loop of Security    5 Nov 2024\n\nNomorobo   28 Oct 2024\n\nWorkOS   21 Oct 2024\n\nWeather Up: At-a-Glance Forecasts   16 Oct 2024\n\n1Password: Without C-Suite Buy-In, Security Is Just Rearranging Deck Chairs    7 Oct 2024\n\nWorkOS   30 Sep 2024\n\nMethod   23 Sep 2024\n\nWorkOS   16 Sep 2024\n\nTiptop    9 Sep 2024\n\n1Password: You Can’t Ignore GDPR Anymore    4 Sep 2024\n\nYou Want to Charge How Much for SSO?   30 Aug 2024\n\n1Password: The Infinite Loop of Security   19 Aug 2024\n\nWorkOS   17 Aug 2024\n\nWorkOS    6 Aug 2024\n\n1Password: Without C-Suite Buy-In, Security Is Just Rearranging Deck Chairs    2 Aug 2024\n\n1Password: You Can’t Ignore GDPR Anymore   23 Jul 2024\n\nWorkOS   15 Jul 2024\n\nDabba    8 Jul 2024\n\nBriefLook    2 Jul 2024\n\nWorkOS   24 Jun 2024\n\nKolide by 1Password: ‘Looking Past the Smoke and Mirrors of the MGM Hack’   17 Jun 2024\n\nDetailsPro   10 Jun 2024\n\nKolide: ‘Are You Worse at Security Than the TSA?’    3 Jun 2024\n\nAtoms × MKBHD 251.1   27 May 2024\n\nWorkOS   20 May 2024\n\nKolide: ‘Struggling to Afford Cybersecurity Insurance? Here’s Why.’   14 May 2024\n\nNylas for Email and Calendar APIs    6 May 2024\n\nKolide: ‘Voice Clones Have Crossed the Uncanny Valley’   29 Apr 2024\n\nWorkOS   25 Apr 2024\n\nKolide: ‘Looking Past the Smoke and Mirrors of the MGM Hack’   15 Apr 2024\n\nPok Pok    8 Apr 2024\n\nKolide: ‘Are You Worse at Security Than the TSA?’    2 Apr 2024\n\nKolide: ‘Struggling to Afford Cybersecurity Insurance? Here’s Why.’   25 Mar 2024\n\nWorkOS   18 Mar 2024\n\nCloudSLAW   12 Mar 2024\n\nWorkOS   26 Feb 2024\n\nSonar Mac App for GitHub/GitLab Issues   21 Feb 2024\n\nNylas for Email and Calendar APIs   13 Feb 2024\n\nInfos    7 Feb 2024\n\nWorkOS   29 Jan 2024\n\nDay One Journal App   22 Jan 2024\n\nHEY Calendar   15 Jan 2024\n\nIt’s Meh   11 Jan 2024\n\nFantastical    4 Jan 2024\n\nFantastical   26 Dec 2023\n\nObsidian   18 Dec 2023\n\nKolide: ‘The Dirty Secret of OS Updates’   12 Dec 2023\n\nObsidian    5 Dec 2023\n\nKolide — Device Trust for Okta. Watch the Demo Today   28 Nov 2023\n\nKolide: ‘The Dirty Secret of OS Updates’   20 Nov 2023\n\nVanta   15 Nov 2023\n\nTailscale    6 Nov 2023\n\nTailscale   31 Oct 2023\n\nTailscale   24 Oct 2023\n\nKolide — Device Trust for Okta. Watch the Demo Today   18 Oct 2023\n\niMazing 3 Coming Soon: Save 30% and Try Out the Beta Today!    9 Oct 2023\n\nThe Dirty Secret of OS Updates    4 Oct 2023\n\nGet your DX Checkup   25 Sep 2023\n\nMulti — Multiplayer Collaboration for macOS   18 Sep 2023\n\nKolide — Device Trust for Okta. Watch the Demo Today.   12 Sep 2023\n\nOh Dear    4 Sep 2023\n\nJigx   29 Aug 2023\n\nThe Dirty Secret of OS Updates   22 Aug 2023\n\nRewatch   14 Aug 2023\n\nKolide — Device Trust for Okta. Watch the demo today.    7 Aug 2023\n\nWarp — Your Terminal, Reimagined   31 Jul 2023\n\nThe Dirty Secret of OS Updates   24 Jul 2023\n\nJigx   17 Jul 2023\n\nKolide — Device Trust for Okta. Watch the demo today.   10 Jul 2023\n\nNylas for Email and Calendar APIs    3 Jul 2023\n\nAxiom   26 Jun 2023\n\nKolide — Zero Trust for Okta   20 Jun 2023\n\nKolide — Device Trust for Okta   13 Jun 2023\n\nRetool    6 Jun 2023\n\nSky Guide   29 May 2023\n\nKolide — Zero Trust for Okta   23 May 2023\n\nOnin Keyboard Calendar   15 May 2023\n\nWorkOS    9 May 2023\n\nKolide — Device Trust for Okta    1 May 2023\n\nLimited Edition: Atoms × MKBHD Sneaker M251   28 Apr 2023\n\nKolide — Zero Trust for Okta   17 Apr 2023\n\nMeh.com   13 Apr 2023\n\nWorkOS    3 Apr 2023\n\nKolide — Device Trust for Okta   27 Mar 2023\n\nKolide — Zero Trust for Okta   20 Mar 2023\n\nWorkOS   13 Mar 2023\n\nKolide — Device Trust for Okta    6 Mar 2023\n\nKolide — Zero Trust for Okta   27 Feb 2023\n\nWorkOS    6 Feb 2023\n\nDouble the Brightness of Your MacBook Pro With Vivid   25 Jan 2023\n\nMeh   19 Jan 2023\n\nWorkOS    9 Jan 2023\n\nRetool   12 Dec 2022\n\nKolide — Endpoint Security for Teams That Slack    6 Dec 2022\n\nDoxie Pro — The Document Scanner for Home, Office, or Home Office   29 Nov 2022\n\nTuple   21 Nov 2022\n\nKolide — Endpoint Security for Teams That Slack   18 Nov 2022\n\nKolide — Endpoint Security for Teams That Slack    8 Nov 2022\n\nAtoms   31 Oct 2022\n\nKolide — Endpoint Security for Teams That Slack   25 Oct 2022\n\nKolide — Endpoint Security for Teams That Slack   18 Oct 2022\n\nKolide — Endpoint Security for Teams That Slack   10 Oct 2022\n\nFantastical    4 Oct 2022\n\nFantastical   30 Sep 2022\n\nWarp   19 Sep 2022\n\niMazing   12 Sep 2022\n\nRetool    5 Sep 2022\n\nStatus Hero   29 Aug 2022\n\nRevenueCat   23 Aug 2022\n\nRevenueCat   15 Aug 2022\n\nSourcegraph    9 Aug 2022\n\nSourcegraph    1 Aug 2022\n\nBeam Beta   25 Jul 2022\n\nRevenueCat   18 Jul 2022\n\nSofa   11 Jul 2022\n\nTailscale SSH    4 Jul 2022\n\nTailscale   27 Jun 2022\n\nTailscale   20 Jun 2022\n\nRows   13 Jun 2022\n\nRetool    7 Jun 2022\n\nKolide — Endpoint Security Powered by People    1 Jun 2022\n\nKolide — Endpoint Security Powered by People   23 May 2022\n\nKeyboard Maestro   19 May 2022\n\nKolide — Endpoint Security Powered by People   13 May 2022\n\nKolide — Endpoint Security Powered by People    2 May 2022\n\nTara AI: Git Ship Done   25 Apr 2022\n\nKolide — Endpoint Security Powered by People   19 Apr 2022\n\nKolide   13 Apr 2022\n\nKolide    4 Apr 2022\n\nStudio 3T   28 Mar 2022\n\nKolide   21 Mar 2022\n\nMacStadium — The Mac Cloud for Business   14 Mar 2022\n\nKolide    8 Mar 2022\n\nUnlined — No More Unwanted Calls from a ‘Karen’   28 Feb 2022\n\nKolide   21 Feb 2022\n\nInstabug’s Mobile App Performance Monitoring   14 Feb 2022\n\nRows    7 Feb 2022\n\n🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 meh.com 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕     1 Feb 2022\n\nYou.com — Search Less, Code More   24 Jan 2022\n\nListen Notes: The Best Podcast Search Engine and Database   17 Jan 2022\n\nHex   10 Jan 2022\n\nMux    3 Jan 2022\n\nMacUpdater   27 Dec 2021\n\nShaker & Spoon   20 Dec 2021\n\nMux   14 Dec 2021\n\nWifi Dabba    6 Dec 2021\n\nAtoms — New Colors & Holiday Discount   29 Nov 2021\n\nRetool   22 Nov 2021\n\nMux Video   15 Nov 2021\n\nRows    8 Nov 2021\n\nShortcut (Formerly Clubhouse.io)   26 Oct 2021\n\nMux Video   18 Oct 2021\n\nFucking Meh.com   12 Oct 2021\n\nCopilot    4 Oct 2021\n\nQuill — Messaging to Make Your Team Better   27 Sep 2021\n\nRetool   20 Sep 2021\n\nWhy Podcasts Are My New Wikipedia  — the  Perfect Informal Learning Resource   14 Sep 2021\n\nNXLog Enterprise Edition    7 Sep 2021\n\nMorning Brew   30 Aug 2021\n\nStacker   23 Aug 2021\n\nMux Video   17 Aug 2021\n\nRetool    9 Aug 2021\n\nTara AI — Build Better Software, Faster    3 Aug 2021\n\nGitFinder   26 Jul 2021\n\nFlatfile Portal   20 Jul 2021\n\nFlatfile Portal   12 Jul 2021\n\nLiterati    5 Jul 2021\n\nMux Video   28 Jun 2021\n\nFlatfile Portal   21 Jun 2021\n\nSimris   14 Jun 2021\n\nThe All-Star Mac Bundle Featuring Parallels Pro    7 Jun 2021\n\nQuill — Messaging to Make Your Team Better   31 May 2021\n\nPoint Card   24 May 2021\n\nSongPop Party   18 May 2021\n\nLiterati   11 May 2021\n\nMagic Lasso Adblock    3 May 2021\n\nPoint Card   26 Apr 2021\n\nTom Bihn: Big Restock Coming Thursday   19 Apr 2021\n\nRaycast — Spotlight on Steroids   12 Apr 2021\n\nOrdoro    6 Apr 2021\n\nTom Bihn’s Synik 22   29 Mar 2021\n\nSimris Algae Omega-3   22 Mar 2021\n\nSourcegraph   15 Mar 2021\n\nTara AI — Easy Agile for Software Teams    8 Mar 2021\n\nAtoms Are Sold Out    1 Mar 2021\n\nInstabug: Application Performance Monitoring Built for Mobile Apps   22 Feb 2021\n\nMux Video   15 Feb 2021\n\nFlatfile Portal   10 Feb 2021\n\nFlatfile Concierge    1 Feb 2021\n\nHow I Accidentally Built a Podcast API Business   25 Jan 2021\n\nHonk   18 Jan 2021\n\nFeaturePeek   11 Jan 2021\n\nMotion    4 Jan 2021\n\nMux Video   28 Dec 2020\n\nWifi Dabba   21 Dec 2020\n\nThe Official Cyber Monday Mac Bundle Featuring Parallels Pro & Luminar 4   14 Dec 2020\n\nHonest Security    8 Dec 2020\n\nHalide Mark II   30 Nov 2020\n\nKandji   25 Nov 2020\n\nTara AI — Product Development for Teams   16 Nov 2020\n\nAtoms    9 Nov 2020\n\nSketch    2 Nov 2020\n\nKandji   29 Oct 2020\n\nInfolio   19 Oct 2020\n\nKandji   15 Oct 2020\n\nInstabug: Application Performance Monitoring Built for Mobile Apps    5 Oct 2020\n\nSimris Algae Omega-3   28 Sep 2020\n\nKandji   21 Sep 2020\n\nHEY   14 Sep 2020\n\nODA — Modular Everyday Bags    7 Sep 2020\n\nMacStadium: Half Off Forever (HOF) Promo   31 Aug 2020\n\nKandji   25 Aug 2020\n\nWifi Dabba — Own a Piece of the Internet in India   17 Aug 2020\n\nTara AI — Smart Project Management   10 Aug 2020\n\nLoopback From Rogue Amoeba    5 Aug 2020\n\nMorning Brew   27 Jul 2020\n\nAlgoriddim — djay Pro AI   20 Jul 2020\n\nSimris Algae Omega-3   13 Jul 2020\n\nChange the Twenty: The Harriet Tubman Twenty Dollar Bill   11 Jul 2020\n\nYES PLZ: The Best Coffee in Your Kitchen    2 Jul 2020\n\nAtoms Everyday Face Mask   22 Jun 2020\n\nDanilo Campos   15 Jun 2020\n\nIntroducing the 7 Best Pressure Washers    9 Jun 2020\n\nMagic Lasso Adblock    4 Jun 2020\n\nThe Magic Puzzle Company   26 May 2020\n\nThe Square Small Business Hackathon    18 May 2020\n\nMorning Brew   11 May 2020\n\nThe Essential Website Audit from Say Yeah!    6 May 2020\n\nJamf Now   13 Apr 2020\n\nMagic Lasso Adblock    9 Apr 2020\n\nSoundSource From Rogue Amoeba   30 Mar 2020\n\nNextDraft   23 Mar 2020\n\nYES PLZ — the Best Coffee in Your Kitchen   20 Mar 2020\n\nYES PLZ — the Best Coffee in Your Kitchen   12 Mar 2020\n\nScanii   24 Feb 2020\n\nMorning Brew   17 Feb 2020\n\nSquare   10 Feb 2020\n\nMorning Brew    4 Feb 2020\n\nKolide: User Focused Security For Teams That Slack   27 Jan 2020\n\nSQLPro Studio — Database Client for macOS & iOS   20 Jan 2020\n\nMyNetDiary   13 Jan 2020\n\nKolide: User Focused Security for Teams That Slack    8 Jan 2020\n\nMorning Brew   23 Dec 2019\n\nAtoms — Ideal Everyday Shoes   16 Dec 2019\n\nDoxie Mobile Scanners — Scan Smarter, Not Harder    9 Dec 2019\n\nSignEasy    2 Dec 2019\n\nBasecamp, Before + After   25 Nov 2019\n\n1Password   18 Nov 2019\n\nKolide: User Focused Security for Teams That Slack   11 Nov 2019\n\nMorning Brew    5 Nov 2019\n\nGuardian Firewall   28 Oct 2019\n\nFuture   21 Oct 2019\n\nAddigy: Unified Apple Device Management   14 Oct 2019\n\nKolide: User Focused Security for Teams That Slack    8 Oct 2019\n\nJamf Now: Secure and On-Demand, Apple Mobile Device Management   30 Sep 2019\n\nProcreate   25 Sep 2019\n\nInstabug   17 Sep 2019\n\nKolide: User Focused Security for Teams That Slack   11 Sep 2019\n\nKolide: User Focused Security for Teams That Slack    5 Sep 2019\n\nAtoms — Ideal Everyday Shoes   26 Aug 2019\n\nMorning Brew   19 Aug 2019\n\nEasily Secure and Manage Your Apple Devices with Jamf Now   12 Aug 2019\n\nShape Up: Stop Running in Circles and Ship Work That Matters   31 Jul 2019\n\nTextExpander   23 Jul 2019\n\nMorning Brew   16 Jul 2019\n\nKolide: User Focused Security For Teams That Slack    1 Jul 2019\n\nKolide: User Focused Security For Teams That Slack   17 Jun 2019\n\nMacStadium — Simple, Scalable, Secure Mac Infrastructure   10 Jun 2019\n\nPixelmator Photo    5 Jun 2019\n\nMemos — Photographic Memory   30 May 2019\n\nLayers + The Talk Show Live   24 May 2019\n\nAtoms — Ideal Everyday Shoes   13 May 2019\n\nMonarch Trips   29 Apr 2019\n\nMorning Brew   23 Apr 2019\n\nAgenda + Reminders   16 Apr 2019\n\nJamf Now – Easy Apple Device Management for Any Organization    9 Apr 2019\n\nStackSocial’s Epic Mac Bundle Ft. Fantastical 2    1 Apr 2019\n\nMeh.com   28 Mar 2019\n\nGravityView: Don’t Write Code. Blow Minds.   18 Mar 2019\n\nJamf Now — Easy Apple device management for any organization   11 Mar 2019\n\nAtoms — Ideal Everyday Shoes    6 Mar 2019\n\nBuddy: The Fastest Website Deployments   25 Feb 2019\n\nAtoms — Ideal Everyday Shoes   18 Feb 2019\n\nJamf Now — Easily Secure and Manage Your Apple Devices   12 Feb 2019\n\nSkillshare — The Best Way to Learn Online    5 Feb 2019\n\nSquare In-App Payments SDK   28 Jan 2019\n\nDashlane   24 Jan 2019\n\nProcreate   14 Jan 2019\n\nHyperDrive: World’s First USB-C Hub for 2018 iPad Pro    7 Jan 2019\n\nBanktivity 7 Personal Finance Software for Mac   31 Dec 2018\n\nSketchParty TV   24 Dec 2018\n\nAgenda Adds Images   17 Dec 2018\n\nOutlier   10 Dec 2018\n\nDoxie Mobile Scanners — Give the Gift of Paperless    3 Dec 2018\n\niFixit: The Free Online Repair Manual for Everything, Written by Everyone   28 Nov 2018\n\nSQLPro — Database Management for macOS and iOS   20 Nov 2018\n\nSquare Reader SDK   12 Nov 2018\n\nUniverse    6 Nov 2018\n\nFleetsmith: Automated Apple Device Management for Security-Minded Teams   29 Oct 2018\n\nAudio Memos Pro — The Voice Recorder   26 Oct 2018\n\nFlow   19 Oct 2018\n\nHyperJuice: World’s Most Powerful USB-C Battery Pack    8 Oct 2018\n\nSkillshare — The Best Way to Learn Online    2 Oct 2018\n\nJamf Now: Streamlined Apple Device Management   24 Sep 2018\n\nIngage Instants   17 Sep 2018\n\nBrilliant   11 Sep 2018\n\nCreative Selection    5 Sep 2018\n\nJamf Now: Manage Your Apple Devices in Minutes   27 Aug 2018\n\nBrilliant   24 Aug 2018\n\nUpHabit   17 Aug 2018\n\nHoneybadger    6 Aug 2018\n\nJamf Now: Manage Your Apple Devices in Minutes   31 Jul 2018\n\nMartianCraft   26 Jul 2018\n\nTiming: Track your Time. Then Spend it Better.   19 Jul 2018\n\nJourney Across Bhutan: The World’s First Carbon-Negative Country   13 Jul 2018\n\nKolide for Mac: User Focused Security    3 Jul 2018\n\nField Notes: ‘Three Missions’ Edition   26 Jun 2018\n\nSnap Kit by Snapchat   18 Jun 2018\n\nSkillshare — The Best Way to Learn Online   11 Jun 2018\n\nInstabug: Comprehensive Bug Reporting and In-App Feedback SDK for Mobile Apps    4 Jun 2018\n\nEasily Manage Your Apple Devices in Minutes: Jamf Now   29 May 2018\n\nThe Quip Electric Toothbrush Keeps Brushing Better   21 May 2018\n\nKolide for Mac: User Focused Security   14 May 2018\n\nSkillshare — The Best Way to Learn Online    8 May 2018\n\nKolide for Mac: User Focused Security    2 May 2018\n\nTurn Touch Wooden Smart Home Remote   19 Apr 2018\n\nJamf Now: Easily Manage Apple Devices in Minutes    9 Apr 2018\n\nJetPens    2 Apr 2018\n\nDiamond Assets   27 Mar 2018\n\nUltra Fractal   21 Mar 2018\n\nShaker & Spoon — Make Great Drinks   14 Mar 2018\n\nTax Time Tip: The IRS Accepts Doxie’s Scanned Receipts    5 Mar 2018\n\nBuild Your Dream Career With Skillshare   26 Feb 2018\n\nJamf Now   20 Feb 2018\n\nMeh.com: Selling Shit You Don’t Want for So Cheap That You Buy It Anyway   16 Feb 2018\n\nInstabug: Comprehensive Bug Reporting SDK for Mobile Apps   29 Jan 2018\n\nShaker & Spoon — Make Great Drinks   26 Jan 2018\n\nAaptiv: #1 Audio Fitness App   16 Jan 2018\n\nJamf Now    8 Jan 2018\n\nAaptiv: #1 Audio Fitness App    2 Jan 2018\n\nAaptiv: #1 Audio Fitness App   26 Dec 2017\n\neero   18 Dec 2017\n\nMicrosoft App Center   12 Dec 2017\n\nDoxie: Scan Anywhere, 30% Off For DF Readers    4 Dec 2017\n\nJamf Now — Manage and Protect Apple Devices in Minutes   28 Nov 2017\n\nGo Paperless With Doxie — Up to $90 Off, Now Through Monday   24 Nov 2017\n\nMicrosoft App Center   15 Nov 2017\n\nSquarespace Domains    8 Nov 2017\n\nKolide Fleet for Osquery   30 Oct 2017\n\nSquarespace   23 Oct 2017\n\nDuckDuckGo   17 Oct 2017\n\nSetapp    9 Oct 2017\n\nJamf Now: On-Demand, Apple Mobile Device Management    3 Oct 2017\n\nCleanMyMac   27 Sep 2017\n\nSquarespace Personalized Templates   15 Sep 2017\n\nJamf Now    5 Sep 2017\n\nGray Langur Tours: Adventure into Hidden and Mysterious Bhutan   31 Aug 2017\n\nJamf Now   22 Aug 2017\n\nOutlier   14 Aug 2017\n\nSquarespace    8 Aug 2017\n\nDuckDuckGo   31 Jul 2017\n\nSquarespace   11 Jul 2017\n\nFlightLogger    3 Jul 2017\n\nTiming — Automatic Time Tracking for Mac   26 Jun 2017\n\nMNML: A macOS Writing App for Medium.com   20 Jun 2017\n\nSquarespace Domains   13 Jun 2017\n\nField Notes    5 Jun 2017\n\nJamf Now   30 May 2017\n\nFlow: Simple Project Management   22 May 2017\n\nStashword iOS App and Website   15 May 2017\n\nSquarespace: Customizable Design    8 May 2017\n\nAmazon Web Service Device Farm    1 May 2017\n\nOutlier   24 Apr 2017\n\nFastly   18 Apr 2017\n\nFastly   10 Apr 2017\n\nSquarespace    4 Apr 2017\n\nBuildZoom Is a Better Way to Remodel   29 Mar 2017\n\nHealthFace for Apple Watch   22 Mar 2017\n\nQuip Electric Toothbrush   14 Mar 2017\n\nSquarespace Domains    6 Mar 2017\n\nBuddybuild: A CI / CD Built for iOS Developers   27 Feb 2017\n\nMac Private Clouds From MacStadium   21 Feb 2017\n\nSquarespace Domains   13 Feb 2017\n\nJamf Now    6 Feb 2017\n\nSetapp by MacPaw Is an ‘Unstore’ Alternative to the Mac App Store   30 Jan 2017\n\nSmartling: Translate Mobile Apps in an Instant   23 Jan 2017\n\nV for Wikipedia   18 Jan 2017\n\nSpeedtest Desktop Apps for Mac and Windows    9 Jan 2017\n\nAaptiv: On-Demand Audio Fitness    5 Jan 2017\n\nStoryWorth   19 Dec 2016\n\nPadded Spaces: Where Gadgets Go to Relax   13 Dec 2016\n\neero Wi-Fi System    6 Dec 2016\n\nIntroducing Prop ’n Go Tote — Any Device / Any Angle / Anywhere   28 Nov 2016\n\nIntroducing Doxie Q — Go Seriously Paperless   24 Nov 2016\n\nVictory: A Charting Library for React.js and React Native   14 Nov 2016\n\nIntercom    7 Nov 2016\n\nNextDraft    1 Nov 2016\n\nPearl RearVision   24 Oct 2016\n\nSquarespace Domains   18 Oct 2016\n\nSQLPro — Database Management   10 Oct 2016\n\nTito    4 Oct 2016\n\niFixit’s Pro Tech Toolkit   19 Sep 2016\n\nSticker Pals   15 Sep 2016\n\nMountain Duck    6 Sep 2016\n\nFilmTouch    2 Sep 2016\n\nSquarespace   24 Aug 2016\n\nWhat Can You Do With 10 KB?   17 Aug 2016\n\nCloud Native Computing Foundation (CNCF)    9 Aug 2016\n\nMacUpdate’s Summer Mac App Bundle Is Here, and You Should Grab One    1 Aug 2016\n\nNotebook From Zoho   25 Jul 2016\n\nSquarespace   18 Jul 2016\n\nNotebook From Zoho   11 Jul 2016\n\nAlgoriddim: 2016 Apple Design Award Winner    4 Jul 2016\n\nField Notes Reporter’s Notebook   27 Jun 2016\n\nTry a Modern Intranet for Free   20 Jun 2016\n\nSquarespace   15 Jun 2016\n\nMacStadium: Mac Hosting and Colocation    8 Jun 2016\n\nStreaks   30 May 2016\n\nTry a Modern Intranet for Free   23 May 2016\n\nMeh.com   18 May 2016\n\nBlue Bottle Coffee    9 May 2016\n\nStoryWorth    3 May 2016\n\nProcreate   25 Apr 2016\n\nIntroducing Imprint   18 Apr 2016\n\nSquarespace   11 Apr 2016\n\nMacminicolo’s Impossible Promo    6 Apr 2016\n\nIgloo, a Modern Intranet   28 Mar 2016\n\nBushel   22 Mar 2016\n\nCloud Status App   14 Mar 2016\n\nSquarespace    7 Mar 2016\n\nIgloo, a Modern Intranet    1 Mar 2016\n\nManuscripts and Findings: Your Research Is Ready for a Big Upgrade   22 Feb 2016\n\nDevMate by MacPaw   15 Feb 2016\n\nSquarespace    9 Feb 2016\n\nIgloo, a Modern Intranet    2 Feb 2016\n\nMeh.com — If You Liked Woot, Back When Woot Was Just One Deal a Day   28 Jan 2016\n\nimgix   20 Jan 2016\n\nCloudMagic for Mac: A Beautifully Simple Email App   19 Jan 2016\n\n2016: The Year to Go Paperless    5 Jan 2016\n\nTrackR atlas   28 Dec 2015\n\nThe Photojojo Iris Phone Lens   21 Dec 2015\n\nStackSocial’s Mac Bundle   14 Dec 2015\n\nDoxie – Give the Gift of Paperless    7 Dec 2015\n\nThe Holiday Must Have: A Travel Wallet From Bellroy   30 Nov 2015\n\niBedside and Prop ’n Go   24 Nov 2015\n\nBellroy’s Latest Slim Fix: Your iPhone and Wallet in One   16 Nov 2015\n\nSmooch: Build Better Messaging    9 Nov 2015\n\nBellroy Makes Slim Wallets Easier To Use    2 Nov 2015\n\nMakerbase   28 Oct 2015\n\nIgloo   19 Oct 2015\n\nIconic — A Photographic Tribute to Apple Innovation   13 Oct 2015\n\nOh Hey, It’s meh.com Again    9 Oct 2015\n\nMapbox iOS SDK   29 Sep 2015\n\nMapbox iOS SDK   21 Sep 2015\n\nMacUpdate’s Fall Bundle Is Back   18 Sep 2015\n\nIgloo Is an Intranet You’ll Actually Like    8 Sep 2015\n\nfor Meetings   31 Aug 2015\n\nMapbox Mobile   24 Aug 2015\n\nMapbox Mobile   17 Aug 2015\n\nBold Poker Is Your Personal Poker Dealer   10 Aug 2015\n\nIgloo Is an Intranet You’ll Actually Like    4 Aug 2015\n\nWeb Designer News: Curated Stories for Designers   27 Jul 2015\n\nBushel   20 Jul 2015\n\nMailChimp   13 Jul 2015\n\nDevMate    6 Jul 2015\n\nNest Cam    4 Jul 2015\n\nMeet Nest Cam   29 Jun 2015\n\nIntercom: Connect With Your Mobile Users   22 Jun 2015\n\nThe Inside Story of Answers: How Six People Built the #2 Mobile Analytics Tool in Just a Few Months   16 Jun 2015\n\nThe Inside Story of Answers: How Six People Built the #2 Mobile Analytics Tool in Just a Few Months    9 Jun 2015\n\nHow We Built the #2 Most Popular Mobile Analytics SDK in a Few Months    2 Jun 2015\n\nMailChimp   28 May 2015\n\nDirect Mail for OS X   18 May 2015\n\nCleanMyMac 3   12 May 2015\n\nReview Monitor: App Store Reviews in Slack    4 May 2015\n\nPixate   27 Apr 2015\n\nTodoist   20 Apr 2015\n\nRock On: A SongPop Adventure   13 Apr 2015\n\nPencilCase by Robots and Pencils    6 Apr 2015\n\nIgloo   30 Mar 2015\n\nSupportKit: Beautifully Simple In-App Messaging   23 Mar 2015\n\nBushel   16 Mar 2015\n\nTuft & Needle    9 Mar 2015\n\nHelloTalk    2 Mar 2015\n\nThe Ultra-Premium Mac Bundle   23 Feb 2015\n\nIgloo   16 Feb 2015\n\n62 Amazing Fonts, Brushes, Graphics, Stock Photos, Wordpress Themes and More!   10 Feb 2015\n\nPixate Free    2 Feb 2015\n\nSlack   26 Jan 2015\n\nProcreate Pocket   19 Jan 2015\n\nBiteMyApple.co   13 Jan 2015\n\nThe Best Blogging App of 2014    6 Jan 2015\n\nBBEdit   30 Dec 2014\n\nPage Not Found   22 Dec 2014\n\n…   15 Dec 2014\n\n(╯°□°)╯︵ ┻━uozɐɯɐ━┻    8 Dec 2014\n\nPadded Spaces: Where Gadgets Go to Relax    1 Dec 2014\n\nThe New Doxie Go Wi-Fi — Scan Anywhere, $50 Off for DF Readers   25 Nov 2014\n\nDesk: A Desktop Blogging App You’ll Love (and Use)   17 Nov 2014\n\nIgloo   12 Nov 2014\n\nFucking Amazon    3 Nov 2014\n\nMidroll — Podcast Advertising   27 Oct 2014\n\nPixate   20 Oct 2014\n\nIgloo   17 Oct 2014\n\nIn A Flash Laser — Boutique Printing, Laser Cutting, and Engraving Service   10 Oct 2014\n\nThinkUp    3 Oct 2014\n\nMacUpdate’s Biggest App Bundle of the Year   22 Sep 2014\n\nIgloo   16 Sep 2014\n\nPixate    9 Sep 2014\n\nPixate    2 Sep 2014\n\nMailChimp   25 Aug 2014\n\nTopBrewer   18 Aug 2014\n\nPaintCode 2   11 Aug 2014\n\niOS at Google    8 Aug 2014\n\nDrop   30 Jul 2014\n\nTopBrewer   23 Jul 2014\n\nFaded — Simply Beautiful Mobile Photography   14 Jul 2014\n\nManything Smart Video Monitoring    8 Jul 2014\n\nBellroy: Slim Your Wallet    2 Jul 2014\n\nIntroducing Canvas From Campaign Monitor   23 Jun 2014\n\nUnbox Epic Every Month With Loot Crate   16 Jun 2014\n\nMicrosoft Azure Mobile Services    9 Jun 2014\n\nPixate    2 Jun 2014\n\nIgloo Introduces Social Task Management   26 May 2014\n\nMustbin   19 May 2014\n\nSlingshot   12 May 2014\n\nMeet Applause: An App Quality Company    5 May 2014\n\nCraft   28 Apr 2014\n\nBellroy: Slim Your Wallet   21 Apr 2014\n\nJetPens.com — Cool Writing Instruments and Office Toys   14 Apr 2014\n\nIgloo Is an Intranet You’ll Actually Like    9 Apr 2014\n\nCrashlytics — The Most Powerful, Real-time Crash Reporting for iOS and Android   31 Mar 2014\n\nIgloo Is an Intranet You’ll Actually Like   25 Mar 2014\n\nField Notes Brand   20 Mar 2014\n\nWe Are Looking for Highly Skilled iOS Developers to Join Booking.com   10 Mar 2014\n\nPixate Freestyle    3 Mar 2014\n\nPicturelife — The One Platform You Need for Your Photos and Videos   24 Feb 2014\n\nAn Event Apart   18 Feb 2014\n\nIP Camera Recorder   10 Feb 2014\n\nNew Relic    3 Feb 2014\n\nCleanMyMac 2 by MacPaw   27 Jan 2014\n\nSquarespace   21 Jan 2014\n\nDuplicate, a New Typeface From Commercial Type   13 Jan 2014\n\nTracking Billable Hours in 2014 With Harvest    7 Jan 2014\n\nMacminicolo 2014 Promo   30 Dec 2013\n\nPicturelife   23 Dec 2013\n\nPixate Freestyle   16 Dec 2013\n\nSave Big With MacUpdate’s Winter Bundle    9 Dec 2013\n\nPadded Spaces: Where Gadgets Go to Relax    2 Dec 2013\n\nOmniGraffle 6   25 Nov 2013\n\nSquarespace   19 Nov 2013\n\nScan Anywhere — Doxie Flip and Doxie Go   13 Nov 2013\n\nIgloo Is an Intranet You’ll Actually Like    5 Nov 2013\n\nTransporter   28 Oct 2013\n\nGlove.ly, Invisible Touchscreen Gloves   22 Oct 2013\n\nThe Roadee Knows…   14 Oct 2013\n\nNew Relic’s FutureStack Conference    8 Oct 2013\n\nIgloo, an Intranet You’ll Actually Like   30 Sep 2013\n\nSave 90% with MacUpdate’s Fall Bundle   23 Sep 2013\n\nSquarespace   16 Sep 2013\n\nAdobe Typekit   12 Sep 2013\n\nShutterstock    3 Sep 2013\n\nShutterstock   27 Aug 2013\n\nShutterstock   19 Aug 2013\n\niDraw   12 Aug 2013\n\nSmugMug    6 Aug 2013\n\nSmugMug   30 Jul 2013\n\nEverpix   23 Jul 2013\n\nManything   15 Jul 2013\n\nIgloo, an Intranet You’ll Actually Like    8 Jul 2013\n\nBatchGeo    1 Jul 2013\n\nCollaborate.com   24 Jun 2013\n\nAdobe Kuler   19 Jun 2013\n\nSquarespace   10 Jun 2013\n\nRobots & Pencils    7 Jun 2013\n\nGetResponse, World’s Easiest Email Marketing   28 May 2013\n\nNozbe   20 May 2013\n\nDesktop Fonts in Adobe Typekit   13 May 2013\n\nSquarespace    7 May 2013\n\nMac SuperBundle    1 May 2013\n\nMacminicolo Forever Promo   22 Apr 2013\n\nWindows Azure Mobile Services   15 Apr 2013\n\nPixate: CSS Styling, Animation, and Bootstrap for Native Mobile Apps    8 Apr 2013\n\nCore Data — Secure Incremental Store for iOS and OS X    1 Apr 2013\n\nSquarespace   26 Mar 2013\n\nCleanMyMac 2   18 Mar 2013\n\nMacUpdate $49.99 Spring Bundle with Parallels Desktop 8   11 Mar 2013\n\nXamarin    4 Mar 2013\n\nIntroducing Squarespace Commerce   25 Feb 2013\n\nEverpix   18 Feb 2013\n\nTower — The Most Powerful Git Client for Mac   11 Feb 2013\n\nAlmond+    4 Feb 2013\n\nSquarespace   28 Jan 2013\n\nTypekit by Adobe   21 Jan 2013\n\nColugo for iPhone   14 Jan 2013\n\nHarvest    7 Jan 2013\n\n1Password 4 for iOS    2 Jan 2013\n\nShiny Things and TLAF Xmas Sale   24 Dec 2012\n\nNew Relic   18 Dec 2012\n\nTonx   10 Dec 2012\n\nNew Relic    4 Dec 2012\n\nDoxie: Give the Gift of Paperless — Just $149   26 Nov 2012\n\nMacLegion: 11 Top Mac Apps, Including TechTool Pro, Over 90 Percent Off   19 Nov 2012\n\nTower — Version Control Without the Pain   12 Nov 2012\n\nKoku — A Personal Finance Manager for Mac and iPhone    5 Nov 2012\n\nDoxie One — ‘Scanning made simple. Paperless made personal.’    1 Nov 2012\n\nEchograph   22 Oct 2012\n\nHarvest   15 Oct 2012\n\nAppCode    8 Oct 2012\n\nThe Squarespace Developer Platform    1 Oct 2012\n\nSakura Quick Math   26 Sep 2012\n\nAvocado   17 Sep 2012\n\nMetakine Mac App Bundle   11 Sep 2012\n\nLayerVault    4 Sep 2012\n\nSketch   27 Aug 2012\n\nRapidWeaver 5 Mega Bundle   22 Aug 2012\n\nPixate   13 Aug 2012\n\nThe All-New Squarespace 6    6 Aug 2012\n\nJuggernaut: Revenge of Sovering   30 Jul 2012\n\nJIRA Mobile Connect﻿   23 Jul 2012\n\nProcreate   16 Jul 2012\n\nHarvest — It’s Halftime, America   10 Jul 2012\n\nDoxie Go — ‘Scan Anywhere’    2 Jul 2012\n\nTapstream for iOS, Mac, and Android   27 Jun 2012\n\nPixelmator   19 Jun 2012\n\nToca Boca   11 Jun 2012\n\nMacUpdate June 2012 Bundle    6 Jun 2012\n\nRadarScope for Mac and iOS   29 May 2012\n\nBronson Watermarker   21 May 2012\n\nHarvest    7 May 2012\n\nAudible.com — The Internet’s Leading Provider of Audiobooks   23 Apr 2012\n\nPrintopia   16 Apr 2012\n\nEveryme   10 Apr 2012\n\nTrending for iPhone    3 Apr 2012\n\nSkyView — Explore the Universe   26 Mar 2012\n\nMacUpdate March 2012 Bundle   19 Mar 2012\n\nSparrow for iPhone   15 Mar 2012\n\nMacLegion Spring Bundle    5 Mar 2012\n\nMac DVDRipper Pro: The Easiest DVD Ripper for Your Mac   27 Feb 2012\n\nAwesomize   24 Feb 2012\n\nTower — The Most Powerful Git Client for Mac   13 Feb 2012\n\nIf You Can Hear It, Audio Hijack Pro Can Record It    6 Feb 2012\n\nScan Wirelessly: Doxie Go + Wi-Fi   30 Jan 2012\n\nMindNode   23 Jan 2012\n\nBBEdit 10   16 Jan 2012\n\nSparrow for Mac    9 Jan 2012\n\nHarvest    3 Jan 2012\n\nTapfolio for iPad   26 Dec 2011\n\nThe Little App Factory   19 Dec 2011\n\nAppcuity   12 Dec 2011\n\nProcess for iPad    6 Dec 2011\n\nDaisyDisk   28 Nov 2011\n\nRipIt   21 Nov 2011\n\nReadable   14 Nov 2011\n\nTapfolio for iPad    7 Nov 2011\n\nDoxie Go — ‘Scan Anywhere, No Computer Required’   31 Oct 2011\n\nDollarApp   24 Oct 2011\n\nVueScan Mobile   17 Oct 2011\n\nVMware Fusion 4   11 Oct 2011\n\nVMware Fusion 4    3 Oct 2011\n\nVMware Fusion 4   26 Sep 2011\n\nLanbito.com   19 Sep 2011\n\nVirtuoso Piano   12 Sep 2011\n\nThe BundleHunt Creativity Mac App Bundle    6 Sep 2011\n\n5-Star Alert: Thieving Dogs Swipe Cat Art!   29 Aug 2011\n\nVMware in Education, Back to School Special — Up to 50 Percent Off   23 Aug 2011\n\nXYDO Brief: The News You Want, Via Email   18 Aug 2011\n\nMacworld’s Total Lion Superguide    8 Aug 2011\n\nAskDifferent    1 Aug 2011\n\nTripCase   25 Jul 2011\n\nSqurl   18 Jul 2011\n\nPDFpen from Smile   12 Jul 2011\n\nDaisyDisk    6 Jul 2011\n\nBillings Pro 1.5 with Marketcircle Cloud   27 Jun 2011\n\nThe AppStorm Freelance Mac App Bundle   20 Jun 2011\n\niStockphoto   14 Jun 2011\n\nPixelmator 2.0 Sneak Preview    6 Jun 2011\n\niStockphoto   31 May 2011\n\nSparrow — the New Mail for Mac   23 May 2011\n\nRemember The Milk for iPad   16 May 2011\n\nVMware Fusion 3    9 May 2011\n\nKoku    2 May 2011\n\nMacLegion Spring 2011 Bundle   27 Apr 2011\n\nDaisyDisk   18 Apr 2011\n\nLithium Network, Server and Storage Monitoring   11 Apr 2011\n\nMidnight Martian    4 Apr 2011\n\nMacUpdate Spring 2011 Bundle   28 Mar 2011\n\nHarvest Time Tracking and Invoicing   21 Mar 2011\n\nREAL Studio   14 Mar 2011\n\nRE.minder and GAME.minder    8 Mar 2011\n\nGroupMe    1 Mar 2011\n\nPixelmator   21 Feb 2011\n\nXYDO: Social News Evolved   14 Feb 2011\n\nPixelmator    7 Feb 2011\n\nPixelmator   31 Jan 2011\n\nWigglehop   24 Jan 2011\n\nSourcebits   18 Jan 2011\n\nAccountEdge   10 Jan 2011\n\nMutual Mobile    3 Jan 2011\n\nHunter Research and Technology   27 Dec 2010\n\nTLAF Holiday Bundle   20 Dec 2010\n\nSourcebits   13 Dec 2010\n\ndjay for iPad    6 Dec 2010\n\nMyNetDiary   29 Nov 2010\n\nRobokill   24 Nov 2010\n\nRipIt   16 Nov 2010\n\nTouchUp for iPad    8 Nov 2010\n\n.tv    1 Nov 2010\n\nVaultPress   25 Oct 2010\n\nAppShopper App   18 Oct 2010\n\nRipIt   12 Oct 2010\n\nCarcassonne    4 Oct 2010\n\nNight Stand HD   27 Sep 2010\n\nPowerMax.com   20 Sep 2010\n\nRingtones   13 Sep 2010\n\nICONGOODS Softwear Apparel    7 Sep 2010\n\nFelt Tip Inc.    2 Sep 2010\n\nSourcebits   23 Aug 2010\n\nRipIt   16 Aug 2010\n\nFlickpad    9 Aug 2010\n\nMy-Cast Weather Radar    2 Aug 2010\n\nSourcebits   26 Jul 2010\n\nReadMore by Navel Labs   19 Jul 2010\n\nEleMints   12 Jul 2010\n\nPocket Informant — Bringing Events and Tasks Together at Last    6 Jul 2010\n\nVaultPress   28 Jun 2010\n\nChimpKit   21 Jun 2010\n\nNight Stand HD   15 Jun 2010\n\nUndercover: Bad News for Mac Thieves    8 Jun 2010\n\n1Password and Knox    1 Jun 2010\n\nMutual Mobile App Solutions   24 May 2010\n\nTags for Mac   17 May 2010\n\nNight Stand   10 May 2010\n\nDirect Mail    3 May 2010\n\nPenultimate   26 Apr 2010\n\nParatroopers: Air Assault From Software Factory, LLC   19 Apr 2010\n\nClimate   12 Apr 2010\n\nDoxie: ‘The Amazing Scanner for Documents’    5 Apr 2010\n\nRivet   30 Mar 2010\n\nMacUpdate $49.99 Spring Bundle With Parallels Desktop 5   22 Mar 2010\n\nOmniGraphSketcher From the Omni Group   15 Mar 2010\n\nDailyDeeds    8 Mar 2010\n\nThe Mac Sale Bundle    1 Mar 2010\n\nRivet   22 Feb 2010\n\nMemoryMiner   15 Feb 2010\n\nSourcebits    8 Feb 2010\n\nRadioshift from Rogue Amoeba    1 Feb 2010\n\nSortfolio   26 Jan 2010\n\ntheNextTrain   18 Jan 2010\n\nSourcebits   11 Jan 2010\n\nLose It or Lose It    4 Jan 2010\n\nWarships   28 Dec 2009\n\nRipIt   21 Dec 2009\n\nAndrews & Dunham Damn Fine Tea   14 Dec 2009\n\nVMware Fusion 3    7 Dec 2009\n\nVMware Fusion 3    1 Dec 2009\n\nVoices   23 Nov 2009\n\nLux Delux   16 Nov 2009\n\nBusyCal    9 Nov 2009\n\nSpots: Wi-Fi Hotspot Directory for iPhone and iPod Touch    2 Nov 2009\n\nUlysses 2.0   26 Oct 2009\n\nTouchPad   19 Oct 2009\n\npzizz relax   12 Oct 2009\n\nSCORE! FIFA 10 by EA Sports is now available for your iPhone & iPod Touch    5 Oct 2009\n\nMailChimp   28 Sep 2009\n\nOther World Computing — Serving the Mac Universe Since 1988   21 Sep 2009\n\nBOGGLE for iPhone and iPod Touch   16 Sep 2009\n\nThe Sims 3 Is Now $6.99 (30% Discount)    8 Sep 2009\n\nTrivia Wars   31 Aug 2009\n\nRipIt   24 Aug 2009\n\nWhere To? — Find Points of Interest on iPhone/iPod Touch   16 Aug 2009\n\nSimplyTweet 2.0 — Full Featured iPhone Twitter Application With Push   10 Aug 2009\n\nComics by comiXology for the iPhone and iPod Touch (App Store Link)    3 Aug 2009\n\nCultured Code   27 Jul 2009\n\nNumbrix for iPhone/iPod Touch   20 Jul 2009\n\nVMware Fusion 2.0   13 Jul 2009\n\nClassics (App Store Link)    7 Jul 2009\n\nDelicious Library   30 Jun 2009\n\nSatchel, the Backpack Client for iPhone   22 Jun 2009\n\nTiny Dancer (App Store Link)   15 Jun 2009\n\nGroceries by Sophiestication Software    8 Jun 2009\n\nSimplyTweet    1 Jun 2009\n\nEvom   26 May 2009\n\nDelicious Library   18 May 2009\n\nGroceries   11 May 2009\n\nJumsoft    4 May 2009\n\nTweetie for Mac   27 Apr 2009\n\nRogue Amoeba: What Kind Of A Name Is That?   20 Apr 2009\n\nSpanning Sync   13 Apr 2009\n\nAn Event Apart    6 Apr 2009\n\nThe Omni Group: Makers of OmniFocus, OmniGraffle, OmniPlan, and More   30 Mar 2009\n\nOmniPlan for Mac OS X   23 Mar 2009\n\nOmniGraffle for Mac OS X   17 Mar 2009\n\nOmniFocus for Mac OS X and iPhone   10 Mar 2009\n\nSifter — Bug and Issue Tracking    2 Mar 2009\n\nHey Mac Software   23 Feb 2009\n\nDelicious Library   16 Feb 2009\n\niStat by Bjango (iTunes Link)    9 Feb 2009\n\nOn The Job 3    2 Feb 2009\n\nZumobi   26 Jan 2009\n\nKindling   19 Jan 2009\n\nHoefler & Frere-Jones   12 Jan 2009\n\nBprWtxhi    5 Jan 2009\n\nDelicious Library 2   29 Dec 2008\n\nFree Software at The Mac Giving Tree   22 Dec 2008\n\nFlick Bowling   15 Dec 2008\n\nClassics for iPhone and iPod touch    8 Dec 2008\n\nSound Studio 3    1 Dec 2008\n\nMacworld Conference and Expo   24 Nov 2008\n\nBillings 3   17 Nov 2008\n\nBBEdit 9   10 Nov 2008\n\nMacworld Conference and Expo    3 Nov 2008\n\nEspresso   27 Oct 2008\n\nFileMagnet   20 Oct 2008\n\nFlipBook   13 Oct 2008\n\nSketches    6 Oct 2008\n\nSaaS Rails Kit   29 Sep 2008\n\nLoopt   24 Sep 2008\n\nWhere To? GPS Points of Interest 1.1   15 Sep 2008\n\nMacUpdate Back-to-School Bundle    8 Sep 2008\n\nDrobo by Data Robotics    2 Sep 2008\n\nDrobo by Data Robotics   27 Aug 2008\n\nDS Media Labs: iPhone Gaming at Its Finest   18 Aug 2008\n\niPodRip   11 Aug 2008\n\nPennies — Budget Tracking for iPhone    6 Aug 2008\n\nHoudahSpot 2: Spotlight Unleashed   28 Jul 2008\n\nSuperbiate & Son, Inc.   21 Jul 2008\n\ntap tap tap — tasty bits for your iPhone   15 Jul 2008\n\nIndie Mac Software Summer Sale    7 Jul 2008\n\nScreenCastsOnline — Weekly Mac Video Tutorials   30 Jun 2008\n\nAn Event Apart   23 Jun 2008\n\nJNSoftware   16 Jun 2008\n\nMacHeist   12 Jun 2008\n\nIcon Resource    2 Jun 2008\n\nHazel   26 May 2008\n\nMacminicolo.net   19 May 2008\n\nAn Event Apart   12 May 2008\n\nDEVONtechnologies    5 May 2008\n\ndoubleTwist   28 Apr 2008\n\nMacUpdate Parallels Bundle   21 Apr 2008\n\nQwitter   14 Apr 2008\n\nDrobo    7 Apr 2008\n\nMoneydance   31 Mar 2008\n\nMac Indie Deals   24 Mar 2008\n\nMail Attachments Iconizer   17 Mar 2008\n\nR-U-ON: Hosted IT Monitoring. Simple.   11 Mar 2008\n\nAuthentic Jobs: Full-time and Freelance Job Board    4 Mar 2008\n\nBig Medium: Web Publishing Made Easy   25 Feb 2008\n\nTinderbox: The Tool for Notes   19 Feb 2008\n\nMX: Managing Experience   15 Feb 2008\n\nFileChute    4 Feb 2008\n\nFontShop   29 Jan 2008\n\nBeanstalk: Hosted Subversion   21 Jan 2008\n\nH-Squared   14 Jan 2008\n\nMacHeist II Software Bundle    9 Jan 2008\n\nInco    1 Jan 2008\n\nBusySync   17 Dec 2007\n\nFlickrExport by Connected Flow   11 Dec 2007\n\nJumpchart    4 Dec 2007\n\nRogue Amoeba Software   26 Nov 2007\n\nEvolve Wireless Sound System by Griffin Technology   20 Nov 2007\n\nPeepCode Screencasts   12 Nov 2007\n\nJoyent    5 Nov 2007\n\nBruji   29 Oct 2007\n\nSimpleMovieX   23 Oct 2007\n\nBruji   16 Oct 2007\n\nMentat    9 Oct 2007\n\nFluther.com    2 Oct 2007\n\nFileSpot   24 Sep 2007\n\nZengobi   17 Sep 2007\n\nPhone Different   10 Sep 2007\n\nPeepCode Screencasts    3 Sep 2007\n\nFastMac   27 Aug 2007\n\nTinderbox   20 Aug 2007\n\nLitmus   15 Aug 2007\n\nGriffin Technology    6 Aug 2007\n\nRogue Amoeba   30 Jul 2007\n\n \n\nDisplay Preferences\n\nCopyright © 2002–2026 The Daring Fireball Company LLC."
+}

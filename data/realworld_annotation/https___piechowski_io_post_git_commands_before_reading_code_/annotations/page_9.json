@@ -1,0 +1,167 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/rails-7-2-to-8-2_hu174675eee2300c9c008dccf4efa9a415_315590_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/propshaft-pipeline_hu7d4db72a845225789fb232f4c18d063e_37826_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/bundle-audit_hubdfe0f1032e5e0f6888e3c8791c14ae7_147924_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/why-is-default-scope-bad-rails/cover_hu698cbe9da9758f5e3d49778b8a4d5d7c_57806_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/action-controller-param-missing/error_hudeca835d7df0c0a8ba370826b1652777_85618_800x0_resize_box_3.png",
+        "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/last-arg-deprecated-screenshot_hu3cc3e391735eb1758c4dcdc05d067fa1_75862_800x0_resize_box_3.png",
+        "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/irb-active-record-queries_hu3e1d38a86036662fc5c36e8ff04aba6e_177141_800x0_resize_box_3.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 37,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "← All posts",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "upgrades",
+            "href": "https://piechowski.io/tags/upgrades"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "upgrades",
+            "href": "https://piechowski.io/tags/upgrades"
+        },
+        {
+            "text": "Migrating from Sprockets to Propshaft: Is It Worth It?",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "upgrades",
+            "href": "https://piechowski.io/tags/upgrades"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "Solved: ActionController::ParameterMissing (param is missing or the value is empty)",
+            "href": "https://piechowski.io/post/action-controller-param-missing/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "debugging",
+            "href": "https://piechowski.io/tags/debugging"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "Rails: How to Use Greater Than/Less Than in Active Record where Statements",
+            "href": "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        }
+    ],
+    "text_length": 2294,
+    "text_full": "Work With Me\nGithub\nBlog\n← All posts\nPosts tagged: rails\nApr 2, 2026\nRuby 3.2 Is EOL: What You Actually Need to Do\n\nRuby 3.2 hit end of life on March 31, 2026. Here's what that actually means for your Rails app, how to assess your real risk, and the fastest safe upgrade path, without the vendor panic.\n\nruby\nrails\nupgrades\nMar 31, 2026\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\n\nEverything that breaks upgrading Rails 7.2 to 8.1, and how to fix it: enum syntax, the Solid trifecta, Propshaft, params.expect, and every silent regression.\n\nrails\nruby\nupgrades\nMar 17, 2026\nMigrating from Sprockets to Propshaft: Is It Worth It?\n\nRails 8 ships Propshaft by default, but migrating from Sprockets isn't always the right call. How to decide, and a step-by-step migration guide for when it is.\n\nrails\nruby\nupgrades\nMar 5, 2026 · Updated Mar 28, 2026\nHow I Audit a Legacy Rails Codebase in the First Week\n\nMy Rails codebase audit process: stakeholder interviews before code, Gemfile and schema before any tools, and a single-page triage as the deliverable.\n\nrails\nruby\nlegacy\nJan 6, 2020 · Updated Mar 9, 2026\nRails default_scope: Why You Should Never Use It\n\n`default_scope` quietly breaks `Model.all`, corrupts scope chaining, bleeds into associations, and can leak data in multi-tenant apps. Here's why it's dangerous and what to use instead.\n\nrails\nruby\ndevelopment\nJan 2, 2020\nSolved: ActionController::ParameterMissing (param is missing or the value is empty)\n\nWhen using Ruby on Rails' strong_params with require, there is a chance the key doesn't exist. When this happens, an ActionController::ParameterMissing exception is thrown.\n\nrails\nruby\ndebugging\nJan 2, 2020 · Updated May 20, 2020\nSolved: Warning: Using the last argument as keyword parameters is deprecated\n\nRuby 2.7 deprecated the use of hashes in the last argument of a method call. Fix this warning by removing the curly braces or adding a hash splat (**) to a variable argument.\n\nrails\nruby\ndevelopment\nDec 30, 2019\nRails: How to Use Greater Than/Less Than in Active Record where Statements\n\nWhen querying ActiveRecord for greater than and less than, most people turn to including raw SQL in their codebase... But raw SQL isn't required!\n\nrails\nruby\ndevelopment\nLet's talk about your codebase.\nEmail\nMessage"
+}

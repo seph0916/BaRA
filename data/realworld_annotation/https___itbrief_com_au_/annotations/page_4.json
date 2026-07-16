@@ -1,0 +1,538 @@
+{
+    "image_count": 58,
+    "images": [
+        "https://itbrief.com.au/brands/itb-new-logo.svg",
+        "https://itbrief.com.au/brands/td-new-logo-right.svg",
+        "https://securitybrief.com.au/uploads/story/2026/05/14/preview_Semperis.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/13/preview_Budget_-_AU(2).webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/11/preview_Ransomware_Day_-_AU.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/06/preview_Rubrik.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/05/preview_Adam.webp",
+        "https://telconews.com.au/uploads/story/2026/04/30/preview_resilient-it-ot-security-australian-poultry-facility-network-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/21/preview_calm-analyst-operations-center-secure-incident-dashboard-servers-digital-illustration.webp",
+        "https://channellife.com.au/uploads/story/2026/04/30/preview_collaboration-two-it-platforms-global-network-cloud-operations-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/23/preview_flux-result-301972a1-9b2e-48b8-a9aa-9e092af5bfea.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/19/preview_msp-operations-center-night-cloud-security-monitoring-ransomware.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/19/preview_alok-agrawal-headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/04/preview_Affordable.webp",
+        "https://futurefive.com.au/uploads/story/2026/04/21/preview_Go_OUtreach.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/20/preview_Rishi.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/16/preview_Debasish.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/25/preview_Stuart.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/26/preview_Dave_Wardrop.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/19/preview_global_ai_data_center_network_isometric_servers_world_map_view.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/04/preview_Courtney_Guss_headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/24/preview_Richard.webp",
+        "https://securitybrief.com.au/uploads/story/2026/02/21/preview_Untitled_design__76_.webp",
+        "https://securitybrief.com.au/uploads/story/2026/02/18/preview_Brett_Chase.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/04/preview_Affordable.webp",
+        "https://itbrief.com.au/uploads/story/2025/11/13/preview_5.webp",
+        "https://securitybrief.com.au/uploads/story/2025/07/28/preview_veam_solo_interview.webp",
+        "https://channellife.com.au/uploads/story/2025/04/28/preview_final.webp",
+        "https://cfotech.com.au/uploads/story/2025/05/29/preview_Pranay_Ahlawat-standing.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/24/preview_Semperis.webp",
+        "https://futurefive.com.au/uploads/story/2026/04/21/preview_Go_OUtreach.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/20/preview_Datacom.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/17/preview_flux-result-d83c3bc9-1a0b-4ef0-b38a-83d6296d562f.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/31/preview_flux-result-038ebc88-371b-419f-9000-f2f8d321be5d.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/25/preview_Stuart.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/26/preview_flux-result-4a0010e1-6565-48ef-a6f5-ad792476acf1.webp",
+        "https://telconews.com.au/uploads/story/2026/03/25/preview_Good_Drinks.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/13/preview_DSC03002_2.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/12/preview_aussie_rules_stadium_night_cyber_shield_digital_security_scene.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/11/preview_australian_msp_office_cloud_dashboards_secure_network_shields.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/04/preview_Courtney_Guss_headshot.webp",
+        "https://telconews.com.au/uploads/story/2026/03/04/preview_aerial_undersea_and_land_fiber_cables_linking_sydney_perth_map.webp",
+        "https://cfotech.com.au/uploads/story/2026/03/04/preview_email_attachment20260304-4102385-l74ps0.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/03/preview_Steve.webp",
+        "https://telconews.com.au/uploads/story/2026/02/25/preview_unnamed__6_.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/24/preview_Richard.webp",
+        "https://telconews.com.au/uploads/story/2026/02/23/preview_brisbane-data-centers-merging-clouds-corporate-acquisition-art.webp",
+        "https://securitybrief.com.au/uploads/story/2026/02/18/preview_south_australia_datacenter_cloud_security_hybrid_infra_costs_down.webp",
+        "https://securitybrief.com.au/uploads/story/2026/02/18/preview_Brett_Chase.webp",
+        "https://channellife.com.au/uploads/story/2026/02/09/preview_luke_final.webp",
+        "https://itbrief.com.au/brands/td-left-new-logo.svg",
+        "https://itbrief.com.au/brands/cfo-white-logo.svg",
+        "https://itbrief.com.au/brands/cl-white-logo.svg",
+        "https://itbrief.com.au/brands/ecn-white-logo.svg",
+        "https://itbrief.com.au/brands/f5-white-logo.svg",
+        "https://itbrief.com.au/brands/itb-white-logo.svg",
+        "https://itbrief.com.au/brands/sb-white-logo.svg",
+        "https://itbrief.com.au/brands/tn-white-logo.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 117,
+    "links": [
+        {
+            "text": "AUSTRALIA",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "POWERED BY",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "Artificial Intelligence",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence"
+        },
+        {
+            "text": "Digital Transformation",
+            "href": "https://itbrief.com.au/tag/digital-transformation"
+        },
+        {
+            "text": "Disaster Recovery",
+            "href": "https://itbrief.com.au/tag/disaster-recovery"
+        },
+        {
+            "text": "Hybrid & Remote Work",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work"
+        },
+        {
+            "text": "Internet of Things",
+            "href": "https://itbrief.com.au/tag/internet-of-things"
+        },
+        {
+            "text": "Australian News",
+            "href": "https://itbrief.com.au/tag/disaster-recovery#localised"
+        },
+        {
+            "text": "Analyst Insights",
+            "href": "https://itbrief.com.au/tag/disaster-recovery#analyst"
+        },
+        {
+            "text": "Featured News",
+            "href": "https://itbrief.com.au/tag/disaster-recovery#featured"
+        },
+        {
+            "text": "Expert Columns",
+            "href": "https://itbrief.com.au/tag/disaster-recovery#bylines"
+        },
+        {
+            "text": "Interviews",
+            "href": "https://itbrief.com.au/tag/disaster-recovery#interviews"
+        },
+        {
+            "text": "Recent News",
+            "href": "https://itbrief.com.au/tag/disaster-recovery#recent"
+        },
+        {
+            "text": "Job Moves",
+            "href": "https://itbrief.com.au/tag/disaster-recovery#jobs"
+        },
+        {
+            "text": "BUSINESS CONTINUITY\nAustralia AI identity governance lags as risks rise\n\nMost Australian organisations are using or planning AI agents for security tasks before formal controls are in place, Semperis found.",
+            "href": "https://securitybrief.com.au/story/australia-ai-identity-governance-lags-as-risks-rise"
+        },
+        {
+            "text": "MICROSOFT\nAustralian budget boosts AI, but cyber gaps remain\n\nDespite welcome AI funding, tech leaders say small firms still lack the cyber defences needed to adopt new tools safely.",
+            "href": "https://securitybrief.com.au/story/australian-budget-boosts-ai-but-cyber-gaps-remain"
+        },
+        {
+            "text": "BUSINESS CONTINUITY\nAustralian firms urged to rethink ransomware defences\n\nRansomware is hitting Australian large businesses harder than global peers, with most victims still paying attackers despite backup defences.",
+            "href": "https://securitybrief.com.au/story/australian-firms-urged-to-rethink-ransomware-defences"
+        },
+        {
+            "text": "PRODUCTIVITY\nRubrik warns AI agents outpace security guardrails\n\nMost Australian firms expect AI agents to outrun security controls within a year, as only 22 per cent say they can fully see them.",
+            "href": "https://securitybrief.com.au/story/rubrik-warns-ai-agents-outpace-security-guardrails"
+        },
+        {
+            "text": "BUSINESS CONTINUITY\nLivingstone Shire boosts disaster recovery with Nutanix\n\nDaily recovery testing now gives the Queensland council greater confidence its warning and evacuation systems will stay online during severe weather.",
+            "href": "https://securitybrief.com.au/story/livingstone-shire-boosts-disaster-recovery-with-nutanix"
+        },
+        {
+            "text": "FORTINET\nIp.Glass modernises Baiada Poultry's network with Fortinet\n\nThe poultry producer can now segment systems during a cyber incident, helping cut the risk of costly outages across its supply chain.",
+            "href": "https://telconews.com.au/story/ip-glass-modernises-baiada-poultry-s-network-with-fortinet"
+        },
+        {
+            "text": "ANALYST\nGroup-IB named Gartner vendor in incident response guide\n\nGartner · DR · MSSP",
+            "href": "https://securitybrief.com.au/story/group-ib-named-gartner-vendor-in-incident-response-guide"
+        },
+        {
+            "text": "ANALYST\nPax8 & NinjaOne form global MSP referral partnership\n\nCanalys · DR · Cloud Services",
+            "href": "https://channellife.com.au/story/pax8-ninjaone-form-global-msp-referral-partnership"
+        },
+        {
+            "text": "ANALYST\nRubrik launches Google Cloud tools for AI governance\n\nGartner · DR · Cloud Storage",
+            "href": "https://securitybrief.com.au/story/rubrik-launches-google-cloud-tools-for-ai-governance"
+        },
+        {
+            "text": "ANALYST\nRubrik revamps MSP programme with PayGo & 24/7 support\n\nGartner · DR · Cloud Services",
+            "href": "https://itbrief.com.au/story/rubrik-revamps-msp-programme-with-paygo-24-7-support"
+        },
+        {
+            "text": "ANALYST\nRubrik unveils MSP PayGo pricing & Rubrik Verified plan\n\nGartner · DR · Cloud Services",
+            "href": "https://securitybrief.com.au/story/rubrik-unveils-msp-paygo-pricing-rubrik-verified-plan"
+        },
+        {
+            "text": "ABOUT CLOUD STORAGE\nAffordable cloud backups for all with Exaba and Datacentre220\n\nMany small businesses are skipping backups altogether as a local partnership says it can cut cloud storage costs by up to 90%.\n\nThis month",
+            "href": "https://itbrief.com.au/story/affordable-cloud-backups-for-all-with-exaba-and-datacentre220"
+        },
+        {
+            "text": "10 essential WordPress plugins every business website needs\n\nBy Tom Thatcher of VentraIP",
+            "href": "https://futurefive.com.au/story/10-essential-wordpress-plugins-every-business-website-needs"
+        },
+        {
+            "text": "Mythos changes everything: Is your AI agent security ready?\n\nBy Dev Rishi of Rubrik",
+            "href": "https://securitybrief.com.au/story/mythos-changes-everything-is-your-ai-agent-security-ready"
+        },
+        {
+            "text": "Building security outcomes for small businesses: Why breaches persist despite available tools\n\nBy Debasish Mukherjee of SonicWall",
+            "href": "https://securitybrief.com.au/story/building-security-outcomes-for-small-businesses-why-breaches-persist-despite-available-tools"
+        },
+        {
+            "text": "World Backup Day warns firms on data recovery gaps\n\nBy Stuart Dahlenburg of Iron Mountain",
+            "href": "https://securitybrief.com.au/story/world-backup-day-warns-firms-on-data-recovery-gaps"
+        },
+        {
+            "text": "Why data infrastructure will decide which AI strategies succeed in 2026\n\nBy Dave Wardrop of Hitachi Vantara",
+            "href": "https://itbrief.com.au/story/why-data-infrastructure-will-decide-which-ai-strategies-succeed-in-2026"
+        },
+        {
+            "text": "Atlassian scales AI search with OpenSearch on Kubernetes\n\nBy OpenSearch",
+            "href": "https://itbrief.com.au/story/atlassian-scales-ai-search-with-opensearch-on-kubernetes"
+        },
+        {
+            "text": "Why women from varied careers strengthen cybersecurity\n\nBy Courtney Guss of Semperis",
+            "href": "https://securitybrief.com.au/story/why-women-from-varied-careers-strengthen-cybersecurity"
+        },
+        {
+            "text": "Reimagining healthcare IT from risk to resilience\n\nBy Richard Gerdis of LogicMonitor",
+            "href": "https://itbrief.com.au/story/reimagining-healthcare-it-from-risk-to-resilience"
+        },
+        {
+            "text": "From breach to recovery - 5 ways to prepare your IT team for the unexpected\n\nBy Al Kingsley MBE of NetSupport",
+            "href": "https://securitybrief.com.au/story/from-breach-to-recovery-5-ways-to-prepare-your-it-team-for-the-unexpected"
+        },
+        {
+            "text": "Australia's cyberattack surge demands a new approach to data resilience\n\nBy Brett Chase of Cohesity",
+            "href": "https://securitybrief.com.au/story/australia-s-cyberattack-surge-demands-a-new-approach-to-data-resilience"
+        },
+        {
+            "text": "Affordable cloud backups for all with Exaba and Datacentre220\n\nDiscussing Cloud Storage",
+            "href": "https://itbrief.com.au/story/affordable-cloud-backups-for-all-with-exaba-and-datacentre220"
+        },
+        {
+            "text": "Commvault SHIFT New York outlines deeper cloud recovery\n\nDiscussing Editor interview",
+            "href": "https://itbrief.com.au/story/commvault-shift-new-york-outlines-deeper-cloud-recovery"
+        },
+        {
+            "text": "Exclusive: Veeam's Ben Young sounds alarm on backup risks in AI era\n\nDiscussing Storage",
+            "href": "https://securitybrief.com.au/story/exclusive-veeam-s-ben-young-sounds-alarm-on-backup-risks-in-ai-era"
+        },
+        {
+            "text": "Okta launches enhanced data recovery for Australia\n\nDiscussing Authentication",
+            "href": "https://channellife.com.au/story/okta-launches-enhanced-data-recovery-for-australia"
+        },
+        {
+            "text": "Exclusive: Commvault on cyber resilience as the new battleground for enterprise data\n\nDiscussing Cloud Services",
+            "href": "https://cfotech.com.au/story/exclusive-commvault-on-cyber-resilience-as-the-new-battleground-for-enterprise-data"
+        },
+        {
+            "text": "RANSOMWARE\nSemperis expands Purple Knight for government clouds\n\nAgencies using Microsoft Government Community Cloud High can now scan cloud identities for weaknesses, closing a gap in hybrid security oversight.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/semperis-expands-purple-knight-for-government-clouds"
+        },
+        {
+            "text": "MARKETING\n10 essential WordPress plugins every business website needs\n\nBusinesses risk slower sites, weaker security and lost leads if they overlook core WordPress tools that help sites run smoothly and rank better.\n\nLast month",
+            "href": "https://futurefive.com.au/story/10-essential-wordpress-plugins-every-business-website-needs"
+        },
+        {
+            "text": "DATA PROTECTION\nAustralian cyber resilience gap widens as recovery plans lag\n\nOnly a third of Australian organisations have tested cyber recovery plans, leaving many exposed despite high confidence in detection and response.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/australian-cyber-resilience-gap-widens-as-recovery-plans-lag"
+        },
+        {
+            "text": "EFTPOS\nPaymentology enters Australia with local payments ties\n\nCash and card firms stand to gain from Paymentology's Australian push, which links local rails with global schemes and key domestic partners.\n\nLast month",
+            "href": "https://cfotech.com.au/story/paymentology-enters-australia-with-local-payments-ties"
+        },
+        {
+            "text": "DATA PROTECTION\nCMTG bets on backup as cyber resilience demand rises\n\nRising ransomware and outage costs are pushing businesses to treat backup as a board-level priority, boosting demand for recovery services.\n\nWed, 1st Apr 2026",
+            "href": "https://itbrief.com.au/story/cmtg-bets-on-backup-as-cyber-resilience-demand-rises"
+        },
+        {
+            "text": "DATA PROTECTION\nWorld Backup Day warns firms on data recovery gaps\n\nMany firms still fail recovery tests, leaving cyber attacks or outages able to halt services and expose critical data.\n\nTue, 31st Mar 2026",
+            "href": "https://securitybrief.com.au/story/world-backup-day-warns-firms-on-data-recovery-gaps"
+        },
+        {
+            "text": "DATA PROTECTION\nAustralian firms urged to rethink backup amid cyber risk\n\nOnly 42% of Australian organisations back up all workloads, leaving many exposed when ransomware or hardware failures hit.\n\nFri, 27th Mar 2026",
+            "href": "https://itbrief.com.au/story/australian-firms-urged-to-rethink-backup-amid-cyber-risk"
+        },
+        {
+            "text": "CLOUD STORAGE\nGood Drinks signs Macquarie network deal to cut outages\n\nGood Drinks taps Macquarie Telecom for new SASE network to curb peak-season outages and bolster cyber security across its national operations.\n\nWed, 25th Mar 2026",
+            "href": "https://telconews.com.au/story/good-drinks-signs-macquarie-network-deal-to-cut-outages"
+        },
+        {
+            "text": "CLOUD STORAGE\nHealthtech startup unveils approach to scaling with AI\n\nAustralian healthtech AirHealth uses on-prem AI and cloud storage for real-time pollen forecasts, reshaping asthma and allergy care.\n\nMon, 16th Mar 2026",
+            "href": "https://itbrief.com.au/story/healthtech-startup-unveils-approach-to-scaling-with-ai"
+        },
+        {
+            "text": "SECURITY OPERATIONS CENTRES\nCyberCX becomes official cyber partner to AFL, AFLW\n\nCyberCX signs two-year tie-up as Official Cyber Security Partner of the AFL and AFLW, covering league, clubs and Marvel Stadium's ARC system.\n\nThu, 12th Mar 2026",
+            "href": "https://securitybrief.com.au/story/cybercx-becomes-official-cyber-partner-to-afl-aflw"
+        },
+        {
+            "text": "CLOUD SERVICES\nOpenText launches Secure Cloud for Australian MSPs\n\nOpenText rolls out its revamped Secure Cloud in Australia, targeting MSPs with unified security, backup and local AUD $ billing tools.\n\nWed, 11th Mar 2026",
+            "href": "https://securitybrief.com.au/story/opentext-launches-secure-cloud-for-australian-msps"
+        },
+        {
+            "text": "SECURITY OPERATIONS CENTRES\nWhy women from varied careers strengthen cybersecurity\n\nAustralia's growing cyber threats demand a broader, more diverse workforce, with women's cross-disciplinary skills central to resilience.\n\nThu, 5th Mar 2026",
+            "href": "https://securitybrief.com.au/story/why-women-from-varied-careers-strengthen-cybersecurity"
+        },
+        {
+            "text": "BUSINESS CONTINUITY\nOptus tests resilient 800GE link between Sydney & Perth\n\nOptus trials Asia's first end-to-end 800GE link between Sydney and Perth, using dual subsea and terrestrial paths for near-zero downtime.\n\nThu, 5th Mar 2026",
+            "href": "https://telconews.com.au/story/optus-tests-resilient-800ge-link-between-sydney-perth"
+        },
+        {
+            "text": "BIG DATA\nFinTech Australia launches summit on open banking data\n\nFinTech Australia unveils Fintech Data Horizons Summit to spotlight real-world open banking and data sharing across key sectors in 2026.\n\nWed, 4th Mar 2026",
+            "href": "https://cfotech.com.au/story/fintech-australia-launches-summit-on-open-banking-data"
+        },
+        {
+            "text": "CLOUD SERVICES\nSlipstream Cyber joins Atmos incident response panel\n\nSlipstream Cyber joins Atmos' First Response and Remediation Panel to bolster early-stage digital forensics and incident response support.\n\nTue, 3rd Mar 2026",
+            "href": "https://securitybrief.com.au/story/slipstream-cyber-joins-atmos-incident-response-panel"
+        },
+        {
+            "text": "DIGITAL LITERACY\nCommunity wi-fi project targets 100 remote communities\n\nCommunity wi-fi project plans to connect 2,030 premises in 100 remote communities by 2030, backed by AUD $5 million and new low-cost devices.\n\nWed, 25th Feb 2026",
+            "href": "https://telconews.com.au/story/community-wi-fi-project-targets-100-remote-communities"
+        },
+        {
+            "text": "SUSTAINABILITY\nReimagining healthcare IT from risk to resilience\n\nHealthcare is at a digital crossroads, where resilient IT and observability define patient safety, clinical trust and sustainable care.\n\nTue, 24th Feb 2026",
+            "href": "https://itbrief.com.au/story/reimagining-healthcare-it-from-risk-to-resilience"
+        },
+        {
+            "text": "CLOUD SERVICES\n11:11 Systems buys Aussie Broadband's Digital Sense\n\n11:11 Systems snaps up Digital Sense from Aussie Broadband, deepening its VMware cloud play and bolstering its reach across Australia.\n\nMon, 23rd Feb 2026",
+            "href": "https://telconews.com.au/story/11-11-systems-buys-aussie-broadband-s-digital-sense"
+        },
+        {
+            "text": "STORAGE\nCentacare boosts cyber resilience & halves Azure bill\n\nCentacare overhauls disaster recovery with 11:11 Systems, boosting cyber resilience while slashing Azure data storage costs by half.\n\nWed, 18th Feb 2026",
+            "href": "https://securitybrief.com.au/story/centacare-boosts-cyber-resilience-halves-azure-bill"
+        },
+        {
+            "text": "MARKETING TECHNOLOGIES\nAustralia's cyberattack surge demands a new approach to data resilience\n\nAustralia faces world's highest rate of serious cyberattacks, exposing millions and forcing a rethink of data resilience strategies.\n\nWed, 18th Feb 2026",
+            "href": "https://securitybrief.com.au/story/australia-s-cyberattack-surge-demands-a-new-approach-to-data-resilience"
+        },
+        {
+            "text": "Logicalis Australia appoints Luke Gardiner to lead new Technology Assurance Services practice\n\nMove at Logicalis Australia",
+            "href": "https://channellife.com.au/story/logicalis-australia-appoints-luke-gardiner-to-lead-new-technology-assurance-services-practice"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://itbrief.com.au/tag/microsoft"
+        },
+        {
+            "text": "Veeam",
+            "href": "https://itbrief.com.au/tag/veeam"
+        },
+        {
+            "text": "Acronis",
+            "href": "https://itbrief.com.au/tag/acronis"
+        },
+        {
+            "text": "Hyper",
+            "href": "https://itbrief.com.au/tag/hyper"
+        },
+        {
+            "text": "Commvault",
+            "href": "https://itbrief.com.au/tag/commvault"
+        },
+        {
+            "text": "Cybersecurity\n→",
+            "href": "https://itbrief.com.au/tag/cybersecurity"
+        },
+        {
+            "text": "Data Protection\n→",
+            "href": "https://itbrief.com.au/tag/data-protection"
+        },
+        {
+            "text": "Virtualisation\n→",
+            "href": "https://itbrief.com.au/tag/virtualisation"
+        },
+        {
+            "text": "Risk & Compliance\n→",
+            "href": "https://itbrief.com.au/tag/risk-compliance"
+        },
+        {
+            "text": "Artificial Intelligence\n→",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://itbrief.com.au/contact-us"
+        },
+        {
+            "text": "",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "GET THE LATEST FROM\nIT Brief Australia\nSUBSCRIBE",
+            "href": "https://itbrief.com.au/subscribe"
+        },
+        {
+            "text": "FOLLOW US ON\nLinkedIn",
+            "href": "https://www.linkedin.com/company/techday-australia"
+        },
+        {
+            "text": "FOLLOW US ON\nX",
+            "href": "https://x.com/techday_au"
+        },
+        {
+            "text": "",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://cfotech.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://channellife.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://ecommercenews.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://futurefive.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://telconews.com.au/media-kit"
+        },
+        {
+            "text": "Asia",
+            "href": "https://techday.asia/"
+        },
+        {
+            "text": "Canada",
+            "href": "https://techdayca.com/"
+        },
+        {
+            "text": "India",
+            "href": "https://techday.in/"
+        },
+        {
+            "text": "Ireland",
+            "href": "https://techday.ie/"
+        },
+        {
+            "text": "New Zealand",
+            "href": "https://techday.co.nz/"
+        },
+        {
+            "text": "United Kingdom",
+            "href": "https://techday.co.uk/"
+        },
+        {
+            "text": "United States",
+            "href": "https://techday.com/"
+        },
+        {
+            "text": "Brand guidelines",
+            "href": "https://itbrief.com.au/brand-guidelines"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://itbrief.com.au/contact-us"
+        },
+        {
+            "text": "Editorial Calendar",
+            "href": "https://itbrief.com.au/editorial-calendar"
+        },
+        {
+            "text": "Editorial standards",
+            "href": "https://itbrief.com.au/editorial-standards"
+        },
+        {
+            "text": "FAQs",
+            "href": "https://itbrief.com.au/tag/frequently-asked-questions"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "Our team",
+            "href": "https://itbrief.com.au/our-team"
+        },
+        {
+            "text": "Our terms",
+            "href": "https://itbrief.com.au/our-terms"
+        },
+        {
+            "text": "YOUTUBE",
+            "href": "https://www.youtube.com/@techdaynetwork"
+        },
+        {
+            "text": "RSS",
+            "href": "https://itbrief.com.au/feed"
+        },
+        {
+            "text": "Plan B's Cloud Services",
+            "href": "https://www.planb.co.nz/tech-services/cloud-services/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        },
+        {
+            "text": "PowerDMARC",
+            "href": "https://powerdmarc.com/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        }
+    ],
+    "text_length": 11799,
+    "text_full": "IT Brief Australia - Technology news for CIOs & IT decision-makers\nAUSTRALIA\nPOWERED BY\nGUIDES\nArtificial Intelligence\nDigital Transformation\nDisaster Recovery\nHybrid & Remote Work\nInternet of Things\nAUSTRALIAN EDITION · 2026\nThe Ultimate Guide to\nDisaster Recovery\n\nA curated Australian edition of TechDay news, analysis, interviews, reviews, job moves, and related resources for Disaster Recovery (DR).\n\nALSO KNOWN AS\nDR\n\nUpdated continuously from TechDay's regional network.\n\nLAST UPDATED:\n\nThu, 21st May 2026 (Today)\n\nWhat to know about Disaster Recovery\n\nDisaster Recovery is a crucial area of focus for businesses aiming to maintain continuity and resilience amid unexpected disruptions, whether due to natural events, cyberattacks, or system failures. This tag compiles a wealth of insights, practical advice, and evolving strategies on how organizations can safeguard their critical data and IT infrastructure to recover swiftly and effectively from disasters.\n\nThrough articles covering innovative technologies such as cloud-based disaster recovery solutions, automation in recovery testing, and virtualisation, readers gain an understanding of how modern approaches are reshaping traditional backup and recovery methods into more comprehensive disaster recovery plans. The stories highlight the importance of planning not just for backup but for rapid recovery, testing those plans regularly, and integrating business continuity considerations into IT strategies.\n\nThe tag also sheds light on real-world applications and challenges, such as handling ransomware threats, managing hybrid and multi-cloud environments, and ensuring data resilience across diverse operational scenarios. For businesses, IT professionals, and resellers alike, exploring the Disaster Recovery tag offers valuable perspectives on protecting digital assets, minimizing downtime, and building adaptable recovery frameworks capable of supporting today’s dynamic business landscape.\n\nAustralian News\nAnalyst Insights\nFeatured News\nExpert Columns\nInterviews\nRecent News\nJob Moves\nAUSTRALIAN DISASTER RECOVERY NEWS\nRegional stories with direct local relevance\nBUSINESS CONTINUITY\nAustralia AI identity governance lags as risks rise\n\nMost Australian organisations are using or planning AI agents for security tasks before formal controls are in place, Semperis found.\n\nMICROSOFT\nAustralian budget boosts AI, but cyber gaps remain\n\nDespite welcome AI funding, tech leaders say small firms still lack the cyber defences needed to adopt new tools safely.\n\nBUSINESS CONTINUITY\nAustralian firms urged to rethink ransomware defences\n\nRansomware is hitting Australian large businesses harder than global peers, with most victims still paying attackers despite backup defences.\n\nPRODUCTIVITY\nRubrik warns AI agents outpace security guardrails\n\nMost Australian firms expect AI agents to outrun security controls within a year, as only 22 per cent say they can fully see them.\n\nBUSINESS CONTINUITY\nLivingstone Shire boosts disaster recovery with Nutanix\n\nDaily recovery testing now gives the Queensland council greater confidence its warning and evacuation systems will stay online during severe weather.\n\nFORTINET\nIp.Glass modernises Baiada Poultry's network with Fortinet\n\nThe poultry producer can now segment systems during a cyber incident, helping cut the risk of costly outages across its supply chain.\n\nAnalyst Insights\nResearch and market analysis connected to Disaster Recovery\nANALYST\nGroup-IB named Gartner vendor in incident response guide\n\nGartner · DR · MSSP\n\nANALYST\nPax8 & NinjaOne form global MSP referral partnership\n\nCanalys · DR · Cloud Services\n\nANALYST\nRubrik launches Google Cloud tools for AI governance\n\nGartner · DR · Cloud Storage\n\nANALYST\nRubrik revamps MSP programme with PayGo & 24/7 support\n\nGartner · DR · Cloud Services\n\nANALYST\nRubrik unveils MSP PayGo pricing & Rubrik Verified plan\n\nGartner · DR · Cloud Services\n\nFeatured News\nABOUT CLOUD STORAGE\nAffordable cloud backups for all with Exaba and Datacentre220\n\nMany small businesses are skipping backups altogether as a local partnership says it can cut cloud storage costs by up to 90%.\n\nThis month\n\nExpert Columns\n10 essential WordPress plugins every business website needs\n\nBy Tom Thatcher of VentraIP\n\nMythos changes everything: Is your AI agent security ready?\n\nBy Dev Rishi of Rubrik\n\nBuilding security outcomes for small businesses: Why breaches persist despite available tools\n\nBy Debasish Mukherjee of SonicWall\n\nWorld Backup Day warns firms on data recovery gaps\n\nBy Stuart Dahlenburg of Iron Mountain\n\nWhy data infrastructure will decide which AI strategies succeed in 2026\n\nBy Dave Wardrop of Hitachi Vantara\n\nAtlassian scales AI search with OpenSearch on Kubernetes\n\nBy OpenSearch\n\nWhy women from varied careers strengthen cybersecurity\n\nBy Courtney Guss of Semperis\n\nReimagining healthcare IT from risk to resilience\n\nBy Richard Gerdis of LogicMonitor\n\nFrom breach to recovery - 5 ways to prepare your IT team for the unexpected\n\nBy Al Kingsley MBE of NetSupport\n\nAustralia's cyberattack surge demands a new approach to data resilience\n\nBy Brett Chase of Cohesity\n\nInterviews\nInterviews and video coverage from the network\nAffordable cloud backups for all with Exaba and Datacentre220\n\nDiscussing Cloud Storage\n\nCommvault SHIFT New York outlines deeper cloud recovery\n\nDiscussing Editor interview\n\nExclusive: Veeam's Ben Young sounds alarm on backup risks in AI era\n\nDiscussing Storage\n\nOkta launches enhanced data recovery for Australia\n\nDiscussing Authentication\n\nExclusive: Commvault on cyber resilience as the new battleground for enterprise data\n\nDiscussing Cloud Services\n\nRecent Disaster Recovery News\nRANSOMWARE\nSemperis expands Purple Knight for government clouds\n\nAgencies using Microsoft Government Community Cloud High can now scan cloud identities for weaknesses, closing a gap in hybrid security oversight.\n\nLast month\n\nMARKETING\n10 essential WordPress plugins every business website needs\n\nBusinesses risk slower sites, weaker security and lost leads if they overlook core WordPress tools that help sites run smoothly and rank better.\n\nLast month\n\nDATA PROTECTION\nAustralian cyber resilience gap widens as recovery plans lag\n\nOnly a third of Australian organisations have tested cyber recovery plans, leaving many exposed despite high confidence in detection and response.\n\nLast month\n\nEFTPOS\nPaymentology enters Australia with local payments ties\n\nCash and card firms stand to gain from Paymentology's Australian push, which links local rails with global schemes and key domestic partners.\n\nLast month\n\nDATA PROTECTION\nCMTG bets on backup as cyber resilience demand rises\n\nRising ransomware and outage costs are pushing businesses to treat backup as a board-level priority, boosting demand for recovery services.\n\nWed, 1st Apr 2026\n\nDATA PROTECTION\nWorld Backup Day warns firms on data recovery gaps\n\nMany firms still fail recovery tests, leaving cyber attacks or outages able to halt services and expose critical data.\n\nTue, 31st Mar 2026\n\nDATA PROTECTION\nAustralian firms urged to rethink backup amid cyber risk\n\nOnly 42% of Australian organisations back up all workloads, leaving many exposed when ransomware or hardware failures hit.\n\nFri, 27th Mar 2026\n\nCLOUD STORAGE\nGood Drinks signs Macquarie network deal to cut outages\n\nGood Drinks taps Macquarie Telecom for new SASE network to curb peak-season outages and bolster cyber security across its national operations.\n\nWed, 25th Mar 2026\n\nCLOUD STORAGE\nHealthtech startup unveils approach to scaling with AI\n\nAustralian healthtech AirHealth uses on-prem AI and cloud storage for real-time pollen forecasts, reshaping asthma and allergy care.\n\nMon, 16th Mar 2026\n\nSECURITY OPERATIONS CENTRES\nCyberCX becomes official cyber partner to AFL, AFLW\n\nCyberCX signs two-year tie-up as Official Cyber Security Partner of the AFL and AFLW, covering league, clubs and Marvel Stadium's ARC system.\n\nThu, 12th Mar 2026\n\nCLOUD SERVICES\nOpenText launches Secure Cloud for Australian MSPs\n\nOpenText rolls out its revamped Secure Cloud in Australia, targeting MSPs with unified security, backup and local AUD $ billing tools.\n\nWed, 11th Mar 2026\n\nSECURITY OPERATIONS CENTRES\nWhy women from varied careers strengthen cybersecurity\n\nAustralia's growing cyber threats demand a broader, more diverse workforce, with women's cross-disciplinary skills central to resilience.\n\nThu, 5th Mar 2026\n\nBUSINESS CONTINUITY\nOptus tests resilient 800GE link between Sydney & Perth\n\nOptus trials Asia's first end-to-end 800GE link between Sydney and Perth, using dual subsea and terrestrial paths for near-zero downtime.\n\nThu, 5th Mar 2026\n\nBIG DATA\nFinTech Australia launches summit on open banking data\n\nFinTech Australia unveils Fintech Data Horizons Summit to spotlight real-world open banking and data sharing across key sectors in 2026.\n\nWed, 4th Mar 2026\n\nCLOUD SERVICES\nSlipstream Cyber joins Atmos incident response panel\n\nSlipstream Cyber joins Atmos' First Response and Remediation Panel to bolster early-stage digital forensics and incident response support.\n\nTue, 3rd Mar 2026\n\nDIGITAL LITERACY\nCommunity wi-fi project targets 100 remote communities\n\nCommunity wi-fi project plans to connect 2,030 premises in 100 remote communities by 2030, backed by AUD $5 million and new low-cost devices.\n\nWed, 25th Feb 2026\n\nSUSTAINABILITY\nReimagining healthcare IT from risk to resilience\n\nHealthcare is at a digital crossroads, where resilient IT and observability define patient safety, clinical trust and sustainable care.\n\nTue, 24th Feb 2026\n\nCLOUD SERVICES\n11:11 Systems buys Aussie Broadband's Digital Sense\n\n11:11 Systems snaps up Digital Sense from Aussie Broadband, deepening its VMware cloud play and bolstering its reach across Australia.\n\nMon, 23rd Feb 2026\n\nSTORAGE\nCentacare boosts cyber resilience & halves Azure bill\n\nCentacare overhauls disaster recovery with 11:11 Systems, boosting cyber resilience while slashing Azure data storage costs by half.\n\nWed, 18th Feb 2026\n\nMARKETING TECHNOLOGIES\nAustralia's cyberattack surge demands a new approach to data resilience\n\nAustralia faces world's highest rate of serious cyberattacks, exposing millions and forcing a rethink of data resilience strategies.\n\nWed, 18th Feb 2026\n\nJob Moves\nLogicalis Australia appoints Luke Gardiner to lead new Technology Assurance Services practice\n\nMove at Logicalis Australia\n\nTop Players\nMicrosoft\nVeeam\nAcronis\nHyper\nCommvault\nRelated Guides\nCybersecurity\n→\nData Protection\n→\nVirtualisation\n→\nRisk & Compliance\n→\nArtificial Intelligence\n→\nGet featured\n\nTalk to the TechDay team about editorial feature opportunities across the network\n\nContact us\n61 specialist tech sites.\n8 regions. One network.\n678,397\nPUBLISHED STORIES\n7\nAUSTRALIAN SITES\nHuman\nPOWERED\n20th\nyear of business\nGET THE LATEST FROM\nIT Brief Australia\nSUBSCRIBE\nFOLLOW US ON\nLinkedIn\nFOLLOW US ON\nX\nAUSTRALIAN\nFinTech\n\nTechnology news for CFOs & financial decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nIndustry\n\nIndustry insider news for technology resellers\n\nVisit\nMedia kit\nAUSTRALIAN\nCommerce\n\nTechnology news for digital commerce decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nConsumer tech\n\nConsumer technology news from the future\n\nVisit\nMedia kit\nAUSTRALIAN\nEnterprise\n\nTechnology news for CIOs & IT decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nCybersecurity\n\nTechnology news for CISOs & cybersecurity decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nTelecomms\n\nTelecommunications news for ICT decision-makers\n\nVisit\nMedia kit\nExplore other regions\nAsia\nCanada\nIndia\nIreland\nNew Zealand\nUnited Kingdom\nUnited States\nBrand guidelines\nContact us\nEditorial Calendar\nEditorial standards\nFAQs\nMedia kit\nOur team\nOur terms\nYOUTUBE\nRSS\n© 2026 TechDay, All rights reserved. Hosted on Plan B's Cloud Services. DMARC protection by PowerDMARC."
+}

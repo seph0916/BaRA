@@ -1,0 +1,373 @@
+{
+    "image_count": 14,
+    "images": [
+        "https://downloads.ctfassets.net/kftzwdyauwt9/4FnPiaiJdmc3R04H7kGR4N/8b115455fddf2921431f454f65b6ee22/Research_Hero.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/5HSBM48XFBkni6rNv5CAbR/46fe1d133c1440563245262a5fa59c79/5.4_Thinking_Art_Card.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/72xhlkMHldxPfwGsZttoiI/3ada2b7e0cdb129d0779fbc8b700a7af/5.3_Instant_Art_Card__1_.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/BQXodBZ63FtQq6CGcPQQh/955ea49d3cf09e7ad33129d8a81b4087/o3-mini_1.1.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/6ERYwPGeSFjSDRzD9ZeSZM/8fc12647977085317692108a4116f2e2/o1_1.1.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/7fPF7LU0YzPr5PrlNT6lo3/823a11178d4aac15d4f4260b9fcc490d/Blog_art_card.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/1Q8NDmnyavsoPAKDlWpW18/a1f595376097668d1772c9cac40fc8ee/16_x_9____1_.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/Yk03Bk61ZPWi4wrUOF77l/aa6769bfd342e14eaa246c5b3bd27c81/Audio_Models_Art_card_16.9.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/3u7r7E3gFRGZIxdKucf7f6/c09e0f83b72d37dc10c1d0563bfc5c33/oai-synthetic-voices.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/5b1e6906-9f64-42b7-b5d87c29543b/25be46c3552b7af3af0a1c5a70381626/image-13.webp?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/5a1f46b8-7e89-42f1-cb71b084ba93/524e90bcc1dfde4121a5ffb83c679bc9/summarizing-books.jpg?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/40660b0a-561d-412e-9adc992b9f69/9c841f18126a6af1e3b3d266988ab0e8/image_126.png?w=3840&q=90&fm=webp"
+    ],
+    "video_count": 2,
+    "videos": [
+        "https://cdn.openai.com/ctf-cdn/o3o4mini_1x1(1080).mp4",
+        "https://cdn.openai.com/ctf-cdn/4o_imagegen_hero.mp4"
+    ],
+    "link_count": 86,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://openai.com/research/#main"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/"
+        },
+        {
+            "text": "Research",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Business",
+            "href": "https://openai.com/business/"
+        },
+        {
+            "text": "Developers",
+            "href": "https://openai.com/api/"
+        },
+        {
+            "text": "Company",
+            "href": "https://openai.com/about/"
+        },
+        {
+            "text": "Foundation\n(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "Try ChatGPT\n(opens in a new window)",
+            "href": "https://chatgpt.com/?openaicom-did=fca24cce-9d54-4dde-94a1-a239caf4a70d&openaicom_referred=true"
+        },
+        {
+            "text": "Foundation(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "View research index",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Learn about safety",
+            "href": "https://openai.com/safety/"
+        },
+        {
+            "text": "A new class of intelligence for real work\n\nRelease\nApr 23, 2026\n12 min read",
+            "href": "https://openai.com/index/introducing-gpt-5-5/"
+        },
+        {
+            "text": "Our most capable and efficient frontier model for professional work\n\nRelease\nMar 5, 2026\n16 min read",
+            "href": "https://openai.com/index/introducing-gpt-5-4/"
+        },
+        {
+            "text": "Smoother, more useful everyday conversations\n\nRelease\nMar 3, 2026\n5 min read",
+            "href": "https://openai.com/index/gpt-5-3-instant/"
+        },
+        {
+            "text": "Our smartest and most capable models to date with full tool access\n\nOpenAI o3 and o4-mini\nApr 16, 2025\n11 min read",
+            "href": "https://openai.com/index/introducing-o3-and-o4-mini/"
+        },
+        {
+            "text": "Pushing the frontier of cost-effective reasoning\n\nOpenAI o3-mini\nJan 31, 2025\n6 min read",
+            "href": "https://openai.com/index/openai-o3-mini/"
+        },
+        {
+            "text": "Learning to reason with LLMs\n\nOpenAI o1\nSep 12, 2024\n9 min read",
+            "href": "https://openai.com/index/learning-to-reason-with-llms/"
+        },
+        {
+            "text": "A state-of-the-art model that makes precise, immediately usable visuals\n\nChatGPT Images 2.0\nApr 21, 2026\n11 min read",
+            "href": "https://openai.com/index/introducing-chatgpt-images-2-0/"
+        },
+        {
+            "text": "Physically accurate, realistic, and controllable with synchronized dialogue and sound effects\n\nSora 2\nSep 30, 2025\n8 min read",
+            "href": "https://openai.com/index/sora-2/"
+        },
+        {
+            "text": "A natively multimodal model capable of precise, accurate, photorealistic outputs\n\nImage Generation\nMar 25, 2025\n6 min read",
+            "href": "https://openai.com/index/introducing-4o-image-generation/"
+        },
+        {
+            "text": "Introducing next-generation audio models in the API\n\nVoice Agents\nMar 20, 2025\n6 min read",
+            "href": "https://openai.com/index/introducing-our-next-generation-audio-models/"
+        },
+        {
+            "text": "Navigating the challenges and opportunities of synthetic voices\n\nVoice Engine\nMar 29, 2024\n8 min read",
+            "href": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/"
+        },
+        {
+            "text": "Approaching human-level robustness and accuracy on English speech recognition\n\nWhisper\nSep 21, 2022\n2 min read",
+            "href": "https://openai.com/index/whisper/"
+        },
+        {
+            "text": "Aligning language models to follow instructions\n\nPublication\nJan 27, 2022\n8 min read",
+            "href": "https://openai.com/index/instruction-following/"
+        },
+        {
+            "text": "Summarizing books with human feedback\n\nPublication\nSep 23, 2021\n4 min read",
+            "href": "https://openai.com/index/summarizing-books/"
+        },
+        {
+            "text": "Language models are few-shot learners\n\nMilestone\nMay 28, 2020\n3 min read",
+            "href": "https://openai.com/index/language-models-are-few-shot-learners/"
+        },
+        {
+            "text": "View all careers",
+            "href": "https://openai.com/careers/search/"
+        },
+        {
+            "text": "Performance & Systems Engineer, Codex\nResearch\nSan Francisco",
+            "href": "https://openai.com/careers/performance-and-systems-engineer-codex-san-francisco/"
+        },
+        {
+            "text": "Apply now",
+            "href": "https://jobs.ashbyhq.com/openai/8a9d680c-5122-4ffe-ab4b-e1de7e806500/application"
+        },
+        {
+            "text": "Product Manager, Cyber Safety\nResearch\nSan Francisco",
+            "href": "https://openai.com/careers/product-manager-cyber-safety-san-francisco/"
+        },
+        {
+            "text": "Apply now",
+            "href": "https://jobs.ashbyhq.com/openai/f6494cf8-efbc-4dbe-ae76-662088b4f32c/application"
+        },
+        {
+            "text": "Research Engineer\nResearch\nSan Francisco",
+            "href": "https://openai.com/careers/research-engineer-san-francisco/"
+        },
+        {
+            "text": "Apply now",
+            "href": "https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b/application"
+        },
+        {
+            "text": "Research Engineer, Codex\nResearch\nSan Francisco",
+            "href": "https://openai.com/careers/research-engineer-codex-san-francisco/"
+        },
+        {
+            "text": "Apply now",
+            "href": "https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5/application"
+        },
+        {
+            "text": "Researcher, Synthetic RL\nResearch\nSan Francisco",
+            "href": "https://openai.com/careers/researcher-synthetic-rl-san-francisco/"
+        },
+        {
+            "text": "Apply now",
+            "href": "https://jobs.ashbyhq.com/openai/60d3700b-ba82-4fa6-a6bb-7b2b67070510/application"
+        },
+        {
+            "text": "View research index",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Research Index",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Research Overview",
+            "href": "https://openai.com/research/"
+        },
+        {
+            "text": "Research Residency",
+            "href": "https://openai.com/residency/"
+        },
+        {
+            "text": "Economic Research",
+            "href": "https://openai.com/signals/"
+        },
+        {
+            "text": "GPT-5.5",
+            "href": "https://openai.com/index/introducing-gpt-5-5/"
+        },
+        {
+            "text": "GPT-5.4",
+            "href": "https://openai.com/index/introducing-gpt-5-4/"
+        },
+        {
+            "text": "GPT-5.3 Instant",
+            "href": "https://openai.com/index/gpt-5-3-instant/"
+        },
+        {
+            "text": "GPT-5.3-Codex",
+            "href": "https://openai.com/index/introducing-gpt-5-3-codex/"
+        },
+        {
+            "text": "Safety Approach",
+            "href": "https://openai.com/safety/"
+        },
+        {
+            "text": "Security & Privacy",
+            "href": "https://openai.com/security-and-privacy/"
+        },
+        {
+            "text": "Trust & Transparency",
+            "href": "https://openai.com/trust-and-transparency/"
+        },
+        {
+            "text": "Explore ChatGPT\n(opens in a new window)",
+            "href": "https://chatgpt.com/overview?openaicom-did=fca24cce-9d54-4dde-94a1-a239caf4a70d&openaicom_referred=true"
+        },
+        {
+            "text": "Business",
+            "href": "https://chatgpt.com/business/business-plan?openaicom-did=fca24cce-9d54-4dde-94a1-a239caf4a70d&openaicom_referred=true"
+        },
+        {
+            "text": "Enterprise",
+            "href": "https://chatgpt.com/business/enterprise?openaicom-did=fca24cce-9d54-4dde-94a1-a239caf4a70d&openaicom_referred=true"
+        },
+        {
+            "text": "Education",
+            "href": "https://chatgpt.com/business/education?openaicom-did=fca24cce-9d54-4dde-94a1-a239caf4a70d&openaicom_referred=true"
+        },
+        {
+            "text": "Pricing\n(opens in a new window)",
+            "href": "https://chatgpt.com/pricing?openaicom-did=fca24cce-9d54-4dde-94a1-a239caf4a70d&openaicom_referred=true"
+        },
+        {
+            "text": "Download\n(opens in a new window)",
+            "href": "https://chatgpt.com/download?openaicom-did=fca24cce-9d54-4dde-94a1-a239caf4a70d&openaicom_referred=true"
+        },
+        {
+            "text": "Platform Overview",
+            "href": "https://openai.com/api/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://openai.com/api/pricing/"
+        },
+        {
+            "text": "API log in\n(opens in a new window)",
+            "href": "https://platform.openai.com/login"
+        },
+        {
+            "text": "Documentation\n(opens in a new window)",
+            "href": "https://developers.openai.com/api/docs"
+        },
+        {
+            "text": "Developer Forum\n(opens in a new window)",
+            "href": "https://community.openai.com/"
+        },
+        {
+            "text": "Business Overview",
+            "href": "https://openai.com/business/"
+        },
+        {
+            "text": "Solutions",
+            "href": "https://openai.com/solutions/"
+        },
+        {
+            "text": "Contact Sales",
+            "href": "https://openai.com/contact-sales/"
+        },
+        {
+            "text": "About Us",
+            "href": "https://openai.com/about/"
+        },
+        {
+            "text": "Our Charter",
+            "href": "https://openai.com/charter/"
+        },
+        {
+            "text": "Foundation\n(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "Careers",
+            "href": "https://openai.com/careers/"
+        },
+        {
+            "text": "Brand",
+            "href": "https://openai.com/brand/"
+        },
+        {
+            "text": "Help Center\n(opens in a new window)",
+            "href": "https://help.openai.com/"
+        },
+        {
+            "text": "News",
+            "href": "https://openai.com/news/"
+        },
+        {
+            "text": "Stories",
+            "href": "https://openai.com/stories/"
+        },
+        {
+            "text": "Academy",
+            "href": "https://openai.com/academy/"
+        },
+        {
+            "text": "Livestreams",
+            "href": "https://openai.com/live/"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://openai.com/podcast/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://openai.com/news/rss.xml"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://openai.com/policies/terms-of-use/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://openai.com/policies/privacy-policy/"
+        },
+        {
+            "text": "Other Policies",
+            "href": "https://openai.com/policies/"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://x.com/OpenAI"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.youtube.com/OpenAI"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.linkedin.com/company/openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://github.com/openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.instagram.com/openai/"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.tiktok.com/@openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://discord.gg/openai"
+        },
+        {
+            "text": "Cookie Policy",
+            "href": "https://openai.com/policies/cookie-policy/"
+        }
+    ],
+    "text_length": 4959,
+    "text_full": "Skip to main content\nResearch\nProducts\nBusiness\nDevelopers\nCompany\nFoundation\n(opens in a new window)\nLog in\nTry ChatGPT\n(opens in a new window)\nResearch | OpenAI\n\nResearch\n\nPioneering research on the path to AGI\n\nWe believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Our mission is to ensure that AGI benefits all of humanity.\n\nView research index\nLearn about safety\n\nFocus areas\n\nWe use Deep Learning to leverage large amounts of data and advanced reasoning to train AI systems for task completion.\nGPT\n\nOpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems designed to understand context, generate content, and reason across text, images, and more.\n\nA new class of intelligence for real work\n\nRelease\nApr 23, 2026\n12 min read\n\nOur most capable and efficient frontier model for professional work\n\nRelease\nMar 5, 2026\n16 min read\n\nSmoother, more useful everyday conversations\n\nRelease\nMar 3, 2026\n5 min read\n\no series\n\nOpenAI’s o series models are advanced reasoning AI systems that use chain-of-thought processes to solve complex STEM problems through logical, step-by-step analysis.\n\nOur smartest and most capable models to date with full tool access\n\nOpenAI o3 and o4-mini\nApr 16, 2025\n11 min read\n\nPushing the frontier of cost-effective reasoning\n\nOpenAI o3-mini\nJan 31, 2025\n6 min read\n\nLearning to reason with LLMs\n\nOpenAI o1\nSep 12, 2024\n9 min read\n\nVisual\n\nOur research on generative modeling for images has led to representation models like CLIP, which makes a map between text and images that an AI can read, and DALL-E, a tool for creating vivid images from text descriptions.\n\nA state-of-the-art model that makes precise, immediately usable visuals\n\nChatGPT Images 2.0\nApr 21, 2026\n11 min read\n\nPhysically accurate, realistic, and controllable with synchronized dialogue and sound effects\n\nSora 2\nSep 30, 2025\n8 min read\n\nA natively multimodal model capable of precise, accurate, photorealistic outputs\n\nImage Generation\nMar 25, 2025\n6 min read\n\nAudio\n\nOur research on applying AI to audio processing and audio generation has led to developments in automatic speech recognition and original musical compositions.\n\nIntroducing next-generation audio models in the API\n\nVoice Agents\nMar 20, 2025\n6 min read\n\nNavigating the challenges and opportunities of synthetic voices\n\nVoice Engine\nMar 29, 2024\n8 min read\n\nApproaching human-level robustness and accuracy on English speech recognition\n\nWhisper\nSep 21, 2022\n2 min read\n\nText\n\nOur text models are advanced language processing tools that can generate, classify, and summarize text with high levels of coherence and accuracy.\n\nAligning language models to follow instructions\n\nPublication\nJan 27, 2022\n8 min read\n\nSummarizing books with human feedback\n\nPublication\nSep 23, 2021\n4 min read\n\nLanguage models are few-shot learners\n\nMilestone\nMay 28, 2020\n3 min read\n\n“Safely aligning powerful AI systems is one of the most important unsolved problems for our mission. Techniques like learning from human feedback are helping us get closer, and we are actively researching new techniques to help us fill the gaps.”\nJosh Achiam, Researcher at OpenAI\nFeatured roles\n\nWe are actively seeking talented individuals to join our team. Explore featured roles or view all open roles.\n\nView all careers\nPerformance & Systems Engineer, Codex\nResearch\nSan Francisco\nApply now\nProduct Manager, Cyber Safety\nResearch\nSan Francisco\nApply now\nResearch Engineer\nResearch\nSan Francisco\nApply now\nResearch Engineer, Codex\nResearch\nSan Francisco\nApply now\nResearcher, Synthetic RL\nResearch\nSan Francisco\nApply now\nExplore all research\nView research index\nOur Research\nResearch Index\nResearch Overview\nResearch Residency\nEconomic Research\nLatest Advancements\nGPT-5.5\nGPT-5.4\nGPT-5.3 Instant\nGPT-5.3-Codex\nSafety\nSafety Approach\nSecurity & Privacy\nTrust & Transparency\nChatGPT\nExplore ChatGPT\n(opens in a new window)\nBusiness\nEnterprise\nEducation\nPricing\n(opens in a new window)\nDownload\n(opens in a new window)\nAPI Platform\nPlatform Overview\nPricing\nAPI log in\n(opens in a new window)\nDocumentation\n(opens in a new window)\nDeveloper Forum\n(opens in a new window)\nFor Business\nBusiness Overview\nSolutions\nContact Sales\nCompany\nAbout Us\nOur Charter\nFoundation\n(opens in a new window)\nCareers\nBrand\nSupport\nHelp Center\n(opens in a new window)\nMore\nNews\nStories\nAcademy\nLivestreams\nPodcast\nRSS\nTerms & Policies\nTerms of Use\nPrivacy Policy\nOther Policies\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\nOpenAI © 2015–2026\nManage Cookies\nEnglish\nUnited States\n\nWe use cookies\n\nWe use cookies to help this site function, understand service usage, and support marketing efforts. Visit Manage Cookies to change preferences anytime. View our Cookie Policy for more info.\n\nManage Cookies\nReject non-essential\nAccept all"
+}

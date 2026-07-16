@@ -1,0 +1,49 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://betterstack.com/cdn-cgi/image/width=200,height=29,fit=contain,quality=,dpr=1,format=auto/https://d1lppblt9t2x15.cloudfront.net/logos/ce36349b1a2ff16fe9785f064af061c0.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 9,
+    "links": [
+        {
+            "text": "",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Status",
+            "href": "https://status.turso.tech/"
+        },
+        {
+            "text": "Maintenance",
+            "href": "https://status.turso.tech/maintenance"
+        },
+        {
+            "text": "Previous incidents",
+            "href": "https://status.turso.tech/incidents"
+        },
+        {
+            "text": "Get updates",
+            "href": "https://status.turso.tech/incident/891073#"
+        },
+        {
+            "text": "Slack webhook",
+            "href": "https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/"
+        },
+        {
+            "text": "Back to overview",
+            "href": "https://status.turso.tech/incidents"
+        },
+        {
+            "text": "https://health.aws.amazon.com/health/status",
+            "href": "https://health.aws.amazon.com/health/status"
+        },
+        {
+            "text": "",
+            "href": "https://betterstack.com/?_ph=19e491ffb43b6c-08cce4c333f31c-3e780e74-e1000-19e491ffb44d4c&_s=19e491fff4ebb6-0b99238a7d20a88-3e780e74-e1000-19e491fff4f1436&_st=1779343294286"
+        }
+    ],
+    "text_length": 515,
+    "text_full": "Status\nMaintenance\nPrevious incidents\nGet updates\nBack to overview\nDegraded\nSome databases affected by the US-EAST-1 outage\nMay 8, 2026 at 4:30am UTC\nAffected services\nAWS us-east-1 (N. Virginia)\n\nResolved May 8, 2026 at 6:30am UTC\n\nAWS reports that service is restored. Affected databases had already been moved to new machines.\n\nCreated May 8, 2026 at 4:30am UTC\n\nSome databases were affected by the incident with US-EAST-1 \"thermal event\". More details at: https://health.aws.amazon.com/health/status\n\nPowered by"
+}

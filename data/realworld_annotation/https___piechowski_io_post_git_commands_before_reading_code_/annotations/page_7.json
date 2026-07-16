@@ -1,0 +1,87 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "upgrades",
+            "href": "https://piechowski.io/tags/upgrades"
+        },
+        {
+            "text": "security",
+            "href": "https://piechowski.io/tags/security"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "CVE-2026-27820",
+            "href": "https://www.ruby-lang.org/en/news/2026/03/05/buffer-overflow-zlib-cve-2026-27820/"
+        },
+        {
+            "text": "PCI DSS 4.0",
+            "href": "https://www.xeol.io/post/pci-dss-4-eol-software"
+        },
+        {
+            "text": "HIPAA proposed rule",
+            "href": "https://www.hhs.gov/hipaa/for-professionals/security/hipaa-security-rule-nprm/factsheet/index.html"
+        },
+        {
+            "text": "what breaks in the Rails 7 to 8 jump",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "an audit is the fastest way to find out",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Migrating from Sprockets to Propshaft: Is It Worth It?",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        }
+    ],
+    "text_length": 5156,
+    "text_full": "Work With Me\nGithub\nBlog\nRuby 3.2 Is EOL: What You Actually Need to Do\n\nRuby 3.2 hit end of life on March 31, 2026. Here's what that actually means for your Rails app, how to assess your real risk, and the fastest safe upgrade path, without the vendor panic.\n\nAlly Piechowski · Apr 2, 2026 · 4 min read\nruby\nrails\nupgrades\nsecurity\nlegacy\n\nOn March 27, Ruby 3.2.11 shipped with a fix for CVE-2026-27820, a buffer overflow in Zlib::GzipReader. Four days later, Ruby 3.2 hit end of life. That patch was the last one this version will ever receive.\n\nNothing broke on April 1. But the clock started. The next vulnerability discovered in Ruby 3.2 will never be fixed by the maintainers. And the Ruby security team addresses roughly 6 to 12 CVEs per year.\n\nWhat “End of Life” Actually Means\n\nRuby maintains three support phases: active maintenance (bug fixes and security patches), security maintenance (security patches only), and end of life (nothing). Ruby 3.2 spent its final year in security-only mode after Ruby 3.3 took over as the stable branch. Now it gets nothing.\n\nWhen Ruby 3.1 hit EOL last March, a significant share of production apps never upgraded. The next CVE that lands gets patched in 3.3 and 3.4. Ruby 3.2 just stays vulnerable.\n\nHow Worried Should You Be?\n\nIs the app internet-facing? An internal admin tool behind a VPN has different exposure than a customer-facing checkout flow. Both should upgrade, but the checkout flow goes first.\n\nDo you handle sensitive data? If your app touches cardholder data, PCI DSS 4.0 (mandatory since March 2025) now requires a documented remediation plan for EOL software, approved by senior management. Running EOL Ruby in a PCI-scoped environment without that documentation is already a compliance gap.\n\nIf you’re in healthcare: the HIPAA proposed rule finalizing around May 2026 eliminates the “addressable” distinction for security controls, making patching mandatory. The compliance window is 180 to 240 days after finalization.\n\nIf any of that describes your app, this is a this-week conversation.\n\nThe Upgrade Path: Where Should You Go?\nVersion\tExpected EOL\tRecommended for\nRuby 3.3\tMarch 2027\tRisk-averse teams, limited test coverage\nRuby 3.4\tMarch 2028\tMost teams. Best balance of stability and runway\nRuby 4.0\tMarch 2029\tOnly if you’re already on 3.4\n\nTarget Ruby 3.4 unless you have a reason not to. It has over a year of production adoption, full Rails 7.2+ and Rails 8 support, and gives you two years before the next EOL conversation.\n\nThe recommended path is 3.2 to 3.3 to 3.4, stepping through the intermediate version so deprecation warnings surface before they become hard errors in 3.4. But if you have solid test coverage and need to move fast, going direct from 3.2 to 3.4 is viable. The 3.3 deprecations rarely affect typical Rails application code.\n\nThe sneakiest breaking change in 3.4: bundled gems. base64, csv, bigdecimal, and several others are no longer default gems. Any code that does require 'csv' without a corresponding Gemfile entry will hit a LoadError that won’t tell you the cause is the runtime upgrade, just a missing file. Older Rails apps (especially those dating back to the 4.x or 5.x era) almost always have implicit dependencies on these. If you step through 3.3 first, you’ll get explicit deprecation warnings that name each affected gem before 3.4 makes them errors.\n\nOne more to watch: Ruby 3.4 introduces it as an anonymous block parameter. Code that uses it as a local variable or method name inside a block will silently change behavior. Ruby 3.3 warns about this; 3.4 just does it.\n\nIf You’re Also Behind on Rails\n\nThis is the compound problem I keep seeing in audits. Rails 7.0 security support ended April 2025. Rails 7.1 ended October 2025. If you’re on Ruby 3.2 and Rails 7.0 or 7.1, you’re running two unsupported layers simultaneously.\n\nUpgrade Ruby first. It’s the lower-risk change and it unblocks the Rails upgrade. I wrote about what breaks in the Rails 7 to 8 jump if you’re planning that next.\n\nIf You Can’t Upgrade Right Now\n\nNot every team can drop what they’re doing for a runtime upgrade. But there’s a difference between “we have a plan” and “we’re ignoring it.”\n\nRun bundle audit weekly, not just in CI. You need to know when a new vulnerability drops, even if you can’t patch the runtime.\n\nWrite down the plan. In a regulated industry, a written remediation timeline with management sign-off is the difference between “we’re working on it” and “we were negligent.” PCI DSS 12.3.4 explicitly requires this for EOL software.\n\nSet a deadline. “We’ll get to it” turns into never. Put a date on it, even if it’s two months out.\n\nIf you’re not sure how much work the upgrade involves, or what else the runtime change might shake loose, an audit is the fastest way to find out.\n\nRelated Articles\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nHow I Audit a Legacy Rails Codebase in the First Week\nMigrating from Sprockets to Propshaft: Is It Worth It?\nRails default_scope: Why You Should Never Use It\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nLet's talk about your codebase.\nEmail\nMessage"
+}

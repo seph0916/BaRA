@@ -1,0 +1,39 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 7,
+    "links": [
+        {
+            "text": "",
+            "href": "https://platform.openai.com/"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://openai.com/policies/terms-of-use"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://openai.com/policies/privacy-policy"
+        },
+        {
+            "text": "Developer Docs\n\nGet started with the OpenAI API",
+            "href": "https://developers.openai.com/api/docs"
+        },
+        {
+            "text": "API Reference\n\nExplore endpoints and parameters",
+            "href": "https://platform.openai.com/docs/api-reference/introduction"
+        },
+        {
+            "text": "Starter Apps\n\nSample apps built with the API",
+            "href": "https://developers.openai.com/resources/code"
+        },
+        {
+            "text": "Cookbooks\n\nPractical examples and best practices",
+            "href": "https://cookbook.openai.com/"
+        }
+    ],
+    "text_length": 436,
+    "text_full": "Build on the OpenAI API Platform\n\nSign up or login with an OpenAI account to build with the OpenAI API.\n\nEmail address\nContinue\nOR\nContinue with Google\nContinue with Apple\nContinue with Microsoft\nContinue with phone\nTerms of Use\nPrivacy Policy\nDeveloper Docs\n\nGet started with the OpenAI API\n\nAPI Reference\n\nExplore endpoints and parameters\n\nStarter Apps\n\nSample apps built with the API\n\nCookbooks\n\nPractical examples and best practices"
+}

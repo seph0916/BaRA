@@ -1,0 +1,86 @@
+{
+    "image_count": 6,
+    "images": [
+        "https://tenderlovemaking.com/images/logo1.png",
+        "https://tenderlovemaking.com/images/mastodon-icon.svg",
+        "https://tenderlovemaking.com/images/bluesky.svg",
+        "https://tenderlovemaking.com/images/github-icon.svg",
+        "https://tenderlovemaking.com/images/instagram-icon.svg",
+        "https://tenderlovemaking.com/images/x.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 17,
+    "links": [
+        {
+            "text": "",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Monkey Patch Detection in Ruby",
+            "href": "https://tenderlovemaking.com/2024/10/16/monkey-patch-detection-in-ruby/"
+        },
+        {
+            "text": "My last post",
+            "href": "https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/"
+        },
+        {
+            "text": "in the code",
+            "href": "https://github.com/ruby/ruby/blob/87be381bbb7c2d4501942124e9851a2a9e1a07a2/vm_method.c#L999"
+        },
+        {
+            "text": "here",
+            "href": "https://github.com/ruby/ruby/blob/87be381bbb7c2d4501942124e9851a2a9e1a07a2/vm_method.c#L1007"
+        },
+        {
+            "text": "here",
+            "href": "https://github.com/ruby/ruby/blob/87be381bbb7c2d4501942124e9851a2a9e1a07a2/internal/basic_operators.h#L8-L42"
+        },
+        {
+            "text": "here",
+            "href": "https://github.com/ruby/ruby/blob/87be381bbb7c2d4501942124e9851a2a9e1a07a2/internal/basic_operators.h#L47-L60"
+        },
+        {
+            "text": "to their corresponding bit flag",
+            "href": "https://github.com/ruby/ruby/blob/87be381bbb7c2d4501942124e9851a2a9e1a07a2/vm.c#L2079-L2097"
+        },
+        {
+            "text": "here",
+            "href": "https://github.com/ruby/ruby/blob/87be381bbb7c2d4501942124e9851a2a9e1a07a2/vm_insnhelper.c#L6238"
+        },
+        {
+            "text": "right here",
+            "href": "https://github.com/ruby/ruby/blob/87be381bbb7c2d4501942124e9851a2a9e1a07a2/vm.c#L2146-L2147"
+        },
+        {
+            "text": "« go back",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Archives",
+            "href": "https://tenderlovemaking.com/archives"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/tenderlove.dev"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://instagram.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/tenderlove"
+        }
+    ],
+    "text_length": 4561,
+    "text_full": "Monkey Patch Detection in Ruby\nPosted last year\n\nMy last post detailed one way that CRuby will eliminate some intermediate array allocations when using methods like Array#hash and Array#max. Part of the technique hinges on detecting when someone monkey patches array. Today, I thought we’d dive a little bit in to how CRuby detects and de-optimizes itself when these “important” methods get monkey patched.\n\nMonkey Patching Problem\n\nThe optimization in the previous post made the assumption that the implementation Array#max was the original definition (as defined in Ruby itself). But the Ruby language allows us to reopen classes, redefine any methods we want, and that those methods will “just work”.\n\nFor example, if someone were to reopen Array and define a new max method, we would need to respect that monkey patch:\n\nclass Array\n\n  def max\n\n    \"hello!\"\n\n  end\n\nend\n\n\n\nputs [1, 2].max # => \"hello!\"\n\n\nIn fact, a monkey patch implementation could mutate the array itself, so we’re definitely required to allocate an array in the case that someone added their own max method:\n\nclass Array\n\n  def max\n\n    self << :neat\n\n    self\n\n  end\n\nend\n\n\n\nx = [1, 2].max\n\np x # => [1, 2, :neat]\n\n\nSo how does CRuby detect that a method has been monkey patched?\n\nMethod Definition Time\n\nEvery time a method is defined, an entry is stored in a hash table pointed to by the current class. We call this the “method table”, but you’ll see it referred to as M_TBL or RCLASS_M_TBL in the code. The key to the hash is simply the method name as an ID type (an integer which represents a Ruby Symbol), and the value of the hash is a method entry structure. If there was already an entry in the table, then we know it’s a “redefinition” (a.k.a. “monkey patch”), and we end up calling rb_vm_check_redefinition_opt_method here.\n\nrb_vm_check_redefinition_opt_method checks to see if this is a method we “care” about. Methods we “care” about are typically ones where we’ve made some kind of optimization and we need to deoptimize if someone redefines them.\n\nIf the redefined method is something we care to detect, then we set a flag in a global variable ruby_vm_redefined_flag, which is an array of integers.\n\nThe indexes of the ruby_vm_redefined_flag array correspond to “basic operators”, or BOPs. So for example, the 0th element is for BOP_PLUS, the 1th element is BOP_MINUS, etc. You can see the full list of basic operators here. These basic operators correspond to method names that we care about. So if someone monkey patches the + operator, we’ll set a flag in ruby_vm_redefined_flag[BOP_PLUS].\n\nThe values of the ruby_vm_redefined_flag array correspond to a bitmap that maps to classes we care about. You can see the list of classes and their corresponding bits here, as well as a function for mapping “classes we care about” to their corresponding bit flag.\n\nFor example, if someone monkey patches Array#pack, we would set a bit in ruby_vm_redefined_flag like this:\n\nruby_vm_redefined_flag[BOP_PACK] |= ARRAY_REDEFINED_OP_FLAG;\n\n\nThen, when we execute our optimized instruction (opt_newarray_send which was introduced in the last post), we can check the bitmap to decide whether or not to take our fast path:\n\nif ((ruby_vm_redefined_flag[BOP_PACK] & ARRAY_REDEFINED_OP_FLAG) == 0) {\n\n  // It _hasn't_ been monkey patched, so take the fast path\n\n}\n\nelse {\n\n  // It _has_ been monkey patched, do the slow path\n\n}\n\n\nOf course this bitmask checking is wrapped in a macro that looks more like this:\n\nif (BASIC_OP_UNREDEFINED_P(BOP_PACK, ARRAY_REDEFINED_OP_FLAG)) {\n\n  // It _hasn't_ been monkey patched, so take the fast path\n\n}\n\nelse {\n\n  // It _has_ been monkey patched, do the slow path\n\n}\n\n\nYou can see the actual code for Array#pack redefinition checking here.\n\nBonus Stuff\n\nA cool thing (at least I think it’s cool) is that the function rb_vm_check_redefinition_opt_method not only sets up the “monkey patch detection” bits, it’s also a natural place to inform the JIT compiler that someone has done something catastrophic and that it should de-optimize. In fact, you can see those calls right here.\n\nA weird thing is that since ruby_vm_redefined_flag is just a list bitmaps, it’s technically possible for us to track the definition of Integer#pack even though that method doesn’t exist:\n\nruby_vm_redefined_flag[BOP_PACK] |= INTEGER_REDEFINED_OP_FLAG;\n\n\nI guess that means there’s a lot of bit space that isn’t used, but I don’t really think it’s a big deal.\n\nAnyway, have a good day!\n\n« go back\nArchives\n \n \n \n \n\nCopyright © 2026 Tenderlovemaking.com All rights reserved."
+}

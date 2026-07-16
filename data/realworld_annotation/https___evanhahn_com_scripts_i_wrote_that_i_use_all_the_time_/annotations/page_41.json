@@ -1,0 +1,81 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 17,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#zsh",
+            "href": "https://evanhahn.com/tags/zsh/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "“hook functions”",
+            "href": "http://zsh.sourceforge.net/Doc/Release/Functions.html#Hook-Functions"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 866,
+    "text_full": "Automatically ls when changing directories in zsh\nby Evan Hahn, posted Dec 26, 2016, tagged #zsh #dotfiles\n\nThe first thing I do when changing directories in the terminal is ls to get my bearings. I usually do it without thinking.\n\nI used to do this manually, but then I learned that zsh has a way to do this for me. Zsh offers “hook functions”, which can be defined and are executed when certain events happen. One of these functions, chpwd, will be “executed whenever the current working directory is changed.”\n\nAdd something like this to your .zshrc:\n\nchpwd() {\n\n  ls\n\n}\n\n\nNow you’ll ls whenever you cd (or pushd)!\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

@@ -1,0 +1,165 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 38,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "\"Understanding Unicode\": my October 2025 talk at Longhorn PHP",
+            "href": "https://evanhahn.com/longhornphp2025/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#php",
+            "href": "https://evanhahn.com/tags/php/"
+        },
+        {
+            "text": "#video",
+            "href": "https://evanhahn.com/tags/video/"
+        },
+        {
+            "text": "JS fetch converts string request bodies to UTF-8",
+            "href": "https://evanhahn.com/js-fetch-converts-strings-to-utf8/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "An unfinished post: \"Compressing short Unicode strings with BOCU-1\"",
+            "href": "https://evanhahn.com/bocu-1-unfinished-post/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "\"JavaScript and the farmer emoji\": my talk at the Chicago JavaScript Meetup",
+            "href": "https://evanhahn.com/chicagojs2023/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#video",
+            "href": "https://evanhahn.com/tags/video/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "Getting the UTF-16 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/getting-the-utf16-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Getting the UTF-32 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/getting-the-utf32-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Working with the UTF-8 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/working-with-utf8-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Introducing UTF-21, a toy character encoding",
+            "href": "https://evanhahn.com/utf-21/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Why does \"👩🏾‍🌾\" have a length of 7 in JavaScript?",
+            "href": "https://evanhahn.com/javascript-string-lengths/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        }
+    ],
+    "text_length": 883,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n11 posts tagged #unicode\n2025\n\"Understanding Unicode\": my October 2025 talk at Longhorn PHP\n2025-11-10 #unicode #php #video\nJS fetch converts string request bodies to UTF-8\n2025-09-06 #javascript #unicode\nAn unfinished post: \"Compressing short Unicode strings with BOCU-1\"\n2025-06-19 #unicode\n2023\n\"JavaScript and the farmer emoji\": my talk at the Chicago JavaScript Meetup\n2023-08-23 #unicode #javascript #video #chicago\nGetting the UTF-16 bytes of JavaScript strings\n2023-06-10 #unicode #javascript #guide\nGetting the UTF-32 bytes of JavaScript strings\n2023-06-10 #unicode #javascript #guide\nWorking with the UTF-8 bytes of JavaScript strings\n2023-06-10 #unicode #javascript #guide\nIntroducing UTF-21, a toy character encoding\n2023-06-09 #unicode #release #experiment\nWhy does \"👩🏾‍🌾\" have a length of 7 in JavaScript?\n2023-05-27 #unicode #javascript"
+}

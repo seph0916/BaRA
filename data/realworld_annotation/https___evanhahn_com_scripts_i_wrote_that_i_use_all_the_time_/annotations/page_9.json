@@ -1,0 +1,4105 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 1023,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "email",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Make ZIP files smaller with ZIP Shrinker",
+            "href": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Open Link in Unloaded Tab, a little Firefox extension",
+            "href": "https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/"
+        },
+        {
+            "text": "#firefox",
+            "href": "https://evanhahn.com/tags/firefox/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "png-cmp: like cmp for PNGs",
+            "href": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#go",
+            "href": "https://evanhahn.com/tags/go/"
+        },
+        {
+            "text": "Offline command line translation with TranslateGemma + Ollama",
+            "href": "https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Notes from April 2026",
+            "href": "https://evanhahn.com/notes-from-april-2026/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "In defense of GitHub's poor uptime",
+            "href": "https://evanhahn.com/in-defense-of-githubs-poor-uptime/"
+        },
+        {
+            "text": "#github",
+            "href": "https://evanhahn.com/tags/github/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#high-availability",
+            "href": "https://evanhahn.com/tags/high-availability/"
+        },
+        {
+            "text": "Notes from March 2026",
+            "href": "https://evanhahn.com/notes-from-march-2026/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "All tests pass: a short story",
+            "href": "https://evanhahn.com/all-tests-pass-a-short-story/"
+        },
+        {
+            "text": "#story",
+            "href": "https://evanhahn.com/tags/story/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#arturo",
+            "href": "https://evanhahn.com/tags/arturo/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#satire",
+            "href": "https://evanhahn.com/tags/satire/"
+        },
+        {
+            "text": "Little web app to pick a random programming language",
+            "href": "https://evanhahn.com/random-programming-language/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "human.json",
+            "href": "https://evanhahn.com/human-dot-json/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "How I use generative AI on this blog",
+            "href": "https://evanhahn.com/how-i-use-gen-ai-on-this-blog/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "Introducing llm-eliza",
+            "href": "https://evanhahn.com/llm-eliza/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#satire",
+            "href": "https://evanhahn.com/tags/satire/"
+        },
+        {
+            "text": "The two kinds of error",
+            "href": "https://evanhahn.com/the-two-kinds-of-error/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Notes from February 2026",
+            "href": "https://evanhahn.com/notes-from-february-2026/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Introducing gzpeek, a tool to parse gzip metadata",
+            "href": "https://evanhahn.com/introducing-gzpeek/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#zig",
+            "href": "https://evanhahn.com/tags/zig/"
+        },
+        {
+            "text": "Track Zelda release anniversaries in your calendar",
+            "href": "https://evanhahn.com/zelda-anniversary-calendar/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Notes from January 2026",
+            "href": "https://evanhahn.com/notes-from-january-2026/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#public-domain",
+            "href": "https://evanhahn.com/tags/public-domain/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "An LLM that's 7500× stupider",
+            "href": "https://evanhahn.com/an-llm-thats-7500x-stupider/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "A mental math heuristic to convert between Fahrenheit and Celsius",
+            "href": "https://evanhahn.com/fahrenheit-celsius-heuristic/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "I set all 376 Vim options and I'm still a fool",
+            "href": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "Notes from \"On Writing Well\"",
+            "href": "https://evanhahn.com/on-writing-well-book-notes/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "Notes from December 2025",
+            "href": "https://evanhahn.com/notes-from-december-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#algorithm",
+            "href": "https://evanhahn.com/tags/algorithm/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#public-domain",
+            "href": "https://evanhahn.com/tags/public-domain/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Prediction: Mastodon will outlive Bluesky",
+            "href": "https://evanhahn.com/prediction-mastodon-will-outlive-bluesky/"
+        },
+        {
+            "text": "#decentralization",
+            "href": "https://evanhahn.com/tags/decentralization/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Notes from \"Bad Company: Private Equity and the Death of the American Dream\"",
+            "href": "https://evanhahn.com/bad-company-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "How I implemented relative imports with Pyodide",
+            "href": "https://evanhahn.com/pyodide-relative-imports/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "#webassembly",
+            "href": "https://evanhahn.com/tags/webassembly/"
+        },
+        {
+            "text": "#pyodide",
+            "href": "https://evanhahn.com/tags/pyodide/"
+        },
+        {
+            "text": "I made a little audio speed calculator",
+            "href": "https://evanhahn.com/playback-speed-calculator/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "Notes from November 2025",
+            "href": "https://evanhahn.com/notes-from-november-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "Draft: Stopping bad guys from using my open source project (feedback wanted)",
+            "href": "https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "Notes from \"The Story of the Typewriter\"",
+            "href": "https://evanhahn.com/story-of-the-typewriter-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#public-domain",
+            "href": "https://evanhahn.com/tags/public-domain/"
+        },
+        {
+            "text": "Experiment: making TypeScript immutable-by-default",
+            "href": "https://evanhahn.com/typescript-immutability-experiment/"
+        },
+        {
+            "text": "#typescript",
+            "href": "https://evanhahn.com/tags/typescript/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Fizz Buzz without conditionals or booleans",
+            "href": "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "\"Understanding Unicode\": my October 2025 talk at Longhorn PHP",
+            "href": "https://evanhahn.com/longhornphp2025/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#php",
+            "href": "https://evanhahn.com/tags/php/"
+        },
+        {
+            "text": "#video",
+            "href": "https://evanhahn.com/tags/video/"
+        },
+        {
+            "text": "Kirby Air Riders demo impressions (from a big fan of the original)",
+            "href": "https://evanhahn.com/kirby-air-riders-demo-impressions/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Notes from \"Tor: From the Dark Web to the Future of Privacy\"",
+            "href": "https://evanhahn.com/tor-from-the-dark-web-to-the-future-of-privacy-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#privacy",
+            "href": "https://evanhahn.com/tags/privacy/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Notes from October 2025",
+            "href": "https://evanhahn.com/notes-from-october-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "Scripts I wrote that I use all the time",
+            "href": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "Notes from September 2025",
+            "href": "https://evanhahn.com/notes-from-september-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "People read your blog in many different ways",
+            "href": "https://evanhahn.com/people-read-your-blog-in-many-different-ways/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "#internet",
+            "href": "https://evanhahn.com/tags/internet/"
+        },
+        {
+            "text": "@ts-ignore is almost always the worst option",
+            "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/"
+        },
+        {
+            "text": "#typescript",
+            "href": "https://evanhahn.com/tags/typescript/"
+        },
+        {
+            "text": "JS fetch converts string request bodies to UTF-8",
+            "href": "https://evanhahn.com/js-fetch-converts-strings-to-utf8/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "Notes from August 2025",
+            "href": "https://evanhahn.com/notes-from-august-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Notes from July 2025",
+            "href": "https://evanhahn.com/notes-from-july-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#linux",
+            "href": "https://evanhahn.com/tags/linux/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Notes from \"The Weather Machine: A Journey Inside the Forecast\"",
+            "href": "https://evanhahn.com/the-weather-machine-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "Notes from \"Where Wizards Stay Up Late: The Origins of the Internet\"",
+            "href": "https://evanhahn.com/where-wizards-stay-up-late-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#internet",
+            "href": "https://evanhahn.com/tags/internet/"
+        },
+        {
+            "text": "Local LLMs versus offline Wikipedia",
+            "href": "https://evanhahn.com/local-llms-versus-offline-wikipedia/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Simple macOS script to extract text from images (OCR)",
+            "href": "https://evanhahn.com/mac-ocr-script/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "How I build software quickly",
+            "href": "https://evanhahn.com/how-i-build-software-quickly/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Notes from June 2025",
+            "href": "https://evanhahn.com/notes-from-june-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#nonogram",
+            "href": "https://evanhahn.com/tags/nonogram/"
+        },
+        {
+            "text": "#bittorrent",
+            "href": "https://evanhahn.com/tags/bittorrent/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Notes from \"Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI\"",
+            "href": "https://evanhahn.com/empire-of-ai-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "An unfinished post: \"Compressing short Unicode strings with BOCU-1\"",
+            "href": "https://evanhahn.com/bocu-1-unfinished-post/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "Getting over my grudge against the periodic table",
+            "href": "https://evanhahn.com/periodic-table-grudge/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#science",
+            "href": "https://evanhahn.com/tags/science/"
+        },
+        {
+            "text": "Rainbow \"code doodle\"",
+            "href": "https://evanhahn.com/rainbow-code-doodle/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "When Array uses less memory than Uint8Array (in V8)",
+            "href": "https://evanhahn.com/v8-array-vs-uint8array-memory-usage/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#v8",
+            "href": "https://evanhahn.com/tags/v8/"
+        },
+        {
+            "text": "Notes from May 2025",
+            "href": "https://evanhahn.com/notes-from-may-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Simple script to sort Markdown lists",
+            "href": "https://evanhahn.com/simple-script-to-sort-markdown-lists/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#markdown",
+            "href": "https://evanhahn.com/tags/markdown/"
+        },
+        {
+            "text": "List of \"tech for good\" job boards",
+            "href": "https://evanhahn.com/list-of-tech-for-good-job-boards/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#resource",
+            "href": "https://evanhahn.com/tags/resource/"
+        },
+        {
+            "text": "Things I wish I knew about Ring Fit Adventure",
+            "href": "https://evanhahn.com/things-i-wish-i-knew-about-ring-fit-adventure/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Notes from April 2025",
+            "href": "https://evanhahn.com/notes-from-april-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "UI tip: maybe don't round percentages to 0% or 100%",
+            "href": "https://evanhahn.com/maybe-dont-round-percentages-to-0-or-100-percent/"
+        },
+        {
+            "text": "#design",
+            "href": "https://evanhahn.com/tags/design/"
+        },
+        {
+            "text": "Takeaways from The Economist's style guide book",
+            "href": "https://evanhahn.com/economist-style-guide-book-takeaways/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "Notes from \"Life in Code: A Personal History of Technology\"",
+            "href": "https://evanhahn.com/life-in-code-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Notes from March 2025",
+            "href": "https://evanhahn.com/notes-from-march-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#firefox",
+            "href": "https://evanhahn.com/tags/firefox/"
+        },
+        {
+            "text": "Cheatsheet for Rink, the unit-aware calculator",
+            "href": "https://evanhahn.com/rink-cheatsheet/"
+        },
+        {
+            "text": "#cli",
+            "href": "https://evanhahn.com/tags/cli/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Everything we know about the next Zelda game, as of March 2025",
+            "href": "https://evanhahn.com/everything-we-know-about-the-next-zelda-game-as-of-march-2025/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Filling in the gaps of the internet",
+            "href": "https://evanhahn.com/filling-in-the-gaps-of-the-internet/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Notes from \"Beyond Measure: The Hidden History of Measurement\"",
+            "href": "https://evanhahn.com/beyond-measure-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "Why \"alias\" is my last resort for aliases",
+            "href": "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "An ode to my favorite mobile game",
+            "href": "https://evanhahn.com/forward-escape-the-fold/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Notes from February 2025",
+            "href": "https://evanhahn.com/notes-from-february-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "How to play a file in reverse with mpv",
+            "href": "https://evanhahn.com/mpv-play-media-in-reverse/"
+        },
+        {
+            "text": "#mpv",
+            "href": "https://evanhahn.com/tags/mpv/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "LLMs: harmful to technical innovation?",
+            "href": "https://evanhahn.com/llms-and-technical-innovation/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Notes from January 2025",
+            "href": "https://evanhahn.com/notes-from-january-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#git",
+            "href": "https://evanhahn.com/tags/git/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "My experience upgrading from iPhone 11 Pro to iPhone 16 Plus",
+            "href": "https://evanhahn.com/iphone-11pro-vs-iphone-16plus/"
+        },
+        {
+            "text": "#ios",
+            "href": "https://evanhahn.com/tags/ios/"
+        },
+        {
+            "text": "Whisper transcription vs. iPhone 11 Pro and iPhone 16 Plus: an informal test",
+            "href": "https://evanhahn.com/informally-testing-whisper-on-iphone-11pro-and-16plus/"
+        },
+        {
+            "text": "#ios",
+            "href": "https://evanhahn.com/tags/ios/"
+        },
+        {
+            "text": "#audio",
+            "href": "https://evanhahn.com/tags/audio/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "My failed attempt to shrink all npm packages by 5%",
+            "href": "https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "string-timing-safe-equal, a new Node package",
+            "href": "https://evanhahn.com/string-timing-safe-equal/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "A black cat in 2032 bytes",
+            "href": "https://evanhahn.com/light-switch/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "Makeshift hot reload: my submission to HTMHell 2024",
+            "href": "https://evanhahn.com/htmhell-2024/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "95% is very different from 99%",
+            "href": "https://evanhahn.com/95-percent-is-very-different-from-99-percent/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "A little trick to reduce Zoom bandwidth",
+            "href": "https://evanhahn.com/little-trick-to-reduce-zoom-bandwidth/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "How does SQLite's \"changes\" API handle no-op UPDATEs?",
+            "href": "https://evanhahn.com/sqlite-changes-and-noop-updates/"
+        },
+        {
+            "text": "#sqlite",
+            "href": "https://evanhahn.com/tags/sqlite/"
+        },
+        {
+            "text": "MIME types and atom bombs",
+            "href": "https://evanhahn.com/mime-types-and-atom-bombs/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "My notes from the Lua 5.4 reference manual",
+            "href": "https://evanhahn.com/my-notes-from-the-lua-5.4-reference"
+        },
+        {
+            "text": "#lua",
+            "href": "https://evanhahn.com/tags/lua/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "How to download every game from js13kgames",
+            "href": "https://evanhahn.com/download-js13kgames-zips/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "setBigTimeout",
+            "href": "https://evanhahn.com/set-big-timeout/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Mapping Mario Kart 8's real-life courses",
+            "href": "https://evanhahn.com/mapping-real-life-mario-kart-8-courses/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "Remember The Milk script to get task permalink",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-get-task-permalink/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Announcing Helmet v8",
+            "href": "https://evanhahn.com/helmet-8/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Python: how to change the extension of a pathlib.Path",
+            "href": "https://evanhahn.com/change-pathlib-path-extension-python/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "Using ESLint to (help) avoid non-deterministic randomness",
+            "href": "https://evanhahn.com/using-eslint-to-help-avoid-non-deterministic-randomness/"
+        },
+        {
+            "text": "#eslint",
+            "href": "https://evanhahn.com/tags/eslint/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "How I played Halo: Master Chief Collection in chronological order",
+            "href": "https://evanhahn.com/halo-mcc-in-chronological-order/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "My programming beliefs as of July 2024",
+            "href": "https://evanhahn.com/programming-beliefs-as-of-july-2024/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "How to set a Zsh option only if supported",
+            "href": "https://evanhahn.com/how-to-set-a-zsh-option-only-if-supported/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "#zsh",
+            "href": "https://evanhahn.com/tags/zsh/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Progressive enhancement for content",
+            "href": "https://evanhahn.com/progressive-enhancement-for-content/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "\"Understanding Iterables\": my April 2024 talk at ChicagoJS",
+            "href": "https://evanhahn.com/chicagojs2024/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#video",
+            "href": "https://evanhahn.com/tags/video/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "Five apps in two kilobytes",
+            "href": "https://evanhahn.com/5-apps-in-2k/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Clojure: distinct versus dedupe",
+            "href": "https://evanhahn.com/posts/2024-02-25-clojure-distinct-vs-dedupe/"
+        },
+        {
+            "text": "#clojure",
+            "href": "https://evanhahn.com/tags/clojure/"
+        },
+        {
+            "text": "Remember The Milk script to estimate selected tasks",
+            "href": "https://evanhahn.com/remember-the-milk-estimate-selected-tasks-script/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "How to use crypto.timingSafeEqual with strings",
+            "href": "https://evanhahn.com/crypto-timingsafeequal-with-strings/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "What's the best way to concatenate Uint8Arrays?",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "systemd-inhibit: a built-in Linux alternative to macOS's \"caffeinate\" command",
+            "href": "https://evanhahn.com/systemd-inhibit-alternative-to-macos-caffeinate/"
+        },
+        {
+            "text": "#linux",
+            "href": "https://evanhahn.com/tags/linux/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent",
+            "href": "https://evanhahn.com/node-torrent-import/"
+        },
+        {
+            "text": "#bittorrent",
+            "href": "https://evanhahn.com/tags/bittorrent/"
+        },
+        {
+            "text": "#decentralization",
+            "href": "https://evanhahn.com/tags/decentralization/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Remember The Milk CSV export script",
+            "href": "https://evanhahn.com/remember-the-milk-csv-export-script/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#csv",
+            "href": "https://evanhahn.com/tags/csv/"
+        },
+        {
+            "text": "The world's smallest PNG",
+            "href": "https://evanhahn.com/worlds-smallest-png/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Torrent snapshot of my open source projects, as of 2024",
+            "href": "https://evanhahn.com/2024-01-01-torrents-of-my-open-source-projects/"
+        },
+        {
+            "text": "#bittorrent",
+            "href": "https://evanhahn.com/tags/bittorrent/"
+        },
+        {
+            "text": "#decentralization",
+            "href": "https://evanhahn.com/tags/decentralization/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Introducing Sqids Crystal",
+            "href": "https://evanhahn.com/introducing-sqids-crystal/"
+        },
+        {
+            "text": "#crystal",
+            "href": "https://evanhahn.com/tags/crystal/"
+        },
+        {
+            "text": "When static types make your code shorter",
+            "href": "https://evanhahn.com/when-static-types-make-your-code-shorter/"
+        },
+        {
+            "text": "#types",
+            "href": "https://evanhahn.com/tags/types/"
+        },
+        {
+            "text": "#crystal",
+            "href": "https://evanhahn.com/tags/crystal/"
+        },
+        {
+            "text": "#ruby",
+            "href": "https://evanhahn.com/tags/ruby/"
+        },
+        {
+            "text": "How to do integer division in Crystal",
+            "href": "https://evanhahn.com/integer-division-in-crystal/"
+        },
+        {
+            "text": "#crystal",
+            "href": "https://evanhahn.com/tags/crystal/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "How sleep mode works on the Anbernic RG35XX (with GarlicOS)",
+            "href": "https://evanhahn.com/rg35xx-sleep-mode/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Introducing NONOGRAM NIGHTS",
+            "href": "https://evanhahn.com/introducing-nonogram-nights/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#nonogram",
+            "href": "https://evanhahn.com/tags/nonogram/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "How to use the JavaScript Compression Streams API to (de)compress strings",
+            "href": "https://evanhahn.com/javascript-compression-streams-api-with-strings/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Conditional Express middleware",
+            "href": "https://evanhahn.com/conditional-express-middleware/"
+        },
+        {
+            "text": "#express",
+            "href": "https://evanhahn.com/tags/express/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Track flights on iOS without installing anything",
+            "href": "https://evanhahn.com/track-flights-on-ios/"
+        },
+        {
+            "text": "#ios",
+            "href": "https://evanhahn.com/tags/ios/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "How big is a kilobyte?",
+            "href": "https://evanhahn.com/how-big-is-a-kilobyte/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "How does Swift decode \"weird\" JSON numbers?",
+            "href": "https://evanhahn.com/swift-weird-json-numbers/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#json",
+            "href": "https://evanhahn.com/tags/json/"
+        },
+        {
+            "text": "Short C program that repeats a string forever",
+            "href": "https://evanhahn.com/short-c-program-to-repeat-a-string-to-stdout/"
+        },
+        {
+            "text": "#c",
+            "href": "https://evanhahn.com/tags/c/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "\"JavaScript and the farmer emoji\": my talk at the Chicago JavaScript Meetup",
+            "href": "https://evanhahn.com/chicagojs2023/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#video",
+            "href": "https://evanhahn.com/tags/video/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "My mnemonic to remember tar commands on Linux",
+            "href": "https://evanhahn.com/mnemonic-to-remember-tar-commands/"
+        },
+        {
+            "text": "#unix",
+            "href": "https://evanhahn.com/tags/unix/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "How to set the (deprecated) valign attribute with JavaScript",
+            "href": "https://evanhahn.com/set-deprecated-valign-attribute-with-javascript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Subscribe with email if you want",
+            "href": "https://evanhahn.com/subscribe-with-email-if-you-want/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "Play a jingle on Git commits",
+            "href": "https://evanhahn.com/jingle-on-git-commit/"
+        },
+        {
+            "text": "#git",
+            "href": "https://evanhahn.com/tags/git/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Which Zelda dungeons are actually called \"dungeons\"?",
+            "href": "https://evanhahn.com/which-zelda-dungeons-are-actually-called-dungeons/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "Proof of concept: drop-in JSON replacement that produces smaller payloads",
+            "href": "https://evanhahn.com/jsos-proof-of-concept/"
+        },
+        {
+            "text": "#json",
+            "href": "https://evanhahn.com/tags/json/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "A picross game in 1024 bytes",
+            "href": "https://evanhahn.com/js1024-2023/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#nonogram",
+            "href": "https://evanhahn.com/tags/nonogram/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "What's the largest possible PNG?",
+            "href": "https://evanhahn.com/largest-possible-png/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "You might not need Helmet.js",
+            "href": "https://evanhahn.com/you-might-not-need-helmet/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "Python's nonstandard JSON encoding",
+            "href": "https://evanhahn.com/pythons-nonstandard-json-encoding/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "#json",
+            "href": "https://evanhahn.com/tags/json/"
+        },
+        {
+            "text": "Crystal: how to compute a CRC32 checksum",
+            "href": "https://evanhahn.com/crystal-compute-a-crc32-checksum/"
+        },
+        {
+            "text": "#crystal",
+            "href": "https://evanhahn.com/tags/crystal/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Getting the UTF-16 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/getting-the-utf16-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Getting the UTF-32 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/getting-the-utf32-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Working with the UTF-8 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/working-with-utf8-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Introducing UTF-21, a toy character encoding",
+            "href": "https://evanhahn.com/utf-21/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "My favorite little Markdown feature: reordering ordered lists",
+            "href": "https://evanhahn.com/markdown-ordered-lists-feature/"
+        },
+        {
+            "text": "#markdown",
+            "href": "https://evanhahn.com/tags/markdown/"
+        },
+        {
+            "text": "How to compute the distance between two Cartesian points in JavaScript",
+            "href": "https://evanhahn.com/javascript-distance-between-two-points/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Why does \"👩🏾‍🌾\" have a length of 7 in JavaScript?",
+            "href": "https://evanhahn.com/javascript-string-lengths/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Converting UIColors to CSS colors",
+            "href": "https://evanhahn.com/convert-uicolor-to-css-color/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ios",
+            "href": "https://evanhahn.com/tags/ios/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of April 2023",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-april-2023/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Nested array permutations in JavaScript",
+            "href": "https://evanhahn.com/nested-list-permutations-in-javascript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#algorithm",
+            "href": "https://evanhahn.com/tags/algorithm/"
+        },
+        {
+            "text": "The lone developer problem",
+            "href": "https://evanhahn.com/the-lone-developer-problem/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of February 2023",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-february-2023/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "How to format SQLite BLOB columns as hex",
+            "href": "https://evanhahn.com/how-to-format-sqlite-blob-columns-as-hex/"
+        },
+        {
+            "text": "#sqlite",
+            "href": "https://evanhahn.com/tags/sqlite/"
+        },
+        {
+            "text": "9 years maintaining a sorta-popular open source package: lessons learned",
+            "href": "https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "How I fixed broken Wi-Fi on my 2012 Mac Mini running Zorin OS",
+            "href": "https://evanhahn.com/fixing-broken-wifi-on-2012-mac-mini-running-zorin/"
+        },
+        {
+            "text": "#linux",
+            "href": "https://evanhahn.com/tags/linux/"
+        },
+        {
+            "text": "#apple",
+            "href": "https://evanhahn.com/tags/apple/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of January 2023",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-january-2023/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of December 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-december-2022/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Ruby: how to get the MD5 hash of a file",
+            "href": "https://evanhahn.com/md5-of-a-ruby-file/"
+        },
+        {
+            "text": "#ruby",
+            "href": "https://evanhahn.com/tags/ruby/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of November 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-november-2022/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of September 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-september-2022/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Re-implementing JavaScript's == in JavaScript",
+            "href": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#spec",
+            "href": "https://evanhahn.com/tags/spec/"
+        },
+        {
+            "text": "Consider Node's built-in test runner",
+            "href": "https://evanhahn.com/consider-nodes-built-in-test-runner/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#testing",
+            "href": "https://evanhahn.com/tags/testing/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of August 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-breath-of-the-wild-sequel-as-of-august-2022/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "The difference between \"=\" and \"IS\" in SQLite",
+            "href": "https://evanhahn.com/difference-between-equals-and-is-in-sqlite/"
+        },
+        {
+            "text": "#sqlite",
+            "href": "https://evanhahn.com/tags/sqlite/"
+        },
+        {
+            "text": "A decade of dotfiles",
+            "href": "https://evanhahn.com/a-decade-of-dotfiles/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "Disable SwiftLint for a file",
+            "href": "https://evanhahn.com/disable-swiftlint-for-a-file/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of May 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-breath-of-the-wild-sequel-as-of-may-2022/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "How to read tab-separated values (TSV) files in Python",
+            "href": "https://evanhahn.com/how-to-read-tsv-files-in-python/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "#csv",
+            "href": "https://evanhahn.com/tags/csv/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Remember The Milk script to find tasks with invalid start times",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-find-tasks-with-invalid-start-times/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Everything we know about The Legend of Zelda: Tears of the Kingdom, as of April 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-breath-of-the-wild-sequel-as-of-april-2022/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "When stringify doesn't return a string",
+            "href": "https://evanhahn.com/when-stringify-doesnt-return-a-string/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#json",
+            "href": "https://evanhahn.com/tags/json/"
+        },
+        {
+            "text": "How to block Google's FLoC tracking with Express",
+            "href": "https://evanhahn.com/block-googles-floc-tracking-with-express/"
+        },
+        {
+            "text": "#express",
+            "href": "https://evanhahn.com/tags/express/"
+        },
+        {
+            "text": "#privacy",
+            "href": "https://evanhahn.com/tags/privacy/"
+        },
+        {
+            "text": "Should you use semicolons in JavaScript?",
+            "href": "https://evanhahn.com/should-you-use-semicolons-in-javascript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "How to reverse an array in JavaScript",
+            "href": "https://evanhahn.com/how-to-reverse-an-array-in-javascript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Profit, not welfare",
+            "href": "https://evanhahn.com/profit-not-welfare/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "The hype train",
+            "href": "https://evanhahn.com/the-hype-train/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Gotchas with Express query parsing (and how to avoid them)",
+            "href": "https://evanhahn.com/gotchas-with-express-query-parsing-and-how-to-avoid-them/"
+        },
+        {
+            "text": "#express",
+            "href": "https://evanhahn.com/tags/express/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "An interview with me on JavaScript Jabber",
+            "href": "https://evanhahn.com/an-interview-with-me-on-javascript-jabber/"
+        },
+        {
+            "text": "#audio",
+            "href": "https://evanhahn.com/tags/audio/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "\"Fancy code is exclusionary\"",
+            "href": "https://evanhahn.com/fancy-code-is-exclusionary/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "My entry to JS1k 2018: \"Zap\"",
+            "href": "https://evanhahn.com/my-entry-to-js1k-2018-zap/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Show only production dependencies with npm",
+            "href": "https://evanhahn.com/show-only-production-dependencies-with-npm/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "On modern censorship",
+            "href": "https://evanhahn.com/on-modern-censorship/"
+        },
+        {
+            "text": "#privacy",
+            "href": "https://evanhahn.com/tags/privacy/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Import Pinboard bookmarks into Standard Notes",
+            "href": "https://evanhahn.com/import-pinboard-bookmarks-into-standard-notes/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "On multi-paradigm languages",
+            "href": "https://evanhahn.com/on-multi-paradigm-languages/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "\"Facebook Wins, Democracy Loses\"",
+            "href": "https://evanhahn.com/facebook-wins-democracy-loses/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Clojure's \"zero?\" has some quirks",
+            "href": "https://evanhahn.com/clojures-zero-has-some-quirks/"
+        },
+        {
+            "text": "#clojure",
+            "href": "https://evanhahn.com/tags/clojure/"
+        },
+        {
+            "text": "Petition to open source Flash",
+            "href": "https://evanhahn.com/petition-to-open-source-flash/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Lessons learned from last week's cyberattack",
+            "href": "https://evanhahn.com/lessons-learned-from-last-weeks-cyberattack/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Think of the journalists",
+            "href": "https://evanhahn.com/wont-somebody-please-think-of-the-journalists/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#privacy",
+            "href": "https://evanhahn.com/tags/privacy/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Ball lightning",
+            "href": "https://evanhahn.com/ball-lightning/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "On becoming comfortable with privacy violations",
+            "href": "https://evanhahn.com/on-becoming-comfortable-with-privacy-violations/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#privacy",
+            "href": "https://evanhahn.com/tags/privacy/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "\"Six other times the US has banned immigrants\"",
+            "href": "https://evanhahn.com/six-other-times-the-us-has-banned-immigrants/"
+        },
+        {
+            "text": "#law",
+            "href": "https://evanhahn.com/tags/law/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "Z-index seems so simple...",
+            "href": "https://evanhahn.com/z-index-seems-so-simple/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Prevent Homebrew from gathering analytics",
+            "href": "https://evanhahn.com/prevent-homebrew-from-gathering-analytics/"
+        },
+        {
+            "text": "#homebrew",
+            "href": "https://evanhahn.com/tags/homebrew/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Automatically ls when changing directories in zsh",
+            "href": "https://evanhahn.com/automatically-ls-when-changing-directories-in-zsh/"
+        },
+        {
+            "text": "#zsh",
+            "href": "https://evanhahn.com/tags/zsh/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "\"If my code helped one developer at least once\"",
+            "href": "https://evanhahn.com/if-my-code-helped-one-developer-at-least-once/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "\"X marks gender-neutral\"",
+            "href": "https://evanhahn.com/x-marks-gender-neutral/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "\"The last thing we all need is for the 'data' economy to destroy another medium\"",
+            "href": "https://evanhahn.com/the-last-thing-we-all-need-is-for-the-data-economy-to-destroy-another-medium/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Detect global JavaScript variables with iframes",
+            "href": "https://evanhahn.com/detect-global-javascript-variables-using-iframes/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Parse URLs with <a> tags in JavaScript",
+            "href": "https://evanhahn.com/parse-urls-with-a-tags/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "How to transfer Android Neko Atsume saves using adb",
+            "href": "https://evanhahn.com/transfer-android-neko-atsume-saves/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Disable ESLint for a file",
+            "href": "https://evanhahn.com/disable-eslint-for-a-file/"
+        },
+        {
+            "text": "#eslint",
+            "href": "https://evanhahn.com/tags/eslint/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "The CSP module is the largest part of Helmet",
+            "href": "https://evanhahn.com/csp-module-is-the-largest-part-of-helmet/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "Vim's :x command: like :wq but better",
+            "href": "https://evanhahn.com/vim-colon-x-command/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "Only customize where you are unusual",
+            "href": "https://evanhahn.com/github-only-customizing-when-unusual/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Programming languages and their ecosystems",
+            "href": "https://evanhahn.com/programming-languages-cannot-be-considered-separately-from-their-ecosystems/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#ruby",
+            "href": "https://evanhahn.com/tags/ruby/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "How to clear all inline styles from an HTML element",
+            "href": "https://evanhahn.com/clear-all-inline-styles-from-an-element/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Overwriting document.head in strict mode on Safari",
+            "href": "https://evanhahn.com/document-dot-head-on-safari-strict-mode/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#safari",
+            "href": "https://evanhahn.com/tags/safari/"
+        },
+        {
+            "text": "Pietime, my entry to JS1k 2015",
+            "href": "https://evanhahn.com/js1k-2015/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "\"This Incredible Hospital Robot Is Saving Lives. Also, I Hate It\"",
+            "href": "https://evanhahn.com/this-incredible-hospital-robot-is-saving-lives/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Scrape Delicious bookmarks with 3 command-line tools",
+            "href": "https://evanhahn.com/scrape-delicious-bookmarks-with-3-cli-tools/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Skip the header of a file with Python's CSV reader",
+            "href": "https://evanhahn.com/python-skip-header-csv-reader/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "#csv",
+            "href": "https://evanhahn.com/tags/csv/"
+        },
+        {
+            "text": "\"Raising the wall\" for open source",
+            "href": "https://evanhahn.com/raising-the-wall-for-open-source/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "Install a list of Atom packages from a file",
+            "href": "https://evanhahn.com/atom-apm-install-list/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Thoughts on CoffeeScript after ECMAScript 6",
+            "href": "https://evanhahn.com/coffeescript-and-ecmascript-6/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Disable the beer emoji in Homebrew",
+            "href": "https://evanhahn.com/disable-homebrew-emoji/"
+        },
+        {
+            "text": "#homebrew",
+            "href": "https://evanhahn.com/tags/homebrew/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "The Internet no longer a wild west",
+            "href": "https://evanhahn.com/internet-no-more-wild-west/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "A deep dive into Express's static middleware",
+            "href": "https://evanhahn.com/express-dot-static-deep-dive/"
+        },
+        {
+            "text": "#express",
+            "href": "https://evanhahn.com/tags/express/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Mostly on screens, at scales unimaginable",
+            "href": "https://evanhahn.com/the-secrets-of-minecraft/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "A quick romp through default values in CoffeeScript",
+            "href": "https://evanhahn.com/default-values-in-coffeescript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "Install Node Version Manager without the source line",
+            "href": "https://evanhahn.com/install-nvm-without-source-line/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "\"About Feminism\"",
+            "href": "https://evanhahn.com/aboutfeminism-dot-me/"
+        },
+        {
+            "text": "#sexism",
+            "href": "https://evanhahn.com/tags/sexism/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "\"Writing the code was typically less than half the problem\"",
+            "href": "https://evanhahn.com/writing-code-typically-less-than-half/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "The Internet as public infrastructure",
+            "href": "https://evanhahn.com/internet-as-public-infrastructure/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "\"We Are All Intelligence Officers Now\"",
+            "href": "https://evanhahn.com/we-are-all-intelligence-officers-now/"
+        },
+        {
+            "text": "#privacy",
+            "href": "https://evanhahn.com/tags/privacy/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Strangecoin",
+            "href": "https://evanhahn.com/strangecoin-proposal/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Dealing with the User-Agent of Python's Requests library",
+            "href": "https://evanhahn.com/python-requests-library-useragent/"
+        },
+        {
+            "text": "#python",
+            "href": "https://evanhahn.com/tags/python/"
+        },
+        {
+            "text": "\"Is jQuery too big for mobile?\"",
+            "href": "https://evanhahn.com/is-jquery-too-big-for-mobile/"
+        },
+        {
+            "text": "#jquery",
+            "href": "https://evanhahn.com/tags/jquery/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "How to publish a simple package to npm",
+            "href": "https://evanhahn.com/publishing-a-simple-package-to-npm/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Understanding Express.js",
+            "href": "https://evanhahn.com/understanding-express/"
+        },
+        {
+            "text": "#express",
+            "href": "https://evanhahn.com/tags/express/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Disable JSHint for a file",
+            "href": "https://evanhahn.com/disable-jshint-for-a-file/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Introducing cyborg.txt: robots.txt utilities for Node",
+            "href": "https://evanhahn.com/introducing-cyborg/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Proteus",
+            "href": "https://evanhahn.com/proteus-review/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "The Underhanded C Contest",
+            "href": "https://evanhahn.com/the-underhanded-c-contest/"
+        },
+        {
+            "text": "#c",
+            "href": "https://evanhahn.com/tags/c/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Two-factor authentication list",
+            "href": "https://evanhahn.com/2fa/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "An experiment: syntax highlighting for the English language",
+            "href": "https://evanhahn.com/experimenting-with-english-highlighting/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "#design",
+            "href": "https://evanhahn.com/tags/design/"
+        },
+        {
+            "text": "Origin: my entry to js13kgames 2013",
+            "href": "https://evanhahn.com/origin-js13kgames/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Visualizing cracking AES-256",
+            "href": "https://evanhahn.com/visualizing-cracking-aes-256/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "Gribbagrab your resources",
+            "href": "https://evanhahn.com/gribbagrab-your-resources/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "Four CSS tips that have changed me",
+            "href": "https://evanhahn.com/life-changing-css/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "Vim's dw_red for terminal Vim",
+            "href": "https://evanhahn.com/vim_dw_red/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "\"JavaScript folks are really nuts\"",
+            "href": "https://evanhahn.com/javascript-folks-are-really-nuts/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Understanding Express.js version 3",
+            "href": "https://evanhahn.com/understanding-express-3/"
+        },
+        {
+            "text": "#express",
+            "href": "https://evanhahn.com/tags/express/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Concept: making asynchronous loading look synchronous",
+            "href": "https://evanhahn.com/javascript-method_missing/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#firefox",
+            "href": "https://evanhahn.com/tags/firefox/"
+        },
+        {
+            "text": "Resources from my 6th semester at the University of Michigan",
+            "href": "https://evanhahn.com/semester-6-resources/"
+        },
+        {
+            "text": "#university-of-michigan",
+            "href": "https://evanhahn.com/tags/university-of-michigan/"
+        },
+        {
+            "text": "#study-guide",
+            "href": "https://evanhahn.com/tags/study-guide/"
+        },
+        {
+            "text": "#algorithm",
+            "href": "https://evanhahn.com/tags/algorithm/"
+        },
+        {
+            "text": "The intended purposes of JavaScript and the Internet",
+            "href": "https://evanhahn.com/danny-hillis/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "\"All magic comes with a price\"",
+            "href": "https://evanhahn.com/all-magic-comes-with-a-price/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Vim's killer feature",
+            "href": "https://evanhahn.com/vims-killer-feature/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "Backbone.js is larger than you think",
+            "href": "https://evanhahn.com/backbone-js-filesize/"
+        },
+        {
+            "text": "#backbone",
+            "href": "https://evanhahn.com/tags/backbone/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "University of Michigan students can use Virtual Sites to do cross-browser testing",
+            "href": "https://evanhahn.com/michigan-students-can-use-virtual-sites-to-do-cross-browser-testing/"
+        },
+        {
+            "text": "#university-of-michigan",
+            "href": "https://evanhahn.com/tags/university-of-michigan/"
+        },
+        {
+            "text": "\"Using the web in 2013 means using JavaScript\"",
+            "href": "https://evanhahn.com/using-the-web-in-2013-means-using-javascript/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "HTML and the \"living standard\"",
+            "href": "https://evanhahn.com/html-and-the-living-standard/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "Circles 1K",
+            "href": "https://evanhahn.com/circles-1k/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "Why should AI be humanlike?",
+            "href": "https://evanhahn.com/why-should-ai-be-humanlike/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Are we shook up?",
+            "href": "https://evanhahn.com/are-we-shook-up/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Resources from my 5th semester at the University of Michigan",
+            "href": "https://evanhahn.com/resources-from-my-5th-semester/"
+        },
+        {
+            "text": "#university-of-michigan",
+            "href": "https://evanhahn.com/tags/university-of-michigan/"
+        },
+        {
+            "text": "#study-guide",
+            "href": "https://evanhahn.com/tags/study-guide/"
+        },
+        {
+            "text": "#c",
+            "href": "https://evanhahn.com/tags/c/"
+        },
+        {
+            "text": "#c++",
+            "href": "https://evanhahn.com/tags/c++/"
+        },
+        {
+            "text": "#algorithm",
+            "href": "https://evanhahn.com/tags/algorithm/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "Why GNU grep is fast",
+            "href": "https://evanhahn.com/why-gnu-grep-is-fast/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "Smoothing out setTimeout in CoffeeScript",
+            "href": "https://evanhahn.com/smoothing-out-settimeout-in-coffeescript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "\"Ramadan code\"",
+            "href": "https://evanhahn.com/ramadan-code/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Detect the Vimium Chrome extension",
+            "href": "https://evanhahn.com/detect-the-vimium-chrome-extension/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "Under 1% of English words are alphabetical",
+            "href": "https://evanhahn.com/under-1-of-english-words-are-alphabetical/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#c",
+            "href": "https://evanhahn.com/tags/c/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "\"Technology itself does not transform anything\"",
+            "href": "https://evanhahn.com/technology-itself-does-not-transform-anything/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "\"10 Timeframes\"",
+            "href": "https://evanhahn.com/10-timeframes/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Private members in CoffeeScript",
+            "href": "https://evanhahn.com/private-members-in-coffeescript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "First impressions of Rails",
+            "href": "https://evanhahn.com/first-impressions-of-rails/"
+        },
+        {
+            "text": "#rails",
+            "href": "https://evanhahn.com/tags/rails/"
+        },
+        {
+            "text": "JavaScript/CoffeeScript sleepsort",
+            "href": "https://evanhahn.com/javascript-sleepsort/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "#algorithm",
+            "href": "https://evanhahn.com/tags/algorithm/"
+        },
+        {
+            "text": "#hack",
+            "href": "https://evanhahn.com/tags/hack/"
+        },
+        {
+            "text": "On my internship at UniversityNow",
+            "href": "https://evanhahn.com/on-my-internship-at-universitynow/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#backbone",
+            "href": "https://evanhahn.com/tags/backbone/"
+        },
+        {
+            "text": "#rails",
+            "href": "https://evanhahn.com/tags/rails/"
+        },
+        {
+            "text": "Meeting the computer halfway",
+            "href": "https://evanhahn.com/meeting-the-computer-halfway/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Nicer committing with Vim",
+            "href": "https://evanhahn.com/nicer-committing-with-vim/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "#git",
+            "href": "https://evanhahn.com/tags/git/"
+        },
+        {
+            "text": "Start Vim and temporarily ignore your .vimrc",
+            "href": "https://evanhahn.com/ignore-vimrc-with-vim/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "Timeline of sexist incidents in geek communities",
+            "href": "https://evanhahn.com/timeline-of-sexist-incidents-in-geek-communities/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#sexism",
+            "href": "https://evanhahn.com/tags/sexism/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Hardware Vim petal",
+            "href": "https://evanhahn.com/hardware-vim-petal/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "CoffeeScript's existential operator",
+            "href": "https://evanhahn.com/coffeescripts-existential-operator/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "Airplane mode",
+            "href": "https://evanhahn.com/airplane-mode/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Cancel a git-flow branch",
+            "href": "https://evanhahn.com/cancel-a-git-flow-branch/"
+        },
+        {
+            "text": "#git",
+            "href": "https://evanhahn.com/tags/git/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Make console methods work in Internet Explorer",
+            "href": "https://evanhahn.com/make-console-methods-work-in-internet-explorer/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#internet-explorer",
+            "href": "https://evanhahn.com/tags/internet-explorer/"
+        },
+        {
+            "text": "Apple and the majority",
+            "href": "https://evanhahn.com/apple-and-the-majority/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#apple",
+            "href": "https://evanhahn.com/tags/apple/"
+        },
+        {
+            "text": "Is it worth cheating Caltrain?",
+            "href": "https://evanhahn.com/is-it-worth-cheating-caltrain/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Week three of Vim",
+            "href": "https://evanhahn.com/week-three-of-vim/"
+        },
+        {
+            "text": "#vim",
+            "href": "https://evanhahn.com/tags/vim/"
+        },
+        {
+            "text": "Maurice Sendak",
+            "href": "https://evanhahn.com/maurice-sendak/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "The most important decisions are non-technical",
+            "href": "https://evanhahn.com/the-most-important-decisions-are-non-technical/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "LinkedIn's app is HTML5",
+            "href": "https://evanhahn.com/linkedins-app-is-html5/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "Caesar shift in JavaScript and CoffeeScript",
+            "href": "https://evanhahn.com/caesar-shift-in-javascript/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "What the Google-Oracle trials mean for coders",
+            "href": "https://evanhahn.com/what-the-google-oracle-trials-mean-for-coders/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#law",
+            "href": "https://evanhahn.com/tags/law/"
+        },
+        {
+            "text": "Doing without jQuery",
+            "href": "https://evanhahn.com/doing-without-jquery/"
+        },
+        {
+            "text": "#jquery",
+            "href": "https://evanhahn.com/tags/jquery/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Douglas Crockford on making JSON a standard",
+            "href": "https://evanhahn.com/douglas-crockford-on-making-json-a-standard/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#json",
+            "href": "https://evanhahn.com/tags/json/"
+        },
+        {
+            "text": "Resources from my 4th semester at the University of Michigan",
+            "href": "https://evanhahn.com/resources-from-my-4th-semester/"
+        },
+        {
+            "text": "#university-of-michigan",
+            "href": "https://evanhahn.com/tags/university-of-michigan/"
+        },
+        {
+            "text": "#study-guide",
+            "href": "https://evanhahn.com/tags/study-guide/"
+        },
+        {
+            "text": "Quietly awesome",
+            "href": "https://evanhahn.com/quietly-awesome/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Papyrus Watch",
+            "href": "https://evanhahn.com/papyrus-watch/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#design",
+            "href": "https://evanhahn.com/tags/design/"
+        },
+        {
+            "text": "#font",
+            "href": "https://evanhahn.com/tags/font/"
+        },
+        {
+            "text": "The Midwest Mentality",
+            "href": "https://evanhahn.com/the-midwest-mentality/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "\"Inventing on principle\"",
+            "href": "https://evanhahn.com/inventing-on-principle/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "\"We actually think people have to pay for content.\"",
+            "href": "https://evanhahn.com/we-actually-think-people-have-to-pay-for-content/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "Evil sum and average of a JavaScript array",
+            "href": "https://evanhahn.com/sum-and-average-of-a-javascript-array/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#hack",
+            "href": "https://evanhahn.com/tags/hack/"
+        },
+        {
+            "text": "Nintendo's changing logo",
+            "href": "https://evanhahn.com/nintendos-changing-logo/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#design",
+            "href": "https://evanhahn.com/tags/design/"
+        },
+        {
+            "text": "Post-active state for links",
+            "href": "https://evanhahn.com/post-active-state-for-links/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "I love CoffeeScript",
+            "href": "https://evanhahn.com/i-love-coffeescript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "Remove one element by index from JavaScript array",
+            "href": "https://evanhahn.com/remove-one-element-by-index-from-javascript-array/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Resources from my 3rd semester at the University of Michigan",
+            "href": "https://evanhahn.com/a-couple-of-resources-from-my-3rd-semester/"
+        },
+        {
+            "text": "#university-of-michigan",
+            "href": "https://evanhahn.com/tags/university-of-michigan/"
+        },
+        {
+            "text": "#c++",
+            "href": "https://evanhahn.com/tags/c++/"
+        },
+        {
+            "text": "#study-guide",
+            "href": "https://evanhahn.com/tags/study-guide/"
+        },
+        {
+            "text": "\"Traditional\" for loops in CoffeeScript",
+            "href": "https://evanhahn.com/traditional-for-loops-in-coffeescript/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        },
+        {
+            "text": "The comprehensive guide to disabling selection on the web",
+            "href": "https://evanhahn.com/how-to-disable-copy-paste-on-your-website/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Newline necessary at the end of JavaScript files?",
+            "href": "https://evanhahn.com/newline-necessary-at-the-end-of-javascript-files/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Detect the RockMelt browser from JavaScript",
+            "href": "https://evanhahn.com/javascript-detect-if-your-browser-is-rockmelt/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Randomly generate either -1 or 1 in JavaScript",
+            "href": "https://evanhahn.com/randomly-generate-either-1-or-1/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "How do I Jasmine: a tutorial",
+            "href": "https://evanhahn.com/how-do-i-jasmine/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#testing",
+            "href": "https://evanhahn.com/tags/testing/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Old Notational Velocity icon",
+            "href": "https://evanhahn.com/old-notational-velocity-icon/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#resource",
+            "href": "https://evanhahn.com/tags/resource/"
+        },
+        {
+            "text": "Use text-to-speech if you can't proofread aloud",
+            "href": "https://evanhahn.com/use-text-to-speech-if-you-cant-proofread-aloud/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "#productivity",
+            "href": "https://evanhahn.com/tags/productivity/"
+        },
+        {
+            "text": "Only organize when you cannot search",
+            "href": "https://evanhahn.com/only-organize-when-you-cannot-search/"
+        },
+        {
+            "text": "#productivity",
+            "href": "https://evanhahn.com/tags/productivity/"
+        },
+        {
+            "text": "Euler method calculator in C++",
+            "href": "https://evanhahn.com/euler-method-calculator/"
+        },
+        {
+            "text": "#c++",
+            "href": "https://evanhahn.com/tags/c++/"
+        },
+        {
+            "text": "A mindless to-do list",
+            "href": "https://evanhahn.com/a-mindless-to-do-list/"
+        },
+        {
+            "text": "#productivity",
+            "href": "https://evanhahn.com/tags/productivity/"
+        },
+        {
+            "text": "How to: play custom Portal maps on macOS",
+            "href": "https://evanhahn.com/how-to-play-custom-portal-maps-on-os-x/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "And the blog begins",
+            "href": "https://evanhahn.com/hello-world/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        }
+    ],
+    "text_length": 22647,
+    "text_full": "Contact\nProjects\nGuides\nBlog\nEvan Hahn's blog\n\nSubscribe with RSS or email, if you want.\n\n2026\nMake ZIP files smaller with ZIP Shrinker\n2026-05-16 #compression #tool #release\nOpen Link in Unloaded Tab, a little Firefox extension\n2026-05-13 #firefox #release #tool\npng-cmp: like cmp for PNGs\n2026-05-03 #png #release #tool #go\nOffline command line translation with TranslateGemma + Ollama\n2026-05-01 #tool #release #ai #ollama\nNotes from April 2026\n2026-04-30 #month-notes #me #release #work #link\nIn defense of GitHub's poor uptime\n2026-04-10 #github #software-development #high-availability\nNotes from March 2026\n2026-03-31 #month-notes #me #work #link\nAll tests pass: a short story\n2026-03-22 #story #ai #arturo #compression #satire\nLittle web app to pick a random programming language\n2026-03-22 #experiment\nhuman.json\n2026-03-14 #me #ai #link\nHow I use generative AI on this blog\n2026-03-12 #ai #ethics #writing #me\nIntroducing llm-eliza\n2026-03-08 #ai #experiment #release #satire\nThe two kinds of error\n2026-03-01 #software-development\nNotes from February 2026\n2026-02-28 #month-notes #me #work #link\nIntroducing gzpeek, a tool to parse gzip metadata\n2026-02-26 #compression #experiment #release #tool #zig\nTrack Zelda release anniversaries in your calendar\n2026-02-21 #release #video-games\nNotes from January 2026\n2026-01-31 #month-notes #work #release #compression #public-domain #link\nAn LLM that's 7500× stupider\n2026-01-27 #ai #experiment #ollama\nA mental math heuristic to convert between Fahrenheit and Celsius\n2026-01-17 #guide\nI set all 376 Vim options and I'm still a fool\n2026-01-16 #vim\nNotes from \"On Writing Well\"\n2026-01-04 #writing #book-notes\n2025\nNotes from December 2025\n2025-12-31 #month-notes #ai #algorithm #software-development #public-domain #video-games\nPrediction: Mastodon will outlive Bluesky\n2025-12-30 #decentralization #culture\nNotes from \"Bad Company: Private Equity and the Death of the American Dream\"\n2025-12-29 #book-notes\nHow I implemented relative imports with Pyodide\n2025-12-11 #python #webassembly #pyodide\nI made a little audio speed calculator\n2025-12-03 #release #tool\nNotes from November 2025\n2025-11-30 #month-notes #ethics #ai #open-source #performance #chicago\nDraft: Stopping bad guys from using my open source project (feedback wanted)\n2025-11-29 #open-source #ethics\nNotes from \"The Story of the Typewriter\"\n2025-11-24 #book-notes #public-domain\nExperiment: making TypeScript immutable-by-default\n2025-11-18 #typescript #experiment\nFizz Buzz without conditionals or booleans\n2025-11-12 #experiment #python\n\"Understanding Unicode\": my October 2025 talk at Longhorn PHP\n2025-11-10 #unicode #php #video\nKirby Air Riders demo impressions (from a big fan of the original)\n2025-11-10 #video-games\nNotes from \"Tor: From the Dark Web to the Future of Privacy\"\n2025-11-08 #book-notes #privacy #security #culture\nNotes from October 2025\n2025-10-31 #month-notes #chicago #python #ethics #open-source\nScripts I wrote that I use all the time\n2025-10-22 #dotfiles\nNotes from September 2025\n2025-09-30 #month-notes #software-development #ethics #ai #video-games #chicago\nPeople read your blog in many different ways\n2025-09-22 #writing #internet\n@ts-ignore is almost always the worst option\n2025-09-21 #typescript\nJS fetch converts string request bodies to UTF-8\n2025-09-06 #javascript #unicode\nNotes from August 2025\n2025-08-31 #month-notes #ethics #open-source #video-games #link\nNotes from July 2025\n2025-07-31 #month-notes #open-source #linux #software-development #link\nNotes from \"The Weather Machine: A Journey Inside the Forecast\"\n2025-07-25 #book-notes\nNotes from \"Where Wizards Stay Up Late: The Origins of the Internet\"\n2025-07-21 #book-notes #internet\nLocal LLMs versus offline Wikipedia\n2025-07-19 #experiment #ai #data #ollama\nSimple macOS script to extract text from images (OCR)\n2025-07-14 #release #macos #swift #ai\nHow I build software quickly\n2025-07-08 #software-development\nNotes from June 2025\n2025-06-30 #month-notes #ai #open-source #nonogram #bittorrent #link\nNotes from \"Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI\"\n2025-06-23 #book-notes #ai #ethics #culture\nAn unfinished post: \"Compressing short Unicode strings with BOCU-1\"\n2025-06-19 #unicode\nGetting over my grudge against the periodic table\n2025-06-12 #book-notes #science\nRainbow \"code doodle\"\n2025-06-05 #art #release #chicago\nWhen Array uses less memory than Uint8Array (in V8)\n2025-06-01 #javascript #performance #v8\nNotes from May 2025\n2025-05-30 #month-notes #ethics #link #quote\nSimple script to sort Markdown lists\n2025-05-30 #release #markdown\nList of \"tech for good\" job boards\n2025-05-27 #work #ethics #resource\nThings I wish I knew about Ring Fit Adventure\n2025-05-04 #video-games\nNotes from April 2025\n2025-04-30 #month-notes #ai #ethics #link #quote\nUI tip: maybe don't round percentages to 0% or 100%\n2025-04-18 #design\nTakeaways from The Economist's style guide book\n2025-04-15 #book-notes #writing\nNotes from \"Life in Code: A Personal History of Technology\"\n2025-04-08 #book-notes #culture #software-development\nNotes from March 2025\n2025-03-31 #month-notes #ethics #link #quote #video-games #firefox\nCheatsheet for Rink, the unit-aware calculator\n2025-03-19 #cli #guide\nEverything we know about the next Zelda game, as of March 2025\n2025-03-15 #video-games\nFilling in the gaps of the internet\n2025-03-12 #reflection #culture\nNotes from \"Beyond Measure: The Hidden History of Measurement\"\n2025-03-06 #book-notes\nWhy \"alias\" is my last resort for aliases\n2025-03-05 #dotfiles\nAn ode to my favorite mobile game\n2025-03-04 #video-games\nNotes from February 2025\n2025-02-28 #month-notes #ethics #link #quote\nHow to play a file in reverse with mpv\n2025-02-11 #mpv #guide\nLLMs: harmful to technical innovation?\n2025-02-02 #ai #software-development\nNotes from January 2025\n2025-01-31 #month-notes #ethics #git #link #quote\nMy experience upgrading from iPhone 11 Pro to iPhone 16 Plus\n2025-01-28 #ios\nWhisper transcription vs. iPhone 11 Pro and iPhone 16 Plus: an informal test\n2025-01-28 #ios #audio #performance #experiment\nMy failed attempt to shrink all npm packages by 5%\n2025-01-27 #performance #node #javascript #experiment\nstring-timing-safe-equal, a new Node package\n2025-01-15 #release #node #javascript #security\n2024\nA black cat in 2032 bytes\n2024-12-26 #code-golf #release #art #png\nMakeshift hot reload: my submission to HTMHell 2024\n2024-12-11 #web #experiment\n95% is very different from 99%\n2024-11-10 #reflection\nA little trick to reduce Zoom bandwidth\n2024-11-07 #performance\nHow does SQLite's \"changes\" API handle no-op UPDATEs?\n2024-10-23 #sqlite\nMIME types and atom bombs\n2024-10-22 #ethics\nMy notes from the Lua 5.4 reference manual\n2024-10-20 #lua #book-notes\nHow to download every game from js13kgames\n2024-10-17 #guide #code-golf #video-games\nsetBigTimeout\n2024-10-15 #javascript\nMapping Mario Kart 8's real-life courses\n2024-10-14 #video-games #data\nRemember The Milk script to get task permalink\n2024-09-29 #remember-the-milk #release\nAnnouncing Helmet v8\n2024-09-28 #helmet #release\nPython: how to change the extension of a pathlib.Path\n2024-09-14 #python\nUsing ESLint to (help) avoid non-deterministic randomness\n2024-09-05 #eslint #javascript\nHow I played Halo: Master Chief Collection in chronological order\n2024-08-24 #video-games\nMy programming beliefs as of July 2024\n2024-07-01 #software-development #reflection\nHow to set a Zsh option only if supported\n2024-06-04 #dotfiles #zsh #guide\nProgressive enhancement for content\n2024-05-24 #web #experiment\n\"Understanding Iterables\": my April 2024 talk at ChicagoJS\n2024-05-08 #javascript #video #chicago\nFive apps in two kilobytes\n2024-03-29 #code-golf #release\nClojure: distinct versus dedupe\n2024-02-25 #clojure\nRemember The Milk script to estimate selected tasks\n2024-02-24 #remember-the-milk #release\nHow to use crypto.timingSafeEqual with strings\n2024-02-16 #javascript #node #security #guide\nWhat's the best way to concatenate Uint8Arrays?\n2024-01-29 #javascript #guide\nsystemd-inhibit: a built-in Linux alternative to macOS's \"caffeinate\" command\n2024-01-22 #linux #macos\nimport myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent\n2024-01-13 #bittorrent #decentralization #experiment #node #javascript\nRemember The Milk CSV export script\n2024-01-09 #remember-the-milk #release #csv\nThe world's smallest PNG\n2024-01-04 #png #guide\nTorrent snapshot of my open source projects, as of 2024\n2024-01-01 #bittorrent #decentralization #helmet #open-source #experiment\n2023\nIntroducing Sqids Crystal\n2023-12-04 #crystal\nWhen static types make your code shorter\n2023-12-04 #types #crystal #ruby\nHow to do integer division in Crystal\n2023-11-26 #crystal #guide\nHow sleep mode works on the Anbernic RG35XX (with GarlicOS)\n2023-11-24 #video-games\nIntroducing NONOGRAM NIGHTS\n2023-10-31 #release #nonogram #video-games\nHow to use the JavaScript Compression Streams API to (de)compress strings\n2023-10-07 #javascript #compression #guide\nConditional Express middleware\n2023-09-29 #express #guide\nTrack flights on iOS without installing anything\n2023-09-20 #ios #guide\nHow big is a kilobyte?\n2023-09-08 #software-development #culture #data\nHow does Swift decode \"weird\" JSON numbers?\n2023-09-06 #swift #json\nShort C program that repeats a string forever\n2023-09-01 #c #release\n\"JavaScript and the farmer emoji\": my talk at the Chicago JavaScript Meetup\n2023-08-23 #unicode #javascript #video #chicago\nMy mnemonic to remember tar commands on Linux\n2023-08-19 #unix #guide #compression\nHow to set the (deprecated) valign attribute with JavaScript\n2023-08-12 #javascript #web #guide\nSubscribe with email if you want\n2023-07-31 #me\nPlay a jingle on Git commits\n2023-07-22 #git #experiment\nWhich Zelda dungeons are actually called \"dungeons\"?\n2023-07-20 #video-games #data\nProof of concept: drop-in JSON replacement that produces smaller payloads\n2023-07-19 #json #compression #performance\nA picross game in 1024 bytes\n2023-07-13 #code-golf #release #nonogram #video-games\nWhat's the largest possible PNG?\n2023-07-03 #png\nYou might not need Helmet.js\n2023-07-02 #helmet\nPython's nonstandard JSON encoding\n2023-06-19 #python #json\nCrystal: how to compute a CRC32 checksum\n2023-06-14 #crystal #guide\nGetting the UTF-16 bytes of JavaScript strings\n2023-06-10 #unicode #javascript #guide\nGetting the UTF-32 bytes of JavaScript strings\n2023-06-10 #unicode #javascript #guide\nWorking with the UTF-8 bytes of JavaScript strings\n2023-06-10 #unicode #javascript #guide\nIntroducing UTF-21, a toy character encoding\n2023-06-09 #unicode #release #experiment\nMy favorite little Markdown feature: reordering ordered lists\n2023-06-02 #markdown\nHow to compute the distance between two Cartesian points in JavaScript\n2023-05-31 #javascript #guide\nWhy does \"👩🏾‍🌾\" have a length of 7 in JavaScript?\n2023-05-27 #unicode #javascript\nConverting UIColors to CSS colors\n2023-04-29 #swift #ios #css\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of April 2023\n2023-04-02 #video-games\nNested array permutations in JavaScript\n2023-03-06 #javascript #algorithm\nThe lone developer problem\n2023-02-27 #software-development\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of February 2023\n2023-02-01 #video-games\nHow to format SQLite BLOB columns as hex\n2023-01-27 #sqlite\n9 years maintaining a sorta-popular open source package: lessons learned\n2023-01-23 #open-source #helmet\nHow I fixed broken Wi-Fi on my 2012 Mac Mini running Zorin OS\n2023-01-22 #linux #apple #guide\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of January 2023\n2023-01-03 #video-games\n2022\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of December 2022\n2022-12-13 #video-games\nRuby: how to get the MD5 hash of a file\n2022-11-02 #ruby #guide\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of November 2022\n2022-11-01 #video-games\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of September 2022\n2022-09-20 #video-games\nRe-implementing JavaScript's == in JavaScript\n2022-08-19 #javascript #experiment #spec\nConsider Node's built-in test runner\n2022-08-16 #node #testing\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of August 2022\n2022-08-03 #video-games\nThe difference between \"=\" and \"IS\" in SQLite\n2022-07-13 #sqlite\nA decade of dotfiles\n2022-05-29 #dotfiles #reflection\nDisable SwiftLint for a file\n2022-05-17 #swift\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of May 2022\n2022-05-03 #video-games\nHow to read tab-separated values (TSV) files in Python\n2022-05-02 #python #csv #guide\nRemember The Milk script to find tasks with invalid start times\n2022-04-18 #remember-the-milk #release\nEverything we know about The Legend of Zelda: Tears of the Kingdom, as of April 2022\n2022-04-05 #video-games\n2021\nWhen stringify doesn't return a string\n2021-12-12 #javascript #json\nHow to block Google's FLoC tracking with Express\n2021-04-17 #express #privacy\n2020\nShould you use semicolons in JavaScript?\n2020-06-11 #javascript #guide\nHow to reverse an array in JavaScript\n2020-04-29 #javascript #guide\n2019\nProfit, not welfare\n2019-12-05 #quote #ethics\nThe hype train\n2019-11-10 #quote #culture #software-development\nGotchas with Express query parsing (and how to avoid them)\n2019-09-14 #express #guide\n2018\nAn interview with me on JavaScript Jabber\n2018-05-25 #audio #javascript #node #helmet\n\"Fancy code is exclusionary\"\n2018-04-09 #quote #software-development\nMy entry to JS1k 2018: \"Zap\"\n2018-03-29 #code-golf #art #javascript #release\nShow only production dependencies with npm\n2018-02-01 #node #javascript #guide\nOn modern censorship\n2018-01-29 #privacy #ethics #quote #link\n2017\nImport Pinboard bookmarks into Standard Notes\n2017-11-24 #tool #release\nOn multi-paradigm languages\n2017-10-05 #quote #software-development\n\"Facebook Wins, Democracy Loses\"\n2017-09-18 #ethics #quote\nClojure's \"zero?\" has some quirks\n2017-08-29 #clojure\nPetition to open source Flash\n2017-08-04 #open-source #link\nLessons learned from last week's cyberattack\n2017-05-20 #security #quote\nThink of the journalists\n2017-05-07 #ethics #privacy #quote\nBall lightning\n2017-03-19 #link\nOn becoming comfortable with privacy violations\n2017-02-19 #ethics #privacy #quote\n\"Six other times the US has banned immigrants\"\n2017-02-04 #law #ethics\nZ-index seems so simple...\n2017-02-01 #css #link\nPrevent Homebrew from gathering analytics\n2017-01-05 #homebrew #macos #guide\n2016\nAutomatically ls when changing directories in zsh\n2016-12-26 #zsh #dotfiles\n\"If my code helped one developer at least once\"\n2016-10-14 #open-source #quote\n\"X marks gender-neutral\"\n2016-06-18 #culture\n\"The last thing we all need is for the 'data' economy to destroy another medium\"\n2016-05-10 #culture #quote\nDetect global JavaScript variables with iframes\n2016-03-27 #javascript #web #guide\nParse URLs with <a> tags in JavaScript\n2016-01-05 #web #javascript #guide\n2015\nHow to transfer Android Neko Atsume saves using adb\n2015-12-15 #video-games #guide\nDisable ESLint for a file\n2015-12-05 #eslint #javascript #guide\nThe CSP module is the largest part of Helmet\n2015-11-21 #helmet #security #node\nVim's :x command: like :wq but better\n2015-10-04 #vim\nOnly customize where you are unusual\n2015-09-06 #software-development #quote\nProgramming languages and their ecosystems\n2015-07-19 #software-development #ruby #quote\nHow to clear all inline styles from an HTML element\n2015-05-05 #web #css #javascript #guide\nOverwriting document.head in strict mode on Safari\n2015-04-19 #web #safari\nPietime, my entry to JS1k 2015\n2015-04-04 #code-golf #art #javascript #release\n\"This Incredible Hospital Robot Is Saving Lives. Also, I Hate It\"\n2015-02-19 #quote\nScrape Delicious bookmarks with 3 command-line tools\n2015-01-19 #guide\nSkip the header of a file with Python's CSV reader\n2015-01-10 #python #csv\n\"Raising the wall\" for open source\n2015-01-09 #quote #open-source\nInstall a list of Atom packages from a file\n2015-01-08 #guide\n2014\nThoughts on CoffeeScript after ECMAScript 6\n2014-12-05 #coffeescript #javascript\nDisable the beer emoji in Homebrew\n2014-12-02 #homebrew #macos #guide\nThe Internet no longer a wild west\n2014-08-17 #web #culture #quote\nA deep dive into Express's static middleware\n2014-07-29 #express #node #guide\nMostly on screens, at scales unimaginable\n2014-07-24 #culture #video-games\nA quick romp through default values in CoffeeScript\n2014-07-21 #coffeescript\nInstall Node Version Manager without the source line\n2014-06-22 #node #guide\n\"About Feminism\"\n2014-05-23 #sexism #culture\n\"Writing the code was typically less than half the problem\"\n2014-05-19 #quote #software-development\nThe Internet as public infrastructure\n2014-04-29 #quote #ethics\n\"We Are All Intelligence Officers Now\"\n2014-04-06 #privacy #quote\nStrangecoin\n2014-03-30 #quote #link\nDealing with the User-Agent of Python's Requests library\n2014-03-19 #python\n\"Is jQuery too big for mobile?\"\n2014-03-10 #jquery #performance #quote\nHow to publish a simple package to npm\n2014-03-07 #node #guide\nUnderstanding Express.js\n2014-03-05 #express #node #guide\nDisable JSHint for a file\n2014-02-22 #javascript #guide\nIntroducing cyborg.txt: robots.txt utilities for Node\n2014-02-20 #release #node #javascript\n2013\nProteus\n2013-12-29 #video-games\nThe Underhanded C Contest\n2013-12-04 #c #link\nTwo-factor authentication list\n2013-12-03 #release #security\nAn experiment: syntax highlighting for the English language\n2013-11-18 #experiment #writing #design\nOrigin: my entry to js13kgames 2013\n2013-10-01 #release #code-golf #javascript #video-games\nVisualizing cracking AES-256\n2013-08-18 #quote #security\nGribbagrab your resources\n2013-08-12 #release #web #javascript #css\nFour CSS tips that have changed me\n2013-08-01 #css #web\nVim's dw_red for terminal Vim\n2013-07-23 #vim\n\"JavaScript folks are really nuts\"\n2013-07-15 #quote #web #javascript\nUnderstanding Express.js version 3\n2013-05-29 #express #node #guide\nConcept: making asynchronous loading look synchronous\n2013-05-12 #experiment #javascript #firefox\nResources from my 6th semester at the University of Michigan\n2013-04-28 #university-of-michigan #study-guide #algorithm\nThe intended purposes of JavaScript and the Internet\n2013-04-13 #quote #web #javascript\n\"All magic comes with a price\"\n2013-03-30 #quote #software-development\nVim's killer feature\n2013-03-27 #quote #vim\nBackbone.js is larger than you think\n2013-03-20 #backbone #performance\nUniversity of Michigan students can use Virtual Sites to do cross-browser testing\n2013-01-30 #university-of-michigan\n\"Using the web in 2013 means using JavaScript\"\n2013-01-10 #quote #web #javascript\nHTML and the \"living standard\"\n2013-01-09 #quote #web\nCircles 1K\n2013-01-04 #release #code-golf #javascript #art\nWhy should AI be humanlike?\n2013-01-03 #ai #quote\n2012\nAre we shook up?\n2012-12-31 #quote\nResources from my 5th semester at the University of Michigan\n2012-12-17 #university-of-michigan #study-guide #c #c++ #algorithm #tool #coffeescript\nWhy GNU grep is fast\n2012-12-06 #quote #performance\nSmoothing out setTimeout in CoffeeScript\n2012-10-14 #coffeescript\n\"Ramadan code\"\n2012-10-04 #quote #software-development #culture\nDetect the Vimium Chrome extension\n2012-09-22 #web #vim\nUnder 1% of English words are alphabetical\n2012-09-11 #experiment #c #coffeescript\n\"Technology itself does not transform anything\"\n2012-09-05 #quote #culture\n\"10 Timeframes\"\n2012-08-20 #software-development #quote #link\nPrivate members in CoffeeScript\n2012-08-15 #coffeescript\nFirst impressions of Rails\n2012-08-13 #rails\nJavaScript/CoffeeScript sleepsort\n2012-08-12 #javascript #coffeescript #algorithm #hack\nOn my internship at UniversityNow\n2012-08-08 #reflection #work #backbone #rails\nMeeting the computer halfway\n2012-08-02 #quote #software-development\nNicer committing with Vim\n2012-08-02 #vim #git\nStart Vim and temporarily ignore your .vimrc\n2012-07-31 #vim\nTimeline of sexist incidents in geek communities\n2012-07-07 #link #sexism #culture\nHardware Vim petal\n2012-07-02 #vim #link\nCoffeeScript's existential operator\n2012-07-01 #coffeescript\nAirplane mode\n2012-06-30 #quote #culture\nCancel a git-flow branch\n2012-06-27 #git #guide\nMake console methods work in Internet Explorer\n2012-06-19 #javascript #coffeescript #web #internet-explorer\nApple and the majority\n2012-06-15 #quote #apple\nIs it worth cheating Caltrain?\n2012-06-09 #data #experiment\nWeek three of Vim\n2012-05-30 #vim\nMaurice Sendak\n2012-05-10 #quote #culture\nThe most important decisions are non-technical\n2012-05-07 #quote #software-development\nLinkedIn's app is HTML5\n2012-05-04 #quote #link #web\nCaesar shift in JavaScript and CoffeeScript\n2012-05-03 #javascript #coffeescript\nWhat the Google-Oracle trials mean for coders\n2012-05-02 #quote #link #law\nDoing without jQuery\n2012-04-30 #jquery #web #javascript #guide\nDouglas Crockford on making JSON a standard\n2012-04-30 #quote #json\nResources from my 4th semester at the University of Michigan\n2012-04-06 #university-of-michigan #study-guide\nQuietly awesome\n2012-04-04 #link #quote #culture\nPapyrus Watch\n2012-03-23 #link #design #font\nThe Midwest Mentality\n2012-03-22 #link #quote #culture #chicago\n\"Inventing on principle\"\n2012-03-20 #link #quote #software-development\n\"We actually think people have to pay for content.\"\n2012-03-16 #link #quote\nEvil sum and average of a JavaScript array\n2012-03-16 #javascript #hack\nNintendo's changing logo\n2012-03-15 #video-games #design\nPost-active state for links\n2012-03-13 #css #javascript #web\nI love CoffeeScript\n2012-02-13 #coffeescript\nRemove one element by index from JavaScript array\n2012-01-14 #javascript #guide\nResources from my 3rd semester at the University of Michigan\n2012-01-11 #university-of-michigan #c++ #study-guide\n2011\n\"Traditional\" for loops in CoffeeScript\n2011-10-11 #coffeescript\nThe comprehensive guide to disabling selection on the web\n2011-08-26 #web #javascript #guide\nNewline necessary at the end of JavaScript files?\n2011-08-11 #javascript\nDetect the RockMelt browser from JavaScript\n2011-06-07 #javascript #web #guide\nRandomly generate either -1 or 1 in JavaScript\n2011-06-01 #javascript #guide\nHow do I Jasmine: a tutorial\n2011-05-03 #javascript #testing #guide\nOld Notational Velocity icon\n2011-04-15 #macos #resource\nUse text-to-speech if you can't proofread aloud\n2011-03-25 #writing #productivity\nOnly organize when you cannot search\n2011-03-08 #productivity\nEuler method calculator in C++\n2011-02-15 #c++\n2010\nA mindless to-do list\n2010-06-17 #productivity\nHow to: play custom Portal maps on macOS\n2010-05-13 #guide #video-games\nAnd the blog begins\n2010-05-08 #me"
+}

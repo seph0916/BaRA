@@ -1,0 +1,903 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/4094156.jpg?imageId=4094156&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5242044.jpg?imageId=5242044&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5241003.jpg?imageId=5241003&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5231225.jpg?imageId=5231225&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=28.34&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239018.jpg?imageId=5239018&panox=0.00&panoy=20.83&panow=100.00&panoh=71.67&heightx=27.39&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238750.jpg?imageId=5238750&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238177.jpg?imageId=5238177&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238497.jpg?imageId=5238497&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227025.jpg?imageId=5227025&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220683.jpg?imageId=5220683&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238312.jpg?imageId=238312&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684335.jpg?imageId=1684335&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257743.jpg?imageId=257743&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229635.jpg?imageId=5229635&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/251667.jpg?imageId=251667&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253353.jpg?imageId=253353&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257732.jpg?imageId=257732&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258096.jpg?imageId=258096&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/246398.jpg?imageId=246398&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254497.jpg?imageId=254497&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228938.jpg?imageId=228938&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255362.jpg?imageId=255362&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257414.jpg?imageId=257414&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225246.jpg?imageId=5225246&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094104.jpg?imageId=4094104&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229813.jpg?imageId=229813&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230051.jpg?imageId=5230051&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229318.jpg?imageId=5229318&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220889.jpg?imageId=5220889&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230142.jpg?imageId=5230142&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224519.jpg?imageId=5224519&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227581.jpg?imageId=5227581&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247090.jpg?imageId=247090&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231897.jpg?imageId=231897&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5228119.jpg?imageId=5228119&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5223737.jpg?imageId=5223737&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244935.jpg?imageId=244935&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225941.jpg?imageId=225941&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221916.jpg?imageId=5221916&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257414.jpg?imageId=257414&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225623.jpg?imageId=5225623&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257443.jpg?imageId=257443&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/263294.jpg?imageId=263294&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227613.jpg?imageId=227613&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5228274.jpg?imageId=5228274&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230821.jpg?imageId=230821&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254681.jpg?imageId=254681&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244338.jpg?imageId=244338&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/167743.jpg?imageId=167743&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229926.jpg?imageId=229926&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227025.jpg?imageId=5227025&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253343.jpg?imageId=253343&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253705.jpg?imageId=253705&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229045.jpg?imageId=229045&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259721.jpg?imageId=259721&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229375.jpg?imageId=229375&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229666.jpg?imageId=5229666&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259701.jpg?imageId=259701&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253264.jpg?imageId=253264&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094159.jpg?imageId=4094159&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/223789.jpg?imageId=223789&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229188.jpg?imageId=5229188&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227304.jpg?imageId=5227304&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/186496.jpg?imageId=186496&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255884.jpg?imageId=255884&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226499.jpg?imageId=5226499&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5223241.jpg?imageId=5223241&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222967.jpg?imageId=5222967&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226213.jpg?imageId=226213&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229362.jpg?imageId=229362&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 204,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/networks#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Iran hints it could interfere with submarine cables in the Strait of Hormuz\n\nThreatens unspecified ‘fees’ and warns of economic consequences – yet only major kinetic action could stop data flows entirely",
+            "href": "https://www.theregister.com/networks/2026/05/19/iran-hints-it-could-interfere-with-submarine-cables-in-the-strait-of-hormuz/5242319"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/20261/"
+        },
+        {
+            "text": "Europe tests laser links as satellite comms outgrow radio\n\nGreek mountaintop ground station aims infrared beams at CubeSats in ESA-backed optical networking trial",
+            "href": "https://www.theregister.com/networks/2026/05/18/europe-tests-laser-links-as-satellite-comms-outgrow-radio/5242012"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/202615/"
+        },
+        {
+            "text": "Utah tells porn sites to take the P out of VPNs, and it's their fault that they can't\n\nGovernments can't touch VPNs technically or commercially. The mess they'll make if they try will be off the scale",
+            "href": "https://www.theregister.com/columnists/2026/05/18/utah-tells-porn-sites-to-take-the-p-out-of-vpns-and-its-their-fault-that-they-cant/5240978"
+        },
+        {
+            "text": "65",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/20264/"
+        },
+        {
+            "text": "Cisco to fire 4,000 staff and generously give them free training – on Cisco\n\nReducing memory requirements to control costs in a new wave of kit",
+            "href": "https://www.theregister.com/networks/2026/05/14/cisco-to-fire-4000-staff-and-generously-give-them-free-training-on-cisco/5240125"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/20264/"
+        },
+        {
+            "text": "FCC walks back router update ban before it bricks America's network security\n\nQuietly extends waivers to 2029 after realizing it was about to leave millions of devices unpatched",
+            "href": "https://www.theregister.com/networks/2026/05/12/fcc-walks-back-router-update-ban-before-it-bricks-americas-network-security/5238938"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202618/"
+        },
+        {
+            "text": "Lawsuit brought by former store operators missing from Vodafone results\n\nFormer franchise operators claim telco unfairly cut commission and other payments",
+            "href": "https://www.theregister.com/networks/2026/05/12/lawsuit-brought-by-former-store-operators-missing-from-vodafone-results/5238690"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202613/"
+        },
+        {
+            "text": "Britain pays Starlink millions despite Musk's calls to overthrow UK government\n\nSatellite service supports troops and Ukraine, but payments may raise eyebrows after boss's political broadsides",
+            "href": "https://www.theregister.com/networks/2026/05/12/britain-pays-starlink-millions-despite-musks-calls-to-overthrow-uk-government/5238122"
+        },
+        {
+            "text": "47",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/20264/"
+        },
+        {
+            "text": "Veteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6\n\nCritics are not convinced this plan to add an ‘area code’ based on ASNs has much merit",
+            "href": "https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474"
+        },
+        {
+            "text": "206",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/20262/"
+        },
+        {
+            "text": "Akamai surges on big LLM deal as Cloudflare dims\n\nGood times, bad times",
+            "href": "https://www.theregister.com/networks/2026/05/09/akamai-surges-on-big-llm-deal-as-cloudflare-dims/5237552"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/202620/"
+        },
+        {
+            "text": "HPE drops first Juniper x Aruba collab – self-driving Wi-Fi\n\nNetAdmins can stay in the loop while they learn to trust AI to tackle some scutwork",
+            "href": "https://www.theregister.com/networks/2026/05/08/hpe-drops-first-juniper-x-aruba-collab-self-driving-wi-fi/5235463"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/2026/"
+        },
+        {
+            "text": "It's always DNS: Denic says sorry for crashing Germany's internet\n\nMajor .de domains experienced hours-long outage after registry distributed faulty signatures",
+            "href": "https://www.theregister.com/networks/2026/05/06/denic-sorry-for-dnssec-error-that-crashed-germanys-internet/5230683"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/20266/"
+        },
+        {
+            "text": "Astera speaks softly and carries a big switch\n\nHigh-speed connectivity without NVLink baggage",
+            "href": "https://www.theregister.com/software/2026/05/05/astera-speaks-softly-and-carries-a-big-switch/5219859"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/nvlink_astera_big_swich/"
+        },
+        {
+            "text": "Vodafone dials up full control of joint venture with Three in £4.3B deal\n\nCK Hutchison takes early cash as UK mobile tie-up moves ahead of schedule",
+            "href": "https://www.theregister.com/on-prem/2026/05/05/vodafone-dials-up-full-control-of-vodafonethree/5221972"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/vodafone_three_deal/"
+        },
+        {
+            "text": "Inside Amazon Web Services' plan to make networking disappear\n\nThe Register gets a look inside AWS' networking lab in Cupertino",
+            "href": "https://www.theregister.com/on-prem/2026/05/04/aws-networking-lab-tour-making-networking-disappear/5228826"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/05/04/amazon_web_services_cupertino_networking_lab/"
+        },
+        {
+            "text": "Hope your holiday was horrid: You botched the last thing you did before leaving\n\nThat box-full-of-old-tech-you-should-probably-have-thrown-out-but-kept-just-in-case got a techie in trouble",
+            "href": "https://www.theregister.com/on-prem/2026/05/04/techie-botched-the-last-thing-they-did-before-a-holiday/5227342"
+        },
+        {
+            "text": "86",
+            "href": "https://forums.theregister.com/forum/all/2026/05/04/who_me/"
+        },
+        {
+            "text": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet\n\nNetworking kit arrives just in time for Nvidia's 1.6 Tbps ConnectX-9 NICs",
+            "href": "https://www.theregister.com/on-prem/2026/04/30/celestica-crams-64-16-tbps-ports-into-a-single-switch/5229339"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/"
+        },
+        {
+            "text": "Cloudflare says autocrats, wars and elections caged the internet in Q1\n\nIran went dark twice, AWS got droned, oh and TalkTalk broke something it refuses to talk about",
+            "href": "https://www.theregister.com/on-prem/2026/04/29/cloudflare-autocrats-wars-and-votes-caged-the-net-in-q1/5220583"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/autocrats_war_elections_caused_internet/"
+        },
+        {
+            "text": "Wind Telecom Dominican Republic and ZTE join forces to accelerate smart home innovation\n\nElevating residential connectivity with AI-driven network optimization and secure cloud-based home monitoring solutions",
+            "href": "https://www.theregister.com/on-prem/2026/04/29/wind-telecom-and-zte-partner-for-smart-home-innovation/5222949"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/wind-telecom-zte-partner-for-smart-home-innovation/"
+        },
+        {
+            "text": "ZTE and XLSMART officially launch Innovation Center in Jakarta, accelerating 5G-advanced and AI readiness for Indonesia\n\nDriving cross-sector digital transformation through collaborative 5G-A research and AI-powered network solutions",
+            "href": "https://www.theregister.com/on-prem/2026/04/29/zte-xlsmart-launch-jakarta-ai-5g-a-innovation-center/5225063"
+        },
+        {
+            "text": "GoDaddy customer claims registrar transferred 27-year-old domain without any security checks\n\n32 phone calls, 17 email chains, a 5-day ordeal, and no help during the daddy of all stuffups, claim those affected",
+            "href": "https://www.theregister.com/on-prem/2026/04/29/non-profits-godaddy-nightmare-and-the-it-chaos-that-ensued/5226239"
+        },
+        {
+            "text": "57",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/godaddy_megagaffe_wrongly_transferred_27yearold/"
+        },
+        {
+            "text": "When robots join the race: 5G-A powers a new kind of marathon\n\nHuman and humanoid runners share the track as next-gen connectivity underpins real-time AI performance",
+            "href": "https://www.theregister.com/on-prem/2026/04/29/5g-a-powers-a-new-kind-of-marathon/5226158"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/when_robots_join_race/"
+        },
+        {
+            "text": "Two men charged over series of arson attacks on 5G masts\n\nPair accused of creating literal flame war as bonkers conspiracy theories grow",
+            "href": "https://www.theregister.com/on-prem/2026/04/28/two-men-charged-over-series-of-arson-attacks-on-5g-masts/5221305"
+        },
+        {
+            "text": "97",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/5g_belfast_arrests/"
+        },
+        {
+            "text": "US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit\n\nSilicon often from US, but the kit from APAC and elsewhere",
+            "href": "https://www.theregister.com/on-prem/2026/04/24/fcc-adds-mobile-hotspots-to-router-ban/5229052"
+        },
+        {
+            "text": "65",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/fcc_does_a_doubletake_adds/"
+        },
+        {
+            "text": "ZTE reports first-quarter revenue of RMB 35.0 billion, up 6% YoY, with computing revenue mix rising to 27%\n\nAI infrastructure and international growth offset domestic carrier shifts as \"Connectivity + Computing\" strategy takes hold",
+            "href": "https://www.theregister.com/on-prem/2026/04/24/zte-q1-revenue-up-6-to-rmb-35b-computing-mix-hits-27/5225212"
+        },
+        {
+            "text": "To fix this Wi-Fi network, we'll need a crane\n\nWon't somebody think of the children not being hit by a load of building materials?",
+            "href": "https://www.theregister.com/on-prem/2026/04/24/to-fix-this-wi-fi-network-well-need-a-crane/5224214"
+        },
+        {
+            "text": "126",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/on_call/"
+        },
+        {
+            "text": "TUIT and ZTE unveil new initiatives for student internships and tech employment\n\nEmpowering Uzbekistan’s digital future through international hackathons, AI integration, and advanced internship pathways",
+            "href": "https://www.theregister.com/on-prem/2026/04/23/tuit-zte-launch-student-internship-and-tech-job-programs/5227809"
+        },
+        {
+            "text": "Phone-to-satellite use goes into orbit, growing 25% in 8 months\n\nStill only a tiny slice of mobile activity overall",
+            "href": "https://www.theregister.com/on-prem/2026/04/21/phone-to-satellite-services-jump-25-in-8-months/5229568"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/phone_to_satellite_services_jump_25_percent/"
+        },
+        {
+            "text": "ZTE highlights path to broadband monetization at FTTH conference 2026\n\nUrges operators to shift focus from traditional network metrics to managing user experience and customer behavior",
+            "href": "https://www.theregister.com/on-prem/2026/04/17/zte-highlights-path-to-broadband-monetization-at-ftth-conference-2026/5228803"
+        },
+        {
+            "text": "Support tech caught by 'Technician Aura': the bug that only hides when you're watching\n\nAll that kit, and the fix was simply stepping aside",
+            "href": "https://www.theregister.com/on-prem/2026/04/17/technician-aura-the-bugs-that-flee-when-you-arrive/5220853"
+        },
+        {
+            "text": "105",
+            "href": "https://forums.theregister.com/forum/all/2026/04/17/on_call/"
+        },
+        {
+            "text": "IOWN Global Forum targets datacenter interconnects to scatter AI infrastructure\n\nFast WAN consortium thinks neoclouds are ripe for hookups",
+            "href": "https://www.theregister.com/on-prem/2026/04/17/iown-targets-datacenter-interconnects-to-spread-ai-infra/5229901"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/17/iown_use_cases/"
+        },
+        {
+            "text": "Cisco Wi-Fi boxes are filling their disks with 5MB of undeletable data every day\n\nFix for critical flaw is an OS update you may not be able to make because the junk data uses all memory",
+            "href": "https://www.theregister.com/on-prem/2026/04/17/cisco-wi-fi-boxes-writing-5mb-of-undeletable-data-daily/5223989"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/04/17/cisco_wifi_ap_useless_data/"
+        },
+        {
+            "text": "IPv6 carried half of internet traffic – for one day, according to Google\n\nWe're not half way there, we're still livin' on a prayer",
+            "href": "https://www.theregister.com/on-prem/2026/04/17/google-ipv6-carried-half-of-internet-traffic-for-one-day/5227544"
+        },
+        {
+            "text": "95",
+            "href": "https://forums.theregister.com/forum/all/2026/04/17/ipv6_50_percent_google/"
+        },
+        {
+            "text": "Iran has something America can only dream of: cheap broadband\n\nShame about the internet blackouts and airstrikes",
+            "href": "https://www.theregister.com/on-prem/2026/04/16/iran-has-something-the-us-can-only-dream-of-cheap-broadband/5229061"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/iran_cheapest_broadband/"
+        },
+        {
+            "text": "Cops hand Motorola £25M no-bid deal to keep 2000-era radios alive\n\nBiz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget",
+            "href": "https://www.theregister.com/on-prem/2026/04/16/cops-hand-motorola-25m-to-keep-2000-era-radios-alive/5227951"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/motorola_airwave/"
+        },
+        {
+            "text": "QUIC will soon be as important as TCP – but it's vastly different\n\nDeciphering the third transport protocol's four RFCs is a task to rival the proverbial blind man trying to understand an elephant",
+            "href": "https://www.theregister.com/on-prem/2026/04/16/quic-will-soon-be-as-important-as-tcp/5227423"
+        },
+        {
+            "text": "67",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/quic_explained/"
+        },
+        {
+            "text": "Bullet train upgrade brings 5G windows and noise-cancelling cabins to Japan\n\nPrivate Shinkansen suites are pulling up to the station in October",
+            "href": "https://www.theregister.com/on-prem/2026/04/16/bullet-trains-gain-5g-windows-and-noise-cancelling-cabins/5223555"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/jr_central_shinkansen_tech/"
+        },
+        {
+            "text": "Not all networks can handle AI traffic – and experts are sounding alarms\n\nY'all been focusing on compute and forgot about how the data moves around",
+            "href": "https://www.theregister.com/on-prem/2026/04/15/networks-not-ready-for-the-challenges-of-ai-traffic/5227572"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/networks_not_ready_for_ai_challenges/"
+        },
+        {
+            "text": "Amazon pays $11.5B to satisfy satellite-envy while cowering in Musk's shadow\n\nDeal only comes with 24 operational sats, but also an Apple deal, spectrum licenses, and plenty of IP",
+            "href": "https://www.theregister.com/on-prem/2026/04/14/amazon-pays-115b-for-globalstar-to-satisfy-satellite-envy/5224294"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/amazon_globalstar_satellite_envy/"
+        },
+        {
+            "text": "ZTE and CIMB expand strategic partnership to support 5G deployment and digital infrastructure across ASEAN\n\nLeveraging tech leadership and strategic financing to accelerate 5G deployment and bridge the digital divide across Southeast Asia",
+            "href": "https://www.theregister.com/on-prem/2026/04/14/zte-cimb-partner-to-scale-5g-across-asean/5221228"
+        },
+        {
+            "text": "Electronics industry says FCC's foreign-made router policy is a bit of a mesh\n\nTrade group warns onshoring demands will leave Americans stuck with older gear",
+            "href": "https://www.theregister.com/on-prem/2026/04/10/fcc-foreign-router-policy-may-snarl-wi-fi-7-rollout/5227175"
+        },
+        {
+            "text": "45",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/gea_fcc_routers/"
+        },
+        {
+            "text": "South Korea introduces universal basic mobile data access\n\nEveryone gets unlimited 400 Kbps access, oldies get expanded caps, and leaky telcos get their social license back",
+            "href": "https://www.theregister.com/on-prem/2026/04/10/south-korea-introduces-universal-basic-mobile-data-access/5225273"
+        },
+        {
+            "text": "69",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/south_korea_data_access_universal/"
+        },
+        {
+            "text": "Google wants more Intel inside ... its datacenters, taps Chipzilla for more SmartNICs\n\nCustom ASIC biz now running at a $1B annual pace for Intel",
+            "href": "https://www.theregister.com/off-prem/2026/04/09/google-taps-intel-for-another-round-of-custom-network-chips/5224663"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/google_intel_ipu/"
+        },
+        {
+            "text": "ZTE powers Africa's digital evolution with intelligent innovations at GITEX Africa 2026\n\nFrom 5G-A to AI-powered terminals: empowering Africa’s digital future with sustainable, end-to-end infrastructure",
+            "href": "https://www.theregister.com/on-prem/2026/04/09/ztes-digital-innovations-at-gitex-africa-2026/5223254"
+        },
+        {
+            "text": "Uzbekistan and ZTE forge strategic partnership to accelerate digital transformation\n\nZTE and Ministry of Digital Technologies sign MoU at MWC 2026 to modernize telecom infrastructure and explore 6G, Wi-Fi 7/8, and satellite innovations",
+            "href": "https://www.theregister.com/on-prem/2026/04/07/uzbekistan-and-zte-partner-to-drive-digital-transformation/5222931"
+        },
+        {
+            "text": "ZTE launches regional service center at Uzbekistan's IT park to boost IT exports and create high-skilled jobs\n\nNew hub at IT Park Uzbekistan to drive regional digital transformation, expand IT exports, and foster high-tech talent across Central Asia and Europe",
+            "href": "https://www.theregister.com/on-prem/2026/04/07/zte-launches-regional-service-center-at-uzbekistans-it-park/5227263"
+        },
+        {
+            "text": "ZTE empowers MiFibra to accelerate into the All-Optical 10G era\n\nLarge-scale XGS-PON deployment drives 5 Gbps services and multiple Ookla Speedtest Awards for Peru’s top ISP",
+            "href": "https://www.theregister.com/on-prem/2026/04/07/zte-powers-mifibras-leap-into-the-all-optical-10g-era/5222894"
+        },
+        {
+            "text": "No-Nvidia interconnect club delivers 2.0 spec before v1.0 silicon ships\n\nUALink splits work on physical layer and protocol specs to speed things up, literally and metaphorically",
+            "href": "https://www.theregister.com/on-prem/2026/04/07/ualink-delivers-20-spec-before-v-10-silicon-ships/5228485"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/07/ualink_2_specs/"
+        },
+        {
+            "text": "US military contractor open sources tool for validating hidden communications networks\n\nMaude-HCS from RTX (formerly Raytheon) helps model and validate hidden communication systems",
+            "href": "https://www.theregister.com/on-prem/2026/04/02/maude-hcs-helps-model-and-validate-covert-network-designs/5229465"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/04/02/maude_hcs_rtx_raytheon_hcn/"
+        },
+        {
+            "text": "AI search is atomizing our information, warns government digital designer\n\nWe must design expecting much of what we publish will be reinterpreted by 'systems we don't control'",
+            "href": "https://www.theregister.com/on-prem/2026/04/02/ai-search-atomizes-our-information-warns-govt-designer/5223212"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/04/02/ai_search_is_atomising_content/"
+        },
+        {
+            "text": "FCC says it's making it easier for US telcos to ditch legacy lines\n\nBut critics say stopping some engineering tests is not the sort of corner you want to cut",
+            "href": "https://www.theregister.com/on-prem/2026/03/30/fcc-making-it-easier-for-us-telcos-to-ditch-legacy-lines/5222599"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/03/30/fcc_copper_line_rules/"
+        },
+        {
+            "text": "ZTE and Kcell sign strategic MoU to boost terminal ecosystem and FWA services in Kazakhstan\n\nZTE and Kcell aim to bridge Kazakhstan’s connectivity gap",
+            "href": "https://www.theregister.com/on-prem/2026/03/30/zte-kcell-sign-mou-to-boost-fwa-in-kazakhstan/5226669"
+        },
+        {
+            "text": "Explainer: Self-driving networks\n\nHere’s how your next network will look after itself",
+            "href": "https://www.theregister.com/on-prem/2026/03/30/explainer-self-driving-networks/5221309"
+        },
+        {
+            "text": "Advancing smarter and more inclusive digital connectivity for Indonesia, Telkomsel and ZTE strengthen collaboration at MWC Barcelona 2026\n\nEdge compute and AI get the spotlight as operators grapple with scale and service quality",
+            "href": "https://www.theregister.com/on-prem/2026/03/27/zte-telkomsel-boost-indonesia-connectivity-at-mwc/5229552"
+        },
+        {
+            "text": "ZTE achieves multiple awards at 2026 Lightwave Innovation Reviews, leading global AI optical network innovation\n\nFull-suite wins underscore ZTE’s leadership in AI-driven optical and broadband innovation",
+            "href": "https://www.theregister.com/on-prem/2026/03/25/zte-wins-multiple-2026-lightwave-innovation-awards/5220241"
+        },
+        {
+            "text": "Country that put backdoors into Cisco routers to spy on world bans foreign routers\n\nUnfortunately, there aren't many options unless you're Starlink",
+            "href": "https://www.theregister.com/on-prem/2026/03/24/us-bans-any-new-consumer-grade-routers-not-made-in-america/5228032"
+        },
+        {
+            "text": "189",
+            "href": "https://forums.theregister.com/forum/all/2026/03/24/fcc_foreign_routers/"
+        },
+        {
+            "text": "SpaceX hits back at Amazon in orbital datacenter dispute\n\nIn space, no one can hear you being petty",
+            "href": "https://www.theregister.com/on-prem/2026/03/23/spacex-hits-back-at-amazon-in-orbital-datacenter-dispute/5223018"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2026/03/23/spacex_amazon_orbital_datacenters/"
+        },
+        {
+            "text": "ZTE HI-OTN achievements earn dual top-scored paper recognition at OFC 2026\n\nDual OFC honors highlight breakthroughs in ultra-wideband optics and distributed AI computing",
+            "href": "https://www.theregister.com/on-prem/2026/03/23/zte-hi-otn-wins-dual-top-paper-awards-at-ofc-2026/5229464"
+        },
+        {
+            "text": "Herotel brings 10Gbps-capable fibre to South African townships, with 3,000 customers already connected and 1 million homes to follow\n\nEnabling schools, homes, and businesses to thrive with future-ready fibre",
+            "href": "https://www.theregister.com/on-prem/2026/03/18/herotel-launches-10gbps-fibre-for-south-african-townships/5228932"
+        },
+        {
+            "text": "Iran's 'chosen users' get 'privileged access' despite internet blackout for masses\n\nCivilians relying on Dutch shortwave radio broadcast for outside information",
+            "href": "https://www.theregister.com/on-prem/2026/03/17/irans-internet-blackout-enters-day-18/5227479"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/03/17/iran_internet_blackout/"
+        },
+        {
+            "text": "Switzerland built a secure alternative to BGP. The rest of the world hasn't noticed yet\n\nSCION: Proven in banking and healthcare, slow to spread everywhere else",
+            "href": "https://www.theregister.com/on-prem/2026/03/17/switzerland-built-an-alternative-to-bgp-nobody-noticed/5229854"
+        },
+        {
+            "text": "73",
+            "href": "https://forums.theregister.com/forum/all/2026/03/17/switzerland_bgp_alternative/"
+        },
+        {
+            "text": "AFRINIC accuses litigant of trying to ‘paralyse’ it\n\nA 'web of litigation'",
+            "href": "https://www.theregister.com/on-prem/2026/03/13/afrinic-says-litigant-is-trying-to-paralyse-it/5227601"
+        },
+        {
+            "text": "29",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/afrinic_strikes_back_at_litigant/"
+        },
+        {
+            "text": "Openreach: Fiber can sniff out leaky water pipes – if anyone bothers fixing them\n\nDistributed Acoustic Sensing tech uses broadband cables to pinpoint plumbing faults",
+            "href": "https://www.theregister.com/on-prem/2026/03/13/openreach-says-fiber-can-now-save-water-by-detecting-leaks/5228989"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/openreach_fiber_water_leaks/"
+        },
+        {
+            "text": "Fresh indie broadband provider incoming as Google's fiber biz and Stonepeak’s Astound merge\n\nAlphabet to remain 'significant minority shareholder'",
+            "href": "https://www.theregister.com/on-prem/2026/03/12/googles-fiber-biz-and-stonepeaks-astound-broadband-merge/5227113"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/03/12/googles_fiber_biz_and_stonepeaks/"
+        },
+        {
+            "text": "Lightmatter says latest photonics will slash datacenter fiber bills in half\n\nLatest optical engine may not be CPO, but it's still better than pluggables",
+            "href": "https://www.theregister.com/on-prem/2026/03/11/lightmatter-says-latest-photonics-will-halve-dc-fiber-bill/5226380"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/03/11/lightmatter_passge_l20_fiber/"
+        },
+        {
+            "text": "Scottish broadband service looking a bit dreich, says UK outage study\n\nSubscribers north of the border suffer the most long-running failures per £100 spent",
+            "href": "https://www.theregister.com/on-prem/2026/03/11/uk-broadband-outage-data-shows-scotland-suffers-the-most/5225449"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/03/11/uk_broadband_outage_data/"
+        },
+        {
+            "text": "China Mobile and ZTE jointly launch Scale-Across (GSE-DCI) solution, solving pain points of ultra-large-scale computing power coordination\n\nChina Mobile and ZTE enable high-bandwidth, low-latency cross-domain AI computing",
+            "href": "https://www.theregister.com/on-prem/2026/03/11/china-mobile-zte-launch-gse-dci-to-boost-ai-compute/5226472"
+        },
+        {
+            "text": "ZTE, China Telecom and R&J win the GSMA GLOMO \"Best Event Activation\" Award\n\nAward-winning 5G-A live streaming solution delivers stable, high-definition multi-camera coverage for concerts",
+            "href": "https://www.theregister.com/on-prem/2026/03/11/zte-china-telecom-rj-win-gsma-glomo-award/5223014"
+        },
+        {
+            "text": "AIR Net advances highly autonomous networks with full-stack Agentic AI\n\nZTE’s AIR Net leverages full-stack Agentic AI, digital twins and large models to accelerate the evolution toward L4 autonomous networks and value-driven operations",
+            "href": "https://www.theregister.com/on-prem/2026/03/11/air-net-advances-autonomous-networks-with-agentic-ai/5221923"
+        },
+        {
+            "text": "LTT and ZTE sign MoU to accelerate digital transformation and network evolution in Libya at MWC Barcelona 2026\n\nStrategic partnership aims to expand 4G/5G networks, accelerate digital services, and build a sustainable connectivity foundation for Libya’s digital economy",
+            "href": "https://www.theregister.com/on-prem/2026/03/11/ltt-and-zte-sign-mou-for-libyas-digital-transformation/5228411"
+        },
+        {
+            "text": "ZTE and China Telecom unveil DGN innovation solution to forge differentiated connectivity foundation for mobile AI era\n\nAI-powered DGN integrates native intelligence and distributed MIMO to deliver differentiated connectivity and support emerging multi-modal AI services",
+            "href": "https://www.theregister.com/on-prem/2026/03/11/zte-and-china-telecom-unveil-dgn-for-mobile-ai-era/5219740"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/networks?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 13388,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nNetworks news | The Register\nON-PREM > NETWORKS\nLatest news and analysis of enterprise networking and internet infrastructure technology\nIran hints it could interfere with submarine cables in the Strait of Hormuz\n\nThreatens unspecified ‘fees’ and warns of economic consequences – yet only major kinetic action could stop data flows entirely\n\n2 days|15\nEurope tests laser links as satellite comms outgrow radio\n\nGreek mountaintop ground station aims infrared beams at CubeSats in ESA-backed optical networking trial\n\n3 days|13\nUtah tells porn sites to take the P out of VPNs, and it's their fault that they can't\n\nGovernments can't touch VPNs technically or commercially. The mess they'll make if they try will be off the scale\n\n3 days|65\nCisco to fire 4,000 staff and generously give them free training – on Cisco\n\nReducing memory requirements to control costs in a new wave of kit\n\n1 week|14\nFCC walks back router update ban before it bricks America's network security\n\nQuietly extends waivers to 2029 after realizing it was about to leave millions of devices unpatched\n\n1 week|24\nLawsuit brought by former store operators missing from Vodafone results\n\nFormer franchise operators claim telco unfairly cut commission and other payments\n\n1 week|1\nBritain pays Starlink millions despite Musk's calls to overthrow UK government\n\nSatellite service supports troops and Ukraine, but payments may raise eyebrows after boss's political broadsides\n\n1 week|47\nVeteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6\n\nCritics are not convinced this plan to add an ‘area code’ based on ASNs has much merit\n\n1 week|206\nAkamai surges on big LLM deal as Cloudflare dims\n\nGood times, bad times\n\n2 weeks|2\nHPE drops first Juniper x Aruba collab – self-driving Wi-Fi\n\nNetAdmins can stay in the loop while they learn to trust AI to tackle some scutwork\n\n2 weeks|0\nIt's always DNS: Denic says sorry for crashing Germany's internet\n\nMajor .de domains experienced hours-long outage after registry distributed faulty signatures\n\n2 weeks|2\nAstera speaks softly and carries a big switch\n\nHigh-speed connectivity without NVLink baggage\n\n2 weeks|1\nVodafone dials up full control of joint venture with Three in £4.3B deal\n\nCK Hutchison takes early cash as UK mobile tie-up moves ahead of schedule\n\n2 weeks|19\nInside Amazon Web Services' plan to make networking disappear\n\nThe Register gets a look inside AWS' networking lab in Cupertino\n\n2 weeks|9\nHope your holiday was horrid: You botched the last thing you did before leaving\n\nThat box-full-of-old-tech-you-should-probably-have-thrown-out-but-kept-just-in-case got a techie in trouble\n\n2 weeks|86\nBandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet\n\nNetworking kit arrives just in time for Nvidia's 1.6 Tbps ConnectX-9 NICs\n\n3 weeks|5\nCloudflare says autocrats, wars and elections caged the internet in Q1\n\nIran went dark twice, AWS got droned, oh and TalkTalk broke something it refuses to talk about\n\n3 weeks|2\nWind Telecom Dominican Republic and ZTE join forces to accelerate smart home innovation\n\nElevating residential connectivity with AI-driven network optimization and secure cloud-based home monitoring solutions\n\n3 weeks|0\nZTE and XLSMART officially launch Innovation Center in Jakarta, accelerating 5G-advanced and AI readiness for Indonesia\n\nDriving cross-sector digital transformation through collaborative 5G-A research and AI-powered network solutions\n\n3 weeks\nGoDaddy customer claims registrar transferred 27-year-old domain without any security checks\n\n32 phone calls, 17 email chains, a 5-day ordeal, and no help during the daddy of all stuffups, claim those affected\n\n3 weeks|57\nWhen robots join the race: 5G-A powers a new kind of marathon\n\nHuman and humanoid runners share the track as next-gen connectivity underpins real-time AI performance\n\n3 weeks|0\nTwo men charged over series of arson attacks on 5G masts\n\nPair accused of creating literal flame war as bonkers conspiracy theories grow\n\n3 weeks|97\nUS clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit\n\nSilicon often from US, but the kit from APAC and elsewhere\n\n4 weeks|65\nZTE reports first-quarter revenue of RMB 35.0 billion, up 6% YoY, with computing revenue mix rising to 27%\n\nAI infrastructure and international growth offset domestic carrier shifts as \"Connectivity + Computing\" strategy takes hold\n\n4 weeks\nTo fix this Wi-Fi network, we'll need a crane\n\nWon't somebody think of the children not being hit by a load of building materials?\n\n4 weeks|126\nTUIT and ZTE unveil new initiatives for student internships and tech employment\n\nEmpowering Uzbekistan’s digital future through international hackathons, AI integration, and advanced internship pathways\n\n4 weeks\nPhone-to-satellite use goes into orbit, growing 25% in 8 months\n\nStill only a tiny slice of mobile activity overall\n\n4 weeks|12\nZTE highlights path to broadband monetization at FTTH conference 2026\n\nUrges operators to shift focus from traditional network metrics to managing user experience and customer behavior\n\n1 month\nSupport tech caught by 'Technician Aura': the bug that only hides when you're watching\n\nAll that kit, and the fix was simply stepping aside\n\n1 month|105\nIOWN Global Forum targets datacenter interconnects to scatter AI infrastructure\n\nFast WAN consortium thinks neoclouds are ripe for hookups\n\n1 month|1\nCisco Wi-Fi boxes are filling their disks with 5MB of undeletable data every day\n\nFix for critical flaw is an OS update you may not be able to make because the junk data uses all memory\n\n1 month|11\nIPv6 carried half of internet traffic – for one day, according to Google\n\nWe're not half way there, we're still livin' on a prayer\n\n1 month|95\nIran has something America can only dream of: cheap broadband\n\nShame about the internet blackouts and airstrikes\n\n1 month|32\nCops hand Motorola £25M no-bid deal to keep 2000-era radios alive\n\nBiz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget\n\n1 month|44\nQUIC will soon be as important as TCP – but it's vastly different\n\nDeciphering the third transport protocol's four RFCs is a task to rival the proverbial blind man trying to understand an elephant\n\n1 month|67\nBullet train upgrade brings 5G windows and noise-cancelling cabins to Japan\n\nPrivate Shinkansen suites are pulling up to the station in October\n\n1 month|33\nNot all networks can handle AI traffic – and experts are sounding alarms\n\nY'all been focusing on compute and forgot about how the data moves around\n\n1 month|8\nAmazon pays $11.5B to satisfy satellite-envy while cowering in Musk's shadow\n\nDeal only comes with 24 operational sats, but also an Apple deal, spectrum licenses, and plenty of IP\n\n1 month|14\nZTE and CIMB expand strategic partnership to support 5G deployment and digital infrastructure across ASEAN\n\nLeveraging tech leadership and strategic financing to accelerate 5G deployment and bridge the digital divide across Southeast Asia\n\n1 month\nElectronics industry says FCC's foreign-made router policy is a bit of a mesh\n\nTrade group warns onshoring demands will leave Americans stuck with older gear\n\n1 month|45\nSouth Korea introduces universal basic mobile data access\n\nEveryone gets unlimited 400 Kbps access, oldies get expanded caps, and leaky telcos get their social license back\n\n1 month|69\nGoogle wants more Intel inside ... its datacenters, taps Chipzilla for more SmartNICs\n\nCustom ASIC biz now running at a $1B annual pace for Intel\n\n1 month|0\nZTE powers Africa's digital evolution with intelligent innovations at GITEX Africa 2026\n\nFrom 5G-A to AI-powered terminals: empowering Africa’s digital future with sustainable, end-to-end infrastructure\n\n1 month\nUzbekistan and ZTE forge strategic partnership to accelerate digital transformation\n\nZTE and Ministry of Digital Technologies sign MoU at MWC 2026 to modernize telecom infrastructure and explore 6G, Wi-Fi 7/8, and satellite innovations\n\n1 month\nZTE launches regional service center at Uzbekistan's IT park to boost IT exports and create high-skilled jobs\n\nNew hub at IT Park Uzbekistan to drive regional digital transformation, expand IT exports, and foster high-tech talent across Central Asia and Europe\n\n1 month\nZTE empowers MiFibra to accelerate into the All-Optical 10G era\n\nLarge-scale XGS-PON deployment drives 5 Gbps services and multiple Ookla Speedtest Awards for Peru’s top ISP\n\n1 month\nNo-Nvidia interconnect club delivers 2.0 spec before v1.0 silicon ships\n\nUALink splits work on physical layer and protocol specs to speed things up, literally and metaphorically\n\n1 month|1\nUS military contractor open sources tool for validating hidden communications networks\n\nMaude-HCS from RTX (formerly Raytheon) helps model and validate hidden communication systems\n\n2 months|8\nAI search is atomizing our information, warns government digital designer\n\nWe must design expecting much of what we publish will be reinterpreted by 'systems we don't control'\n\n2 months|6\nFCC says it's making it easier for US telcos to ditch legacy lines\n\nBut critics say stopping some engineering tests is not the sort of corner you want to cut\n\n2 months|33\nZTE and Kcell sign strategic MoU to boost terminal ecosystem and FWA services in Kazakhstan\n\nZTE and Kcell aim to bridge Kazakhstan’s connectivity gap\n\n2 months\nExplainer: Self-driving networks\n\nHere’s how your next network will look after itself\n\n2 months\nAdvancing smarter and more inclusive digital connectivity for Indonesia, Telkomsel and ZTE strengthen collaboration at MWC Barcelona 2026\n\nEdge compute and AI get the spotlight as operators grapple with scale and service quality\n\n2 months\nZTE achieves multiple awards at 2026 Lightwave Innovation Reviews, leading global AI optical network innovation\n\nFull-suite wins underscore ZTE’s leadership in AI-driven optical and broadband innovation\n\n2 months\nCountry that put backdoors into Cisco routers to spy on world bans foreign routers\n\nUnfortunately, there aren't many options unless you're Starlink\n\n2 months|189\nSpaceX hits back at Amazon in orbital datacenter dispute\n\nIn space, no one can hear you being petty\n\n2 months|16\nZTE HI-OTN achievements earn dual top-scored paper recognition at OFC 2026\n\nDual OFC honors highlight breakthroughs in ultra-wideband optics and distributed AI computing\n\n2 months\nHerotel brings 10Gbps-capable fibre to South African townships, with 3,000 customers already connected and 1 million homes to follow\n\nEnabling schools, homes, and businesses to thrive with future-ready fibre\n\n2 months\nIran's 'chosen users' get 'privileged access' despite internet blackout for masses\n\nCivilians relying on Dutch shortwave radio broadcast for outside information\n\n2 months|11\nSwitzerland built a secure alternative to BGP. The rest of the world hasn't noticed yet\n\nSCION: Proven in banking and healthcare, slow to spread everywhere else\n\n2 months|73\nAFRINIC accuses litigant of trying to ‘paralyse’ it\n\nA 'web of litigation'\n\n2 months|29\nOpenreach: Fiber can sniff out leaky water pipes – if anyone bothers fixing them\n\nDistributed Acoustic Sensing tech uses broadband cables to pinpoint plumbing faults\n\n2 months|24\nFresh indie broadband provider incoming as Google's fiber biz and Stonepeak’s Astound merge\n\nAlphabet to remain 'significant minority shareholder'\n\n2 months|3\nLightmatter says latest photonics will slash datacenter fiber bills in half\n\nLatest optical engine may not be CPO, but it's still better than pluggables\n\n2 months|2\nScottish broadband service looking a bit dreich, says UK outage study\n\nSubscribers north of the border suffer the most long-running failures per £100 spent\n\n2 months|20\nChina Mobile and ZTE jointly launch Scale-Across (GSE-DCI) solution, solving pain points of ultra-large-scale computing power coordination\n\nChina Mobile and ZTE enable high-bandwidth, low-latency cross-domain AI computing\n\n2 months\nZTE, China Telecom and R&J win the GSMA GLOMO \"Best Event Activation\" Award\n\nAward-winning 5G-A live streaming solution delivers stable, high-definition multi-camera coverage for concerts\n\n2 months\nAIR Net advances highly autonomous networks with full-stack Agentic AI\n\nZTE’s AIR Net leverages full-stack Agentic AI, digital twins and large models to accelerate the evolution toward L4 autonomous networks and value-driven operations\n\n2 months\nLTT and ZTE sign MoU to accelerate digital transformation and network evolution in Libya at MWC Barcelona 2026\n\nStrategic partnership aims to expand 4G/5G networks, accelerate digital services, and build a sustainable connectivity foundation for Libya’s digital economy\n\n2 months\nZTE and China Telecom unveil DGN innovation solution to forge differentiated connectivity foundation for mobile AI era\n\nAI-powered DGN integrates native intelligence and distributed MIMO to deliver differentiated connectivity and support emerging multi-modal AI services\n\n2 months\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

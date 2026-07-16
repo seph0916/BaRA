@@ -1,0 +1,787 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://www.eff.org/sites/all/themes/phoenix/images/logo-monogram-white.svg",
+        "https://www.eff.org/files/2026-membership-sitebanner-desktop-3_0.png",
+        "https://www.eff.org/files/2026-membership-sitebanner-mobile.png",
+        "https://www.eff.org/files/banner_library/eff-work-icons-3-COLOR-fix.png",
+        "https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg",
+        "https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/about/opportunities&action_name=Opportunities%20%7C%20Electronic%20Frontier%20Foundation&urlref=&dimension2=page&dimension3=58748",
+        ""
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 192,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.eff.org/about/opportunities#main-content"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Join EFF Lists",
+            "href": "https://eff.org/signup"
+        },
+        {
+            "text": "Copyright (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "Trademark",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "Thanks",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--m"
+        },
+        {
+            "text": "DONATE TODAY",
+            "href": "https://supporters.eff.org/donate/spring--wssn"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SD"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SM"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "ABOUT EFF",
+            "href": "https://www.eff.org/about#main-content"
+        },
+        {
+            "text": "EFF HISTORY",
+            "href": "https://www.eff.org/about/history#main-content"
+        },
+        {
+            "text": "EFF VICTORIES",
+            "href": "https://www.eff.org/victories#main-content"
+        },
+        {
+            "text": "REPORTS & FINANCIALS",
+            "href": "https://www.eff.org/about/annual-reports-and-financials#main-content"
+        },
+        {
+            "text": "CORPORATE DOCUMENTS",
+            "href": "https://www.eff.org/pages/corporate-documents#main-content"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://www.eff.org/about/contact#main-content"
+        },
+        {
+            "text": "LEGAL ASSISTANCE",
+            "href": "https://www.eff.org/pages/legal-assistance#main-content"
+        },
+        {
+            "text": "GENERAL INQUIRIES",
+            "href": "https://www.eff.org/about/contact#main-content"
+        },
+        {
+            "text": "PRESS",
+            "href": "https://www.eff.org/press/contact#main-content"
+        },
+        {
+            "text": "LOGOS AND GRAPHICS",
+            "href": "https://www.eff.org/press/logos#main-content"
+        },
+        {
+            "text": "PEOPLE",
+            "href": "https://www.eff.org/about/staff#main-content"
+        },
+        {
+            "text": "STAFF",
+            "href": "https://www.eff.org/about/staff#main-content"
+        },
+        {
+            "text": "BOARD OF DIRECTORS",
+            "href": "https://www.eff.org/about/board#main-content"
+        },
+        {
+            "text": "EMERITUS",
+            "href": "https://www.eff.org/about/emeritus#main-content"
+        },
+        {
+            "text": "INTERNS AND EXTERNAL FELLOWSHIPS",
+            "href": "https://www.eff.org/about/interns#main-content"
+        },
+        {
+            "text": "SPECIAL COUNSEL & SPECIAL ADVISORS",
+            "href": "https://www.eff.org/about/special-counsel#main-content"
+        },
+        {
+            "text": "ADVISORY BOARD",
+            "href": "https://www.eff.org/about/advisoryboard#main-content"
+        },
+        {
+            "text": "IN MEMORIAM",
+            "href": "https://www.eff.org/about/in-memoriam#main-content"
+        },
+        {
+            "text": "OPPORTUNITIES",
+            "href": "https://www.eff.org/about/opportunities#main-content"
+        },
+        {
+            "text": "JOB OPENINGS",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667#main-content"
+        },
+        {
+            "text": "LEGAL INTERNS",
+            "href": "https://www.eff.org/about/opportunities/interns#main-content"
+        },
+        {
+            "text": "LEGAL FELLOWS",
+            "href": "https://www.eff.org/about/opportunities/legal-fellows#main-content"
+        },
+        {
+            "text": "TECH INTERNS",
+            "href": "https://www.eff.org/about/opportunities/tech-interns#main-content"
+        },
+        {
+            "text": "WORKING AT EFF",
+            "href": "https://www.eff.org/pages/working-at-eff#main-content"
+        },
+        {
+            "text": "DIVERSITY & INCLUSION",
+            "href": "https://www.eff.org/pages/effs-diversity-statement#main-content"
+        },
+        {
+            "text": "BENEFITS SUMMARY",
+            "href": "https://www.eff.org/document/benefits-summary#main-content"
+        },
+        {
+            "text": "diversity and inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "awesome benefits",
+            "href": "https://www.eff.org/document/benefits-summary"
+        },
+        {
+            "text": "We LOVE to have EFFun",
+            "href": "https://www.eff.org/pages/working-at-eff"
+        },
+        {
+            "text": "Job Openings",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Legal Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Tech Internships",
+            "href": "https://www.eff.org/about/opportunities/tech-interns"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://www.eff.org/about/opportunities#main-content"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "instagram",
+            "href": "https://www.instagram.com/efforg/"
+        },
+        {
+            "text": "Blue Sky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "youtube",
+            "href": "https://www.youtube.com/efforg"
+        },
+        {
+            "text": "flicker",
+            "href": "https://www.flickr.com/photos/electronicfrontierfoundation"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/EFF"
+        },
+        {
+            "text": "tiktok",
+            "href": "https://www.tiktok.com/@efforg"
+        },
+        {
+            "text": "threads",
+            "href": "https://www.threads.net/@efforg"
+        },
+        {
+            "text": "Charity Navigator",
+            "href": "https://www.charitynavigator.org/ein/043091431"
+        },
+        {
+            "text": "General",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Legal",
+            "href": "https://www.eff.org/pages/legal-assistance"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/security"
+        },
+        {
+            "text": "Membership",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Calendar",
+            "href": "https://www.eff.org/event"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Victories",
+            "href": "https://www.eff.org/victories"
+        },
+        {
+            "text": "History",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Jobs",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Staff",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Diversity & Inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity & Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.eff.org/deeplinks?type=blog"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/updates?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "EFFector Newsletter",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "Press Contact",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Join or Renew Membership Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "One-Time Donation Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Corporate Giving and Sponsorship",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/helpout"
+        },
+        {
+            "text": "COPYRIGHT (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "TRADEMARK",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "THANKS",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "JavaScript license information",
+            "href": "https://www.eff.org/librejs/jslicense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/opportunities#"
+        }
+    ],
+    "text_length": 1457,
+    "text_full": "Skip to main content\nIf you use technology, this fight is yours.\nDONATE TODAY\nElectronic Frontier Foundation\nAbout\nIssues\nOur Work\nTake Action\nTools\nDonate\nABOUT EFF\nEFF HISTORY\nEFF VICTORIES\nREPORTS & FINANCIALS\nCORPORATE DOCUMENTS\nCONTACT\nLEGAL ASSISTANCE\nGENERAL INQUIRIES\nPRESS\nLOGOS AND GRAPHICS\nPEOPLE\nSTAFF\nBOARD OF DIRECTORS\nEMERITUS\nINTERNS AND EXTERNAL FELLOWSHIPS\nSPECIAL COUNSEL & SPECIAL ADVISORS\nADVISORY BOARD\nIN MEMORIAM\nOPPORTUNITIES\nJOB OPENINGS\nLEGAL INTERNS\nLEGAL FELLOWS\nTECH INTERNS\nWORKING AT EFF\nDIVERSITY & INCLUSION\nBENEFITS SUMMARY\nOpportunities\nAbout Working With EFF\nWe value diversity and inclusion in all that we do.\nWe have awesome benefits like rental subsidies and student loan payments.\nWe LOVE to have EFFun!!!\n\nJob Openings\nLegal Internships\nTech Internships\nVolunteer\n\nFOLLOW EFF:\nmastodon\nfacebook\ninstagram\nBlue Sky\nyoutube\nflicker\nlinkedin\ntiktok\nthreads\n\nCheck out our 4-star rating on Charity Navigator.\n\nCONTACT\nGeneral\nLegal\nSecurity\nMembership\nPress\nABOUT\nCalendar\nVolunteer\nVictories\nHistory\nInternships\nJobs\nStaff\nDiversity & Inclusion\nISSUES\nFree Speech\nPrivacy\nCreativity & Innovation\nTransparency\nInternational\nSecurity\nUPDATES\nBlog\nPress Releases\nEvents\nLegal Cases\nWhitepapers\nEFFector Newsletter\nPRESS\nPress Contact\nDONATE\nJoin or Renew Membership Online\nOne-Time Donation Online\nGiving Societies\nCorporate Giving and Sponsorship\nShop\nOther Ways to Give\nCOPYRIGHT (CC BY)\nTRADEMARK\nPRIVACY POLICY\nTHANKS"
+}

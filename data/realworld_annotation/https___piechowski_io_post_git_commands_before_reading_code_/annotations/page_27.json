@@ -1,0 +1,47 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 9,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "← All posts",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "Why Your Engineering Team Is Slow (It's the Codebase, Not the People)",
+            "href": "https://piechowski.io/post/codebase-drag-audit/"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "leadership",
+            "href": "https://piechowski.io/tags/leadership"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        }
+    ],
+    "text_length": 395,
+    "text_full": "Work With Me\nGithub\nBlog\n← All posts\nPosts tagged: engineering-management\nMar 31, 2026\nWhy Your Engineering Team Is Slow (It's the Codebase, Not the People)\n\nA two-minute interactive audit to score whether technical debt is dragging your engineering team. Five signals that separate people problems from code problems.\n\nlegacy\nleadership\ndevelopment\nLet's talk about your codebase.\nEmail\nMessage"
+}

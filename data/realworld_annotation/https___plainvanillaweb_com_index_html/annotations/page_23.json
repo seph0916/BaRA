@@ -1,0 +1,27 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 4,
+    "links": [
+        {
+            "text": "Go to the details page",
+            "href": "https://plainvanillaweb.com/details"
+        },
+        {
+            "text": "path of mystery",
+            "href": "https://plainvanillaweb.com/unknown"
+        },
+        {
+            "text": "Go to the home page",
+            "href": "https://plainvanillaweb.com/"
+        },
+        {
+            "text": "Go to the home page",
+            "href": "https://plainvanillaweb.com/"
+        }
+    ],
+    "text_length": 74,
+    "text_full": "This is the homepage. Go to the details page, or travel a path of mystery."
+}

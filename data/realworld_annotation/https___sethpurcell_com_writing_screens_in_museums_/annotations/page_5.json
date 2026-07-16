@@ -1,0 +1,31 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 5,
+    "links": [
+        {
+            "text": "Purcell's Posts",
+            "href": "https://sethpurcell.com/"
+        },
+        {
+            "text": "RSS Feed",
+            "href": "https://sethpurcell.com/rss.xml"
+        },
+        {
+            "text": "devmgmt",
+            "href": "https://sethpurcell.com/tags/devmgmt/"
+        },
+        {
+            "text": "Previous Post\nNotes on Marc Wortman's “Admiral Hyman Rickover”",
+            "href": "https://sethpurcell.com/writing/notes-on-admiral-hyman-rickover"
+        },
+        {
+            "text": "Next Post\nI Didn't Bring My Son to a Museum to Look at Screens",
+            "href": "https://sethpurcell.com/writing/screens-in-museums"
+        }
+    ],
+    "text_length": 3592,
+    "text_full": "Purcell's Posts\nSend an email to Purcell's Posts\nRSS Feed\nObservations From Twenty Years of Dev Management\n\nHire great people, challenge and support them, and then stay the hell out of their way\n\nJul 18, 2025\ndevmgmt\n\nFor two decades I’ve been a developer, team lead, or dev manager. I got into management as a 25-year-old, so I was able to crash and burn several times before I got it figured out in my early thirties. I’ve built and led dev and product teams, and I’ve fought with and alongside CXOs of all flavors. Here’s what I believe to be true about professional software development, whether we like it or not:\n\nAll the productivity in the world is of no value if you’re building the wrong thing. And building the wrong thing is what happens by default.\n\nMost developers want to do good work, and do what’s right for their company, and succeed as a team, intrinsically, until this desire is burned out of them by clueless management. External pressures or rewards are not required, and often appear to be counterproductive. Great developers are often saddled with doing good work despite their managers.\n\nDespite shared concepts such as quality, cycle time, and throughput, software development is not a manufacturing process and software developers are not factory workers. Nor is software development akin to sales. Software development is a technical/intellectual/creative craft, except in the relatively rare cases where it’s genuinely engineering, and arguably in the boilerplate that LLMs are starting to automate. This means you can’t naively transfer other models of management to this domain and expect success, no matter how tempting this is. Few non-technical managers seem ready to accept this fact.\n\nSoftware development in most places is a team sport where we succeed or fail as a team. There will always be stars, but you desperately want them helping the team and the company succeed, not narrowly serving their own interests. This is why PEs (principal engineers) are often turned loose to roam around and find their own problems to solve.\n\nToo much management is probably worse than too little because it burns precious time and increases attrition disproportionately among your best people. Great people will ask good questions and self-organize in the face of too little management, but quit in the face of too much.\n\nTeam culture is a dominant force for good or ill everywhere you have groups of humans, and software dev is no exception. Culture is what you do, not what you say you do. And culture flows from the top whether you’re aware of it or not; managers are on stage every day, and your team is watching and learning what’s acceptable, what’s rewarded, and what’s punished. Culture is critical and yet invisible to the untrained eye.\n\nMany developers loathe management because they’ve only seen it done poorly by people who aren’t doing it for the love of the job, aren’t trying their hardest, and may in fact hate it. But non-developers struggle to manage dev teams effectively because they can’t really participate in the constant tradeoff decisions or understand the implications of different technical approaches for the business.\n\nSoftware development productivity cannot be rigorously defined let alone measured. Anyone who says differently is selling something, probably “agile coaching” or a book. Few non-technical managers seem ready to accept this fact.\n\nPrevious Post\nNotes on Marc Wortman's “Admiral Hyman Rickover”\nNext Post\nI Didn't Bring My Son to a Museum to Look at Screens\nCopyright © 2026 by Seth Purcell\n | \nHosted on a Raspberry Pi 5"
+}

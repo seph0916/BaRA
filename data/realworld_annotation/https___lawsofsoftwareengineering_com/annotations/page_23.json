@@ -1,0 +1,176 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/technical-debt.png",
+        "https://lawsofsoftwareengineering.com/images/laws/tehnical-debt-metaphor.jpg",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 40,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/technical-debt/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=Technical+Debt%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Ftechnical-debt%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Ftechnical-debt%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Ftechnical-debt%2F&title=Technical+Debt%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/technical-debt/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/technical-debt/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/technical-debt/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/technical-debt/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/technical-debt/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/technical-debt/#further-reading"
+        },
+        {
+            "text": "Debt Metaphor - Ward Cunningham\nWard Cunningham's video explaining the original debt metaphor (OOPSLA 1992)",
+            "href": "https://www.youtube.com/watch?v=pqeJFYwnkjE"
+        },
+        {
+            "text": "Technical Debt - Martin Fowler\nMartin Fowler's comprehensive blog post on technical debt",
+            "href": "https://martinfowler.com/bliki/TechnicalDebt.html"
+        },
+        {
+            "text": "Technical Debt - Wikipedia\nOverview of the concept and its management strategies",
+            "href": "https://en.wikipedia.org/wiki/Technical_debt"
+        },
+        {
+            "text": "Accelerate\nForsgren, Humble, and Kim's research on how technical debt impacts software delivery",
+            "href": "https://amzn.to/48Xugp3"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "QUALITY\nBroken Windows Theory\n\nDon't leave broken windows (bad designs, wrong decisions, or poor code) unrepaired.",
+            "href": "https://lawsofsoftwareengineering.com/laws/broken-windows-theory/"
+        },
+        {
+            "text": "+\nPLANNING\nHofstadter's Law\n\nIt always takes longer than you expect, even when you take into account Hofstadter's Law.",
+            "href": "https://lawsofsoftwareengineering.com/laws/hofstadters-law/"
+        },
+        {
+            "text": "QUALITY\nThe Boy Scout Rule\n\nLeave the code better than you found it.",
+            "href": "https://lawsofsoftwareengineering.com/laws/boy-scout-rule/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 4954,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nTechnical Debt\nTechnical Debt\nQUALITY\nJUNIOR\n$\n%\n3 min read\n\nTechnical Debt is everything that slows us down when developing software.\n\nTakeaways\nWhen we take a shortcut in code, we borrow time from the future. This gives an immediate benefit, but you owe principal (the work to fix) plus interest.\nIf technical debt is not repaid, it accrues interest. Each minute spent on dirty code, bugs, and workarounds due to a lack of refactoring is interest on the debt.\nNot all technical debt is inherently bad. It is sometimes necessary, for instance, for market timing or prototyping.\nThe way to pay down technical debt is to refactor code, add missing tests, and improve design.\nOverview\n\nTechnical debt highlights a fundamental tension in software engineering: speed vs. quality. The term helps explain to both developers and non-technical stakeholders why seemingly “done” software still needs ongoing work. When you write clumsy code or postpone cleanup, you’ve essentially taken out a loan: you get short-term feature delivery, but the complexity you introduce is the interest you’ll keep paying.\n\nProperly managing technical debt means being conscious of when you’re adding a quick workaround or a “temporary” hack, and having a plan to revisit it. Teams often use tools to log technical debt items (like comments, issue tracker tickets, or dedicated debt backlogs).\n\nWhen managed, technical debt can be an effective tool; you intentionally take on a bit of messiness to get feedback or meet a deadline, then clean it up. But if ignored, debt becomes a problem.\n\nTechnical Debt\n\nExamples\n\nA typical example is skipping automated tests. A team under deadline pressure releases a new feature without writing tests. The release is successful (debt incurred). But later, making changes becomes harder since every change risks unforeseen bugs because there’s no safety net of tests (interest payments). Eventually they must stop adding features and fix the debt by adding the missing tests and refactoring.\n\nAnother example is a startup that wants to deliver a quick prototyping effort to onboard the first customer. Developers do rapid but messy coding, with hardcoded variables and copy-and-paste code. This approach is made with technical debt in mind. The endeavor helps the startup win a customer; however, the customer’s codebase is now full of technical debt.\n\nIf they just continue to add to it, they will face bugs and slower performance due to the messy code (interest on debt). They realize this and therefore set up a “rehab” sprint to refactor the code, thereby resolving the most troublesome bits.\n\nTechnical Debt Metaphor (source: Richard Scarry’s Storybook Dictionary)\n\nOrigins\n\nThe term “Technical Debt” was coined by Ward Cunningham (one of the authors of the Agile Manifesto) at the OOPSLA conference in 1992. He first used the financial metaphor while working on a finance application to explain to his boss why the team needed time to refactor code.\n\nWard compared developing software to borrowing money: it can be wise to take shortcuts (borrow) to achieve something sooner, provided you pay back the loan by cleaning up the code later.\n\nFurther Reading\nDebt Metaphor - Ward Cunningham\nWard Cunningham's video explaining the original debt metaphor (OOPSLA 1992)\nTechnical Debt - Martin Fowler\nMartin Fowler's comprehensive blog post on technical debt\nTechnical Debt - Wikipedia\nOverview of the concept and its management strategies\nAccelerate\nForsgren, Humble, and Kim's research on how technical debt impacts software delivery\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). Technical Debt. Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/technical-debt/\n\nPlain text: \"Technical Debt\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/technical-debt/\n\nBibTeX: @misc{milanovic_technical-debt_2026, author = {Dr. Milan Milanović}, title = {Technical Debt}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/technical-debt/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nQUALITY\nBroken Windows Theory\n\nDon't leave broken windows (bad designs, wrong decisions, or poor code) unrepaired.\n\n+\nPLANNING\nHofstadter's Law\n\nIt always takes longer than you expect, even when you take into account Hofstadter's Law.\n\nQUALITY\nThe Boy Scout Rule\n\nLeave the code better than you found it.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

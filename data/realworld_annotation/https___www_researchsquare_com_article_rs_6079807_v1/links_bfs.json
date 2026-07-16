@@ -1,0 +1,90 @@
+{
+  "start_url": "https://www.researchsquare.com/article/rs-6079807/v1",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://www.researchsquare.com/article/rs-6079807/v1",
+    "https://www.researchsquare.com/",
+    "https://www.researchsquare.com/browse",
+    "https://www.researchsquare.com/journals",
+    "https://www.researchsquare.com/coronavirus",
+    "https://www.researchsquare.com/researchers/promotion",
+    "https://www.researchsquare.com/researchers/editing",
+    "https://www.researchsquare.com/researchers/rubriq",
+    "https://www.researchsquare.com/researchers/preprints",
+    "https://www.researchsquare.com/researchers/in-review",
+    "https://www.researchsquare.com/legal/editorial",
+    "https://www.researchsquare.com/about",
+    "https://www.researchsquare.com/advisory-board",
+    "https://support.researchsquare.com/support/home",
+    "https://www.researchsquare.com/submit",
+    "https://www.researchsquare.com/article/rs-9473421/v1",
+    "https://www.researchsquare.com/browse/journal/researchsquare",
+    "https://www.researchsquare.com/browse/journal/3d-printing-in-medicine",
+    "https://www.researchsquare.com/browse/journal/abdominal-radiology"
+  ],
+  "by_depth": {
+    "0": [
+      "https://www.researchsquare.com/article/rs-6079807/v1"
+    ],
+    "1": [
+      "https://www.researchsquare.com/",
+      "https://www.researchsquare.com/browse",
+      "https://www.researchsquare.com/journals",
+      "https://www.researchsquare.com/coronavirus",
+      "https://www.researchsquare.com/researchers/promotion"
+    ],
+    "2": [
+      "https://www.researchsquare.com/researchers/editing",
+      "https://www.researchsquare.com/researchers/rubriq",
+      "https://www.researchsquare.com/researchers/preprints",
+      "https://www.researchsquare.com/researchers/in-review",
+      "https://www.researchsquare.com/legal/editorial",
+      "https://www.researchsquare.com/about",
+      "https://www.researchsquare.com/advisory-board",
+      "https://support.researchsquare.com/support/home",
+      "https://www.researchsquare.com/submit",
+      "https://www.researchsquare.com/article/rs-9473421/v1",
+      "https://www.researchsquare.com/browse/journal/researchsquare",
+      "https://www.researchsquare.com/browse/journal/3d-printing-in-medicine",
+      "https://www.researchsquare.com/browse/journal/abdominal-radiology",
+      "https://www.researchsquare.com/browse/journal/accreditation-and-quality-assurance",
+      "https://www.researchsquare.com/browse/journal/acoustics-australia",
+      "https://www.researchsquare.com/article/rs-9522132/v1",
+      "https://www.researchsquare.com/article/rs-9184979/v1",
+      "https://www.researchsquare.com/article/rs-9671633/v1",
+      "https://www.researchsquare.com/article/rs-9434509/v1",
+      "https://www.researchsquare.com/article/rs-9569564/v1",
+      "https://www.researchsquare.com/accessibility",
+      "https://www.researchsquare.com/request-api",
+      "https://www.researchsquare.com/rss.xml",
+      "https://www.researchsquare.com/legal/do-not-sell-my-personal-information"
+    ],
+    "3": [
+      "https://www.researchsquare.com/researchers/digital-editing",
+      "https://company.researchsquare.com/publishing-partners",
+      "https://company.researchsquare.com/careers",
+      "https://support.researchsquare.com/support/solutions",
+      "https://support.researchsquare.com/support/tickets/new",
+      "https://support.researchsquare.com/support/search/solutions",
+      "https://support.researchsquare.com/support/login",
+      "https://support.researchsquare.com/support/solutions/6000141014",
+      "https://www.researchsquare.com/article/rs-8653318/v1",
+      "https://www.researchsquare.com/article/rs-9709682/v1",
+      "https://www.researchsquare.com/article/rs-9716594/v1",
+      "https://www.researchsquare.com/article/rs-9603073/v1",
+      "https://www.researchsquare.com/article/rs-9677698/v1",
+      "https://www.researchsquare.com/article/rs-8406754/v1",
+      "https://www.researchsquare.com/article/rs-8042157/v1",
+      "https://www.researchsquare.com/article/rs-7633361/v1",
+      "https://www.researchsquare.com/article/rs-7055078/v1",
+      "https://www.researchsquare.com/article/rs-6934345/v1",
+      "https://www.researchsquare.com/article/rs-9581498/v1",
+      "https://www.researchsquare.com/article/rs-9386029/v1"
+    ]
+  },
+  "dead_links": [
+    "https://www.researchsquare.com/in-review"
+  ]
+}

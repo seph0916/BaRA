@@ -1,0 +1,273 @@
+{
+    "image_count": 5,
+    "images": [
+        "https://turso.tech/_next/image?url=%2Favatar%2FGlauber-Costa.jpg&w=64&q=75",
+        "https://turso.tech/_next/image?url=%2Fimages%2Fprivate-beta%2Fright.png&w=3840&q=100",
+        "https://turso.tech/images/private-beta/right.png",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=be106ffc-070d-4eab-b78b-3976d705b985&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=799f8640-db4c-49ee-9e42-14b1e02476d5&pt=The%20next%20generation%20of%20Turso%20Cloud%20is%20(almost)%20here%3A%20Now%20in%20Private%20Beta&tw_document_href=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-cloud-new-generation-private-beta&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342299536.79209972814756936&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=be106ffc-070d-4eab-b78b-3976d705b985&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=799f8640-db4c-49ee-9e42-14b1e02476d5&pt=The%20next%20generation%20of%20Turso%20Cloud%20is%20(almost)%20here%3A%20Now%20in%20Private%20Beta&tw_document_href=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-cloud-new-generation-private-beta&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342299536.79209972814756936&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 64,
+    "links": [
+        {
+            "text": "Join the waitlist",
+            "href": "https://turso.tech/private-beta"
+        },
+        {
+            "text": "Turso",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Docs",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Cloud Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Follow us on GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Follow us on X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Join us on Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "Login",
+            "href": "https://turso.tech/signin"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Glauber Costa",
+            "href": "https://turso.tech/author/glauber-costa"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#the-problem-with-the-old-model"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#the-problem-with-the-old-model"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#the-paradigm-shift"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#the-paradigm-shift"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#sqlite--the-right-model--revisited"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#sqlite-the-right-model-revisited"
+        },
+        {
+            "text": "OpenClaw",
+            "href": "https://docs.openclaw.ai/concepts/memory"
+        },
+        {
+            "text": "rewrite of SQLite",
+            "href": "https://turso.tech/blog/turso-sqlite-current-status"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#what-about-the-current-version-of-the-turso-cloud-"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#what-about-the-current-version-of-the-turso-cloud"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#how-this-fits-in-the-roadmap"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#how-this-fits-in-the-roadmap"
+        },
+        {
+            "text": "write Turso",
+            "href": "https://turso.tech/blog/we-will-rewrite-sqlite-and-we-are-going-all-in"
+        },
+        {
+            "text": "has always been",
+            "href": "https://turso.tech/blog/upcoming-changes-to-the-turso-platform-and-roadmap"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#what-s-in-the-beta"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#whats-in-the-beta"
+        },
+        {
+            "text": "Continuous backups",
+            "href": "https://turso.tech/blog/how-does-the-turso-cloud-keep-your-data-durable-and-safe"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#who-we-re-looking-for"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta#who-were-looking-for"
+        },
+        {
+            "text": "Join the beta",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSe-IIsBFk-1CTFrQ_CcYmzfQzLkSSoVy-kIdYifaSFtKU7Slw/viewform?usp=header"
+        },
+        {
+            "text": "Turso Cloud + Stripe Projects: Unlimited databases for all of your projects",
+            "href": "https://turso.tech/blog/turso-cloud-plus-stripe-projects"
+        },
+        {
+            "text": "Turso Now Includes Unlimited Active Databases for Everybody",
+            "href": "https://turso.tech/blog/turso-now-includes-unlimited-databases-for-everybody"
+        },
+        {
+            "text": "Turso v0.6.0",
+            "href": "https://turso.tech/blog/turso-0.6.0"
+        },
+        {
+            "text": "Glauber Costa",
+            "href": "https://turso.tech/author/glauber-costa"
+        },
+        {
+            "text": "Twitter / X",
+            "href": "https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20post%20on%20the%20%40tursodatabase%20blog%3A%20The%20next%20generation%20of%20Turso%20Cloud%20is%20(almost)%20here%3A%20Now%20in%20Private%20Beta%0A%0A&url=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-cloud-new-generation-private-beta"
+        },
+        {
+            "text": "Hacker News",
+            "href": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-cloud-new-generation-private-beta&t=The%20next%20generation%20of%20Turso%20Cloud%20is%20(almost)%20here:%20Now%20in%20Private%20Beta"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-cloud-new-generation-private-beta"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/quickstart"
+        },
+        {
+            "text": "Documentation",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "API Status",
+            "href": "https://status.turso.tech/"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://turso.tech/terms-of-use"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://turso.tech/privacy-policy"
+        },
+        {
+            "text": "Embedded Replicas",
+            "href": "https://docs.turso.tech/features/embedded-replicas"
+        },
+        {
+            "text": "Database Branching",
+            "href": "https://docs.turso.tech/features/branching"
+        },
+        {
+            "text": "Backups & Recovery",
+            "href": "https://docs.turso.tech/features/point-in-time-recovery"
+        },
+        {
+            "text": "Platform API",
+            "href": "https://docs.turso.tech/features/platform-api"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Releases",
+            "href": "https://github.com/tursodatabase/turso/releases"
+        },
+        {
+            "text": "About",
+            "href": "https://turso.tech/about"
+        },
+        {
+            "text": "Support",
+            "href": "https://docs.turso.tech/support"
+        },
+        {
+            "text": "Trust",
+            "href": "https://trust.turso.tech/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Brand",
+            "href": "https://turso.tech/brand"
+        },
+        {
+            "text": "RSS",
+            "href": "https://turso.tech/blog/feed.xml"
+        },
+        {
+            "text": "YouTube",
+            "href": "https://www.youtube.com/@tursodatabase"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase"
+        }
+    ],
+    "text_length": 8072,
+    "text_full": "Register now for early access to concurrent writes in the Turso Cloud. Join the waitlist\n\nTurso\nDocs\nCloud Pricing\nBlog\nChangelog\nFollow us on GitHub\nFollow us on X\nJoin us on Discord\nLogin\nStart for free now\n\nApr 8, 2026\n\nThe next generation of Turso Cloud is (almost) here: Now in Private Beta\n\nWe built the database layer that AI agents actually need: fast, isolated, and ready to scale from one agent to a thousand and beyond.\n\nGlauber Costa\n\nFor decades, the answer to \"where do I store application state?\" was simple: one long-running database, maybe a replica or two. That model worked when you had one application doing one thing. It doesn't work when you have a hundred AI agents running in parallel, each with their own context, memory, and operational state. Some of these agents need a database to be alive for seconds. Some, for years. And many more, to be available on-demand, at unpredictable times.\n\nIt's widely acknowledged that SQLite, with its file-based model, is part of the answer. But at the same time, it is not enough. We've spent the last year rethinking what a database should look like for this new world: it has to keep the local, file-based nature of SQLite, while dramatically increasing its capabilities. At the same time, it is clear that Enterprises building agentic systems need their data safely encrypted, and running on their own Cloud accounts.\n\nToday, we're opening the private beta for the new generation of the Turso Cloud and we're looking for teams building on the edge of what's possible with AI.\n\n#The problem with the old model\n\nThe databases most teams reach for were designed for a world where you had a handful of services sharing a central store. That assumption is baked deep into their architecture: one writer, shared connections, schema migrations that touch everything, provisioning workflows that require ops teams and dashboards.\n\nWhen you're building AI agent systems, that assumption breaks immediately. 100 agents means 100 independent units of work, each needing their own durable, isolated, local state. Pointing them all at a single database is asking for contention, data leakage between agents, and a scalability ceiling you'll hit faster than you expect.\n\nThe alternative, switching to something purpose-built, has historically meant ripping out your existing stack, getting engineers involved, and spending weeks migrating data. That cost has kept most teams stuck on infrastructure that was never designed for what they're trying to build.\n\n\"You can't build for AI systems with 20-year-old database architecture.\"\n\n#The paradigm shift\n\nAgents add a totally different level of pressure in the direction of individual per-agent databases (in many cases, many databases per agent for specialized tasks). At the same time, Enterprises building agentic workloads expect the data to be private, compliant, and constrained to their own account.\n\n#SQLite: the right model, revisited\n\nSQLite is a database in a file. There are no servers to manage. It is lightweight, and fits anywhere. For agents that need an ephemeral database, it can't be beat. This is why SQLite is the core building block of the memory layer for products like OpenClaw.\n\nFor databases that are long-lived, SQLite's file-based architecture has allowed the standard Turso Cloud (which runs on SQLite) to offer a massively multitenant server instead of a scale-to-zero architecture that VM-based databases need to pursue to achieve the same thing. This allows us to offer a much higher density of databases (our users have access to unlimited databases), with great reliability.\n\nBut SQLite also has limitations:\n\nIt doesn't support concurrent writes\nIt doesn't support encryption natively\nIt doesn't evolve at the pace that the new world demands\n\nFor this reason, we have been for over a year working on a rewrite of SQLite, called simply \"Turso\". Turso reimagines SQLite for the modern world, making it into a fully featured database system, including high concurrency writes.\n\nThe Turso Cloud has been offering developers the ability to power their agentic workloads with SQLite. The New Generation of the Turso Cloud will make Turso, the powerful rewrite of SQLite, available in the Cloud. You will be able to query your databases over the wire as you would any database server, or use the new generation of the Turso Cloud as a way to backup your local Turso databases. All of that with strong encryption, and inside your own Cloud account.\n\n#What about the current version of the Turso Cloud?\n\nThe Turso Cloud offers agentic builders unlimited SQLite databases on the Cloud, and will continue to do so. During the private beta, a small group of companies will be allowed to create Turso databases on the Cloud.\n\nOnce the private beta period is over and we go into public beta, we intend to give users the choice of SQLite or Turso. We take production workloads seriously: existing SQLite databases will never be automatically moved to Turso without user action.\n\n#How this fits in the roadmap\n\nSince we started on our journey to write Turso, the rewrite of SQLite, The plan has always been to move the Turso Cloud onto this new engine once it was ready for production.When talking to prospects, the need to run all of the agentic infrastructure with encrypted databases that never leave their own account also became clear.\n\nThis private beta is a special moment for us: it is that process beginning in earnest.\n\nExisting Turso Cloud users won't be disrupted. Your databases keep running exactly as they do today. What we're doing with this beta is getting the new engine in front of teams with the hardest workloads, AI agents, distributed systems, edge-first applications, so we can validate it where it matters most before we roll it forward across the platform.\n\n#What's in the beta\nHigh-concurrency writes Overcome SQLite's single-writer limit for real production workloads.\tUnlimited databases Provision one per agent via REST API. Pay only for what you use.\nBring your own cloud All data and compute stays in your own AWS account.\tPoint-in-time restore Continuous backups. Roll back from any agent or human mistake.\nBranching Fork any database instantly for testing, staging, or new agents.\tBYOK encryption Encrypt each database with a key you control.\nVector & full text search Built-in similarity search for agent memory and retrieval.\tSync Sync cloud databases to local devices, servers, or the edge.\n\nAnd much more…\n\n#Who we're looking for\n\nWe're inviting teams who are actively pushing on the limits of what's possible with AI systems.\n\nSpecifically:\n\nAI agent developers: building systems where agents need independent, durable state. If you've hit the bottleneck of shared databases or struggled to provision databases programmatically, we want to hear from you.\n\nTeams on distributed or edge-first stacks: if you're running workloads close to users or dealing with latency-sensitive data access, Turso's local-first sync model is built for you.\n\nDevelopers frustrated with existing tooling: if your current setup requires you to do things that should be simple, or if you've been manually stitching together provisioning scripts that drift over time, we think you'll find this refreshing.\n\nThe beta is limited. We're starting with a small cohort so we can give every team proper onboarding and stay close to the feedback.\n\nJoin the beta\n\nWe'll reach out to teams directly with next steps when your spot is confirmed.\n\nCONTINUE READING\nTurso Cloud + Stripe Projects: Unlimited databases for all of your projects\n\nMar 26, 2026\n\nTurso Now Includes Unlimited Active Databases for Everybody\n\nMay 3, 2026\n\nTurso v0.6.0\n\nMay 12, 2026\n\nMore posts by Glauber Costa\n\nShare article\n\nTwitter / X\nHacker News\nEmail\nLinkedIn\nCopy link\nTurso Cloud\nQuickstart\nDocumentation\nPricing\nAPI Status\nTerms of Use\nPrivacy Policy\n \nEmbedded Replicas\nDatabase Branching\nBackups & Recovery\nPlatform API\nTurso Database\nQuickstart\nChangelog\nReleases\nCompany\nAbout\nContact Us\nSupport\nTrust\nBlog\nBrand\nRSS\nYouTube\nDiscord\nX\nLinkedin\nGitHub\n© Turso 2026"
+}

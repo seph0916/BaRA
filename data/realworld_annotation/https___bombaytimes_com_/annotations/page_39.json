@@ -1,0 +1,276 @@
+{
+    "image_count": 36,
+    "images": [
+        "https://www.bombaytimes.com/images/right-arrow.svg",
+        "https://www.bombaytimes.com/images/ytube.svg",
+        "https://www.bombaytimes.com/images/search-white.svg",
+        "https://www.bombaytimes.com/images/hamburger.svg",
+        "https://www.bombaytimes.com/images/BombayTimes-red-logo.svg",
+        "https://www.bombaytimes.com/images/android-chrome-96x96.png",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1778825965940/assets/featureImages/1778838209900-Avantika%C3%A2%C2%80%C2%99s%20Thumbnail%20%281280%20x%20720%20px%29%20%282%29.png&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1778825636270/assets/featureImages/1778826703651-The%20Art%20of%20Breathing%20Right.png&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1778243730917/assets/featureImages/1778244545011-Astro%20HEaling.jpeg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1777976626648/assets/featureImages/1777977692434-Are%20We%20Ever%20Truly%20Unrelated.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1777445389846/assets/featureImages/1777446356096-Bt%20Astro%20Healing%20.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1777355945640/assets/featureImages/1777361857291-Bombay%20Times%20Astro%20Healing%20%20%20%283%29.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1777031109657/assets/featureImages/1777031797956-Astro%20Healing.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1776766047117/assets/featureImages/1776767079018-BT.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1776417653593/assets/featureImages/1776420897467-Astro%20Healing.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1776231282106/assets/featureImages/1776232733038-BT%20Astro%20%281%29.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1775817127802/assets/featureImages/1775819394343-Astro%20Healing%20.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1775538595520/assets/featureImages/1775539366241-BT%20Astro%20%20%284%29.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1775203493252/assets/featureImages/1775204472657-BT%20Astro%20%20%283%29.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1775022242791/assets/featureImages/1775024170382-BT%20Astro%20%20%281%29.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1774254972614/assets/featureImages/1774256233416-Astro%20healing.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1774249841391/assets/featureImages/1774250382182-BT%20Astro.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1774075156168/assets/featureImages/1774076180019-Bombay%20times.jpeg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1773731681826/assets/featureImages/1773733116714-Bombay%20Times%20Astro%20%282%29.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1773400656426/assets/featureImages/1773403117918-Bombay%20Times%20Astro.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1773128288473/assets/featureImages/1773137965141-Mind%20Your%20%28Body%29%20Language.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1772774790522/assets/featureImages/1772775457978-Get%20Rid%20of%20Those%20Mental%20Cobwebs.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1772471845379/assets/featureImages/1772472404125-How%20stress%20affect%20your%20body.jpeg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1772100416602/assets/featureImages/1772101418840-Gratitude%20.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1771929079398/assets/featureImages/1771930568727-Doodle%20answers.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1771597768413/assets/featureImages/1771599303441-how%20to%20let%20go.jpeg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1771311221068/assets/featureImages/1771314491451-How%20to%20drive%20fear.jpg&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1771057697952/assets/featureImages/1771058202864-LET%20IT%20GO.png&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1770735349827/assets/featureImages/1770735950336-Your%20paragraph%20text.png&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1770395250730/assets/featureImages/1770395537614-Your%20paragraph%20text.png&w=800&q=50&format=webp",
+        "https://cmsimages.timesofindia.com/image-resizer/Bombaytimes?s3_path=Bombaytimes/posts/1770127360534/assets/featureImages/1770130361937-Astro%20Healing.png&w=800&q=50&format=webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 57,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.bombaytimes.com/astro/healing#"
+        },
+        {
+            "text": "Salman Khan News Today: Why the Bollywood Superstar Is Trending All Over Social Media!",
+            "href": "https://www.bombaytimes.com/entertainment/bollywood/salman-khan-news-today-why-the-bollywood-superstar-is-trending-all-over-social-media/1779280312656"
+        },
+        {
+            "text": "‘Michael’ Best Scenes: Jaafar Jackson Channels the ‘King of Pop’ Perfectly in Blockbuster Michael Jackson Biopic",
+            "href": "https://www.bombaytimes.com/entertainment/global/michael-best-scenes-jaafar-jackson-channels-the-king-of-pop-perfectly-in-blockbuster-michael-jackson-biopic/1779276651299"
+        },
+        {
+            "text": "Mouni Roy Brings Desi Royalty to Cannes 2026 in a Stunning Gujarati Patola Gown, See Pics",
+            "href": "https://www.bombaytimes.com/lifestyle/style/mouni-roy-brings-desi-royalty-to-cannes-2026-in-a-stunning-gujarati-patola-gown-see-pics/1779269073127"
+        },
+        {
+            "text": "‘Khatron Ke Khiladi 15’ Contestants Fees: Who Is Likely the Highest Paid Contestant on Rohit Shetty’s Show?",
+            "href": "https://www.bombaytimes.com/entertainment/tv/khatron-ke-khiladi-15-contestants-fees-who-is-likely-the-highest-paid-contestant-on-rohit-shetty-s-show/1779272316858"
+        },
+        {
+            "text": "Seema Singh’s Cannes 2026 Appearance With Son Shrey Singh Is All About Grace, Glamour and Indian Culture",
+            "href": "https://www.bombaytimes.com/lifestyle/style/seema-singh-s-cannes-2026-appearance-with-son-shrey-singh-is-all-about-grace-glamour-and-indian-culture/1779269059924"
+        },
+        {
+            "text": "After ‘Mortal Kombat II’, Get ‘Mortal Kombat 3’ Update: From Storyline to Cast, All You Need to Know",
+            "href": "https://www.bombaytimes.com/entertainment/global/after-mortal-kombat-ii-get-mortal-kombat-3-update-from-storyline-to-cast-all-you-need-to-know/1779270152957"
+        },
+        {
+            "text": "'Dragon' Star Jr NTR Birthday: 5 Iconic Performances That Proved He is Tollywood’s True ‘Young Tiger’",
+            "href": "https://www.bombaytimes.com/entertainment/south/dragon-star-jr-ntr-birthday-5-iconic-performances-that-proved-he-is-tollywood-s-true-young-tiger/1779267346384"
+        },
+        {
+            "text": "‘Off Campus’ Season 2 Release Date Announced? Everything To Know About the Returning Briar University Series",
+            "href": "https://www.bombaytimes.com/entertainment/ott/off-campus-season-2-release-date-announced-everything-to-know-about-the-returning-briar-university-series/1779260232027"
+        },
+        {
+            "text": "Jr NTR’s ‘Dragon’ Cast, Release Date and Plot Details: An Assassin, a Cop and a Deadly Showdown Await",
+            "href": "https://www.bombaytimes.com/entertainment/south/jr-ntr-s-dragon-cast-release-date-and-plot-details-an-assassin-a-cop-and-a-deadly-showdown-await/1779266049142"
+        },
+        {
+            "text": "'India's Got Latent 2' Guest Rumours: Alia Bhatt, Sharvari on Samay Raina's Show? Leaked Image Goes Viral",
+            "href": "https://www.bombaytimes.com/lifestyle/viral/india-s-got-latent-2-guest-rumours-alia-bhatt-sharvari-on-samay-raina-s-show-leaked-image-goes-viral/1779262959338"
+        },
+        {
+            "text": "Daily Horoscope for May 20, 2026: What Today's Astrological Predictions Reveal for Scorpio, Aquarius, Aries and More",
+            "href": "https://www.bombaytimes.com/astro/predictions/daily-horoscope-for-may-20-2026-what-today-s-astrological-predictions-reveal-for-scorpio-aquarius-aries-and-more/1779261844058"
+        },
+        {
+            "text": "Jr NTR's Movie ‘Dragon’ Release Date: Prashanth Neel’s High-Octane Action Spectacle Unveils Powerful First Glimpse",
+            "href": "https://www.bombaytimes.com/entertainment/south/jr-ntr-s-movie-dragon-release-date-prashanth-neel-s-high-octane-action-spectacle-unveils-powerful-first-glimpse/1779258725410"
+        },
+        {
+            "text": "Jacqueline Fernandez Turns Heads at Cannes 2026 Chopard Miracles Gala in Elegant Vintage-Inspired Black Dress",
+            "href": "https://www.bombaytimes.com/lifestyle/style/jacqueline-fernandez-turns-heads-at-cannes-2026-chopard-miracles-gala-in-elegant-vintage-inspired-black-dress/1779256965230"
+        },
+        {
+            "text": "Preity Zinta’s Movie ‘Vibe’ Release Date: Actor Returns To Big Screen With Kunal Kemmu’s Action-Comedy After Long Hiatus",
+            "href": "https://www.bombaytimes.com/entertainment/bollywood/preity-zinta-s-movie-vibe-release-date-actor-returns-to-big-screen-with-kunal-kemmu-s-action-comedy-after-long-hiatus/1779254084952"
+        },
+        {
+            "text": "Box Office Collection Report (19 May 2026): ‘Karuppu’, ‘Pati Patni Aur Woh Do’, ‘Raja Shivaji’ And More, Which Film Is Winning The Audience?",
+            "href": "https://www.bombaytimes.com/entertainment/bollywood/box-office-collection-report-19-may-2026-karuppu-pati-patni-aur-woh-do-raja-shivaji-and-more-which-film-is-winning-the-audience/1779250508146"
+        },
+        {
+            "text": "",
+            "href": "https://www.youtube.com/@BombayTimes"
+        },
+        {
+            "text": "",
+            "href": "https://www.bombaytimes.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.bombaytimes.com/"
+        },
+        {
+            "text": "Astro",
+            "href": "https://www.bombaytimes.com/astro"
+        },
+        {
+            "text": "Predictions",
+            "href": "https://www.bombaytimes.com/astro/predictions"
+        },
+        {
+            "text": "Trends",
+            "href": "https://www.bombaytimes.com/astro/trends"
+        },
+        {
+            "text": "Healing",
+            "href": "https://www.bombaytimes.com/astro/healing"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.bombaytimes.com/"
+        },
+        {
+            "text": "Astro",
+            "href": "https://www.bombaytimes.com/astro"
+        },
+        {
+            "text": "What Is Your Contribution?",
+            "href": "https://www.bombaytimes.com/astro/healing/what-is-your-contribution/1778825965940"
+        },
+        {
+            "text": "The Art of Breathing Right",
+            "href": "https://www.bombaytimes.com/astro/healing/the-art-of-breathing-right/1778825636270"
+        },
+        {
+            "text": "The Power of Mental Decluttering",
+            "href": "https://www.bombaytimes.com/astro/healing/the-power-of-mental-decluttering/1778243730917"
+        },
+        {
+            "text": "Are We Ever Truly Unrelated?",
+            "href": "https://www.bombaytimes.com/astro/healing/are-we-ever-truly-unrelated/1777976626648"
+        },
+        {
+            "text": "What Determines Your Home’s Energy?",
+            "href": "https://www.bombaytimes.com/astro/healing/what-determines-your-home-s-energy/1777445389846"
+        },
+        {
+            "text": "Why Do We Love To Hate?",
+            "href": "https://www.bombaytimes.com/astro/healing/why-do-we-love-to-hate/1777355945640"
+        },
+        {
+            "text": "Make Space for the Energy",
+            "href": "https://www.bombaytimes.com/astro/healing/make-space-for-the-energy/1777031109657"
+        },
+        {
+            "text": "How To Get Your Energy Back",
+            "href": "https://www.bombaytimes.com/astro/healing/how-to-get-your-energy-back/1776766047117"
+        },
+        {
+            "text": "How To Keep Your Home Temple",
+            "href": "https://www.bombaytimes.com/astro/healing/how-to-keep-your-home-temple/1776417653593"
+        },
+        {
+            "text": "How To Practise Self-Authorship",
+            "href": "https://www.bombaytimes.com/astro/healing/how-to-practise-self-authorship/1776231282106"
+        },
+        {
+            "text": "Why Responsibility Sits on Your Shoulders",
+            "href": "https://www.bombaytimes.com/astro/healing/why-responsibility-sits-on-your-shoulders/1775817127802"
+        },
+        {
+            "text": "The Ancient Algorithm - What AI and Mantras Have in Common",
+            "href": "https://www.bombaytimes.com/astro/healing/the-ancient-algorithm-what-ai-and-mantras-have-in-common/1775538595520"
+        },
+        {
+            "text": "Success Is Rarely Absolute; It Is Relative",
+            "href": "https://www.bombaytimes.com/astro/healing/success-is-rarely-absolute-it-is-relative/1775203493252"
+        },
+        {
+            "text": "Allow Your Outcome To Invade You",
+            "href": "https://www.bombaytimes.com/astro/healing/allow-your-outcome-to-invade-you/1775022242791"
+        },
+        {
+            "text": "Find Your Inner Song",
+            "href": "https://www.bombaytimes.com/astro/healing/find-your-inner-song/1774254972614"
+        },
+        {
+            "text": "The Lost Art of Being Bored",
+            "href": "https://www.bombaytimes.com/astro/healing/the-lost-art-of-being-bored/1774249841391"
+        },
+        {
+            "text": "Taming Your Inner Dragon",
+            "href": "https://www.bombaytimes.com/astro/healing/taming-your-inner-dragon/1774075156168"
+        },
+        {
+            "text": "How Much Money Can You Handle?",
+            "href": "https://www.bombaytimes.com/astro/healing/how-much-money-can-you-handle/1773731681826"
+        },
+        {
+            "text": "How To Listen to Your Subconscious Mind",
+            "href": "https://www.bombaytimes.com/astro/healing/how-to-listen-to-your-subconscious-mind/1773400656426"
+        },
+        {
+            "text": "Mind Your Body Language",
+            "href": "https://www.bombaytimes.com/astro/healing/mind-your-body-language/1773128288473"
+        },
+        {
+            "text": "Get Rid of Those Mental Cobwebs",
+            "href": "https://www.bombaytimes.com/astro/healing/get-rid-of-those-mental-cobwebs/1772774790522"
+        },
+        {
+            "text": "It’s All About How We Program Ourselves",
+            "href": "https://www.bombaytimes.com/astro/healing/it-s-all-about-how-we-program-ourselves/1772471845379"
+        },
+        {
+            "text": "Have You Thanked Your Footwear?",
+            "href": "https://www.bombaytimes.com/astro/healing/have-you-thanked-your-footwear/1772100416602"
+        },
+        {
+            "text": "Doodle to Get Answers",
+            "href": "https://www.bombaytimes.com/astro/healing/doodle-to-get-answers/1771929079398"
+        },
+        {
+            "text": "Make It a Habit To Let Go",
+            "href": "https://www.bombaytimes.com/astro/healing/make-it-a-habit-to-let-go/1771597768413"
+        },
+        {
+            "text": "Does Fear Drive You?",
+            "href": "https://www.bombaytimes.com/astro/healing/does-fear-drive-you/1771311221068"
+        },
+        {
+            "text": "This Valentine’s Day, Choose To Let Go",
+            "href": "https://www.bombaytimes.com/astro/healing/this-valentine-s-day-choose-to-let-go/1771057697952"
+        },
+        {
+            "text": "The Energy of Green Rasam and Yellow Papad",
+            "href": "https://www.bombaytimes.com/astro/healing/the-energy-of-green-rasam-and-yellow-papad/1770735349827"
+        },
+        {
+            "text": "Are You Coded Like a Website?",
+            "href": "https://www.bombaytimes.com/astro/healing/are-you-coded-like-a-website/1770395250730"
+        },
+        {
+            "text": "How Much Do You Let Go?",
+            "href": "https://www.bombaytimes.com/astro/healing/how-much-do-you-let-go/1770127360534"
+        },
+        {
+            "text": "Terms of use",
+            "href": "https://www.bombaytimes.com/termsandconditions"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.bombaytimes.com/privacy-policy"
+        }
+    ],
+    "text_length": 2754,
+    "text_full": "Thursday, May 21, 2026\nTRENDING\nSalman Khan News Today: Why the Bollywood Superstar Is Trending All Over Social Media!‘Michael’ Best Scenes: Jaafar Jackson Channels the ‘King of Pop’ Perfectly in Blockbuster Michael Jackson BiopicMouni Roy Brings Desi Royalty to Cannes 2026 in a Stunning Gujarati Patola Gown, See Pics‘Khatron Ke Khiladi 15’ Contestants Fees: Who Is Likely the Highest Paid Contestant on Rohit Shetty’s Show?Seema Singh’s Cannes 2026 Appearance With Son Shrey Singh Is All About Grace, Glamour and Indian CultureAfter ‘Mortal Kombat II’, Get ‘Mortal Kombat 3’ Update: From Storyline to Cast, All You Need to Know'Dragon' Star Jr NTR Birthday: 5 Iconic Performances That Proved He is Tollywood’s True ‘Young Tiger’‘Off Campus’ Season 2 Release Date Announced? Everything To Know About the Returning Briar University SeriesJr NTR’s ‘Dragon’ Cast, Release Date and Plot Details: An Assassin, a Cop and a Deadly Showdown Await'India's Got Latent 2' Guest Rumours: Alia Bhatt, Sharvari on Samay Raina's Show? Leaked Image Goes ViralDaily Horoscope for May 20, 2026: What Today's Astrological Predictions Reveal for Scorpio, Aquarius, Aries and MoreJr NTR's Movie ‘Dragon’ Release Date: Prashanth Neel’s High-Octane Action Spectacle Unveils Powerful First GlimpseJacqueline Fernandez Turns Heads at Cannes 2026 Chopard Miracles Gala in Elegant Vintage-Inspired Black DressPreity Zinta’s Movie ‘Vibe’ Release Date: Actor Returns To Big Screen With Kunal Kemmu’s Action-Comedy After Long HiatusBox Office Collection Report (19 May 2026): ‘Karuppu’, ‘Pati Patni Aur Woh Do’, ‘Raja Shivaji’ And More, Which Film Is Winning The Audience?\nAstro\nPredictions\nTrends\nHealing\nHome\nAstro\nHealing\nLatest in Healing\nWhat Is Your Contribution?\nThe Art of Breathing Right\nThe Power of Mental Decluttering\nAre We Ever Truly Unrelated?\nWhat Determines Your Home’s Energy?\nWhy Do We Love To Hate?\nMake Space for the Energy\nHow To Get Your Energy Back\nHow To Keep Your Home Temple\nHow To Practise Self-Authorship\nWhy Responsibility Sits on Your Shoulders\nThe Ancient Algorithm - What AI and Mantras Have in Common\nSuccess Is Rarely Absolute; It Is Relative\nAllow Your Outcome To Invade You\nFind Your Inner Song\nThe Lost Art of Being Bored\nTaming Your Inner Dragon\nHow Much Money Can You Handle?\nHow To Listen to Your Subconscious Mind\nMind Your Body Language\nGet Rid of Those Mental Cobwebs\nIt’s All About How We Program Ourselves\nHave You Thanked Your Footwear?\nDoodle to Get Answers\nMake It a Habit To Let Go\nDoes Fear Drive You?\nThis Valentine’s Day, Choose To Let Go\nThe Energy of Green Rasam and Yellow Papad\nAre You Coded Like a Website?\nHow Much Do You Let Go?\nTerms of use Privacy Policy\nCopyright © 2026 Bennett, Coleman & Co. Ltd. All rights reserved."
+}

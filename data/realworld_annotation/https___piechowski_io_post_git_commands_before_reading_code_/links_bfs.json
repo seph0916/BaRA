@@ -1,0 +1,83 @@
+{
+  "start_url": "https://piechowski.io/post/git-commands-before-reading-code",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://piechowski.io/post/git-commands-before-reading-code",
+    "https://piechowski.io/",
+    "https://piechowski.io/work-with-me/",
+    "https://piechowski.io/post/",
+    "https://piechowski.io/tags/development/",
+    "https://piechowski.io/tags/git/",
+    "https://piechowski.io/tags/legacy/",
+    "https://piechowski.io/post/ruby-3-2-eol/",
+    "https://piechowski.io/tags/ruby/",
+    "https://piechowski.io/tags/rails/",
+    "https://piechowski.io/tags/upgrades/",
+    "https://piechowski.io/post/codebase-drag-audit/",
+    "https://piechowski.io/tags/leadership/",
+    "https://piechowski.io/post/vim-tabclose/",
+    "https://piechowski.io/tags/vim/",
+    "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/",
+    "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/",
+    "https://piechowski.io/tags/security/",
+    "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/",
+    "https://piechowski.io/post/why-is-default-scope-bad-rails/",
+    "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/",
+    "https://piechowski.io/post/action-controller-param-missing/",
+    "https://piechowski.io/tags/debugging/",
+    "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/",
+    "https://piechowski.io/post/let-and-context-rspec-pattern/",
+    "https://piechowski.io/tags/testing/",
+    "https://piechowski.io/tags/technical-debt/",
+    "https://piechowski.io/tags/engineering-management/",
+    "https://piechowski.io/post/vim-tabnew/",
+    "https://piechowski.io/post/how-to-open-current-opened-file-in-new-tab-vim/",
+    "https://piechowski.io/tags/career/",
+    "https://piechowski.io/tags/activerecord/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://piechowski.io/post/git-commands-before-reading-code"
+    ],
+    "1": [
+      "https://piechowski.io/",
+      "https://piechowski.io/work-with-me/",
+      "https://piechowski.io/post/",
+      "https://piechowski.io/tags/development/",
+      "https://piechowski.io/tags/git/"
+    ],
+    "2": [
+      "https://piechowski.io/tags/legacy/",
+      "https://piechowski.io/post/ruby-3-2-eol/",
+      "https://piechowski.io/tags/ruby/",
+      "https://piechowski.io/tags/rails/",
+      "https://piechowski.io/tags/upgrades/",
+      "https://piechowski.io/post/codebase-drag-audit/",
+      "https://piechowski.io/tags/leadership/",
+      "https://piechowski.io/post/vim-tabclose/",
+      "https://piechowski.io/tags/vim/",
+      "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+    ],
+    "3": [
+      "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/",
+      "https://piechowski.io/tags/security/",
+      "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/",
+      "https://piechowski.io/post/why-is-default-scope-bad-rails/",
+      "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/",
+      "https://piechowski.io/post/action-controller-param-missing/",
+      "https://piechowski.io/tags/debugging/",
+      "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/",
+      "https://piechowski.io/post/let-and-context-rspec-pattern/",
+      "https://piechowski.io/tags/testing/",
+      "https://piechowski.io/tags/technical-debt/",
+      "https://piechowski.io/tags/engineering-management/",
+      "https://piechowski.io/post/vim-tabnew/",
+      "https://piechowski.io/post/how-to-open-current-opened-file-in-new-tab-vim/",
+      "https://piechowski.io/tags/career/",
+      "https://piechowski.io/tags/activerecord/"
+    ]
+  },
+  "dead_links": []
+}

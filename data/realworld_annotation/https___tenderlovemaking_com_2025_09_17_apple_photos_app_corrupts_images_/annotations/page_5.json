@@ -1,0 +1,63 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://tenderlovemaking.com/images/logo1.png",
+        "https://tenderlovemaking.com/2026/01/01/pixoo64-ruby-client/images/P1010032.jpeg",
+        "https://tenderlovemaking.com/images/mastodon-icon.svg",
+        "https://tenderlovemaking.com/images/bluesky.svg",
+        "https://tenderlovemaking.com/images/github-icon.svg",
+        "https://tenderlovemaking.com/images/instagram-icon.svg",
+        "https://tenderlovemaking.com/images/x.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 11,
+    "links": [
+        {
+            "text": "",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Pixoo64 Ruby Client",
+            "href": "https://tenderlovemaking.com/2026/01/01/pixoo64-ruby-client/"
+        },
+        {
+            "text": "Pixoo64 LED Display",
+            "href": "https://divoom.com/products/pixoo-64"
+        },
+        {
+            "text": "a Ruby client for it",
+            "href": "https://github.com/tenderlove/pixoo-rb"
+        },
+        {
+            "text": "« go back",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Archives",
+            "href": "https://tenderlovemaking.com/archives"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/tenderlove.dev"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://instagram.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/tenderlove"
+        }
+    ],
+    "text_length": 628,
+    "text_full": "Pixoo64 Ruby Client\nPosted 4 months ago\n\nI bought a Pixoo64 LED Display to play around with, and I love it! It connects to WiFi and has an on-board HTTP API so you can program it. I made a Ruby client for it that even includes code to convert PNG files to the binary format the sign wants.\n\nOne cool thing is that the display can be configured to fetch data from a remote server, so I configured mine to fetch PM2.5 and CO2 data for my office.\n\nHere’s what it’s looking like so far:\n\nYes, this is how I discovered I need to open a window 😂\n\n« go back\nArchives\n \n \n \n \n\nCopyright © 2026 Tenderlovemaking.com All rights reserved."
+}

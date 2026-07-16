@@ -1,0 +1,15 @@
+{
+  "start_url": "https://ahooy.pl/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://ahooy.pl/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://ahooy.pl/"
+    ]
+  },
+  "dead_links": []
+}

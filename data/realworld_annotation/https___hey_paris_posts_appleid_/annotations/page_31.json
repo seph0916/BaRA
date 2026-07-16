@@ -1,0 +1,109 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://hey.paris/space-cover.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 24,
+    "links": [
+        {
+            "text": "Paris Buttfield-Addison",
+            "href": "https://hey.paris/"
+        },
+        {
+            "text": "EVENTS",
+            "href": "https://hey.paris/books-and-events/events/"
+        },
+        {
+            "text": "WRITING",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://hey.paris/about/"
+        },
+        {
+            "text": "POSTS",
+            "href": "https://hey.paris/all-posts/"
+        },
+        {
+            "text": "Lucie Cutting on Sunday mornings",
+            "href": "https://www.abc.net.au/listen/programs/hobart-sundays"
+        },
+        {
+            "text": "this edition of the programme",
+            "href": "https://www.abc.net.au/listen/programs/hobart-sundays/sundays/105593616"
+        },
+        {
+            "text": "moving US Space Command from Colorado Springs to Huntsville, Alabama",
+            "href": "https://edition.cnn.com/2025/09/02/science/trump-space-command-huntsville-alabama"
+        },
+        {
+            "text": "NORAD",
+            "href": "https://en.wikipedia.org/wiki/NORAD"
+        },
+        {
+            "text": "Cheyenne Mountain Complex",
+            "href": "https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex"
+        },
+        {
+            "text": "Stargate Program",
+            "href": "https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex#Television"
+        },
+        {
+            "text": "Rocket City",
+            "href": "https://apnews.com/article/d4c8b31ad3d245d8b5a71b2b4eaa9a21"
+        },
+        {
+            "text": "NASA’s Marshall Space Flight Center",
+            "href": "https://en.wikipedia.org/wiki/Marshall_Space_Flight_Center"
+        },
+        {
+            "text": "Melbourne-based Akula Tech successfully launched their AI processor to space on August 27th aboard a SpaceX Falcon 9",
+            "href": "https://www.businessnewsaustralia.com/articles/akula-tech-in-orbit-with-australias-most-advanced-ai-satellite-system.html"
+        },
+        {
+            "text": "rideshare revolution",
+            "href": "https://interactive.satellitetoday.com/via/september-2024/5-years-of-spacex-rideshare-missions-the-spoils-of-monopoly"
+        },
+        {
+            "text": "Tom Cruise’s much-hyped space movie remains firmly grounded after five years of headlines",
+            "href": "https://screenrant.com/tom-cruise-space-movie-filming-update-doug-liman/"
+        },
+        {
+            "text": "astronauts aboard the International Space Station recently prepared space sushi using everyday station ingredients",
+            "href": "https://www.space.com/space-exploration/private-spaceflight/iss-astronauts-serve-up-space-sushi"
+        },
+        {
+            "text": "archive of Space News",
+            "href": "https://hey.paris/tags/space-news/"
+        },
+        {
+            "text": "SPACE NEWS",
+            "href": "https://hey.paris/tags/space-news/"
+        },
+        {
+            "text": "ABC RADIO",
+            "href": "https://hey.paris/tags/abc-radio/"
+        },
+        {
+            "text": "RADIO",
+            "href": "https://hey.paris/tags/radio/"
+        },
+        {
+            "text": "← PREVIOUS\nCommBank's AI boyfriend",
+            "href": "https://hey.paris/posts/cba/"
+        },
+        {
+            "text": "NEXT →\nSpace News, October 2025",
+            "href": "https://hey.paris/posts/spacenews-october-2025/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://hey.paris/privacy/"
+        }
+    ],
+    "text_length": 7837,
+    "text_full": "Paris Buttfield-Addison\nTechnology · Policy · Games · Arts · Education · Writing\nEVENTS\nWRITING\nABOUT\nPOSTS\nSEPTEMBER 7, 2025\nSpace News, September 2025\n\nThese are my notes and expanded thoughts from this month’s Space News segment on ABC Radio Hobart and ABC Northern Tasmania. Every month I join Lucie Cutting on Sunday mornings to chat about what’s happening above and beyond.\n\nHere’s what we discussed, plus some of my notes, from this edition of the programme:\n\nSpace Command: Politics Over Strategy\n\nPresident Trump announced he’s moving US Space Command from Colorado Springs to Huntsville, Alabama—reversing the Biden administration’s decision and bringing domestic politics into military space strategy. This isn’t just bureaucratic reshuffling, it’s a $1 billion economic decision affecting 1,400 jobs and America’s space defence capabilities.\n\nColorado Springs has housed space operations since 1985, including NORAD and the famous Cheyenne Mountain Complex that tracks everything in orbit (and Santa every Christmas, and houses the fun, interesting, Stargate Program). It’s got four decades of institutional knowledge, established infrastructure, and the Space Force Academy. Huntsville, meanwhile, is “Rocket City”, home to NASA’s Marshall Space Flight Center where the Saturn V Moon rockets were built, and Wernher von Braun’s German rocket team established America’s rocket program after WWII.\n\nThe Air Force’s own evaluation found Huntsville would cost $426 million less but take three to four years to set up temporary facilities matching what Colorado already has. A Government Accountability Office report found “significant shortfalls in transparency and credibility” in the decision-making process. Trump’s justification included controversial comments about Colorado’s mail-in voting system, suggesting this decision is designed more for domestic political consumption than space superiority.\n\nBoth locations have aerospace heritage, but Colorado officials are fighting back, united in trying to reverse the decision. This highlights how space policy increasingly intersects with domestic politics; space commands are now political footballs rather than purely strategic assets.\n\nRiding the Bus to Orbit\n\nWhile Trump moves space commands around, Australia’s space sector is quietly achieving remarkable things. Melbourne-based Akula Tech successfully launched their AI processor to space on August 27th aboard a SpaceX Falcon 9, representing a potentially clever new model for how small countries access space.\n\nInstead of building entire satellites, Akula Tech used the “hosted payload” approach; their AI processor “rides the bus” on an Indian-built satellite platform from Dhruva Space. This cost revolution allows Australian companies to focus on world-class component design without the massive overhead of satellite manufacturing. Akula’s processor shares the mission with another Melbourne company, Esper Satellites, creating a complete Earth observation system.\n\nThe technical innovation is impressive: Nexus-01 processes hyperspectral data from raw sensor input to fully analysed insights entirely in space, cutting processing time from days to minutes. Traditional satellites downlink massive datasets for ground processing; this AI optimization compresses complex models to run efficiently in space’s harsh environment, with adaptive learning that improves performance over time.\n\nFounded in June 2022, Akula progressed from concept to orbit in just three years and was named Business of the Year (SME) at the 2025 Australian Space Awards. They’re already planning their second mission, building toward a potential autonomous constellation of Australian smart satellites. This demonstrates how Australian startups can, hopefully, compete globally through strategic partnerships rather than massive capital investment—a model that could provide Australia with real-time space-based intelligence for defence, emergency response, and climate monitoring without relying on foreign ground processing.\n\nThe success follows Gilmour Space’s milestone first launch last month, showing Australia’s space sector is developing across multiple fronts through the “rideshare revolution that allows smaller nations to participate meaningfully in space.\n\nTom Cruise’s Hollywood Vapourware\n\nIn other news that’s going absolutely nowhere, Tom Cruise’s much-hyped space movie remains firmly grounded after five years of headlines. At the Venice Film Festival in September, director Doug Liman admitted he’s made zero progress and has no concrete plans for the $200 million Universal project that was supposed to make Cruise “the first civilian to perform a spacewalk.”\n\nFirst announced in 2020, the project was classic Hollywood vapourware… announce big, deliver nothing. Liman’s latest comment translates to: still no script, no timeline, just “a dream and a plan.” He’s worried about making something that’s “just a promotional gimmick” rather than a film people will watch in a hundred years, but after five years of gesticulation, it’s hard to take seriously.\n\nBoth NASA and SpaceX were reportedly on board to help, but both Cruise and Liman are tied up with other projects. Meanwhile, actual astronauts continue doing the real hard work of space exploration. As I noted during our discussion, becoming an astronaut is still one of the hardest things on the planet, and money shouldn’t get a pass. Can we stop trivialising what it takes to be an astronaut just because someone’s famous and wealthy?\n\nSpace Sushi: Human Creativity in Orbit\n\nOn a more positive note, astronauts aboard the International Space Station recently prepared space sushi using everyday station ingredients: rice, spam, fish, crackers, and condiments. In microgravity, foods are vacuum-sealed, utensils are magnetic, and everything must be tethered to prevent floating away. Both plates were attached to the table using Velcro strips.\n\nOne plate included shrimp with wheat crackers held down by condiment weight, while the other featured sushi with seaweed, rice, tuna, and spam that adhered through surface tension from moisture. Space sushi has been popular aboard the ISS for over a decade—Japanese astronaut Soichi Noguchi first brought raw seafood in February 2010, introducing the cuisine to orbit.\n\nThis matters more than you might think. Food is crucial for crew morale during long-duration missions to Mars. Cultural food traditions help maintain psychological connection to Earth, and shared meal preparation becomes recreational activity and team bonding experience. It demonstrates that human creativity thrives even in the most constrained environments—space travel doesn’t mean abandoning human traditions and creativity.\n\nFor Australia’s space ambitions, it raises interesting questions: if we send astronauts to the ISS, what foods would represent our culture in space? The technical challenges of preparing Australian foods in microgravity (Vegemite on toast?) could become part of cultural diplomacy through food sharing with international crews.\n\nThese stories matter because they show the practical realities and politics of expanding human activity in space. Military space commands become political footballs, innovative partnerships allow small countries to compete globally, Hollywood projects become expensive vapour, and astronauts maintain human culture through creative cooking. Space exploration remains fascinating partly because it reveals so much about how we organise ourselves, compete, innovate, and maintain our humanity beyond Earth.\n\nNext month I’ll be back on ABC Radio Hobart and ABC Northern Tasmania with Lucie for more space news.\n\nView the archive of Space News.\n\nSPACE NEWS\nABC RADIO\nRADIO\n← PREVIOUS\nCommBank's AI boyfriend\nNEXT →\nSpace News, October 2025\n\n© 2026 Dr Paris Buttfield-Addison · Privacy"
+}

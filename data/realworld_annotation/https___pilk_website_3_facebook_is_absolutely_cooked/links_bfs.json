@@ -1,0 +1,27 @@
+{
+  "start_url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://pilk.website/3/facebook-is-absolutely-cooked",
+    "https://pilk.website/2/model-is-6-2-wearing-size-medium",
+    "https://pilk.website/4/custom-clothing-is-cheap-and-easy",
+    "https://pilk.website/feed.xml",
+    "https://pilk.website/1/i-want-you-to-create-something-original"
+  ],
+  "by_depth": {
+    "0": [
+      "https://pilk.website/3/facebook-is-absolutely-cooked"
+    ],
+    "1": [
+      "https://pilk.website/2/model-is-6-2-wearing-size-medium",
+      "https://pilk.website/4/custom-clothing-is-cheap-and-easy",
+      "https://pilk.website/feed.xml"
+    ],
+    "2": [
+      "https://pilk.website/1/i-want-you-to-create-something-original"
+    ]
+  },
+  "dead_links": []
+}

@@ -1,0 +1,178 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://static.jstree.com/3.3.17/assets/images/browsers.png",
+        "https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 41,
+    "links": [
+        {
+            "text": "jsTree - jQuery tree plugin\n3.3.17",
+            "href": "https://jstree.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Demo",
+            "href": "https://www.jstree.com/demo"
+        },
+        {
+            "text": "API",
+            "href": "https://www.jstree.com/api"
+        },
+        {
+            "text": "Plugins",
+            "href": "https://www.jstree.com/plugins"
+        },
+        {
+            "text": "open source",
+            "href": "https://github.com/vakata/jstree/"
+        },
+        {
+            "text": "MIT license",
+            "href": "https://raw.githubusercontent.com/vakata/jstree/master/LICENSE-MIT"
+        },
+        {
+            "text": "Download",
+            "href": "https://github.com/vakata/jstree/zipball/3.3.17"
+        },
+        {
+            "text": "Discuss",
+            "href": "https://groups.google.com/forum/#!forum/jstree"
+        },
+        {
+            "text": "Report bugs",
+            "href": "https://github.com/vakata/jstree/issues?state=open"
+        },
+        {
+            "text": "Donate",
+            "href": "https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@vakata.com&currency_code=USD&amount=&return=//jstree.com/donation&item_name=Buy+me+a+coffee+for+jsTree"
+        },
+        {
+            "text": "Root node 1",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "initially selected",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "custom icon URL",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "initially open",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Another node",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Custom icon class (bootstrap)",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Same but with checkboxes",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "initially selected",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "custom icon URL",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "initially open",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Another node",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "custom icon class",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "And wholerow selection",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Overview",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Configuration",
+            "href": "https://www.jstree.com/docs/config"
+        },
+        {
+            "text": "HTML data",
+            "href": "https://www.jstree.com/docs/html"
+        },
+        {
+            "text": "JSON data",
+            "href": "https://www.jstree.com/docs/json"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.jstree.com/docs/events"
+        },
+        {
+            "text": "Interaction",
+            "href": "https://www.jstree.com/docs/interaction"
+        },
+        {
+            "text": "the list of all events",
+            "href": "https://www.jstree.com/api/#/?q=.jstree%20Event"
+        },
+        {
+            "text": ".get_node()",
+            "href": "https://www.jstree.com/api/#/?f=get_node"
+        },
+        {
+            "text": "Root 1",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Child 1",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Child 2",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Root 2",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Child 3",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "Child 4",
+            "href": "https://www.jstree.com/docs/events/#"
+        },
+        {
+            "text": "click here for the old site (v.1)",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/vakata/jstree"
+        }
+    ],
+    "text_length": 2448,
+    "text_full": "jsTree - jQuery tree plugin\n3.3.17\n Home\n Demo\n API\n Plugins\n What is jsTree?\n\njsTree is jquery plugin, that provides interactive trees. It is absolutely free, open source and distributed under the MIT license. jsTree is easily extendable, themable and configurable, it supports HTML & JSON data sources and AJAX loading.\n\njsTree functions properly in either box-model (content-box or border-box), can be loaded as an AMD module, and has a built in mobile theme for responsive design, that can easily be customized. It uses jQuery's event system, so binding callbacks on various events in the tree is familiar and easy.\n\nJust a few of the features worth noting:\n\n drag & drop support  keyboard navigation  inline edit, create and delete  tri-state checkboxes  fuzzy searching  customizable node types\n\n\nChrome 14+, Firefox 3.5+, Opera 12+, Safari 4+, IE8+\nolder versions may work, but are not tested\n\n  Download   Discuss   Report bugs    Donate\n\nRoot node 1\ninitially selected\ncustom icon URL\ninitially open\nAnother node\nCustom icon class (bootstrap)\nRoot node 2\n \nSame but with checkboxes\n \ninitially selected\n \ncustom icon URL\n \ninitially open\n \nAnother node\n \ncustom icon class\n \nAnd wholerow selection\nOverview\nConfiguration\nHTML data\nJSON data\nEvents\nInteraction\n Listening for events\n\njsTree triggers various events on the container. You can review the list of all events to know what to listen for.\n\nTo get more information about the event inspect its data argument.\n\nIn most cases where a node is involved you will get the whole node object passed in. If you get an ID string somewhere and want to inspect the node just use .get_node(). The internal node object is very similar to the JSON format used for loading, but has a few extra properties, which might be useful: children is an array of all the IDs of the node's immediate children, children_d is an array of all the IDs of the node's descendants, parent is the IDs of the node's parent and parents is an array of all the IDs of the node's ancestors.\n\n\n$('#jstree')\n  // listen for event\n  .on('changed.jstree', function (e, data) {\n    var i, j, r = [];\n    for(i = 0, j = data.selected.length; i < j; i++) {\n      r.push(data.instance.get_node(data.selected[i]).text);\n    }\n    $('#event_result').html('Selected: ' + r.join(', '));\n  })\n  // create the instance\n  .jstree();\n\t\t\t\t\t\t\nRoot 1\nChild 1\nChild 2\nRoot 2\nChild 3\nChild 4\nSelected:\nRoot 1\n\nclick here for the old site (v.1)"
+}

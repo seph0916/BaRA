@@ -1,0 +1,183 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 43,
+    "links": [
+        {
+            "text": "Welcome",
+            "href": "https://plainvanillaweb.com/index.html"
+        },
+        {
+            "text": "Components",
+            "href": "https://plainvanillaweb.com/pages/components.html"
+        },
+        {
+            "text": "Styling",
+            "href": "https://plainvanillaweb.com/pages/styling.html#"
+        },
+        {
+            "text": "Sites",
+            "href": "https://plainvanillaweb.com/pages/sites.html"
+        },
+        {
+            "text": "Applications",
+            "href": "https://plainvanillaweb.com/pages/applications.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#reset"
+        },
+        {
+            "text": "modern-normalize",
+            "href": "https://github.com/sindresorhus/modern-normalize"
+        },
+        {
+            "text": "Include it from CDN",
+            "href": "https://www.jsdelivr.com/package/npm/modern-normalize"
+        },
+        {
+            "text": "Kraken",
+            "href": "https://cferdinandi.github.io/kraken/"
+        },
+        {
+            "text": "Include it from CDN",
+            "href": "https://cdnjs.com/libraries/Kraken"
+        },
+        {
+            "text": "Pico CSS",
+            "href": "https://picocss.com/"
+        },
+        {
+            "text": "Include it from CDN",
+            "href": "https://picocss.com/docs#usage-from-cdn"
+        },
+        {
+            "text": "Tailwind",
+            "href": "https://tailwindcss.com/"
+        },
+        {
+            "text": "Include it from CDN",
+            "href": "https://tailwindcss.com/docs/installation/play-cdn"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#fonts"
+        },
+        {
+            "text": "Modern Font Stacks",
+            "href": "https://modernfontstacks.com/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#toolbox"
+        },
+        {
+            "text": "CSS variables",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"
+        },
+        {
+            "text": "calc()",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/calc"
+        },
+        {
+            "text": "CSS variables are passed into the shadow DOM",
+            "href": "https://javascript.info/shadow-dom-style"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#files"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#scope"
+        },
+        {
+            "text": "browser support",
+            "href": "https://caniuse.com/css-nesting"
+        },
+        {
+            "text": "CSS Nesting",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting"
+        },
+        {
+            "text": "expose an API for styling",
+            "href": "https://meowni.ca/posts/part-theme-explainer/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#replacing-css-modules"
+        },
+        {
+            "text": "example of CSS modules",
+            "href": "https://nextjs.org/docs/14/app/building-your-application/styling/css-modules"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#replacing-postcss"
+        },
+        {
+            "text": "PostCSS",
+            "href": "https://postcss.org/"
+        },
+        {
+            "text": "works across browsers unprefixed",
+            "href": "https://caniuse.com/mdn-css_selectors_fullscreen"
+        },
+        {
+            "text": "works across browsers",
+            "href": "https://caniuse.com/?search=oklch"
+        },
+        {
+            "text": "vscode-stylelint extension",
+            "href": "https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/styling.html#replacing-sass"
+        },
+        {
+            "text": "SASS",
+            "href": "https://sass-lang.com/guide/"
+        },
+        {
+            "text": "CSS custom properties",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"
+        },
+        {
+            "text": "widely supported",
+            "href": "https://caniuse.com/css-nesting"
+        },
+        {
+            "text": "CSS mixins",
+            "href": "https://github.com/w3c/csswg-drafts/issues/9350"
+        },
+        {
+            "text": "calc()",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/calc"
+        },
+        {
+            "text": "Make Sites",
+            "href": "https://plainvanillaweb.com/pages/sites.html"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/pages/styling.html#top"
+        }
+    ],
+    "text_length": 10692,
+    "text_full": "Styling\nWelcome\nComponents\nStyling\nSites\nApplications\nBlog\nModern CSS\n\nModern web applications are built on top of rich tooling for dealing with CSS, relying on plenty of NPM packages and build steps. A vanilla web application has to choose a lighter weight path, abandoning the preprocessed modern CSS approaches and choosing strategies that are browser native.\n\nReset\n\nResetting the styles to a cross-browser common baseline is standard practice in web development, and vanilla web apps are no different.\n\nA minimal reset is the one used by this site:\n\nreset.css\n/* generic minimal CSS reset\n   inspiration: https://www.digitalocean.com/community/tutorials/css-minimal-css-reset */\n\n:root {\n    box-sizing: border-box;\n    line-height: 1.6;\n    /* https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/ */\n    -moz-text-size-adjust: none;\n    -webkit-text-size-adjust: none;\n    text-size-adjust: none;\n}\n\n*, *::before, *::after {\n    box-sizing: inherit;\n}\n\nbody, h1, h2, h3, h4, h5, h6, p {\n    margin: 0;\n    padding: 0;\n    font-weight: normal;\n}\n\nimg {\n    max-width:100%;\n    height:auto;\n}\n\n\nOther options, in increasing order of complexity:\n\nmodern-normalize\n\nA more comprehensive solution for resetting CSS for modern browsers.\n\nInclude it from CDN\n\nKraken\n\nA starting point for front-end projects. It includes a CSS reset, typography, a grid, and other conveniences.\n\nInclude it from CDN\n\nPico CSS\n\nA complete starter kit for styling of semantic HTML that includes a CSS reset.\n\nInclude it from CDN\n\nTailwind\n\nIf you're going to be using Tailwind anyway, you may as well lean on its CSS reset.\n\nInclude it from CDN\n\nFonts\n\nTypography is the keystone of a web site or web application. A lean approach like vanilla web development should be matched with a lean approach for typography. Modern Font Stacks describes a varied selection of commonly available fonts with good fallbacks, avoiding the need to load custom fonts and add external dependencies.\n\nThis site uses the Geometric Humanist stack for normal text, and the Monospace Code stack for source code.\n\nThe Toolbox\n\nIn any real world web project the amount of CSS quickly becomes unwieldy unless it is well-structured. Let's look at the toolbox that CSS provides us in modern browsers to provide that structure.\n\n@import\n\nThe most basic structuring technique is separating CSS into multiple files. We could add all those files in order as <link> tags into the index.html but this quickly becomes unworkable if we have multiple HTML pages. Instead it is better to @import them into the index.css where they will still download in parallel.\n\nFor example, here's the main CSS file for this site:\n\nindex.css\n@import \"./styles/reset.css\";\n@import \"./styles/variables.css\";\n@import \"./styles/global.css\";\n@import \"./components/code-viewer/code-viewer.css\";\n@import \"./components/tab-panel/tab-panel.css\";\n\n\nBelow is a recommended organization of CSS files.\n\nCustom properties (variables)\n\nCSS variables can be used to define the site's font and theme in a central place.\n\nFor example, here are the variables for this site:\n\nvariables.css\n:root {\n    /* https://modernfontstacks.com/\n       geometric humanist font */\n    --font-system: Avenir, Montserrat, Corbel, source-sans-pro, sans-serif;\n    /* monospace code font */\n    --font-system-code: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;\n    --font-system-code-size: 0.8rem;\n\n    --base-color: #FFCC4D;\n    --base-color-tint-light: #ffdb82;\n    --base-color-tint-lighter: #fff5db;\n    --base-color-shade-dark: #b38f36;\n    --base-color-shade-darker: #191408;\n\n    --background-color-html: #969696;\n    --background-color-html-shadow: #404040;\n    --background-color: #fdfdfd;\n    --background-color-mute: #f2f2f2;\n\n    --text-color: black;\n    --text-color-mute: hsl(0, 0%, 40%);\n\n    --background-color-invert: var(--base-color-shade-darker);\n    --text-color-invert: white;\n\n    --link-color: black;\n\n    --border-color: black;\n\n    --code-text-color: var(--text-color);\n    --code-text-color-bg: inherit;\n\n    --panel-title-color: black;\n    --panel-title-color-bg: var(--base-color-tint-lighter);\n\n    --body-padding-lr: 5em;\n    --body-padding-tb: 3em;\n\n}\n\n@media screen and (max-width: 600px) {\n    :root {\n        --body-padding-lr: 3em;\n        --body-padding-tb: 3em;\n    }\n}\n\n\nCSS variables become even more capable when combined with calc().\n\nCustom elements\n\nStyles can be easily scoped to a custom element's tag.\n\nFor example, the styles of the avatar component from the components page are all prepended by the x-avatar selector:\n\navatar.css\nx-avatar {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 2.5rem;\n    height: 2.5rem;\n}\n\nx-avatar[size=lg] {\n    width: 3.5rem;\n    height: 3.5rem;\n}\n\nx-avatar img {\n    border-radius: 9999px;\n    width: 100%;\n    height: 100%;\n    vertical-align: middle;\n    object-fit: cover;\n}\n\n\nCustom elements can also have custom attributes that selectors can leverage, as with the [size=lg] style in this example.\n\nShadow DOM\n\nAdding a shadow DOM to a web component further isolates its styles from the rest of the page. For example, the x-header component from the previous page styles its h1 element inside its CSS, without affecting the containing page or the header's child elements.\n\nAll CSS files that need to apply to the shadow DOM must be loaded into it explicitly, but CSS variables are passed into the shadow DOM.\n\nA limitation of shadow DOMs is that to use custom fonts inside them, they must first be loaded into the light DOM.\n\nFiles\n\nThere are many ways to organize CSS files in a repository, but this is the one used here:\n\n/index.css\nThe root CSS file that imports all the other ones using @import.\n/styles/reset.css\nThe reset stylesheet is the first thing imported.\n/styles/variables.css\nAll CSS variables are defined in this separate file, including the font system.\n/styles/global.css\nThe global styles that apply across the web pages of the site.\n/components/example/example.css\nAll styles that aren't global are specific to a component, in a CSS file located next to the component's JS file.\nScope\n\nIn order to avoid conflicting styles between pages and components we want to scope styles locally by default. There are two main ways of achieving that in vanilla web development.\n\nPrefixed selectors\n\nFor custom elements that don't have a shadow DOM we can prefix the styles with the tag of the custom element. For example, here's a simple web component that uses prefixed selectors to create a local scope:\n\nindex.htmlindex.jsindex.cssexample.jsexample.css\ncomponents/example/example.css\nx-example p {\n    font-family: casual, cursive;\n    color: darkblue;\n}\nTip: CSS Nesting\n\nIf you want a cleaner syntax, and you are comfortable with the browser support, consider using CSS Nesting.\n\ncomponents/example/example.css\nx-example {\n    p {\n        font-family: casual, cursive;\n        color: darkblue;\n    }\n}\nShadow DOM import\n\nCustom elements that use a shadow DOM start out unstyled with a local scope, and all styles must be explicitly imported into them. Here is the prefixed example reworked to use a shadow DOM instead.\n\nindex.htmlindex.jsexample.jsexample.css\ncomponents/example/example.css\np {\n    font-family: casual, cursive;\n    color: darkblue;\n}\n\nTo reuse styles from the surrounding page inside the shadow DOM, consider these options:\n\nCommon CSS files can be imported inside the shadow DOM using <link> tags or @import.\nCSS variables defined in the surrounding page can be referenced inside the shadow DOM's styles.\nFor advanced shadow domination the ::part pseudo-element can be used to expose an API for styling.\nReplacing CSS modules\n\nThe local scoping feature of CSS modules can be replaced by one of the scoping mechanisms described above. For instance, let's take the example of CSS modules from the Next.JS 14 documentation:\n\nlayout.tsxstyles.module.css\napp/dashboard/layout.tsx\nimport styles from './styles.module.css'\n \nexport default function DashboardLayout({\n  children,\n}: {\n  children: React.ReactNode\n}) {\n  return <section className={styles.dashboard}>{children}</section>\n}\n\nAs a vanilla web component, this is what that looks like:\n\nlayout.jsstyles.css\ncomponents/dashboard/layout.js\nclass Layout extends HTMLElement {\n    constructor() {\n        super();\n        this.attachShadow({ mode: 'open' });\n        this.shadowRoot.innerHTML = `\n            <link rel=\"stylesheet\" href=\"${import.meta.resolve('styles.css')}\">\n            <section class=\"dashboard\"><slot></slot></section>\n        `;\n    }\n}\n\nexport const registerLayoutComponent = \n    () => customElements.define('x-layout', Layout);\n\n\nBecause the shadow DOM does not inherit the page's styles, the styles.css must first import the styles that are shared between the page and the shadowed web component.\n\nReplacing PostCSS\n\nLet's go over the main page of PostCSS to review its feature set.\n\nAdd vendor prefixes to CSS rules using values from Can I Use.\nVendor prefixes are no longer needed for most use cases. The :fullscreen pseudo-class shown in the example now works across browsers unprefixed.\nConvert modern CSS into something most browsers can understand.\nThe modern CSS you want to use is most likely already supported. The color: oklch() rule shown in the example now works across browsers.\nCSS Modules\nSee the alternatives described in the previous section.\nEnforce consistent conventions and avoid errors in your stylesheets with stylelint.\nThe vscode-stylelint extension can be added into Visual Studio Code to get the same linting at develop time, without needing it to be baked into a build step.\n\nBottom line: Microsoft's dropping of support for IE11 combined with the continuing improvements of evergreen browsers has made PostCSS largely unnecessary.\n\nReplacing SASS\n\nSimilarly to PostCSS, let's go over the main feature set of SASS:\n\nVariables\nReplaced by CSS custom properties.\nNesting\nCSS nesting is widely supported across major browsers.\nModules\nCan be approximated by a combination of @import, CSS variables, and the scoping mechanisms described above.\nMixins\nRegrettably the CSS mixins feature that will replace this is still in specification.\nOperators\nIn many cases can be replaced by the built-in calc() feature.\n\nBottom-line: SASS is a lot more powerful than PostCSS, and while many of its features have a vanilla alternative it is not as easy to replace entirely. YMMV whether the added complexity of the SASS preprocessor is worth the additional abilities.\n\nUp next\n\nLearn about making vanilla sites with web components.\n\nMake Sites\n\nContact GitHub\n\nBack to top"
+}

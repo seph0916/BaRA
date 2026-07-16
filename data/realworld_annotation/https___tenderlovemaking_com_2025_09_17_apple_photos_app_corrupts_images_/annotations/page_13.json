@@ -1,0 +1,62 @@
+{
+    "image_count": 6,
+    "images": [
+        "https://tenderlovemaking.com/images/logo1.png",
+        "https://tenderlovemaking.com/images/mastodon-icon.svg",
+        "https://tenderlovemaking.com/images/bluesky.svg",
+        "https://tenderlovemaking.com/images/github-icon.svg",
+        "https://tenderlovemaking.com/images/instagram-icon.svg",
+        "https://tenderlovemaking.com/images/x.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 11,
+    "links": [
+        {
+            "text": "",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Eliminating Intermediate Array Allocations",
+            "href": "https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/"
+        },
+        {
+            "text": "RailsWorld",
+            "href": "https://rubyonrails.org/world/2024"
+        },
+        {
+            "text": "Shopify after-party at RailsWorld",
+            "href": "https://rubyonrails.org/world/2024/day-2/closing-party"
+        },
+        {
+            "text": "« go back",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Archives",
+            "href": "https://tenderlovemaking.com/archives"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/tenderlove.dev"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://instagram.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/tenderlove"
+        }
+    ],
+    "text_length": 9464,
+    "text_full": "Eliminating Intermediate Array Allocations\nPosted last year\n\nRecently I gave a talk at RailsWorld (hopefully they’ll post the video soon), and part of my presentation was about eliminating allocations in tokenizers. I presented a simple function for measuring allocations:\n\ndef allocations\n\n  x = GC.stat(:total_allocated_objects)\n\n  yield\n\n  GC.stat(:total_allocated_objects) - x\n\nend\n\n\nEverything in Ruby is an object, but not all objects actually make allocations. We can use the above function to measure allocations made in a block. Here are some examples of code that never allocate:\n\np allocations { true }                  # => 0\n\np allocations { false }                 # => 0\n\np allocations { nil }                   # => 0\n\np allocations { :hello }                # => 0\n\np allocations { 1 }                     # => 0\n\np allocations { 2.3 }                   # => 0\n\np allocations { 0xFFFF_FFFF_FFFF_FFFF } # => 0\n\n\nLiterals like booleans, nil, symbols, integers, and floats are represented internally to CRuby as “tagged pointers” and they don’t allocate anything when executed.\n\nHere is an example of code that sometimes allocates:\n\n# Depends on the size of the number\n\np allocations { 1 + 2 }                     # => 0\n\np allocations { 0x3FFF_FFFF_FFFF_FFFF + 1 } # => 1\n\n\n\n# Depends on `frozen_string_literal`\n\np allocations { \"hello!\" }                  # => 0 or 1\n\n\nMath on integers generally doesn’t allocate anything, but it depends on the integer. When a number gets large enough, CRuby will allocate an object to represent that number. On 64 bit platforms, the largest whole number we can represent without allocating is 0x3FFF_FFFF_FFFF_FFFF.\n\nString literals will sometimes allocate, but it depends on the frozen_string_literal setting in your program.\n\nHere is an example of code that always allocates:\n\np allocations { [1, 2] }      # => 1\n\np allocations { { a: :b } }   # => 1\n\np allocations { Object.new }  # => 1\n\np allocations { \"foo\"[0, 1] } # => 1\n\n\nHopefully these examples are fairly straightforward. Arrays, hashes, objects, string slices, etc will allocate an object.\n\nEliminating Intermediate Array Allocations\n\nAt the Shopify after-party at RailsWorld, someone asked me a really great question. Their codebase has a RuboCop rule that says that when doing min or max calculations, you should always have code like this:\n\ndef foo(x, y)\n\n  [x, y].max\n\nend\n\n\nThey were concerned this is wasteful as it has an Array literal, so it will be allocating an array every time!\n\nI think this is a really great question, and if you read my earlier allocation measurement examples, I think it’s a very reasonable conclusion. However, it’s actually not the case. This code in particular will not allocate an array, and I thought we’d look in to how that works.\n\nThe compiler in Ruby is able to tell a few important things about this code. First, we’re calling a method on an array literal which means that we’re guaranteed that the max method will be sent to an array object. Second, we know statically that we’re calling the max method. Third, the max method that is implemented in core Ruby will not mutate its receiver, and it returns some value (an integer) that isn’t the array literal.\n\nSince the compiler knows that the array literal is ephemeral, it allocates the array on the stack, does the max calculation, then throws away the array, never asking the GC for a new object.\n\nTo get a more concrete picture, lets look at the instruction sequences for the above code:\n\ndef foo(x, y)\n\n  [x, y].max\n\nend\n\n\n\ninsn = RubyVM::InstructionSequence.of(method(:foo))\n\nputs insn.disasm\n\n== disasm: #<ISeq:foo@x.rb:1 (1,0)-(1,30)>\nlocal table (size: 2, argc: 2 [opts: 0, rest: -1, post: 0, block: -1, kw: -1@-1, kwrest: -1])\n[ 2] x@0<Arg>   [ 1] y@1<Arg>\n0000 getlocal_WC_0                          x@0                       (   1)[LiCa]\n0002 getlocal_WC_0                          y@1\n0004 opt_newarray_send                      2, 1\n0007 leave                                  [Re]\n\n\nThe first two instructions fetch the locals x and y, and push them on the stack. Next we have a special instruction opt_newarray_send. This instruction takes two parameters, 2, 1. It’s a bit cryptic, but the 2 means that this instruction is going to operate on two stack elements. The 1 is an enum and means “we want to call the max method”.\n\nThe opt_newarray_send instruction will first check to see if Array#max has been monkey patched. If it has been monkey patched, then the instruction will allocate a regular array and call the monkey patched method. If it hasn’t been monkey patched, then it calls a “max” function which uses Ruby’s stack as an array buffer.\n\nHere is what the stack looks like before executing opt_newarray_send:\n\n+----+-------------+-------------+\n|    | Stack Index | Stack Value |\n+----+-------------+-------------+\n|    | -2          | x           |\n|    | -1          | y           |\n| SP | 0           | Undef       |\n+----+-------------+-------------+\n\n\nThe opt_newarray_send instruction was passed the value 2, so it knows to start the array at negative 2 relative to the stack pointer (SP). Since the stack is just an array, it calls the same function that the max function would normally call, popping 2 values from the stack, then pushing the return value of the max function.\n\nIn this way we can calculate the max value without allocating the intermediate array.\n\nIf we use our allocations function, we can confirm that the foo method indeed does not allocate anything:\n\ndef foo(x, y)\n\n  [x, y].max\n\nend\n\n\n\nallocations { foo(3, 4) } # heat inline caches\n\np allocations { foo(3, 4) } # => 0\n\nAaron’s Opinion Corner\n\nI don’t really know RuboCop very well, but I think that in cases like this it would be really helpful if the linter were to tell you why a particular rule is a rule. Personally, I dislike following rules unless I understand the reason behind them. Even if the reasoning is simply “this is just how our team styles our code”. If such a feature is already available in RuboCop, then please feel free to link to this blog post for this particular rule.\n\nI can only assume the rule that enforced this style was “performance” related. I’m not a huge fan of linting, but I’m even less of a fan when it comes to rules around “performance”. If idiomatic Ruby is not performant, then I think there can be a strong case to be made that the CRuby team (which I am a part of) should make that code performant. If the CRuby team does make the code performant, then there is no need for the performance rule because most people write idiomatic Ruby code (by definition).\n\nOf course there are cases where you may need to write non-idiomatic Ruby for performance reasons, but hopefully those cases are few and far between. Should the time arrive when you need to write odd code for performance reasons, it will require knowledge, experience, and nuance that neither a linter nor an AI can provide. Fortunately, this is a case where idiomatic Ruby is also “the fast way to do things”, so I definitely recommend people use the [x, y].max pattern.\n\nMore Stuff\n\nArray#max isn’t the only method that uses this trick. It works with Array#min, Array#pack and Array#hash. If you need to implement a custom hash method on an object, then I highly recommend doing something like this:\n\ndef hash\n\n  [@ivar1, @ivar2, ...].hash\n\nend\n\n\nFinally, there are cases where CRuby won’t apply this trick. Lets look at the instructions for the following method:\n\ndef foo\n\n  [3, 4].max\n\nend\n\n\n\ninsn = RubyVM::InstructionSequence.of(method(:foo))\n\nputs insn.disasm\n\n== disasm: #<ISeq:foo@x.rb:1 (1,0)-(3,3)>\n0000 duparray                               [3, 4]                    (   2)[LiCa]\n0002 opt_send_without_block                 <calldata!mid:max, argc:0, ARGS_SIMPLE>\n0004 leave                                                            (   3)[Re]\n\n\nIf you read these instructions carefully, you’ll see it has a duparray instruction. This instruction allocates an array, and then we call the max method on the array.\n\nWhen all of the elements of the array are static, CRuby applies an optimization to allocate the array once, embed it in the instructions, and then do a dup on the array. Copying an existing array is much faster than allocating a new one. Unfortunately, this optimization is applied before the “max” method optimization, so it doesn’t apply both.\n\nFor those of you at home saying “the compiler could calculate the max of [3, 4] and eliminate the array all together!” just remember that someone could monkey patch Array#max and we’d need to respect it. Argh!! Fixing this particular case is not worth the code complexity, in my opinion. We all know that 4 is greater than 3, so we could “manually inline” this case and just write 4.\n\nAnyway, all this to say is that these optimizations are context dependent. Attempting to “prescribe” more optimal code seems like it could become a hairy situation, especially since the linter can’t know what the Ruby compiler will do.\n\nI do like the idea of language servers possible suggesting possibly faster code, but only as a teaching opportunity for the developer. The real goal should be to help build understanding so that this type of linting becomes unnecessary.\n\nAnyway, I had a really great time at RailsWorld. I am very happy I got this question, and I hope that this post helps someone!\n\n« go back\nArchives\n \n \n \n \n\nCopyright © 2026 Tenderlovemaking.com All rights reserved."
+}

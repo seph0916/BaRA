@@ -1,0 +1,17 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/laws/yagni.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 1,
+    "links": [
+        {
+            "text": "← Back to Law",
+            "href": "https://lawsofsoftwareengineering.com/laws/yagni/"
+        }
+    ],
+    "text_length": 2839,
+    "text_full": "Print\n← Back to Law\nLAWS OF SOFTWARE ENGINEERING\nYAGNI (You Aren't Gonna Need It)\n\nDon't add functionality until it is necessary.\n\nKEY TAKEAWAYS\n1.\nYAGNI is here to remind developers to focus on current tasks rather than implementing features that aren’t needed now.\n2.\nAnticipating future needs often leads to over-engineering, and this adds complexity and maintenance issues.\n3.\nYAGNI encourages iterative development. You implement minimal solutions and refine or extend them when needed.\nOVERVIEW\n\nYAGNI captures a core philosophy of agile development: don’t write code for features that haven’t been requested or aren’t immediately needed.\n\nIf you’re implementing Module A and think “in the future we might need Module B to do X, so I’ll code some hooks for that now,” YAGNI advises against it because that future feature may never come or may change drastically.\n\nThis principle directly fights over-engineering. To apply YAGNI successfully, teams rely on confidence in refactoring. You defer a feature only if you trust you can add it later at low cost.\n\nAgile methods provide that safety net via good test coverage, refactoring tools, and continuous integration. YAGNI pushes the problem of complexity to when it’s actually needed.\n\nYAGNI\n\nEXAMPLES\n\nYou’re building a feature with specific behavior. You think “maybe in the future someone will want to toggle this on/off, so I’ll add a configuration flag now.” YAGNI challenges that. Unless there’s a current requirement for configurability, implement only expected behavior, nothing more.\n\nYou’re working on a library function that currently does one thing. You realize it might be useful more generally, so you might add parameters or abstraction tiers. YAGNI says implement it for the original task.\n\nYour app needs JSON export? Implement simple JSON, not a full serialization library supporting XML, YAML, etc.\n\nTeams that adopt YAGNI are often comfortable refactoring because they trust that when the feature set grows, they’ll have more information about real use cases, leading to better abstractions.\n\nORIGINS\n\nYAGNI was part of the Extreme Programming (XP) paradigm in the late 1990s. It was promoted by Ron Jeffries, one of XP’s founders, who wrote: “Always implement things when you actually need them, not when you just foresee that you need them.”\n\nThe slogan was adopted in XP literature, such as Extreme Programming Installed (2001).\n\nRELATED TO\nKISS (Keep It Simple, Stupid)\nDRY (Don't Repeat Yourself)\nPremature Optimization (Knuth's Optimization Principle)\nFURTHER READING\nYAGNI on Martin Fowler's website\nhttps://martinfowler.com/bliki/Yagni.html\nExtreme Programming Installed\nhttps://amzn.to/4siycbq\nYou Aren't Gonna Need It on C2 Wiki\nhttp://wiki.c2.com/?YouArentGonnaNeedIt\n\nFrom Laws of Software Engineering\n\nhttps://lawsofsoftwareengineering.com/laws/yagni/"
+}

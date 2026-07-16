@@ -1,0 +1,79 @@
+{
+  "start_url": "https://sellerassistant.app/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://sellerassistant.app/",
+    "https://www.sellerassistant.app/",
+    "https://www.sellerassistant.app/solutions/wholesale/",
+    "https://www.sellerassistant.app/solutions/online-arbitrage/",
+    "https://www.sellerassistant.app/solutions/dropshipping/",
+    "https://www.sellerassistant.app/solutions/agencies/",
+    "https://www.sellerassistant.app/alternatives/analyzer-tools/",
+    "https://www.sellerassistant.app/alternatives/scan-unlimited/",
+    "https://www.sellerassistant.app/alternatives/selleramp-sas/",
+    "https://www.sellerassistant.app/alternatives/revseller/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://sellerassistant.app/"
+    ],
+    "1": [
+      "https://www.sellerassistant.app/",
+      "https://www.sellerassistant.app/solutions/wholesale/",
+      "https://www.sellerassistant.app/solutions/online-arbitrage/",
+      "https://www.sellerassistant.app/solutions/dropshipping/",
+      "https://www.sellerassistant.app/solutions/agencies/"
+    ],
+    "2": [
+      "https://www.sellerassistant.app/alternatives/analyzer-tools/",
+      "https://www.sellerassistant.app/alternatives/scan-unlimited/",
+      "https://www.sellerassistant.app/alternatives/selleramp-sas/",
+      "https://www.sellerassistant.app/alternatives/revseller/",
+      "https://www.sellerassistant.app/tools/price-list-analyzer/",
+      "https://www.sellerassistant.app/tools/lister/",
+      "https://www.sellerassistant.app/tools/ai-supplier-finder/",
+      "https://www.sellerassistant.app/tools/seller-spy/",
+      "https://www.sellerassistant.app/tools/brand-analyzer/",
+      "https://www.sellerassistant.app/tools/bulk-restriction-checker/",
+      "https://www.sellerassistant.app/products/api/",
+      "https://www.sellerassistant.app/tools/purchase-orders/",
+      "https://www.sellerassistant.app/tools/product-database/",
+      "https://www.sellerassistant.app/tools/suppliers/",
+      "https://www.sellerassistant.app/tools/warehouses/",
+      "https://www.sellerassistant.app/tools/fba-shipments/",
+      "https://www.sellerassistant.app/tools/skus/",
+      "https://www.sellerassistant.app/products/seller-assistant-extension/",
+      "https://www.sellerassistant.app/products/ip-alert-extension/",
+      "https://www.sellerassistant.app/products/vpn-extension/",
+      "https://www.sellerassistant.app/free-tools/",
+      "https://www.sellerassistant.app/free-tools/asin-lookup/",
+      "https://www.sellerassistant.app/free-tools/ip-alert-lookup/",
+      "https://www.sellerassistant.app/free-tools/supplier-finder-by-brand/",
+      "https://www.sellerassistant.app/free-tools/asin-to-upc-converter/"
+    ],
+    "3": [
+      "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/",
+      "https://www.sellerassistant.app/free-tools/ean-to-asin-converter/",
+      "https://www.sellerassistant.app/integrations/",
+      "https://www.sellerassistant.app/integrations/zapier/",
+      "https://www.sellerassistant.app/integrations/n8n/",
+      "https://www.sellerassistant.app/integrations/make/",
+      "https://www.sellerassistant.app/integrations/google-sheets/",
+      "https://www.sellerassistant.app/integrations/airtable/",
+      "https://www.sellerassistant.app/integrations/seller-central/",
+      "https://www.sellerassistant.app/resources/",
+      "https://www.sellerassistant.app/blog/",
+      "https://www.sellerassistant.app/blog/category/seller-assistant-university/",
+      "https://www.sellerassistant.app/resources/selling-on-amazon-guide/",
+      "https://www.sellerassistant.app/oa-checklist/",
+      "https://help.sellerassistant.app/en/",
+      "https://www.sellerassistant.app/resources/office-hours/",
+      "https://news.sellerassistant.app/",
+      "https://feedback.sellerassistant.app/roadmap",
+      "https://www.sellerassistant.app/reviews/"
+    ]
+  },
+  "dead_links": []
+}

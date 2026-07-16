@@ -1,0 +1,593 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 145,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Make ZIP files smaller with ZIP Shrinker",
+            "href": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Open Link in Unloaded Tab, a little Firefox extension",
+            "href": "https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/"
+        },
+        {
+            "text": "#firefox",
+            "href": "https://evanhahn.com/tags/firefox/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "png-cmp: like cmp for PNGs",
+            "href": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#go",
+            "href": "https://evanhahn.com/tags/go/"
+        },
+        {
+            "text": "Offline command line translation with TranslateGemma + Ollama",
+            "href": "https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Notes from April 2026",
+            "href": "https://evanhahn.com/notes-from-april-2026/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Introducing llm-eliza",
+            "href": "https://evanhahn.com/llm-eliza/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#satire",
+            "href": "https://evanhahn.com/tags/satire/"
+        },
+        {
+            "text": "Introducing gzpeek, a tool to parse gzip metadata",
+            "href": "https://evanhahn.com/introducing-gzpeek/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#zig",
+            "href": "https://evanhahn.com/tags/zig/"
+        },
+        {
+            "text": "Track Zelda release anniversaries in your calendar",
+            "href": "https://evanhahn.com/zelda-anniversary-calendar/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Notes from January 2026",
+            "href": "https://evanhahn.com/notes-from-january-2026/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#public-domain",
+            "href": "https://evanhahn.com/tags/public-domain/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "I made a little audio speed calculator",
+            "href": "https://evanhahn.com/playback-speed-calculator/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "Simple macOS script to extract text from images (OCR)",
+            "href": "https://evanhahn.com/mac-ocr-script/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "Rainbow \"code doodle\"",
+            "href": "https://evanhahn.com/rainbow-code-doodle/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "Simple script to sort Markdown lists",
+            "href": "https://evanhahn.com/simple-script-to-sort-markdown-lists/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#markdown",
+            "href": "https://evanhahn.com/tags/markdown/"
+        },
+        {
+            "text": "string-timing-safe-equal, a new Node package",
+            "href": "https://evanhahn.com/string-timing-safe-equal/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "A black cat in 2032 bytes",
+            "href": "https://evanhahn.com/light-switch/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "Remember The Milk script to get task permalink",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-get-task-permalink/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Announcing Helmet v8",
+            "href": "https://evanhahn.com/helmet-8/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Five apps in two kilobytes",
+            "href": "https://evanhahn.com/5-apps-in-2k/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Remember The Milk script to estimate selected tasks",
+            "href": "https://evanhahn.com/remember-the-milk-estimate-selected-tasks-script/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Remember The Milk CSV export script",
+            "href": "https://evanhahn.com/remember-the-milk-csv-export-script/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#csv",
+            "href": "https://evanhahn.com/tags/csv/"
+        },
+        {
+            "text": "Introducing NONOGRAM NIGHTS",
+            "href": "https://evanhahn.com/introducing-nonogram-nights/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#nonogram",
+            "href": "https://evanhahn.com/tags/nonogram/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Short C program that repeats a string forever",
+            "href": "https://evanhahn.com/short-c-program-to-repeat-a-string-to-stdout/"
+        },
+        {
+            "text": "#c",
+            "href": "https://evanhahn.com/tags/c/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "A picross game in 1024 bytes",
+            "href": "https://evanhahn.com/js1024-2023/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#nonogram",
+            "href": "https://evanhahn.com/tags/nonogram/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Introducing UTF-21, a toy character encoding",
+            "href": "https://evanhahn.com/utf-21/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "Remember The Milk script to find tasks with invalid start times",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-find-tasks-with-invalid-start-times/"
+        },
+        {
+            "text": "#remember-the-milk",
+            "href": "https://evanhahn.com/tags/remember-the-milk/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "My entry to JS1k 2018: \"Zap\"",
+            "href": "https://evanhahn.com/my-entry-to-js1k-2018-zap/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Import Pinboard bookmarks into Standard Notes",
+            "href": "https://evanhahn.com/import-pinboard-bookmarks-into-standard-notes/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Pietime, my entry to JS1k 2015",
+            "href": "https://evanhahn.com/js1k-2015/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Introducing cyborg.txt: robots.txt utilities for Node",
+            "href": "https://evanhahn.com/introducing-cyborg/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "Two-factor authentication list",
+            "href": "https://evanhahn.com/2fa/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "Origin: my entry to js13kgames 2013",
+            "href": "https://evanhahn.com/origin-js13kgames/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Gribbagrab your resources",
+            "href": "https://evanhahn.com/gribbagrab-your-resources/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#web",
+            "href": "https://evanhahn.com/tags/web/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "Circles 1K",
+            "href": "https://evanhahn.com/circles-1k/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#code-golf",
+            "href": "https://evanhahn.com/tags/code-golf/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#art",
+            "href": "https://evanhahn.com/tags/art/"
+        }
+    ],
+    "text_length": 2674,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n33 posts tagged #release\n2026\nMake ZIP files smaller with ZIP Shrinker\n2026-05-16 #compression #tool #release\nOpen Link in Unloaded Tab, a little Firefox extension\n2026-05-13 #firefox #release #tool\npng-cmp: like cmp for PNGs\n2026-05-03 #png #release #tool #go\nOffline command line translation with TranslateGemma + Ollama\n2026-05-01 #tool #release #ai #ollama\nNotes from April 2026\n2026-04-30 #month-notes #me #release #work #link\nIntroducing llm-eliza\n2026-03-08 #ai #experiment #release #satire\nIntroducing gzpeek, a tool to parse gzip metadata\n2026-02-26 #compression #experiment #release #tool #zig\nTrack Zelda release anniversaries in your calendar\n2026-02-21 #release #video-games\nNotes from January 2026\n2026-01-31 #month-notes #work #release #compression #public-domain #link\n2025\nI made a little audio speed calculator\n2025-12-03 #release #tool\nSimple macOS script to extract text from images (OCR)\n2025-07-14 #release #macos #swift #ai\nRainbow \"code doodle\"\n2025-06-05 #art #release #chicago\nSimple script to sort Markdown lists\n2025-05-30 #release #markdown\nstring-timing-safe-equal, a new Node package\n2025-01-15 #release #node #javascript #security\n2024\nA black cat in 2032 bytes\n2024-12-26 #code-golf #release #art #png\nRemember The Milk script to get task permalink\n2024-09-29 #remember-the-milk #release\nAnnouncing Helmet v8\n2024-09-28 #helmet #release\nFive apps in two kilobytes\n2024-03-29 #code-golf #release\nRemember The Milk script to estimate selected tasks\n2024-02-24 #remember-the-milk #release\nRemember The Milk CSV export script\n2024-01-09 #remember-the-milk #release #csv\n2023\nIntroducing NONOGRAM NIGHTS\n2023-10-31 #release #nonogram #video-games\nShort C program that repeats a string forever\n2023-09-01 #c #release\nA picross game in 1024 bytes\n2023-07-13 #code-golf #release #nonogram #video-games\nIntroducing UTF-21, a toy character encoding\n2023-06-09 #unicode #release #experiment\n2022\nRemember The Milk script to find tasks with invalid start times\n2022-04-18 #remember-the-milk #release\n2018\nMy entry to JS1k 2018: \"Zap\"\n2018-03-29 #code-golf #art #javascript #release\n2017\nImport Pinboard bookmarks into Standard Notes\n2017-11-24 #tool #release\n2015\nPietime, my entry to JS1k 2015\n2015-04-04 #code-golf #art #javascript #release\n2014\nIntroducing cyborg.txt: robots.txt utilities for Node\n2014-02-20 #release #node #javascript\n2013\nTwo-factor authentication list\n2013-12-03 #release #security\nOrigin: my entry to js13kgames 2013\n2013-10-01 #release #code-golf #javascript #video-games\nGribbagrab your resources\n2013-08-12 #release #web #javascript #css\nCircles 1K\n2013-01-04 #release #code-golf #javascript #art"
+}

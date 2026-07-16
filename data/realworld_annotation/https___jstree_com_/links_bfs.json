@@ -1,0 +1,53 @@
+{
+  "start_url": "https://jstree.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://jstree.com/",
+    "https://www.jstree.com/",
+    "https://www.jstree.com/demo/",
+    "https://www.jstree.com/api/",
+    "https://www.jstree.com/plugins/",
+    "https://www.jstree.com/docs/config/",
+    "https://www.jstree.com/docs/html/",
+    "https://www.jstree.com/docs/json/",
+    "https://www.jstree.com/docs/events/",
+    "https://www.jstree.com/docs/interaction/",
+    "https://old.jstree.com/",
+    "https://www.jstree.com/demo",
+    "https://www.jstree.com/api",
+    "https://www.jstree.com/plugins",
+    "https://old.jstree.com/demo",
+    "https://old.jstree.com/documentation",
+    "https://old.jstree.com/faq"
+  ],
+  "by_depth": {
+    "0": [
+      "https://jstree.com/"
+    ],
+    "1": [
+      "https://www.jstree.com/",
+      "https://www.jstree.com/demo/",
+      "https://www.jstree.com/api/",
+      "https://www.jstree.com/plugins/",
+      "https://www.jstree.com/docs/config/"
+    ],
+    "2": [
+      "https://www.jstree.com/docs/html/",
+      "https://www.jstree.com/docs/json/",
+      "https://www.jstree.com/docs/events/",
+      "https://www.jstree.com/docs/interaction/",
+      "https://old.jstree.com/"
+    ],
+    "3": [
+      "https://www.jstree.com/demo",
+      "https://www.jstree.com/api",
+      "https://www.jstree.com/plugins",
+      "https://old.jstree.com/demo",
+      "https://old.jstree.com/documentation",
+      "https://old.jstree.com/faq"
+    ]
+  },
+  "dead_links": []
+}

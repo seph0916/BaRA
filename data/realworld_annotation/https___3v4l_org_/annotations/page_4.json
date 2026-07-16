@@ -1,0 +1,143 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 33,
+    "links": [
+        {
+            "text": "3v4l.org\nrun code in 500+ PHP versions simultaneously",
+            "href": "https://3v4l.org/"
+        },
+        {
+            "text": "sponsor",
+            "href": "https://3v4l.org/sponsor"
+        },
+        {
+            "text": "bughunt",
+            "href": "https://3v4l.org/bughunt"
+        },
+        {
+            "text": "search",
+            "href": "https://3v4l.org/search"
+        },
+        {
+            "text": "recent",
+            "href": "https://3v4l.org/last"
+        },
+        {
+            "text": "about",
+            "href": "https://3v4l.org/about"
+        },
+        {
+            "text": "Recent submissions",
+            "href": "https://3v4l.org/last"
+        },
+        {
+            "text": "My recent submissions",
+            "href": "https://3v4l.org/last?mine=1"
+        },
+        {
+            "text": "nK96h",
+            "href": "https://3v4l.org/nK96h"
+        },
+        {
+            "text": "pBkZp",
+            "href": "https://3v4l.org/pBkZp"
+        },
+        {
+            "text": "mZMVH",
+            "href": "https://3v4l.org/mZMVH"
+        },
+        {
+            "text": "DfgC8",
+            "href": "https://3v4l.org/DfgC8"
+        },
+        {
+            "text": "257u1",
+            "href": "https://3v4l.org/257u1"
+        },
+        {
+            "text": "TRMiZ",
+            "href": "https://3v4l.org/TRMiZ"
+        },
+        {
+            "text": "cmvQI",
+            "href": "https://3v4l.org/cmvQI"
+        },
+        {
+            "text": "IZA4Q",
+            "href": "https://3v4l.org/IZA4Q"
+        },
+        {
+            "text": "vONrr",
+            "href": "https://3v4l.org/vONrr"
+        },
+        {
+            "text": "5ZcjT",
+            "href": "https://3v4l.org/5ZcjT"
+        },
+        {
+            "text": "1aal8",
+            "href": "https://3v4l.org/1aal8"
+        },
+        {
+            "text": "sP6Kl",
+            "href": "https://3v4l.org/sP6Kl"
+        },
+        {
+            "text": "vQST7",
+            "href": "https://3v4l.org/vQST7"
+        },
+        {
+            "text": "jbff2",
+            "href": "https://3v4l.org/jbff2"
+        },
+        {
+            "text": "5PnSQ",
+            "href": "https://3v4l.org/5PnSQ"
+        },
+        {
+            "text": "Jn7PX",
+            "href": "https://3v4l.org/Jn7PX"
+        },
+        {
+            "text": "IEro6",
+            "href": "https://3v4l.org/IEro6"
+        },
+        {
+            "text": "fOv2P",
+            "href": "https://3v4l.org/fOv2P"
+        },
+        {
+            "text": "5TKKE",
+            "href": "https://3v4l.org/5TKKE"
+        },
+        {
+            "text": "p7KFj",
+            "href": "https://3v4l.org/p7KFj"
+        },
+        {
+            "text": "PEGiV",
+            "href": "https://3v4l.org/PEGiV"
+        },
+        {
+            "text": "rlVMu",
+            "href": "https://3v4l.org/rlVMu"
+        },
+        {
+            "text": "XoiUS",
+            "href": "https://3v4l.org/XoiUS"
+        },
+        {
+            "text": "DoOnE",
+            "href": "https://3v4l.org/DoOnE"
+        },
+        {
+            "text": "OeapA",
+            "href": "https://3v4l.org/OeapA"
+        }
+    ],
+    "text_length": 1091,
+    "text_full": "3v4l.org\nrun code in 500+ PHP versions simultaneously\nsponsor\nbughunt\nsearch\nrecent\nabout\nRecent submissions\nMy recent submissions\nname\tcreated\t# operations\t% variance\tfunction calls\n nK96h\t02:41:13\t?\t0\t\n pBkZp\t02:36:25\t78\t50\tfclose, fwrite, urldecode, ord, fopen, hex2bin\n mZMVH scratch_2.php\t02:27:04\t2\t0\t\n DfgC8 http.php\t02:26:51\t12\t99\tvar_dump\n 257u1\t01:21:34\t?\t0\t\n TRMiZ\t01:12:32\t28\t0\tbase64_decode\n cmvQI\t01:12:17\t4\t0\t\n IZA4Q\t01:11:44\t?\t0\t\n vONrr scratch_1.php\t01:11:34\t2\t0\t\n 5ZcjT\t00:26:49\t13\t0\t\n 1aal8\t00:22:59\t?\t50\t\n sP6Kl\t23:34:25\t13\t0\tvar_dump\n vQST7\t22:16:38\t54\t50\tstr_ends_with, array_any\n jbff2\t21:44:50\t17\t50\tord\n 5PnSQ\t21:43:58\t18\t0\tord\n Jn7PX bundle-pack-price-calculation.php\t21:23:49\t75\t0\tround, number_format\n IEro6\t21:19:56\t?\t0\t\n fOv2P\t20:50:23\t9\t0\tpreg_match, var_dump\n 5TKKE\t20:50:20\t38\t0\tdefine\n p7KFj\t20:47:42\t8\t0\tsscanf, var_dump\n PEGiV\t20:44:49\t8\t0\tsscanf, var_dump\n rlVMu\t20:14:49\t10\t84\t\n XoiUS\t20:10:58\t10\t75\t\n DoOnE\t19:44:49\t55\t90\t\n OeapA scratch_82.php\t19:41:38\t4\t0\tvar_dump\npreferences:dark modelive preview\nace\nvim\nemacs\nkey bindings\n26.52 ms | 552 KiB | 1 Q"
+}

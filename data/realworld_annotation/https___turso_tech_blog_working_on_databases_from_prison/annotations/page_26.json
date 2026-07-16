@@ -1,0 +1,316 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://turso.tech/_next/image?url=%2Favatar%2FGlauber-Costa.jpg&w=64&q=75",
+        "https://turso.tech/_next/image?url=%2Fimages%2Fblog%2Fsync-benchmark%2Fcover.png&w=3840&q=100",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=b4e6df27-f13d-42ac-9737-a38ed33021a7&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=079e7aad-6811-4257-8fb4-efd0eb7a19b4&pt=Turso%20Sync%3A%20a%20much%2C%20much%2C%20much%20better%20way%20to%20sync&tw_document_href=https%3A%2F%2Fturso.tech%2Fblog%2Fsync-benchmark&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342861220.765484030642905634&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=b4e6df27-f13d-42ac-9737-a38ed33021a7&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=079e7aad-6811-4257-8fb4-efd0eb7a19b4&pt=Turso%20Sync%3A%20a%20much%2C%20much%2C%20much%20better%20way%20to%20sync&tw_document_href=https%3A%2F%2Fturso.tech%2Fblog%2Fsync-benchmark&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342861220.765484030642905634&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 75,
+    "links": [
+        {
+            "text": "Join the waitlist",
+            "href": "https://turso.tech/private-beta"
+        },
+        {
+            "text": "Turso",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Docs",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Cloud Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Follow us on GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Follow us on X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Join us on Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "Login",
+            "href": "https://turso.tech/signin"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Glauber Costa",
+            "href": "https://turso.tech/author/glauber-costa"
+        },
+        {
+            "text": "Embedded Replicas: the first iteration of the Holy Grail",
+            "href": "https://turso.tech/blog/sync-benchmark#embedded-replicas--the-first-iteration-of-the-holy-grail"
+        },
+        {
+            "text": "Writing Turso",
+            "href": "https://turso.tech/blog/sync-benchmark#writing-turso"
+        },
+        {
+            "text": "Just how good is it?",
+            "href": "https://turso.tech/blog/sync-benchmark#just-how-good-is-it-"
+        },
+        {
+            "text": "Summary",
+            "href": "https://turso.tech/blog/sync-benchmark#summary"
+        },
+        {
+            "text": "Turso",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#embedded-replicas--the-first-iteration-of-the-holy-grail"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#embedded-replicas-the-first-iteration-of-the-holy-grail"
+        },
+        {
+            "text": "Embedded Replicas",
+            "href": "https://turso.tech/blog/introducing-embedded-replicas-deploy-turso-anywhere-2085aa0dc242"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#writing-turso"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#writing-turso"
+        },
+        {
+            "text": "rewrite SQLite",
+            "href": "https://turso.tech/blog/turso-sqlite-current-status"
+        },
+        {
+            "text": "Change Data Capture, or CDC",
+            "href": "https://turso.tech/blog/introducing-change-data-capture-in-turso-sqlite-rewrite"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#just-how-good-is-it-"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#just-how-good-is-it"
+        },
+        {
+            "text": "here",
+            "href": "https://github.com/tursodatabase/turso-sync-benchmark"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#test-setup"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#test-setup"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#sequential-inserts--3-000-rows-"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#sequential-inserts-3000-rows"
+        },
+        {
+            "text": "Sequential Inserts",
+            "href": "https://github.com/tursodatabase/turso-sync-benchmark/blob/main/bench-sequential-inserts/bench.mjs"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#read-your-writes--200-cycles-"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#read-your-writes-200-cycles"
+        },
+        {
+            "text": "Read-Your-Writes",
+            "href": "https://github.com/tursodatabase/turso-sync-benchmark/blob/main/bench-read-your-writes/bench.mjs"
+        },
+        {
+            "text": "push after every single write",
+            "href": "https://github.com/tursodatabase/turso-sync-benchmark/blob/main/bench-read-your-writes-push/bench.mjs"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#pull-remote-changes--5-000-rows-"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#pull-remote-changes-5000-rows"
+        },
+        {
+            "text": "Pull Remote Changes",
+            "href": "https://github.com/tursodatabase/turso-sync-benchmark/blob/main/bench-pull-remote/bench.mjs"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/sync-benchmark#summary"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/sync-benchmark#summary"
+        },
+        {
+            "text": "compatibility matrix",
+            "href": "https://github.com/tursodatabase/turso/blob/main/COMPAT.md"
+        },
+        {
+            "text": "here",
+            "href": "https://docs.turso.tech/sync/usage"
+        },
+        {
+            "text": "How we used Quint to find over 10 bugs in SQLite while hardening Turso",
+            "href": "https://turso.tech/blog/how-we-used-quint-to-find-over-10-bugs-in-sqlite"
+        },
+        {
+            "text": "We are a year into rewriting SQLite. How is that going?",
+            "href": "https://turso.tech/blog/we-are-a-year-into-rewriting-sqlite"
+        },
+        {
+            "text": "AgentFS in the Browser",
+            "href": "https://turso.tech/blog/agentfs_browser"
+        },
+        {
+            "text": "Glauber Costa",
+            "href": "https://turso.tech/author/glauber-costa"
+        },
+        {
+            "text": "Twitter / X",
+            "href": "https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20post%20on%20the%20%40tursodatabase%20blog%3A%20Turso%20Sync%3A%20a%20much%2C%20much%2C%20much%20better%20way%20to%20sync%0A%0A&url=https%3A%2F%2Fturso.tech%2Fblog%2Fsync-benchmark"
+        },
+        {
+            "text": "Hacker News",
+            "href": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fturso.tech%2Fblog%2Fsync-benchmark&t=Turso%20Sync:%20a%20much,%20much,%20much%20better%20way%20to%20sync"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fturso.tech%2Fblog%2Fsync-benchmark"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/quickstart"
+        },
+        {
+            "text": "Documentation",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "API Status",
+            "href": "https://status.turso.tech/"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://turso.tech/terms-of-use"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://turso.tech/privacy-policy"
+        },
+        {
+            "text": "Embedded Replicas",
+            "href": "https://docs.turso.tech/features/embedded-replicas"
+        },
+        {
+            "text": "Database Branching",
+            "href": "https://docs.turso.tech/features/branching"
+        },
+        {
+            "text": "Backups & Recovery",
+            "href": "https://docs.turso.tech/features/point-in-time-recovery"
+        },
+        {
+            "text": "Platform API",
+            "href": "https://docs.turso.tech/features/platform-api"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Releases",
+            "href": "https://github.com/tursodatabase/turso/releases"
+        },
+        {
+            "text": "About",
+            "href": "https://turso.tech/about"
+        },
+        {
+            "text": "Support",
+            "href": "https://docs.turso.tech/support"
+        },
+        {
+            "text": "Trust",
+            "href": "https://trust.turso.tech/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Brand",
+            "href": "https://turso.tech/brand"
+        },
+        {
+            "text": "RSS",
+            "href": "https://turso.tech/blog/feed.xml"
+        },
+        {
+            "text": "YouTube",
+            "href": "https://www.youtube.com/@tursodatabase"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase"
+        }
+    ],
+    "text_length": 10637,
+    "text_full": "Register now for early access to concurrent writes in the Turso Cloud. Join the waitlist\n\nTurso\nDocs\nCloud Pricing\nBlog\nChangelog\nFollow us on GitHub\nFollow us on X\nJoin us on Discord\nLogin\nStart for free now\n\nApr 24, 2026\n\nTurso Sync: a much, much, much better way to sync\nGlauber Costa\n\nTABLE OF CONTENTS\n\nEmbedded Replicas: the first iteration of the Holy Grail\nWriting Turso\nJust how good is it?\nSummary\n\nTurso, a full rewrite of SQLite in Rust, includes the ability to have local databases that are synced to and from a server. libSQL, a fork of SQLite, and the first iteration of our dream, has a similar feature called \"Embedded Replicas\". Our users keep getting confused between the two. And because our docs and official communications still recommend libSQL (for now), often conservatively, it adds to the confusion.\n\nI am here today to dispel that confusion. I will do it by making the blanket recommendation that regardless of the situation and use case, you should be using Turso, not libSQL, if you are using sync.\nWe are finally at the point in which I am comfortable making this recommendation and I am so happy this day has come.\n\nMy mom taught me not to curse. So before telling you the reason for this, I'll have to start by apologizing to her. Sorry mom. And now that I did, here's the reason:\n\nThe reason we are making this recommendation is because syncing on Turso is so fuc***g good.\n\nFirst I will tell you why, then I will show you just how amazeballs it is.\n\n#Embedded Replicas: the first iteration of the Holy Grail\n\nWhen we introduced Embedded Replicas, our users immediately bought into the concept: read locally (microseconds!) and keep your local database synchronized with whatever is in the cloud. Infinite scalability, Insane performance. What's not to like?\n\nIt is a great idea, but the practical implementation in SQLite was plagued with issues that were too much to handle. Most of those limitations were downstream of a single fact: There is no good way to have a logical stream of changes in SQLite. So we built our replication protocol on physical pages.\n\nBut replicating physical pages has a lot of problems. The main ones being:\n\nIt can be wasteful: Databases work in blocks of data called pages. If you are making small changes, but have to fill up a whole page, that is a lot of data to send. Sparse pages compress well, but it is still a lot more data than just the actual data.\nThere is no visibility on what changed: Once something is committed, you don't hold enough information to know how that data was originated. Hard to replay events and resolve conflicts. The main consequence of that, is that Embedded Replicas by default still sent writes to the remote database, keeping just the reads local. It was possible to disable this behavior, but that increased the rate in which sync errored out (see the next point). The lack of a truly local write experience frustrated many users.\nKeeping the pages always applied in the same order for both the Cloud and the Local database was challenging, especially on the face of database checkpoints, an operation that folds the most recent pages into the database's main data structure. A consequence of that, is that the local database often diverged, and had to be re-bootstrapped from the cloud, a process that was both wasteful and frustrating.\n\nSo there you go: one wasteful, one frustrating, and the big champion, being wasteful and frustrating.\n\n#Writing Turso\n\nI was always incredibly sad to see users struggling with libSQL's embedded replicas. The only other time I remember being that sad is when I asked my now wife out, and she said no. But I took that as a life lesson: I changed my approach and tried again. And then she said yes. Now we are married, with four kids. If I could turn that sadness into a love story, I was sure I could turn a bad start on Embedded Replicas into a love story too. So we changed our approach.\n\nWe had many reasons to rewrite SQLite. But doing sync right was at the very top of the list. Turso improves on SQLite in a lot of ways. It is fully async (which allows us, for example, to greatly improve replica bootstrap time with partial sync: bring in just the pages that you need to serve your query). But the one that matters is Change Data Capture, or CDC. Turso keeps track of everything that changed in the database. This allows us to send just the logical changes to the remote server: this is faster, more efficient, and way less error prone.\n\nAnother consequence of being able to transfer logical changes, is that the protocol can now be split in two: instead of a sync() function, Turso implements push() and pull(). That contributes to the efficiency of the protocol, and gives you more control over how and when to exchange data.\n\n#Just how good is it?\n\nThat Turso is more reliable is a fact that you will have to just experience for yourself. But faster and more efficient is something I can show you now.\nI ran five benchmarks comparing the two approaches. The code can be found here so you can try it for yourself.\n\n#Test Setup\n\nAll benchmarks ran on a VM close to our database us-east-1 (but not on AWS, so we can introduce some good old public network for added realism).\n\nNode.js: v22.22.2\nDatabase: Turso Cloud (us-east-1)\nPackages: @libsql/client@0.17.2, @tursodatabase/sync@0.5.3\n\nEmbedded Replicas have a setting, \"readYourWrites\", that guarantees that every time you insert anything, that goes into the Cloud right away. We have that on or off depending on what we want to show in the benchmark.\n\n#Sequential Inserts (3,000 rows)\n\nThe most basic write pattern: insert rows one at a time. readYourWrites is disabled for Embedded Replicas so you can have the feeling of local writes. Then we do one big sync() at the end. The results:\n\nMetric\tEmbedded Replicas\t@tursodatabase/sync\nTime\t152s\t17s\nNetwork traffic\t34.6 MB\t2.1 MB\n\n8.9x faster. 16.3x less data.\n\n#Read-Your-Writes (200 cycles)\n\nInsert a row, then immediately read it back. Repeat 200 times. readYourWrites is enabled, which is how most people ended up consuming Embedded Replicas. For Turso, both the write and the read are local — the push happens once at the end.\n\nMetric\tEmbedded Replicas\t@tursodatabase/sync\nTime\t48.6s\t156ms\nPer-cycle avg\t243ms\t<1ms\nNetwork traffic\t2.7 MB\t149 KB\n\n312x faster. 18.4x less data.\n\nI mean, what do I even say here. It's like Embedded Replicas are Caligula and Turso is Marcus F. Aurelius. No further comments.\n\nOk, actually, there is a further comment. You could argue that this benchmark is unfair: every Embedded Replicas request goes through the network (because readYourWrites forces a round trip on every write), while Turso writes are local. So we're really just measuring the effect of batching 200 network calls into one. And from a strictly amount-of-work point of view, that's true.\n\nBut there are two things to consider. First, what we've just shown is exactly how our users want to use local databases: do a lot of activity at the speed of a local write, and then push. That's the whole point. The old model existed because passing physical changes made it impossible to stitch changes together. Any write, even for unrelated tables, would create a conflict because the physical pages would be different.\n\nSecond, even if we push after every single write, Turso is still way faster:\n\nMetric\tEmbedded Replicas\t@tursodatabase/sync\nTime\t43.7s\t6.0s\nPer-cycle avg\t218ms\t30ms\nNetwork traffic\t2.7 MB\t1.1 MB\n\n7.3x faster. 2.5x less data. Both sides hit the network on every cycle. Turso still wins because a local write + push is fundamentally cheaper than Embedded Replicas' write + auto-pull. 7.3x faster doesn't sound like a lot, but that's just because we just looked at the other case. It's like the first time I went to Germany: I was constantly annoyed about how late everyone was, and disappointed that this is not the mental image of Germans I had in mind. But then it clicked that this was only because I had spent a week in Switzerland first, and the last person who got late for something in Switzerland (probably 300 years ago) likely was arrested or killed, and their family lived in shame for generations.\n\n#Pull Remote Changes (5,000 rows)\n\n5,000 rows written to the cloud, then pulled to a fresh local database.\nThis should be the best case and simplest scenario for Embedded Replicas. Just start over, fetch the data from the Cloud.\n\nMetric\tEmbedded Replicas\t@tursodatabase/sync\nTime\t718ms\t338ms\nNetwork traffic\t1.08 MB\t1.05 MB\n\n2.1x faster. Same data transfer.\n\nThere is very little difference in the data transfer: at this point we are transferring an initial existing SQLite database. But the protocol itself can be so much more efficient because the restrictions that were lifted, that even this is faster. And this is the entire database: for libSQL Embedded Replicas you always have to sync the entire database first. Turso allows you to lazy load (because everything in Turso is async), meaning you can start responding to queries right away.\n\n#Summary\n\nIf you are using libSQL sync(), also known as Embedded Replicas, we strongly recommend you switch to Turso. We are now at the point in which our compatibility matrix is close enough to SQLite, that we are comfortable making this recommendation. If you do happen to find something that is not implemented yet, then sure, waiting a bit longer is fine.\n\nTry syncing Turso databases today:\n\nnpm install @tursodatabase/sync\n\nimport { connect } from \"@tursodatabase/sync\";\n\nconst db = await connect({\n  path: \"./my-app.db\",\n  url: \"libsql://your-db.turso.io\",\n  authToken: \"your-token\",\n});\nawait db.connect();\n\n\nYou don't even need a Turso Cloud account, because the Turso CLI ships with a local sync server:\n\nnpx turso@latest --sync-server 0.0.0.0:8080\n\n\nOur docs have more about it here.\n\nAnd if you see your agent trying to install libSQL, you can calmly explain that you'd like to use Turso, not libSQL, and mention the packages by name. We have anecdotally found that the occasional expletive helps.\n\nCONTINUE READING\nHow we used Quint to find over 10 bugs in SQLite while hardening Turso\n\nMay 18, 2026\n\nWe are a year into rewriting SQLite. How is that going?\n\nMar 5, 2026\n\nAgentFS in the Browser\n\nDec 22, 2025\n\nMore posts by Glauber Costa\n\nShare article\n\nTwitter / X\nHacker News\nEmail\nLinkedIn\nCopy link\nTurso Cloud\nQuickstart\nDocumentation\nPricing\nAPI Status\nTerms of Use\nPrivacy Policy\n \nEmbedded Replicas\nDatabase Branching\nBackups & Recovery\nPlatform API\nTurso Database\nQuickstart\nChangelog\nReleases\nCompany\nAbout\nContact Us\nSupport\nTrust\nBlog\nBrand\nRSS\nYouTube\nDiscord\nX\nLinkedin\nGitHub\n© Turso 2026"
+}

@@ -1,0 +1,683 @@
+{
+    "image_count": 13,
+    "images": [
+        "https://www.nationalpopularvote.com/sites/all/themes/npv/logo.png",
+        "https://www.nationalpopularvote.com/sites/default/files/koza.png",
+        "https://www.nationalpopularvote.com/sites/default/files/barry.png",
+        "https://www.nationalpopularvote.com/sites/default/files/pearson-picture-2019.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/pam-wilmot-5.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/stephen.png",
+        "https://www.nationalpopularvote.com/sites/default/files/saul_2020.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/ray.png",
+        "https://www.nationalpopularvote.com/sites/default/files/pat-rosenstiel-picture-2019-8-29.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/reavey-headshot.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/trimpa-picture-2019.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/rebekah-_warren-2020-july-photo.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/matthew-schweich-2021.png"
+    ],
+    "video_count": 1,
+    "videos": [
+        "https://www.youtube.com/embed/OAnMuxj45mE?wmode=opaque&controls=&rel=0&theme=light&color=white&list=PLGbqlTjpDNNb20jhhWxYi77SkAEOeTeBm"
+    ],
+    "link_count": 164,
+    "links": [
+        {
+            "text": "Search",
+            "href": "https://www.nationalpopularvote.com/search"
+        },
+        {
+            "text": "",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "DONATE",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/media-inquiries#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/media-inquiries#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/media-inquiries#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Books",
+            "href": "https://www.nationalpopularvote.com/books"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Donate",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Electoral College",
+            "href": "https://www.nationalpopularvote.com/electoral-college"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Get Email Updates",
+            "href": "https://www.nationalpopularvote.com/get-email-updates"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Map",
+            "href": "https://www.nationalpopularvote.com/state-status"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/media-inquiries#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "News History",
+            "href": "https://www.nationalpopularvote.com/news-history"
+        },
+        {
+            "text": "News Stories",
+            "href": "https://www.nationalpopularvote.com/news"
+        },
+        {
+            "text": "Newsletters",
+            "href": "https://www.nationalpopularvote.com/newsletters"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "Store",
+            "href": "https://www.zazzle.com/store/nationalpopularvote"
+        },
+        {
+            "text": "Text and Explanation of Bill",
+            "href": "https://www.nationalpopularvote.com/bill-text"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/media-inquiries#"
+        },
+        {
+            "text": "Introduction: What It Is - Why It's Needed",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Myths About Big Cities",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-2"
+        },
+        {
+            "text": "Myths About Small States",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-3"
+        },
+        {
+            "text": "Myths About Fraud",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-4"
+        },
+        {
+            "text": "Myths About Constitutionality",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-5"
+        },
+        {
+            "text": "Myths About Big States and Big Counties",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-6"
+        },
+        {
+            "text": "Myths About Post Election Rule Changes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-7"
+        },
+        {
+            "text": "Myths About Interstate Compacts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-8"
+        },
+        {
+            "text": "Myths About Faithless Electors",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-9"
+        },
+        {
+            "text": "Myths About 15% Presidents",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-10"
+        },
+        {
+            "text": "Myths about Missing Votes and Hurricanes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-11"
+        },
+        {
+            "text": "Myths About Single-State Veto (Achilles’ Heel)",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-12"
+        },
+        {
+            "text": "Myths About Recounts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-13"
+        },
+        {
+            "text": "Myths About Missing Vote Counts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-14"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Write Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        },
+        {
+            "text": "Introduction: What It Is - Why It's Needed",
+            "href": "https://www.nationalpopularvote.com/file/introduction-what-it-why-its-needed-2"
+        },
+        {
+            "text": "Every Vote Equal: A State-Based Plan for Electing the President by National Popular Vote",
+            "href": "http://www.every-vote-equal.com/"
+        },
+        {
+            "text": "Every Vote Equal: A State-Based Plan for Electing the President by National Popular Vote",
+            "href": "http://www.every-vote-equal.com/"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        }
+    ],
+    "text_length": 13086,
+    "text_full": "Toggle navigation\nSearch\nDONATE\nHome\n \nExplanation\n \nAnswering Myths\n \nVideos\n \nEmail Your Legislator\n \nLetter-to-Editor\n \nVolunteer\n \nMedia\n \nAbout\n \nEvents\n\nState status: AK AL AR AZ CA CO CT DC DE FL GA HI IA ID IL IN KS KY LA MA MD ME MI MN MO MS MT NC ND NE NH NJ NM NV NY OH OK OR PA RI SC SD TN TX UT VA VT WA WI WV WY\n\nMedia Inquiries\n\nConcerning all press matters, please contact Patrick Rosenstiel at Ainsley Shea at 612-670-9465, media-inquiries@nationalpopularvote.com, or pat@ainsleyshea.com.\n\nA discussion of National Popular Vote will prove informative, engaging and entertaining for your audience. National Popular Vote is a state-based plan for electing the President by national popular vote of the people in all 50 states and the District of Columbia.\n\nIntroduction: What It Is - Why It's Needed\nBiographies\n\nJohn R. Koza received his Ph.D. in computer science from the University of Michigan in 1972. He published a board game involving Electoral College strategy in 1966. From 1973 through 1987, he was co-founder, chairman, and CEO of Scientific Games Inc. where he co-invented the rub-off instant lottery ticket used by state lotteries. In the 1980s, he and attorney Barry Fadem were active in promoting adoption of lotteries by various states through the citizen-initiative process and state legislative action. Between 1988 and 2003, he taught a course on genetic algorithms and genetic programming at Stanford University, where he was a consulting professor. He is lead author of the book Every Vote Equal: A State-Based Plan for Electing the President by National Popular Vote and originator of the National Popular Vote legislation.  He is Chair of National Popular Vote and a member of the Board of Directors.  Koza has visited 29 states on behalf of National Popular Vote. \n\nBarry Fadem is a partner in the law firm of Fadem & Associates in Lafayette, California. He specializes in all aspects of campaign and election law, and provides expert consultation in the area of initiatives and referendums. He is co-author of the book Every Vote Equal: A State-Based Plan for Electing the President by National Popular Vote with John R. Koza, Mark Grueskin, Michael S. Mandell, Robert Richie, and Joseph F. Zimmerman.  He is President of National Popular Vote and a member of the Board of Directors.  Barry Fadem has visited 45 states on behalf of National Popular Vote.\n\nChristopher Pearson has retired from the Vermont legislature after serving five terms in the House and three in the Senate. Throughout his public service Pearson gained expertise in election reform, climate policy and health care. He and his spouse have two daughters. Before joining the legislature, Pearson was Director of the Presidential Election Reform program at Fair Vote. He began working in politics in 1998 as a campaign and Congressional aide for then-Congressman Bernard Sanders (I–VT).  He is Secretary of National Popular Vote and a member of the Board of Directors.  Senator Pearson has visited 29 states on behalf of National Popular Vote.\n\nPam Wilmot is Executive Director of the Massachusetts chapter of Common Cause. She has steered many successful state campaigns for Common Cause including redistricting, campaign finance, ethics, lobbying, open government, and election reform. She also serves as the organization’s national expert on electoral policy. A sought-after commentator on public affairs, Pam frequently appears in the Massachusetts and national news media.  Pam has been Executive Director of Common Cause Massachusetts since 2002, and also held the position from 1989-1993.  Prior to Common Cause she was legislative director for Rhode Island PIRG.  Pam graduated cum laude from Brown University, received her J.D. from Northeastern University School of Law, and attained her M.S.W. from Smith College School for Social Work.  She is a member of the Board of Directors of National Popular Vote.  Pam Wilmot has visited 22 states on behalf of National Popular Vote.\n\nStephen M. Silberstein founded (in 1978), and served as the first President of, Innovative Interfaces Inc., a leading supplier of computer software for the automation of college and city libraries. Innovative's software is used by libraries in almost every state of the U.S. and in 60 other countries around the world. Mr. Silberstein sold his interest in the company in 2001 and now devotes his time to philanthropic and civic matters.   Previous to founding Innovative, Steve worked in the administration of the University of California, Berkeley, where he also taught in the Computer Science Department. He is a life member of the American Library Association and serves on the boards of Belvedere-Tiburon Library Foundation, The University of California Berkeley Foundation, and the U.C. Berkeley Goldman School of Public Policy.  Steve is a graduate of the University of California Berkeley with a B.A. in economics and a Master's degree in library science. He has also earned a Master's degree in econometrics from the University of Stockholm in Sweden.  He is a member of the Board of Directors of National Popular Vote.\n\nSaul Anuzis served as Chairman of the Michigan Republican Party from 2005-2009 and was a candidate for Chairman of the Republican National Committee in 2009 and 2011.  His previous political and government service included working with Newt Gingrich at American Solutions, Jack Kemp’s 1988 Presidential campaign, serving as Chief of Staff to Senate Majority Leader Dick Posthumus, Chairman of the Michigan Senate Republican Campaign Committee and serving on the Michigan House Republican Campaign Committee and most recently as a Senior Advisor to the Ted Cruz for President Campaign in the 2016 cycle.  Anuzis was asked to serve as Chairman on the Committee on Technology by both Chairman Michael Steele and Chairman Reince Priebus.  In May of 2010, Anuzis was unanimously elected to be Michigan’s National Committeeman to the Republican National Committee. In 2009 - 2010, he also served as a consultant to the House Policy Committee on New Media & Technology which was chaired by Congressman Thaddeus McCotter (R-MI).  In May of 2015, Anuzis was elected to the National Board of Directors of the Republican Liberty Caucus.  Anuzis is co-founder and co-owner of Quick Connect VOIP, which is a broadband and VOIP provider in Michigan.  He and his partner founded Coast to Coast Telecommunications and later Quick Connect USA which were Competitive Local Exchange Carrier providing local and long-distance service to their customers.  Saul Anuzis is President of 60 Plus, the American Association of Senior Citizens. 60 Plus is an NGO that represents senior citizens as one of America’s largest voting blocs, both nationally and in state capitals on issues from a conservative perspective.  He also serves as a Managing Partner of Coast to Coast Strategies, LLC, which provides strategic planning, consulting and business development services.  He served on several non-profit boards as well as a Gubernatorial Appointee to the Michigan Jobs Commission and the Michigan Export Development Authority and a member of the Teamsters Union.  Saul Anuzis studied Economics at the University of Michigan in Dearborn. He is the Honorary Consul for the Republic of Lithuania.  He and with wife of 35 years, Lina have 4 sons, enjoy skiing, scuba diving, their Harley and sailing.  Saul Anuzis has visited 35 states on behalf of National Popular Vote.\n\nRay Haynes was first elected to the California State Assembly in 1992. He served in the California State Senate from 1994 to 2002, including as Senate Republican Whip and Chairman of the Senate Constitutional Amendments Committee. In 2000 he served as National Chairman of the American Legislative Exchange Council (ALEC). Haynes was again elected to the Assembly in 2002, where he served as Assistant Republican Leader. He is a graduate of the University of Southern California Law School.  Ray Haynes  has visited 25 states on behalf of National Popular Vote.\n\nPatrick Rosenstiel is a nationally recognized figure in the world of public affairs, international relations, public relations and market research. Having cut his teeth in the campaign world, including the Forbes for President campaign, Pat brings nearly two decades of senior level public affairs expertise to the table. With a proactive philosophy toward public affairs, he has advanced initiatives related to defense, Social Security reform, Medicare Part D and drug re-importation. He has won impressive brand victories for Pfizer, Progress for America, Business Roundtable, Recombinetics, Inc., the United States Chamber of Commerce and countless Fortune 500 companies that compete in regulated industries.  As Executive Director of the Trade Alliance to Promote Prosperity (TAPP), Rosenstiel led a national public affairs, public relations and citizen lobbying effort against the Section 421 (Trade Act of 1974) petition asking the Obama administration to impose a 35% tariff on low-cost tires manufactured in China. As a direct result, the eventual tariff was reduced by 20 points and shortened.  As a political field director, Rosenstiel successfully directed grassroots efforts across the West and Midwest to garner Senate support for U.S. Supreme Court candidates John Roberts and Samuel Alito.  As a media relations professional, he has placed his clients in The Washington Post, Fox News, The New York Times, Business 2.0 and The Wall Street Journal, as well as hundreds of regional broadcast, local and trade media relevant to the geo-specific needs of the client.  In addition to his work as the CEO of Ainsley Shea, a Twin Cities-based public affairs firm with a worldwide impact, Rosenstiel presently serves as a senior consultant to the National Popular Vote campaign.  Rosenstiel has visited 45 states on behalf of National Popular Vote.\n\nEileen Reavey is a political and nonprofit consultant based in Portland, Oregon. Eileen began her career in nonprofit management, and previously worked as a Director of Community for the U.S. Green Building Council. In 2016 she moved to the West Coast, and after graduate school put her nonprofit organizing skills to work in the world of political organizing. She co-founded the grassroots advocacy group for National Popular Vote in Oregon and now serves as our National Grassroots Director. Eileen has a B.S. in Environmental Science & Public Policy from York College of Pennsylvania and a M.S.L. in Environmental, Natural Resources and Energy Law from Lewis & Clark Law School.  Eileen Reavey has visited 10 states on behalf of National Popular Vote.\n\nTed Trimpa is the Principal and President of Trimpa Group, LLC, a progressive consulting, philanthropic and political investment advising, and government relations firm specializing in public policy advocacy and political strategy at the state and federal levels. Trimpa brings more than a decade of government relations and political consulting experience with a proven record of results. Trimpa is one of the country’s most sought-after advocates resulting from his deep understanding of the national and multi-state public policy, political and nonprofit landscape. He has been recognized in national publications, including The Atlantic Monthly, National Review, The Advocate, and The Weekly Standard for his central role in designing cutting-edge public policy strategies.\n\nRebekah Warren was an elected member of either the Michigan House of Representatives or Senate between 2007 and 2020.\n\nShe shepherded ratification of the Great Lakes Basin Water Resources Compact -- landmark water protection legislation that effectively banned the diversion of water from outside the basin.  She was subsequently appointed to represent Michigan on the Great Lakes Commission, a bi-national and interstate commission focused on water use and conservation.\n\nShe has been the primary sponsor or a co-sponsor of the National Popular Vote bill in the Michigan Legislature since 2008.\n\nMatthew Schweich is a campaign manager and political consultant based in Washington, DC. He is the Deputy Director of the Marijuana Policy Project, the nation's leading cannabis reform organization. Between 2015 and 2020, he was the campaign director for six successful cannabis reform ballot initiative campaigns in Maine, Massachusetts, Michigan, Montana, South Dakota, and Utah while also overseeing numerous legislative campaigns. He was a general consultant to Alaskans for Better Elections, which passed a ranked-choice voting ballot initiative in 2020. He started his political career in Rhode Island, where he served as a legislative aide to Rhode Island General Treasurer Gina Raimondo and worked on multiple statewide campaigns including a state-level constitutional convention ballot question and two gubernatorial campaigns. He is a graduate of Bowdoin College. Matthew is a senior advisor to National Popular Vote.\n\nThe national popular vote winner should become President\nOne-person, one-vote\nCandidates should have a reason to campaign in all 50 states"
+}

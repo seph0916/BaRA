@@ -1,0 +1,349 @@
+{
+    "image_count": 25,
+    "images": [
+        "https://www.geoffreylitt.com/images/headshot.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/embark.png?1761416284",
+        "https://www.geoffreylitt.com/images/article_images/potluck.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/wildcard.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/margin-notes.png?1761416284",
+        "https://www.geoffreylitt.com/images/project_images/todomvc-vis/timeline.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/json-sheets.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/riffle.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/peritext.svg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/cambria.svg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/ladybug.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/dynamicland.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/article_images/potluck.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/enhance.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/ruby-family-history.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/deep-learning-intro.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/classroulette.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/simple-recommender.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/postgres-bson.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/free-response-analytics.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/news-context.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/pedometer.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/quadcopter.jpg?1761416284",
+        "https://www.geoffreylitt.com/images/projects/laser-scanner.png?1761416284",
+        "https://www.geoffreylitt.com/images/projects/formula-hybrid.jpg?1761416284"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 78,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Geoffrey Litt",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://www.geoffreylitt.com/#projects"
+        },
+        {
+            "text": "Writing",
+            "href": "https://www.geoffreylitt.com/#writing"
+        },
+        {
+            "text": "Inspirations",
+            "href": "https://www.geoffreylitt.com/inspirations"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@geoffreylitt"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        },
+        {
+            "text": "this essay",
+            "href": "https://www.inkandswitch.com/essay/malleable-software/"
+        },
+        {
+            "text": "this interview",
+            "href": "https://jacksondahl.com/dialectic/geoffrey-litt"
+        },
+        {
+            "text": "new era of personal software tools",
+            "href": "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming"
+        },
+        {
+            "text": "have more fun",
+            "href": "https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger"
+        },
+        {
+            "text": "create new interaction patterns",
+            "href": "https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms"
+        },
+        {
+            "text": "Notion",
+            "href": "https://www.notion.com/"
+        },
+        {
+            "text": "Ink & Switch",
+            "href": "https://www.inkandswitch.com/"
+        },
+        {
+            "text": "Daniel Jackson",
+            "href": "http://people.csail.mit.edu/dnj/"
+        },
+        {
+            "text": "startups",
+            "href": "https://www.panoramaed.com/"
+        },
+        {
+            "text": "subscribe to my email newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "follow via RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        },
+        {
+            "text": "Embark New!\nDynamic documents for travel planning",
+            "href": "https://www.inkandswitch.com/embark"
+        },
+        {
+            "text": "Potluck\nDynamic documents as personal software",
+            "href": "https://www.inkandswitch.com/potluck"
+        },
+        {
+            "text": "Wildcard\nCustomize a web app with a spreadsheet",
+            "href": "https://www.geoffreylitt.com/wildcard"
+        },
+        {
+            "text": "Margin Notes\nAutomatic code docs w/ recorded examples from runtime",
+            "href": "https://www.geoffreylitt.com/margin-notes"
+        },
+        {
+            "text": "TodoMVC Vis\nVisualizing the internal behavior of TodoMVC in Redux",
+            "href": "https://www.geoffreylitt.com/projects/todomvc-vis"
+        },
+        {
+            "text": "JSON Sheets\nA reactive programming environment for building GUIs",
+            "href": "https://www.geoffreylitt.com/projects/json-sheets"
+        },
+        {
+            "text": "Code like a surgeon",
+            "href": "https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon"
+        },
+        {
+            "text": "AI as teleportation",
+            "href": "https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation"
+        },
+        {
+            "text": "Enough AI copilots! We need AI HUDs",
+            "href": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds"
+        },
+        {
+            "text": "Is chat a good UI for AI? A Socratic dialogue",
+            "href": "https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue"
+        },
+        {
+            "text": "Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs",
+            "href": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs"
+        },
+        {
+            "text": "Avoid the nightmare bicycle",
+            "href": "https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle"
+        },
+        {
+            "text": "AI-generated tools can make programming more fun",
+            "href": "https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger"
+        },
+        {
+            "text": "Your pie doesn't need to be original (unless you claim it so)",
+            "href": "https://www.geoffreylitt.com/2024/08/25/your-pie-doesnt-need-be-original"
+        },
+        {
+            "text": "7 books that stood the test of time in 2023",
+            "href": "https://www.geoffreylitt.com/2023/12/17/seven-books-that-stuck-with-me-in-2023"
+        },
+        {
+            "text": "Codifying a ChatGPT workflow into a malleable GUI",
+            "href": "https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms"
+        },
+        {
+            "text": "Malleable software in the age of LLMs",
+            "href": "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming"
+        },
+        {
+            "text": "ChatGPT as muse, not oracle",
+            "href": "https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle"
+        },
+        {
+            "text": "Fuzzy API composition: querying NBA stats with GPT-3 + Statmuse + Langchain",
+            "href": "https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain"
+        },
+        {
+            "text": "For your next side project, make a browser extension",
+            "href": "https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension"
+        },
+        {
+            "text": "Dynamic documents // LLMs + end-user programming",
+            "href": "https://www.geoffreylitt.com/2022/11/23/dynamic-documents"
+        },
+        {
+            "text": "Bring Your Own Client",
+            "href": "https://www.geoffreylitt.com/2021/03/05/bring-your-own-client"
+        },
+        {
+            "text": "How tweet threads cured my writer's block: Twitter as a medium for sketching",
+            "href": "https://www.geoffreylitt.com/2020/09/21/twitter-and-media-for-sketching"
+        },
+        {
+            "text": "Foam: Software as Curation",
+            "href": "https://www.geoffreylitt.com/2020/07/19/tools-over-apps-for-personal-notetaking"
+        },
+        {
+            "text": "Climate art, hacking Autodesk, and other funemployment projects",
+            "href": "https://www.geoffreylitt.com/2019/08/28/august"
+        },
+        {
+            "text": "Browser extensions are underrated: the promise of hackable software",
+            "href": "https://www.geoffreylitt.com/2019/07/29/browser-extensions"
+        },
+        {
+            "text": "Adding tail call optimization to a Lisp interpreter in Ruby",
+            "href": "https://www.geoffreylitt.com/2018/01/15/adding-tail-calls-optimization-to-a-lisp-interpreter"
+        },
+        {
+            "text": "ENHANCE!: Upscaling images CSI-style with generative adversarial neural networks",
+            "href": "https://www.geoffreylitt.com/2017/06/04/enhance-upscaling-images-with-generative-adversarial-neural-networks"
+        },
+        {
+            "text": "No Redis Needed: building a Postgres-backed recommendation engine for Rails",
+            "href": "https://www.geoffreylitt.com/2017/03/19/building-a-rails-recommendation-engine"
+        },
+        {
+            "text": "The Virtual Cafe: a better way to hang out remotely",
+            "href": "https://www.geoffreylitt.com/2017/01/22/the-virtual-cafe"
+        },
+        {
+            "text": "Building Waze for the Boston subway: my first adventure in civic hacking",
+            "href": "https://www.geoffreylitt.com/2015/02/28/mbta-ninja"
+        },
+        {
+            "text": "2014: A year in review with iPhone pedometer data",
+            "href": "https://www.geoffreylitt.com/2015/01/01/2014-a-year-in-review"
+        },
+        {
+            "text": "Dialectic Podcast: Software You Can Shape",
+            "href": "https://jacksondahl.com/dialectic/geoffrey-litt"
+        },
+        {
+            "text": "Metamuse Podcast: Bring your own client",
+            "href": "https://museapp.com/podcast/34-bring-your-own-client/"
+        },
+        {
+            "text": "Metamuse Podcast: Dynamic documents",
+            "href": "https://museapp.com/podcast/67-dynamic-documents/"
+        },
+        {
+            "text": "Superorganizers Newsletter: on research tools/process",
+            "href": "https://every.to/superorganizers/action-item-how-to-see-the-future"
+        },
+        {
+            "text": "Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Join my email newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "Follow me on Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Subscribe via RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        },
+        {
+            "text": "Riffle\nBuilding data-centric apps with a reactive relational database",
+            "href": "https://riffle.systems/essays/prelude"
+        },
+        {
+            "text": "Peritext\nA CRDT for rich text, to enable async collaborative writing",
+            "href": "https://www.inkandswitch.com/peritext"
+        },
+        {
+            "text": "Cambria\nBetter cross-app data compatibility using bidirectional lenses",
+            "href": "https://www.inkandswitch.com/cambria"
+        },
+        {
+            "text": "ladybug\nA Ruby debugger backend for the Chrome Dev Tools UI",
+            "href": "https://www.geoffreylitt.com/projects/ladybug"
+        },
+        {
+            "text": "Experiments in Dynamicland\nExploring in the dynamic medium",
+            "href": "https://www.geoffreylitt.com/projects/dynamicland"
+        },
+        {
+            "text": "Dynamic Documents as Personal Software (Causal Islands 2023)\nA vision for dynamic documents + AI",
+            "href": "https://www.youtube.com/watch?v=bJ3i4K3hefI"
+        },
+        {
+            "text": "ENHANCE! (BangBangCon 2017)\nExplaining Generative Adversarial Neural Networks using CSI",
+            "href": "https://www.geoffreylitt.com/2017/06/04/enhance-upscaling-images-with-generative-adversarial-neural-networks"
+        },
+        {
+            "text": "Ruby, A Family History (RailsConf 2018)\nExploring how Ruby was influenced by Lisp, Smalltalk, and Perl",
+            "href": "https://www.geoffreylitt.com/projects/ruby-family-history"
+        },
+        {
+            "text": "Deep Learning: an Introduction (BostonRB)\nAn introduction to deep learning techniques for Ruby developers",
+            "href": "https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers"
+        },
+        {
+            "text": "classroulette\nMaking online course catalogs skimmable and serendipitous",
+            "href": "https://www.geoffreylitt.com/projects/classroulette"
+        },
+        {
+            "text": "simple_recommender\nUser recommendations for Rails apps, using Postgres",
+            "href": "https://www.geoffreylitt.com/2017/03/19/building-a-rails-recommendation-engine"
+        },
+        {
+            "text": "Postgres BSON\nExtending PostgreSQL with faster JSON queries",
+            "href": "https://www.geoffreylitt.com/projects/postgres-bson"
+        },
+        {
+            "text": "Panorama Free Response Analytics\nUsing NLP to help educators understand survey feedback",
+            "href": "https://www.geoffreylitt.com/projects/free-response-analytics"
+        },
+        {
+            "text": "News context sidebar\nAutomatically providing background context about news articles",
+            "href": "https://www.geoffreylitt.com/projects/news-context"
+        },
+        {
+            "text": "Pedometer data analysis\nAnalyzing a year of data from my smartphone step counter",
+            "href": "https://www.geoffreylitt.com/2015/01/01/2014-a-year-in-review"
+        },
+        {
+            "text": "Autonomous quadcopter\nA sonar-based obstacle avoidance system for a quadcopter",
+            "href": "https://www.geoffreylitt.com/projects/quadcopter"
+        },
+        {
+            "text": "Laser scanning\nAn algorithm for efficiently determining object orientation with a cheap laser scanner",
+            "href": "https://www.geoffreylitt.com/projects/laser-scanner"
+        },
+        {
+            "text": "Bulldogs Racing\nEmbedded software for a gas-electric hybrid racecar",
+            "href": "https://www.geoffreylitt.com/projects/formula-hybrid"
+        }
+    ],
+    "text_length": 5049,
+    "text_full": " Geoffrey Litt\nProjects\nWriting\nInspirations\nSubscribe:\nNewsletter \nTwitter \nMastodon \nRSS \nContact\nEmail me \n\nWelcome! I work on malleable software: computing environments where anyone can adapt their software to meet their needs with minimal friction. To see what that means to me, read this essay or listen to this interview.\n\nI'm also tinkering with AI-assisted programming, which I think can help usher in a new era of personal software tools, help programmers have more fun, and create new interaction patterns for working with software.\n\nI currently work at Notion. Previously I was a senior researcher at the independent research lab Ink & Switch, and I did a PhD in HCI at MIT advised by Daniel Jackson. Earlier in my career I did design and engineering at startups. My core skill is designing and prototyping environments for thinking.\n\nYou can reach me via email. I enjoy hearing from people making cool stuff! I also do a bit of startup advising for companies related to my work.\n\nIf you'd like to hear occasional updates on my work, you can subscribe to my email newsletter or follow via RSS.\n\nMalleable Software\nEmbark New!\nDynamic documents for travel planning\nPotluck\nDynamic documents as personal software\nWildcard\nCustomize a web app with a spreadsheet\nProgramming Interfaces\nMargin Notes\nAutomatic code docs w/ recorded examples from runtime\nTodoMVC Vis\nVisualizing the internal behavior of TodoMVC in Redux\nJSON Sheets\nA reactive programming environment for building GUIs\nWriting\nCode like a surgeon\nAI as teleportation\nEnough AI copilots! We need AI HUDs\nIs chat a good UI for AI? A Socratic dialogue\nStevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs\nAvoid the nightmare bicycle\nAI-generated tools can make programming more fun\nYour pie doesn't need to be original (unless you claim it so)\n7 books that stood the test of time in 2023\nCodifying a ChatGPT workflow into a malleable GUI\nMalleable software in the age of LLMs\nChatGPT as muse, not oracle\nFuzzy API composition: querying NBA stats with GPT-3 + Statmuse + Langchain\nFor your next side project, make a browser extension\nDynamic documents // LLMs + end-user programming\nBring Your Own Client\nHow tweet threads cured my writer's block: Twitter as a medium for sketching\nFoam: Software as Curation\nClimate art, hacking Autodesk, and other funemployment projects\nBrowser extensions are underrated: the promise of hackable software\nAdding tail call optimization to a Lisp interpreter in Ruby\nENHANCE!: Upscaling images CSI-style with generative adversarial neural networks\nNo Redis Needed: building a Postgres-backed recommendation engine for Rails\nThe Virtual Cafe: a better way to hang out remotely\nBuilding Waze for the Boston subway: my first adventure in civic hacking\n2014: A year in review with iPhone pedometer data\nInterviews\nDialectic Podcast: Software You Can Shape\nMetamuse Podcast: Bring your own client\nMetamuse Podcast: Dynamic documents\nSuperorganizers Newsletter: on research tools/process\nContact me\n\nPlease reach out if you're interested in chatting about ideas, or if I might be able to help you in some way. You can contact me via email or on Twitter.\n\nSubscribe\nI periodically write about programming tools, end-user programming, and software design. To get updates about new posts:\n Join my email newsletter  Follow me on Twitter  Subscribe via RSS\n📦 The Archive... (older work less immediately relevant to my current interests)\nLocal-First Software\nRiffle\nBuilding data-centric apps with a reactive relational database\nPeritext\nA CRDT for rich text, to enable async collaborative writing\nCambria\nBetter cross-app data compatibility using bidirectional lenses\nProgramming interface explorations\nladybug\nA Ruby debugger backend for the Chrome Dev Tools UI\nExperiments in Dynamicland\nExploring in the dynamic medium\nConference Talks\nDynamic Documents as Personal Software (Causal Islands 2023)\nA vision for dynamic documents + AI\nENHANCE! (BangBangCon 2017)\nExplaining Generative Adversarial Neural Networks using CSI\nRuby, A Family History (RailsConf 2018)\nExploring how Ruby was influenced by Lisp, Smalltalk, and Perl\nDeep Learning: an Introduction (BostonRB)\nAn introduction to deep learning techniques for Ruby developers\nOther software projects\nclassroulette\nMaking online course catalogs skimmable and serendipitous\nsimple_recommender\nUser recommendations for Rails apps, using Postgres\nPostgres BSON\nExtending PostgreSQL with faster JSON queries\nData visualization / NLP\nPanorama Free Response Analytics\nUsing NLP to help educators understand survey feedback\nNews context sidebar\nAutomatically providing background context about news articles\nPedometer data analysis\nAnalyzing a year of data from my smartphone step counter\nHardware / Electrical Engineering\nAutonomous quadcopter\nA sonar-based obstacle avoidance system for a quadcopter\nLaser scanning\nAn algorithm for efficiently determining object orientation with a cheap laser scanner\nBulldogs Racing\nEmbedded software for a gas-electric hybrid racecar"
+}

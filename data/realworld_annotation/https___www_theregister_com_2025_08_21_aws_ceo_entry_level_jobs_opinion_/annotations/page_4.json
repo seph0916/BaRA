@@ -1,0 +1,983 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5242858.jpg?imageId=5242858&panox=0.00&panoy=14.17&panow=100.00&panoh=71.67&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094206.jpg?imageId=4094206&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240107.jpg?imageId=5240107&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239252.jpg?imageId=5239252&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227770.jpg?imageId=5227770&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227324.jpg?imageId=227324&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226306.jpg?imageId=5226306&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254200.jpg?imageId=254200&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255316.jpg?imageId=255316&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225321.jpg?imageId=225321&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/224181.jpg?imageId=224181&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244387.jpg?imageId=244387&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5219893.jpg?imageId=5219893&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230658.jpg?imageId=230658&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231898.jpg?imageId=231898&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238419.jpg?imageId=238419&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/260447.jpg?imageId=260447&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238138.jpg?imageId=238138&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222865.jpg?imageId=222865&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093838.jpg?imageId=4093838&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234266.jpg?imageId=234266&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/236131.jpg?imageId=236131&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259295.jpg?imageId=259295&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/233479.jpg?imageId=233479&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238370.jpg?imageId=238370&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222973.jpg?imageId=222973&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094276.jpg?imageId=4094276&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252834.jpg?imageId=252834&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684072.jpg?imageId=1684072&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262915.jpg?imageId=262915&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222844.jpg?imageId=222844&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094162.jpg?imageId=4094162&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228274.jpg?imageId=228274&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093935.jpg?imageId=4093935&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257108.jpg?imageId=257108&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228561.jpg?imageId=228561&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252017.jpg?imageId=252017&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232962.jpg?imageId=232962&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256828.jpg?imageId=256828&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/173039.jpg?imageId=173039&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/158337.jpg?imageId=158337&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252333.jpg?imageId=252333&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684458.jpg?imageId=1684458&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683849.jpg?imageId=1683849&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226457.jpg?imageId=226457&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684109.jpg?imageId=1684109&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683964.jpg?imageId=1683964&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252771.jpg?imageId=252771&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258057.jpg?imageId=258057&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684232.jpg?imageId=1684232&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684231.jpg?imageId=1684231&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243808.jpg?imageId=243808&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684388.jpg?imageId=1684388&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684501.jpg?imageId=1684501&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231424.jpg?imageId=231424&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257713.jpg?imageId=257713&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258991.jpg?imageId=258991&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225885.jpg?imageId=225885&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/236261.jpg?imageId=236261&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255765.jpg?imageId=255765&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226363.jpg?imageId=226363&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231303.jpg?imageId=231303&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238034.jpg?imageId=238034&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234207.jpg?imageId=234207&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238428.jpg?imageId=238428&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254080.jpg?imageId=254080&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256697.jpg?imageId=256697&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253970.jpg?imageId=253970&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227848.jpg?imageId=227848&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225494.jpg?imageId=225494&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 224,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/patches#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Clear your calendar, Drupal user: You have a critically urgent patch to install\n\nThe org’s staying mum on the details, but Wednesday’s fixes reach back to unsupported 8.9 branches",
+            "href": "https://www.theregister.com/security/2026/05/19/drupal-warns-admins-to-brace-for-highly-critical-core-patch/5242728"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/202615/"
+        },
+        {
+            "text": "Patch time for Cisco SD-WAN admins as vendor drops yet another make-me-admin zero-day\n\nCISA hands feds super-tight deadline for this perfect-10, actively exploited flaw",
+            "href": "https://www.theregister.com/patches/2026/05/15/cisco-discloses-yet-another-sd-wan-make-me-admin-0-day/5241071"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/15/202611/"
+        },
+        {
+            "text": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits\n\nPalo Alto Networks found and fixed 75 flaws this month, up from its usual five",
+            "href": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202629/"
+        },
+        {
+            "text": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs\n\nThe good news: no 0-days. The bad news: busy week ahead for Microsoft admins",
+            "href": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202625/"
+        },
+        {
+            "text": "ShinyHunters claims dump puts 119K Vimeo emails in the wild\n\nVimeo points finger at analytics supplier Anodot, says no logins or card data were touched",
+            "href": "https://www.theregister.com/patches/2026/05/05/shinyhunters-claims-119k-vimeo-emails-in-the-wild/5227389"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/shinyhunters_dump_puts_119k_vimeo/"
+        },
+        {
+            "text": "Brace for the patch tsunami: AI is unearthing decades of buried code debt\n\nBritain's cyber agency says the bill for years of technical shortcuts is coming due, and it's arriving all at once",
+            "href": "https://www.theregister.com/security/2026/05/02/ai-digs-up-decades-of-code-debt-patch-up/5219734"
+        },
+        {
+            "text": "48",
+            "href": "https://forums.theregister.com/forum/all/2026/05/02/ncsc_brace_for_patch_tsunami/"
+        },
+        {
+            "text": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines\n\nThis CVSS 10.0 RCE vuln has been patched, automatically for some, so better check those workflows",
+            "href": "https://www.theregister.com/patches/2026/04/30/google-fixes-cvss-100-vulnerability-in-gemini-cli/5225768"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/googles_fix_for_critical_gemini/"
+        },
+        {
+            "text": "Bug of the year (so far): Nasty cPanel vulnerability probably exploited as a 0-day\n\nEmergency patches out now for those managing the millions of domains assumed to be affected",
+            "href": "https://www.theregister.com/security/2026/04/30/critical-cpanel-whm-flaw-probs-exploited-as-0-day-pros-say/5228744"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/cpanel_whn_cves/"
+        },
+        {
+            "text": "Microsoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack\n\nSecond try's a charm?",
+            "href": "https://www.theregister.com/security/2026/04/29/microsoft-patch-fell-short-new-windows-flaw-exploited/5227153"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/microsoft_zero_click_exploit/"
+        },
+        {
+            "text": "More Cisco SD-WAN bugs battered in attacks\n\nCISA gives federal agencies 4 days to patch",
+            "href": "https://www.theregister.com/security/2026/04/21/more-cisco-sd-wan-bugs-battered-in-attacks/5229107"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/cisco_sdwan_bugs_kev/"
+        },
+        {
+            "text": "Patch these critical Fortinet sandbox bugs that let attackers bypass login, run commands over HTTP\n\nNo reports of active exploitation (yet)",
+            "href": "https://www.theregister.com/security/2026/04/15/critical-fortinet-sandbox-bugs-allow-auth-bypass-and-rce/5224979"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/critical_fortinet_sandbox_bugs/"
+        },
+        {
+            "text": "Ancient Excel bug comes out of retirement for active attacks\n\nVuln old enough to drive lands on CISA's exploited list",
+            "href": "https://www.theregister.com/security/2026/04/15/ancient-excel-bug-comes-out-of-retirement-for-active-attacks/5223506"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/excel_exploit/"
+        },
+        {
+            "text": "Microsoft's massive Patch Tuesday: It's raining bugs\n\nOne CVE under attack, one already disclosed by angry bug hunter, and 163 more",
+            "href": "https://www.theregister.com/security/2026/04/14/microsofts-massive-patch-tuesday-its-raining-bugs/5219841"
+        },
+        {
+            "text": "23",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/microsofts_massive_patch_tuesday/"
+        },
+        {
+            "text": "Zombie Microsoft bugs rise from the dead, pave way for crims and ransomware scum\n\nOne was patched almost 14 years ago",
+            "href": "https://www.theregister.com/security/2026/04/13/ransomware-scum-other-crims-exploit-4-old-microsoft-bugs/5222887"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/ransomware_gang_other_crims_attacking/"
+        },
+        {
+            "text": "Attackers exploited this critical FortiClient EMS bug as a 0-day\n\nCISA added the flaw to KEV after Fortinet confirmed exploitation in the wild",
+            "href": "https://www.theregister.com/security/2026/04/06/attackers-exploited-the-forticlient-ems-bug-as-a-0-day/5227028"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/06/forticlient_ems_bug_exploited/"
+        },
+        {
+            "text": "Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat\n\nResearchers say attackers are already looting vulnerable boxes",
+            "href": "https://www.theregister.com/security/2026/03/30/citrix-netscaler-bug-may-be-multiple-flaws-in-one/5228153"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/03/30/citrix_netscaler_flaw/"
+        },
+        {
+            "text": "Out-of-band getting out of hand as Microsoft pushes hotpatch for Bluetooth\n\nSecond emergency fix in days targets Windows 11 24H2 and 25H2",
+            "href": "https://www.theregister.com/software/2026/03/17/microsoft-pushes-out-of-band-hotpatch-for-bluetooth/5225064"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2026/03/17/microsoft_bluetooth_hotpatch/"
+        },
+        {
+            "text": "Google rushes Chrome update fixing two zero-days already under attack\n\nSkia graphics lib and V8 JavaScript engine brings browser's tally of actively exploited bugs to three in 2026",
+            "href": "https://www.theregister.com/security/2026/03/13/google-rushes-chrome-update-to-fix-zero-days-under-attack/5223329"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/google_zeroday_chrome_update/"
+        },
+        {
+            "text": "Hotpatching goes default in Windows Autopatch whether you like it or not\n\nMicrosoft insists rebootless updates are 'the quickest way to get secure'",
+            "href": "https://www.theregister.com/software/2026/03/11/hotpatching-goes-default-in-windows-autopatch/5223168"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/03/11/microsoft_hotpatching/"
+        },
+        {
+            "text": "Patch these 4 critical, make-me-root SolarWinds bugs ASAP\n\nSolarWinds + file transfer software = what attackers' dreams are made of",
+            "href": "https://www.theregister.com/security/2026/02/24/patch-these-4-critical-make-me-root-solarwinds-bugs-asap/4103553"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/02/24/patch_these_4_critical_makemeroot/"
+        },
+        {
+            "text": "CISA gives federal agencies three days to patch actively exploited Dell bug\n\nHardcoded credential flaw in RecoverPoint already abused in espionage campaign",
+            "href": "https://www.theregister.com/security/2026/02/20/cisa-gives-feds-3-days-to-patch-actively-exploited-dell-bug/4147075"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/02/20/cisa_dell_vulnerability/"
+        },
+        {
+            "text": "Attackers finally get around to exploiting critical Microsoft bug from 2024\n\nAs if admins haven't had enough to do this week",
+            "href": "https://www.theregister.com/security/2026/02/13/critical-microsoft-bug-from-2024-under-exploitation/4853311"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/02/13/critical_microsoft_bug_from_2024/"
+        },
+        {
+            "text": "Microsoft's Valentine's gift to admins: 6 exploited zero-day fixes\n\nRoses are red, violets are blue ... now get patching",
+            "href": "https://www.theregister.com/security/2026/02/10/microsofts-valentines-gift-to-admins-6-zero-day-fixes/4979681"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/02/10/microsofts_valentines_gift_to_admins/"
+        },
+        {
+            "text": "Critical SolarWinds Web Help Desk bug under attack\n\nUS agencies told to patch by Friday",
+            "href": "https://www.theregister.com/security/2026/02/04/critical-solarwinds-web-help-desk-bug-under-attack/5022407"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/02/04/critical_solarwinds_web_help_desk/"
+        },
+        {
+            "text": "Critical React Native Metro dev server bug under attack as researchers scream into the void\n\nToo slow react-ion time",
+            "href": "https://www.theregister.com/security/2026/02/03/critical-react-native-metro-dev-server-bug-under-attack/4502870"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/02/03/critical_react_native_metro_server/"
+        },
+        {
+            "text": "Microsoft probes Windows 11 boot failures tied to January security updates\n\nSome machines are failing to start after security updates, prompting yet another Microsoft investigation",
+            "href": "https://www.theregister.com/software/2026/01/26/windows-11-boot-failures-tied-to-january-tied-to-jan-updates/5117742"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/01/26/microsoft_probes_windows_11_boot/"
+        },
+        {
+            "text": "Patch or die: VMware vCenter Server bug fixed in 2024 under attack today\n\nIf you skipped it back then, now’s a very good time",
+            "href": "https://www.theregister.com/security/2026/01/23/critical-vmware-vcenter-server-bug-under-attack/5160931"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/01/23/critical_vmware_vcenter_server_bug/"
+        },
+        {
+            "text": "Fortinet admits FortiGate SSO bug still exploitable despite December patch\n\nFix didn't quite do the job – attackers spotted logging in",
+            "href": "https://www.theregister.com/security/2026/01/23/fortigate-sso-bug-still-exploitable-despite-december-patch/5039404"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/01/23/fortinet_fortigate_patch/"
+        },
+        {
+            "text": "Ancient telnet bug happily hands out root to attackers\n\nCritical vuln flew under the radar for a decade",
+            "href": "https://www.theregister.com/security/2026/01/22/ancient-telnet-bug-happily-hands-out-root-to-attackers/4559704"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2026/01/22/root_telnet_bug/"
+        },
+        {
+            "text": "Another week, another emergency patch as Cisco plugs Unified Comms zero-day\n\nThe critical-rated flaw leaves unpatched systems open to full takeover",
+            "href": "https://www.theregister.com/on-prem/2026/01/22/cisco-plugs-up-unified-comms-zero-day-under-active-exploit/4562922"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/01/22/another_week_another_emergency_patch/"
+        },
+        {
+            "text": "Microsoft admits Outlook might freeze when saving files to OneDrive\n\nJanuary update is the gift that keeps on giving",
+            "href": "https://www.theregister.com/on-prem/2026/01/21/outlook-might-freeze-when-saving-files-to-onedrive/5104155"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2026/01/21/outlook_freeze_onedrive/"
+        },
+        {
+            "text": "Cloudflare whacks WAF bypass bug that opened side door for attackers\n\nACME validation had a challenge-request hole",
+            "href": "https://www.theregister.com/security/2026/01/20/cloudflare-whacks-waf-bypass-bug-that-opened-side-door/5118626"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/01/20/cloudflare_fixes_acme_validation/"
+        },
+        {
+            "text": "AI framework flaws put enterprise clouds at risk of takeover\n\nUpdate Chainlit to the latest version ASAP",
+            "href": "https://www.theregister.com/security/2026/01/20/ai-framework-flaws-put-enterprise-clouds-at-risk-of-takeover/4249955"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/01/20/ai_framework_flaws_enterprise_clouds/"
+        },
+        {
+            "text": "Anthropic quietly fixed flaws in its Git MCP server that allowed for remote code execution\n\nPrompt injection for the win",
+            "href": "https://www.theregister.com/security/2026/01/20/anthropic-quietly-fixed-flaws-in-its-git-mcp-server/4676059"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/01/20/anthropic_prompt_injection_flaws/"
+        },
+        {
+            "text": "Sorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch\n\nMicrosoft claims it's a Secure Launch bug",
+            "href": "https://www.theregister.com/security/2026/01/16/patch-tuesday-update-makes-windows-pcs-refuse-to-shut-down/5126049"
+        },
+        {
+            "text": "113",
+            "href": "https://forums.theregister.com/forum/all/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/"
+        },
+        {
+            "text": "Cisco finally fixes max-severity bug under active attack for weeks\n\nThis is a threat to security - and to the weekend for some unlucky netadmins",
+            "href": "https://www.theregister.com/security/2026/01/15/cisco-finally-fixes-max-severity-bug-under-attack-for-weeks/4205144"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/01/15/cisco_fixes_cve_2025_20393/"
+        },
+        {
+            "text": "A simple CodeBuild flaw put every AWS environment at risk – and pwned 'the central nervous system of the cloud'\n\nAnd it's 'not unique to AWS,' researcher tells The Reg",
+            "href": "https://www.theregister.com/security/2026/01/15/a-simple-codebuild-flaw-put-every-aws-environment-at-risk/4298264"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/01/15/codebuild_flaw_aws/"
+        },
+        {
+            "text": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack\n\nThe open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group",
+            "href": "https://www.theregister.com/security/2026/01/13/python-libraries-in-ai/ml-models-can-be-poisoned-w-metadata/4537738"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/01/13/ai_python_library_bugs_allow/"
+        },
+        {
+            "text": "Patch Cisco ISE bug now before attackers abuse proof-of-concept exploit\n\nNo reports of active exploitation … yet",
+            "href": "https://www.theregister.com/security/2026/01/08/ruh-roh-theres-a-cisco-ise-bug-poc-on-the-loose/4316197"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/01/08/rcisco_ise_bug_poc/"
+        },
+        {
+            "text": "Maximum-severity n8n flaw lets randos run your automation server\n\nUnauthenticated RCE means anyone on the network can seize full control",
+            "href": "https://www.theregister.com/security/2026/01/08/critical-n8n-bug-allows-unauthenticated-server-takeover/5068364"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/01/08/n8n_rce_bug/"
+        },
+        {
+            "text": "Logitech macOS mouse mayhem traced to expired dev certificate\n\nCompany says it dropped the ball, apologizes for wasting people's time",
+            "href": "https://www.theregister.com/security/2026/01/08/logitech-mouse-mayhem-traced-to-expired-dev-certificate/4560071"
+        },
+        {
+            "text": "48",
+            "href": "https://forums.theregister.com/forum/all/2026/01/08/logitech_mouse_chaos/"
+        },
+        {
+            "text": "An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit\n\nYou didn't think you'd get to enjoy your time off without a major cybersecurity incident, did you?",
+            "href": "https://www.theregister.com/security/2025/12/30/heartbleed-of-mongodb-under-active-exploit/2883129"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2025/12/30/mongodb_vuln_exploited_cve_2025_14847/"
+        },
+        {
+            "text": "Microsoft rushes an out-of-band update for Message Queuing bug\n\nRedmond gets in early for the twelve whoopsies of Christmas",
+            "href": "https://www.theregister.com/security/2025/12/23/microsoft-fixes-message-queuing-issue-in-new-update/2833280"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2025/12/23/microsoft_fixes_message_queuing_issue/"
+        },
+        {
+            "text": "HPE tells customers to patch fast as OneView RCE bug scores a perfect 10\n\nMaximum-severity vuln lets unauthenticated attackers execute code on trusted infra management platform",
+            "href": "https://www.theregister.com/security/2025/12/19/hpe-oneview-rce-bug-scores-a-perfect-10/2005154"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/12/19/hpe_oneview_rce_bug/"
+        },
+        {
+            "text": "Apple, Google forced to issue emergency 0-day patches\n\nBoth admit attackers were already exploiting the bugs, with scant detail and hints of spyware-grade abuse",
+            "href": "https://www.theregister.com/security/2025/12/15/apple-google-forced-to-issue-emergency-0-day-patches/2541852"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2025/12/15/apple_follows_google_by_emergency/"
+        },
+        {
+            "text": "Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit\n\nExploit hasn't been picked up by any malware detection engines, CEO tells The Reg",
+            "href": "https://www.theregister.com/security/2025/12/12/microsoft-rasman-0-day-gets-an-unofficial-patch-and-exploit/1980075"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2025/12/12/microsoft_windows_rasman_dos_0day/"
+        },
+        {
+            "text": "New React vulns leak secrets, invite DoS attacks\n\nAnd the earlier React2Shell patch is vulnerable",
+            "href": "https://www.theregister.com/security/2025/12/12/new-react-vulns-leak-secrets-invite-dos-attacks/2308921"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2025/12/12/new_react_secretleak_bugs/"
+        },
+        {
+            "text": "Google fixes super-secret 8th Chrome 0-day\n\nNo details, no CVE, update your browser now",
+            "href": "https://www.theregister.com/security/2025/12/11/google-fixes-super-secret-8th-chrome-0-day/2542556"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2025/12/11/google_fixes_supersecret_8th_chrome/"
+        },
+        {
+            "text": "Microsoft reports 7.8-rated zero day, plus 56 more in December Patch Tuesday\n\nPlus critical critical Notepad++, Ivanti, and Fortinet updates, and one of these patches an under-attack security hole",
+            "href": "https://www.theregister.com/security/2025/12/09/patch-tuesday-microsoft-eop-notepad-ivanti-fortinet/2671010"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2025/12/09/december_2025_patch_tuesday/"
+        },
+        {
+            "text": "Microsoft quietly shuts down Windows shortcut flaw after years of espionage abuse\n\nSilent Patch Tuesday mitigation ends ability to hide malicious commands in .lnk files",
+            "href": "https://www.theregister.com/security/2025/12/04/microsoft-fixes-windows-shortcut-flaw-exploited-for-years/2300414"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2025/12/04/microsoft_lnk_bug_fix/"
+        },
+        {
+            "text": "'Exploitation is imminent' as 39 percent of cloud environs have max-severity React hole\n\nFinish reading this, then patch",
+            "href": "https://www.theregister.com/security/2025/12/03/exploitation-is-imminent-of-max-severity-react-bug/2268798"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2025/12/03/exploitation_is_imminent_react_vulnerability/"
+        },
+        {
+            "text": "Two Android 0-day bugs disclosed and fixed, plus 105 more to patch\n\nChristmas comes early for attackers this year",
+            "href": "https://www.theregister.com/security/2025/12/02/two-android-0-day-bugs-patched-plus-105-more-fixes/2902733"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2025/12/02/android_0_days/"
+        },
+        {
+            "text": "Fortinet 'fesses up to second 0-day within a week\n\nAttackers may be joining the dots to enable unauthenticated RCE",
+            "href": "https://www.theregister.com/security/2025/11/19/fortinet-confirms-second-0-day-in-just-four-days/2243029"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/11/19/fortinet_confirms_second_fortiweb_0day/"
+        },
+        {
+            "text": "Google Chrome bug exploited as a 0-day – patch now or risk full system compromise\n\nSeventh Chrome 0-day this year",
+            "href": "https://www.theregister.com/security/2025/11/18/google-chrome-bug-exploited-as-a-0-day-patch-now/2845718"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2025/11/18/google_chrome_seventh_0_day/"
+        },
+        {
+            "text": "Fortinet finally cops to critical make-me-admin bug under active exploitation\n\nMore than a month after PoC made public",
+            "href": "https://www.theregister.com/security/2025/11/14/fortinet-finally-cops-to-critical-bug-under-active-exploit/2300690"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2025/11/14/fortinet_active_exploit_cve_2025_64446/"
+        },
+        {
+            "text": "Cisco warns of 'new attack variant' battering firewalls under exploit for 6 months\n\nPlus 2 new critical vulns - patch now",
+            "href": "https://www.theregister.com/security/2025/11/06/cisco-warns-of-new-attack-variant-battering-firewalls/971855"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/11/06/cisco_firewall_ongoing_attacks/"
+        },
+        {
+            "text": "Docker Compose vulnerability opens door to host-level writes – patch pronto\n\nWindows Desktop installer also fixed after DLL hijack flaw rated 8.8 severity",
+            "href": "https://www.theregister.com/security/2025/10/30/docker-compose-vulnerability-opens-door-to-host-level-writes/701263"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2025/10/30/docker_compose_desktop_flaws/"
+        },
+        {
+            "text": "Microsoft drops surprise Windows Server patch before weekend downtime\n\nYou didn't have plans, did you?",
+            "href": "https://www.theregister.com/security/2025/10/24/microsoft-issues-out-of-band-patch-for-critical-wsus-flaw/1359855"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2025/10/24/windows_server_patch/"
+        },
+        {
+            "text": "Forking confusing: Vulnerable Rust crate exposes uv Python packager\n\nForks of forks of forks, but which ones are patched?",
+            "href": "https://www.theregister.com/security/2025/10/22/vulnerable-rust-crate-exposes-uv-python-packager/1447822"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/10/22/vulnerable_rust_crate/"
+        },
+        {
+            "text": "Oracle rushes out another emergency E-Business Suite patch as Clop fallout widens\n\nLatest in a long line of EBS flaws leta miscreants remotely compromise enterprise systems to pinch sensitive data",
+            "href": "https://www.theregister.com/security/2025/10/14/oracle-rushes-out-another-emergency-e-business-suite-patch/1382974"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2025/10/14/oracle_rushes_out_another_emergency/"
+        },
+        {
+            "text": "Level-10 vuln lurking in Redis source code for 13 years could allow remote code execution\n\nNo evidence of exploitation … yet",
+            "href": "https://www.theregister.com/special-features/2025/10/06/13-year-old-level-10-bug-in-redis-could-allow-rce/655038"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2025/10/06/perfect_10_redis_rce_lurking/"
+        },
+        {
+            "text": "'Delightful' root-access bug in Red Hat OpenShift AI allows full cluster takeover\n\nWho wouldn't want root access on cluster master nodes?",
+            "href": "https://www.theregister.com/special-features/2025/10/01/delightful-red-hat-openshift-ai-bug-allows-full-takeover/660674"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2025/10/01/critical_red_hat_openshift_ai_bug/"
+        },
+        {
+            "text": "Warnings about Cisco vulns under active exploit are falling on deaf ears\n\n50,000 firewall devices still exposed",
+            "href": "https://www.theregister.com/security/2025/09/30/50k-cisco-firewalls-remain-vulnerable-to-advanced-attacks/931779"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2025/09/30/cisco_firewall_vulns/"
+        },
+        {
+            "text": "‘An attacker's playground:’ Crims exploit GoAnywhere perfect-10 bug\n\nResearchers say tens of thousands of instances remain publicly reachable",
+            "href": "https://www.theregister.com/security/2025/09/26/exploits-using-goanywhere-perfect-10-bug-confirmed/1317382"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2025/09/26/an_apts_playground_goanywhere_perfect10/"
+        },
+        {
+            "text": "UK and US security agencies order urgent fixes as Cisco firewall bugs exploited in wild\n\nCISA gives feds 24 hours to patch, NCSC urges rapid action as flaws linked to ArcaneDoor spies",
+            "href": "https://www.theregister.com/security/2025/09/26/critical-cisco-firewall-holes-under-active-attack/1023271"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2025/09/26/cisco_firewall_flaws/"
+        },
+        {
+            "text": "SonicWall releases rootkit-busting firmware update following wave of attacks\n\nSecurity vendor's no good, very bad week year",
+            "href": "https://www.theregister.com/security/2025/09/23/sonicwall-releases-rootkit-busting-firmware-update/1234604"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2025/09/23/sonicwall_rootkitbooting_firmware_update/"
+        },
+        {
+            "text": "Third time's the charm? SolarWinds (again) patches critical Web Help Desk RCE\n\nOr maybe 3 strikes, you're out?",
+            "href": "https://www.theregister.com/security/2025/09/23/solarwinds-patches-critical-rce-for-the-third-time/1119883"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2025/09/23/solarwinds_patches_rce/"
+        },
+        {
+            "text": "Ding ding: Fortra rings the perfect-10 bell over latest GoAnywhere MFT bug\n\nOutside experts say the vulnerability has probably already been exploited",
+            "href": "https://www.theregister.com/security/2025/09/19/fortra-discloses-10/10-severity-bug-in-goanywhere-mft/1352662"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2025/09/19/gortra_goanywhere_bug/"
+        },
+        {
+            "text": "OpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes\n\nRadware says flaw enabled hidden email prompts to trick Deep Research agent into exfiltrating sensitive data",
+            "href": "https://www.theregister.com/security/2025/09/19/openai-plugs-shadowleak-bug-in-chatgpt/820077"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2025/09/19/openai_shadowleak_bug/"
+        },
+        {
+            "text": "Google pushes emergency patch for Chrome 0-day – check your browser version now\n\nSixth such Chrome flaw this year spotted by the Chocolate Factory, already in play",
+            "href": "https://www.theregister.com/security/2025/09/18/google-pushes-emergency-patch-for-chrome-0-day/1323453"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2025/09/18/google_emergency_patch_chrome_0_day/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/patches?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 11265,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nSecurity Patches news | The Register\nSECURITY > PATCHES\nLatest updates and fixes for exploitable security flaws and other bugs\nClear your calendar, Drupal user: You have a critically urgent patch to install\n\nThe org’s staying mum on the details, but Wednesday’s fixes reach back to unsupported 8.9 branches\n\n2 days|1\nPatch time for Cisco SD-WAN admins as vendor drops yet another make-me-admin zero-day\n\nCISA hands feds super-tight deadline for this perfect-10, actively exploited flaw\n\n6 days|1\nWelcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits\n\nPalo Alto Networks found and fixed 75 flaws this month, up from its usual five\n\n1 week|13\nDoozy of a Patch Tuesday includes 30 critical Microsoft CVEs\n\nThe good news: no 0-days. The bad news: busy week ahead for Microsoft admins\n\n1 week|10\nShinyHunters claims dump puts 119K Vimeo emails in the wild\n\nVimeo points finger at analytics supplier Anodot, says no logins or card data were touched\n\n2 weeks|4\nBrace for the patch tsunami: AI is unearthing decades of buried code debt\n\nBritain's cyber agency says the bill for years of technical shortcuts is coming due, and it's arriving all at once\n\n3 weeks|48\nGoogle's fix for critical Gemini CLI bug might break your CI/CD pipelines\n\nThis CVSS 10.0 RCE vuln has been patched, automatically for some, so better check those workflows\n\n3 weeks|6\nBug of the year (so far): Nasty cPanel vulnerability probably exploited as a 0-day\n\nEmergency patches out now for those managing the millions of domains assumed to be affected\n\n3 weeks|13\nMicrosoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack\n\nSecond try's a charm?\n\n3 weeks|17\nMore Cisco SD-WAN bugs battered in attacks\n\nCISA gives federal agencies 4 days to patch\n\n4 weeks|1\nPatch these critical Fortinet sandbox bugs that let attackers bypass login, run commands over HTTP\n\nNo reports of active exploitation (yet)\n\n1 month|1\nAncient Excel bug comes out of retirement for active attacks\n\nVuln old enough to drive lands on CISA's exploited list\n\n1 month|11\nMicrosoft's massive Patch Tuesday: It's raining bugs\n\nOne CVE under attack, one already disclosed by angry bug hunter, and 163 more\n\n1 month|23\nZombie Microsoft bugs rise from the dead, pave way for crims and ransomware scum\n\nOne was patched almost 14 years ago\n\n1 month|7\nAttackers exploited this critical FortiClient EMS bug as a 0-day\n\nCISA added the flaw to KEV after Fortinet confirmed exploitation in the wild\n\n1 month|0\nCitrix NetScaler bug exploited in days, may be multiple flaws in a trench coat\n\nResearchers say attackers are already looting vulnerable boxes\n\n2 months|0\nOut-of-band getting out of hand as Microsoft pushes hotpatch for Bluetooth\n\nSecond emergency fix in days targets Windows 11 24H2 and 25H2\n\n2 months|46\nGoogle rushes Chrome update fixing two zero-days already under attack\n\nSkia graphics lib and V8 JavaScript engine brings browser's tally of actively exploited bugs to three in 2026\n\n2 months|8\nHotpatching goes default in Windows Autopatch whether you like it or not\n\nMicrosoft insists rebootless updates are 'the quickest way to get secure'\n\n2 months|24\nPatch these 4 critical, make-me-root SolarWinds bugs ASAP\n\nSolarWinds + file transfer software = what attackers' dreams are made of\n\n3 months|3\nCISA gives federal agencies three days to patch actively exploited Dell bug\n\nHardcoded credential flaw in RecoverPoint already abused in espionage campaign\n\n3 months|5\nAttackers finally get around to exploiting critical Microsoft bug from 2024\n\nAs if admins haven't had enough to do this week\n\n3 months|13\nMicrosoft's Valentine's gift to admins: 6 exploited zero-day fixes\n\nRoses are red, violets are blue ... now get patching\n\n3 months|15\nCritical SolarWinds Web Help Desk bug under attack\n\nUS agencies told to patch by Friday\n\n3 months|4\nCritical React Native Metro dev server bug under attack as researchers scream into the void\n\nToo slow react-ion time\n\n3 months|4\nMicrosoft probes Windows 11 boot failures tied to January security updates\n\nSome machines are failing to start after security updates, prompting yet another Microsoft investigation\n\n4 months|27\nPatch or die: VMware vCenter Server bug fixed in 2024 under attack today\n\nIf you skipped it back then, now’s a very good time\n\n4 months|7\nFortinet admits FortiGate SSO bug still exploitable despite December patch\n\nFix didn't quite do the job – attackers spotted logging in\n\n4 months|3\nAncient telnet bug happily hands out root to attackers\n\nCritical vuln flew under the radar for a decade\n\n4 months|46\nAnother week, another emergency patch as Cisco plugs Unified Comms zero-day\n\nThe critical-rated flaw leaves unpatched systems open to full takeover\n\n4 months|1\nMicrosoft admits Outlook might freeze when saving files to OneDrive\n\nJanuary update is the gift that keeps on giving\n\n4 months|44\nCloudflare whacks WAF bypass bug that opened side door for attackers\n\nACME validation had a challenge-request hole\n\n4 months|1\nAI framework flaws put enterprise clouds at risk of takeover\n\nUpdate Chainlit to the latest version ASAP\n\n4 months|4\nAnthropic quietly fixed flaws in its Git MCP server that allowed for remote code execution\n\nPrompt injection for the win\n\n4 months|8\nSorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch\n\nMicrosoft claims it's a Secure Launch bug\n\n4 months|113\nCisco finally fixes max-severity bug under active attack for weeks\n\nThis is a threat to security - and to the weekend for some unlucky netadmins\n\n4 months|2\nA simple CodeBuild flaw put every AWS environment at risk – and pwned 'the central nervous system of the cloud'\n\nAnd it's 'not unique to AWS,' researcher tells The Reg\n\n4 months|12\nPopular Python libraries used in Hugging Face models subject to poisoned metadata attack\n\nThe open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group\n\n4 months|1\nPatch Cisco ISE bug now before attackers abuse proof-of-concept exploit\n\nNo reports of active exploitation … yet\n\n4 months|3\nMaximum-severity n8n flaw lets randos run your automation server\n\nUnauthenticated RCE means anyone on the network can seize full control\n\n4 months|12\nLogitech macOS mouse mayhem traced to expired dev certificate\n\nCompany says it dropped the ball, apologizes for wasting people's time\n\n4 months|48\nAn early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit\n\nYou didn't think you'd get to enjoy your time off without a major cybersecurity incident, did you?\n\n5 months|20\nMicrosoft rushes an out-of-band update for Message Queuing bug\n\nRedmond gets in early for the twelve whoopsies of Christmas\n\n5 months|9\nHPE tells customers to patch fast as OneView RCE bug scores a perfect 10\n\nMaximum-severity vuln lets unauthenticated attackers execute code on trusted infra management platform\n\n5 months|4\nApple, Google forced to issue emergency 0-day patches\n\nBoth admit attackers were already exploiting the bugs, with scant detail and hints of spyware-grade abuse\n\n5 months|31\nMicrosoft RasMan DoS 0-day gets unofficial patch - and a working exploit\n\nExploit hasn't been picked up by any malware detection engines, CEO tells The Reg\n\n5 months|7\nNew React vulns leak secrets, invite DoS attacks\n\nAnd the earlier React2Shell patch is vulnerable\n\n5 months|3\nGoogle fixes super-secret 8th Chrome 0-day\n\nNo details, no CVE, update your browser now\n\n5 months|10\nMicrosoft reports 7.8-rated zero day, plus 56 more in December Patch Tuesday\n\nPlus critical critical Notepad++, Ivanti, and Fortinet updates, and one of these patches an under-attack security hole\n\n5 months|19\nMicrosoft quietly shuts down Windows shortcut flaw after years of espionage abuse\n\nSilent Patch Tuesday mitigation ends ability to hide malicious commands in .lnk files\n\n6 months|17\n'Exploitation is imminent' as 39 percent of cloud environs have max-severity React hole\n\nFinish reading this, then patch\n\n6 months|33\nTwo Android 0-day bugs disclosed and fixed, plus 105 more to patch\n\nChristmas comes early for attackers this year\n\n6 months|13\nFortinet 'fesses up to second 0-day within a week\n\nAttackers may be joining the dots to enable unauthenticated RCE\n\n6 months|4\nGoogle Chrome bug exploited as a 0-day – patch now or risk full system compromise\n\nSeventh Chrome 0-day this year\n\n6 months|11\nFortinet finally cops to critical make-me-admin bug under active exploitation\n\nMore than a month after PoC made public\n\n6 months|9\nCisco warns of 'new attack variant' battering firewalls under exploit for 6 months\n\nPlus 2 new critical vulns - patch now\n\n6 months|4\nDocker Compose vulnerability opens door to host-level writes – patch pronto\n\nWindows Desktop installer also fixed after DLL hijack flaw rated 8.8 severity\n\n7 months|3\nMicrosoft drops surprise Windows Server patch before weekend downtime\n\nYou didn't have plans, did you?\n\n7 months|16\nForking confusing: Vulnerable Rust crate exposes uv Python packager\n\nForks of forks of forks, but which ones are patched?\n\n7 months|6\nOracle rushes out another emergency E-Business Suite patch as Clop fallout widens\n\nLatest in a long line of EBS flaws leta miscreants remotely compromise enterprise systems to pinch sensitive data\n\n7 months|1\nLevel-10 vuln lurking in Redis source code for 13 years could allow remote code execution\n\nNo evidence of exploitation … yet\n\n7 months|11\n'Delightful' root-access bug in Red Hat OpenShift AI allows full cluster takeover\n\nWho wouldn't want root access on cluster master nodes?\n\n8 months|2\nWarnings about Cisco vulns under active exploit are falling on deaf ears\n\n50,000 firewall devices still exposed\n\n8 months|22\n‘An attacker's playground:’ Crims exploit GoAnywhere perfect-10 bug\n\nResearchers say tens of thousands of instances remain publicly reachable\n\n8 months|3\nUK and US security agencies order urgent fixes as Cisco firewall bugs exploited in wild\n\nCISA gives feds 24 hours to patch, NCSC urges rapid action as flaws linked to ArcaneDoor spies\n\n8 months|14\nSonicWall releases rootkit-busting firmware update following wave of attacks\n\nSecurity vendor's no good, very bad week year\n\n8 months|0\nThird time's the charm? SolarWinds (again) patches critical Web Help Desk RCE\n\nOr maybe 3 strikes, you're out?\n\n8 months|2\nDing ding: Fortra rings the perfect-10 bell over latest GoAnywhere MFT bug\n\nOutside experts say the vulnerability has probably already been exploited\n\n8 months|7\nOpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes\n\nRadware says flaw enabled hidden email prompts to trick Deep Research agent into exfiltrating sensitive data\n\n8 months|5\nGoogle pushes emergency patch for Chrome 0-day – check your browser version now\n\nSixth such Chrome flaw this year spotted by the Chocolate Factory, already in play\n\n8 months|8\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

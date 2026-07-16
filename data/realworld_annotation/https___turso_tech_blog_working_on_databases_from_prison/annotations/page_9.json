@@ -1,0 +1,45 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://betterstack.com/cdn-cgi/image/width=200,height=29,fit=contain,quality=,dpr=1,format=auto/https://d1lppblt9t2x15.cloudfront.net/logos/ce36349b1a2ff16fe9785f064af061c0.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 8,
+    "links": [
+        {
+            "text": "",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Status",
+            "href": "https://status.turso.tech/"
+        },
+        {
+            "text": "Maintenance",
+            "href": "https://status.turso.tech/maintenance"
+        },
+        {
+            "text": "Previous incidents",
+            "href": "https://status.turso.tech/incidents"
+        },
+        {
+            "text": "Get updates",
+            "href": "https://status.turso.tech/#"
+        },
+        {
+            "text": "Slack webhook",
+            "href": "https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/"
+        },
+        {
+            "text": "",
+            "href": "https://status.turso.tech/incident/891073"
+        },
+        {
+            "text": "",
+            "href": "https://betterstack.com/?_ph=19e4911f3014ed-0da007718cc3f2-3e780e74-e1000-19e4911f303fc5&_s=19e4911f7fcc15-0034a5a787c37d8-3e780e74-e1000-19e4911f7fd1d66&_st=1779342374908"
+        }
+    ],
+    "text_length": 1467,
+    "text_full": "Status\nMaintenance\nPrevious incidents\nGet updates\nAll services are online\n\nLast updated on May 21, 2026 at 5:46am UTC\n\nWeb and Platform\n Operational\nTurso Website\n100% uptime\n90 days ago\nToday\nTurso API\n100% uptime\n90 days ago\nToday\nAWS us-east-1 (N. Virginia)\n100% uptime\n90 days ago\nToday\nAWS us-east-2\n100% uptime\n90 days ago\nToday\nAWS us-west-2 (Oregon)\n100% uptime\n90 days ago\nToday\nAWS eu-west-1 (Ireland)\n100% uptime\n90 days ago\nToday\nAWS ap-northeast-1 (Tokyo)\n100% uptime\n90 days ago\nToday\nAWS ap-south-1 (Mumbai)\n100% uptime\n90 days ago\nToday\nTurso Fly Locations\n Operational\nGlobal\nOperational\nAmsterdam, Netherlands\n100% uptime\n90 days ago\nToday\nAshburn, Virginia (US)\n100% uptime\n90 days ago\nToday\nChicago, Illinois (US)\n100% uptime\n90 days ago\nToday\nDallas, Texas (US)\n100% uptime\n90 days ago\nToday\nFrankfurt, Germany\n100% uptime\n90 days ago\nToday\nJohannesburg, South Africa\n100% uptime\n90 days ago\nToday\nLondon, United Kingdom\n100% uptime\n90 days ago\nToday\nLos Angeles, California (US)\n100% uptime\n90 days ago\nToday\nMumbai, India\n99.954% uptime\n90 days ago\nToday\nParis, France\n100% uptime\n90 days ago\nToday\nSao Paulo, Brazil\n100% uptime\n90 days ago\nToday\nSecaucus, NJ (US)\n100% uptime\n90 days ago\nToday\nSingapore, Singapore\n100% uptime\n90 days ago\nToday\nStockholm, Sweden\n100% uptime\n90 days ago\nToday\nSydney, Australia\n100% uptime\n90 days ago\nToday\nTokyo, Japan\n99.989% uptime\n90 days ago\nToday\nToronto, Canada\n100% uptime\n90 days ago\nToday\nPowered by"
+}

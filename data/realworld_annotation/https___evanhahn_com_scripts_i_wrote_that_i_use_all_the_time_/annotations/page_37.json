@@ -1,0 +1,97 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 21,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#firefox",
+            "href": "https://evanhahn.com/tags/firefox/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "Open Link in Unloaded Tab",
+            "href": "https://addons.mozilla.org/en-US/firefox/addon/open-link-in-unloaded-tab/"
+        },
+        {
+            "text": "unload tabs",
+            "href": "https://support.mozilla.org/en-US/kb/unload-inactive-tabs-save-system-memory-firefox"
+        },
+        {
+            "text": "Download the extension here",
+            "href": "https://addons.mozilla.org/en-US/firefox/addon/open-link-in-unloaded-tab/"
+        },
+        {
+            "text": "check out the source code",
+            "href": "https://codeberg.org/EvanHahn/open-link-in-unloaded-tab"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 939,
+    "text_full": "Open Link in Unloaded Tab, a little Firefox extension\nby Evan Hahn, posted May 13, 2026, tagged #firefox #release #tool\n\nIn short: I just published Open Link in Unloaded Tab, a little Firefox extension that adds “Open Link in Unloaded Tab” to the right-click context menu.\n\nIn Firefox, you can unload tabs to save system resources. But there’s no way to open a new tab in the unloaded state…until now! I built a very simple extension that adds a new option to do this. (It even has a cute icon which I paid ~$15 for.)\n\nI’ve built one-off extensions before, but this is the first one I’ve submitted to the Firefox Add-ons directory.\n\nDownload the extension here or check out the source code.\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

@@ -1,0 +1,87 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://daringfireball.net/js/images-global/zoom/zoom-spin-1.png",
+        "https://daringfireball.net/js/images-global/zoom/spacer.gif",
+        "https://daringfireball.net/js/images-global/zoom/closebox.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-l.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-r.png",
+        "https://daringfireball.net/graphics/logos/",
+        "https://daringfireball.net/martini/images/workos.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 17,
+    "links": [
+        {
+            "text": "",
+            "href": "https://daringfireball.net/"
+        },
+        {
+            "text": "ARCHIVE",
+            "href": "https://daringfireball.net/archive/"
+        },
+        {
+            "text": "THE TALK SHOW",
+            "href": "https://daringfireball.net/thetalkshow/"
+        },
+        {
+            "text": "DITHERING",
+            "href": "https://dithering.fm/"
+        },
+        {
+            "text": "PROJECTS",
+            "href": "https://daringfireball.net/projects/"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://daringfireball.net/contact/"
+        },
+        {
+            "text": "COLOPHON",
+            "href": "https://daringfireball.net/colophon/"
+        },
+        {
+            "text": "FEEDS / SOCIAL",
+            "href": "https://daringfireball.net/feeds/"
+        },
+        {
+            "text": "SPONSORSHIP",
+            "href": "https://daringfireball.net/feeds/sponsors/"
+        },
+        {
+            "text": "",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "GOOGLE OWNS A BIG CHUNK OF ANTHROPIC",
+            "href": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=REDACTED_UNLOCKED_ARTICLE_CODE"
+        },
+        {
+            "text": "developed its own technologies",
+            "href": "https://www.nytimes.com/2024/12/11/technology/google-ai-agent-gemini.html"
+        },
+        {
+            "text": "pumped money into prominent A.I. start-ups",
+            "href": "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html"
+        },
+        {
+            "text": "valued the company at $380 billion",
+            "href": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
+        },
+        {
+            "text": "today’s subscriber-only Stratechery update",
+            "href": "https://stratechery.com/2026/google-earnings-meta-earnings/"
+        },
+        {
+            "text": "Display Preferences",
+            "href": "https://daringfireball.net/preferences/"
+        }
+    ],
+    "text_length": 2302,
+    "text_full": "By JOHN GRUBER\n\nARCHIVE\nTHE TALK SHOW\nDITHERING\nPROJECTS\nCONTACT\nCOLOPHON\nFEEDS / SOCIAL\nSPONSORSHIP\n\nOpenAI, Anthropic, Cursor, and Perplexity chose WorkOS over building it themselves.\n\nGOOGLE OWNS A BIG CHUNK OF ANTHROPIC\n\nThe New York Times, back in March last year (gift link):\n\nTo win the artificial intelligence race, Google not only has developed its own technologies, but has also pumped money into prominent A.I. start-ups. And to preserve its competitive edge, Google has kept its ownership stakes in those start-ups a secret.\n\nCourt documents recently obtained by The New York Times reveal Google’s stake in one of those start-ups, Anthropic, as well as how its investment in the young company is set to change. Google owns 14 percent of Anthropic, according to legal filings that the A.I. start-up submitted as part of a Google antitrust case. But that investment gives Google little control over the company. The internet giant can own only up to 15 percent of Anthropic, according to the filings, and Google holds no voting rights, no board seats and no board observer rights at the start-up.\n\nStill, Google is set to invest an additional $750 million in Anthropic in September through a type of loan known as convertible debt, according to the filings. The companies agreed to the convertible note in 2023. In total, Google has invested more than $3 billion in the A.I. company.\n\nAnthropic’s latest funding round — a rare Series G — valued the company at $380 billion. So let’s say Google has invested $4 billion to date, and Anthropic really is worth $380 billion. Google’s slice of that would be worth a little north of $50 billion, quite the return on investment. And competitively, there’s a heads-they-win (with Gemini), tails-they-don’t-lose (with Claude) aspect. Maybe that’s not the best metaphor, since OpenAI would make it a three-sided coin, but still.\n\n(Via today’s subscriber-only Stratechery update, where Ben Thompson noted this in the context of Google last week reporting a 30% increase in operating profit year-over-year, but an eye-popping 81% increase in overall profit. The difference was the growth in their investments, almost certainly Anthropic in particular.)\n\n★ Monday, 4 May 2026\n\n \n\nDisplay Preferences\n\nCopyright © 2002–2026 The Daring Fireball Company LLC."
+}

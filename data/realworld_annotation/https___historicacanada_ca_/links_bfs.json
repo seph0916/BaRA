@@ -1,0 +1,80 @@
+{
+  "start_url": "https://historicacanada.ca/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://historicacanada.ca/",
+    "https://www.historicacanada.ca/",
+    "https://www.historicacanada.ca/about-us",
+    "https://www.historicacanada.ca/programs",
+    "https://www.historicacanada.ca/news-media",
+    "https://www.historicacanada.ca/donate",
+    "https://www.historicacanada.ca/fr",
+    "https://www.historicacanada.ca/productions/minutes",
+    "https://www.historicacanada.ca/productions/podcasts",
+    "https://www.historicacanada.ca/productions/educational-videos",
+    "https://www.historicacanada.ca/productions/guides"
+  ],
+  "by_depth": {
+    "0": [
+      "https://historicacanada.ca/"
+    ],
+    "1": [
+      "https://www.historicacanada.ca/",
+      "https://www.historicacanada.ca/about-us",
+      "https://www.historicacanada.ca/programs",
+      "https://www.historicacanada.ca/news-media",
+      "https://www.historicacanada.ca/donate"
+    ],
+    "2": [
+      "https://www.historicacanada.ca/fr",
+      "https://www.historicacanada.ca/productions/minutes",
+      "https://www.historicacanada.ca/productions/podcasts",
+      "https://www.historicacanada.ca/productions/educational-videos",
+      "https://www.historicacanada.ca/productions/guides",
+      "https://www.historicacanada.ca/fr/a-propos",
+      "https://www.historicacanada.ca/productions/search",
+      "https://www.historicacanada.ca/about-us/careers",
+      "https://www.historicacanada.ca/about-us/board",
+      "https://www.historicacanada.ca/about-us/staff",
+      "https://www.historicacanada.ca/fr/programmes",
+      "https://www.historicacanada.ca/programs/past",
+      "https://www.historicacanada.ca/en/about-us",
+      "https://www.historicacanada.ca/en/about-us/policies",
+      "https://www.historicacanada.ca/en/about-us/careers",
+      "https://www.historicacanada.ca/fr/nouvelles-medias",
+      "https://www.historicacanada.ca/news-media/press-releases",
+      "https://www.historicacanada.ca/news-media/polls",
+      "https://www.historicacanada.ca/news-media/president-notes",
+      "https://www.historicacanada.ca/news-media/what-were-reading",
+      "https://www.historicacanada.ca/fr/dons"
+    ],
+    "3": [
+      "https://www.historicacanada.ca/fr/productions/minutes",
+      "https://www.historicacanada.ca/fr/productions/balados",
+      "https://www.historicacanada.ca/fr/productions/videos-educatives",
+      "https://www.historicacanada.ca/fr/productions/guides",
+      "https://www.historicacanada.ca/fr/productions/rechercher",
+      "https://www.historicacanada.ca/productions/minutes/anne-innis-dagg",
+      "https://www.historicacanada.ca/productions/minutes/heritage-minutes-mary-riter-hamilton",
+      "https://www.historicacanada.ca/productions/minutes/bora-laskin",
+      "https://www.historicacanada.ca/productions/minutes/a-heritage-minute-salute-to-canada-day",
+      "https://www.historicacanada.ca/productions/minutes/heritage-minute-edwin-a-baker",
+      "https://www.historicacanada.ca/productions/podcasts/a-place-to-belong",
+      "https://www.historicacanada.ca/productions/podcasts/record-of-service-Podcast",
+      "https://www.historicacanada.ca/productions/podcasts/residential-schools-podcast",
+      "https://www.historicacanada.ca/productions/podcasts/strong-free-podcast",
+      "https://www.historicacanada.ca/productions/educational-videos/canada-during-covid-19-a-living-archive",
+      "https://www.historicacanada.ca/productions/educational-videos/canada-history-week",
+      "https://www.historicacanada.ca/productions/educational-videos/canadian-innovations",
+      "https://www.historicacanada.ca/productions/educational-videos/citizenship-challenge",
+      "https://www.historicacanada.ca/productions/educational-videos/critical-digital-literacy",
+      "https://www.historicacanada.ca/productions/guides/archaeology-in-canada",
+      "https://www.historicacanada.ca/productions/guides/indigenous-perspectives-education-guide",
+      "https://www.historicacanada.ca/productions/guides/a-history-of-multiculturalism-in-canada",
+      "https://www.historicacanada.ca/productions/guides/wartime-propaganda-in-canada"
+    ]
+  },
+  "dead_links": []
+}

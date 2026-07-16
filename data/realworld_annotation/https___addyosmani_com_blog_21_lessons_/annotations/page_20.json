@@ -1,0 +1,63 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "Guardrails",
+            "href": "https://addyosmani.com/agentic-engineering/guardrails/"
+        },
+        {
+            "text": "Automation Bias",
+            "href": "https://addyosmani.com/agentic-engineering/automation-bias/"
+        },
+        {
+            "text": "AI-Assisted Code Review",
+            "href": "https://addyosmani.com/blog/code-review-ai/"
+        },
+        {
+            "text": "Agentic Engineering",
+            "href": "https://addyosmani.com/blog/agentic-engineering/"
+        },
+        {
+            "text": "← Back to Glossary",
+            "href": "https://addyosmani.com/agentic-engineering/"
+        }
+    ],
+    "text_length": 2367,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nHuman-in-the-Loop (HITL)\n\nThe AI does the heavy lifting, but a human reviews and approves key decisions.\n\nThe simple explanation\n\nThink of a self-driving car that handles highway cruising but asks the human to take over for tricky intersections. Human-in-the-loop is the same idea applied to AI coding - the agent does most of the work, but a human stays involved at critical checkpoints.\n\nIn practice, this means an AI coding agent might write the implementation, but you review the diff before it gets merged. Or the agent might propose an architectural approach and wait for your approval before proceeding. The human provides the judgment, domain knowledge, and accountability that AI can't reliably deliver on its own.\n\nThe \"loop\" part is important - it's not a one-time check. The human reviews, provides feedback, and the agent adjusts. Then the human reviews again. It's an iterative cycle, not a rubber stamp.\n\nWhy it matters for agentic engineering\n\nFull autonomy sounds appealing, but in practice, removing the human from the loop is where things go wrong. Agents can hallucinate APIs, make subtly incorrect architectural choices, or introduce security vulnerabilities that look perfectly reasonable at first glance.\n\nHuman-in-the-loop is what separates agentic engineering from vibe coding. In agentic engineering, you're deliberately choosing where to insert human checkpoints - spec review, code review, test verification, deployment approval. In vibe coding, the human just accepts whatever the AI produces.\n\nIn practice\nCode review as HITL: Agent writes code, creates a PR, human reviews the diff - the most common pattern\nApproval gates: Agent proposes a plan (e.g., \"I'll refactor this into 3 services\"), waits for human approval before executing\nEscalation paths: Agent attempts a task, recognizes it's uncertain, and asks for clarification instead of guessing\nSpec-first workflows: Human writes the spec, agent implements it, human verifies the result matches intent\n\nThe sweet spot is minimizing unnecessary human intervention (let the agent handle routine tasks) while maximizing high-value human review (architectural decisions, security-sensitive code, business logic).\n\nRELATED TERMS\n\nGuardrails · Automation Bias · AI-Assisted Code Review · Agentic Engineering\n\n← Back to Glossary"
+}

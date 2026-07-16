@@ -1,0 +1,319 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 77,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "dependencies",
+            "href": "https://nesbitt.io/search#dependencies"
+        },
+        {
+            "text": "proved in 2005",
+            "href": "https://www.researchgate.net/publication/278629134_EDOS_deliverable_WP2-D21_Report_on_Formal_Management_of_Software_Dependencies"
+        },
+        {
+            "text": "categorizing package manager clients",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html"
+        },
+        {
+            "text": "package management papers",
+            "href": "https://nesbitt.io/2025/11/13/package-management-papers.html"
+        },
+        {
+            "text": "package-manager-resolvers",
+            "href": "https://github.com/ecosyste-ms/package-manager-resolvers"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#sat-solving"
+        },
+        {
+            "text": "OPIUM paper",
+            "href": "https://cseweb.ucsd.edu/~lerner/papers/opium.pdf"
+        },
+        {
+            "text": "Di Cosmo et al. (2012)",
+            "href": "https://www.sciencedirect.com/science/article/pii/S0164121212000477"
+        },
+        {
+            "text": "Still Hard retrospective",
+            "href": "https://arxiv.org/abs/2011.07851"
+        },
+        {
+            "text": "Pinckney et al. (2023)",
+            "href": "https://dl.acm.org/doi/10.1109/ICSE48619.2023.00124"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#pubgrub"
+        },
+        {
+            "text": "described the algorithm in 2018",
+            "href": "https://nex3.medium.com/pubgrub-2fb6470504f"
+        },
+        {
+            "text": "pubgrub-rs",
+            "href": "https://github.com/pubgrub-rs/pubgrub"
+        },
+        {
+            "text": "pub_grub",
+            "href": "https://github.com/jhawthorn/pub_grub"
+        },
+        {
+            "text": "hex_solver",
+            "href": "https://github.com/hexpm/hex_solver"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#backtracking"
+        },
+        {
+            "text": "documented this approach",
+            "href": "https://www.cs.arizona.edu/sites/default/files/TR08-04.pdf"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#asp-solving"
+        },
+        {
+            "text": "Gamblin et al. (2022)",
+            "href": "https://dl.acm.org/doi/abs/10.5555/3571885.3571931"
+        },
+        {
+            "text": "aspcud solver",
+            "href": "https://doi.org/10.4204/EPTCS.65.2"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#minimal-version-selection"
+        },
+        {
+            "text": "wrote extensively about it",
+            "href": "https://research.swtch.com/vgo-mvs"
+        },
+        {
+            "text": "why the SAT problem doesn’t apply",
+            "href": "https://research.swtch.com/version-sat"
+        },
+        {
+            "text": "Surviving Software Dependencies",
+            "href": "https://dl.acm.org/doi/10.1145/3329781.3344149"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#deduplication-with-nesting"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#version-mediation"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#molinillo"
+        },
+        {
+            "text": "Molinillo",
+            "href": "https://github.com/CocoaPods/Molinillo"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#system-package-resolution"
+        },
+        {
+            "text": "Crates.io’s Freaky Friday",
+            "href": "https://nesbitt.io/2026/02/06/cratesio-freaky-friday.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#content-addressed--explicit"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#resolution-libraries"
+        },
+        {
+            "text": "PubGrub",
+            "href": "https://github.com/pubgrub-rs/pubgrub"
+        },
+        {
+            "text": "pub_grub",
+            "href": "https://github.com/jhawthorn/pub_grub"
+        },
+        {
+            "text": "hex_solver",
+            "href": "https://github.com/hexpm/hex_solver"
+        },
+        {
+            "text": "libsolv",
+            "href": "https://github.com/openSUSE/libsolv"
+        },
+        {
+            "text": "Molinillo",
+            "href": "https://github.com/CocoaPods/Molinillo"
+        },
+        {
+            "text": "Clingo",
+            "href": "https://potassco.org/clingo/"
+        },
+        {
+            "text": "Resolvelib",
+            "href": "https://pypi.org/project/resolvelib/"
+        },
+        {
+            "text": "CUDF",
+            "href": "https://www.mancoosi.org/cudf/"
+        },
+        {
+            "text": "resolvo",
+            "href": "https://github.com/prefix-dev/resolvo"
+        },
+        {
+            "text": "Rattler",
+            "href": "https://github.com/conda/rattler"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html#key-papers"
+        },
+        {
+            "text": "full bibliography",
+            "href": "https://nesbitt.io/2025/11/13/package-management-papers.html"
+        },
+        {
+            "text": "Di Cosmo et al. (2005)",
+            "href": "https://www.researchgate.net/publication/278629134_EDOS_deliverable_WP2-D21_Report_on_Formal_Management_of_Software_Dependencies"
+        },
+        {
+            "text": "Tucker et al. (2007) “OPIUM”",
+            "href": "https://cseweb.ucsd.edu/~lerner/papers/opium.pdf"
+        },
+        {
+            "text": "Abate, Di Cosmo, Treinen, Zacchiroli (2012)",
+            "href": "https://www.sciencedirect.com/science/article/pii/S0164121212000477"
+        },
+        {
+            "text": "Michel & Rueher (2010)",
+            "href": "https://doi.org/10.4204/EPTCS.29.1"
+        },
+        {
+            "text": "Argelich et al. (2010)",
+            "href": "https://doi.org/10.4204/EPTCS.29.2"
+        },
+        {
+            "text": "Abate, Di Cosmo, Gousios, Zacchiroli (2020)",
+            "href": "https://arxiv.org/abs/2011.07851"
+        },
+        {
+            "text": "Gebser, Kaminski, Schaub (2011) “aspcud”",
+            "href": "https://doi.org/10.4204/EPTCS.65.2"
+        },
+        {
+            "text": "Gamblin, Culpo, Becker, Shudler (2022)",
+            "href": "https://dl.acm.org/doi/abs/10.5555/3571885.3571931"
+        },
+        {
+            "text": "Weizenbaum (2018)",
+            "href": "https://nex3.medium.com/pubgrub-2fb6470504f"
+        },
+        {
+            "text": "Cappos (2008) “Stork” Ch. 3.8",
+            "href": "https://www.cs.arizona.edu/sites/default/files/TR08-04.pdf"
+        },
+        {
+            "text": "Cox (2019) “Surviving Software Dependencies”",
+            "href": "https://dl.acm.org/doi/10.1145/3329781.3344149"
+        },
+        {
+            "text": "Gibb et al. (2025)",
+            "href": "https://arxiv.org/abs/2506.10803"
+        },
+        {
+            "text": "Pinckney et al. (2023)",
+            "href": "https://dl.acm.org/doi/10.1109/ICSE48619.2023.00124"
+        },
+        {
+            "text": "Package Manager Timeline",
+            "href": "https://nesbitt.io/2025/11/15/package-manager-timeline.html"
+        },
+        {
+            "text": "Package Management Papers",
+            "href": "https://nesbitt.io/2025/11/13/package-management-papers.html"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "Package Manager Easter Eggs",
+            "href": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
+        },
+        {
+            "text": "Package Manager Mirroring",
+            "href": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2026-02-06-dependency-resolution-methods.md"
+        }
+    ],
+    "text_length": 20125,
+    "text_full": "Andrew Nesbitt\n      \nDependency Resolution Methods\npackage-managersreferencedependencies\n\nFeb 6, 2026\n\nEvery package manager faces the same core problem: given a set of packages with version constraints, find a compatible set of versions to install. The classic example is the diamond dependency: A depends on B and C, both of which depend on D but at incompatible versions. The resolver has to find a version of D that satisfies both, prove that none exists, or find some other way out. Di Cosmo et al. proved in 2005 that this problem is NP-complete, encoding it as 3SAT for Debian and RPM constraint languages. In practice, real-world dependency graphs are far more tractable than the worst case, and different ecosystems have landed on different resolution strategies that make different tradeoffs between completeness, speed, error quality, and simplicity.\n\nThese approaches fall roughly into complete solvers (SAT, PubGrub, ASP), heuristic solvers (backtracking, Molinillo, system resolvers), constraint relaxation strategies (deduplication with nesting, version mediation), and approaches that avoid the problem entirely (minimal version selection, content-addressed stores).\n\nThe categorizing package manager clients post lists which package managers use which approach. The package management papers post has the full bibliography. The package-manager-resolvers repo has per-ecosystem detail and comparison tables.\n\nSAT solving#\n\nEncode version constraints as a boolean satisfiability problem. Each package-version pair becomes a boolean variable, and dependencies and conflicts become clauses. A SAT solver then searches for an assignment where all clauses are satisfied. If one exists, you get a compatible install set. If none exists, the solver can prove it, which is something simpler algorithms cannot do.\n\nThe OPIUM paper (Tucker et al. 2007) was the first to build a complete dependency solver this way, combining SAT with pseudo-boolean optimization and Integer Linear Programming. They showed that in simulated upgrade scenarios, 23.3% of Debian users encountered cases where apt-get’s incomplete heuristics failed to find valid solutions that existed. Di Cosmo et al. (2012) later argued that dependency solving should be separated from the rest of the package manager entirely, using generic external solvers rather than ad-hoc heuristics baked into each tool.\n\nSAT solving is computationally expensive in theory but modern solvers handle real-world package instances well. The Still Hard retrospective (Abate et al. 2020) confirmed that SAT-based approaches are gaining adoption and that practical solvers perform well despite the NP-completeness result. More recent work by Pinckney et al. (2023) builds on this with a Max-SMT formulation that extends SAT with optimization objectives, providing a unified formulation where soft constraints (preferences like “prefer newer versions”) and hard constraints (compatibility requirements) coexist naturally rather than being bolted on after the fact.\n\nUsed by Composer, DNF, Conda/Mamba (via libsolv), Zypper (via libsolv), and opam (via built-in CUDF solver mccs, with optional external solvers). libsolv implements CDCL with watched literals, the same core algorithm as MiniSat, but adds domain-specific optimizations for package management that make it faster in practice.\n\nPubGrub#\n\nPubGrub is a variant of conflict-driven clause learning (the technique behind modern SAT solvers) designed specifically for version solving. It’s conceptually SAT-like but operationally domain-specific, replacing generic clause structures with version ranges and incompatibility records that map directly to the problem. Its key advantage is the UX of failure. Before PubGrub, “unsolvable dependency conflict” was a dead end that left developers guessing which constraint to relax. PubGrub tracks exactly which incompatibilities caused the failure and produces human-readable explanations, turning a resolution error into something closer to a task list.\n\nNatalie Weizenbaum created PubGrub for Dart’s pub package manager and described the algorithm in 2018. The algorithm maintains a set of incompatibilities (facts about which version combinations cannot coexist) and uses unit propagation and conflict-driven learning to narrow the search. When it hits a dead end, it derives a new incompatibility from the conflict, which both prunes the search space and records the reason for future error reporting.\n\nPoetry, uv, Swift Package Manager, Hex, and Bundler (which migrated from Molinillo) all use PubGrub now. The adoption story is partly about the algorithm and partly about the availability of quality implementations in multiple languages: pubgrub-rs in Rust (used by uv), pub_grub in Ruby (used by Bundler), Poetry’s internal solver in Python, and hex_solver in Elixir. Having reusable libraries matters as much as the theoretical properties; a better algorithm that nobody can embed doesn’t get adopted.\n\nBacktracking#\n\nThe simplest approach: try versions in preference order (usually newest first), recurse into dependencies, and back up when you hit a conflict. No encoding step, no external solver, just depth-first search with rollback.\n\nBacktracking works well when the dependency graph is reasonably constrained, which covers most real-world cases. It struggles with pathological inputs where conflicts hide deep in the tree and the solver wastes time exploring doomed branches before discovering the root cause. Justin Cappos documented this approach in the Stork dissertation, noting that despite its simplicity, it worked well in practice for their adopters.\n\npip (via resolvelib), Cargo, and Cabal use backtracking. In practice the line between “backtracking” and “SAT-like” is blurry: modern backtracking solvers often add learning and backjumping, where the solver records which choices caused a conflict and skips irrelevant decisions when backing up. Cabal’s solver does both, which helps significantly on Haskell’s deep dependency trees. At that point you’re doing much of what PubGrub does, just without the structured incompatibility tracking that produces good error messages.\n\nASP solving#\n\nAnswer Set Programming expresses the entire resolution problem as a logic program and lets a general-purpose ASP solver find valid models. Where SAT works with boolean variables and clauses, ASP works with rules and constraints in a declarative language closer to the problem domain.\n\nThis is particularly suited to HPC, where “which versions are compatible” is only part of the problem. Spack needs to reason about compiler versions, build variants (debug/release, MPI implementations, GPU backends), microarchitecture targets, and build options alongside version constraints. Encoding all of that in SAT would be painful. In ASP, each constraint type maps naturally to rules. Gamblin et al. (2022) describe Spack’s ASP encoding and how they structure optimization criteria to mix source and binary builds by reusing existing installations when compatible.\n\nThe aspcud solver (Gebser et al. 2011) was the first to apply ASP to package dependency solving, demonstrating competitive performance on Debian package problems with the benefit of declarative optimization criteria. Spack uses Clingo as its ASP solver, encoding the full concretization problem (versions, compilers, variants, targets) as a logic program.\n\nMinimal version selection#\n\nPick the oldest version that satisfies each constraint rather than the newest. This makes resolution deterministic and reproducible without a lockfile: the same go.mod always produces the same versions, because there is only one valid answer. Russ Cox designed this for Go modules and wrote extensively about it, including why the SAT problem doesn’t apply when you choose minimum versions. The intuition: if every constraint names a minimum and you always pick that minimum, the search space collapses to a single candidate per package with no backtracking needed. What was a search problem becomes a graph traversal.\n\nThe tradeoff is that you get “known good” rather than “latest compatible.” When a dependency releases a new version with a bug fix you need, you must explicitly bump your requirement rather than getting it automatically. Cox’s argument is that this predictability is worth more than automatic upgrades, and that automatic upgrades cause more subtle breakage than they prevent. His Surviving Software Dependencies essay (2019) makes the broader case.\n\nGo modules and vcpkg both use minimal version selection, with vcpkg’s approach explicitly modelled on Go’s.\n\nDeduplication with nesting#\n\nA constraint relaxation strategy rather than a resolution algorithm. Instead of requiring one version of each package across the whole dependency tree, allow multiple versions when different dependents need incompatible ranges. If package A needs lodash@3 and package B needs lodash@4, install both and wire each to its own copy.\n\nThis avoids resolution failure by relaxing the single-version constraint. The cost is disk space and, more subtly, runtime complexity: multiple copies of the same library mean multiple copies of its global state, so two modules that think they’re sharing a singleton or checking instanceof against the same class can silently disagree. npm, Yarn, and pnpm all use this approach, with varying strategies for flattening the tree to reduce duplication while preserving correctness. npm’s hoisting algorithm tries to lift shared-compatible versions to the top of node_modules so they’re shared, only nesting when versions actually conflict.\n\nCargo does a limited form: it allows one version per semver-compatible range (one per major version, or one per minor if pre-1.0), so foo 1.2 and foo 1.3 unify but foo 1.x and foo 2.x can coexist.\n\nVersion mediation#\n\nNo solver at all. When two dependencies require different versions of the same package, the build tool picks a winner by convention. Maven uses nearest-definition (the version declared closest to the root of the dependency tree wins). Gradle uses highest-version. NuGet uses lowest-applicable.\n\nThis is fast and predictable but can silently break things. If the “winner” version is incompatible with what the “loser” dependency actually needs, you get runtime errors rather than a resolution failure at install time. Maven in particular is notorious for this: a transitive dependency quietly gets a different version than it was tested with, and you find out when something throws a NoSuchMethodError. Gradle’s “highest version wins” sounds safer until you realize it can pull in a major version bump transitively, breaking API compatibility for a dependency that never asked for it. In some cases that’s worse than Maven’s behaviour, since at least Maven’s nearest-definition tends to keep you closer to versions that were explicitly chosen.\n\nMaven, Gradle, NuGet, sbt, and Ivy all use version mediation. In the Clojure ecosystem, Leiningen uses Maven’s nearest-definition algorithm via Aether, while tools.deps picks the newest version instead.\n\nMolinillo#\n\nA backtracking solver with heuristics tuned for Ruby’s ecosystem, maintained by the CocoaPods team. Molinillo tracks the state of resolution as a directed graph and uses heuristics about which package to resolve next to avoid unnecessary backtracking.\n\nRubyGems and CocoaPods use Molinillo. Bundler used it for years before switching to PubGrub, partly for better error messages when resolution fails.\n\nSystem package resolution#\n\nSystem package managers have a structural advantage that simplifies resolution: within a given repository or suite, there’s typically only one version of each package available. Debian stable doesn’t offer you a choice between openssl 1.1 and openssl 3.0; the suite maintainers already made that decision. As I wrote about in the Crates.io’s Freaky Friday post, this collapses what would be a version selection problem into something closer to a compatibility check. The resolver still has real work to do, but the search space is radically smaller than what language-level resolvers face with thousands of candidate versions per package.\n\nWhat system resolvers handle instead are constraints that language-level tools don’t encounter: file conflicts between packages, virtual packages, architecture-specific dependencies, and triggers that run during installation. The virtual packages concept has no real equivalent in language package managers. When a Debian package declares Provides: mail-transport-agent, any of postfix, exim4, or sendmail can satisfy that dependency. The resolver has to pick one, and the choice interacts with the rest of the installed system in ways that a language-level resolver never faces, since removing one mail transport agent to install another can break unrelated packages that assumed it was there.\n\napt uses a scoring-based approach with immediate resolution, evaluating candidate solutions against user preferences (minimize removals, prefer already-installed versions). It processes dependencies greedily rather than searching for a global optimum, which is why it occasionally proposes removing half your desktop environment to install a library. aptitude added backtracking on top of apt’s dependency handling, which produces better solutions but is slower. apt’s internal solver has grown more capable over time, and aptitude can optionally use external CUDF solvers for harder upgrade scenarios.\n\nRPM-based systems (Fedora, openSUSE, RHEL) use libsolv, which gives them genuinely complete resolution. DNF and Zypper encode the full RPM dependency model including weak dependencies (Recommends, Suggests, Supplements, Enhances) that were added in RPM 4.12. These let packages express optional relationships without hard failures when they can’t be satisfied, which matters for minimal container installs where you want a stripped-down system without pulling in documentation or GUI toolkits.\n\npacman resolves dependencies but doesn’t handle conflicts with a full solver, relying instead on Arch’s packaging policy of avoiding library version conflicts in the first place. The whole repository is meant to be installable together, so the resolver’s job is mostly topological sorting rather than constraint satisfaction. apk (Alpine) is similar in philosophy but adds a rollback mechanism that can undo failed upgrades atomically.\n\nPortage (Gentoo) has a harder problem than most because packages are built from source with USE flags that control compile-time features, the dependency graph changes shape depending on which flags are set. Enabling the qt USE flag on one package can pull in dozens of new dependencies. Portage resolves this with a backtracking solver that re-evaluates the graph when USE flag changes propagate, but the interaction between USE flags and dependencies means users sometimes hit circular dependencies that require manual intervention. FreeBSD ports and pkgsrc face similar source-build resolution challenges.\n\nContent-addressed / explicit#\n\nNix and Guix side-step the version resolution problem entirely. Every package is identified by a hash of all its inputs: source code, build dependencies, compiler flags, everything. There is no “which version of openssl should I pick” because each package explicitly pins its exact dependencies by hash. Two packages can depend on different versions of the same library without conflict because the versions live at different paths in the store, identified by different hashes.\n\nThis gives you reproducibility by construction rather than by lockfile, but it trades solver complexity for maintainer complexity. Instead of a resolver finding a compatible path through the version graph, a human (or a tool like niv or nix-init) must explicitly define every input. The failure mode shifts too: instead of runtime breakage from incompatible versions, you get human fatigue from maintaining explicit input sets across a large package collection. Builds are slower because there’s less sharing of intermediate artifacts than in version-based systems; if two packages differ in any input, they get separate builds even when the output would be identical. The Nix expression language has a steep learning curve compared to a TOML manifest. And the store grows large, though nix-store --optimise (which deduplicates identical files via hardlinks) and content-addressed derivations (which hash outputs rather than inputs, enabling more sharing) are closing that gap.\n\nResolution libraries#\n\nReusable libraries that package managers can embed rather than writing their own solver.\n\nPubGrub (Rust) - Conflict-driven solver producing human-readable error messages. Used by uv. Separate implementations exist in Ruby (pub_grub, used by Bundler), Python (Poetry’s internal solver), Elixir (hex_solver), and Swift (Swift PM). Dart’s pub uses the original Dart implementation.\nlibsolv (C) - SAT-based solver from openSUSE. Handles the full range of RPM and Debian dependency types including provides, conflicts, obsoletes, and supplements. Used by DNF, Zypper, Conda, and Mamba.\nMolinillo (Ruby) - Backtracking resolver with Ruby-ecosystem heuristics. Used by RubyGems and CocoaPods. No longer used by Bundler, which switched to PubGrub.\nClingo (C++) - General-purpose ASP solver. Spack encodes its dependency problem as an ASP program and hands it to Clingo.\nResolvelib (Python) - pip’s backtracking resolver since pip 20.3. Provides the resolution algorithm; pip supplies the package metadata interface.\nCUDF - Common Upgradeability Description Format, a standard for describing package upgrade problems. opam exports its constraints as CUDF and feeds them to external solvers.\nresolvo (Rust) - SAT solver for package management from the Mamba team. Newer alternative to libsolv with a Rust API.\nRattler (Rust) - Rust implementation of Conda package management, including resolution. Powers Pixi.\nKey papers#\n\nThe most relevant research, pulled from the full bibliography:\n\nDi Cosmo et al. (2005) - First proof that package installation is NP-complete, with 3SAT encoding for Debian and RPM.\nTucker et al. (2007) “OPIUM” - Complete solver using SAT, pseudo-boolean optimization, and ILP. Showed apt-get’s incompleteness affects a quarter of Debian users.\nAbate, Di Cosmo, Treinen, Zacchiroli (2012) - Argued for generic external solvers over ad-hoc heuristics.\nMichel & Rueher (2010) - Mixed Integer Linear Programming as alternative to SAT for package upgradeability.\nArgelich et al. (2010) - Pseudo-boolean optimization for Linux package upgradeability.\nAbate, Di Cosmo, Gousios, Zacchiroli (2020) - Retrospective showing SAT approaches gaining adoption, practical solvers performing well despite NP-completeness.\nGebser, Kaminski, Schaub (2011) “aspcud” - First ASP-based dependency solver.\nGamblin, Culpo, Becker, Shudler (2022) - Spack’s ASP encoding for versions, variants, and mixed source/binary builds.\nWeizenbaum (2018) - PubGrub’s algorithm design and its error-message advantage.\nCappos (2008) “Stork” Ch. 3.8 - Practical backtracking resolution in Stork.\nCox (2019) “Surviving Software Dependencies” - The case for predictable resolution via minimum versions.\nGibb et al. (2025) - Hypergraph model for cross-ecosystem dependency resolution. (arXiv preprint)\nPinckney et al. (2023) - Max-SMT formulation for dependency resolution with formal guarantees.\nRelated posts\nPackage Manager Timeline Nov 15, 2025\n\nA chronological timeline of package manager releases, major milestones, and significant events in the history of software dependency management.\n\nPackage Management Papers Nov 13, 2025\n\nA collection of academic research papers on package management systems, dependency resolution, supply chain security, and software ecosystems.\n\nPackage Security Problems for AI Agents Apr 8, 2026\n\nPackages all the way down, agents all the way up.\n\nPackage Manager Easter Eggs Apr 3, 2026\n\nA tour of the easter eggs hiding inside package managers.\n\nPackage Manager Mirroring Mar 20, 2026\n\nEvery mirroring tool I could find, and the protocols underneath them.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

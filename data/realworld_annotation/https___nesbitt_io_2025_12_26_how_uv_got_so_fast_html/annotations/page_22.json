@@ -1,0 +1,355 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 86,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "git",
+            "href": "https://nesbitt.io/search#git"
+        },
+        {
+            "text": "tools",
+            "href": "https://nesbitt.io/search#tools"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#subcommands"
+        },
+        {
+            "text": "git-lfs",
+            "href": "https://github.com/git-lfs/git-lfs"
+        },
+        {
+            "text": "git-flow",
+            "href": "https://github.com/nvie/gitflow"
+        },
+        {
+            "text": "git-extras",
+            "href": "https://github.com/tj/git-extras"
+        },
+        {
+            "text": "hub",
+            "href": "https://github.com/mislav/hub"
+        },
+        {
+            "text": "gh",
+            "href": "https://github.com/cli/cli"
+        },
+        {
+            "text": "awesome-git-addons",
+            "href": "https://github.com/stevemao/awesome-git-addons"
+        },
+        {
+            "text": "git-flow",
+            "href": "https://github.com/nvie/gitflow"
+        },
+        {
+            "text": "hub",
+            "href": "https://github.com/mislav/hub"
+        },
+        {
+            "text": "gh",
+            "href": "https://github.com/cli/cli"
+        },
+        {
+            "text": "git-extras",
+            "href": "https://github.com/tj/git-extras"
+        },
+        {
+            "text": "git-stats",
+            "href": "https://github.com/IonicaBizau/git-stats"
+        },
+        {
+            "text": "git-standup",
+            "href": "https://github.com/kamranahmedse/git-standup"
+        },
+        {
+            "text": "git docs",
+            "href": "https://git-scm.com/docs/git#_git_commands"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#cleansmudge-filters"
+        },
+        {
+            "text": "git-crypt",
+            "href": "https://github.com/AGWA/git-crypt"
+        },
+        {
+            "text": "git-lfs",
+            "href": "https://github.com/git-lfs/git-lfs"
+        },
+        {
+            "text": "gitattributes docs",
+            "href": "https://git-scm.com/docs/gitattributes#_filter"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#hooks"
+        },
+        {
+            "text": "husky",
+            "href": "https://github.com/typicode/husky"
+        },
+        {
+            "text": "lefthook",
+            "href": "https://github.com/evilmartians/lefthook"
+        },
+        {
+            "text": "pre-commit",
+            "href": "https://github.com/pre-commit/pre-commit"
+        },
+        {
+            "text": "git-branchless",
+            "href": "https://github.com/arxanas/git-branchless"
+        },
+        {
+            "text": "githooks docs",
+            "href": "https://git-scm.com/docs/githooks"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#mergediff-drivers"
+        },
+        {
+            "text": "custom merge drivers",
+            "href": "https://git-scm.com/docs/gitattributes#_defining_a_custom_merge_driver"
+        },
+        {
+            "text": "custom diff drivers",
+            "href": "https://git-scm.com/docs/gitattributes#_defining_a_custom_diff_driver"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#remote-helpers"
+        },
+        {
+            "text": "gitremote-helpers docs",
+            "href": "https://git-scm.com/docs/gitremote-helpers"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#credential-helpers"
+        },
+        {
+            "text": "gitcredentials docs",
+            "href": "https://git-scm.com/docs/gitcredentials"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#custom-ref-namespaces"
+        },
+        {
+            "text": "NoteDb",
+            "href": "https://gerrit-review.googlesource.com/Documentation/note-db.html"
+        },
+        {
+            "text": "gittuf",
+            "href": "https://github.com/gittuf/gittuf"
+        },
+        {
+            "text": "Jujutsu",
+            "href": "https://github.com/jj-vcs/jj"
+        },
+        {
+            "text": "link each commit to its mailing list discussion",
+            "href": "https://github.com/git/git"
+        },
+        {
+            "text": "git-appraise",
+            "href": "https://github.com/google/git-appraise"
+        },
+        {
+            "text": "Radicle",
+            "href": "https://radicle.xyz/"
+        },
+        {
+            "text": "Graphite",
+            "href": "https://graphite.dev/"
+        },
+        {
+            "text": "DVC",
+            "href": "https://dvc.org/"
+        },
+        {
+            "text": "gitnamespaces docs",
+            "href": "https://git-scm.com/docs/gitnamespaces"
+        },
+        {
+            "text": "added notes display in 2010",
+            "href": "https://github.blog/2010-08-25-git-notes-display/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#what-language"
+        },
+        {
+            "text": "git-extras",
+            "href": "https://github.com/tj/git-extras"
+        },
+        {
+            "text": "git-flow",
+            "href": "https://github.com/nvie/gitflow"
+        },
+        {
+            "text": "git-lfs",
+            "href": "https://github.com/git-lfs/git-lfs"
+        },
+        {
+            "text": "gh",
+            "href": "https://github.com/cli/cli"
+        },
+        {
+            "text": "hub",
+            "href": "https://github.com/mislav/hub"
+        },
+        {
+            "text": "git-branchless",
+            "href": "https://github.com/arxanas/git-branchless"
+        },
+        {
+            "text": "git-crypt",
+            "href": "https://github.com/AGWA/git-crypt"
+        },
+        {
+            "text": "pre-commit",
+            "href": "https://github.com/pre-commit/pre-commit"
+        },
+        {
+            "text": "overcommit",
+            "href": "https://github.com/sds/overcommit"
+        },
+        {
+            "text": "long-running filter processes",
+            "href": "https://git-scm.com/docs/gitattributes#_long_running_filter_process"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#configuration"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#interesting-examples"
+        },
+        {
+            "text": "git-lfs",
+            "href": "https://github.com/git-lfs/git-lfs"
+        },
+        {
+            "text": "git-crypt",
+            "href": "https://github.com/AGWA/git-crypt"
+        },
+        {
+            "text": "git-branchless",
+            "href": "https://github.com/arxanas/git-branchless"
+        },
+        {
+            "text": "hub",
+            "href": "https://github.com/mislav/hub"
+        },
+        {
+            "text": "gh",
+            "href": "https://github.com/cli/cli"
+        },
+        {
+            "text": "overcommit",
+            "href": "https://github.com/sds/overcommit"
+        },
+        {
+            "text": "gittuf",
+            "href": "https://github.com/gittuf/gittuf"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html#installation-required"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-11-26-extending-git-functionality.md"
+        },
+        {
+            "text": "Git Diff Drivers",
+            "href": "https://nesbitt.io/2026/03/30/git-diff-drivers.html"
+        },
+        {
+            "text": "Git's Magic Files",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html"
+        },
+        {
+            "text": "Git Remote Helpers",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html"
+        },
+        {
+            "text": "Forge",
+            "href": "https://nesbitt.io/2026/03/13/forge.html"
+        },
+        {
+            "text": "Forge-Specific Repository Folders",
+            "href": "https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-11-26-extending-git-functionality.md"
+        }
+    ],
+    "text_length": 14191,
+    "text_full": "Andrew Nesbitt\n      \nExtending Git Functionality\ngittoolsreference\n\nNov 26, 2025\n\nI’ve been researching how to extend git for a project I’m working on. There are seven distinct patterns that I’ve seen people use to add functionality to git without modifying git itself:\n\nSubcommands for adding new commands\nClean/smudge filters for transforming file content\nHooks for enforcing workflows\nMerge/diff drivers for custom merging of specific file types\nRemote helpers for non-git backends\nCredential helpers for custom auth\nCustom ref namespaces for storing metadata that syncs with the repo\nSubcommands#\n\nPut an executable called git-foo anywhere in your $PATH and git will run it when you type git foo. That’s it. No registration, no configuration. Git literally just looks for executables matching the pattern.\n\nThis is how most git extensions work: git-lfs, git-flow, git-extras, hub, gh. The awesome-git-addons list has hundreds of examples.\n\n#!/bin/bash\n# Usage: git hierarchize\n# Install: brew install git-hierarchize (or put this script in $PATH)\ngit log --graph --oneline --all\n\n\nThe pattern is good for:\n\nNew workflows (git-flow’s branching model)\nIntegrations with external services (hub/gh for GitHub)\nConvenience wrappers (git-extras’ grab-bag of utilities)\nRepository inspection tools (git-stats, git-standup)\n\nLimitations: You’re just adding commands. You can’t intercept existing git operations, transform content, or change how git talks to remotes. See the git docs for more on how git finds commands.\n\nClean/Smudge Filters#\n\nFilters transform file content on checkout (smudge) and commit (clean). Git pipes the file through your program and stores whatever comes out.\n\n# .gitattributes\n*.secret filter=vault\n\n# .git/config or ~/.gitconfig\n[filter \"vault\"]\n    clean = gpg --encrypt --recipient you@example.com\n    smudge = gpg --decrypt\n\n\nThe clean filter runs when you git add, the smudge filter runs when you git checkout, and the repository stores whatever the clean filter outputs.\n\ngit-crypt uses this pattern. Your working directory has plaintext files; the repository stores encrypted blobs. Anyone without the key sees garbage, anyone with the key sees the files transparently.\n\ngit-lfs also uses filters. The clean filter uploads the real file to an LFS server and outputs a small pointer file, the smudge filter downloads the real content, and the repository only stores pointers.\n\n# What git-lfs stores in the repo (the pointer file)\nversion https://git-lfs.github.com/spec/v1\noid sha256:4d7a214614ab2935c943f9e0ff69d22eadbb8f32b1258daaa5e2ca24d17e2393\nsize 12345\n\n\nFilters are good for:\n\nTransparent encryption (git-crypt)\nLarge file handling (git-lfs)\nNormalizing content (converting line endings, stripping trailing whitespace)\nExpanding/collapsing keywords\n\nThe constraint: filters must be idempotent. Running clean twice should produce the same output as running it once. And smudge(clean(x)) should equal x for anything you want to round-trip.\n\nOne thing to note: filters don’t run until checkout. If someone clones a repo using git-lfs without having git-lfs installed, they get the pointer files, not the actual content. Same with git-crypt: without the key, you get encrypted garbage. There’s no way for the filter to bootstrap itself. See the gitattributes docs for the full filter specification.\n\nHooks#\n\nHooks are scripts that git runs at specific points: before commit, after merge, before push, on the server when receiving a push. There are about 25 different hook points.\n\n# .git/hooks/pre-commit\n#!/bin/bash\nnpm test || exit 1\n\n\nThe hooks most people use:\n\npre-commit: Run linters, formatters, tests before allowing a commit\nprepare-commit-msg: Modify the commit message template\ncommit-msg: Validate commit message format\npre-push: Run tests before pushing\npost-checkout: Update dependencies after switching branches\npre-receive (server): Enforce policies on what can be pushed\n\nHooks are good for enforcing local workflow (pre-commit linting) and server-side policies (pre-receive rejecting force pushes to main).\n\nOne limitation: hooks aren’t versioned with the repository. Each developer has to install them locally. Tools like husky, lefthook, and pre-commit exist specifically to solve this by providing a way to declare hooks in config files that do get committed.\n\ncore.hooksPath or init.templateDir can configure global hooks that apply to every repo. And post-checkout fires after clone completes, so a global post-checkout hook can bootstrap dependencies automatically.\n\ngit-branchless uses hooks heavily. It installs a post-commit hook that records every commit you make, enabling features like undo and automatic rebasing. The hook-based approach means it can observe git operations without replacing git commands. The githooks docs list all available hooks and when they fire.\n\nMerge/diff drivers#\n\nYou can tell git how to merge or diff specific file types.\n\n# .gitattributes\n*.json merge=json-merge\n*.png diff=exif\n\n# .git/config\n[merge \"json-merge\"]\n    driver = json-merge %O %A %B\n\n[diff \"exif\"]\n    textconv = exif\n\n\nMerge drivers receive three files (ancestor, ours, theirs) and produce the merged result. Diff drivers can convert binary files to text for diffing.\n\nThis is useful for:\n\nSmarter merging of structured formats (JSON, XML, config files)\nMaking binary files diffable (images via exif data, PDFs via text extraction)\nLock files that shouldn’t merge (use the binary merge driver)\n\nMost people don’t need custom merge drivers. The built-in 3-way merge handles code well. But if you’re constantly resolving the same conflicts in generated files, a custom driver might help. See the gitattributes docs for custom merge drivers and custom diff drivers.\n\nRemote Helpers#\n\nIf you want git to talk to something that isn’t a git server, you write a remote helper. Name it git-remote-foo and git will invoke it for URLs like foo::some-address.\n\n# git clone foo::some-address invokes:\ngit-remote-foo origin some-address\n\n\nThe helper communicates with git over stdin/stdout using a line-based protocol. It declares capabilities (fetch, push, import, export) and handles the corresponding operations.\n\nThis is how git talks to non-git systems:\n\ngit-remote-hg for Mercurial repos\ngit-remote-svn wraps subversion\nVarious cloud storage backends (S3, GCS)\n\nRemote helpers are the most complex extension point. You’re implementing a protocol, handling refs, transferring objects. The gitremote-helpers docs describe the protocol, but it’s dense. Most people end up reading existing helpers as the de facto spec. Still, they’re the only way to make git work with foreign systems transparently.\n\nCredential Helpers#\n\nWhen git needs authentication, it asks a credential helper. Helpers are simpler than remote helpers, they just store and retrieve usernames and passwords.\n\n# .gitconfig\n[credential]\n    helper = osxkeychain\n\n\nGit ships with helpers for OS keychains. The protocol is straightforward: git sends key-value pairs describing what it needs, the helper responds with credentials.\n\nYou’d write a custom helper to integrate with a secrets manager (Vault, 1Password) or custom authentication system. The gitcredentials docs cover the protocol and available helpers.\n\nCustom Ref Namespaces#\n\nGit refs are just pointers to commits, but they’re also a distributed key-value store. Create a ref, push it, and every clone gets a copy. Forges and tools exploit this by carving out their own namespaces under refs/.\n\nGitHub stores pull requests at refs/pull/<id>/head (the PR branch tip) and refs/pull/<id>/merge (the test merge result). These are read-only synthetic refs that persist even after PRs close. GitLab does similar with refs/merge-requests/<id>/head, plus refs/keep-around/<sha> to prevent garbage collection of commits that have CI pipelines or comments attached.\n\nGerrit takes this furthest with NoteDb. Change metadata lives at refs/changes/YZ/XYZ/meta as a commit graph where each commit records a modification to the code review. Project configuration sits at refs/meta/config. User preferences at refs/users/nn/accountid. The entire code review workflow is stored in git, with the SQL database eliminated entirely since Gerrit 3.0.\n\ngittuf stores security metadata the same way. The Reference State Log at refs/gittuf/reference-state-log is a hash chain of signed entries recording every repository state change. Policy rules live at refs/gittuf/policy. Because it’s just refs, gittuf works with any git server without modification.\n\nJujutsu stores refs at refs/jj/keep/ to prevent garbage collection of commits tracked in its operation log.\n\nGit itself uses this pattern internally: refs/notes/ for annotations attached to commits without modifying them, refs/stash for stashed changes, and refs/bisect/ for bisect state. The git project uses notes to link each commit to its mailing list discussion.\n\ngit-appraise from Google built code review entirely on notes, but the project is now abandoned.\n\nRadicle builds a peer-to-peer forge on custom refs. Repository identity lives at refs/rad/id, signed refs at refs/rad/sigrefs, and collaborative objects like issues and patches under refs/cobs/. Each peer’s data is namespaced by their node ID, sharing a single object database.\n\nGraphite stores branch metadata as JSON blobs under refs/branch-metadata/. DVC tracks ML experiments at refs/exps/, keeping thousands of experiment commits local until explicitly shared.\n\n# Fetch GitHub PR refs\ngit fetch origin '+refs/pull/*:refs/pull/*'\n\n# Fetch Gerrit change metadata\ngit fetch origin refs/changes/70/98070/meta\ngit log -p FETCH_HEAD\n\n# Fetch git notes\ngit fetch origin 'refs/notes/*:refs/notes/*'\n\n\nCustom refs are good for:\n\nMetadata that should travel with clones (security policies, review state)\nData that benefits from git’s deduplication and history\nAvoiding external databases while keeping data distributed\n\nThe constraints: refs are public to anyone who can fetch, and the gitnamespaces docs note that namespaces don’t provide access control. If you need private metadata, store it elsewhere. Forges will store and sync custom refs, but they won’t display them in the web UI. GitHub added notes display in 2010 then quietly dropped it in 2014 without explanation. Your users need tooling installed locally to see or interact with ref-based data.\n\nWhat Language?#\n\nGit doesn’t care. Here’s what existing projects use:\n\nShell: git-extras, git-flow\nGo: git-lfs, gh, hub\nRust: git-branchless\nC++: git-crypt\nPython: pre-commit\nRuby: overcommit\n\nFor filters specifically, startup time matters because they run once per file. Git does support long-running filter processes that stay alive across multiple files (git-lfs uses this), but you have to implement the protocol.\n\nConfiguration#\n\nExtensions need somewhere to store their settings. A few patterns:\n\nGit config is the natural choice. Your extension can use git config to read/write values under its own namespace:\n\ngit config --global lfs.fetchrecentalways true\ngit config myextension.somesetting value\n\n\nConfig lives in ~/.gitconfig (global) or .git/config (per-repo). Users already know how to edit these.\n\nDedicated dotfiles work when you need more structure. git-lfs uses .lfsconfig, git-crypt stores keys in .git-crypt/. These can be committed to the repo so settings travel with it.\n\n.gitattributes declares which files use filters or drivers:\n\n*.psd filter=lfs diff=lfs merge=lfs\n*.secret filter=git-crypt diff=git-crypt\n\n\nThis file should be committed, it’s how the repo tells git which extensions to invoke for which paths.\n\nInteresting Examples#\n\ngit-lfs: Combines multiple patterns. It’s a subcommand (git lfs track), uses clean/smudge filters for the actual file handling, and hooks into pre-push to upload files.\n\ngit-crypt: Clean/smudge filters with a subcommand for key management. The C++ implementation keeps the filter fast.\n\ngit-branchless: Hook-based observation combined with subcommands for the UI. Shows how to build features on top of git without modifying git itself. The Rust implementation handles large repos well.\n\nhub/gh: Pure subcommand pattern. Wraps git commands and adds GitHub-specific features. Shows how far you can get with just new commands.\n\novercommit: Hook manager in Ruby. Lets you configure hooks via YAML and provides a library of built-in checks for linting, security, and commit message formatting.\n\ngittuf: Uses custom refs to store a cryptographically signed log of all repository state changes. Subcommands for policy management. The ref-based approach means it works with any git server without modification.\n\nInstallation Required#\n\nFilters and hooks work transparently, users run normal git commands and your extension does its work, but your extension has to be installed first.\n\nIf someone clones a repo that uses git-lfs without having git-lfs installed, they don’t get an error, they get pointer files instead of content. Git has no mechanism to say “this repo requires extension X”.\n\nThe best you can do is document requirements, fail loudly when things are wrong, and make installation easy. git-lfs handles this reasonably well, if you try to push without it installed you get an error pointing you to the fix:\n\n$ brew install git-lfs && git lfs install  # macOS\n$ apt install git-lfs && git lfs install   # Debian/Ubuntu\n$ dnf install git-lfs && git lfs install   # Fedora\n\n\nIf you know of other git extension techniques or projects worth mentioning or have corrections, reach out on Mastodon or submit a pull request on GitHub.\n\nRelated posts\nGit Diff Drivers Mar 30, 2026\n\nWhat git's diff drivers can do, from built-in language support to custom textconv filters.\n\nGit's Magic Files Feb 5, 2026\n\nMagic files and where to find them: .gitignore, .gitattributes, .mailmap, .git-blame-ignore-revs, .lfsconfig, and more.\n\nGit Remote Helpers Mar 18, 2026\n\nGit can talk to anything if you write the right helper.\n\nForge Mar 13, 2026\n\nA unified CLI for GitHub, GitLab, Gitea, Forgejo, and Bitbucket.\n\nForge-Specific Repository Folders Feb 22, 2026\n\nMagic folders in git forges: what .github/, .gitlab/, .gitea/, .forgejo/ and .bitbucket/ do.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

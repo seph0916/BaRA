@@ -1,0 +1,141 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 32,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "npm",
+            "href": "https://npmjs.com/"
+        },
+        {
+            "text": "Go check out the finished source",
+            "href": "https://codeberg.org/EvanHahn/startInterval"
+        },
+        {
+            "text": "a lot of options",
+            "href": "https://docs.npmjs.com/files/package.json"
+        },
+        {
+            "text": "read a lot about semantic versioning",
+            "href": "https://semver.org/"
+        },
+        {
+            "text": "Sign up for an npm account",
+            "href": "https://npmjs.com/signup"
+        },
+        {
+            "text": "Markdown",
+            "href": "https://daringfireball.net/projects/markdown/"
+        },
+        {
+            "text": "MIT License",
+            "href": "https://opensource.org/licenses/MIT"
+        },
+        {
+            "text": "(unfortunately)",
+            "href": "https://sfconservancy.org/GiveUpGitHub"
+        },
+        {
+            "text": "Codeberg",
+            "href": "https://codeberg.org/"
+        },
+        {
+            "text": "gitignore",
+            "href": "https://help.github.com/articles/ignoring-files"
+        },
+        {
+            "text": "this Node.js gitignore file",
+            "href": "https://github.com/github/gitignore/blob/main/Node.gitignore"
+        },
+        {
+            "text": "read more about it",
+            "href": "https://docs.npmjs.com/misc/developers"
+        },
+        {
+            "text": "brtt3000 of Reddit",
+            "href": "http://www.reddit.com/user/brtt3000"
+        },
+        {
+            "text": "Jest",
+            "href": "https://jestjs.io/"
+        },
+        {
+            "text": "Vitest",
+            "href": "https://vitest.dev/"
+        },
+        {
+            "text": "Node’s built-in test runner",
+            "href": "https://nodejs.org/api/test.html"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 10777,
+    "text_full": "How to publish a simple package to npm\nby Evan Hahn, updated Feb 10, 2026 (originally posted Mar 7, 2014), tagged #node #guide\n\nThis guide expects you to have used Node and npm before, but you don’t have to be an expert! You should also know how to publish an open source repository and a bit about testing.\n\nIt’s time. You’ve been mooching off of npm for awhile now, and you want to make an open source package. Let me be your guide.\n\nGo check out the finished source if you’d like to see all of this together. Unfortunately, you won’t be able to publish a package called “startinterval” because I’ve already done it. It might be best to follow along but to avoid polluting npm with example packages.\n\nWhat we’ll build\n\nJavaScript has had setInterval for a long time. It runs a function every so often. Frequently, I find myself doing something like this:\n\nsetInterval(myFunction, 1000);\n\nmyFunction();\n\n\nI’d like to build a nearly-identical function that does the same thing as setInterval but also runs the function immediately. It’ll turn the above code into this:\n\nstartInterval(myFunction, 1000);\n\n\nThis is a pretty simple package, so it’ll be helpful when we learn all of the complexities of a npm module.\n\nA first version\n\nThere’s a lot of stuff you can do for an npm package. Let’s start with a respectable first version.\n\npackage dot json\n\nEvery npm module has a file called package.json inside. It’s a simple JSON document that’s got a lot of options.\n\n(Oh hey: make sure you’ve made a new directory when you’re doing this stuff.)\n\nYou can make this file yourself, or let npm init do it for you. Personally, I think npm init adds a lot of stuff, so let’s just put this inside for now (I’ll explain in a minute):\n\n{\n\n  \"name\": \"startinterval\",\n\n  \"description\": \"setInterval but also calls the function immediately\",\n\n  \"author\": \"Your Name <yourname@example.com> (https://example.com)\",\n\n  \"version\": \"0.1.0\",\n\n  \"main\": \"index.js\",\n\n  \"type\": \"module\"\n\n}\n\n\nSo there are five keys:\n\nname is the name of your package. Pretty straightforward, but it doesn’t allow spaces or capitals, otherwise I would’ve capitalized the I.\nauthor is you! Mine is \"Evan Hahn <me@evanhahn.com> (https://evanhahn.com)\" but that’s probably not yours.\nversion is the semantic version. You can read a lot about semantic versioning, but here’s a quick rundown: there are three positive integers, A.B.C. Increment C when you fix bugs or make performance improvements. Increment B when you add features but don’t break old code. Increment A when you’ll break old code. And when A is 0, there are no rules. For now, there are no rules.\nmain is the entry point. When you say import startInterval from \"startinterval\" from another file, it’ll point to index.js.\ntype specifies that this is an ECMAScript Module. That means it can be imported with import. This is in contrast to CommonJS modules, which are imported with the legacy require().\n\nThat’s a really basic package.json. Let’s write the code.\n\nThe code\n\nThe first version of our code is just 6 lines:\n\nexport default function startInterval(fn) {\n\n  // Call the function at the start.\n\n  fn();\n\n  // Defer to `setInterval` later.\n\n  return setInterval.apply(this, arguments);\n\n}\n\n\nDrop this into index.js, like we specified in package.json.\n\nAn aside: there’s nothing too special about index.js—you could’ve called it squigglebutt.js, and as long as you changed it in package.json, you’re good.\n\nAssociate an npm account\n\nIf you’ve already done these two steps, you don’t need to do them again:\n\nSign up for an npm account if you haven’t already\nRun npm adduser and log in on your computer\n\nFeel the thrill.\n\nPublish it!\n\nWe’re ready to publish a first version! Here’s what you run:\n\nnpm publish\n\n\nIf all goes well, npm will spit out some information…and then, without much fanfare, your package will appear on the npm website! It might ask you for two-factor authentication credentials, too. I’ve experienced a delay of a few minutes, so you can frantically refresh the homepage until your package appears (or until npm crashes).\n\nAnd you’ve made a first version! Try making a new project, installing it, and using it with require('startinterval')…and be amazed.\n\nIt’s not finished, though. Read on to make a more “mature” npm package.\n\nThe little things in life\n\nThere are a lot of little things we can do right now to make our project really special.\n\nAdd a readme\n\nnpm will give you (and anyone who installs your package) a warning if you don’t have a file in your root directory called README.md. It’s a Markdown-formatted readme. Go ahead and make one to describe your package!\n\nAdd a license\n\nYou’ll want to license your code so that people can legally use it (unless your intended users are the hardest of criminals). Software licensing is a big topic, but npm packages seem to like the MIT License because it’s fairly permissive. (I should add the disclaimer that I’m not a lawyer and nothing I say is legal advice.)\n\nTwo things you’ll want to do:\n\nAdd the license to a file called LICENSE in the root directory.\n\nAdd the license to package.json:\n\n// ...\n\"license\": \"MIT\"\n// ...\n\nPut the source code somewhere\n\nNearly every npm package hosts its source somewhere. Microsoft’s GitHub is (unfortunately) the most popular choice, but I recommend Codeberg for new projects because it’s run by a nonprofit.\n\nIt’s a good practice to publish your package as an open source project. It’ll help other people see the source code of your package, make contributions if they wish to, and ask questions.\n\nI’m going to assume you know how to do this, so here’s some npm-specific stuff:\n\nYou don’t want certain things getting in your public repository (log files and included dependencies, for example), so make a gitignore. I like this Node.js gitignore file.\n\nIn addition to your gitignore, you might also want to make a file called .npmignore. It’s a similar idea, but when people install your package from npm, they don’t need all your unit tests. We’ll keep them for such a small package, but you should read more about it when you have tons of non-essential files. (Thanks to brtt3000 of Reddit for reminding me about this!)\n\nAlternatively, you can use the files key of package.json. Where .npmignore says “ignore these files”, files says “only include these files”. There’s debate about which one is better.\n\nNow that your package is published somewhere, you should add a repository field to your package.json. It’ll look something like this:\n\n\"repository\": {\n\n  \"type\": \"git\",\n\n  \"url\": \"https://codeberg.org/EvanHahn/startInterval.git\"\n\n}\n\n\nIf you have a bug in your software, it’d be great for people to know where to submit it! You can add this information under the “bugs” field in package.json. I’d recommend the issue tracker URL for your repository. Mine looks like this:\n\n\"bugs\": \"https://codeberg.org/EvanHahn/startInterval/issues\"\n\n\nYou can also add more information like an email address if you want.\n\nWriting tests\n\nI’m not going to preach the benefits of testing your code. There are already enough people in the world making you feel bad. But let’s test it.\n\nTesting in a nutshell: basically, your code will have a bunch of functions and classes and whatnot. You want to make sure that, no matter what you throw at them, they’ll perform how you want them to. For example, this function should always return a string that says \"hello\" in it. Testing ensures that everything goes down exactly how you planned.\n\nJust like a lot of things in JavaScript, there are a million different libraries that do what we want. There are some popular testing frameworks like Jest and Vitest. But for this tutorial, we’ll use Node’s built-in test runner, which does everything we need.\n\nGetting set up\n\nAdd a test script that runs Node’s built‑in test runner:\n\n{\n\n  // …\n\n  \"scripts\": {\n\n    \"test\": \"node test\"\n\n  }\n\n  // …\n\n}\n\n\nNow you can run npm test and Node will execute any files inside a test directory that use the node:test API.\n\nCreate a test folder and put a file called example.test.js in it. A minimal example looks like this:\n\nimport assert from \"node:assert/strict\";\n\nimport { test } from \"node:test\";\n\n\n\ntest(\"basic sanity checks\", () => {\n\n  // 2 is greater than 0\n\n  assert.ok(2 > 0);\n\n\n\n  // 1 equals 1\n\n  assert.strictEqual(1, 1);\n\n});\n\n\nRunning npm test from the project root should output something like:\n\n✔ basic sanity checks\n\n\nYou’ll see a green check‑mark and a count of passed tests.\n\nWriting the real tests\n\nNow we’ll test the actual function startInterval. The new test harness uses the built‑in mock timers, so we don’t need Sinon or Chai.\n\nCreate (or replace) test/startInterval.test.js with the following code:\n\nimport assert from \"node:assert/strict\";\n\nimport { afterEach, beforeEach, mock, test } from \"node:test\";\n\nimport startInterval from \"../index.js\";\n\n\n\nbeforeEach(() => {\n\n  // Enable the fake timer for each test\n\n  mock.timers.enable();\n\n});\n\n\n\nafterEach(() => {\n\n  // Reset the timer state after each test\n\n  mock.timers.reset();\n\n});\n\n\n\ntest(\"calls the function immediately, then multiple times on an interval\", () => {\n\n  const fn = mock.fn();\n\n\n\n  // Start the interval with a 100 ms period\n\n  startInterval(fn, 100);\n\n\n\n  // The function should be called once right away\n\n  assert.strictEqual(fn.mock.callCount(), 1);\n\n\n\n  // Advance the fake clock and verify call counts\n\n  mock.timers.tick(99);\n\n  assert.strictEqual(fn.mock.callCount(), 1);\n\n\n\n  mock.timers.tick(2);\n\n  assert.strictEqual(fn.mock.callCount(), 2);\n\n\n\n  mock.timers.tick(100);\n\n  assert.strictEqual(fn.mock.callCount(), 3);\n\n\n\n  mock.timers.tick(100);\n\n  assert.strictEqual(fn.mock.callCount(), 4);\n\n});\n\nWhat’s happening\nmock.timers.enable() replaces the real setInterval/setTimeout with a controllable fake timer.\nmock.fn() creates a spy‑like function that records how many times it’s been called.\nmock.timers.tick(ms) moves the fake clock forward, triggering any timers that would have fired in that span.\nassert.strictEqual replaces Chai’s expect(...).to.equal(...) assertions.\n\nRun npm test again; you should see the test pass, confirming that startInterval fires immediately and then continues on the specified interval.\n\nAll done!\n\nWe’ve seen that a even simple function can become a big npm package pretty quickly! Let’s do a final update of your package and push it to npm. If you’re all ready to “lock in” the API for version 1, update the version in package.json:\n\n// ...\n\"version\": \"1.0.0\",\n// ...\n\n\nAnd publish again!\n\nnpm publish .\n\n\nWelcome to npm, my friend.\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

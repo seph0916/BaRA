@@ -1,0 +1,27 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 4,
+    "links": [
+        {
+            "text": "Purcell's Posts",
+            "href": "https://sethpurcell.com/"
+        },
+        {
+            "text": "RSS Feed",
+            "href": "https://sethpurcell.com/rss.xml"
+        },
+        {
+            "text": "Leadership is Just Three Things",
+            "href": "https://sethpurcell.com/writing/leadership-is-just-three-things"
+        },
+        {
+            "text": "My Take on Development Best Practices",
+            "href": "https://sethpurcell.com/writing/development-best-practices"
+        }
+    ],
+    "text_length": 535,
+    "text_full": "Purcell's Posts\nSend an email to Purcell's Posts\nRSS Feed\nTag: leadership\n\nAll the articles with the tag \"leadership\".\n\nLeadership is Just Three Things\n\nA lot of people seem confused about what leadership is, but it's really very simple.\n\nOct 16, 2024\nMy Take on Development Best Practices\n\nI was asked to contribute to a feature on best practices for software engineering. Here’s the full text I provided, a small excerpt of which was included in the piece.\n\nDec 8, 2013\nCopyright © 2026 by Seth Purcell\n | \nHosted on a Raspberry Pi 5"
+}

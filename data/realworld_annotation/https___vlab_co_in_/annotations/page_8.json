@@ -1,0 +1,358 @@
+{
+    "image_count": 10,
+    "images": [
+        "https://www.vlab.co.in/images/fb-icon.png",
+        "https://www.vlab.co.in/images/logo.jpg",
+        "https://www.vlab.co.in/images/click-here.png",
+        "https://www.vlab.co.in/images/new.gif",
+        "https://www.vlab.co.in/images/inner_slider/image1.gif",
+        "https://www.vlab.co.in/images/inner_slider/image2.gif",
+        "https://www.vlab.co.in/images/inner_slider/image3.gif",
+        "https://www.vlab.co.in/images/inner_slider/image4.gif",
+        "https://www.vlab.co.in/images/inner_slider/image5.gif",
+        "https://www.vlab.co.in/images/qr-code-mob6.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 84,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.facebook.com/VLabsIITDelhi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "ABOUT US",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "OUTREACH PORTAL",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "PARTICIPATING INSTITUTES",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "CONTACT US",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Outreach Portal",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/index.php"
+        },
+        {
+            "text": "Analog Signals, Network and Measurement Lab",
+            "href": "https://asnm-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://asnm-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Basic Electrical Science Lab (New)",
+            "href": "https://bes-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://bes-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Basics of Electrical Engineering Lab (New)",
+            "href": "https://bee-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KANPUR",
+            "href": "https://bee-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Basics of Pneumatic Components Lab",
+            "href": "https://pc-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://pc-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Control and Instrumentation Virtual Laboratory (New)",
+            "href": "https://ci-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://ci-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Control Engineering Lab (New)",
+            "href": "https://ce-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://ce-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Control Virtual Laboratory (New)",
+            "href": "https://dcl-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://dcl-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Electrical Machines (COEP) Lab",
+            "href": "https://em-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://em-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Electrical Machines Lab",
+            "href": "https://ems-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://ems-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Electrical Measurements Lab (New)",
+            "href": "https://elms-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://elms-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Industrial Automation Lab",
+            "href": "https://ial-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://ial-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Industrial Electric Drives Lab",
+            "href": "https://ied-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://ied-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Mechatronics System Design Lab (New)",
+            "href": "https://msd-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://msd-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Microwave Engineering Lab (New)",
+            "href": "https://me-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://me-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Optical Communication Lab (New)",
+            "href": "https://oc-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://oc-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "PLC Lab",
+            "href": "https://plc-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://plc-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Power Electronics I Virtual Lab (New)",
+            "href": "https://pe1-iitd.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT DELHI",
+            "href": "https://pe1-iitd.vlabs.ac.in/"
+        },
+        {
+            "text": "Power Electronics II Virtual Lab (New)",
+            "href": "https://pe2-iitd.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT DELHI",
+            "href": "https://pe2-iitd.vlabs.ac.in/"
+        },
+        {
+            "text": "Power Electronics Lab (New)",
+            "href": "https://pe-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://pe-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Power Systems II Lab (New)",
+            "href": "https://ps2-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://ps2-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Process Loop Component and Control Valve for Various Applications Lab",
+            "href": "https://plccom-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://plccom-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Process Loop Component for Current and Pneumatic Converters Lab",
+            "href": "https://plcip-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://plcip-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Process Loop Component for High Low Selector and Alarm Annunciators Lab",
+            "href": "https://plchla-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://plchla-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Process Loop Component for Transmitter and Tank Applications Lab",
+            "href": "https://plctt-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://plctt-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Project / System Engineering and Management II (New)",
+            "href": "https://psem2-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://psem2-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Project / System Engineering and Management Lab I (New)",
+            "href": "https://psem1-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://psem1-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Sensors Modeling & Simulation Lab",
+            "href": "https://sl-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://sl-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Substation Automation Lab",
+            "href": "https://sa-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://sa-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Virtual High Voltage Lab",
+            "href": "https://vhv-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://vhv-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Click here for related NPTEL video lectures",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-electrical-engineering"
+        },
+        {
+            "text": "* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.",
+            "href": "https://www.education.gov.in/hi/ict-initiatives"
+        },
+        {
+            "text": "* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.",
+            "href": "https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8/edit#"
+        },
+        {
+            "text": "Find the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute.",
+            "href": "https://drive.google.com/file/d/1U8z6RerrNA-IeBtCmQj8jDsYCAiu3_EY/view?usp=drive_link"
+        },
+        {
+            "text": "Lab Feedback Form",
+            "href": "http://38.100.110.143/feedback/feedback.html"
+        },
+        {
+            "text": "Lab Assessment Form",
+            "href": "http://38.100.110.143/labassessment/assessmentform.html"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.vlab.co.in/faq"
+        },
+        {
+            "text": "Shakshat Portal",
+            "href": "http://www.sakshat.ac.in/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        }
+    ],
+    "text_length": 3761,
+    "text_full": "21 May, 2026 | 06:09:00 AM\nVisitors  51333525\nAn Initiative of\nMinistry of Education\nUnder the National Mission on Education through ICT\nHOME\nABOUT US\nOUTREACH PORTAL\nPARTICIPATING INSTITUTES\nNMEICT\nCONTACT US\nElectrical Engineering\nHome » Broad Areas of Virtual Labs\nAnalog Signals, Network and Measurement Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nBasic Electrical Science Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nBasics of Electrical Engineering Lab (New)\nReference Books \nSyllabus Mapping \nIIT KANPUR\nBasics of Pneumatic Components Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nControl and Instrumentation Virtual Laboratory (New)\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nControl Engineering Lab (New)\nReference Books \nSyllabus Mapping \nDAYALBAGH\nDigital Control Virtual Laboratory (New)\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nElectrical Machines (COEP) Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nElectrical Machines Lab\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nElectrical Measurements Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nIndustrial Automation Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nIndustrial Electric Drives Lab\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nMechatronics System Design Lab (New)\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nMicrowave Engineering Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nOptical Communication Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nPLC Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nPower Electronics I Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIT DELHI\nPower Electronics II Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIT DELHI\nPower Electronics Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nPower Systems II Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nProcess Loop Component and Control Valve for Various Applications Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nProcess Loop Component for Current and Pneumatic Converters Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nProcess Loop Component for High Low Selector and Alarm Annunciators Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nProcess Loop Component for Transmitter and Tank Applications Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nProject / System Engineering and Management II (New)\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nProject / System Engineering and Management Lab I (New)\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nSensors Modeling & Simulation Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nSubstation Automation Lab\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nVirtual High Voltage Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\n  Click here for related NPTEL video lectures\nAnnouncements\n\n* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.\n\n* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.\n\nFind the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute. \n\nQuick Links\n\nLab Feedback Form\nLab Assessment Form\nFAQ\nShakshat Portal\n\nAbout VLAB\n\nHome\nAbout us\nContact Us\n\nGet In Touch With Us\n\n  support@vlab.co.in\n   Phone(O) - +91-9211460624\n  Wireless Research Lab\nRoom No - 206/IIA\nBharti School of Telecom\nIndian Institute of Technology Delhi\nHauz Khas, New Delhi-110016"
+}

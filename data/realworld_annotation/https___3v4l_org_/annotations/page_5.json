@@ -1,0 +1,131 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 30,
+    "links": [
+        {
+            "text": "3v4l.org\nrun code in 500+ PHP versions simultaneously",
+            "href": "https://3v4l.org/"
+        },
+        {
+            "text": "sponsor",
+            "href": "https://3v4l.org/sponsor"
+        },
+        {
+            "text": "bughunt",
+            "href": "https://3v4l.org/bughunt"
+        },
+        {
+            "text": "search",
+            "href": "https://3v4l.org/search"
+        },
+        {
+            "text": "recent",
+            "href": "https://3v4l.org/last"
+        },
+        {
+            "text": "about",
+            "href": "https://3v4l.org/about"
+        },
+        {
+            "text": "me",
+            "href": "https://duckduckgo.com/?q=site%3Abugs.php.net+sjon"
+        },
+        {
+            "text": "my collegues",
+            "href": "https://duckduckgo.com/?q=site%3Abugs.php.net+%22react+dot%22"
+        },
+        {
+            "text": "this parse_ini bug",
+            "href": "https://bugs.php.net/bug.php?id=63512"
+        },
+        {
+            "text": "Versions",
+            "href": "https://3v4l.org/versions"
+        },
+        {
+            "text": "ending support for PHP code",
+            "href": "https://hhvm.com/blog/2018/12/17/hhvm-3.30.html"
+        },
+        {
+            "text": "/bughunt",
+            "href": "https://3v4l.org/bughunt"
+        },
+        {
+            "text": "LRTEditor",
+            "href": "http://sjonhortensius.github.io/LRTEditor/"
+        },
+        {
+            "text": "one of my favorite replies",
+            "href": "https://twitter.com/i0n1c/status/258688195158487040"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/search?q=%223v4l.org%22&type=Code"
+        },
+        {
+            "text": "bugs.php.net",
+            "href": "https://bugs.php.net/search.php?search_for=3v4l.org&order_by=ts1&cmd=display"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/SjonHortensius/3v4l_org"
+        },
+        {
+            "text": "Paypal",
+            "href": "https://www.paypal.me/3v4l"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://phpc.social/@3v4l"
+        },
+        {
+            "text": "Golang",
+            "href": "http://golang.org/"
+        },
+        {
+            "text": "PostgreSQL",
+            "href": "http://www.postgresql.org/"
+        },
+        {
+            "text": "TooBasic framework",
+            "href": "https://github.com/SjonHortensius/TooBasic"
+        },
+        {
+            "text": "Basic Framework",
+            "href": "https://github.com/SjonHortensius/Basic_Framework"
+        },
+        {
+            "text": "MooTools",
+            "href": "http://mootools.net/"
+        },
+        {
+            "text": "Vanilla JS",
+            "href": "http://vanilla-js.com/"
+        },
+        {
+            "text": "human-readable version here",
+            "href": "https://3v4l.org/s/my.js"
+        },
+        {
+            "text": "analyzing",
+            "href": "https://tools.pingdom.com/#5985afc21f400000"
+        },
+        {
+            "text": "performance of this site",
+            "href": "https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2F3v4l.org%2F"
+        },
+        {
+            "text": "the bughunt",
+            "href": "https://3v4l.org/bughunt"
+        },
+        {
+            "text": "this simple echo date(); script",
+            "href": "https://3v4l.org/MtDjZ"
+        }
+    ],
+    "text_length": 8634,
+    "text_full": "3v4l.org\nrun code in 500+ PHP versions simultaneously\nsponsor\nbughunt\nsearch\nrecent\nabout\nAbout\nIntroduction\n\nI have been programming in PHP since 2002, and as me and my collegues used more advanced features we noticed PHP's behaviour would sometimes change without any reference in the changelog. An example of this was this parse_ini bug, which was an example where we needed to demonstrate the variation of results over time and 3v4l.org showed a clear advantage.\n\nSince 2012 I have provided vanilla PHP binaries that make it simpler to demonstrate issues that would otherwise be harder to reproduce, and cumbersome to compare to previous version. Traffic has steadily been growing as more developers found this site to be a helpful daily tool, as the following sessions-graph shows:\n\n\nuser views\nnew scripts\nbot views\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n40 M\n32 M\n24 M\n16 M\n8 M\n0 M\n\nThis site is build and maintained by Sjon Hortensius.\n\nStatistics\n\nI started in april 2012 and have been adding features ever since. If you like numbers, here are a some from the database:\n\nVersions (including helpers): 531\nScripts in database: 9,288,862\nSubmissions (new + existing): 9,985,496\nFunctions called by scripts: 13,831,664\nResults: 1,593,733,500\nRegistered users: 1\nMajor changes\n\nI have been adding features ever since I started. Here is a list with some major changes I made over the years:\n\nJan 2020 - added a live preview option, which runs php completely in your browser, this was originally launched as a separate REPL\nOct 2019 - removed HHVM due to it ending support for PHP code\nDec 2018 - introduced a live repl to quickly run oneliners\nOct 2018 - when resubmitting existing scripts, previous results will immediately be shown and updated in the background. I also moved all results to PostgreSQL partitioned tables\nAug 2018 - after moving the search from indexed operations (based on VLD) to SQL LIKE on raw script source, the entire dataset of indexed VLD opcodes was dropped\nApr 2018 - instead of Archlinux, all binaries are now compiled on debian - because it's slower with updates meaning less dependency updates\nMay 2016 - existing scripts now maintain they original date/time (eg. date('Y'); always outputs 2014). This results in better /bughunt output\nMar 2016 - all binaries were recompiled so I could add the intl, bcmath, gmp, iconv, mcrypt and opcache extensions\nSep 2015 - scripts no longer run in all versions by default, plus we also had a minor redesign for our first-ever logo\nApr 2015 - new layout, added top-menu which allowed me to introduce links to /last and /search\nNov 2014 - unfortunately LRTEditor had a nasty bug I couldn't easily fix, so I switched to Cloud9's ACE\nMay 2014 - added HHVM. This was actually a huge change, the chroot went from ~ 250 MiB to ~ 1.5 GiB due to the number of dependencies. It fortunately turned out to be a popular feature\nAug 2013 - replaced CodeMirror with my own LRTEditor\nJul 2013 - moved backend from c+sqlite to go+postgresql\nMay 2013 - added links to manual and php-source-code\nNov 2012 - added vld support and better layout, plus I also added the performance overview\nOct 2012 - the site got some great exposure, including one of my favorite replies\nApr 2012 - launch\nPro-tricks\n\nThere are a few tricks and some hidden functionality you might appreciate:\n\nDid you know you can submit a script using the keyboard shortcut ctrl + enter? The quick-preview can be triggered by using alt + enter.\n\nWant to copy a script to run it yourself? You can simply download it, use:\n\n$ curl -H Accept:text/plain https://3v4l.org/uNUDC\n\nWhile there is no official API, you can use REST and get json output for most pages:\n\n$ curl -H Accept:application/json https://3v4l.org/uNUDC\n\nDo you ever use the inline  diff functionality? You can select the base of the diff by clicking the 'Output for <version>' header first.\n\nLinks\n3v4l is frequently used on GitHub & bugs.php.net\nDonate or contribute through GitHub\nDonate through Paypal (but I prefer GitHub)\nMastodon for announcements.\nE-mail if the above channels don't suffice.\nTechnology\nBackend\n\nThis site started out on a server with 256 MiB memory, which was enough to run one script at the time, as well as the site itself. However, when I added HHVM, it needed a lot more memory, so I upgraded to a 1 GiB machine. Because of dropping prices, the site current runs on a 4 GiB machine.\n\nI use a setup where scripts are executed in a small virtual machine. For security reasons this machine has no network and only a minimal filesystem. Scripts are executed by a daemon (written in Golang) and results (with statistics) are reported to a PostgreSQL database. All results are stored and used to provide averages for the performance overview.\n\nI use the following php.ini settings for the scripts:\n\n[PHP]\n; ini_set should be in here too if you're concerned about security\ndisable_functions = pcntl_fork,phpinfo\nmax_execution_time = 3\nmemory_limit = 64M\nenable_dl = Off\n\n; for consistency of older versions\nallow_call_time_pass_reference = Off\nhtml_errors = Off\n\n; show all errors by default, if we'd lower this in the script we'll miss some parser notices\nerror_reporting = -1\ndisplay_errors = On\ndisplay_startup_errors = On\nlog_errors = Off\nreport_memleaks = On\n\n[Date]\ndate.timezone = Europe/Amsterdam\n\n\nWhen I started in 2012, this site was nothing more than a small bash script that looped through all available PHP binaries and stored the output in /out/. For fun; here is the source-code of the script that I started with:\n\n#!/bin/bash\nulimit -f 64 -m 64 -t 2 -u 128\n\n[[ ! -d /out/$1/ ]] && mkdir /out/$1/ || chmod u+w /out/$1/\n\nfor bin in /bin/php-*\ndo\n       echo $bin - $1\n       nice -n 15 sudo -u nobody $bin -c /etc/ -q \"/in/$1\" &>/out/$1/${bin##*-} & PID=$!\n       ( sleep 3.1; kill -9 $PID 2>/dev/null ) &\n       wait $PID\n       ex=$?\n\n       sf=/out/$1/${bin##*-}-exit\n       [[ $ex -eq 0 && -f $sf ]] && rm $sf\n       [[ $ex -ne 0 ]] && echo -n $ex > $sf\ndone\n\nchmod u-w /out/$1/\n\nBecause of the amount of files this generated (which did not play well with the average filesystem block-size) I replaced this with a SQLite based database with an inotify-based script that picked up changes in /out/ and imported them into the database.\n\nFor simplified connectivity to the database I replaced this with a C-based binary in 2013; and that was replaced by a Go-based program that's still in use today.\n\nFrontend\n\nAs for the website you are currently looking at, this was originally based on the TooBasic framework I build specifically for 3v4l.org. As the number of features increased I eventually migrated to another framework (which was originally not open-source, called the Basic Framework) with an actual Model and Template-parser.\n\nFor performance reasons I strip the HTML, CSS and javascripts; but there have been a few invisible upgrades here as well. Originally I used MooTools but that has been replaced by Vanilla JS. If you'd like, you can find a human-readable version here. My work pays off, as can be seen when analyzing the performance of this site.\n\nThe layout has taken a few cues from Bootstrap but given the verboseness of both its HTML and CSS I don't actually use that. The initial layout allowed for only the input and output to be visible, which was why I did an update where I added the tabs allowing for various helpers to be included. You're currently looking at the third layout iteration, which was done specifically to allow for some global contextual links to be visible and allow for various other features.\n\nConsistent dates and times\n\nTo get consistent output I try to eliminate as much environmental changes as possible. The chroot is rarely changed, and some methods are overloaded to provide consistent results. For example, php_uname will always return the same output.\n\nThis is to keep the number of unique results down, and make the bughunt a more useful tool. This fixation is also done on all date/time methods. A run will start at the same time for all versions, even though the actual walltime progresses.\n\nFor example - this simple echo date(); script was submitted in 2012. Since it was created, I have executed it on new versions as well - which all output 2012 even though most of the PHP versions weren't even released at at that time!\n\nThe date/time fixation uses the last submit time as reference. This means a quick-preview can sometimes show \"outdated\" timestamps as you are actually looking at output from a run with the previous submit-time.\n\npreferences:dark modelive preview\nace\nvim\nemacs\nkey bindings\n17.02 ms | 487 KiB | 6 Q"
+}

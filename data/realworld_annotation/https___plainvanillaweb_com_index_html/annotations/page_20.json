@@ -1,0 +1,70 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://plainvanillaweb.com/blog/articles/2024-08-25-vanilla-entity-encoding/image.webp",
+        "https://plainvanillaweb.com/blog/articles/2024-08-25-vanilla-entity-encoding/syntax-highlighting.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 14,
+    "links": [
+        {
+            "text": "Plain Vanilla",
+            "href": "https://plainvanillaweb.com/index.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/index.html"
+        },
+        {
+            "text": "August 25, 2024",
+            "href": "https://plainvanillaweb.com/blog/articles/2024-08-25-vanilla-entity-encoding/#"
+        },
+        {
+            "text": "Cross-Site Scripting",
+            "href": "https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html"
+        },
+        {
+            "text": "OWASP Top Ten",
+            "href": "https://owasp.org/www-project-top-ten/"
+        },
+        {
+            "text": "Passing Data example",
+            "href": "https://plainvanillaweb.com/pages/components.html#passing-data"
+        },
+        {
+            "text": "lit-html",
+            "href": "https://lit.dev/docs/api/templates/#html"
+        },
+        {
+            "text": "htm",
+            "href": "https://github.com/developit/htm"
+        },
+        {
+            "text": "tagged template function",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates"
+        },
+        {
+            "text": "html-literal repo on Github",
+            "href": "https://github.com/jsebrech/html-literal"
+        },
+        {
+            "text": "Discuss on Mastodon",
+            "href": "https://mstdn.social/@joeri_s/113030056958516573"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/blog/articles/2024-08-25-vanilla-entity-encoding/#top"
+        }
+    ],
+    "text_length": 7551,
+    "text_full": "Plain Vanilla Blog\n\nA blog about vanilla web development — no frameworks, just standards.\n\nPlain Vanilla\nBlog\nAugust 25, 2024\nVanilla entity encoding\n\nJoeri Sebrechts\n\nGood enough\n\nWhen I made the first version of the Plain Vanilla website, there were things that I would have liked to spend more time on, but that I felt didn't belong in a Good Enough™ version of the site. One of those things was defending against Cross-Site Scripting (XSS).\n\nXSS is still in the OWASP Top Ten of security issues, but it's no longer as prevalent as it used to be. Frameworks have built in a lot of defenses, and when using their templating systems you have to go out of your way to inject code into the generated HTML. When eschewing frameworks we're reduced to standard templating in our web components, and those offer no defense against XSS.\n\nBecause of this, in the original site the Passing Data example on the Components page had an undocumented XSS bug. The name field could have scripts injected into it. I felt ambivalent about leaving that bug in. On the one hand, the code was very compact and neat by leaving it in. On the other hand it made that code a bad example that shouldn't be copied. I ended up choosing to leave it as-is because an example doesn't have to be production-grade and generating properly encoded HTML was not the point of that specific example. It's time however to circle back to that XSS bug and figure out how it would have been solved in a clean and readable way, if Santa really did want to bring his List application to production-level quality.\n\nThe problem\n\nThe basic problem we need to solve is that vanilla web components end up having a lot of code that looks like this:\n\nexample1.js\nclass MyComponent extends HTMLElement {\n    connectedCallback() {\n        const btn = `<button>${this.getAttribute('foo')}</button>`;\n        this.innerHTML = `\n            <header><h1>${this.getAttribute('bar')}</h1></header>\n            <article>\n                <p class=\"${this.getAttribute('baz')}\">${this.getAttribute('xyzzy')}</p>\n                ${btn}\n            </article>\n        `;\n    }\n}\ncustomElements.define('my-component', MyComponent);\n\nIf any of foo, bar, baz or xyzzy contain one of the dangerous HTML entities, we risk seeing our component break, and worst-case risk seeing an attacker inject a malicious payload into the page. Just as a reminder, those dangerous HTML entities are <, >, &, ' and \".\n\nThe fix, take one\n\nA naive fix is creating a html-encoding function and using it consistently:\n\nexample2.js\nfunction htmlEncode(s) {\n    return s.replace(/[&<>'\"]/g,\n        tag => ({\n            '&': '&amp;',\n            '<': '&lt;',\n            '>': '&gt;',\n            \"'\": '&#39;',\n            '\"': '&quot;'\n        }[tag]))\n}\n\nclass MyComponent extends HTMLElement {\n    connectedCallback() {\n        const btn = `<button>${htmlEncode(this.getAttribute('foo'))}</button>`;\n        this.innerHTML = `\n            <header><h1>${htmlEncode(this.getAttribute('bar'))}</h1></header>\n            <article>\n                <p class=\"${htmlEncode(this.getAttribute('baz'))}\">${htmlEncode(this.getAttribute('xyzzy'))}</p>\n                ${btn}\n            </article>\n        `;\n    }\n}\ncustomElements.define('my-component', MyComponent);\n\nWhile this does work to defend against XSS, it is verbose and ugly, not pleasant to type and not pleasant to read. What really kills it though, is that it assumes attention to detail from us messy humans. We can never forget, never ever, to put a htmlEncode() around each and every variable. In the real world, that is somewhat unlikely.\n\nWhat is needed is a solution that allows us to forget about entity encoding, by doing it automatically when we're templating. I drew inspiration from templating libraries that work in-browser and are based on tagged templates, like lit-html and htm. The quest was on to build the most minimalistic html templating function that encoded entities automatically.\n\nThe fix, take two\n\nIdeally, the fixed example should look more like this:\n\nexample3.js\nimport { html } from './html.js';\n\nclass MyComponent extends HTMLElement {\n    connectedCallback() {\n        const btn = html`<button>${this.getAttribute('foo')}</button>`;\n        this.innerHTML = html`\n            <header><h1>${this.getAttribute('bar')}</h1></header>\n            <article>\n                <p class=\"${this.getAttribute('baz')}\">${this.getAttribute('xyzzy')}</p>\n                ${btn}\n            </article>\n        `;\n    }\n}\ncustomElements.define('my-component', MyComponent);\n\nThe html`` tagged template function would automatically encode entities, in a way that we don't even have to think about it. Even when we nest generated HTML inside of another template, like with ${btn}, it should just magically work. It would be so minimal as to disappear in the background, barely impacting readability, maybe even improving it. You may be thinking that doing that correctly would involve an impressive amount of code. I must disappoint.\n\nhtml.js\nclass Html extends String { }\n\n/** \n * tag a string as html not to be encoded\n * @param {string} str\n * @returns {string}\n */\nexport const htmlRaw = str => new Html(str);\n\n/** \n * entity encode a string as html\n * @param {*} value The value to encode\n * @returns {string}\n */\nexport const htmlEncode = (value) => {\n    // avoid double-encoding the same string\n    if (value instanceof Html) {\n        return value;\n    } else {\n        // https://stackoverflow.com/a/57448862/20980\n        return htmlRaw(\n            String(value).replace(/[&<>'\"]/g, \n                tag => ({\n                    '&': '&amp;',\n                    '<': '&lt;',\n                    '>': '&gt;',\n                    \"'\": '&#39;',\n                    '\"': '&quot;'\n                }[tag]))\n        );\n    }\n}\n\n/** \n * html tagged template literal, auto-encodes entities\n */\nexport const html = (strings, ...values) => \n    htmlRaw(String.raw({ raw: strings }, ...values.map(htmlEncode)));\n\n\nThose couple dozen lines of code are all that is needed. Let's go through it from top to bottom.\n\nclass Html extends String { }\nThe Html class is used to mark strings as encoded, so that they won't be encoded again.\nexport const htmlRaw = str => new Html(str);\nCase in point, the htmlRaw function does the marking.\nexport const htmlEncode = ...\nThe earlier htmlEncode function is still doing useful work, only this time it will mark the resulting string as HTML, and it won't double-encode.\nexport const html = ...\nThe tagged template function that binds it together.\n\nA nice upside of the html template function is that the html-in-template-string Visual Studio Code extension can detect it automatically and will syntax highlight the templated HTML. This is what example 3 looked like after I made it:\n\nGranted, there's still a bunch of boilerplate here, and that getAttribute gets unwieldy. But with this syntax highlighting enabled sometimes when I'm working on vanilla web components I forget it's not React and JSX, but just HTML and JS. It's surprising how nice of a development experience web standards can be if you embrace them.\n\nI decided to leave the XSS bug in the Passing Data example, but now the Applications page has an explanation about entity encoding documenting this html template function. I can only hope people that work their way through the tutorial make it that far. For your convenience I also put the HTML templating function in its own separate html-literal repo on Github.\n\nDiscuss on Mastodon\n\nContact GitHub\n\nBack to top"
+}

@@ -1,0 +1,374 @@
+{
+    "image_count": 10,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://regmedia.co.uk/2026/04/23/hpelogo.png",
+        "https://regmedia.co.uk/2026/04/23/hpe_illustrations_gpu__aiready_servers.png",
+        "https://regmedia.co.uk/2026/04/23/hpe_illustrations_observability__why_ai_is_breaking_enterprise_virtualization.png",
+        "https://regmedia.co.uk/2026/04/23/hpe_illustrations_datafabric__selfdriving_networks.png",
+        "https://regmedia.co.uk/2026/04/23/hpe_illustrations_edge__hands_on_video_v2.png",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 88,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/explainer/ai-explainer#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Read Explainer\n→",
+            "href": "https://www.theregister.com/2026/03/23/explainer_aiready_servers/"
+        },
+        {
+            "text": "Read Explainer\n→",
+            "href": "https://www.theregister.com/2026/03/25/explainer_why_ai_breaking/"
+        },
+        {
+            "text": "Read Explainer\n→",
+            "href": "https://www.theregister.com/2026/03/30/explainer_selfdriving_networks/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/paper/view/20055/a-day-in-the-life-of-a-self-driving-network"
+        },
+        {
+            "text": "Watch Video\n→",
+            "href": "https://intelligence.theregister.com/paper/view/20055/a-day-in-the-life-of-a-self-driving-network"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 2285,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nAI Explainer\nEXPLAINERS\nBuilding Infrastructure for the AI Era.\n\nRunning AI at scale demands more than incremental upgrades. It requires a rethink of how compute, platforms, and networks are designed, managed, and optimised. These explainers explore the key shifts happening across the stack — and what organisations need to do to keep up.\n\nExplore the Series\n\nThree explainers that map the infrastructure shifts reshaping AI adoption — from the hardware layer through to operations and networking.\n\nAI-Ready Servers\n\nWhy legacy server estates can hold back AI workloads before projects ever reach scale.\n\nCOVERS\nGPU data bottlenecks\nAI-era security requirements\nOperational visibility across the estate\nRead Explainer\n→\nWhy AI Is Breaking Enterprise Virtualization\n\nWhy traditional VM stacks and operating models are struggling to support production AI.\n\nCOVERS\nBare-metal-like performance demands\nUnified control planes and portability\nPolicy, automation, and phased migration\nRead Explainer\n→\nSelf-Driving Networks\n\nHow AI-driven networking promises to detect, decide, and act with far less human intervention.\n\nCOVERS\nPredictive over reactive operations\nClosed-loop automation\nExperience, resilience, and security\nRead Explainer\n→\nHands-On Video\n\nSee what a self-driving network looks like in practice — from real-time decisions to continuous optimisation.\n\nFEATURED VIDEO\nA Day in the Life of a Self-Driving Network\n\nWhat autonomous networking looks like in practice — from real-time decisions to continuous optimisation.\n\nCOVERS\nHow AI-driven networks detect and resolve issues without manual intervention\nThe shift from reactive troubleshooting to predictive, closed-loop operations\nReal-world scenarios showing how automation improves performance, resilience, and user experience\nWatch Video\n→\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

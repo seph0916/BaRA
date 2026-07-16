@@ -1,0 +1,161 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 37,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Buffer.concat",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/buffer.html#static-method-bufferconcatlist-totallength"
+        },
+        {
+            "text": "the simple benchmark script I wrote",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/bench.ts"
+        },
+        {
+            "text": "the Blob constructor",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/Blob/Blob"
+        },
+        {
+            "text": "Buffer.concat",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/buffer.html#static-method-bufferconcatlist-totallength"
+        },
+        {
+            "text": "Buffers are Uint8Arrays with subtle differences",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/buffer.html#buffers-and-typedarrays"
+        },
+        {
+            "text": "looks a lot like Option 1",
+            "href": "https://github.com/nodejs/node/blob/0c5696248b8a4d6f2a7c1fed87798502f646d829/lib/buffer.js#L576-L615"
+        },
+        {
+            "text": "Buffer.allocUnsafe",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/buffer.html#static-method-bufferallocunsafesize"
+        },
+        {
+            "text": "1",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/#fn:1"
+        },
+        {
+            "text": "2",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/#fn:2"
+        },
+        {
+            "text": "generator function",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*"
+        },
+        {
+            "text": "3",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/#fn:3"
+        },
+        {
+            "text": "Uint8Array.from",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/from"
+        },
+        {
+            "text": "less compatible with browsers and runtimes",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/from#browser_compatibility"
+        },
+        {
+            "text": "Buffer.concat",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/buffer.html#static-method-bufferconcatlist-totallength"
+        },
+        {
+            "text": "Option 1",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/#reasonable-option-1-allocate-the-result-set-each-piece"
+        },
+        {
+            "text": "Contact me if I missed something!",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "override its default behavior",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/buffer.html#the---zero-fill-buffers-command-line-option"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/#fnref:1"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/#fnref:2"
+        },
+        {
+            "text": "here’s the full iterator-based “solution”",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/bad_iterator_solution.ts"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/#fnref:3"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 8981,
+    "text_full": "What's the best way to concatenate Uint8Arrays?\nby Evan Hahn, posted Jan 29, 2024, tagged #javascript #guide\n\nThis post is for people familiar with JavaScript’s Uint8Array.\n\nSometimes, I want to combine multiple Uint8Arrays into one. Something like this:\n\nconst a = new Uint8Array([1, 2]);\n\nconst b = new Uint8Array([3, 4]);\n\nconst c = new Uint8Array([5]);\n\n\n\nconcatenate([a, b, c]);\n\n// => Uint8Array(5) [1, 2, 3, 4, 5]\n\n\nWhat’s the best way to do this?\n\nThe short answer\n\nIf you’re only using Node, use Buffer.concat.\n\nIf you’re not only using Node, I prefer this solution:\n\n/**\n\n * Combine multiple Uint8Arrays into one.\n\n *\n\n * @param {Uint8Array[]} uint8arrays\n\n * @returns {Uint8Array}\n\n */\n\nfunction concatenate(uint8arrays) {\n\n  const totalLength = uint8arrays.reduce(\n\n    (total, uint8array) => total + uint8array.byteLength,\n\n    0,\n\n  );\n\n\n\n  const result = new Uint8Array(totalLength);\n\n\n\n  let offset = 0;\n\n  uint8arrays.forEach((uint8array) => {\n\n    result.set(uint8array, offset);\n\n    offset += uint8array.byteLength;\n\n  });\n\n\n\n  return result;\n\n}\n\n\nThere are some other solutions (including some bad ones) listed below. If you want to learn more, read on.\n\nThe long answer\n\nFor this problem, I wanted to write a function, concatenate, which took an array of Uint8Arrays as input and returned a single, combined Uint8Array as output. I didn’t want to install any libraries.\n\nI found three reasonable ways to do this:\n\nAllocate the result upfront, then update the result in pieces\nPut them in a Blob\nBuffer.concat() (requires Node)\n\nOverall, I think option 1 is best. If you’re using Node, option 3 is probably best, just because it’s built in.\n\nI also tried a few ideas that didn’t work well. We’ll see some of those failures below.\n\nI tested these with Deno and Firefox. I generated random Uint8Arrays of sizes between 0 bytes and 1 mebibyte, then tried to combine them. I did this with 0, 1, 10, 100, and 1000 inputs. (If you’re curious, check out the simple benchmark script I wrote.)\n\nLet’s look at these solutions.\n\nReasonable Option 1: allocate the result, set each piece\n\nHere’s the first solution I came up with:\n\nfunction concatenate(uint8arrays) {\n\n  // Determine the length of the result.\n\n  const totalLength = uint8arrays.reduce(\n\n    (total, uint8array) => total + uint8array.byteLength,\n\n    0,\n\n  );\n\n\n\n  // Allocate the result.\n\n  const result = new Uint8Array(totalLength);\n\n\n\n  // Copy each Uint8Array into the result.\n\n  let offset = 0;\n\n  uint8arrays.forEach((uint8array) => {\n\n    result.set(uint8array, offset);\n\n    offset += uint8array.byteLength;\n\n  });\n\n\n\n  return result;\n\n}\n\n\nAt a high level, it:\n\nAllocates the result buffer. To do this, you need the length of the result, which you can get by adding up all the inputs’ lengths.\nPiece by piece, copy the inputs into the result.\n\nThis option is reasonably fast and works for large inputs. I would reach for a solution like this in most cases.\n\nReasonable Option 2: put them in a Blob\n\nOption 1 is good but is a bit long. Here’s a much shorter solution:\n\nasync function concatenate(uint8arrays) {\n\n  // Put the inputs into a Blob.\n\n  const blob = new Blob(uint8arrays);\n\n\n\n  // Pull an ArrayBuffer out. (Has to be async.)\n\n  const buffer = await blob.arrayBuffer();\n\n\n\n  // Convert that ArrayBuffer to a Uint8Array.\n\n  return new Uint8Array(buffer);\n\n}\n\n\nIt’s a little harder to read, but you could even shorten this further:\n\nconst concatenate = async (uint8arrays) =>\n\n  new Uint8Array(await new Blob(uint8arrays).arrayBuffer());\n\n\nAt a high level, this solution takes advantage of the fact that the Blob constructor accepts an array of Uint8Arrays as input (among other things), and can then be converted to an ArrayBuffer. It’s easy to convert an ArrayBuffer to a Uint8Array once you have one.\n\nI like the brevity of this solution, and also the fact that it takes more advantage of the standard library. However, it is asynchronous, which means you need to await it (or handle the promise). Also, in my informal testing, this version was about 5% slower than Option 1.\n\nOverall, I think this solution is worse than Option 1 unless brevity is your primary goal, and then it’s better.\n\nReasonable Option 3: Buffer.concat (Node-only)\n\nIf you’re using Node, there’s an even briefer solution: Buffer.concat. It’s built in!\n\nconst a = new Uint8Array([1, 2]);\n\nconst b = new Uint8Array([3, 4]);\n\nconst c = new Uint8Array([5]);\n\n\n\nBuffer.concat([a, b, c]);\n\n// => <Buffer 01 02 03 04 05>\n\n\nThis returns a Buffer. Buffers are Uint8Arrays with subtle differences that probably don’t affect you (and you can convert them to Uint8Arrays easily if you wish).\n\nIf you look at Node’s source code, Buffer.concat looks a lot like Option 1; it allocates a result buffer and copies each Uint8Array inside.\n\nUnlike Option 1, Buffer.concat uses Buffer.allocUnsafe internally. These buffers are pulled from a memory pool that might contain stale data. It doesn’t set every value to 01, unlike what new Uint8Array does:\n\nnew Uint8Array(3);\n\n// => Uint8Array(3) [ 0, 0, 0 ]\n\n\n\nBuffer.allocUnsafe(3);\n\n// => <Buffer 62 4c 36> (your results may vary)\n\n\nBuffer.allocUnsafe is sometimes dangerous, as its name suggests, but it can be faster. In this case, it doesn’t matter whether the result buffer is initialized to, because Node overwrites whatever was there before, so we can safely enjoy the performance benefit.\n\nI recommend using this option if you’re only in the Node world. It was the fastest option I tested, and doesn’t require writing/importing any code.\n\nThe graveyard of bad solutions\n\nI tried a bunch of other ideas and all of them were bad for various reasons. If you want to see several ideas that don’t work…read on.\n\nBad idea 1: a big array\n\nMy simplest (stupidest?) idea was to put everything into a big array, then convert that to a Uint8Array at the end.\n\n// Warning: this solution is bad!\n\nfunction badConcatenate(uint8arrays) {\n\n  const array = [];\n\n  for (const uint8array of uint8arrays) {\n\n    array.push(...uint8array);\n\n  }\n\n  return new Uint8Array(array);\n\n}\n\n\nThis worked okay for smaller inputs but crashed with larger inputs. These arrays can get quite big.\n\nI evaluated a similar idea where you would pass an array-like object (e.g., { length: 3, \"0\": 9, \"1\": 8, \"2\": 7 }). This “solution” had a similar problem—allocating a huge object—and failed for similar reasons.2\n\nBad idea 2: a generator\n\nTo avoid allocating a giant array myself, I tried using a generator function:\n\n// Warning: this solution is bad!\n\nconst badConcatenate = (uint8arrays) =>\n\n  new Uint8Array(\n\n    (function* () {\n\n      for (const uint8array of uint8arrays) {\n\n        yield* uint8array;\n\n      }\n\n    })(),\n\n  );\n\n\nThis was about 10× slower for small inputs and ran out of memory for larger ones. I assume this is because the result size is unknown upfront, so JavaScript has to store everything in an internal buffer somewhere, effectively allocating that giant array I was trying to avoid.\n\nBad idea 3: an iterator (no generators)\n\nIn my anecdotal experience, generators can be slower than hand-rolling iterator code yourself.\n\nThis code was long, but here’s an abbreviated version3:\n\n// Warning: this solution is bad!\n\n\n\nclass ByteIterator {\n\n  /* ...code skipped... */\n\n}\n\n\n\nclass ByteIterable {\n\n  // ...code skipped...\n\n  [Symbol.iterator]() {\n\n    return new ByteIterator(this.uint8arrays);\n\n  }\n\n}\n\n\n\nconst iterator = (uint8arrays) => new Uint8Array(new ByteIterable(uint8arrays));\n\n\nThis was faster than the generator solution but still much slower than the other good solutions, and still ran out of memory for large inputs. I assume it failed for the same reason as the generator one.\n\nBad idea 4: Uint8Array.from\n\nIf you call Uint8Array.from with a second argument, you get a “map function” that we can abuse for this purpose.\n\nThis code was also very long. Here’s a very abbreviated version:\n\n// Warning: this solution is bad!\n\nUint8Array.from({ length: totalLength }, () => {\n\n  // This is pseudocode:\n\n  return nextByteFromLatestUint8Array;\n\n});\n\n\nUnlike all the other bogus ideas I tried, this one does actually work. It’s not a complete failure!\n\nHowever, when compared to the other good options, I don’t think it has any benefits at all. It’s a lot slower (the worst I saw was 16× slower!), harder to understand, more code, and less compatible with browsers and runtimes.\n\nSummary\n\nI recommend using Buffer.concat if you’re using Node and Option 1 otherwise.\n\nContact me if I missed something!\n\nUnless you override its default behavior. ↩︎\n\nThere might be a way to make this idea workable using proxies, but I didn’t try that. ↩︎\n\nIf you want to read some long code that doesn’t work, here’s the full iterator-based “solution”. ↩︎\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

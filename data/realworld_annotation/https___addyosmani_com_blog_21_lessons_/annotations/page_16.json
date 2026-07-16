@@ -1,0 +1,79 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://addyosmani.com/assets/images/better-thresholds.png",
+        "https://addyosmani.com/assets/images/lazysizes-threshold.png",
+        "https://addyosmani.com/assets/images/addy_2022.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 16,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "blog post",
+            "href": "https://web.dev/native-lazy-loading/"
+        },
+        {
+            "text": "Addy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.",
+            "href": "http://twitter.com/addyosmani"
+        },
+        {
+            "text": "Tweet",
+            "href": "https://twitter.com/intent/tweet?text=https://addyosmani.com/blog/better-image-lazy-loading-in-chrome/%20-%20We%27ve%20improved%20image%20lazy-loading%20in%20Chrome!%20by%20@addyosmani"
+        },
+        {
+            "text": "Bluesky",
+            "href": "https://bsky.app/intent/compose?text=We%27ve%20improved%20image%20lazy-loading%20in%20Chrome!%20-%20https://addyosmani.com/blog/better-image-lazy-loading-in-chrome/"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/share?text=We%27ve%20improved%20image%20lazy-loading%20in%20Chrome!%0Ahttps://addyosmani.com/blog/better-image-lazy-loading-in-chrome/"
+        },
+        {
+            "text": "Threads",
+            "href": "https://www.threads.net/intent/post?text=We%27ve%20improved%20image%20lazy-loading%20in%20Chrome!%0Ahttps://addyosmani.com/blog/better-image-lazy-loading-in-chrome/"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://addyosmani.com/blog/better-image-lazy-loading-in-chrome/"
+        },
+        {
+            "text": "Share",
+            "href": "https://addyosmani.com/blog/better-image-lazy-loading-in-chrome/#"
+        }
+    ],
+    "text_length": 2010,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nWe've improved image lazy-loading in Chrome!\nJULY 24, 2020\n\nWe’ve improved <img> lazy-loading in Chrome! The new thresholds for when we load <img loading=lazy> offer much better data-savings, are closer to JavaScript lazy-loading libraries, are rolling out to Chrome 79+.\n\nImproved data-savings and distance-from-viewport thresholds\n\nAs of July 2020, Chrome has made significant improvements to align the native image lazy-loading distance-from-viewport thresholds to better meet developer expectations.\n\nOn fast connections (e.g 4G), we reduced Chrome’s distance-from-viewport thresholds from 3000px to 1250px and on slower connections (e.g 3G), changed the threshold from 4000px to 2500px. This change achieves two things:\n\n<img loading=lazy> behaves closer to the experience offered by JavaScript lazy-loading libraries like lazysizes\nThe new distance-from-viewport thresholds still allow us to guarantee images have probably loaded by the time a user has scrolled to them.\n\nYou can find a comparison between the old vs. new distance-from-viewport thresholds for one of our demos on a fast connection (4G) below:\n\nOld thresholds. vs new thresholds:\n\nand the new thresholds vs. LazySizes (a popular JS lazy-loading library):\n\nNote: To ensure Chrome users on recent versions also benefit from the new thresholds, we have backported these changes so that Chrome 79 - 85 inclusive also uses them. Please keep this in mind if attempting to compare data-savings from older versions of Chrome to newer ones.\n\nWe are committed to working with the web standards community to explore better alignment in how distance-from-viewport thresholds are approached across different browsers.\n\nTo learn more, check out our blog post about native image lazy-loading on web.dev.\n\nAddy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.\n Tweet  Bluesky  Mastodon  Threads  LinkedIn  Share\n\nWant more? Subscribe to my free newsletter:\nSubscribe"
+}

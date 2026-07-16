@@ -1,0 +1,363 @@
+{
+    "image_count": 31,
+    "images": [
+        "https://goto-restaurants.com/public/media/logo.jpg",
+        "https://goto-restaurants.com/public/media/enter-your-location-3.png",
+        "https://goto-restaurants.com/public/media/we-suggest-top-rated-restaurant.png",
+        "https://goto-restaurants.com/public/media/view-review-make-your-choice.png",
+        "https://goto-restaurants.com/public/media/local-us/houston.jpg",
+        "https://goto-restaurants.com/public/media/local-us/los-angeles.jpg",
+        "https://goto-restaurants.com/public/media/local-us/new-york.jpg",
+        "https://goto-restaurants.com/public/media/local-us/chicago.jpg",
+        "https://cdn.goto-restaurants.com/6627-albums-1.jpg",
+        "https://cdn.goto-restaurants.com/23232-albums-1.jpg",
+        "https://cdn.goto-restaurants.com/carolina-pancake-house/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/eagle-lake-family-diner/102185-albums-1.jpg",
+        "https://cdn.goto-restaurants.com/airway-billiards-bar-grill/109518-albums-1.jpg",
+        "https://cdn.goto-restaurants.com/los-parrilleros/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/las-margaritas/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/el-tapatio-mexican-restaurant/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/la-botana-mexican-restaurant/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/narunyas/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/the-sushi-by-jin/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/carmens-la-hacienda/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/bonnie-cafe/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/sunrise-ii-family-restaurant/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/mi-pueblito-mexican-restaurant/photo-1.jpg",
+        "https://cdn.goto-restaurants.com/durango-mexican-grill/photo-1.jpg",
+        "https://goto-restaurants.com/public/media/logo.jpg",
+        "https://goto-restaurants.com/public/images/social/facebook.png",
+        "https://goto-restaurants.com/public/images/social/instagram.png",
+        "https://goto-restaurants.com/public/images/social/twitter.png",
+        "https://goto-restaurants.com/public/images/social/youtube.png",
+        "https://goto-restaurants.com/public/images/social/linkedin.png",
+        "https://goto-restaurants.com/public/images/social/pinterest.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 80,
+    "links": [
+        {
+            "text": "",
+            "href": "https://goto-restaurants.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://goto-restaurants.com/"
+        },
+        {
+            "text": "About Us",
+            "href": "https://goto-restaurants.com/about-us.html"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://goto-restaurants.com/terms-of-use.html"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://goto-restaurants.com/privacy-policy.html"
+        },
+        {
+            "text": "Houston\n361 places",
+            "href": "https://goto-restaurants.com/local/houston"
+        },
+        {
+            "text": "Los Angeles\n331 places",
+            "href": "https://goto-restaurants.com/local/los-angeles"
+        },
+        {
+            "text": "New York\n319 places",
+            "href": "https://goto-restaurants.com/local/new-york"
+        },
+        {
+            "text": "Chicago\n312 places",
+            "href": "https://goto-restaurants.com/local/chicago"
+        },
+        {
+            "text": "Mexican restaurant in Chicago",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-chicago"
+        },
+        {
+            "text": "Restaurant in Rome",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-rome"
+        },
+        {
+            "text": "Restaurant in Paris",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-paris"
+        },
+        {
+            "text": "Mexican restaurant in San Antonio",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-san-antonio"
+        },
+        {
+            "text": "Mexican restaurant in Houston",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-houston"
+        },
+        {
+            "text": "Restaurant in Atlanta",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-atlanta"
+        },
+        {
+            "text": "Restaurant in Madrid",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-madrid"
+        },
+        {
+            "text": "Mexican restaurant in Los Angeles",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-los-angeles"
+        },
+        {
+            "text": "Restaurant in Dallas",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-dallas"
+        },
+        {
+            "text": "French restaurant in Paris",
+            "href": "https://goto-restaurants.com/cate/french-restaurant-in-paris"
+        },
+        {
+            "text": "Korean restaurant in Los Angeles",
+            "href": "https://goto-restaurants.com/cate/korean-restaurant-in-los-angeles"
+        },
+        {
+            "text": "Restaurant in Miami",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-miami"
+        },
+        {
+            "text": "Restaurant in Barcelona",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-barcelona"
+        },
+        {
+            "text": "Vietnamese restaurant in Houston",
+            "href": "https://goto-restaurants.com/cate/vietnamese-restaurant-in-houston"
+        },
+        {
+            "text": "Mexican restaurant in Dallas",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-dallas"
+        },
+        {
+            "text": "Mexican restaurant in El Paso",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-el-paso"
+        },
+        {
+            "text": "Restaurant in Houston",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-houston"
+        },
+        {
+            "text": "Restaurant in Los Angeles",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-los-angeles"
+        },
+        {
+            "text": "Italian restaurant in New York",
+            "href": "https://goto-restaurants.com/cate/italian-restaurant-in-new-york"
+        },
+        {
+            "text": "Restaurant in Lisbon",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-lisbon"
+        },
+        {
+            "text": "Mexican restaurant in Phoenix",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-phoenix"
+        },
+        {
+            "text": "Seafood restaurant in Houston",
+            "href": "https://goto-restaurants.com/cate/seafood-restaurant-in-houston"
+        },
+        {
+            "text": "Restaurant in Chicago",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-chicago"
+        },
+        {
+            "text": "Restaurant in Milan",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-milan"
+        },
+        {
+            "text": "Restaurant in Columbia",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-columbia"
+        },
+        {
+            "text": "Restaurant in São Paulo",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-sao-paulo"
+        },
+        {
+            "text": "Mexican restaurant in San Diego",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-san-diego"
+        },
+        {
+            "text": "Vietnamese restaurant in San Jose",
+            "href": "https://goto-restaurants.com/cate/vietnamese-restaurant-in-san-jose"
+        },
+        {
+            "text": "Restaurant in New York",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-new-york"
+        },
+        {
+            "text": "Restaurant in Detroit",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-detroit"
+        },
+        {
+            "text": "Restaurant in Austin",
+            "href": "https://goto-restaurants.com/cate/restaurant-in-austin"
+        },
+        {
+            "text": "Mexican restaurant in San Jose",
+            "href": "https://goto-restaurants.com/cate/mexican-restaurant-in-san-jose"
+        },
+        {
+            "text": "Smith Good Eats",
+            "href": "https://smith-good-eats.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://smith-good-eats.goto-restaurants.com/"
+        },
+        {
+            "text": "Sip N Chat Cocktail Lounge",
+            "href": "https://sip-n-chat-cocktail-lounge.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://sip-n-chat-cocktail-lounge.goto-restaurants.com/"
+        },
+        {
+            "text": "Carolina Pancake House",
+            "href": "https://carolina-pancake-house.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://carolina-pancake-house.goto-restaurants.com/"
+        },
+        {
+            "text": "Eagle Lake Family Diner",
+            "href": "https://eagle-lake-family-diner.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://eagle-lake-family-diner.goto-restaurants.com/"
+        },
+        {
+            "text": "Airway Billiards Bar & Grill",
+            "href": "https://airway-billiards-bar-grill.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://airway-billiards-bar-grill.goto-restaurants.com/"
+        },
+        {
+            "text": "Los Parrilleros",
+            "href": "https://los-parrilleros.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://los-parrilleros.goto-restaurants.com/"
+        },
+        {
+            "text": "Las Margaritas",
+            "href": "https://las-margaritas.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://las-margaritas.goto-restaurants.com/"
+        },
+        {
+            "text": "El Tapatio Mexican Restaurant",
+            "href": "https://el-tapatio-mexican-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://el-tapatio-mexican-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "La Botana Mexican Restaurant",
+            "href": "https://la-botana-mexican-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://la-botana-mexican-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "Narunya's Belton",
+            "href": "https://narunyas.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://narunyas.goto-restaurants.com/"
+        },
+        {
+            "text": "The Sushi By Jin",
+            "href": "https://the-sushi-by-jin.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://the-sushi-by-jin.goto-restaurants.com/"
+        },
+        {
+            "text": "Carmen's La Hacienda",
+            "href": "https://carmens-la-hacienda.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://carmens-la-hacienda.goto-restaurants.com/"
+        },
+        {
+            "text": "Bonnie Cafe",
+            "href": "https://bonnie-cafe.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://bonnie-cafe.goto-restaurants.com/"
+        },
+        {
+            "text": "Sunrise II Family Restaurant",
+            "href": "https://sunrise-ii-family-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://sunrise-ii-family-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "Mi Pueblito Mexican Restaurant",
+            "href": "https://mi-pueblito-mexican-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://mi-pueblito-mexican-restaurant.goto-restaurants.com/"
+        },
+        {
+            "text": "Durango Mexican Grill",
+            "href": "https://durango-mexican-grill.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://durango-mexican-grill.goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://goto-restaurants.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.facebook.com/goto.restaurants"
+        },
+        {
+            "text": "",
+            "href": "https://www.instagram.com/goto_restaurants/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/goto_restaurant"
+        },
+        {
+            "text": "",
+            "href": "https://www.youtube.com/@goto.restaurants"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/company/goto-restaurants/"
+        },
+        {
+            "text": "",
+            "href": "https://www.pinterest.com/gotorestaurants/"
+        }
+    ],
+    "text_length": 2958,
+    "text_full": "Home\nAbout Us\nTerms of Use\nPrivacy Policy\nGo to Restaurants You Love, Anytime\nDiscover more\nrestaurants\nMexican Cuisine\nNorth American Cuisine\nWhat are the best restaurants near me?\n\nFind the best restaurants near you with top service.Visit goto-restaurants.com for trusted recommendations and tips.\n\nEnter The Location You Are Searching For\nWe Suggest The Top-Rated Restaurants That Are Closest To You\nView Reviews, Make Your Choice, And \"GOTO Restaurants\"\nDiscover more\nThai Cuisine\nrestaurant\nRestaurants\nLocations\nHouston\n361 places\nLos Angeles\n331 places\nNew York\n319 places\nChicago\n312 places\nCompilation of Categories\nMexican restaurant in Chicago\nRestaurant in Rome\nRestaurant in Paris\nMexican restaurant in San Antonio\nMexican restaurant in Houston\nRestaurant in Atlanta\nRestaurant in Madrid\nMexican restaurant in Los Angeles\nRestaurant in Dallas\nFrench restaurant in Paris\nKorean restaurant in Los Angeles\nRestaurant in Miami\nRestaurant in Barcelona\nVietnamese restaurant in Houston\nMexican restaurant in Dallas\nMexican restaurant in El Paso\nRestaurant in Houston\nRestaurant in Los Angeles\nItalian restaurant in New York\nRestaurant in Lisbon\nMexican restaurant in Phoenix\nSeafood restaurant in Houston\nRestaurant in Chicago\nRestaurant in Milan\nRestaurant in Columbia\nRestaurant in São Paulo\nMexican restaurant in San Diego\nVietnamese restaurant in San Jose\nRestaurant in New York\nRestaurant in Detroit\nRestaurant in Austin\nMexican restaurant in San Jose\nDiscover more\nJapanese Cuisine\nRestaurant\nBars, Clubs & Nightlife\nBrand News\nSmith Good Eats\n204 S Park Dr, Broken Bow, OK 74728, United States\nSip N Chat Cocktail Lounge\n2910 Avenue D, Brooklyn, NY 11226, United States\nCarolina Pancake House\n2800 N Kings Hwy, Myrtle Beach, SC 29577, United States\nEagle Lake Family Diner\n185 5th St, Eagle Lake, FL 33839, United States\nAirway Billiards Bar & Grill\n2611 Needmore Rd, Dayton, OH 45414, United States\nLos Parrilleros\n200 Riverwind E Dr, Pearl, MS 39208, United States\nLas Margaritas\n1603 Dinah Shore Blvd, Winchester, TN 37398, United States\nEl Tapatio Mexican Restaurant\n229 W Marine Dr, Astoria, OR 97103, United States\nLa Botana Mexican Restaurant\n5947 John R Rd, Troy, MI 48085, United States\nNarunya's Belton\n316 E Central Ave, Belton, TX 76513, United States\nThe Sushi By Jin\n6010 Laurel Canyon Blvd, Valley Glen, CA 91606, United States\nCarmen's La Hacienda\n1401 Grant Ave, Novato, CA 94945, United States\nBonnie Cafe\n3734 Osage Beach Pkwy, Osage Beach, MO 65065, United States\nSunrise II Family Restaurant\n101 W 2nd St, Byron, IL 61010, United States\nMi Pueblito Mexican Restaurant\n1512 E Race Ave, Searcy, AR 72143, United States\nDurango Mexican Grill\n1706 Frederick Rd, Opelika, AL 36801, United States\nDiscover more\nRestaurant Reviews & Reservations\nBreakfast Foods\nEast Asian Cuisine\nFollow Us\nContact Us\nEmail : goto.restaurants.us@gmail.com\nAddress : 229 East 9th Street, New York, NY 10003, USA\nCopyright 2026 All rights reserved."
+}

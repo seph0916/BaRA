@@ -1,0 +1,324 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-light.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=089d09358d8f5a3e3815861a7419a616",
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-dark.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=2946b82b1620bb2c7839f85d7e2e113b",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=a197c25f-1103-40e2-93af-41a1a196c380&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=3c7f0ae2-b5f8-4cd4-8f94-076ef488d2a5&pt=BYOK%20Encryption%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fcloud%2Fencryption&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779343402725.199969880997358199&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=a197c25f-1103-40e2-93af-41a1a196c380&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=3c7f0ae2-b5f8-4cd4-8f94-076ef488d2a5&pt=BYOK%20Encryption%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fcloud%2Fencryption&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779343402725.199969880997358199&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 77,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://docs.turso.tech/cloud/encryption#content-area"
+        },
+        {
+            "text": "Turso home page",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://turso.tech/app"
+        },
+        {
+            "text": "tursodatabase/turso18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "tursodatabase/turso\n18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Turso Database (beta)",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Turso Cloud",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "AgentFS (beta)",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Turso Homepage",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/quickstart"
+        },
+        {
+            "text": "Local Development",
+            "href": "https://docs.turso.tech/local-development"
+        },
+        {
+            "text": "libSQL",
+            "href": "https://docs.turso.tech/libsql"
+        },
+        {
+            "text": "Limitations",
+            "href": "https://docs.turso.tech/cloud/limitations"
+        },
+        {
+            "text": "Migrate to Turso",
+            "href": "https://docs.turso.tech/cloud/migrate-to-turso"
+        },
+        {
+            "text": "Durability Guarantees",
+            "href": "https://docs.turso.tech/cloud/durability"
+        },
+        {
+            "text": "Private Endpoints",
+            "href": "https://docs.turso.tech/cloud/private-endpoints"
+        },
+        {
+            "text": "BYOK Encryption",
+            "href": "https://docs.turso.tech/cloud/encryption"
+        },
+        {
+            "text": "Usage & Billing",
+            "href": "https://docs.turso.tech/help/usage-and-billing"
+        },
+        {
+            "text": "AI & Embeddings",
+            "href": "https://docs.turso.tech/features/ai-and-embeddings"
+        },
+        {
+            "text": "Branching",
+            "href": "https://docs.turso.tech/features/branching"
+        },
+        {
+            "text": "Point-in-Time Recovery",
+            "href": "https://docs.turso.tech/features/point-in-time-recovery"
+        },
+        {
+            "text": "SQLite Extensions",
+            "href": "https://docs.turso.tech/features/sqlite-extensions"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/sdk/introduction"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://docs.turso.tech/sdk/authentication"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/cli/introduction"
+        },
+        {
+            "text": "Installation",
+            "href": "https://docs.turso.tech/cli/installation"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://docs.turso.tech/cli/authentication"
+        },
+        {
+            "text": "Upgrading",
+            "href": "https://docs.turso.tech/cli/upgrading"
+        },
+        {
+            "text": "Help",
+            "href": "https://docs.turso.tech/cli/help"
+        },
+        {
+            "text": "Headless Mode",
+            "href": "https://docs.turso.tech/cli/headless-mode"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/api-reference/introduction"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/api-reference/quickstart"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://docs.turso.tech/api-reference/authentication"
+        },
+        {
+            "text": "Errors",
+            "href": "https://docs.turso.tech/api-reference/response-codes"
+        },
+        {
+            "text": "Vercel",
+            "href": "https://docs.turso.tech/integrations/vercel"
+        },
+        {
+            "text": "What’s Encrypted",
+            "href": "https://docs.turso.tech/cloud/encryption#what%E2%80%99s-encrypted"
+        },
+        {
+            "text": "Generate an Encryption Key",
+            "href": "https://docs.turso.tech/cloud/encryption#generate-an-encryption-key"
+        },
+        {
+            "text": "Create an Encrypted Database",
+            "href": "https://docs.turso.tech/cloud/encryption#create-an-encrypted-database"
+        },
+        {
+            "text": "Upload Existing Database",
+            "href": "https://docs.turso.tech/cloud/encryption#upload-existing-database"
+        },
+        {
+            "text": "Branching and Point-in-Time Recovery (PITR)",
+            "href": "https://docs.turso.tech/cloud/encryption#branching-and-point-in-time-recovery-pitr"
+        },
+        {
+            "text": "Rekeying",
+            "href": "https://docs.turso.tech/cloud/encryption#rekeying"
+        },
+        {
+            "text": "Supported Ciphers",
+            "href": "https://docs.turso.tech/cloud/encryption#supported-ciphers"
+        },
+        {
+            "text": "AES-GCM",
+            "href": "https://docs.turso.tech/cloud/encryption#aes-gcm"
+        },
+        {
+            "text": "ChaCha20-Poly1305",
+            "href": "https://docs.turso.tech/cloud/encryption#chacha20-poly1305"
+        },
+        {
+            "text": "AEGIS",
+            "href": "https://docs.turso.tech/cloud/encryption#aegis"
+        },
+        {
+            "text": "Future Work",
+            "href": "https://docs.turso.tech/cloud/encryption#future-work"
+        },
+        {
+            "text": "https://docs.turso.tech/llms.txt",
+            "href": "https://docs.turso.tech/llms.txt"
+        },
+        {
+            "text": "our trust center",
+            "href": "https://trust.turso.tech/"
+        },
+        {
+            "text": "Enterprise",
+            "href": "https://tur.so/turso-enterprise-chat"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#what%E2%80%99s-encrypted"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#generate-an-encryption-key"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#create-an-encrypted-database"
+        },
+        {
+            "text": "",
+            "href": "https://docs.turso.tech/cloud/encryption#"
+        },
+        {
+            "text": "",
+            "href": "https://docs.turso.tech/cloud/encryption#"
+        },
+        {
+            "text": "",
+            "href": "https://docs.turso.tech/cloud/encryption#"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#upload-existing-database"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#branching-and-point-in-time-recovery-pitr"
+        },
+        {
+            "text": "branching",
+            "href": "https://docs.turso.tech/features/branching"
+        },
+        {
+            "text": "point-in-time recovery (PITR)",
+            "href": "https://docs.turso.tech/features/point-in-time-recovery"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#rekeying"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#supported-ciphers"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#aes-gcm"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#chacha20-poly1305"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#aegis"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/cloud/encryption#future-work"
+        },
+        {
+            "text": "Suggest edits",
+            "href": "https://github.com/tursodatabase/turso-docs/edit/main/cloud/encryption.mdx"
+        },
+        {
+            "text": "Raise issue",
+            "href": "https://github.com/tursodatabase/turso-docs/issues/new?title=Issue%20on%20docs&body=Path:%20/cloud/encryption"
+        },
+        {
+            "text": "Private Endpoints",
+            "href": "https://docs.turso.tech/cloud/private-endpoints"
+        },
+        {
+            "text": "Usage & Billing",
+            "href": "https://docs.turso.tech/help/usage-and-billing"
+        },
+        {
+            "text": "discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "github",
+            "href": "https://github.com/tursodatabase"
+        },
+        {
+            "text": "twitter",
+            "href": "https://twitter.com/tursodatabase"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "Powered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform",
+            "href": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=turso"
+        }
+    ],
+    "text_length": 7357,
+    "text_full": "Skip to main content\nTurso home page\nSearch...\nCtrl K\nDashboard\ntursodatabase/turso\n18,893\nTurso Database (beta)\nTurso Cloud\nAgentFS (beta)\nTurso Homepage\nDiscord\nGitHub\nTurso Cloud\nIntroduction\nQuickstart\nLocal Development\nlibSQL\nLimitations\nMigrate to Turso\nDurability Guarantees\nPrivate Endpoints\nBYOK Encryption\nUsage & Billing\nAI & Embeddings\nEmbedded Replicas\nBranching\nPoint-in-Time Recovery\nSQLite Extensions\nDeprecated\nSDKs\nIntroduction\nAuthentication\nAuthorization\nSQL over HTTP\nOfficial SDKs\nCommunity SDKs\nCLI\nIntroduction\nInstallation\nAuthentication\nUpgrading\nHelp\nHeadless Mode\nCommands\nAPI Reference\nIntroduction\nQuickstart\nAuthentication\nErrors\nResources\nIntegrations\nVercel\nOn this page\nWhat’s Encrypted\nGenerate an Encryption Key\nCreate an Encrypted Database\nUpload Existing Database\nBranching and Point-in-Time Recovery (PITR)\nRekeying\nSupported Ciphers\nAES-GCM\nChaCha20-Poly1305\nAEGIS\nFuture Work\nTurso Cloud\nBYOK Encryption\nCopy page\nDocumentation Index\n\nFetch the complete documentation index at: https://docs.turso.tech/llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nAll databases are encrypted-at-rest at the volume level in the Turso Cloud, as part of our SOC2 standards. See our trust center for details.\nFor Pro, and Enterprise customers, there is the option to encrypt the databases with a key that you provide (Bring-Your-Own-Key Encryption, or BYOK), as described below.\nBYOK Encryption happens at the server level, making sure that nobody has access to your data at any time. In fact, because it is possible to encrypt different databases with different keys, it is possible for you to use different keys for different customers’ databases. If the keys themselves are provided by your customers, BYOK Encryption offers your customers the guarantee that not even you can have access to their data.\nTurso Cloud BYOK encryption for data at rest uses industry-standard AEAD algorithms. Each database page is encrypted individually, ensuring data integrity and security across all environments. BYOK encryption is available on Pro, and Enterprise plans.\nYou hold the keys. Each database can be encrypted with its own unique key that only you control. Turso never sees or stores your encryption keys. Encryption works seamlessly with both remote queries and sync.\nPage-level encryption: Each 4 KiB page is encrypted individually with a unique nonce\nAEAD algorithms: Support for AEGIS-256, AES-GCM, and ChaCha20Poly1305\nData integrity: Built-in authentication tags prevent tampering and corruption\nIn-memory keys: Encryption keys are never stored on disk\nTurso Cloud with BYOK encryption is perfect for:\nAI Agents\nManage a fleet of trusted agents that deal with personal private data\nFintech Applications\nMeet regulatory requirements for sensitive financial data\nPrivacy-Focused Products\nBuild user trust with strong data protection\nHealthcare Apps\nProtect patient data and meet HIPAA compliance\nAI/ML Applications\nSecure training data and model outputs\n​\nWhat’s Encrypted\nEncrypted\nThe database file and Write-Ahead Log (WAL) file on disk and on S3.\n​\nGenerate an Encryption Key\nGenerate a secure encryption key in base64 format. The key size depends on the cipher you choose:\n256-bit (32 bytes)\n128-bit (16 bytes)\nFor AEGIS-256 variants and AES-256-GCM:\nopenssl rand -base64 32\n\nOutput example:\nYUfkdsD2SJe4KzTB8n6CjwCgs1YIW6k1xxMEguRuI5s=\n\nStore your key securely! If you lose the encryption key, you will not be able to access your encrypted database. Keys are never stored anywhere in the Turso Cloud.\n​\nCreate an Encrypted Database\n1\n\nLaunch with encryption\n\nUse the --remote-encryption-key, --remote-encryption-cipher flags and specify your cipher and key in database creation command:\nturso db create my-secret-db --remote-encryption-key \"YOUR_SECRET_KEY\" --remote-encryption-cipher aegis128l\n\nReplace YOUR_SECRET_KEY with the key you generated above. You can also set the TURSO_DB_REMOTE_ENCRYPTION_KEY environment variable instead of passing the flag each time.\n2\n\nCreate and insert data\n\nUse --remote-encryption-key flag to start the shell, create a table and insert some data:\nturso db shell my-secret-db --remote-encryption-key \"YOUR_SECRET_KEY\"\n\nCREATE TABLE secrets (id INT, data TEXT);\nINSERT INTO secrets VALUES (1, 'sensitive information');\nINSERT INTO secrets VALUES (2, 'confidential data');\n\n3\n\nVerify encryption\n\nExit the shell (type .quit) and try to open the database without the key:\nturso db shell my-secret-db\n\nYou won’t be able to access the data. The database is encrypted in the cloud.\n​\nUpload Existing Database\nTo upload an existing encrypted database, provide the cipher and key flags during creation:\nturso db create my-secret-db --remote-encryption-key \"YOUR_SECRET_KEY\" --remote-encryption-cipher aegis128l --from-file my-db.db\n\n​\nBranching and Point-in-Time Recovery (PITR)\nEncrypted databases support branching, and point-in-time recovery (PITR). The new branch will use the same cipher algorithm and the same encryption key. During creation you need to specify the same encryption key that was used for the parent database:\nturso db create my-secret-db-fork --remote-encryption-key \"YOUR_SECRET_KEY\" --from-db my-secret-db\n\n​\nRekeying\nRekeying is not supported yet. However, you can export the database and create a new one with a different cipher and key:\nturso db export my-secret-db --remote-encryption-key \"YOUR_SECRET_KEY\"\nturso db create my-new-secret-db --remote-encryption-key \"YOUR_NEW_SECRET_KEY\" --remote-encryption-cipher aegis256 --from-file my-secret-db.db\n\n​\nSupported Ciphers\nTurso Cloud supports multiple variants of three AEAD encryption algorithms, offering different trade-offs between performance and compatibility.\n​\nAES-GCM\nNIST-approved standard for compliance requirements. Widely supported across industries.\nCipher\tKey Size\tCipher Code\tUse Case\nAES-128-GCM\t128-bit (16 bytes)\taes128gcm\tCompliance with 128-bit requirements\nAES-256-GCM\t256-bit (32 bytes)\taes256gcm\tMaximum security for compliance\n​\nChaCha20-Poly1305\nCipher\tKey Size\tCipher Code\tUse Case\nChaCha20-Poly1305\t256-bit (32 bytes)\tchacha20poly1305\tAlternative for AES\n​\nAEGIS\nModern, high-performance cipher family optimized for speed. Recommended for most use cases.\nCipher\tKey Size\tCipher Code\tUse Case\nAEGIS-128L\t128-bit (16 bytes)\taegis128l\tBalanced performance, 128-bit security\nAEGIS-128X2\t128-bit (16 bytes)\taegis128x2\t2x parallel processing\nAEGIS-128X4\t128-bit (16 bytes)\taegis128x4\t4x parallel processing, maximum speed\nAEGIS-256\t256-bit (32 bytes)\taegis256\tBalanced 256-bit security\nAEGIS-256X2\t256-bit (32 bytes)\taegis256x2\t2x parallel processing, 256-bit\nAEGIS-256X4\t256-bit (32 bytes)\taegis256x4\t4x parallel, maximum speed & security\nChoosing a cipher:\nUse aegis128l for 128 bit encryption, aegis256 for 256 bit encryption (default recommendation)\nFor AES, use aes128gcm for 128 bit encryption, aes256gcm or chacha20poly1305 for 256 bit encryption\n​\nFuture Work\nFuture encryption features in development:\nEncrypt existing databases: Migrate unencrypted databases to encrypted format\nKey rotation: Update encryption keys without data loss\n\nWas this page helpful?\n\nYes\nNo\nSuggest edits\nRaise issue\nPrivate Endpoints\nUsage & Billing\ndiscord\ngithub\ntwitter\nlinkedin\nPowered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform"
+}

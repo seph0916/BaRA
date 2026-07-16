@@ -1,0 +1,337 @@
+{
+    "image_count": 9,
+    "images": [
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/queueing-low-util_hu8394249714611294138.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/queueing-high-util_hu1166787253914177509.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/yaml-pod-config_hu9752649466031630650.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/cfs-period-empty_hu15855033549686571872.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/cfs-period-burst_hu3186739711212895078.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/cfs-period-throttled_hu11748145101124206193.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/cfs-pattern-bursts_hu4089252117337785848.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/indeed-cpu-usage.png",
+        "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/indeed-throttled-percentage.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 79,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#main"
+        },
+        {
+            "text": "Jeremy Theocharis",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Homepage",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Beliefs",
+            "href": "https://www.theocharis.dev/beliefs"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.theocharis.dev/blog"
+        },
+        {
+            "text": "Talks",
+            "href": "https://www.theocharis.dev/talks"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.theocharis.dev/tools"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.theocharis.dev/#contact"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "Cloud Native Aachen Meetup, April 2026",
+            "href": "https://community.cncf.io/events/details/cncf-cloud-native-aachen-presents-cloud-native-aachen-meetup-april-2026/"
+        },
+        {
+            "text": "1",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:1"
+        },
+        {
+            "text": "2",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:2"
+        },
+        {
+            "text": "3",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:3"
+        },
+        {
+            "text": "3",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:3"
+        },
+        {
+            "text": "4",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:4"
+        },
+        {
+            "text": "5",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:5"
+        },
+        {
+            "text": "1",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:1"
+        },
+        {
+            "text": "6",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:6"
+        },
+        {
+            "text": "Dave Chiluk, Indeed Engineering (2019)",
+            "href": "https://engineering.indeedblog.com/blog/2019/12/unthrottled-fixing-cpu-limits-in-the-cloud/"
+        },
+        {
+            "text": "Dave Chiluk, Indeed Engineering (2019)",
+            "href": "https://engineering.indeedblog.com/blog/2019/12/unthrottled-fixing-cpu-limits-in-the-cloud/"
+        },
+        {
+            "text": "7",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:7"
+        },
+        {
+            "text": "8",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:8"
+        },
+        {
+            "text": "9",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:9"
+        },
+        {
+            "text": "10",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:10"
+        },
+        {
+            "text": "11",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:11"
+        },
+        {
+            "text": "12",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:12"
+        },
+        {
+            "text": "13",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:13"
+        },
+        {
+            "text": "9",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:9"
+        },
+        {
+            "text": "4",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fn:4"
+        },
+        {
+            "text": "Finite State Machine for Go",
+            "href": "https://github.com/looplab/fsm"
+        },
+        {
+            "text": "issue #115",
+            "href": "https://github.com/looplab/fsm/issues/115"
+        },
+        {
+            "text": "issue #90",
+            "href": "https://github.com/looplab/fsm/issues/90"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:1"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref1:1"
+        },
+        {
+            "text": "The most important thing to understand about queues",
+            "href": "https://blog.danslimmon.com/2016/08/26/the-most-important-thing-to-understand-about-queues/"
+        },
+        {
+            "text": "Utilization Is Virtually Useless as a Metric!",
+            "href": "https://www.cmg.org/wp-content/uploads/2015/10/2-Utilization-is-virtually-useless-as-a-metric-61331.pdf"
+        },
+        {
+            "text": "The USE method",
+            "href": "https://brendangregg.com/usemethod.html"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:2"
+        },
+        {
+            "text": "CS 547 Lecture 12: The M/M/1 Queue",
+            "href": "https://pages.cs.wisc.edu/~dsmyers/cs547/lecture_12_mm1_queue.pdf"
+        },
+        {
+            "text": "Latency Sneaks Up On You",
+            "href": "https://brooker.co.za/blog/2021/08/05/utilization.html"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:3"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref1:3"
+        },
+        {
+            "text": "SP 800-190: Application Container Security Guide",
+            "href": "https://csrc.nist.gov/pubs/sp/800/190/final"
+        },
+        {
+            "text": "IT-Grundschutz SYS.1.6 Containerisierung",
+            "href": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium_Einzel_PDFs_2023/07_SYS_IT_Systeme/SYS_1_6_Containerisierung_Edition_2023.pdf"
+        },
+        {
+            "text": "Docker Benchmark v1.6.0",
+            "href": "https://www.cisecurity.org/benchmark/docker"
+        },
+        {
+            "text": "Kubernetes Hardening Guide v1.2",
+            "href": "https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF"
+        },
+        {
+            "text": "62443-3-3 / 4-2: Security for industrial automation and control systems",
+            "href": "https://webstore.iec.ch/preview/info_iec62443-3-3%7Bed1.0%7Db.pdf"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:4"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref1:4"
+        },
+        {
+            "text": "CFS Bandwidth Control",
+            "href": "https://docs.kernel.org/scheduler/sched-bwc.html"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:5"
+        },
+        {
+            "text": "Unthrottled: Fixing CPU Limits in the Cloud",
+            "href": "https://engineering.indeedblog.com/blog/2019/12/unthrottled-fixing-cpu-limits-in-the-cloud/"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:6"
+        },
+        {
+            "text": "Control Group v2: CPU Interface Files",
+            "href": "https://docs.kernel.org/admin-guide/cgroup-v2.html#cpu-interface-files"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:7"
+        },
+        {
+            "text": "PR #453",
+            "href": "https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/453"
+        },
+        {
+            "text": "issue #108",
+            "href": "https://github.com/kubernetes-monitoring/kubernetes-mixin/issues/108"
+        },
+        {
+            "text": "Bugzilla 1843346",
+            "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1843346"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:8"
+        },
+        {
+            "text": "PSI: Pressure Stall Information",
+            "href": "https://www.kernel.org/doc/html/latest/accounting/psi.html"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:9"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref1:9"
+        },
+        {
+            "text": "top(1): Linux User’s Manual",
+            "href": "https://man7.org/linux/man-pages/man1/top.1.html"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:10"
+        },
+        {
+            "text": "reactor.cc",
+            "href": "https://github.com/scylladb/seastar/blob/master/src/core/reactor.cc"
+        },
+        {
+            "text": "redpanda#5996",
+            "href": "https://github.com/redpanda-data/redpanda/pull/5996"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:11"
+        },
+        {
+            "text": "Rubbing control theory on the Go scheduler",
+            "href": "https://www.cockroachlabs.com/blog/rubbing-control-theory/"
+        },
+        {
+            "text": "golang/go#41554",
+            "href": "https://github.com/golang/go/issues/41554"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:12"
+        },
+        {
+            "text": "Go 1.25 Release Notes",
+            "href": "https://go.dev/doc/go1.25"
+        },
+        {
+            "text": "Container-aware GOMAXPROCS",
+            "href": "https://go.dev/blog/container-aware-gomaxprocs"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/#fnref:13"
+        },
+        {
+            "text": "Data security",
+            "href": "https://www.theocharis.dev/data-security/"
+        },
+        {
+            "text": "Imprint",
+            "href": "https://www.theocharis.dev/imprint/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "I'm hiring product engineers in Germany.",
+            "href": "https://jobs.umh.app/"
+        }
+    ],
+    "text_length": 15487,
+    "text_full": "Skip to main content\n\nJeremy Theocharis\n\nBoring is Awesome | Co-Founder & CTO at UMH\n\nHomepage\nBeliefs\nBlog\nTalks\nTools\nContact\nGitHub\nLinkedIn\nWhy we should get rid of average CPU utilization\n\n2026-05-14 · Based on a talk at Cloud Native Aachen Meetup, April 2026\n\nA Go function in our application kept getting cancelled in production.\n\nThe function had a tight timeout. The same code ran fine in our development setups, in our CI and CD pipelines, in every integration test we had. In production it would sometimes blow past the timeout and die with context deadline exceeded.\n\nWhat made it worse was the state machine library1 we used. When its context got cancelled, it wouldn’t recover on its own. It would crash and hang. We couldn’t reproduce it.\n\nWhen we talked to users, they reported the CPU utilization looked fine.\n\nIt took us weeks to find the cause.\n\nWhy average CPU isn’t enough\n\nOne of the first things you learn when you work with computers is: when it gets slow, you open the task manager (or the equivalent) and check the CPU. If it’s high, you look at what the process is, and you stop it or you work on it, and you continue.\n\nOn Linux servers you have top, htop, whatever, with a lot of other numbers on the screen. At least for me, when I was working with it, I always just looked at the average CPU. Then when you continue with your career, you provision VMs. Maybe on VMware or Hyper-V on-prem. Maybe on AWS, Azure, or Hetzner. You pick a number of vCPUs. If you look closer, it says something like “performance” or “dedicated” as a more expensive option. But at least I myself never really asked why. It was just cheaper without.\n\nThe instinct, taught to you by every tool, by every vendor, by every dashboard, fails here.\n\nEvery tool shows you average CPU utilization, but none of the tools help you interpret it. None of them tell you that CPU utilization isn’t linear to how much capacity you have. They just show you a percentage. The jump from 80% to 81% CPU utilization adds roughly 20× more wait time than the jump from 10% to 11%2. So even with 20% “headroom” at 80% utilization, latencies have already started climbing3:\n\nCPU utilization\tWait for a 10 ms request\n10%\t~11 ms\n80%\t~50 ms\n95%\t~200 ms\n\nM/M/1 queueing model baseline.3\n\nLow utilization: a new request waits about one slot for the current job to finish.\n\nHigher utilization: the same request waits three slots. Reality is more complex of course (random arrivals, variable service times). The M/M/1 model captures the details.\n\nAverage CPU is the right metric for one question: are our CPUs utilized? That’s a cost question, and the IT department is right to ask it.\n\nIt only works if your workloads can wait. For latency-sensitive ones, higher utilization just means longer waits.\n\nBut in our case, our CPU utilization wasn’t even high. What we hit was a Linux kernel feature that Docker and Kubernetes use to enforce per-container limits, called the cgroup, and one of its byproducts: throttling.\n\nThere was a resource limit on the container, set to 2000m. We read it as “two CPUs.” The kernel read it as a time budget. When the budget runs out, the container is throttled until the next period begins.\n\nNone of the tools we or our customer had in front of us would show this. And that’s why it took us weeks to find the reason for the context deadline exceeded. Every graph said everything was fine. Every user said everything was fine.\n\nIt was extremely surprising.\n\nHow CFS throttling actually works\n\nLet’s assume you’re running a service in a container that processes HTTP messages, and you’ve set resource limits because that’s what every guide recommends4.\n\nGuaranteed QoS pod config: requests = limits = 2000m\n\nkubectl top pod shows 800 millicores. Your Horizontal Pod Autoscaler (HPA) is configured to scale up at 80% utilization. 800m of a 2000m limit is 40 percent, far from the 80 percent target. Everything looks fine. Right?\n\nNo, let’s look closer. There are three numbers that determine what happens here:\n\nYour resource limit: 2000m\nThe kernel’s CFS scheduling period: 100 ms by default.5\nThe host CPUs: 4 cores.\n\nA 100 ms CFS scheduling period. With a 2000m limit, the container gets 200 ms of CPU time per period.\n\nNow, why does it matter how many CPU cores the host has? Because this is where the abstraction leaks. The container can spend that 200 ms across every CPU core available on the node.\n\nNow imagine an HTTP service. A request could come in that is resource intensive and could burst the entire available budget across all 4 cores within 50 ms.\n\nA 50 ms burst across 4 cores exhausts the 200 ms budget.\n\nWhen a second request arrives, it is throttled and has to wait 50 ms more until the next scheduling period.\n\nThe next 50 ms of wall clock are throttled.\n\nNow imagine this repeats. If your load pattern is burst, idle, idle, idle, burst, your p99 latency can go through the roof. Yet every CPU graph still says everything is fine.\n\nAlternating burst-idle-idle-idle-burst pattern: average CPU looks healthy while p99 climbs.\n\nThis is what was happening to our Go function. The function ran with a tight timeout and needed to execute within that time frame. Sometimes a different goroutine had already burst through the available budget of that period. The function would starve and die with context deadline exceeded. What made it worse: one of the underlying libraries we used1 would land in a deadlock state if you cancelled the context. But every CPU graph still looked fine.\n\nThis isn’t unique to us. Indeed Engineering published the same pattern from production in 2019:6 one application, 4.1 CPUs allocated, usage well below one core, and yet most 100 ms periods throttled.\n\nCPU usage stays well below the 4.1 cores allocated. Dave Chiluk, Indeed Engineering (2019)\n\nSame workload: most 100 ms periods are throttled. Dave Chiluk, Indeed Engineering (2019)\n\nHow to spot it and react to it\n\nWe spent weeks looking in the wrong places. The metric we needed had been there all along, in /sys/fs/cgroup/cpu.stat7. The kernel writes nr_throttled (the count of throttle events) and throttled_usec (the total microseconds frozen) for every container with a CPU limit set. Run kubectl exec <pod> -- cat /sys/fs/cgroup/cpu.stat. The output looks like this:\n\nusage_usec 49823715\nuser_usec 41205893\nsystem_usec 8617822\nnr_periods 300\nnr_throttled 30\nthrottled_usec 6142188\nnr_bursts 0\nburst_usec 0\n\n\nIf those counters are climbing, there’s your answer.\n\nUntil the ecosystem catches up, you need to check this yourself. Kube-prometheus ships a CPUThrottlingHigh alert, but most installations have it disabled because it fires too often.8 For containers on dedicated cores, cat /sys/fs/cgroup/cpu.stat is your check. The same directory also exposes cpu.pressure9: a kernel PSI signal that catches saturation even when you’re under quota. For vCPUs in a hypervisor, the cgroup file doesn’t show hypervisor-level throttling. You see that as steal time (%st in top)10. Steal time is what happens when your VM’s hypervisor gives your vCPU’s slot to another tenant: your code is ready to run, but the physical CPU is busy with someone else’s.\n\nThat’s the immediate workaround. The longer-term answer is application-side starvation detection. The application asks if a millisecond is still a millisecond. If not, it has been starved of CPU. The cause could be CFS throttling, hypervisor steal time on a virtual CPU, a sibling process inside the same container bursting the shared budget away, or anything else above the application. The application alerts that something is wrong. Ideally it also reacts, for example by descheduling background maintenance work to free CPU for foreground requests.\n\nRedpanda’s reactor calls this a “reactor stall”11, their term for the same starvation. CockroachDB built a feedback controller around Go’s /sched/latencies:seconds histogram, which measures how long goroutines wait between becoming runnable and actually running, treating p99 latency above 1 ms as the trigger to shed background work.12\n\nGo 1.25 made GOMAXPROCS cgroup-aware by default13. This stops a Go application from using more threads than the cgroup allows, reducing the chance of starvation. It doesn’t help when sibling processes in the same container burn the shared budget. Application-side detection remains the universal answer.\n\nSummary\n\nTo recap: when you set a resource limit on a Docker container, you don’t limit the number of CPUs it has access to. Instead, you give it a time budget per 100 ms scheduling period. For example, a resource-intensive HTTP request can burst through all node cores at once. And if you’re unlucky, the average CPU graph won’t see it.\n\nWhat to watch instead:\n\ncgroup throttling (nr_throttled and throttled_usec in cpu.stat)\nkernel PSI (cpu.pressure) for cgroup-native saturation9\nhypervisor steal time (%st in top)\napplication-level starvation signals (in Go, /sched/latencies:seconds)\n\nUse these together to see what the average CPU graph hides.\n\nNow imagine running an application inside a larger organization, like a traditional enterprise. Say, a large manufacturer with an IT department, partly outsourced, responsible for setting up VMs and cloud resources. You ask for more CPUs because the application isn’t working properly, or for the resource limit to be removed because it’s causing issues. They point at the 40% CPU graph and ask why you need more. They also point at the recommended guides4 for auditors and compliance, which require setting resource limits.\n\nThis is why we should get rid of average CPU utilization. Not the limits. Those stay because auditors require them. But we can make working with them easier by exposing more than the average CPU graph. Maybe one signal that says “this container needs more CPU.” The CPU isn’t a production machine you’re optimizing for high utilization. It’s a resource you use to keep your application running smoothly.\n\nIf you find yourself in this conversation, send them this article.\n\nlooplab. Finite State Machine for Go. v1.0.3, Apache-2.0. When fsm.Event(ctx, …) is cancelled mid-transition, transitionFunc (fsm.go lines 347–354) returns early without resetting f.transition to nil. The FSM is then permanently stuck: every subsequent event returns event X inappropriate because previous transition did not complete. See issue #115 (August 2025, no maintainer response) and the older issue #90. UMH’s FSMv2 rewrite removes this dependency. ↩︎ ↩︎\n\nDan Slimmon. 2016. The most important thing to understand about queues. M/M/1 is a teaching model, not a model of CFS specifically. The 20× figure derives from M/M/1’s marginal slope dL/dρ = 1/(1−ρ)²: 25.0 at ρ=0.80 vs 1.23 at ρ=0.10. Related: Adrian Cockcroft. 2006. Utilization Is Virtually Useless as a Metric! (CMG) presents the canonical utilization-is-insufficient argument. Brendan Gregg. 2012. The USE method introduces the systems-performance vocabulary. ↩︎\n\nDaniel Myers. CS 547 Lecture 12: The M/M/1 Queue. University of Wisconsin–Madison. Numbers computed from the M/M/1 mean response-time formula R = service_time / (1 − utilization): with 10 ms service, ρ=0.10 → 11 ms, ρ=0.80 → 50 ms, ρ=0.95 → 200 ms. Myers: “Extra capacity is the price of low latencies. To achieve low residence times, you must allow the system to occasionally become idle.” Real web services see 2–3× higher numbers due to non-exponential service-time variance: Kingman’s G/G/1 approximation W_q ≈ ρ/(1−ρ) · (C_a² + C_s²)/2 · service recovers M/M/1 when both coefficients of variation are 1, and for typical web workloads C_s² is 2–4. CFS-throttled containers are strictly worse: the throttling pause acts as a “vacation queue”. Related: Marc Brooker. 2021. Latency Sneaks Up On You. AWS. ↩︎ ↩︎\n\nNIST. 2017. SP 800-190: Application Container Security Guide. §2.2 and §4.4.3, mapped to NIST 800-53 SC-6 Resource Availability via Appendix B Table 3. BSI. 2023. IT-Grundschutz SYS.1.6 Containerisierung. A15 Limitierung der Ressourcen pro Container, Standard tier. CIS. 2022. Docker Benchmark v1.6.0. Controls 5.11 (memory) and 5.12 (CPU shares). NSA & CISA. 2022. Kubernetes Hardening Guide v1.2. Recommends setting CPU/memory limits as part of pod-level hardening. IEC. 2013/2019. 62443-3-3 / 4-2: Security for industrial automation and control systems. FR 7 Resource Availability (SR 7.1, SR 7.2, CR 7.2), mechanism-agnostic. Whichever your compliance team reads, the answer is the same: set the limit. ↩︎ ↩︎\n\nLinux Kernel Project. CFS Bandwidth Control. The page documents cgroup v1; the 100 ms default applies identically to cgroup v2’s cpu.max. ↩︎\n\nDave Chiluk. 2019. Unthrottled: Fixing CPU Limits in the Cloud. Indeed Engineering. Chiluk subsequently authored the Linux 5.4 CFS bandwidth-control fix. ↩︎\n\nLinux Kernel Documentation. Control Group v2: CPU Interface Files. Field names and semantics for cpu.stat in the unified hierarchy. ↩︎\n\nThe kube-prometheus CPUThrottlingHigh alert ships with severity info, suppressed by default Alertmanager inhibition rules when other alerts fire in the same namespace. The maintainers downgraded its severity in July 2020 after concluding that “in many cases this alert is not actionable (apart from silencing it)” (PR #453, Krupa et al., merged 1 July 2020). The driving issue #108 (Christopher Beneke, 2018) accumulated 119 thumbs-up reactions and went six years without a fix on the merits before being closed as “not planned” by a stale bot in December 2024. Red Hat removed the alert outright in OpenShift 4.6.0 (Bugzilla 1843346, RHBA-2020:4196, 27 October 2020). ↩︎\n\nLinux Kernel Documentation. PSI: Pressure Stall Information. Added to Linux 4.20 (December 2018) by Johannes Weiner at Facebook. For a cgroup, /sys/fs/cgroup/<container>/cpu.pressure reports the percentage of wall-clock time during which at least one task was runnable but not running, a direct saturation signal at the cgroup boundary. (The file exposes both some and full lines; the description above is some, the actionable line for CPU.) Complements cpu.stat’s nr_throttled (which only fires on active kernel pause): PSI catches saturation from contention with other workloads on the host, not just CFS quota exhaustion. ↩︎ ↩︎\n\nprocps-ng. top(1): Linux User’s Manual. Defines %st as “time stolen from this vm by the hypervisor.” ↩︎\n\nSeastar (the framework Redpanda is built on) emits a stack trace when a reactor task runs without yielding the CPU for longer than blocked_reactor_notify_ms (reactor.cc, default 25 ms). Redpanda raised its runtime default to 200 ms via redpanda#5996. ↩︎\n\nCockroachDB Engineering Blog. Rubbing control theory on the Go scheduler. The Pacer / ElasticHandle controller treats Go’s /sched/latencies:seconds p99 above 1 ms as the trigger to throttle background work (backups, range-feed catchup, compactions); foreground KV/SQL traffic is not affected. CockroachDB also patches the Go runtime for per-goroutine on-CPU time via grunning.Time() (golang/go#41554 pending since 2020). ↩︎\n\nThe Go Authors. 2025. Go 1.25 Release Notes and Container-aware GOMAXPROCS. On Linux, if the cgroup CPU bandwidth limit is lower than the number of logical CPUs available, GOMAXPROCS defaults to the lower limit and updates periodically if limits change. Auto-disabled if GOMAXPROCS is set manually via the env var or runtime.GOMAXPROCS; runtime.SetDefaultGOMAXPROCS re-enables the default. ↩︎\n\n© 2026 Jeremy Theocharis\n\nData security\nImprint\nGitHub\nLinkedIn\n\nI'm hiring product engineers in Germany."
+}

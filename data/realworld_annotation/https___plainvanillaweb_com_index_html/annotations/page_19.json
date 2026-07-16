@@ -1,0 +1,10 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 0,
+    "links": [],
+    "text_length": 1297,
+    "text_full": "body { font-family: system-ui, sans-serif; margin: 1em; }\nbutton { user-select: none; }\n/* based on https://github.com/argyleink/gui-challenges/blob/main/tooltips/tool-tip.css */\nx-tooltip {\n    --color: lightgray;\n    --bg: hsl(0 0% 20%);\n\n    pointer-events: none;\n    user-select: none;\n    /* animate in on hover or focus of parent element */\n    z-index: 1;\n    opacity: 0;\n    transition: opacity .2s ease;\n    transition-delay: 200ms;\n    :is(:hover, :focus-visible, :active) > & {\n        opacity: 1;\n    }\n    /* vertically center and move to the right */\n    position:absolute;\n    top:50%;\n    transform:translateY(-50%);\n    left: calc(100% + 15px);\n    padding: 0.5em;\n    inline-size: max-content;\n    max-inline-size: 25ch;\n    /* color, backdrop and shadow */\n    color: var(--color);\n    filter: \n        drop-shadow(0 3px 3px hsl(0 0% 0% / 50%)) \n        drop-shadow(0 12px 12px hsl(0 0% 0% / 50%));\n    &::after {\n        content: \"\";\n        background: var(--bg);\n        position: absolute;\n        z-index: -1;\n        left: 0;\n        top: 50%;\n        transform:translateY(-50%);\n        width: 100%;\n        height: 100%;\n        border-radius: 5px;\n    }\n    /* fix drop shadow in safari */\n    will-change: filter;\n}\n\nbutton:has(> x-tooltip) {\n    position: relative;\n}"
+}

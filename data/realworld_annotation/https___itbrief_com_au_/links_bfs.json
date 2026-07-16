@@ -1,0 +1,79 @@
+{
+  "start_url": "https://itbrief.com.au/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://itbrief.com.au/",
+    "https://techday.com.au/",
+    "https://itbrief.com.au/tag/artificial-intelligence",
+    "https://itbrief.com.au/tag/digital-transformation",
+    "https://itbrief.com.au/tag/disaster-recovery",
+    "https://itbrief.com.au/tag/hybrid-remote-work",
+    "https://cfotech.com.au/story/convai-probe-cx-launch-ai-recruiter-for-seasonal-hiring",
+    "https://ecommercenews.com.au/story/squiz-launches-content-tool-for-ai-search-visibility",
+    "https://securitybrief.com.au/story/spa-australia-promotes-anthony-ween-to-defence-lead",
+    "https://channellife.com.au/story/veracity-names-bayfield-as-chief-executive-officer"
+  ],
+  "by_depth": {
+    "0": [
+      "https://itbrief.com.au/"
+    ],
+    "1": [
+      "https://techday.com.au/",
+      "https://itbrief.com.au/tag/artificial-intelligence",
+      "https://itbrief.com.au/tag/digital-transformation",
+      "https://itbrief.com.au/tag/disaster-recovery",
+      "https://itbrief.com.au/tag/hybrid-remote-work"
+    ],
+    "2": [
+      "https://cfotech.com.au/story/convai-probe-cx-launch-ai-recruiter-for-seasonal-hiring",
+      "https://ecommercenews.com.au/story/squiz-launches-content-tool-for-ai-search-visibility",
+      "https://securitybrief.com.au/story/spa-australia-promotes-anthony-ween-to-defence-lead",
+      "https://channellife.com.au/story/veracity-names-bayfield-as-chief-executive-officer",
+      "https://futurefive.com.au/story/jackery-launches-portable-power-stations-in-australia",
+      "https://itbrief.com.au/tag/internet-of-things",
+      "https://cfotech.com.au/story/commbank-appoints-first-chief-ai-scientist-in-australia",
+      "https://cfotech.com.au/story/remote-expands-payroll-platform-in-australia-for-ai",
+      "https://channellife.com.au/story/snowflake-wins-irap-approval-in-google-cloud-melbourne",
+      "https://securitybrief.com.au/story/foxit-launches-document-management-system-in-pdf-tools",
+      "https://ecommercenews.com.au/story/australia-s-truck-sector-faces-fuel-staff-safety-strain",
+      "https://itbrief.com.au/story/yash-named-major-contender-in-everest-digital-workplace",
+      "https://telconews.com.au/story/infobip-study-finds-cx-investment-gap-in-global-brands",
+      "https://securitybrief.com.au/story/tanium-launches-atlas-in-apac-to-speed-it-response",
+      "https://securitybrief.com.au/story/verdantix-names-viact-an-innovator-in-workplace-safety",
+      "https://securitybrief.com.au/story/australia-ai-identity-governance-lags-as-risks-rise",
+      "https://securitybrief.com.au/story/australian-budget-boosts-ai-but-cyber-gaps-remain",
+      "https://securitybrief.com.au/story/australian-firms-urged-to-rethink-ransomware-defences",
+      "https://securitybrief.com.au/story/rubrik-warns-ai-agents-outpace-security-guardrails",
+      "https://securitybrief.com.au/story/livingstone-shire-boosts-disaster-recovery-with-nutanix",
+      "https://telconews.com.au/story/superloop-adds-wi-fi-7-mesh-bundle-to-broadband-plans",
+      "https://cfotech.com.au/story/australian-employers-shift-towards-skills-based-hiring",
+      "https://itbrief.com.au/story/agentsync-launches-ai-trained-eas-for-australian-founders",
+      "https://futurefive.com.au/story/plaud-launches-ai-note-taking-devices-in-australia",
+      "https://channellife.com.au/story/gme-launches-tractor-radio-pack-for-australian-farms"
+    ],
+    "3": [
+      "https://cfotech.com.au/",
+      "https://cfotech.com.au/tag/banking",
+      "https://cfotech.com.au/tag/data-analytics",
+      "https://cfotech.com.au/tag/digital-transformation",
+      "https://cfotech.com.au/tag/fintech",
+      "https://ecommercenews.com.au/",
+      "https://ecommercenews.com.au/tag/commerce-systems",
+      "https://ecommercenews.com.au/tag/customer-data-platforms",
+      "https://ecommercenews.com.au/tag/data-analytics",
+      "https://ecommercenews.com.au/tag/digital-signage",
+      "https://securitybrief.com.au/",
+      "https://securitybrief.com.au/tag/cloud-security",
+      "https://securitybrief.com.au/tag/cybersecurity",
+      "https://securitybrief.com.au/tag/endpoint-protection",
+      "https://securitybrief.com.au/tag/firewalls",
+      "https://channellife.com.au/",
+      "https://channellife.com.au/tag/cloud-services",
+      "https://channellife.com.au/tag/cybersecurity",
+      "https://channellife.com.au/tag/distributors"
+    ]
+  },
+  "dead_links": []
+}

@@ -1,0 +1,53 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://plainvanillaweb.com/blog/articles/2025-04-21-attribute-property-duality/image.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 10,
+    "links": [
+        {
+            "text": "Plain Vanilla",
+            "href": "https://plainvanillaweb.com/index.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/index.html"
+        },
+        {
+            "text": "April 21, 2025",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-04-21-attribute-property-duality/#"
+        },
+        {
+            "text": "Making Web Component properties behave closer to the platform",
+            "href": "https://blog.ltgt.net/web-component-properties/"
+        },
+        {
+            "text": "standard behavior",
+            "href": "https://developer.mozilla.org/en-US/docs/Glossary/Boolean/HTML"
+        },
+        {
+            "text": "the next article",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-05-09-form-control/"
+        },
+        {
+            "text": "Discuss on Mastodon",
+            "href": "https://mstdn.social/@joeri_s/114377418312879988"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-04-21-attribute-property-duality/#top"
+        }
+    ],
+    "text_length": 7228,
+    "text_full": "Plain Vanilla Blog\n\nA blog about vanilla web development — no frameworks, just standards.\n\nPlain Vanilla\nBlog\nApril 21, 2025\nThe attribute/property duality\n\nJoeri Sebrechts\n\nWeb components, a.k.a. custom elements, are HTML elements that participate in HTML markup. As such they can have attributes:\n\n<my-hello value=\"world\"></my-hello>\n\nBut, they are also JavaScript objects, and as such they can have object properties.\n\nlet myHello = document.querySelector('my-hello'); myHello.value = 'foo';\n\nAnd here's the tricky part about that: these are not the same thing! In fact, custom element attributes and properties by default have zero relationship between them, even when they share a name. Here's a live proof of this fact:\n\ndemo1.js\ncustomElements.define('my-hello', class extends HTMLElement {\n    connectedCallback() {\n        this.textContent = `Hello, ${ this.value || 'null' }!`;\n    }\n});\n\n\nNow, to be fair, we can get at the attribute value just fine from JavaScript:\n\ndemo2.js\ncustomElements.define('my-hello', class extends HTMLElement {\n    connectedCallback() {\n        this.textContent = `Hello, ${ this.getAttribute('value') || 'null' }!`;\n    }\n});\n\n\nBut what if we would also like it to have a value property? What should the relationship between attribute and property be like?\n\nDoes updating the attribute always update the property?\nDoes updating the property always update the attribute?\nWhen updates can go either way, does the property read and update the value of the attribute, or do both attribute and property wrap around a private field on the custom element's class?\nWhen updates can go either way, how to avoid loops where the property updates the attribute, which updates the property, which...\nWhen is it fine to have just an attribute without a property, or a property without an attribute?\n\nIn framework-based code, we typically don't get a say in these things. Frameworks generally like to pretend that attributes and properties are the same thing, and they automatically create code to make sure this is the case. In vanilla custom elements however, not only do we get to decide these things, we must decide them.\n\nGoing native\n\nSeasoned developers will intuitively grasp what the sensible relationship between attributes and properties should be. This is because built-in HTML elements all implement similar kinds of relationships between their attributes and their properties. To explore that in depth, I recommend reading Making Web Component properties behave closer to the platform. Without fully restating that article, here's a quick recap:\n\nProperties can exist independent of an attribute, but an attribute will typically have a related property.\nIf changing the attribute updates the property, then updating the property will update the attribute.\nProperties reflect either an internal value of an element, or the value of the corresponding attribute.\nAssigning a value of an invalid type will coerce the value to the right type, instead of rejecting the change.\nChange events are only dispatched for changes by user input, not from programmatic changes to attribute or property.\n\nAn easy way to get much of this behavior is to make a property wrap around an attribute:\n\ndemo3.js\ncustomElements.define('my-hello', class extends HTMLElement {\n    get value() {\n        return this.getAttribute('value');\n    }\n    set value(v) {\n        this.setAttribute('value', String(v));\n    }\n    \n    static observedAttributes = ['value'];\n    attributeChangedCallback() {\n        this.textContent = `Hello, ${ this.value || 'null' }!`;\n    }\n});\n\n\nNotice how updating the property will update the attribute in the HTML representation, and how the property's assigned value is coerced into the attribute's string type. Attributes are always strings.\n\nInto the weeds\n\nUp to this point, things are looking straightforward. But this is web development, things are never as straightforward as they seem. For instance, what boolean attribute value should make a corresponding boolean property become true? The surprising but standard behavior on built-in elements is that any attribute value will be interpreted as true, and only the absence of the attribute will be interpreted as false.\n\nTime for another iteration of our element:\n\ndemo4.js\ncustomElements.define('my-hello', class extends HTMLElement {\n    get value() {\n        return this.getAttribute('value');\n    }\n    set value(v) {\n        this.setAttribute('value', String(v));\n    }\n\n    get glam() {\n        return this.hasAttribute('glam');\n    }\n    set glam(v) {\n        if (v) {\n            this.setAttribute('glam', 'true');\n        } else {\n            this.removeAttribute('glam');\n        }\n    }\n    \n    static observedAttributes = ['value', 'glam'];\n    attributeChangedCallback() {\n        this.textContent = \n            `Hello, ${ this.value || 'null' }!` +\n            (this.glam ? '!!@#!' : '');\n    }\n});\n\n\nWhich leaves us with the last bit of tricky trivia: it's possible for the custom element's class to be instantiated and attached to the element after the property is assigned. In that case the property's setter is never called, and the attribute is not updated.\n\n// html:\n<my-hello value=\"world\"></my-hello>\n// js:\nconst myHello = document.querySelector('my-hello');\nmyHello.value = 42; // setter not called before define\ncustomElements.define('my-hello', /* ... */);\nconsole.log(myHello.getAttribute('value')); // -> \"world\"\n\n\nThis can be avoided by reassigning any previously set properties when the element is connected:\n\ndemo5.js\ncustomElements.define('my-hello', class extends HTMLElement {\n    get value() {\n        return this.getAttribute('value');\n    }\n    set value(v) {\n        this.setAttribute('value', String(v));\n    }\n\n    get glam() {\n        return this.hasAttribute('glam');\n    }\n    set glam(v) {\n        if (v) {\n            this.setAttribute('glam', 'true');\n        } else {\n            this.removeAttribute('glam');\n        }\n    }\n    \n    static observedAttributes = ['value', 'glam'];\n    attributeChangedCallback() {\n        this.textContent = \n            `Hello, ${ this.value || 'null' }!` +\n            (this.glam ? '!!@#!' : '');\n    }\n\n    connectedCallback() {\n        this.#upgradeProperty('value');\n        this.#upgradeProperty('glam');\n    }\n\n    #upgradeProperty(prop) {\n        if (this.hasOwnProperty(prop)) {\n            let value = this[prop];\n            delete this[prop];\n            this[prop] = value;\n        }\n    }\n});\n\nIn conclusion\n\nIf that seems like a lot of work to do a very simple thing, that is because it is. The good news is: we don't have to always do this work.\n\nWhen we're using web components as framework components in a codebase that we control, we don't have to follow any of these unwritten rules and can keep the web component code as simple as we like. However, when using web components as custom elements to be used in HTML markup then we do well to follow these best practices to avoid surprises, especially when making web components that may be used by others. YMMV.\n\nIn the next article, I'll be looking into custom elements that accept input, and how that adds twists to the plot.\n\nDiscuss on Mastodon\n\nContact GitHub\n\nBack to top"
+}

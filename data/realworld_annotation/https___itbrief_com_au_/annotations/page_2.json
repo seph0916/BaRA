@@ -1,0 +1,882 @@
+{
+    "image_count": 126,
+    "images": [
+        "https://itbrief.com.au/brands/itb-new-logo.svg",
+        "https://itbrief.com.au/brands/td-new-logo-right.svg",
+        "https://securitybrief.com.au/uploads/story/2026/05/21/preview_Corey.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/21/preview_professional-people-law-office-central-ai-dashboard-shield-digital-illustration.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/21/preview_email_attachment20260521-1004237-a27yin.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/21/preview_Shaun_Mitchell__MaxMine___Tom_Cawley__MaxMine_.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/20/preview_cautious-optimism-government-data-center-ai-workflow-digital-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_Ryan.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/21/preview_ambitious-cio-digital-data-center-ai-investment-growth-modern-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/21/preview_Henrique.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/21/preview_Rob_McGreevy__Chief_Product_Officer__AVEVA(2).webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/19/preview_proactive-security-analyst-server-room-dashboard-shield-icons-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/19/preview_edmund_ng_melissa.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_Phil_Lenton_-_Headshot.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/20/preview_Emily.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/18/preview_leo-brunnick-headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/19/preview_IMAGES.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/18/preview_David.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/15/preview_accountable-person-insurance-office-policy-files-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/18/preview_Deputy.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/07/preview_Matt_Hanmer__Regional_Director__SASE___Security__APJ___HPE_Networking.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/12/preview_Keir_Garrett__Alex_Hooper__and_Todd_Trevillion.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/11/preview_Oliver_Bastert__Gurobi.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/06/preview_Arthur_Mok__Partner_at_Ropes___Gray.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/07/preview_Jason_Keogh__Tristan_Ohlenrott__TeamViewer.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/05/preview_Vanyar.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/29/preview_YP_PP__1_.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/27/preview_202605_-_Deepika_Chahuan_-_DigiCert_-_headshot.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/30/preview_FIA.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/04/30/preview_Vicky_Katsabaris.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/04/29/preview_Day_1_-_Steve_Hare.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/29/preview_Screenshot_2026-04-28_at_9.42.35_AM.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/28/preview_Sandra-Joyce.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/25/preview_Sid_Nadella.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/25/preview_Jon_Ramsey.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/23/preview_Gemini_Generated_Image_bmeorjbmeorjbmeo.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/23/preview_katrina.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/23/preview_Anil_Jain.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/21/preview_GrafanaCON_2026-22452.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/14/preview_202604_-_Tony_Burnside_-_Netskope_-_Headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/08/preview_1692646411737.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/10/preview_Lip_Sing_Tay.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/08/preview_Andrew_Philp.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/31/preview_Chris_Image.webp",
+        "https://cfotech.com.au/uploads/story/2026/03/27/preview_Dottie_Schindlinger.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/26/preview_thomas-mackenzie-headshot.webp",
+        "https://channellife.com.au/uploads/story/2026/03/23/preview_lars-larsen-milestone-systems-headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/24/preview_Dan-Winson-Zetifi-Headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/25/preview_Untitled_design__24_.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/25/preview_Marc_van_Zadelhoff.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/13/preview_IMG-20260304-WA0003.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/03/18/preview_260310EnterpriseIrelandfirstselec.webp",
+        "https://channellife.com.au/uploads/story/2026/03/12/preview_modern_hospital_data_center_ai_healthcare_integration_calm_blue.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/16/preview_Shiv_Ramji__President_Auth0_Headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/06/preview_PS_Stephen_Deasy_Chief_Technology_Officer_at_Confluent__1_.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/03/09/preview_Pell1_D3A0530-1_copy_2.webp",
+        "https://cfotech.com.au/uploads/story/2026/03/06/preview_Penny_Ashley-Lawrence_on_Stage_-_Copyright_Workiva.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/06/preview_Untitled_design__25_.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/05/preview_Anthony_Woods.webp",
+        "https://cfotech.com.au/uploads/story/2026/02/24/preview_corporate_data_center_gpu_racks_cloud_cables_it_manager_costs.webp",
+        "https://cfotech.com.au/uploads/story/2026/03/03/preview_ChristinaColby_0085_-_Web.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/27/preview_1763761222950.webp",
+        "https://cfotech.com.au/uploads/story/2026/02/21/preview_ITFM-Insights-Pete-Wilson.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/19/preview_Rudy_Kuhn_Celonis.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/08/preview_combined.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/11/preview_Pragmata_06.webp",
+        "https://channellife.com.au/uploads/story/2026/04/30/preview_IMG_8847.webp",
+        "https://futurefive.com.au/uploads/story/2026/03/27/preview_SM-A576_GalaxyA57_5G.webp",
+        "https://futurefive.com.au/uploads/story/2026/03/16/preview_005-product-galaxy-s26ultra-cobaltviolet-black-skyblue-white.webp",
+        "https://futurefive.com.au/uploads/story/2026/01/15/preview_Taxi_Chaos_2.webp",
+        "https://futurefive.com.au/uploads/story/2025/12/24/preview_Dell_Pro_13_00.webp",
+        "https://futurefive.com.au/uploads/story/2025/11/18/preview_Predator_Helios_Neo_00.webp",
+        "https://futurefive.com.au/uploads/story/2025/10/07/preview_Apple-AirPods-Pro-3-hero-250909_inline.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/21/preview_Corey.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/20/preview_1398.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_Ryan.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/20/preview_calm-finance-team-office-erp-dashboard-automation-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/20/preview_compliance-finance-dashboard-cloud-routes-lock-audit-border-digital-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_Bobby_Joseph.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_innovative-business-team-ai-dashboard-office-scene-modern-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Tiarnan.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/15/preview_Vab.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/15/preview_Nathan.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_Phil_Lenton_-_Headshot.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/20/preview_Emily.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/18/preview_leo-brunnick-headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/19/preview_IMAGES.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/18/preview_David.webp",
+        "https://channellife.com.au/uploads/story/2026/05/20/preview_email_attachment20260520-130962-6np5m9.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/20/preview_helpful-australian-owner-cafe-counter-tablet-sales-insights-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/20/preview_calm-finance-team-office-erp-dashboard-automation-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/20/preview_compliance-finance-dashboard-cloud-routes-lock-audit-border-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/20/preview_worried-owner-australian-shopfront-workshop-overdue-invoices-digital-illustration.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/20/preview_Simplifi.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/19/preview_email_attachment20260519-609119-7b0gea.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/19/preview_Paul.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/19/preview_brand-safety-illustration-social-media-feed-filter-shield-ai-threads.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_efficient-hiring-recruiter-workplace-laptop-job-application-pipeline-modern-digital.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/18/preview_innovation-tech-dashboard-office-australia-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Mary_Anne.webp",
+        "https://channellife.com.au/uploads/story/2026/05/18/preview_Daniel.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Nick_Martin.webp",
+        "https://channellife.com.au/uploads/story/2026/05/18/preview_IMAGES.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/15/preview_Vab.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/15/preview_Hackathon_-_Finalists_-_Close.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/06/preview_Ben.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/15/preview_collaborative-ceos-employees-boardroom-ai-training-workflow-charts-digital-illustration.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/14/preview_email_attachment20260514-4177608-450u2l.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Mary_Anne.webp",
+        "https://channellife.com.au/uploads/story/2026/05/18/preview_Daniel.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/08/preview_Craig_Chapman_headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/05/preview_Harsh.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/04/preview_Gabriele.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/28/preview_Chris.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/22/preview_HPE.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/22/preview_260330_Yoshinori_Nagata_1.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/20/preview_Kishore.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/09/preview_Grace_Gown(2).webp",
+        "https://itbrief.com.au/brands/td-left-new-logo.svg",
+        "https://itbrief.com.au/brands/cfo-white-logo.svg",
+        "https://itbrief.com.au/brands/cl-white-logo.svg",
+        "https://itbrief.com.au/brands/ecn-white-logo.svg",
+        "https://itbrief.com.au/brands/f5-white-logo.svg",
+        "https://itbrief.com.au/brands/itb-white-logo.svg",
+        "https://itbrief.com.au/brands/sb-white-logo.svg",
+        "https://itbrief.com.au/brands/tn-white-logo.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 186,
+    "links": [
+        {
+            "text": "AUSTRALIA",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "POWERED BY",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "Artificial Intelligence",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence"
+        },
+        {
+            "text": "Digital Transformation",
+            "href": "https://itbrief.com.au/tag/digital-transformation"
+        },
+        {
+            "text": "Disaster Recovery",
+            "href": "https://itbrief.com.au/tag/disaster-recovery"
+        },
+        {
+            "text": "Hybrid & Remote Work",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work"
+        },
+        {
+            "text": "Internet of Things",
+            "href": "https://itbrief.com.au/tag/internet-of-things"
+        },
+        {
+            "text": "Australian News",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#localised"
+        },
+        {
+            "text": "Analyst Insights",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#analyst"
+        },
+        {
+            "text": "Featured News",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#featured"
+        },
+        {
+            "text": "Reviews",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#reviews"
+        },
+        {
+            "text": "Expert Columns",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#bylines"
+        },
+        {
+            "text": "Interviews",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#interviews"
+        },
+        {
+            "text": "Recent News",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#recent"
+        },
+        {
+            "text": "Job Moves",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence#jobs"
+        },
+        {
+            "text": "OPINION\nAI accountability gap widens as organisations scale faster than governance\n\nMany Australian firms are slowing AI roll-outs because fragmented oversight is leaving no one clearly accountable for risk, compliance or decisions.",
+            "href": "https://securitybrief.com.au/story/ai-accountability-gap-widens-as-organisations-scale-faster-than-governance"
+        },
+        {
+            "text": "DELOITTE\nHWLE Lawyers picks Legora for major firmwide AI rollout\n\nThe move will put AI tools in daily use for more than 1,900 staff, as HWLE seeks tighter controls around risk, training and compliance.",
+            "href": "https://cfotech.com.au/story/hwle-lawyers-picks-legora-for-major-firmwide-ai-rollout"
+        },
+        {
+            "text": "PERSONALISATION\nSony launches 1000X THE COLLEXION headphones in Australia\n\nThe premium release broadens Sony's 1000X range in Australia and New Zealand, with recycled materials, accessibility features and higher prices.",
+            "href": "https://futurefive.com.au/story/sony-launches-1000x-the-collexion-headphones-in-australia"
+        },
+        {
+            "text": "PRODUCTIVITY\nMaxMine executive takes AI role in mining sector push\n\nTom Cawley's move highlights Australia's drive to turn mining data into usable AI as MaxMine's load-and-dump tool reaches customers.",
+            "href": "https://itbrief.com.au/story/maxmine-executive-takes-ai-role-in-mining-sector-push"
+        },
+        {
+            "text": "CLOUD SERVICES\nAustralian budget AI push earns cautious tech support\n\nCautious support from tech leaders hinges on whether Canberra can turn new AI and digital funding into real productivity gains.",
+            "href": "https://cfotech.com.au/story/australian-budget-ai-push-earns-cautious-tech-support"
+        },
+        {
+            "text": "DELOITTE\nChief AI Officers: The next test of Australia's digital government leadership\n\nSafely embedding AI into public services now hinges on clearer accountability, as only 22% of Australian organisations use advanced governance models.",
+            "href": "https://itbrief.com.au/story/chief-ai-officers-the-next-test-of-australia-s-digital-government-leadership"
+        },
+        {
+            "text": "ANALYST\nGartner sees AI spending hit USD $2.59 trillion in 2026\n\nGartner · AI · Productivity",
+            "href": "https://cfotech.com.au/story/gartner-sees-ai-spending-hit-usd-2-59-trillion-in-2026"
+        },
+        {
+            "text": "ANALYST\nSaviynt named leader in four KuppingerCole reviews\n\nKuppingerCole · AI · PAM",
+            "href": "https://securitybrief.com.au/story/saviynt-named-leader-in-four-kuppingercole-reviews"
+        },
+        {
+            "text": "ANALYST\nAveva unveils AI & data updates across industrial suite\n\nGartner · AI · Manufacturing",
+            "href": "https://itbrief.com.au/story/aveva-unveils-ai-data-updates-across-industrial-suite"
+        },
+        {
+            "text": "ANALYST\nOrigina launches OPTAS to protect unsupported software\n\nGartner · AI · Digital Transformation",
+            "href": "https://securitybrief.com.au/story/origina-launches-optas-to-protect-unsupported-software"
+        },
+        {
+            "text": "ANALYST\n8 Data management trends shaping enterprise strategy in 2026-2027\n\nGartner · AI · Integration",
+            "href": "https://itbrief.com.au/story/8-data-management-trends-shaping-enterprise-strategy-in-2026-2027"
+        },
+        {
+            "text": "ABOUT IT SERVICE MANAGEMENT\nRiverbed says go from ticket queues to zero disruption\n\nAI-driven support tools could cut employee downtime, as Riverbed argues that fewer tickets may still hide unresolved problems.\n\nToday",
+            "href": "https://itbrief.com.au/story/riverbed-says-go-from-ticket-queues-to-zero-disruption"
+        },
+        {
+            "text": "ABOUT INTERNET OF THINGS\nSamsung launches interactive, connected 2026 TV range\n\nKiwi football fans will get stadium-style sound and smarter home control as the new line-up adds AI Football Mode Pro and Vision AI.\n\nYesterday",
+            "href": "https://futurefive.com.au/story/samsung-launches-interactive-connected-2026-tv-range"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nThe AI challenge - balancing governance and innovation\n\nMany projects remain stuck at proof of concept as businesses wrestle with data governance, security and agent oversight before scaling AI.\n\nYesterday",
+            "href": "https://itbrief.com.au/story/the-ai-challenge-balancing-governance-and-innovation"
+        },
+        {
+            "text": "ABOUT IT DEPARTMENT\nDell numbers the days for hyperconverged infrastructure\n\nRising hypervisor costs and AI demand are pushing customers towards disaggregated systems, as Dell says HCI is becoming too expensive and inflexible.\n\nYesterday",
+            "href": "https://itbrief.com.au/story/dell-numbers-the-days-for-hyperconverged-infrastructure"
+        },
+        {
+            "text": "ABOUT DATA ANALYTICS\nCatchpoint acquisition by LogicMonitor 'makes a lot of sense'\n\nThe deal could help customers move from reactive IT monitoring to predictive AI-driven automation by combining two different data sets.\n\n2 days ago",
+            "href": "https://itbrief.com.au/story/catchpoint-acquisition-by-logicmonitor-makes-a-lot-of-sense"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nGuidewire: Modernising insurance with accountability\n\nRegulators are warning insurers to keep humans accountable as AI speeds up claims work and other busy tasks, Guidewire says.\n\n3 days ago",
+            "href": "https://cfotech.com.au/story/guidewire-modernising-insurance-with-accountability"
+        },
+        {
+            "text": "ABOUT SMALL BUSINESS\nDeputy are shaping future of shift work administration\n\nManagers in retail, hospitality and healthcare could save hours as the AI tool automates rosters and timesheets while flagging breaches.\n\n3 days ago",
+            "href": "https://itbrief.com.au/story/deputy-are-shaping-future-of-shift-work-administration"
+        },
+        {
+            "text": "ABOUT BREACH PREVENTION\nHPE assisting IT teams navigate complex challenges\n\nHPE Networking says AI, zero trust and SASE are reshaping network security as remote work and connected devices make threats harder to control.\n\nLast week",
+            "href": "https://securitybrief.com.au/story/hpe-assisting-it-teams-navigate-complex-challenges"
+        },
+        {
+            "text": "ABOUT DIGITAL TRANSFORMATION\nCloudera hackathon highlights enterprise AI data challenges\n\nOnly seven per cent of organisations are data ready, raising doubts over whether enterprise AI can move from prototypes to production.\n\nLast week",
+            "href": "https://securitybrief.com.au/story/cloudera-hackathon-highlights-enterprise-ai-data-challenges"
+        },
+        {
+            "text": "ABOUT SUPPLY CHAIN\nFrom airlines to packaging: How Gurobi optimises workflows\n\nGurobi clients are experiencing significant, compounding benefits from the utilisation of effective optimisation.\n\nLast week",
+            "href": "https://itbrief.com.au/story/from-airlines-to-packaging-how-gurobi-optimises-workflows"
+        },
+        {
+            "text": "ABOUT DATA PROTECTION\nAI use in life sciences focused on augmentation - for now\n\nAI in life sciences is boosting workflows rather than replacing scientists, as firms navigate regulation, data risks and uneven adoption across markets.\n\nLast week",
+            "href": "https://itbrief.com.au/story/ai-use-in-life-sciences-focused-on-augmentation-for-now"
+        },
+        {
+            "text": "ABOUT SMARTPHONES\nTeamViewer utilising AI to cut costly digital friction\n\nA survey of 4,000 workers found digital friction is fuelling burnout, tears and staff turnover as TeamViewer automates routine IT tasks.\n\nThis month",
+            "href": "https://itbrief.com.au/story/teamviewer-utilising-ai-to-cut-costly-digital-friction"
+        },
+        {
+            "text": "ABOUT CLOUD SERVICES\nVanyar primed for success with Uriah Jacobs at the helm\n\nA shortage of skilled partners is slowing wider adoption of Palantir Foundry and AIP, creating an opening for Vanyar in the commercial market.\n\nThis month",
+            "href": "https://ecommercenews.com.au/story/vanyar-primed-for-success-with-uriah-jacobs-at-the-helm"
+        },
+        {
+            "text": "ABOUT CHIEF INFORMATION SECURITY OFFICER\nUpwind Expands to Sydney: Real Time Cloud Security for APJ\n\nThe Sydney move follows a USD $250 million funding round as the cloud security firm bets on real-time protection for fast-growing AI workloads.\n\nThis month",
+            "href": "https://itbrief.com.au/story/upwind-expands-to-sydney-real-time-cloud-security-for-apj"
+        },
+        {
+            "text": "ABOUT MALWARE\nAI agents multiply risk, says DigiCert chief product officer\n\nMany firms cannot see where their AI agents are, leaving identity, policy and supply-chain risks to grow as deployments scale.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/ai-agents-multiply-risk-says-digicert-chief-product-officer"
+        },
+        {
+            "text": "ABOUT EDITOR INTERVIEW\nSage Intacct builds explainable AI into accounting\n\nAccountants facing staff shortages may gain faster workflows, as Sage Intacct’s new agent exposes its calculations, sources and audit trail.\n\nLast month",
+            "href": "https://cfotech.com.au/story/sage-intacct-builds-explainable-ai-into-accounting"
+        },
+        {
+            "text": "ABOUT SUSTAINABILITY\n'Self-learning' AI big boon for Qualtrics' CX\n\nCompanies using AI for customer experience are cutting churn and lifting revenue, with Qualtrics saying richer feedback can triple insights.\n\nLast month",
+            "href": "https://ecommercenews.com.au/story/self-learning-ai-big-boon-for-qualtrics-cx"
+        },
+        {
+            "text": "ABOUT CLOUD SERVICES\nSage branding itself on trust in AI world of 'big voices'\n\nTrust is emerging as a selling point for finance software as Sage warns that opaque AI can leave CFOs answerable for costly errors.\n\nLast month",
+            "href": "https://ecommercenews.com.au/story/sage-branding-itself-on-trust-in-ai-world-of-big-voices"
+        },
+        {
+            "text": "ABOUT HYBRID CLOUD\nExclusive: Denodo's Dominic Sartorio on perfect data vs the right data\n\nTrust in enterprise AI is being undermined as Denodo research finds most firms still lack live, context-aware data for production use.\n\nLast month",
+            "href": "https://itbrief.com.au/story/exclusive-denodo-s-dominic-sartorio-on-perfect-data-vs-the-right-data"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nGoogle flags urgency as AI reshapes cyber threats\n\nPatching delays now carry greater risk as Google says AI is helping attackers scale intrusions, speed up breaches and automate operations.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/google-flags-urgency-as-ai-reshapes-cyber-threats"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nExclusive: Google Cloud reshaping finance with agentic AI\n\nBanks must move beyond isolated pilots if they want agentic AI to deliver enterprise-wide gains, Google Cloud says.\n\nLast month",
+            "href": "https://cfotech.com.au/story/exclusive-google-cloud-reshaping-finance-with-agentic-ai"
+        },
+        {
+            "text": "ABOUT THREAT INTELLIGENCE\nExclusive: Google Cloud on the road to autonomous SecOps\n\nThe new tools could cut analysts’ manual threat-response work from days to minutes as Google Cloud pushes SecOps towards an autonomous SOC.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/exclusive-google-cloud-on-the-road-to-autonomous-secops"
+        },
+        {
+            "text": "ABOUT DATA WAREHOUSING\nExclusive: Google Cloud accelerates shift to agentic data\n\nEnterprises may soon design data systems for AI agents rather than staff, as Google Cloud adds real-time context, automation and cross-cloud access.\n\nLast month",
+            "href": "https://itbrief.com.au/story/exclusive-google-cloud-accelerates-shift-to-agentic-data"
+        },
+        {
+            "text": "ABOUT IT INDUSTRY\nExclusive: Adobe ANZ chief on AI adoption trends\n\nAI is increasingly moving into live use across Australia and New Zealand, as regulated sectors test deployments while CEOs chase productivity gains.\n\nLast month",
+            "href": "https://itbrief.com.au/story/exclusive-adobe-anz-chief-on-ai-adoption-trends"
+        },
+        {
+            "text": "ABOUT MANUFACTURING\nExclusive: Google sees success with niche AI playbooks\n\nEnterprises are under pressure to prove AI returns as Google pushes reusable, sector-specific playbooks into production across 19 industries.\n\nLast month",
+            "href": "https://itbrief.com.au/story/exclusive-google-sees-success-with-niche-ai-playbooks"
+        },
+        {
+            "text": "ABOUT DATA PROTECTION\nExclusive: Grafana Lab's Jen Villa on targeting the AI observability gap\n\nThe new tools aim to help firms spot faulty AI outputs and data risks sooner as production deployments outpace monitoring methods.\n\nLast month",
+            "href": "https://itbrief.com.au/story/exclusive-grafana-lab-s-jen-villa-on-targeting-the-ai-observability-gap"
+        },
+        {
+            "text": "ABOUT SHADOW IT\nNetskope's Tony Burnside - visibility is key to AI security\n\nAI tools are creating hidden east-west traffic that security teams struggle to monitor, raising the risk of data leakage and compromise.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/netskope-s-tony-burnside-visibility-is-key-to-ai-security"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nExclusive: Celonis global banking head says AI rollout hinges on process intelligence\n\nBanks risk wasting AI spending unless they first map how work really flows, as Celonis says process intelligence is becoming phase zero.\n\nLast month",
+            "href": "https://itbrief.com.au/story/exclusive-celonis-global-banking-head-says-ai-rollout-hinges-on-process-intelligence"
+        },
+        {
+            "text": "ABOUT BIG DATA\nAffirmo: Could AI make a reality of IoT dreams?\n\nAI could help unlock the long-promised value of IoT, as Singapore-based Affirmo pushes real-time tracking into manufacturing and logistics.\n\nLast month",
+            "href": "https://itbrief.com.au/story/affirmo-could-ai-make-a-reality-of-iot-dreams"
+        },
+        {
+            "text": "ABOUT HACKERS\nTrendAI: Evolving the cybersecurity value proposition\n\nNew research shows two-thirds of Australian business and IT leaders feel pressured to approve AI projects while overlooking security risks.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/trendai-evolving-the-cybersecurity-value-proposition"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nAtturra's Chris Rae: Choose the happy path (or, why 'perfect' automation fails)\n\nWestern Australian mines have cut HR processing time by 80% after a new SAP-linked system let workers self-serve compliance records.\n\nTue, 31st Mar 2026",
+            "href": "https://itbrief.com.au/story/atturra-s-chris-rae-choose-the-happy-path-or-why-perfect-automation-fails"
+        },
+        {
+            "text": "ABOUT DATA PROTECTION\nDiligence the watchword as oversight lags AI governance\n\nMost boards are using AI for routine tasks, but only 3% have woven it into risk oversight, leaving organisations exposed to fresh hazards.\n\nFri, 27th Mar 2026",
+            "href": "https://cfotech.com.au/story/diligence-the-watchword-as-oversight-lags-ai-governance"
+        },
+        {
+            "text": "ABOUT COLLABORATION\nScale By Avec says strategic hiring is the key in the age of AI\n\nAI is forcing firms to rethink hiring, as Scale By Avec says training and human skills matter more than simple headcount cuts.\n\nFri, 27th Mar 2026",
+            "href": "https://itbrief.com.au/story/scale-by-avec-says-strategic-hiring-is-the-key-in-the-age-of-ai"
+        },
+        {
+            "text": "ABOUT BIG DATA\nMilestone turns video data into AI-driven intelligence\n\nDemand for real-time security insights is pushing airports and public spaces towards AI tools that can analyse hundreds of cameras at once.\n\nThu, 26th Mar 2026",
+            "href": "https://channellife.com.au/story/milestone-turns-video-data-into-ai-driven-intelligence"
+        },
+        {
+            "text": "ABOUT BLUETOOTH\nZetifi's connectivity solutions drive fleet and worker safety\n\nRemote crews can now stay connected and monitored through Zetifi’s multi-network system, reducing risk and unnecessary check-ins in the field.\n\nThu, 26th Mar 2026",
+            "href": "https://itbrief.com.au/story/zetifi-s-connectivity-solutions-drive-fleet-and-worker-safety"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nExclusive: Orderfox pushes into autonomous execution with Gieni ABX\n\nOrderfox launches Gieni ABX on Microsoft Azure to push industrial AI beyond insights, automating workflows across enterprise systems with governance.\n\nThu, 26th Mar 2026",
+            "href": "https://itbrief.com.au/story/exclusive-orderfox-pushes-into-autonomous-execution-with-gieni-abx"
+        },
+        {
+            "text": "ABOUT DATA PROTECTION\n'Human Risk' takes centre stage - Mimecast CEO\n\nMimecast chief warns human risk is now cybersecurity's 'eighth layer' as malicious insiders overtake negligence in Australian attacks.\n\nWed, 25th Mar 2026",
+            "href": "https://itbrief.com.au/story/human-risk-takes-centre-stage-mimecast-ceo"
+        },
+        {
+            "text": "ABOUT SOFTWARE ENGINEERING\nUiPath Accelerates AI in Software Development and Testing\n\nUiPath is pushing AI deeper into software testing, promising autonomous agents that transform quality assurance and developers' roles.\n\nTue, 24th Mar 2026",
+            "href": "https://itbrief.com.au/story/uipath-accelerates-ai-in-software-development-and-testing"
+        },
+        {
+            "text": "ABOUT IT INDUSTRY\nStrong growth for Irish tech imports across Australia and New Zealand\n\nIrish tech exports to Australia and New Zealand have surged nearly 60% in five years, with Enterprise Ireland backing rapid sector growth.\n\nWed, 18th Mar 2026",
+            "href": "https://ecommercenews.com.au/story/strong-growth-for-irish-tech-imports-across-australia-and-new-zealand"
+        },
+        {
+            "text": "ABOUT HEALTH TECHNOLOGIES\nCloudera and Svitla Systems bring trusted AI to healthcare\n\nCloudera and Svitla team up to build trusted, clinician‑centric AI that unifies patient data while safeguarding privacy and consent.\n\nTue, 17th Mar 2026",
+            "href": "https://channellife.com.au/story/cloudera-and-svitla-systems-bring-trusted-ai-to-healthcare"
+        },
+        {
+            "text": "ABOUT MARKETING TECHNOLOGIES\nRise of AI Agents introduces new infosec risk: Okta\n\nOkta warns that surging numbers of uncontrolled AI agents pose a major identity and access risk as they become the new digital workforce.\n\nMon, 16th Mar 2026",
+            "href": "https://itbrief.com.au/story/rise-of-ai-agents-introduces-new-infosec-risk-okta"
+        },
+        {
+            "text": "ABOUT BIG DATA\nConfluent says data streaming will enable faster, better decisions\n\nConfluent says organisations must shift to governed data streaming, with AI agents making millisecond decisions at scale.\n\nWed, 11th Mar 2026",
+            "href": "https://itbrief.com.au/story/confluent-says-data-streaming-will-enable-faster-better-decisions"
+        },
+        {
+            "text": "ABOUT BIG DATA\nElastic says AI search & context now decide customer loyalty\n\nElastic argues that in an AI-obsessed market, robust search across messy data is the real foundation of trustworthy, profitable experiences.\n\nTue, 10th Mar 2026",
+            "href": "https://ecommercenews.com.au/story/elastic-says-ai-search-context-now-decide-customer-loyalty"
+        },
+        {
+            "text": "ABOUT EDITOR INTERVIEW\nPlatform consolidation the path to strategic compliance value - Workiva\n\nConsolidated GRC platforms are turning box-ticking compliance into strategic value, says Workiva, as AI raises the stakes on data quality.\n\nTue, 10th Mar 2026",
+            "href": "https://cfotech.com.au/story/platform-consolidation-the-path-to-strategic-compliance-value-workiva"
+        },
+        {
+            "text": "ABOUT ETHICS\nAI may sound human...but whose values does it reflect?\n\nHarvard research finds “human-like” AI mirrors Western liberal values, raising concerns over cultural bias as it spreads worldwide.\n\nSat, 7th Mar 2026",
+            "href": "https://itbrief.com.au/story/ai-may-sound-human-but-whose-values-does-it-reflect"
+        },
+        {
+            "text": "ABOUT CLOUD SERVICES\nGrafana: Turning data chaos into developer efficiency and CFO savings\n\nGrafana leans on AI-powered observability and Adaptive Telemetry to sharpen developer insight while slashing cloud bills by up to 50%.\n\nThu, 5th Mar 2026",
+            "href": "https://itbrief.com.au/story/grafana-turning-data-chaos-into-developer-efficiency-and-cfo-savings"
+        },
+        {
+            "text": "ABOUT CLOUD SERVICES\nThe hidden data costs threatening enterprise AI plans\n\nHidden cloud data, egress fees and GPU 'double bubble' bills are quietly turning many enterprise AI ambitions into costly, slow ordeals.\n\nWed, 4th Mar 2026",
+            "href": "https://cfotech.com.au/story/the-hidden-data-costs-threatening-enterprise-ai-plans"
+        },
+        {
+            "text": "ABOUT CLOUD SERVICES\nGuidewire showcases GenAI's capabilities in insurance risks\n\nGuidewire touts 'insurance-grade AI' as it uses generative tools to speed risk, claims and pricing decisions for cautious insurers.\n\nWed, 4th Mar 2026",
+            "href": "https://cfotech.com.au/story/guidewire-showcases-genai-s-capabilities-in-insurance-risks"
+        },
+        {
+            "text": "ABOUT INTELLIGENT SYSTEMS\nBeyond silicon: AMD evolves AI processor performance, makes play for investment trillions\n\nAMD shifts its AI pitch from raw silicon to open software and cloud access as it targets developers and a share of looming trillions.\n\nTue, 3rd Mar 2026",
+            "href": "https://itbrief.com.au/story/beyond-silicon-amd-evolves-ai-processor-performance-makes-play-for-investment-trillions"
+        },
+        {
+            "text": "ABOUT CHIEF TECHNOLOGY OFFICERS\nWhy Australian leaders are losing faith in IT spend\n\nWith 88% of Australian tech leaders doubting IT ROI, IT financial management emerges as the missing link between spend and value.\n\nMon, 2nd Mar 2026",
+            "href": "https://cfotech.com.au/story/why-australian-leaders-are-losing-faith-in-it-spend"
+        },
+        {
+            "text": "ABOUT DIGITAL TRANSFORMATION\nComposable, process‑aware AI key to enterprise ROI\n\nProcess intelligence and composable architecture are emerging as the missing ingredients to turn fragile AI pilots into resilient, traceable value.\n\nWed, 25th Feb 2026",
+            "href": "https://itbrief.com.au/story/composable-process-aware-ai-key-to-enterprise-roi"
+        },
+        {
+            "text": "DIGITAL ENTERTAINMENT\nHands-on review: Apple Creator Studio earns its keep",
+            "href": "https://futurefive.com.au/story/hands-on-review-apple-creator-studio-earns-its-keep"
+        },
+        {
+            "text": "GAMING\nGame review: Pragmata (PC)",
+            "href": "https://futurefive.com.au/story/game-review-pragmata-pc"
+        },
+        {
+            "text": "APPLICATION PERFORMANCE MONITORING\nHands-on review: Pocket AI Notetaker handy, not revolutionary",
+            "href": "https://channellife.com.au/story/hands-on-review-pocket-ai-notetaker-handy-not-revolutionary"
+        },
+        {
+            "text": "MOBILE GAMING\nHands-on review: Samsung Galaxy A57 5G smartphone",
+            "href": "https://futurefive.com.au/story/hands-on-review-samsung-galaxy-a57-5g-smartphone"
+        },
+        {
+            "text": "DIGITAL ENTERTAINMENT\nHands-on review: Samsung Galaxy S26 Ultra refined flagship",
+            "href": "https://futurefive.com.au/story/hands-on-review-samsung-galaxy-s26-ultra-refined-flagship"
+        },
+        {
+            "text": "UBISOFT\nGame review: Taxi Chaos 2 (Xbox Series X)",
+            "href": "https://futurefive.com.au/story/game-review-taxi-chaos-2-xbox-series-x"
+        },
+        {
+            "text": "3D PRINTING\nHands-on Review: Dell Pro 13 Premium laptop",
+            "href": "https://futurefive.com.au/story/hands-on-review-dell-pro-13-premium-laptop"
+        },
+        {
+            "text": "DIGITAL ENTERTAINMENT\nHands-on Review: Acer Predator Helios Neo 16S AI",
+            "href": "https://futurefive.com.au/story/hands-on-review-acer-predator-helios-neo-16s-ai"
+        },
+        {
+            "text": "SUSTAINABILITY\nHands-on Review: Apple AirPods Pro 3",
+            "href": "https://futurefive.com.au/story/hands-on-review-apple-airpods-pro-3"
+        },
+        {
+            "text": "AI accountability gap widens as organisations scale faster than governance\n\nBy Corey Rice of OneTrust",
+            "href": "https://securitybrief.com.au/story/ai-accountability-gap-widens-as-organisations-scale-faster-than-governance"
+        },
+        {
+            "text": "A long time ago in a galaxy far, far away…Cybersecurity was already hard\n\nBy Justin Carter",
+            "href": "https://securitybrief.com.au/story/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard"
+        },
+        {
+            "text": "Chief AI Officers: The next test of Australia's digital government leadership\n\nBy Ryan van Leent of SAP",
+            "href": "https://itbrief.com.au/story/chief-ai-officers-the-next-test-of-australia-s-digital-government-leadership"
+        },
+        {
+            "text": "The 'boring' AI ERP capabilities delivering the biggest finance gains\n\nBy Annexa",
+            "href": "https://cfotech.com.au/story/the-boring-ai-erp-capabilities-delivering-the-biggest-finance-gains"
+        },
+        {
+            "text": "Using AI in your ERP? You should know where your data goes\n\nBy Annexa",
+            "href": "https://securitybrief.com.au/story/using-ai-in-your-erp-you-should-know-where-your-data-goes"
+        },
+        {
+            "text": "Data matching explained: The key to clean, connected data\n\nBy Bobby Joseph of Melissa",
+            "href": "https://itbrief.com.au/story/data-matching-explained-the-key-to-clean-connected-data"
+        },
+        {
+            "text": "From AI Adoption to AI Advantage\n\nBy Roop Singh of Version 1",
+            "href": "https://itbrief.com.au/story/from-ai-adoption-to-ai-advantage"
+        },
+        {
+            "text": "Looking to Ireland for the CFO tech stack of the future\n\nBy Tiarnan McCaughan of Enterprise Ireland",
+            "href": "https://cfotech.com.au/story/looking-to-ireland-for-the-cfo-tech-stack-of-the-future"
+        },
+        {
+            "text": "Business resilience in an age of uncertainty\n\nBy Vab Mittal of Adactin",
+            "href": "https://itbrief.com.au/story/business-resilience-in-an-age-of-uncertainty"
+        },
+        {
+            "text": "Why business ambition is running ahead of AI readiness\n\nBy Nathan Knight of Hitachi Vantara",
+            "href": "https://itbrief.com.au/story/why-business-ambition-is-running-ahead-of-ai-readiness"
+        },
+        {
+            "text": "Riverbed says go from ticket queues to zero disruption\n\nDiscussing IT service management",
+            "href": "https://itbrief.com.au/story/riverbed-says-go-from-ticket-queues-to-zero-disruption"
+        },
+        {
+            "text": "Samsung launches interactive, connected 2026 TV range\n\nDiscussing Internet of Things",
+            "href": "https://futurefive.com.au/story/samsung-launches-interactive-connected-2026-tv-range"
+        },
+        {
+            "text": "The AI challenge - balancing governance and innovation\n\nDiscussing Productivity",
+            "href": "https://itbrief.com.au/story/the-ai-challenge-balancing-governance-and-innovation"
+        },
+        {
+            "text": "Dell numbers the days for hyperconverged infrastructure\n\nDiscussing IT Department",
+            "href": "https://itbrief.com.au/story/dell-numbers-the-days-for-hyperconverged-infrastructure"
+        },
+        {
+            "text": "Catchpoint acquisition by LogicMonitor 'makes a lot of sense'\n\nDiscussing Data Analytics",
+            "href": "https://itbrief.com.au/story/catchpoint-acquisition-by-logicmonitor-makes-a-lot-of-sense"
+        },
+        {
+            "text": "PRODUCTIVITY\nHP launches AI-powered PCs in Australia for work & play\n\nAustralian buyers now have access to HP's new AI-enabled PCs, with premium models starting at AUD $2,899 and topping out at AUD $6,500.\n\nYesterday",
+            "href": "https://channellife.com.au/story/hp-launches-ai-powered-pcs-in-australia-for-work-play"
+        },
+        {
+            "text": "MARKETING\nSquare AI launched in Australia for small businesses\n\nSmall firms could save hours on admin as the free assistant turns sales data into plain-language answers inside Square's platform.\n\nYesterday",
+            "href": "https://ecommercenews.com.au/story/square-ai-launched-in-australia-for-small-businesses"
+        },
+        {
+            "text": "CHIEF FINANCIAL OFFICER\nThe 'boring' AI ERP capabilities delivering the biggest finance gains\n\nLesser-known ERP tools are already cutting month-end work, from reconciliation and AP to forecasting, if the data underneath is clean enough.\n\nYesterday",
+            "href": "https://cfotech.com.au/story/the-boring-ai-erp-capabilities-delivering-the-biggest-finance-gains"
+        },
+        {
+            "text": "HYPERSCALE\nUsing AI in your ERP? You should know where your data goes\n\nFinance teams need to know whether ERP AI queries cross borders, because model routing can affect sovereignty, compliance and audit trails.\n\nYesterday",
+            "href": "https://securitybrief.com.au/story/using-ai-in-your-erp-you-should-know-where-your-data-goes"
+        },
+        {
+            "text": "SMALL BUSINESS\nAustralia's late business payments hit six-year high\n\nCash-flow strain is deepening as overdue invoices and tax debts rise, with smaller firms hardest hit by higher rates and costs.\n\nYesterday",
+            "href": "https://cfotech.com.au/story/australia-s-late-business-payments-hit-six-year-high"
+        },
+        {
+            "text": "WORKFORCE TECHNOLOGY\nSimplifi expands into Australia with human support\n\nThe New Zealand software group is targeting sectors hit by labour shortages and compliance risks as it builds a local team through 2026.\n\nYesterday",
+            "href": "https://ecommercenews.com.au/story/simplifi-expands-into-australia-with-human-support"
+        },
+        {
+            "text": "MARKETING\nRAMMP launches free AI connector for Claude, ChatGPT\n\nSmall businesses can now diagnose trust gaps in marketing campaigns through Claude or ChatGPT without paying for RAMMP's score itself.\n\n2 days ago",
+            "href": "https://ecommercenews.com.au/story/rammp-launches-free-ai-connector-for-claude-chatgpt"
+        },
+        {
+            "text": "MANUFACTURING\nAustralian firms lag on post-quantum crypto readiness\n\nOnly 11% of organisations are confident they can meet post-quantum deadlines, as legacy systems and tight budgets slow Australian preparations.\n\n2 days ago",
+            "href": "https://securitybrief.com.au/story/australian-firms-lag-on-post-quantum-crypto-readiness"
+        },
+        {
+            "text": "ADVERTISING TECHNOLOGIES\nDoubleVerify launches AI brand safety tools on Threads\n\nAdvertisers can now block unsuitable content on Threads before ads are served, as DoubleVerify adds hourly refreshed AI controls to its safety tools.\n\n2 days ago",
+            "href": "https://itbrief.com.au/story/doubleverify-launches-ai-brand-safety-tools-on-threads"
+        },
+        {
+            "text": "PRODUCTIVITY\nConvai, Probe CX launch AI recruiter for seasonal hiring\n\nRecruiters in seasonal labour markets could save time as the tool cuts candidate drop-off and speeds up screening for high-volume hiring.\n\n3 days ago",
+            "href": "https://cfotech.com.au/story/convai-probe-cx-launch-ai-recruiter-for-seasonal-hiring"
+        },
+        {
+            "text": "DIGITAL TRANSFORMATION\nSquiz launches content tool for AI search visibility\n\nThe new tool aims to help large organisations fix visibility and accessibility gaps across thousands of pages as AI search reshapes publishing.\n\n3 days ago",
+            "href": "https://ecommercenews.com.au/story/squiz-launches-content-tool-for-ai-search-visibility"
+        },
+        {
+            "text": "ROBOTICS\nCommBank appoints first Chief AI Scientist in Australia\n\nThe appointment underscores the lender's push to scale responsible AI as banks race to recruit academic talent and manage security and governance risks.\n\n3 days ago",
+            "href": "https://cfotech.com.au/story/commbank-appoints-first-chief-ai-scientist-in-australia"
+        },
+        {
+            "text": "MANAGED SERVICES\nVeracity names Bayfield as Chief Executive Officer\n\nThe Brisbane IT services group is keeping its brand as it pushes deeper into not-for-profit work after Evergreen's acquisition and Lyra transition.\n\n3 days ago",
+            "href": "https://channellife.com.au/story/veracity-names-bayfield-as-chief-executive-officer"
+        },
+        {
+            "text": "TAXATION\nRemote expands payroll platform in Australia for AI\n\nAustralian employers could ease cross-border payroll and compliance burdens as Remote broadens access to its platform for partners and AI agents.\n\n3 days ago",
+            "href": "https://cfotech.com.au/story/remote-expands-payroll-platform-in-australia-for-ai"
+        },
+        {
+            "text": "DATA ANALYTICS\nSnowflake wins IRAP approval in Google Cloud Melbourne\n\nAustralian government agencies can now use Snowflake on Google Cloud in Melbourne for PROTECTED workloads, broadening cloud choice and assurance.\n\nLast week",
+            "href": "https://channellife.com.au/story/snowflake-wins-irap-approval-in-google-cloud-melbourne"
+        },
+        {
+            "text": "PRODUCTIVITY\nBusiness resilience in an age of uncertainty\n\nAustralian firms are shifting from lean efficiency to resilience, using AI, diversified suppliers and shorter planning cycles to absorb shocks and grow.\n\nLast week",
+            "href": "https://itbrief.com.au/story/business-resilience-in-an-age-of-uncertainty"
+        },
+        {
+            "text": "PRODUCTIVITY\nNGM hackathon tackles charity problems in Newcastle\n\nMore than 200 participants helped charities cut manual work and improve support services in a 30-hour AI event in Newcastle.\n\nLast week",
+            "href": "https://itbrief.com.au/story/ngm-hackathon-tackles-charity-problems-in-newcastle"
+        },
+        {
+            "text": "APPLICATION PERFORMANCE MONITORING\nAustralia tightens data centre scrutiny amid AI boom\n\nAustralia tightens data centre approvals as governments weigh AI power, water and jobs against AUD $51.9 billion of NSW pipeline projects.\n\nLast week",
+            "href": "https://itbrief.com.au/story/australia-tightens-data-centre-scrutiny-amid-ai-boom"
+        },
+        {
+            "text": "PRODUCTIVITY\nAustralian CEOs favour AI reskilling over job cuts\n\nMost Australian chief executives are using AI to reshape work and boost skills, with only one in five planning hiring cuts.\n\nLast week",
+            "href": "https://itbrief.com.au/story/australian-ceos-favour-ai-reskilling-over-job-cuts"
+        },
+        {
+            "text": "MIXED REALITY\nFlinders study finds AR glasses boost junior science\n\nJunior pupils showed stronger science understanding and teamwork when AR glasses were paired with classroom screens in a Victorian trial.\n\nLast week",
+            "href": "https://futurefive.com.au/story/flinders-study-finds-ar-glasses-boost-junior-science"
+        },
+        {
+            "text": "CommBank appoints first Chief AI Scientist in Australia\n\nMove at Microsoft",
+            "href": "https://cfotech.com.au/story/commbank-appoints-first-chief-ai-scientist-in-australia"
+        },
+        {
+            "text": "Veracity names Bayfield as Chief Executive Officer\n\nMove at BlueAPACHE",
+            "href": "https://channellife.com.au/story/veracity-names-bayfield-as-chief-executive-officer"
+        },
+        {
+            "text": "Altis appoints Craig Chapman as ACT regional leader\n\nMove at Deloitte",
+            "href": "https://itbrief.com.au/story/altis-appoints-craig-chapman-as-act-regional-leader"
+        },
+        {
+            "text": "Cloudwerx appoints Harsh Mishra to lead SA market expansion\n\nMove at Salesforce",
+            "href": "https://itbrief.com.au/story/cloudwerx-appoints-harsh-mishra-to-lead-sa-market-expansion"
+        },
+        {
+            "text": "Radaro names Gabriele Famous as Chief Strategy Officer\n\nMove at Oracle",
+            "href": "https://itbrief.com.au/story/radaro-names-gabriele-famous-as-chief-strategy-officer"
+        },
+        {
+            "text": "Macquarie Government appoints Dr Chris Peiris for Azure\n\nMove at Microsoft",
+            "href": "https://securitybrief.com.au/story/macquarie-government-appoints-dr-chris-peiris-for-azure"
+        },
+        {
+            "text": "HPE South Pacific names interim boss after Matthews exit\n\nMove at HP",
+            "href": "https://itbrief.com.au/story/hpe-south-pacific-names-interim-boss-after-matthews-exit"
+        },
+        {
+            "text": "Fujifilm Business Innovation Australia names Nagata\n\nMove at FujiFilm",
+            "href": "https://cfotech.com.au/story/fujifilm-business-innovation-australia-names-nagata"
+        },
+        {
+            "text": "Kinetic IT names Kishore Jayaram Chief Transformation Officer\n\nMove at Cisco",
+            "href": "https://itbrief.com.au/story/kinetic-it-names-kishore-jayaram-chief-transformation-officer"
+        },
+        {
+            "text": "FinTech Australia appoints Xero policy chief Grace Gown\n\nMove at Xero",
+            "href": "https://cfotech.com.au/story/fintech-australia-appoints-xero-policy-chief-grace-gown"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://itbrief.com.au/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://itbrief.com.au/tag/amazon-web-services"
+        },
+        {
+            "text": "NVIDIA",
+            "href": "https://itbrief.com.au/tag/nvidia"
+        },
+        {
+            "text": "OpenAI",
+            "href": "https://itbrief.com.au/tag/openai"
+        },
+        {
+            "text": "Google Cloud",
+            "href": "https://itbrief.com.au/tag/google-cloud"
+        },
+        {
+            "text": "Digital Transformation\n→",
+            "href": "https://itbrief.com.au/tag/digital-transformation"
+        },
+        {
+            "text": "Cybersecurity\n→",
+            "href": "https://itbrief.com.au/tag/cybersecurity"
+        },
+        {
+            "text": "Generative AI\n→",
+            "href": "https://itbrief.com.au/tag/generative-ai"
+        },
+        {
+            "text": "Marketing Technologies\n→",
+            "href": "https://itbrief.com.au/tag/marketing-technologies"
+        },
+        {
+            "text": "Risk & Compliance\n→",
+            "href": "https://itbrief.com.au/tag/risk-compliance"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://itbrief.com.au/contact-us"
+        },
+        {
+            "text": "",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "GET THE LATEST FROM\nIT Brief Australia\nSUBSCRIBE",
+            "href": "https://itbrief.com.au/subscribe"
+        },
+        {
+            "text": "FOLLOW US ON\nLinkedIn",
+            "href": "https://www.linkedin.com/company/techday-australia"
+        },
+        {
+            "text": "FOLLOW US ON\nX",
+            "href": "https://x.com/techday_au"
+        },
+        {
+            "text": "",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://cfotech.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://channellife.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://ecommercenews.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://futurefive.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://telconews.com.au/media-kit"
+        },
+        {
+            "text": "Asia",
+            "href": "https://techday.asia/"
+        },
+        {
+            "text": "Canada",
+            "href": "https://techdayca.com/"
+        },
+        {
+            "text": "India",
+            "href": "https://techday.in/"
+        },
+        {
+            "text": "Ireland",
+            "href": "https://techday.ie/"
+        },
+        {
+            "text": "New Zealand",
+            "href": "https://techday.co.nz/"
+        },
+        {
+            "text": "United Kingdom",
+            "href": "https://techday.co.uk/"
+        },
+        {
+            "text": "United States",
+            "href": "https://techday.com/"
+        },
+        {
+            "text": "Brand guidelines",
+            "href": "https://itbrief.com.au/brand-guidelines"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://itbrief.com.au/contact-us"
+        },
+        {
+            "text": "Editorial Calendar",
+            "href": "https://itbrief.com.au/editorial-calendar"
+        },
+        {
+            "text": "Editorial standards",
+            "href": "https://itbrief.com.au/editorial-standards"
+        },
+        {
+            "text": "FAQs",
+            "href": "https://itbrief.com.au/tag/frequently-asked-questions"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "Our team",
+            "href": "https://itbrief.com.au/our-team"
+        },
+        {
+            "text": "Our terms",
+            "href": "https://itbrief.com.au/our-terms"
+        },
+        {
+            "text": "YOUTUBE",
+            "href": "https://www.youtube.com/@techdaynetwork"
+        },
+        {
+            "text": "RSS",
+            "href": "https://itbrief.com.au/feed"
+        },
+        {
+            "text": "Plan B's Cloud Services",
+            "href": "https://www.planb.co.nz/tech-services/cloud-services/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        },
+        {
+            "text": "PowerDMARC",
+            "href": "https://powerdmarc.com/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        }
+    ],
+    "text_length": 24406,
+    "text_full": "IT Brief Australia - Technology news for CIOs & IT decision-makers\nAUSTRALIA\nPOWERED BY\nGUIDES\nArtificial Intelligence\nDigital Transformation\nDisaster Recovery\nHybrid & Remote Work\nInternet of Things\nAUSTRALIAN EDITION · 2026\nThe Ultimate Guide to\nArtificial Intelligence\n\nA curated Australian edition of TechDay news, analysis, interviews, reviews, job moves, and related resources for Artificial Intelligence (AI).\n\nALSO KNOWN AS\nAI\n\nUpdated continuously from TechDay's regional network.\n\nLAST UPDATED:\n\nThu, 21st May 2026 (Today)\n\nWhat to know about Artificial Intelligence\n\nArtificial Intelligence (AI) is rapidly transforming industries, reshaping business operations, enhancing customer experiences, and driving innovation across sectors globally and in Australasia. From the surge in AI-driven cybersecurity threats and the adoption of AI in cloud infrastructure to the integration of generative AI in customer service, marketing, and financial sectors, this dynamic field demands close attention.\n\nExperts emphasise the critical role of robust data management and infrastructure in successfully leveraging AI technologies, while organisations face challenges including skill gaps, ethical considerations, and regulatory developments. As AI adoption accelerates, businesses must balance innovation with security, sustainability, and human-centric strategies to thrive in this evolving landscape.\n\nReaders exploring this tag will gain insights into the latest AI trends, practical applications, organisational strategies, technological advancements, and the collaborative efforts shaping the future of AI. Understanding these developments is essential for anyone interested in the impact of artificial intelligence on business, technology, and society.\n\nAustralian News\nAnalyst Insights\nFeatured News\nReviews\nExpert Columns\nInterviews\nRecent News\nJob Moves\nAUSTRALIAN ARTIFICIAL INTELLIGENCE NEWS\nRegional stories with direct local relevance\nOPINION\nAI accountability gap widens as organisations scale faster than governance\n\nMany Australian firms are slowing AI roll-outs because fragmented oversight is leaving no one clearly accountable for risk, compliance or decisions.\n\nDELOITTE\nHWLE Lawyers picks Legora for major firmwide AI rollout\n\nThe move will put AI tools in daily use for more than 1,900 staff, as HWLE seeks tighter controls around risk, training and compliance.\n\nPERSONALISATION\nSony launches 1000X THE COLLEXION headphones in Australia\n\nThe premium release broadens Sony's 1000X range in Australia and New Zealand, with recycled materials, accessibility features and higher prices.\n\nPRODUCTIVITY\nMaxMine executive takes AI role in mining sector push\n\nTom Cawley's move highlights Australia's drive to turn mining data into usable AI as MaxMine's load-and-dump tool reaches customers.\n\nCLOUD SERVICES\nAustralian budget AI push earns cautious tech support\n\nCautious support from tech leaders hinges on whether Canberra can turn new AI and digital funding into real productivity gains.\n\nDELOITTE\nChief AI Officers: The next test of Australia's digital government leadership\n\nSafely embedding AI into public services now hinges on clearer accountability, as only 22% of Australian organisations use advanced governance models.\n\nAnalyst Insights\nResearch and market analysis connected to Artificial Intelligence\nANALYST\nGartner sees AI spending hit USD $2.59 trillion in 2026\n\nGartner · AI · Productivity\n\nANALYST\nSaviynt named leader in four KuppingerCole reviews\n\nKuppingerCole · AI · PAM\n\nANALYST\nAveva unveils AI & data updates across industrial suite\n\nGartner · AI · Manufacturing\n\nANALYST\nOrigina launches OPTAS to protect unsupported software\n\nGartner · AI · Digital Transformation\n\nANALYST\n8 Data management trends shaping enterprise strategy in 2026-2027\n\nGartner · AI · Integration\n\nFeatured News\nABOUT IT SERVICE MANAGEMENT\nRiverbed says go from ticket queues to zero disruption\n\nAI-driven support tools could cut employee downtime, as Riverbed argues that fewer tickets may still hide unresolved problems.\n\nToday\n\nABOUT INTERNET OF THINGS\nSamsung launches interactive, connected 2026 TV range\n\nKiwi football fans will get stadium-style sound and smarter home control as the new line-up adds AI Football Mode Pro and Vision AI.\n\nYesterday\n\nABOUT PRODUCTIVITY\nThe AI challenge - balancing governance and innovation\n\nMany projects remain stuck at proof of concept as businesses wrestle with data governance, security and agent oversight before scaling AI.\n\nYesterday\n\nABOUT IT DEPARTMENT\nDell numbers the days for hyperconverged infrastructure\n\nRising hypervisor costs and AI demand are pushing customers towards disaggregated systems, as Dell says HCI is becoming too expensive and inflexible.\n\nYesterday\n\nABOUT DATA ANALYTICS\nCatchpoint acquisition by LogicMonitor 'makes a lot of sense'\n\nThe deal could help customers move from reactive IT monitoring to predictive AI-driven automation by combining two different data sets.\n\n2 days ago\n\nABOUT PRODUCTIVITY\nGuidewire: Modernising insurance with accountability\n\nRegulators are warning insurers to keep humans accountable as AI speeds up claims work and other busy tasks, Guidewire says.\n\n3 days ago\n\nABOUT SMALL BUSINESS\nDeputy are shaping future of shift work administration\n\nManagers in retail, hospitality and healthcare could save hours as the AI tool automates rosters and timesheets while flagging breaches.\n\n3 days ago\n\nABOUT BREACH PREVENTION\nHPE assisting IT teams navigate complex challenges\n\nHPE Networking says AI, zero trust and SASE are reshaping network security as remote work and connected devices make threats harder to control.\n\nLast week\n\nABOUT DIGITAL TRANSFORMATION\nCloudera hackathon highlights enterprise AI data challenges\n\nOnly seven per cent of organisations are data ready, raising doubts over whether enterprise AI can move from prototypes to production.\n\nLast week\n\nABOUT SUPPLY CHAIN\nFrom airlines to packaging: How Gurobi optimises workflows\n\nGurobi clients are experiencing significant, compounding benefits from the utilisation of effective optimisation.\n\nLast week\n\nABOUT DATA PROTECTION\nAI use in life sciences focused on augmentation - for now\n\nAI in life sciences is boosting workflows rather than replacing scientists, as firms navigate regulation, data risks and uneven adoption across markets.\n\nLast week\n\nABOUT SMARTPHONES\nTeamViewer utilising AI to cut costly digital friction\n\nA survey of 4,000 workers found digital friction is fuelling burnout, tears and staff turnover as TeamViewer automates routine IT tasks.\n\nThis month\n\nABOUT CLOUD SERVICES\nVanyar primed for success with Uriah Jacobs at the helm\n\nA shortage of skilled partners is slowing wider adoption of Palantir Foundry and AIP, creating an opening for Vanyar in the commercial market.\n\nThis month\n\nABOUT CHIEF INFORMATION SECURITY OFFICER\nUpwind Expands to Sydney: Real Time Cloud Security for APJ\n\nThe Sydney move follows a USD $250 million funding round as the cloud security firm bets on real-time protection for fast-growing AI workloads.\n\nThis month\n\nABOUT MALWARE\nAI agents multiply risk, says DigiCert chief product officer\n\nMany firms cannot see where their AI agents are, leaving identity, policy and supply-chain risks to grow as deployments scale.\n\nLast month\n\nABOUT EDITOR INTERVIEW\nSage Intacct builds explainable AI into accounting\n\nAccountants facing staff shortages may gain faster workflows, as Sage Intacct’s new agent exposes its calculations, sources and audit trail.\n\nLast month\n\nABOUT SUSTAINABILITY\n'Self-learning' AI big boon for Qualtrics' CX\n\nCompanies using AI for customer experience are cutting churn and lifting revenue, with Qualtrics saying richer feedback can triple insights.\n\nLast month\n\nABOUT CLOUD SERVICES\nSage branding itself on trust in AI world of 'big voices'\n\nTrust is emerging as a selling point for finance software as Sage warns that opaque AI can leave CFOs answerable for costly errors.\n\nLast month\n\nABOUT HYBRID CLOUD\nExclusive: Denodo's Dominic Sartorio on perfect data vs the right data\n\nTrust in enterprise AI is being undermined as Denodo research finds most firms still lack live, context-aware data for production use.\n\nLast month\n\nABOUT PRODUCTIVITY\nGoogle flags urgency as AI reshapes cyber threats\n\nPatching delays now carry greater risk as Google says AI is helping attackers scale intrusions, speed up breaches and automate operations.\n\nLast month\n\nABOUT PRODUCTIVITY\nExclusive: Google Cloud reshaping finance with agentic AI\n\nBanks must move beyond isolated pilots if they want agentic AI to deliver enterprise-wide gains, Google Cloud says.\n\nLast month\n\nABOUT THREAT INTELLIGENCE\nExclusive: Google Cloud on the road to autonomous SecOps\n\nThe new tools could cut analysts’ manual threat-response work from days to minutes as Google Cloud pushes SecOps towards an autonomous SOC.\n\nLast month\n\nABOUT DATA WAREHOUSING\nExclusive: Google Cloud accelerates shift to agentic data\n\nEnterprises may soon design data systems for AI agents rather than staff, as Google Cloud adds real-time context, automation and cross-cloud access.\n\nLast month\n\nABOUT IT INDUSTRY\nExclusive: Adobe ANZ chief on AI adoption trends\n\nAI is increasingly moving into live use across Australia and New Zealand, as regulated sectors test deployments while CEOs chase productivity gains.\n\nLast month\n\nABOUT MANUFACTURING\nExclusive: Google sees success with niche AI playbooks\n\nEnterprises are under pressure to prove AI returns as Google pushes reusable, sector-specific playbooks into production across 19 industries.\n\nLast month\n\nABOUT DATA PROTECTION\nExclusive: Grafana Lab's Jen Villa on targeting the AI observability gap\n\nThe new tools aim to help firms spot faulty AI outputs and data risks sooner as production deployments outpace monitoring methods.\n\nLast month\n\nABOUT SHADOW IT\nNetskope's Tony Burnside - visibility is key to AI security\n\nAI tools are creating hidden east-west traffic that security teams struggle to monitor, raising the risk of data leakage and compromise.\n\nLast month\n\nABOUT PRODUCTIVITY\nExclusive: Celonis global banking head says AI rollout hinges on process intelligence\n\nBanks risk wasting AI spending unless they first map how work really flows, as Celonis says process intelligence is becoming phase zero.\n\nLast month\n\nABOUT BIG DATA\nAffirmo: Could AI make a reality of IoT dreams?\n\nAI could help unlock the long-promised value of IoT, as Singapore-based Affirmo pushes real-time tracking into manufacturing and logistics.\n\nLast month\n\nABOUT HACKERS\nTrendAI: Evolving the cybersecurity value proposition\n\nNew research shows two-thirds of Australian business and IT leaders feel pressured to approve AI projects while overlooking security risks.\n\nLast month\n\nABOUT PRODUCTIVITY\nAtturra's Chris Rae: Choose the happy path (or, why 'perfect' automation fails)\n\nWestern Australian mines have cut HR processing time by 80% after a new SAP-linked system let workers self-serve compliance records.\n\nTue, 31st Mar 2026\n\nABOUT DATA PROTECTION\nDiligence the watchword as oversight lags AI governance\n\nMost boards are using AI for routine tasks, but only 3% have woven it into risk oversight, leaving organisations exposed to fresh hazards.\n\nFri, 27th Mar 2026\n\nABOUT COLLABORATION\nScale By Avec says strategic hiring is the key in the age of AI\n\nAI is forcing firms to rethink hiring, as Scale By Avec says training and human skills matter more than simple headcount cuts.\n\nFri, 27th Mar 2026\n\nABOUT BIG DATA\nMilestone turns video data into AI-driven intelligence\n\nDemand for real-time security insights is pushing airports and public spaces towards AI tools that can analyse hundreds of cameras at once.\n\nThu, 26th Mar 2026\n\nABOUT BLUETOOTH\nZetifi's connectivity solutions drive fleet and worker safety\n\nRemote crews can now stay connected and monitored through Zetifi’s multi-network system, reducing risk and unnecessary check-ins in the field.\n\nThu, 26th Mar 2026\n\nABOUT PRODUCTIVITY\nExclusive: Orderfox pushes into autonomous execution with Gieni ABX\n\nOrderfox launches Gieni ABX on Microsoft Azure to push industrial AI beyond insights, automating workflows across enterprise systems with governance.\n\nThu, 26th Mar 2026\n\nABOUT DATA PROTECTION\n'Human Risk' takes centre stage - Mimecast CEO\n\nMimecast chief warns human risk is now cybersecurity's 'eighth layer' as malicious insiders overtake negligence in Australian attacks.\n\nWed, 25th Mar 2026\n\nABOUT SOFTWARE ENGINEERING\nUiPath Accelerates AI in Software Development and Testing\n\nUiPath is pushing AI deeper into software testing, promising autonomous agents that transform quality assurance and developers' roles.\n\nTue, 24th Mar 2026\n\nABOUT IT INDUSTRY\nStrong growth for Irish tech imports across Australia and New Zealand\n\nIrish tech exports to Australia and New Zealand have surged nearly 60% in five years, with Enterprise Ireland backing rapid sector growth.\n\nWed, 18th Mar 2026\n\nABOUT HEALTH TECHNOLOGIES\nCloudera and Svitla Systems bring trusted AI to healthcare\n\nCloudera and Svitla team up to build trusted, clinician‑centric AI that unifies patient data while safeguarding privacy and consent.\n\nTue, 17th Mar 2026\n\nABOUT MARKETING TECHNOLOGIES\nRise of AI Agents introduces new infosec risk: Okta\n\nOkta warns that surging numbers of uncontrolled AI agents pose a major identity and access risk as they become the new digital workforce.\n\nMon, 16th Mar 2026\n\nABOUT BIG DATA\nConfluent says data streaming will enable faster, better decisions\n\nConfluent says organisations must shift to governed data streaming, with AI agents making millisecond decisions at scale.\n\nWed, 11th Mar 2026\n\nABOUT BIG DATA\nElastic says AI search & context now decide customer loyalty\n\nElastic argues that in an AI-obsessed market, robust search across messy data is the real foundation of trustworthy, profitable experiences.\n\nTue, 10th Mar 2026\n\nABOUT EDITOR INTERVIEW\nPlatform consolidation the path to strategic compliance value - Workiva\n\nConsolidated GRC platforms are turning box-ticking compliance into strategic value, says Workiva, as AI raises the stakes on data quality.\n\nTue, 10th Mar 2026\n\nABOUT ETHICS\nAI may sound human...but whose values does it reflect?\n\nHarvard research finds “human-like” AI mirrors Western liberal values, raising concerns over cultural bias as it spreads worldwide.\n\nSat, 7th Mar 2026\n\nABOUT CLOUD SERVICES\nGrafana: Turning data chaos into developer efficiency and CFO savings\n\nGrafana leans on AI-powered observability and Adaptive Telemetry to sharpen developer insight while slashing cloud bills by up to 50%.\n\nThu, 5th Mar 2026\n\nABOUT CLOUD SERVICES\nThe hidden data costs threatening enterprise AI plans\n\nHidden cloud data, egress fees and GPU 'double bubble' bills are quietly turning many enterprise AI ambitions into costly, slow ordeals.\n\nWed, 4th Mar 2026\n\nABOUT CLOUD SERVICES\nGuidewire showcases GenAI's capabilities in insurance risks\n\nGuidewire touts 'insurance-grade AI' as it uses generative tools to speed risk, claims and pricing decisions for cautious insurers.\n\nWed, 4th Mar 2026\n\nABOUT INTELLIGENT SYSTEMS\nBeyond silicon: AMD evolves AI processor performance, makes play for investment trillions\n\nAMD shifts its AI pitch from raw silicon to open software and cloud access as it targets developers and a share of looming trillions.\n\nTue, 3rd Mar 2026\n\nABOUT CHIEF TECHNOLOGY OFFICERS\nWhy Australian leaders are losing faith in IT spend\n\nWith 88% of Australian tech leaders doubting IT ROI, IT financial management emerges as the missing link between spend and value.\n\nMon, 2nd Mar 2026\n\nABOUT DIGITAL TRANSFORMATION\nComposable, process‑aware AI key to enterprise ROI\n\nProcess intelligence and composable architecture are emerging as the missing ingredients to turn fragile AI pilots into resilient, traceable value.\n\nWed, 25th Feb 2026\n\nReviews\nDIGITAL ENTERTAINMENT\nHands-on review: Apple Creator Studio earns its keep\nGAMING\nGame review: Pragmata (PC)\nAPPLICATION PERFORMANCE MONITORING\nHands-on review: Pocket AI Notetaker handy, not revolutionary\nMOBILE GAMING\nHands-on review: Samsung Galaxy A57 5G smartphone\nDIGITAL ENTERTAINMENT\nHands-on review: Samsung Galaxy S26 Ultra refined flagship\nUBISOFT\nGame review: Taxi Chaos 2 (Xbox Series X)\n3D PRINTING\nHands-on Review: Dell Pro 13 Premium laptop\nDIGITAL ENTERTAINMENT\nHands-on Review: Acer Predator Helios Neo 16S AI\nSUSTAINABILITY\nHands-on Review: Apple AirPods Pro 3\nExpert Columns\nAI accountability gap widens as organisations scale faster than governance\n\nBy Corey Rice of OneTrust\n\nA long time ago in a galaxy far, far away…Cybersecurity was already hard\n\nBy Justin Carter\n\nChief AI Officers: The next test of Australia's digital government leadership\n\nBy Ryan van Leent of SAP\n\nThe 'boring' AI ERP capabilities delivering the biggest finance gains\n\nBy Annexa\n\nUsing AI in your ERP? You should know where your data goes\n\nBy Annexa\n\nData matching explained: The key to clean, connected data\n\nBy Bobby Joseph of Melissa\n\nFrom AI Adoption to AI Advantage\n\nBy Roop Singh of Version 1\n\nLooking to Ireland for the CFO tech stack of the future\n\nBy Tiarnan McCaughan of Enterprise Ireland\n\nBusiness resilience in an age of uncertainty\n\nBy Vab Mittal of Adactin\n\nWhy business ambition is running ahead of AI readiness\n\nBy Nathan Knight of Hitachi Vantara\n\nInterviews\nInterviews and video coverage from the network\nRiverbed says go from ticket queues to zero disruption\n\nDiscussing IT service management\n\nSamsung launches interactive, connected 2026 TV range\n\nDiscussing Internet of Things\n\nThe AI challenge - balancing governance and innovation\n\nDiscussing Productivity\n\nDell numbers the days for hyperconverged infrastructure\n\nDiscussing IT Department\n\nCatchpoint acquisition by LogicMonitor 'makes a lot of sense'\n\nDiscussing Data Analytics\n\nRecent Artificial Intelligence News\nPRODUCTIVITY\nHP launches AI-powered PCs in Australia for work & play\n\nAustralian buyers now have access to HP's new AI-enabled PCs, with premium models starting at AUD $2,899 and topping out at AUD $6,500.\n\nYesterday\n\nMARKETING\nSquare AI launched in Australia for small businesses\n\nSmall firms could save hours on admin as the free assistant turns sales data into plain-language answers inside Square's platform.\n\nYesterday\n\nCHIEF FINANCIAL OFFICER\nThe 'boring' AI ERP capabilities delivering the biggest finance gains\n\nLesser-known ERP tools are already cutting month-end work, from reconciliation and AP to forecasting, if the data underneath is clean enough.\n\nYesterday\n\nHYPERSCALE\nUsing AI in your ERP? You should know where your data goes\n\nFinance teams need to know whether ERP AI queries cross borders, because model routing can affect sovereignty, compliance and audit trails.\n\nYesterday\n\nSMALL BUSINESS\nAustralia's late business payments hit six-year high\n\nCash-flow strain is deepening as overdue invoices and tax debts rise, with smaller firms hardest hit by higher rates and costs.\n\nYesterday\n\nWORKFORCE TECHNOLOGY\nSimplifi expands into Australia with human support\n\nThe New Zealand software group is targeting sectors hit by labour shortages and compliance risks as it builds a local team through 2026.\n\nYesterday\n\nMARKETING\nRAMMP launches free AI connector for Claude, ChatGPT\n\nSmall businesses can now diagnose trust gaps in marketing campaigns through Claude or ChatGPT without paying for RAMMP's score itself.\n\n2 days ago\n\nMANUFACTURING\nAustralian firms lag on post-quantum crypto readiness\n\nOnly 11% of organisations are confident they can meet post-quantum deadlines, as legacy systems and tight budgets slow Australian preparations.\n\n2 days ago\n\nADVERTISING TECHNOLOGIES\nDoubleVerify launches AI brand safety tools on Threads\n\nAdvertisers can now block unsuitable content on Threads before ads are served, as DoubleVerify adds hourly refreshed AI controls to its safety tools.\n\n2 days ago\n\nPRODUCTIVITY\nConvai, Probe CX launch AI recruiter for seasonal hiring\n\nRecruiters in seasonal labour markets could save time as the tool cuts candidate drop-off and speeds up screening for high-volume hiring.\n\n3 days ago\n\nDIGITAL TRANSFORMATION\nSquiz launches content tool for AI search visibility\n\nThe new tool aims to help large organisations fix visibility and accessibility gaps across thousands of pages as AI search reshapes publishing.\n\n3 days ago\n\nROBOTICS\nCommBank appoints first Chief AI Scientist in Australia\n\nThe appointment underscores the lender's push to scale responsible AI as banks race to recruit academic talent and manage security and governance risks.\n\n3 days ago\n\nMANAGED SERVICES\nVeracity names Bayfield as Chief Executive Officer\n\nThe Brisbane IT services group is keeping its brand as it pushes deeper into not-for-profit work after Evergreen's acquisition and Lyra transition.\n\n3 days ago\n\nTAXATION\nRemote expands payroll platform in Australia for AI\n\nAustralian employers could ease cross-border payroll and compliance burdens as Remote broadens access to its platform for partners and AI agents.\n\n3 days ago\n\nDATA ANALYTICS\nSnowflake wins IRAP approval in Google Cloud Melbourne\n\nAustralian government agencies can now use Snowflake on Google Cloud in Melbourne for PROTECTED workloads, broadening cloud choice and assurance.\n\nLast week\n\nPRODUCTIVITY\nBusiness resilience in an age of uncertainty\n\nAustralian firms are shifting from lean efficiency to resilience, using AI, diversified suppliers and shorter planning cycles to absorb shocks and grow.\n\nLast week\n\nPRODUCTIVITY\nNGM hackathon tackles charity problems in Newcastle\n\nMore than 200 participants helped charities cut manual work and improve support services in a 30-hour AI event in Newcastle.\n\nLast week\n\nAPPLICATION PERFORMANCE MONITORING\nAustralia tightens data centre scrutiny amid AI boom\n\nAustralia tightens data centre approvals as governments weigh AI power, water and jobs against AUD $51.9 billion of NSW pipeline projects.\n\nLast week\n\nPRODUCTIVITY\nAustralian CEOs favour AI reskilling over job cuts\n\nMost Australian chief executives are using AI to reshape work and boost skills, with only one in five planning hiring cuts.\n\nLast week\n\nMIXED REALITY\nFlinders study finds AR glasses boost junior science\n\nJunior pupils showed stronger science understanding and teamwork when AR glasses were paired with classroom screens in a Victorian trial.\n\nLast week\n\nJob Moves\nCommBank appoints first Chief AI Scientist in Australia\n\nMove at Microsoft\n\nVeracity names Bayfield as Chief Executive Officer\n\nMove at BlueAPACHE\n\nAltis appoints Craig Chapman as ACT regional leader\n\nMove at Deloitte\n\nCloudwerx appoints Harsh Mishra to lead SA market expansion\n\nMove at Salesforce\n\nRadaro names Gabriele Famous as Chief Strategy Officer\n\nMove at Oracle\n\nMacquarie Government appoints Dr Chris Peiris for Azure\n\nMove at Microsoft\n\nHPE South Pacific names interim boss after Matthews exit\n\nMove at HP\n\nFujifilm Business Innovation Australia names Nagata\n\nMove at FujiFilm\n\nKinetic IT names Kishore Jayaram Chief Transformation Officer\n\nMove at Cisco\n\nFinTech Australia appoints Xero policy chief Grace Gown\n\nMove at Xero\n\nTop Players\nMicrosoft\nAWS\nNVIDIA\nOpenAI\nGoogle Cloud\nRelated Guides\nDigital Transformation\n→\nCybersecurity\n→\nGenerative AI\n→\nMarketing Technologies\n→\nRisk & Compliance\n→\nGet featured\n\nTalk to the TechDay team about editorial feature opportunities across the network\n\nContact us\n61 specialist tech sites.\n8 regions. One network.\n678,397\nPUBLISHED STORIES\n7\nAUSTRALIAN SITES\nHuman\nPOWERED\n20th\nyear of business\nGET THE LATEST FROM\nIT Brief Australia\nSUBSCRIBE\nFOLLOW US ON\nLinkedIn\nFOLLOW US ON\nX\nAUSTRALIAN\nFinTech\n\nTechnology news for CFOs & financial decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nIndustry\n\nIndustry insider news for technology resellers\n\nVisit\nMedia kit\nAUSTRALIAN\nCommerce\n\nTechnology news for digital commerce decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nConsumer tech\n\nConsumer technology news from the future\n\nVisit\nMedia kit\nAUSTRALIAN\nEnterprise\n\nTechnology news for CIOs & IT decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nCybersecurity\n\nTechnology news for CISOs & cybersecurity decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nTelecomms\n\nTelecommunications news for ICT decision-makers\n\nVisit\nMedia kit\nExplore other regions\nAsia\nCanada\nIndia\nIreland\nNew Zealand\nUnited Kingdom\nUnited States\nBrand guidelines\nContact us\nEditorial Calendar\nEditorial standards\nFAQs\nMedia kit\nOur team\nOur terms\nYOUTUBE\nRSS\n© 2026 TechDay, All rights reserved. Hosted on Plan B's Cloud Services. DMARC protection by PowerDMARC."
+}

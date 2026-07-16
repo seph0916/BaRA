@@ -1,0 +1,89 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Simple macOS script to extract text from images (OCR)",
+            "href": "https://evanhahn.com/mac-ocr-script/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "How does Swift decode \"weird\" JSON numbers?",
+            "href": "https://evanhahn.com/swift-weird-json-numbers/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#json",
+            "href": "https://evanhahn.com/tags/json/"
+        },
+        {
+            "text": "Converting UIColors to CSS colors",
+            "href": "https://evanhahn.com/convert-uicolor-to-css-color/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ios",
+            "href": "https://evanhahn.com/tags/ios/"
+        },
+        {
+            "text": "#css",
+            "href": "https://evanhahn.com/tags/css/"
+        },
+        {
+            "text": "Disable SwiftLint for a file",
+            "href": "https://evanhahn.com/disable-swiftlint-for-a-file/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        }
+    ],
+    "text_length": 334,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n4 posts tagged #swift\n2025\nSimple macOS script to extract text from images (OCR)\n2025-07-14 #release #macos #swift #ai\n2023\nHow does Swift decode \"weird\" JSON numbers?\n2023-09-06 #swift #json\nConverting UIColors to CSS colors\n2023-04-29 #swift #ios #css\n2022\nDisable SwiftLint for a file\n2022-05-17 #swift"
+}

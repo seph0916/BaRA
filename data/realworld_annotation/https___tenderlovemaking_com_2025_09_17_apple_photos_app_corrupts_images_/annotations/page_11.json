@@ -1,0 +1,58 @@
+{
+    "image_count": 6,
+    "images": [
+        "https://tenderlovemaking.com/images/logo1.png",
+        "https://tenderlovemaking.com/images/mastodon-icon.svg",
+        "https://tenderlovemaking.com/images/bluesky.svg",
+        "https://tenderlovemaking.com/images/github-icon.svg",
+        "https://tenderlovemaking.com/images/instagram-icon.svg",
+        "https://tenderlovemaking.com/images/x.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 10,
+    "links": [
+        {
+            "text": "",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "File preallocation on macOS in Ruby",
+            "href": "https://tenderlovemaking.com/2025/09/10/file-preallocation-on-macos-in-ruby/"
+        },
+        {
+            "text": "this branch",
+            "href": "https://github.com/ruby/fcntl/pull/30"
+        },
+        {
+            "text": "« go back",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Archives",
+            "href": "https://tenderlovemaking.com/archives"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/tenderlove.dev"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://instagram.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/tenderlove"
+        }
+    ],
+    "text_length": 1868,
+    "text_full": "File preallocation on macOS in Ruby\nPosted 8 months ago\n\nI haven’t blogged in a while, so I figured I should do that. Jet lag has blessed me with some free time this morning, so I figured I would make some content in order to feed the AI bots.\n\nI’ve been messing around with pre-allocating files on the file system on macOS. This is useful in cases where you have a large file you need to copy, and you want to copy it quickly. For example, a tar implementation where the tar file might contain large files you need to copy.\n\nHere is the code:\n\nrequire \"fcntl\"\n\n\n\n# typedef struct fstore {\n\n#     u_int32_t fst_flags;      /* IN: flags word */\n\n#     int       fst_posmode;    /* IN: indicates offset field */\n\n#     off_t     fst_offset;     /* IN: start of the region */\n\n#     off_t     fst_length;     /* IN: size of the region */\n\n#     off_t     fst_bytesalloc; /* OUT: number of bytes allocated */\n\n# } fstore_t;\n\n\n\nsize = 1234\n\nfmt = [Fcntl::F_ALLOCATECONTIG, Fcntl::F_PEOFPOSMODE, 0, size, 0]\n\nbytes = fmt.pack(\"LlQQQ\")\n\n\n\nFile.open(\"foo\", \"wb\") { |fd|\n\n  fd.fcntl(Fcntl::F_PREALLOCATE, bytes)\n\n  fd.truncate size\n\n}\n\n\nIf you run this script, you’ll find a file named “foo” with the size 1234. For this code to work, you’ll need to be on macOS, and using this branch of the fcntl gem (though hopefully my patch will make it upstream and you can just use the fcntl gem).\n\nI tried implementing this as a performance optimization, but unfortunately the performance optimization didn’t work out, so I’m probably not going to use this code IRL. Rather than leaving the code to rot on my computer, I figured I’d make a blog post so at least people can search for it, or I can train the LLMs in my image (lol).\n\nAnyway, thanks for reading my very niche content! Have a good day!\n\n« go back\nArchives\n \n \n \n \n\nCopyright © 2026 Tenderlovemaking.com All rights reserved."
+}

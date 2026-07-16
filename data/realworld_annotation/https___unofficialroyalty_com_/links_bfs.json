@@ -1,0 +1,79 @@
+{
+  "start_url": "https://unofficialroyalty.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://unofficialroyalty.com/",
+    "https://www.unofficialroyalty.com/",
+    "http://www.unofficialroyalty.com/",
+    "https://www.unofficialroyalty.com/aboutus/",
+    "https://www.unofficialroyalty.com/current-monarchies-article-index/",
+    "https://www.unofficialroyalty.com/former-monarchies-article-index/",
+    "https://www.unofficialroyalty.com/category/royal-news/",
+    "https://www.unofficialroyalty.com/upcoming-royal-events/",
+    "https://www.unofficialroyalty.com/columnists/",
+    "https://www.unofficialroyalty.com/crowns-and-regalia/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://unofficialroyalty.com/"
+    ],
+    "1": [
+      "https://www.unofficialroyalty.com/",
+      "http://www.unofficialroyalty.com/",
+      "https://www.unofficialroyalty.com/aboutus/",
+      "https://www.unofficialroyalty.com/current-monarchies-article-index/",
+      "https://www.unofficialroyalty.com/former-monarchies-article-index/"
+    ],
+    "2": [
+      "https://www.unofficialroyalty.com/category/royal-news/",
+      "https://www.unofficialroyalty.com/upcoming-royal-events/",
+      "https://www.unofficialroyalty.com/columnists/",
+      "https://www.unofficialroyalty.com/crowns-and-regalia/",
+      "https://www.unofficialroyalty.com/profiles-of-current-royal-families/",
+      "https://www.unofficialroyalty.com/lines-of-succession/",
+      "https://www.unofficialroyalty.com/current-monarchies/quick-guide-to-current-monarchs-heirs-and-official-websites/",
+      "https://www.unofficialroyalty.com/peerage-and-nobility/",
+      "https://www.unofficialroyalty.com/royal-ceremonies/",
+      "https://www.unofficialroyalty.com/royal-christenings/",
+      "https://www.unofficialroyalty.com/churches-related-to-royalty/",
+      "https://www.unofficialroyalty.com/royal-dates/",
+      "https://www.unofficialroyalty.com/royal-illnesses-and-deaths/",
+      "https://www.unofficialroyalty.com/royal-burial-sites/",
+      "https://www.unofficialroyalty.com/royal-orders-and-honors/",
+      "https://www.unofficialroyalty.com/royal-relationships/",
+      "https://www.unofficialroyalty.com/royal-residences/",
+      "https://www.unofficialroyalty.com/current-monarchies-official-websites-social-media-and-mail-addresses/",
+      "https://www.unofficialroyalty.com/royal-tidbits-trivia/",
+      "https://www.unofficialroyalty.com/royal-weddings/",
+      "https://www.unofficialroyalty.com/the-great-pretenders/",
+      "https://www.unofficialroyalty.com/titles-and-styles/",
+      "https://www.unofficialroyalty.com/former-monarchies/kingdom-of-albania/",
+      "https://www.unofficialroyalty.com/current-monarchies-article-index/austrian-royals-index/",
+      "https://www.unofficialroyalty.com/current-monarchies-article-index/bulgarian-royals-index/"
+    ],
+    "3": [
+      "https://www.unofficialroyalty.com/royal-news-recap-for-saturday-may-16-and-sunday-may-17-2026/",
+      "https://www.unofficialroyalty.com/author/scott/",
+      "https://www.unofficialroyalty.com/royal-news-recap-for-friday-may-15-2026/",
+      "https://www.unofficialroyalty.com/author/susan/",
+      "https://www.unofficialroyalty.com/royal-news-recap-for-thursday-may-14-2026/",
+      "https://www.unofficialroyalty.com/category/today-in-royal-history/",
+      "https://www.unofficialroyalty.com/norway-constitution-day-the-national-day-of-norway-may-17/",
+      "https://www.unofficialroyalty.com/current-monarchies-article-index/norwegian-index/",
+      "https://www.unofficialroyalty.com/anne-the-princess-royal/",
+      "https://www.unofficialroyalty.com/prince-richard-duke-of-gloucester/",
+      "https://www.unofficialroyalty.com/a-view-from-dkm/",
+      "https://www.unofficialroyalty.com/columnists/the-laird-othistle/",
+      "https://www.unofficialroyalty.com/columnists/emily-mcmahon/",
+      "https://www.unofficialroyalty.com/columnists/teresa-wentz/",
+      "https://www.unofficialroyalty.com/columnists/paul-james/",
+      "https://www.unofficialroyalty.com/dutch-royal-regalia/",
+      "https://www.unofficialroyalty.com/british-coronation-regalia2/",
+      "https://www.unofficialroyalty.com/the-coronation-chair-and-stone-of-scone/",
+      "https://www.unofficialroyalty.com/st-edwards-crown/"
+    ]
+  },
+  "dead_links": []
+}

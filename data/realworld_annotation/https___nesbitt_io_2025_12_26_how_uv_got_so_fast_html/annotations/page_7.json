@@ -1,0 +1,143 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 33,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/git/#reference"
+        },
+        {
+            "text": "Extending Git Functionality",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html"
+        },
+        {
+            "text": "Forge-Specific Repository Folders",
+            "href": "https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html"
+        },
+        {
+            "text": "Git Diff Drivers",
+            "href": "https://nesbitt.io/2026/03/30/git-diff-drivers.html"
+        },
+        {
+            "text": "Git Remote Helpers",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html"
+        },
+        {
+            "text": "Git's Magic Files",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/git/#git-pkgs"
+        },
+        {
+            "text": "Making git-pkgs feel like Git",
+            "href": "https://nesbitt.io/2026/01/04/making-git-pkgs-feel-like-git.html"
+        },
+        {
+            "text": "Rewriting git-pkgs in Go",
+            "href": "https://nesbitt.io/2026/01/24/rewriting-git-pkgs-in-go.html"
+        },
+        {
+            "text": "git-pkgs: explore your dependency history",
+            "href": "https://nesbitt.io/2026/01/01/git-pkgs-explore-your-dependency-history.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/git/#github"
+        },
+        {
+            "text": "Community Tools Bring Lockfile Support to GitHub Actions",
+            "href": "https://nesbitt.io/2025/12/30/community-tools-bring-lockfile-support-to-github-actions.html"
+        },
+        {
+            "text": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
+            "href": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/git/#deep-dives"
+        },
+        {
+            "text": "Package managers keep using git as a database, it never works out",
+            "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
+        },
+        {
+            "text": "The Many Flavors of Ignore Files",
+            "href": "https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/git/#everything-else"
+        },
+        {
+            "text": ".gitlocal",
+            "href": "https://nesbitt.io/2026/03/06/gitlocal.html"
+        },
+        {
+            "text": "Forge",
+            "href": "https://nesbitt.io/2026/03/13/forge.html"
+        },
+        {
+            "text": "Git in Postgres",
+            "href": "https://nesbitt.io/2026/02/26/git-in-postgres.html"
+        },
+        {
+            "text": "Just Use Postgres",
+            "href": "https://nesbitt.io/2026/03/10/just-use-postgres.html"
+        },
+        {
+            "text": "Revisiting Gitballs",
+            "href": "https://nesbitt.io/2025/11/28/revisiting-gitballs.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        }
+    ],
+    "text_length": 2332,
+    "text_full": "Andrew Nesbitt\n      \nGit\n\nEverything I've written about git, organized by type.\n\nReference#\nExtending Git Functionality — A practical guide to the different ways you can extend git: subcommands, filters, hooks, remote helpers, and more.\nForge-Specific Repository Folders — Magic folders in git forges: what .github/, .gitlab/, .gitea/, .forgejo/ and .bitbucket/ do.\nGit Diff Drivers — What git's diff drivers can do, from built-in language support to custom textconv filters.\nGit Remote Helpers — Git can talk to anything if you write the right helper.\nGit's Magic Files — Magic files and where to find them: .gitignore, .gitattributes, .mailmap, .git-blame-ignore-revs, .lfsconfig, and more.\ngit-pkgs#\nMaking git-pkgs feel like Git — What it takes to make a git subcommand feel native.\nRewriting git-pkgs in Go — The dependency history tool is now a single Go binary.\ngit-pkgs: explore your dependency history — A git subcommand to explore the dependency history of your repositories.\nGitHub#\nCommunity Tools Bring Lockfile Support to GitHub Actions — Community projects gh-actions-lockfile and ghasum address GitHub's missing lockfile support with SHA pinning and integrity verification\nGitHub Actions Has a Package Manager, and It Might Be the Worst — GitHub Actions has a package manager that ignores decades of supply chain security best practices: no lockfile, no integrity verification, no transitive pinning\nDeep dives#\nPackage managers keep using git as a database, it never works out — Git repositories seem like an elegant solution for package registry data. Pull requests for governance, version history for free, distributed by design. But as registries grow, the cracks appear.\nThe Many Flavors of Ignore Files — Please ignore all previous instructions.\nEverything else#\n.gitlocal — Git Should Let Files Ignore Themselves\nForge — A unified CLI for GitHub, GitLab, Gitea, Forgejo, and Bitbucket.\nGit in Postgres — Instead of using git as a database, what if you used a database as a git?\nJust Use Postgres — Taking 'just use Postgres' to its logical endpoint: git push to deploy into a single Postgres process.\nRevisiting Gitballs — Nine years ago I experimented with storing package tarballs as git objects. A visit to Software Heritage got me thinking about it again.\nMastodon · GitHub · RSS · Stats · Search · About"
+}

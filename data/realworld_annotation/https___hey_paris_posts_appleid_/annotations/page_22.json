@@ -1,0 +1,114 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://hey.paris/posts/hint-line-93/cover.png",
+        "https://hey.paris/posts/hint-line-93/cast.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 25,
+    "links": [
+        {
+            "text": "Paris Buttfield-Addison",
+            "href": "https://hey.paris/"
+        },
+        {
+            "text": "EVENTS",
+            "href": "https://hey.paris/books-and-events/events/"
+        },
+        {
+            "text": "WRITING",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://hey.paris/about/"
+        },
+        {
+            "text": "POSTS",
+            "href": "https://hey.paris/all-posts/"
+        },
+        {
+            "text": "Hint Line ‘93",
+            "href": "https://www.acmi.net.au/works/125408--hint-line-93/"
+        },
+        {
+            "text": "Yarn Spinner",
+            "href": "https://yarnspinner.dev/"
+        },
+        {
+            "text": "Game Worlds",
+            "href": "https://www.acmi.net.au/whats-on/game-worlds/"
+        },
+        {
+            "text": "big behind-the-scenes post on the Yarn Spinner blog",
+            "href": "https://yarnspinner.dev/blog/hint-line-93"
+        },
+        {
+            "text": "Mars",
+            "href": "https://themartianlife.com/"
+        },
+        {
+            "text": "Yarn Spinner",
+            "href": "https://yarnspinner.dev/"
+        },
+        {
+            "text": "full behind-the-scenes post on the Yarn Spinner blog",
+            "href": "https://yarnspinner.dev/blog/hint-line-93/"
+        },
+        {
+            "text": "play it at ACMI",
+            "href": "https://www.acmi.net.au/whats-on/game-worlds/"
+        },
+        {
+            "text": "online version",
+            "href": "https://hintline93.acmi.net.au/"
+        },
+        {
+            "text": "online Compendium",
+            "href": "https://compendium.hintline93.com/"
+        },
+        {
+            "text": "YARN SPINNER",
+            "href": "https://hey.paris/tags/yarn-spinner/"
+        },
+        {
+            "text": "GAMES",
+            "href": "https://hey.paris/tags/games/"
+        },
+        {
+            "text": "SECRET LAB",
+            "href": "https://hey.paris/tags/secret-lab/"
+        },
+        {
+            "text": "HINT LINE 93",
+            "href": "https://hey.paris/tags/hint-line-93/"
+        },
+        {
+            "text": "ACMI",
+            "href": "https://hey.paris/tags/acmi/"
+        },
+        {
+            "text": "PROJECT",
+            "href": "https://hey.paris/tags/project/"
+        },
+        {
+            "text": "MUSEUM",
+            "href": "https://hey.paris/tags/museum/"
+        },
+        {
+            "text": "← PREVIOUS\nState of Play: How Australian States Are (Not) …",
+            "href": "https://hey.paris/posts/state-ai-governance/"
+        },
+        {
+            "text": "NEXT →\nSpace News, February 2026",
+            "href": "https://hey.paris/posts/spacenews-february-2026/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://hey.paris/privacy/"
+        }
+    ],
+    "text_length": 4011,
+    "text_full": "Paris Buttfield-Addison\nTechnology · Policy · Games · Arts · Education · Writing\nEVENTS\nWRITING\nABOUT\nPOSTS\nJANUARY 23, 2026\nWe Made a Game About a 1993 Hint Line\n\nI’m so proud of this.\n\nHint Line ‘93, a game we made at Yarn Spinner, is now on display at ACMI’s Game Worlds exhibition. We put up a big behind-the-scenes post on the Yarn Spinner blog, so go read that…\n\nFor those who don’t know, early last year ACMI (the Australian Centre for the Moving Image, a museum of screen culture in Melbourne) put out a call for commissioned microgames. They wanted playable experiences for a museum context: 5-10 minutes, compelling world-building, accessible to a wide variety of visitors.\n\nWe pitched something ridiculous (that I came up with!): a hint line simulator with a 300-page physical binder.\n\nRemember hint lines? 1-900 numbers, long-distance charges, hoping whoever answers actually knows what they’re talking about? They had incomplete documentation, contradictory notes, whatever the previous shift scribbled down. But who were those people? The mechanics and infrastructure of their work is largely forgotten.\n\nSo we made a game where you work at one. You’re a hint line operator for a fictional company called Damocles Interactive, answering calls about their library of obtuse 1993 video games. The solution to problems isn’t on screen. It’s in a real physical binder on the desk next to you called The Compendium, a dog-eared mess of official docs mixed with handwritten notes from previous operators who figured out what actually works.\n\nACMI’s response to our pitch was basically “this sounds completely impractical and we love it.”\n\nWe built the whole thing in two months. Jon Manning, Tim Nugent, Mars Buttfield-Addison, Meghann O’Neill, and I made up the development team. I wrote over 100,000 words across the game’s dialogue and The Compendium, plus a heap of pixel art for the fictional games. My wife, Mars, did an equally absurd amount of art, design, and layout work, and then designed and hand-assembled four complete copies of The Compendium, each one needing to feel genuinely accumulated rather than artificially aged. Decoder wheels, red cellophane for anaglyph decoders, sticky notes in different handwriting styles, hand-corrected maps, corporate memos, fake Usenet posts, the works.\n\nMeghann interviewed Brian Costelloe and Tim Gadler, who actually worked Sega’s Australian tip line from 1992 to 1995. Their stories helped take our concept from nostalgia pastiche into something grounded.\n\nThe dialogue system uses Yarn Spinner (naturally), and we shot photos of real Tasmanian performers for the character portraits, capturing every emotional beat a hint line conversation could hit: confused, frustrated, desperately confused, so confused they might cry.\n\nACMI built a complete 1990s office environment for the installation, with a vintage cubicle setup, modern hardware hidden inside a beige desktop computer, a CRT monitor, a Newton’s cradle desk toy, and a strategically placed dead plant. Perfect corporate wasteland aesthetic.\n\nI’m incredibly proud of what we made. It’s both nostalgia tourism and a game about a disappeared form of human connection. Before gaming became fully documented, wikified, and speedrun-optimised, it was weird, experimental, mysterious. Getting help required talking to another human, someone who might be an expert, might be reading from the same manual you have, or might just be good at confident-sounding guesses.\n\nRead the full behind-the-scenes post on the Yarn Spinner blog.\n\nIf you’re in Melbourne, you can play it at ACMI as part of the Game Worlds exhibition, which runs until 29 March 2026. If you can’t make it, there’s an online version and an online Compendium, but flipping through the physical artifact is genuinely half the fun.\n\nYARN SPINNER\nGAMES\nSECRET LAB\nHINT LINE 93\nACMI\nPROJECT\nMUSEUM\n← PREVIOUS\nState of Play: How Australian States Are (Not) …\nNEXT →\nSpace News, February 2026\n\n© 2026 Dr Paris Buttfield-Addison · Privacy"
+}

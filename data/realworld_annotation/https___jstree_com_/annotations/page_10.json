@@ -1,0 +1,69 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://old.static.jstree.com/images/screen.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 14,
+    "links": [
+        {
+            "text": "",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "home",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "demo",
+            "href": "https://old.jstree.com/demo"
+        },
+        {
+            "text": "documentation",
+            "href": "https://old.jstree.com/documentation"
+        },
+        {
+            "text": "faq",
+            "href": "https://old.jstree.com/faq"
+        },
+        {
+            "text": "check the new version out",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Download\npre 1.0 fix 2",
+            "href": "https://github.com/vakata/jstree/archive/v.pre1.0.zip"
+        },
+        {
+            "text": "Discussion group",
+            "href": "https://groups.google.com/group/jstree"
+        },
+        {
+            "text": "jstree on GitHub",
+            "href": "https://github.com/vakata/jstree"
+        },
+        {
+            "text": "Submit a bug",
+            "href": "https://github.com/vakata/jstree/issues"
+        },
+        {
+            "text": "Support jsTree",
+            "href": "https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@vakata.com&currency_code=USD&amount=&return=https://old.jstree.com/donation&item_name=Buy+me+a+coffee+for+jsTree"
+        },
+        {
+            "text": "valid CSS",
+            "href": "http://jigsaw.w3.org/css-validator/check/referer"
+        },
+        {
+            "text": "valid XHTML",
+            "href": "http://validator.w3.org/check?uri=referer"
+        },
+        {
+            "text": "Ivan Bozhanov",
+            "href": "http://vakata.com/"
+        }
+    ],
+    "text_length": 3077,
+    "text_full": "jsTree\njquery tree plugin\n \nhome\ndemo\ndocumentation\nfaq\nYou are browsing the old site - check the new version out\nDownload\npre 1.0 fix 2\n\n03 Sep 2012\n\nDeveloper resources\nDiscussion group\njstree on GitHub\nSubmit a bug\nSupport jsTree\nThank you\n\nIT Consulting VPNC Tec., Lambisoft Inc., Gene Davis, Latko Management INc., ThinkingMedia, Patrick Harken, Shtripling Sergey, Cameron Seibel, Alexander Shchagin, Bruno Winck, Andreas Stephan, Scott Beaman, Stephen Rosman, Roger Martin, Dan Sexton, Mario Albacete, Listorado, Zaramuk Shardan, Joachim Frischknecht, David Waite, getYourNet IT Services, Competition Management Services, Deborah Reddin, Humane tehnologije, Christian Quirós, Jose Mera, Kresimir Katusic, Dobromir Radichkov, Mario Boggio, Douglas Stanley, Silvio Costantini, J SPIT, Stigur Thorhallsson, Transparent Technologies, Kronos WebSoft, Matthew Alexander, Bailey Projects, Shau-Chi Tse, Chris Wigley, Lewis Duke, Noaman Sachwani, Tommi Kiviniemi, Régis Guyomarch, Luis Fraile Hernández, Bruno Winck, Gareth Farrington, Janusz Noszczyński, Damir Secki, Martin Fisher, Martin Möhnen, Aaron Stone, Adevsoft Inc, Manuel Graf, Joseph Canton, Net Design Ltd, LiquidNet Ltd, Sabin Ioan Cirimpei, Walter Gamba, William Morris, Marcel Wijnands, Webunity.nl, Tactics bvba, Brendon Muir, Philip Ehret, Rinaldas Lazickas, Jake Liu, Pete Smith, Chris Means, Quentin Zervaas, Red Paint Multimedia, Olof Törnqvist, Meshach Weber, Mee Fong Huang, Octavalent, Kevin Papst, Michael Schmidt, Justin Wright, VariPath Technologies, Mate Skoblar, John Lewin, Alvin Schur, Jacob Hochstetler, Heiner Merten, Harold Owen, Kaloyan Tsvetkov, Oliver Jones, Johan Sörlin, Edwin de Vries\n\nWhat is jsTree?\n\njsTree is a javascript based, cross browser tree component. It is packaged as a jQuery plugin.\njsTree is absolutely free (licensed same as jQuery – under the terms of either the MIT License).\n\nStill, if you would like to help this project - click the support link on the left.\n\nFeatures at a glance:\nVarious data sources - HTML, JSON, XML\nSupports AJAX loading\nDrag & drop support\nHighly configurable\nTheme support + included themes\nUses jQuery's event system\nOptional keyboard navigation\nMaintain the same tree in many languages\nInline editing\nOpen/close optional animation\nDefine node types and fine tune them\nConfigurable multitree drag & drop\nOptional checkbox tree support\nSearch function\nSupports plugins\nOptional state saving using cookies\nCurrently supported browsers are:\nInternet Explorer 6+ *\nMozilla Firefox 2+\nSafari 3+\nOpera 9+\nGoogle Chrome\n\n* As of version 0.9.9 there are some minor visual defects (GIF icons instead of PNG, type icons not working, animations are disabled, etc) in IE 6, but jsTree is still be functional. I am aware of the glitches but will not fix them - the world (and jsTree) will be prettier with IE6 out of the picture.\nAs of v.1.0rc (rev.163) the default theme supports IE6 - it is pretty easy to port the other themes, so anyone is welcome to do it - just see how it is done in the default theme.\n\nvalid CSS valid XHTML Created by Ivan Bozhanov"
+}

@@ -1,0 +1,81 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://mahadk.com/_astro/hc-icon.DZgRWiaK_1X3xi2.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 17,
+    "links": [
+        {
+            "text": "Mahad Kalam",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Projects",
+            "href": "https://mahadk.com/projects"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "Contact",
+            "href": "https://mahadk.com/contact"
+        },
+        {
+            "text": "Satori",
+            "href": "https://github.com/vercel/satori"
+        },
+        {
+            "text": "this issue on GitHub",
+            "href": "https://github.com/vercel/satori/discussions/529"
+        },
+        {
+            "text": "Back to all blog posts",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Subscribe on RSS",
+            "href": "https://mahadk.com/rss.xml"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/skyfall_ggs"
+        },
+        {
+            "text": "Update image link for Spaces admin panel screenshot\n(8f92858)",
+            "href": "https://github.com/SkyfallWasTaken/skyfall-site/commit/8f92858"
+        },
+        {
+            "text": "512KB Club\nTeam Blue",
+            "href": "https://512kb.club/"
+        },
+        {
+            "text": "‹",
+            "href": "https://saleh.hackclub.com/"
+        },
+        {
+            "text": "",
+            "href": "https://webring.hackclub.com/"
+        },
+        {
+            "text": "›",
+            "href": "https://doruk.dino.icu/"
+        }
+    ],
+    "text_length": 2752,
+    "text_full": "Mahad Kalam\nHome /\nBlog /\nProjects /\nGitHub /\nContact\nHow to use Satori with your Tailwind config\n\nSatori is an easy to use library that lets you generate an SVG file using React (or Preact)! In my opinion, it’s the nicest way to generate images.\n\nSatori also comes with Tailwind support by default, but there’s a catch - it doesn’t work with your Tailwind config out-of-the-box. In this blog post, I’ll be showing you how to get Satori to work with your Tailwind config!\n\nInstalling dependencies\n\nWe’ll first need to download the dependencies we need. I’ll be using Preact in this tutorial, but React works too (albeit with a few minor changes in the imports and types)\n\nTerminal window\nnpm install preact # or `npm install react`\nnpm install satori\n\nWe’ll also need the tw-to-css library, which’ll convert our Tailwind classes into a style prop that Satori can render.\n\nTerminal window\nnpm install tw-to-css\nThe Code\n\nFirst, let’s import the things we’ll be using:\n\nimport { tailwindToCSS, type TailwindConfig } from \"tw-to-css\";\nimport { cloneElement, isValidElement, type h } from \"preact\";\nimport { Children } from \"preact/compat\";\n\nWe then need to get a twj function (Tailwind to JSON); we’ll use it to convert our Tailwind classes into an object of inline styles that the style prop will use:\n\nconst { twj } = tailwindToCSS({\n  config: (await import(\"../tailwind.config.mjs\")).default as TailwindConfig,\n});\n\nMake sure to replace the path above with the path to your Tailwind config!\n\nNow, let’s define an inlineTailwind function that’ll convert the Tailwind classes into inline styles:\n\nfunction inlineTailwind(el: h.JSX.Element): h.JSX.Element {\n  const { tw, children, style: originalStyle, ...props } = el.props;\n  // Generate style from the `tw` prop\n  const twStyle = tw ? twj(tw.split(\" \")) : {};\n  // Merge original and generated styles\n  const mergedStyle = { ...originalStyle, ...twStyle };\n  // Recursively process children\n  const processedChildren = Children.map(children, (child) =>\n    isValidElement(child) ? inlineTailwind(child as h.JSX.Element) : child,\n  );\n  // Return cloned element with updated props\n  return cloneElement(el, { ...props, style: mergedStyle }, processedChildren);\n}\n\nAnd you’re done! Here’s an example of how you can use this function:\n\nfunction Component() {\n  return <div tw=\"flex bg-base\">Hi there! 👋</div>;\n}\n\n\nconst element = Component();\nconst jsx = inlineTailwind(element);\nconst svg = await satori(jsx, {\n  width: 1200,\n  height: 630,\n  // ... any other satori options\n});\n\nThanks to this issue on GitHub for parts of the code!\n\nNovember 30th 2024\nBack to all blog posts\nSubscribe on RSS\n\n© 2026 Mahad Kalam.\n\nUpdate image link for Spaces admin panel screenshot\n(8f92858)\n512KB Club\nTeam Blue\n‹\n›"
+}

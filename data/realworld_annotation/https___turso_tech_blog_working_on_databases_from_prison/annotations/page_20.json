@@ -1,0 +1,260 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-light.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=089d09358d8f5a3e3815861a7419a616",
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-dark.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=2946b82b1620bb2c7839f85d7e2e113b",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=670828aa-a838-45ed-92aa-b12a0ea9d622&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=b7381c01-7e91-4b3c-ba8b-ba2a44355855&pt=Change%20Data%20Capture%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Ftursodb%2Fcdc&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342653548.922492684413053924&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=670828aa-a838-45ed-92aa-b12a0ea9d622&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=b7381c01-7e91-4b3c-ba8b-ba2a44355855&pt=Change%20Data%20Capture%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Ftursodb%2Fcdc&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342653548.922492684413053924&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 61,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://docs.turso.tech/tursodb/cdc#content-area"
+        },
+        {
+            "text": "Turso home page",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://turso.tech/app"
+        },
+        {
+            "text": "tursodatabase/turso18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "tursodatabase/turso\n18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Turso Database (beta)",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Turso Cloud",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "AgentFS (beta)",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Turso Homepage",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/tursodb/quickstart"
+        },
+        {
+            "text": "Change Data Capture",
+            "href": "https://docs.turso.tech/tursodb/cdc"
+        },
+        {
+            "text": "Concurrent Writes",
+            "href": "https://docs.turso.tech/tursodb/concurrent-writes"
+        },
+        {
+            "text": "Encryption",
+            "href": "https://docs.turso.tech/tursodb/encryption"
+        },
+        {
+            "text": "Vector Search",
+            "href": "https://docs.turso.tech/guides/vector-search"
+        },
+        {
+            "text": "Agent Databases",
+            "href": "https://docs.turso.tech/guides/agent-databases"
+        },
+        {
+            "text": "AI Memory",
+            "href": "https://docs.turso.tech/guides/ai-memory"
+        },
+        {
+            "text": "Code Indexing",
+            "href": "https://docs.turso.tech/guides/code-indexing"
+        },
+        {
+            "text": "Content Caching",
+            "href": "https://docs.turso.tech/guides/content-caching"
+        },
+        {
+            "text": "Getting Started",
+            "href": "https://docs.turso.tech/sql-reference/cli/getting-started"
+        },
+        {
+            "text": "Command-Line Options",
+            "href": "https://docs.turso.tech/sql-reference/cli/command-line-options"
+        },
+        {
+            "text": "Shell Commands",
+            "href": "https://docs.turso.tech/sql-reference/cli/shell-commands"
+        },
+        {
+            "text": "Compatibility",
+            "href": "https://docs.turso.tech/sql-reference/compatibility"
+        },
+        {
+            "text": "Data Types",
+            "href": "https://docs.turso.tech/sql-reference/data-types"
+        },
+        {
+            "text": "Expressions",
+            "href": "https://docs.turso.tech/sql-reference/expressions"
+        },
+        {
+            "text": "Multi-Process Access",
+            "href": "https://docs.turso.tech/sql-reference/multiprocess-access"
+        },
+        {
+            "text": "Extensions",
+            "href": "https://docs.turso.tech/sql-reference/extensions"
+        },
+        {
+            "text": "PRAGMAs",
+            "href": "https://docs.turso.tech/sql-reference/pragmas"
+        },
+        {
+            "text": "Experimental Features",
+            "href": "https://docs.turso.tech/sql-reference/experimental-features"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Enable CDC",
+            "href": "https://docs.turso.tech/tursodb/cdc#enable-cdc"
+        },
+        {
+            "text": "Capture Modes",
+            "href": "https://docs.turso.tech/tursodb/cdc#capture-modes"
+        },
+        {
+            "text": "CDC Table",
+            "href": "https://docs.turso.tech/tursodb/cdc#cdc-table"
+        },
+        {
+            "text": "Querying Changes",
+            "href": "https://docs.turso.tech/tursodb/cdc#querying-changes"
+        },
+        {
+            "text": "Decoding Binary Records",
+            "href": "https://docs.turso.tech/tursodb/cdc#decoding-binary-records"
+        },
+        {
+            "text": "Transactions",
+            "href": "https://docs.turso.tech/tursodb/cdc#transactions"
+        },
+        {
+            "text": "Schema Changes",
+            "href": "https://docs.turso.tech/tursodb/cdc#schema-changes"
+        },
+        {
+            "text": "Multiple Connections",
+            "href": "https://docs.turso.tech/tursodb/cdc#multiple-connections"
+        },
+        {
+            "text": "Example",
+            "href": "https://docs.turso.tech/tursodb/cdc#example"
+        },
+        {
+            "text": "https://docs.turso.tech/llms.txt",
+            "href": "https://docs.turso.tech/llms.txt"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#enable-cdc"
+        },
+        {
+            "text": "MVCC",
+            "href": "https://docs.turso.tech/tursodb/concurrent-writes"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#capture-modes"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#cdc-table"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#querying-changes"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#decoding-binary-records"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#transactions"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#schema-changes"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#multiple-connections"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/tursodb/cdc#example"
+        },
+        {
+            "text": "Suggest edits",
+            "href": "https://github.com/tursodatabase/turso-docs/edit/main/tursodb/cdc.mdx"
+        },
+        {
+            "text": "Raise issue",
+            "href": "https://github.com/tursodatabase/turso-docs/issues/new?title=Issue%20on%20docs&body=Path:%20/tursodb/cdc"
+        },
+        {
+            "text": "Java",
+            "href": "https://docs.turso.tech/connect/java"
+        },
+        {
+            "text": "Concurrent Writes",
+            "href": "https://docs.turso.tech/tursodb/concurrent-writes"
+        },
+        {
+            "text": "discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "github",
+            "href": "https://github.com/tursodatabase"
+        },
+        {
+            "text": "twitter",
+            "href": "https://twitter.com/tursodatabase"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "Powered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform",
+            "href": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=turso"
+        }
+    ],
+    "text_length": 5721,
+    "text_full": "Skip to main content\nTurso home page\nSearch...\nCtrl K\nDashboard\ntursodatabase/turso\n18,893\nTurso Database (beta)\nTurso Cloud\nAgentFS (beta)\nTurso Homepage\nDiscord\nGitHub\nGetting Started\nIntroduction\nQuickstart\nConnect\nFundamentals\nChange Data Capture\nConcurrent Writes\nEncryption\nVector Search\nSync\nAI and Agents\nAgent Databases\nAI Memory\nCode Indexing\nContent Caching\nCLI Reference\nGetting Started\nCommand-Line Options\nShell Commands\nSQL Reference\nCompatibility\nData Types\nExpressions\nStatements\nFunctions\nMulti-Process Access\nExtensions\nPRAGMAs\nExperimental Features\nChangelog\nChangelog\nOn this page\nEnable CDC\nCapture Modes\nCDC Table\nQuerying Changes\nDecoding Binary Records\nTransactions\nSchema Changes\nMultiple Connections\nExample\nFundamentals\nChange Data Capture\nCopy page\nDocumentation Index\n\nFetch the complete documentation index at: https://docs.turso.tech/llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nChange Data Capture (CDC) tracks all data changes (inserts, updates, deletes) made to your database tables. Changes are recorded in a local table that you can query like any other table. This is useful for building reactive applications, syncing data between systems, auditing, and more.\n​\nEnable CDC\nEnable CDC per connection using a PRAGMA:\nPRAGMA capture_data_changes_conn('full');\n\nTo disable:\nPRAGMA capture_data_changes_conn('off');\n\nCDC cannot be used together with MVCC. They are mutually exclusive on the same connection.\n​\nCapture Modes\nMode\tDescription\nid\tCapture only the primary key/rowid of changed rows\nbefore\tCapture row state before changes (for updates/deletes)\nafter\tCapture row state after changes (for inserts/updates)\nfull\tCapture both before and after states, plus per-column update details\n​\nCDC Table\nChanges are stored in the turso_cdc table by default. You can specify a custom table name:\nPRAGMA capture_data_changes_conn('full,my_changes_table');\n\nThe CDC table has the following schema:\nColumn\tType\tDescription\nchange_id\tINTEGER\tAuto-incrementing unique identifier\nchange_time\tINTEGER\tTimestamp (Unix epoch)\nchange_txn_id\tINTEGER\tTransaction ID (groups rows into transactions)\nchange_type\tINTEGER\t1 = INSERT, 0 = UPDATE, -1 = DELETE, 2 = COMMIT\ntable_name\tTEXT\tName of the table that was changed\nid\tvaries\tPrimary key/rowid of the changed row\nbefore\tBLOB\tRow data before the change (modes: before, full)\nafter\tBLOB\tRow data after the change (modes: after, full)\nupdates\tBLOB\tPer-column change details (mode: full)\n​\nQuerying Changes\n-- All changes\nSELECT * FROM turso_cdc;\n\n-- Only inserts\nSELECT * FROM turso_cdc WHERE change_type = 1;\n\n-- Only updates\nSELECT * FROM turso_cdc WHERE change_type = 0;\n\n-- Only deletes\nSELECT * FROM turso_cdc WHERE change_type = -1;\n\n-- Changes for a specific table\nSELECT * FROM turso_cdc WHERE table_name = 'users';\n\n-- Changes in the last hour\nSELECT * FROM turso_cdc WHERE change_time > unixepoch() - 3600;\n\n​\nDecoding Binary Records\nThe before, after, and updates columns store data in a binary format. Use the built-in helper functions to decode them:\nSELECT\n  change_type,\n  table_name,\n  id,\n  bin_record_json_object(table_columns_json_array('users'), after) AS after_state,\n  bin_record_json_object(table_columns_json_array('users'), before) AS before_state\nFROM turso_cdc\nWHERE table_name = 'users' AND change_type != 2;\n\nFunction\tDescription\ntable_columns_json_array(table_name)\tReturns a JSON array of column names for a table (e.g. [\"id\",\"name\",\"email\"])\nbin_record_json_object(columns_json, blob)\tDecodes a binary record into a JSON object using the given column names\n​\nTransactions\nCDC respects transaction boundaries. Changes are only recorded when a transaction commits. If a transaction rolls back, no CDC entries are created.\nAll rows from the same transaction share the same change_txn_id, with a single COMMIT record (change_type = 2) at the end:\nBEGIN;\nINSERT INTO users VALUES (1, 'Alice', 'alice@example.com');\nINSERT INTO users VALUES (2, 'Bob', 'bob@example.com');\nUPDATE users SET name = 'Charles' WHERE id = 1;\nCOMMIT;\n-- All 3 changes + 1 COMMIT record share the same change_txn_id\n\n​\nSchema Changes\nCDC also tracks DDL operations (CREATE TABLE, DROP TABLE, CREATE INDEX, etc.) as changes to the sqlite_schema table:\nPRAGMA capture_data_changes_conn('full');\n\nCREATE TABLE products (id INTEGER PRIMARY KEY, name TEXT);\n-- Recorded in turso_cdc as a change to sqlite_schema\n\n​\nMultiple Connections\nEach connection has its own independent CDC configuration. Different connections can capture to different tables:\n-- Connection 1: Capture to 'audit_log'\nPRAGMA capture_data_changes_conn('full,audit_log');\n\n-- Connection 2: Capture to 'sync_queue'\nPRAGMA capture_data_changes_conn('id,sync_queue');\n\n​\nExample\n-- Create a table\nCREATE TABLE users (\n    id INTEGER PRIMARY KEY,\n    name TEXT,\n    email TEXT\n);\n\n-- Enable full CDC\nPRAGMA capture_data_changes_conn('full');\n\n-- Make some changes\nINSERT INTO users VALUES (1, 'Alice', 'alice@example.com');\nINSERT INTO users VALUES (2, 'Bob', 'bob@example.com');\nUPDATE users SET email = 'alice@newdomain.com' WHERE id = 1;\nDELETE FROM users WHERE id = 2;\n\n-- View the captured changes with decoded data\nSELECT\n  change_id,\n  CASE change_type\n    WHEN 1 THEN 'INSERT'\n    WHEN 0 THEN 'UPDATE'\n    WHEN -1 THEN 'DELETE'\n    WHEN 2 THEN 'COMMIT'\n  END AS operation,\n  table_name,\n  id,\n  bin_record_json_object(table_columns_json_array('users'), after) AS after_state\nFROM turso_cdc\nWHERE change_type != 2\nORDER BY change_id;\n\n\nWas this page helpful?\n\nYes\nNo\nSuggest edits\nRaise issue\nJava\nConcurrent Writes\ndiscord\ngithub\ntwitter\nlinkedin\nPowered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform"
+}

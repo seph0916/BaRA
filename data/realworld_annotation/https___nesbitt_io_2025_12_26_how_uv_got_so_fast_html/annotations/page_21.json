@@ -1,0 +1,427 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 104,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "versioning",
+            "href": "https://nesbitt.io/search#versioning"
+        },
+        {
+            "text": "software development",
+            "href": "https://nesbitt.io/search#software+development"
+        },
+        {
+            "text": "semver",
+            "href": "https://nesbitt.io/search#semver"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "history",
+            "href": "https://nesbitt.io/search#history"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2024-06-24-from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.md"
+        },
+        {
+            "text": "SemVer",
+            "href": "https://semver.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#semver"
+        },
+        {
+            "text": "Tom Preston-Werner",
+            "href": "https://tom.preston-werner.com/"
+        },
+        {
+            "text": "CalVer",
+            "href": "https://calver.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#calver"
+        },
+        {
+            "text": "Mahmoud Hashemi",
+            "href": "https://sedimental.org/"
+        },
+        {
+            "text": "ZeroVer",
+            "href": "https://0ver.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#zerover"
+        },
+        {
+            "text": "Mahmoud Hashemi",
+            "href": "https://github.com/mahmoud/"
+        },
+        {
+            "text": "EffVer",
+            "href": "https://jacobtomlinson.dev/effver/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#effver"
+        },
+        {
+            "text": "Jacob Tomlinson",
+            "href": "https://jacobtomlinson.dev/"
+        },
+        {
+            "text": "RomVer",
+            "href": "https://github.com/romversioning/romver"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#romver"
+        },
+        {
+            "text": "Daniel V from the Legacy Blog crew",
+            "href": "https://web.archive.org/web/20160313185630/http://blog.legacyteam.info/2015/12/romver-romantic-versioning/"
+        },
+        {
+            "text": "Backbone.js",
+            "href": "https://github.com/jashkenas/backbone/issues/2888#issuecomment-29076249"
+        },
+        {
+            "text": "Sentimental Versioning",
+            "href": "https://github.com/dominictarr/sentimental-versioning"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#sentimental-versioning"
+        },
+        {
+            "text": "Dominic Tarr",
+            "href": "https://dominictarr.com/"
+        },
+        {
+            "text": "HashVer",
+            "href": "https://miniscruff.github.io/hashver/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#hashver"
+        },
+        {
+            "text": "miniscruff",
+            "href": "https://github.com/miniscruff"
+        },
+        {
+            "text": "GitDate",
+            "href": "https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#gitdate"
+        },
+        {
+            "text": "Taylor Brazelton",
+            "href": "https://taylorbrazelton.com/"
+        },
+        {
+            "text": "PragVer",
+            "href": "https://github.com/seveibar/pragmaticversioning"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#pragver"
+        },
+        {
+            "text": "Severin Ibarluzea",
+            "href": "https://seve.blog/"
+        },
+        {
+            "text": "WendtVer",
+            "href": "https://wendtver.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#wendtver"
+        },
+        {
+            "text": "Brian Wendt",
+            "href": "https://brianwendt.com/"
+        },
+        {
+            "text": "SoloVer",
+            "href": "https://beza1e1.tuxen.de/SoloVer"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#solover"
+        },
+        {
+            "text": "beza1e1",
+            "href": "https://beza1e1.tuxen.de/"
+        },
+        {
+            "text": "BreakVer",
+            "href": "https://www.taoensso.com/break-versioning"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#breakver"
+        },
+        {
+            "text": "Peter Taoussanis",
+            "href": "https://www.taoensso.com/"
+        },
+        {
+            "text": "encore",
+            "href": "https://github.com/taoensso/encore"
+        },
+        {
+            "text": "Explicit Versioning",
+            "href": "https://github.com/exadra37-versioning/explicit-versioning"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#explicit-versioning"
+        },
+        {
+            "text": "Paulo Renato",
+            "href": "https://exadra37.com/"
+        },
+        {
+            "text": "Announcement Post",
+            "href": "https://medium.com/sapioit/why-having-3-numbers-in-the-version-name-is-bad-92fc1f6bc73c"
+        },
+        {
+            "text": "ZenVer",
+            "href": "https://github.com/NotAShelf/ZenVer/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#zenver"
+        },
+        {
+            "text": "NotAShelf",
+            "href": "https://github.com/NotAShelf"
+        },
+        {
+            "text": "PVP",
+            "href": "https://pvp.haskell.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#pvp"
+        },
+        {
+            "text": "Bulat Ziganshin",
+            "href": "https://github.com/Bulat-Ziganshin"
+        },
+        {
+            "text": "Haskell mailing list",
+            "href": "https://mail.haskell.org/pipermail/haskell/2006-November/018762.html"
+        },
+        {
+            "text": "FloatVer",
+            "href": "https://alexshroyer.com/posts/2024-07-01-FloatVer.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#floatver"
+        },
+        {
+            "text": "Alex Shroyer",
+            "href": "https://github.com/hoosierEE/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#asymptover"
+        },
+        {
+            "text": "Donald Knuth",
+            "href": "https://en.wikipedia.org/wiki/Donald_Knuth"
+        },
+        {
+            "text": "Errata on the book series Computers & Typesetting",
+            "href": "https://www-cs-faculty.stanford.edu/~knuth/abcde.html#bugs"
+        },
+        {
+            "text": "TeX",
+            "href": "https://en.wikipedia.org/wiki/TeX"
+        },
+        {
+            "text": "Archimedes’ constant",
+            "href": "https://en.wikipedia.org/wiki/Archimedes_constant"
+        },
+        {
+            "text": "entry A000796 in the OEIS",
+            "href": "https://oeis.org/A000796"
+        },
+        {
+            "text": "Metafont",
+            "href": "https://en.wikipedia.org/wiki/Metafont"
+        },
+        {
+            "text": "Euler’s number",
+            "href": "https://en.wikipedia.org/wiki/Euler%27s_number"
+        },
+        {
+            "text": "entry A001113 in the OEIS",
+            "href": "https://oeis.org/A001113"
+        },
+        {
+            "text": "algebraic numbers",
+            "href": "https://en.wikipedia.org/wiki/Algebraic_number"
+        },
+        {
+            "text": "transcendental numbers",
+            "href": "https://en.wikipedia.org/wiki/Transcendental_number"
+        },
+        {
+            "text": "TrunkVer",
+            "href": "https://trunkver.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#trunkver"
+        },
+        {
+            "text": "Chris Klyk",
+            "href": "https://github.com/c089"
+        },
+        {
+            "text": "Raimo Radczewski",
+            "href": "https://github.com/rradczewski"
+        },
+        {
+            "text": "crafted. tech collective GmbH",
+            "href": "https://www.crftd.tech/"
+        },
+        {
+            "text": "Epoch SemVer",
+            "href": "https://antfu.me/posts/epoch-semver"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html#epoch-semver"
+        },
+        {
+            "text": "SemVer",
+            "href": "https://semver.org/"
+        },
+        {
+            "text": "Anthony Fu",
+            "href": "https://antfu.me/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2024-06-24-from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.md"
+        },
+        {
+            "text": "Spec-ulation",
+            "href": "https://www.youtube.com/watch?v=oyLBGkS5ICk"
+        },
+        {
+            "text": "SemVer will not save you",
+            "href": "https://hynek.me/articles/semver-will-not-save-you/"
+        },
+        {
+            "text": "Software Versioning",
+            "href": "https://en.wikipedia.org/wiki/Software_versioning"
+        },
+        {
+            "text": "Software Versioning Schemes",
+            "href": "https://safjan.com/software-versioning-schemes/"
+        },
+        {
+            "text": "Package Management Blog Posts",
+            "href": "https://nesbitt.io/2026/01/09/package-management-blog-posts.html"
+        },
+        {
+            "text": "PromptVer",
+            "href": "https://nesbitt.io/2025/12/01/promptver.html"
+        },
+        {
+            "text": "Package Manager Timeline",
+            "href": "https://nesbitt.io/2025/11/15/package-manager-timeline.html"
+        },
+        {
+            "text": "Package Management Papers",
+            "href": "https://nesbitt.io/2025/11/13/package-management-papers.html"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2024-06-24-from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.md"
+        }
+    ],
+    "text_length": 19406,
+    "text_full": "Andrew Nesbitt\n      \nFrom ZeroVer to SemVer: A List of Versioning Schemes in Open Source\nversioningsoftware developmentsemverpackage-managersreferencehistory\n\nJun 24, 2024\n\nYou might assume Semantic Versioning (SemVer) is the only real game in town but versioning in open source is far messier and more diverse than that. Across different ecosystems, maintainers have proposed and adopted a wide range of alternative schemes, from the satirical to the pragmatic. This post is a catalogue of the many versioning approaches that exist in the wild today—from ZeroVer to SemVer and beyond.\n\nIf you know of a versioning scheme that’s missing from this list, I’d love to hear about it. You can reach me on Mastodon or open a pull request on GitHub.\n\nSemVer#\n\nSemantic Versioning (SemVer) is probably the most widely used and often assumed default versioning scheme in open source software. It follows the format MAJOR.MINOR.PATCH, where:\n\nMAJOR version increments indicate incompatible API changes,\nMINOR version increments add functionality in a backward-compatible manner,\nPATCH version increments make backward-compatible bug fixes.\n\nThis scheme provides a clear and predictable way to manage and communicate changes in software projects.\n\nOriginally proposed by Tom Preston-Werner in 2010, SemVer has since become the de facto standard for versioning in the open source community, used by many package managers and repositories, including npm, RubyGems, and Cargo.\n\nCalVer#\n\nCalendar Versioning (CalVer) is a versioning scheme that uses a date-based version number, typically in the format YYYY.MM.DD. This scheme is based on the idea that version numbers should be human-readable and easy to understand, providing a clear indication of when a release was made.\n\nCalVer offers multiple calendar-based formats to suit different project needs:\n\nYYYY.MM.DD: Full date (e.g., 2021.03.22) indicating the exact release day.\nYYYY.MM: Year and month (e.g., 2021.03) for monthly releases.\nYYYY.0M.DD: Zero-padded month and day (e.g., 2021.03.05) for consistency in sorting.\nYY.0M.DD: Short year, zero-padded month, and day (e.g., 21.03.05) for compactness.\nYYYY.WW: Year and week number (e.g., 2021.12) for weekly releases.\nYY.0W: Short year and zero-padded week (e.g., 21.05) for a simpler weekly format.\n\nCalVer was proposed by Mahmoud Hashemi in March 2016.\n\nZeroVer#\n\nZeroVer is a satirical versioning scheme where the version number always starts with 0. This convention humorously suggests that software is perpetually in its initial development stages, indicating that it is not yet stable and that APIs are subject to change. Versions might look like 0.1.0, 0.2.0, and so on.\n\nWhile it’s meant as a joke, many projects unintentionally fall into ZeroVer compatibility simply because they have never made the jump to 1.0.0. This can also serve to set expectations about the software’s maturity and stability during early development.\n\nVersion 0.0.1 of ZeroVer was published by Mahmoud Hashemi on 2018-04-01.\n\nEffVer#\n\nIntended Effort Versioning (EffVer) is a versioning scheme that, instead of quantifying the orthogonality of a change, tries to quantify the intended work required to adopt the change. EffVer doesn’t make a distinction between bug fixes, enhancements, and features, as releases often include all of these elements.\n\nInstead, it focuses solely on the effort required for existing users to adopt new versions. The version number reflects the effort needed, with higher numbers indicating more significant changes and potentially greater effort to adopt. This approach helps users better plan for updates by understanding the impact on their workflow.\n\nEffVer was proposed by Jacob Tomlinson in January 2024 as an alternative to SemVer and CalVer, aiming to provide a more user-centric approach to versioning.\n\nRomVer#\n\nRomantic Versioning (RomVer) is a versioning scheme based on Semantic Versioning (SemVer) but attempts to extract the “versioning spec” from real-world usage of software versions, such as those in Node, Rails, PHP, jQuery, NPM, and the Linux Kernel. RomVer follows the format HUMAN.MAJOR.MINOR, where:\n\nHUMAN is a memorable, human-readable name or word that encapsulates the essence or milestone of the release,\nMAJOR indicates significant, potentially backward-incompatible changes,\nMINOR denotes smaller, backward-compatible updates and bug fixes.\n\nRomVer seeks to enforce some rules to make software versioning predictable and straightforward, helping users better understand the impact of updates. By using human-readable names, it provides a more intuitive way to identify and recall different versions, aligning closely with real-world practices observed in various software projects.\n\nRomVer was proposed by Daniel V from the Legacy Blog crew in 2015.\n\nThe term as also used by Jeremy Ashkenas in 2012 in the context of Backbone.js.\n\nSentimental Versioning#\n\nSentimental Versioning takes a whimsical and highly personal approach to versioning. Unlike SemVer, which has a formal specification, Sentimental Versioning provides a guide with some playful suggestions. Key aspects include:\n\nCreativity and Originality: You should not copy another sentimental versioning system. Instead, create something unique and original.\nPersonal Meaning: The version number must be meaningful to you, the author.\nFlexibility: You may explain the system you create if the beauty is enhanced by understanding it, or you may improvise new numbers based on your mood on that day.\n\nSentimental Versioning encourages a deeply personal and creative expression through version numbers, making each version a reflection of the author’s sentiments and individuality.\n\nSentimental Versioning was proposed by Dominic Tarr in August 2014.\n\nHashVer#\n\nHash Versioning (HashVer) is perfect if you are publishing very frequently. The HashVer format consists of 3 or 4 values separated by a period:\n\nFull year (printf(“%Y”))\nZero padded month (printf(“%m”))\n[Optional] Zero padded day (printf(“%d”))\n10+ characters of the current source control commit’s hash\n\nExamples:\n\n2020.01.67092445a1abc\n2019.07.21.3731a8be0f1a8\n\nHashVer allows for frequent and precise versioning by incorporating both the release date and a unique identifier from the source control system. This makes it easy to track specific builds and changes over time.\n\nBecause commit hashes are random, additional granularity like days or a CI build index ensures proper ordering when releasing frequently. This approach allows for precise and traceable versioning by combining the release date with a unique commit identifier.\n\nHashVer was proposed by miniscruff in 2020.\n\nGitDate#\n\nGitDate Versioning is similar to HashVer, addressing issues with Semantic Versioning by using the commit date from a Git repository. This provides clear and precise tracking of changes.\n\nFormat: year.month.day.git-short-code\n\nExamples:\n2021.03.22.d31d336\n2021.03.31.44cf59b1\n2022.02.14.2c52a964\n\nGitDate indicates the release date of each version for easy identification of when a version was created. It allows quick lookup of changes using git compare and provides visibility into the last release for infrastructure teams. Even without git tags, specific versions can be cloned using the format.\n\nHowever, multiple builds on the same day may require git repository access to determine the order. Additionally, it allows customers to see when the software was last updated.\n\nGitDate was proposed by Taylor Brazelton in June 2022.\n\nPragVer#\n\nPragmatic Versioning optimizes for communicating changes to package consumers while retaining simple semantics for package maintainers. The format is BIGRELEASE.ANNOUNCE.INCREMENT, where:\n\nBIGRELEASE indicates major updates or significant milestones controlled by the package author.\nANNOUNCE communicates notable announcements or changes.\nINCREMENT is a smaller, incremental update for every contribution.\n\nPragmatic Versioning addresses the challenges faced by package authors, enabling them to maintain old versions and release new ones efficiently. It helps communicate what will be maintained, how to get the most appropriate version, and allows for automatic releases without explicitly labeling each change. This approach ensures clear expectations and effective communication with the user community.\n\nPragmatic Versioning was proposed by Severin Ibarluzea in December 2023.\n\nWendtVer#\n\nWendtVer is a tongue-in-cheek versioning system designed to minimize the thought required for version increments. Starting at 0.0.0, every commit increments the version number following these rules:\n\nPATCH version increments on every commit.\nMINOR version increments when the next PATCH would be 10, rolling PATCH over to 0.\nMAJOR version increments when the next MINOR would be 10, rolling MINOR over to 0.\n\nAdditional labels for pre-release and build metadata are not available as extensions to the MAJOR.MINOR.PATCH format.\n\nThis system, while creating chaotic and meaningless version numbers, makes it easy to predict the next version. WendtVer serves as a humorous alternative to Semantic Versioning, emphasizing simplicity over rational versioning practices.\n\nWendtVer was proposed by Brian Wendt in August 2018\n\nSoloVer#\n\nSoloVer is a simple and expressive versioning specification that uses a single number with an optional postfix.\n\nFormat: <version_number>[<postfix>]\n\nversion_number: A single integer, starting at 0.\npostfix: Optional, matching regex [+-][A-Za-z0-9_]+.\n\nRules:\n\nIncrement the version number for each new release.\nPostfixes can be added for extra context.\n\nPrecedence:\n\nHigher numbers follow lower numbers.\n+ postfixes come after no postfix (for hotfixes).\n- postfixes come before no postfix (for pre-releases).\nPostfixes are sorted alphanumerically; longer ones come last.\n\nSoloVer does not communicate “backward compatibility” and focuses on simplicity and expressiveness, leaving compatibility documentation and testing to the provider and user.\n\nSoloVer was proposed by beza1e1 in March 2024.\n\nBreakVer#\n\nBreak Versioning (BreakVer) aims to fix several issues identified with Semantic Versioning (SemVer). BreakVer addresses the complexity of SemVer’s lengthy specification and its lack of distinction between major and minor breakages.\n\nBreakVer aims to be easy to follow strictly, making it more reliable in practice. It emphasizes the maximum potential impact of version updates, ensuring clear communication about the safety of upgrades.\n\nBreakVer Specification:\n\nFormat: <major>.<minor>.<non-breaking>[-<optional-qualifier>]\nmajor: Major breaking changes or significant non-breaking changes.\nminor: Minor breaking changes or minor non-breaking changes.\nnon-breaking: Strictly no breaking changes.\noptional-qualifier: Tags like -alpha1, -RC2, etc.\n\nVersion Bumps:\n\nnon-breaking: Always a safe upgrade.\nminor: Check the CHANGELOG for minor breakages.\nmajor: Check the CHANGELOG for major breakages.\n\nBreakVer was proposed by Peter Taoussanis in August 2015 as part of the encore clojure library.\n\nExplicit Versioning#\n\nExplicit Versioning:\n\nExplicit Versioning is a specification for developers who care about releasing software with clear, explicit announcements of intended breaking changes. It uses an extra required identifier to handle intentional incompatible changes.\n\nSpecification Schema: Explicit Versioning uses a schema composed of four identifiers, represented as:\n\nDisruptive.Incompatible.Compatible.Fix[-Optional_Identifiers]\n\nKey Differences from SemVer:\n\nIsolation of Incompatible Releases: Isolates any intentional incompatible release from other types of releases.\nDisruptive Situations: The most left number is only incremented when a disruptive situation occurs in the software, not for minimal backward incompatible changes.\nClarity and Precision: Reduces ambiguity in the usage and interpretation of the versioning schema.\n\nThis approach ensures that any significant, intentional changes are clearly communicated, providing a more precise and unambiguous versioning system for developers and users.\n\nExplicit Versioning was proposed by Paulo Renato in February 2017, more details can be found in the Announcement Post.\n\nZenVer#\n\nZen Versioning (ZenVer) is a revolutionary, simple, and straightforward versioning specification. Unlike Semantic Versioning, ZenVer demands nothing from the developer and less from the end-user. The idea is clear: number go up, software go new.\n\nLarger is greater, greater is larger. Larger number means better software.\n\nSpecification: Given a version number VERSION, increment the:\n\nVERSION when you make incompatible API changes.\nVERSION when you add functionality in a backward-compatible manner.\nVERSION when you make backward-compatible bug fixes.\nVERSION when you change practically anything.\n\nNo additional labels, titles, or subtitles for pre-release and build metadata should be appended to the VERSION format. Such metadata can be used outside the version string but should be avoided in package meta information.\n\nZenVer was proposed by NotAShelf in May 2024.\n\nPVP#\n\nPackage Versioning Policy (PVP) is a versioning scheme designed specifically for the Haskell ecosystem to manage package dependencies and ensure compatibility. It provides a formal specification for version numbers to help developers and users maintain and use Haskell packages effectively.\n\nVersion Number Format: A.B.C\n\nA.B: Major version number.\nC: Minor version number.\n\nRules:\n\nBreaking Changes: If any entity is removed or altered in a way that could break compatibility, increment the major version (A.B).\nNon-Breaking Changes: If only new bindings, types, or classes are added without breaking existing functionality, increment the minor version (C).\nMinor Updates: For minor, non-breaking updates like documentation corrections, other components of the version may change, but A.B.C can remain the same.\n\nPrinciples:\n\nIsolation of Incompatible Releases: Major version increments isolate incompatible changes, ensuring clarity for users about potential breaking changes.\nDisambiguation: Clear rules reduce ambiguity in how versions are incremented.\nConsistency: Ensures consistent dependency specifications to avoid build and compatibility issues.\n\nPVP is specifically tailored to the Haskell ecosystem, differing from Semantic Versioning (SemVer) by not using a special meaning for 0.x.y versions and not supporting version tags or build metadata.\n\nPVP was proposed to the Haskell community by Bulat Ziganshin in 2006, three years before SemVer, on the Haskell mailing list.\n\nFloatVer#\n\nFloatVer is a versioning scheme that uses non-negative IEEE754 32-bit floating point numbers in base-10 format. FloatVer is natively supported by the majority of programming languages, CPUs, and GPUs. Some example FloatVer version numbers are 0.7 and 290.10008.\n\nVersion Number Format: breaking.nonbreaking\n\nbreaking: incremented by 1 for backward-incompatible changes\nnonbreaking: incremented for backward-compatible changes\nPurely nonbreaking changes MUST NOT increment the breaking part of the number.\nBreaking changes MAY change the nonbreaking part of the number to any value.\nLeading and trailing zeros are ignored, except in the case of 0.0.\n0.0 is the minimum version and starting point for all FloatVer projects.\n340282346638528859811704183484516925440.0000000000000000 is the largest possible version supported by FloatVer.\n\nIn the context of FloatVer, “backward-compatible” means:\n\nno semantic changes to existing functionality\nan updated existing feature uses no more memory, time, or cores than its previous version\nthe software takes up no more than 1.5 times the space of the previous version\n\nThese rules ensure that nonbreaking versions permit safe automatic upgrades. FloatVer was proposed by Alex Shroyer in July 2024.\n\nAsymptoVer#\n\nAsymptoVer – yes, I’ve just made up that name – is a peculiar, maybe even esoteric, versioning scheme. It was popularized by Donald Knuth (see also Errata on the book series Computers & Typesetting). Version numbers are decimal numbers that asymptotically approach a number with an infinite decimal expansion (usually an irrational number).\n\nExamples:\n\nVersion numbers of TeX approach Archimedes’ constant. The scheme was adopted at version number 3, followed by version 3.1, then 3.14, then 3.141, and so on (see entry A000796 in the OEIS).\nVersion numbers of Metafont approach Euler’s number, starting at 2, followed by 2.7, then 2.71, and so on (see entry A001113 in the OEIS).\n\nIf you feel like joking: There are plenty irrational algebraic numbers and transcendental numbers available.\n\nTrunkVer#\n\nTrunkVer is a versioning scheme designed for trunk-based development and continuous delivery pipelines. It automates version generation, embedding meaningful metadata about the build, such as timestamps and commit hashes. TrunkVer is structurally compatible with SemVer.\n\nVersion Number Format: YYYYMMDDHHMMSS.0.0-gCOMMIT_HASH-BUILD_REF\n\nTimestamp: YYYYMMDDHHMMSS represents the build date and time in UTC.\nCommit Hash: gCOMMIT_HASH is the short Git commit hash of the build.\nBuild Ref: BUILD_REF is a CI/CD reference (e.g., pipeline ID or local for manual builds).\n\nKey Features:\n\nAutomates versioning in trunk-based workflows, eliminating manual version debates.\nEnsures each build is uniquely identifiable.\nSupports traceability and auditing for compliance and debugging.\nCompatible with existing SemVer tooling for a seamless transition.\n\nTrunkVer was proposed as a practical solution for modern continuous integration and deployment environments. TrunkVer was proposed by Chris Klyk and Raimo Radczewski of crafted. tech collective GmbH in May 2024.\n\nEpoch SemVer#\n\nEpoch SemVer extends Semantic Versioning by introducing an additional numeric prefix called an epoch. This prefix is intended to handle situations where a project undergoes fundamental changes—like a full rewrite or rebrand—that traditional SemVer can’t clearly express.\n\nFormat: EPOCH:MAJOR.MINOR.PATCH\n\nEPOCH: Increments when a project resets or diverges in a way that breaks continuity with previous versions.\nMAJOR.MINOR.PATCH: Follows standard SemVer rules.\n\nThe epoch helps clarify incompatible timelines and avoids confusion when version numbers otherwise might overlap or reset.\n\nEpoch SemVer was proposed by Anthony Fu in Jan 2025.\n\nIf you know of any other versioning schemes that should be on this list? Let me know on mastodon or submit a pull request to GitHub.\n\nSome other versioning related links:\n\nSpec-ulation by Rich Hickey\nSemVer will not save you by Hynek Schlawack\nSoftware Versioning on Wikipedia\nSoftware Versioning Schemes by Krystian Safjan\nRelated posts\nPackage Management Blog Posts Jan 9, 2026\n\nBlog posts, talks, and essays that changed how people think about dependency management.\n\nPromptVer Dec 1, 2025\n\nA semver-compatible versioning scheme for the age of LLMs.\n\nPackage Manager Timeline Nov 15, 2025\n\nA chronological timeline of package manager releases, major milestones, and significant events in the history of software dependency management.\n\nPackage Management Papers Nov 13, 2025\n\nA collection of academic research papers on package management systems, dependency resolution, supply chain security, and software ecosystems.\n\nPackage Security Problems for AI Agents Apr 8, 2026\n\nPackages all the way down, agents all the way up.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

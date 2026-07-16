@@ -1,0 +1,142 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://addyosmani.com/assets/images/iframe-lazyloading.png",
+        "https://addyosmani.com/assets/images/iframe-chromecom.png",
+        "https://addyosmani.com/assets/images/fblike.png",
+        "https://addyosmani.com/assets/images/addy_2022.jpg"
+    ],
+    "video_count": 1,
+    "videos": [
+        "https://storage.googleapis.com/web-dev-assets/iframe-lazy-loading/lazyload-iframes-compressed.webm"
+    ],
+    "link_count": 31,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "standardized",
+            "href": "https://github.com/whatwg/html/pull/5579"
+        },
+        {
+            "text": "demo",
+            "href": "https://lazy-load.netlify.app/iframes/"
+        },
+        {
+            "text": "automatically lazy-loading offscreen iframes for Data Saver users",
+            "href": "https://blog.chromium.org/2019/10/automatically-lazy-loading-offscreen.html"
+        },
+        {
+            "text": "First Contentful Paint",
+            "href": "https://web.dev/fcp/"
+        },
+        {
+            "text": "First Input Delay",
+            "href": "https://web.dev/fid/"
+        },
+        {
+            "text": "Lite Mode",
+            "href": "https://blog.chromium.org/2019/04/data-saver-is-now-lite-mode.html"
+        },
+        {
+            "text": "supported",
+            "href": "https://bugs.chromium.org/p/chromium/issues/detail?id=993273"
+        },
+        {
+            "text": "YouTube lite component",
+            "href": "https://github.com/paulirish/lite-youtube-embed"
+        },
+        {
+            "text": "Like plugin",
+            "href": "https://developers.facebook.com/docs/plugins/like-button/"
+        },
+        {
+            "text": "all of Facebook’s social plugins now support native iframe lazy-loading",
+            "href": "https://developers.facebook.com/docs/plugins/like-button#settings"
+        },
+        {
+            "text": "Lite Mode",
+            "href": "https://blog.chromium.org/2019/04/data-saver-is-now-lite-mode.html"
+        },
+        {
+            "text": "NetworkInformation API",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/NetworkInformation"
+        },
+        {
+            "text": "lazysizes",
+            "href": "https://web.dev/use-lazysizes-to-lazyload-images/"
+        },
+        {
+            "text": "Chromium Bug Tracker",
+            "href": "https://bugs.chromium.org/p/chromium/issues/entry?components=Blink%3ELoader%3ELazyLoad"
+        },
+        {
+            "text": "image and video lazy-loading collection",
+            "href": "https://web.dev/fast/#lazy-load-images-and-video"
+        },
+        {
+            "text": "web.dev",
+            "href": "https://web.dev/iframe-lazy-loading/"
+        },
+        {
+            "text": "Addy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.",
+            "href": "http://twitter.com/addyosmani"
+        },
+        {
+            "text": "Tweet",
+            "href": "https://twitter.com/intent/tweet?text=https://addyosmani.com/blog/native-iframe-lazy-loading/%20-%20Native%20lazy-loading%20for%20iframes%20is%20here!%20by%20@addyosmani"
+        },
+        {
+            "text": "Bluesky",
+            "href": "https://bsky.app/intent/compose?text=Native%20lazy-loading%20for%20iframes%20is%20here!%20-%20https://addyosmani.com/blog/native-iframe-lazy-loading/"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/share?text=Native%20lazy-loading%20for%20iframes%20is%20here!%0Ahttps://addyosmani.com/blog/native-iframe-lazy-loading/"
+        },
+        {
+            "text": "Threads",
+            "href": "https://www.threads.net/intent/post?text=Native%20lazy-loading%20for%20iframes%20is%20here!%0Ahttps://addyosmani.com/blog/native-iframe-lazy-loading/"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://addyosmani.com/blog/native-iframe-lazy-loading/"
+        },
+        {
+            "text": "Share",
+            "href": "https://addyosmani.com/blog/native-iframe-lazy-loading/#"
+        }
+    ],
+    "text_length": 9590,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nNative lazy-loading for iframes is here!\nJULY 24, 2020\n\nNative lazy-loading for images landed in Chrome 76 via the loading attribute and later came to Firefox. We are happy to share that native lazy-loading for iframes is now standardized and is also supported in Chrome and Chromium-based browsers.\n\n<iframe src=\"https://example.com\"\n        loading=\"lazy\"\n        width=\"600\"\n        height=\"400\"></iframe>\n\n\nNative lazy-loading of iframes defers offscreen iframes from being loaded until the user scrolls near them. This saves data, speeds up the loading of other parts of the page, and reduces memory usage.\n\nThis demo of <iframe loading=lazy> shows lazy-loading video embeds:\n\nWhy should we lazy-load iframes?\n\nThird-party embeds cover a wide range of use cases, from video players, to social media posts, to ads. Often this content is not immediately visible in the user’s viewport. Rather, it’s only seen once they scroll further down the page. Despite this, users pay the cost of downloading data and costly JavaScript for each frame, even if they don’t scroll to it.\n\nBased off Chrome’s research into automatically lazy-loading offscreen iframes for Data Saver users, lazy-loading iframes could lead to 2-3% median data savings, 1-2% First Contentful Paint reductions at the median, and 2% First Input Delay (FID) improvements at the 95th percentile.\n\nHow does native lazy-loading for iframes work?\n\nThe loading attribute allows a browser to defer loading offscreen iframes and images until users scroll near them. loading supports three values:\n\nlazy: is a good candidate for lazy-loading.\neager: is not a good candidate for lazy-loading. Load right away.\nauto: browser will determine whether or not to lazily load.\n\nNote: auto is currently a non-standard value, but is the default in Chrome today. Chrome intends on bringing a proposal for this value to the standards table.\n\nUsing the loading attribute on iframes works as follows:\n\n<!-- Lazy-load the iframe -->\n<iframe src=\"https://example.com\" \n        loading=\"lazy\" \n        width=\"600\" \n        height=\"400\"></iframe>\n\n<!-- Eagerly load the iframe -->\n<iframe src=\"https://example.com\" \n        width=\"600\" \n        height=\"400\"></iframe>\n\n<!-- or use loading=\"eager\" to out of automatic \nlazy-loading in Lite Mode -->\n<iframe src=\"https://example.com\" \n        loading=\"eager\" \n        width=\"600\" \n        height=\"400\"></iframe>\n\n\nNot specifying the attribute at all will have the same impact as explicitly eagerly loading the resource, except for Lite Mode users, where Chrome will use the auto value to decide whether it should be lazy-loaded.\n\nIf you need to dynamically create iframes via JavaScript, setting iframe.loading = 'lazy' on the element is also supported:\n\nvar iframe = document.createElement('iframe');\niframe.src = 'https://example.com';\niframe.loading = 'lazy';\ndocument.body.appendChild(iframe);\n\niframe-specific lazy-loading behavior\n\nThe loading attribute affects iframes differently than images, depending on whether the iframe is hidden. (Hidden iframes are often used for analytics or communication purposes.) Chrome uses the following criteria to determine whether an iframe is hidden:\n\nThe iframe’s width and height are 4px or smaller.\ndisplay: none or visibility: hidden is applied.\nThe iframe is placed off-screen using negative X or Y positioning.\nThis criteria applies to both loading=lazy and loading=auto.\n\nIf an iframe meets any of these conditions, Chrome considers it hidden and won’t lazy-load it in most cases. iframes that aren’t hidden will only load when they’re within the load-in distance threshold. Chrome shows a placeholder for lazy-loaded iframes that are still being fetched.\n\nWhat impact might we see from lazy-loading popular iframe embeds?\n\nWhat if we could change the web at large so that lazy-loading offscreen iframes was the default? It would look a little like this:\n\nLazy-loading YouTube video embeds (saves ~500KB on initial page load):\n\n<iframe src=\"https://www.youtube.com/embed/YJGCZCaIZkQ\"\n        loading=\"lazy\" \n        width=\"560\" \n        height=\"315\" \n        frameborder=\"0\" \n        allow=\"accelerometer; autoplay; \n        encrypted-media; gyroscope; \n        picture-in-picture\" \n        allowfullscreen></iframe>\n\n\nAnecdote: when we switched to lazy-loading YouTube embeds for Chrome.com, we saved 10 seconds off of how soon our pages could be interactive on mobile devices. I have opened an internal bug with YouTube to discuss adding loading=lazy to its embed code.\n\nIf you are looking for more efficient ways to load YouTube embeds, you may be interested in the YouTube lite component.\n\nLazy-loading Instagram embeds (saves >100KB gzipped on initial load):\n\nInstagram embeds provide a block of markup and a script, which injects an iframe into your page. Lazy-loading this iframe avoids having to load all of the script necessary for the embed. Given such embeds are often displayed below the viewport in most articles, this seems like a reasonable candidate for native lazy-loading of their iframe.\n\nLazy-loading Spotify embeds (saves 514KB on initial load):\n\n<iframe src=\"https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3\" \n        loading=\"lazy\"\n        width=\"300\" \n        height=\"380\" \n        frameborder=\"0\" \n        allowtransparency=\"true\" \n        allow=\"encrypted-media\"></iframe>\n\n\nAlthough the above embeds illustrate the potential benefits to lazy-loading iframes for media content, there’s the potential to also see these benefits for ads.\n\nCase study: Natively lazy-loading the Facebook’s social plugins\n\nFacebook’s social plugins allow developers to embed Facebook content in their web pages. There’s a number of these plugins offered, such as embedded posts, photos, videos, comments… The most popular is the Like plugin - a button that shows a count of who has “liked” the page. By default, embedding the Like plugin in a webpage (using the FB JSSDK) pulls in ~215KB of resources, 197KB of which is JavaScript. In many cases, the plugin may appear at the end of an article or near the end of a page, so loading it eagerly when it’s offscreen may be suboptimal.\n\nThanks to engineer Stoyan Stefanov, all of Facebook’s social plugins now support native iframe lazy-loading. Developers who opt in to lazy-loading via the plugins’ data-lazy configuration will now be able to avoid it loading until the user scrolls nearby. This enables the embed to still fully function for users that need it, while offering data-savings for those who are not scrolling all the way down a page. We are hopeful this is the first of many embeds to explore native iframe lazy-loading in production.\n\nWait, can’t browsers just automatically lazy-load offscreen iframes?\n\nThey certainly can. In Chrome 77, Chrome added support for automatically natively lazy-loading offscreen images and iframes when a user has opted into Lite Mode (Data Saver mode) in Chrome for Android.\n\nLite Mode is commonly used in regions of the world where network connection quality and data plans are not the greatest. Every byte matters and so lazy-loading iframes has the potential to make a meaningful difference for these users.\n\nOrigins can detect what percentage of their traffic is coming from Lite Mode users by checking the navigator.connection.saveData property, which is part of the NetworkInformation API.\n\nCan I lazy-load iframes cross-browser? Yes\n\nNative iframe lazy-loading can be applied as a progressive enhancement. Browsers which support loading=lazy on iframes will lazy-load the iframe, while the loading attribute will be safely ignored in browsers which do not support it yet.\n\nIt is also possible to lazy-load offscreen iframes using the lazysizes JavaScript library. This may be desirable if you:\n\nrequire more custom lazy-loading thresholds than what native lazy-loading currently offers\nwish to offer users a consistent iframe lazy-loading experience across browsers\n<script src=\"lazysizes.min.js\" async></script>\n\n<iframe frameborder=\"0\"\n\t  class=\"lazyload\"\n    allowfullscreen=\"\"\n    width=\"600\"\n    height=\"400\"\n    data-src=\"//www.youtube.com/embed/ZfV-aYdU4uE\">\n</iframe>\n\n\nUse the following pattern to feature detect lazy-loading and fetch lazysizes when it’s not available:\n\n<iframe frameborder=\"0\"\n\t  class=\"lazyload\"\n    loading=\"lazy\"\n    allowfullscreen=\"\"\n    width=\"600\"\n    height=\"400\"\n    data-src=\"//www.youtube.com/embed/ZfV-aYdU4uE\">\n</iframe>\n\n<script>\n  if ('loading' in HTMLIFrameElement.prototype) {\n    const iframes = document.querySelectorAll('iframe[loading=\"lazy\"]');\n\n    iframes.forEach(iframe => {\n      iframe.src = iframe.dataset.src;\n    });\n\n  } else {\n    // Dynamically import the LazySizes library\n    const script = document.createElement('script');\n    script.src =\n      'https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js';\n    document.body.appendChild(script);\n  }\n\n</script>\n\nConclusion\n\nBaking in native support for lazy-loading iframes makes it significantly easier for you to improve the performance of your web pages. If you have any feedback on native iframe lazy-loading, please feel free to submit an issue to the Chromium Bug Tracker.\n\nAnd, in case you missed it, check out web.dev’s image and video lazy-loading collection for more lazy-loading ideas.\n\nThis write-up was cross-posted from my write-up on web.dev.\n\nAddy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.\n Tweet  Bluesky  Mastodon  Threads  LinkedIn  Share\n\nWant more? Subscribe to my free newsletter:\nSubscribe"
+}

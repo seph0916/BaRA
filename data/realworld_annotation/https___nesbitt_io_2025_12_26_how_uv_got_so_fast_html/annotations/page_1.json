@@ -1,0 +1,446 @@
+{
+    "image_count": 6,
+    "images": [
+        "https://nesbitt.io/images/projects/ecosyste-ms.png",
+        "https://nesbitt.io/images/projects/librariesio.png",
+        "https://nesbitt.io/images/projects/themanifest.png",
+        "https://nesbitt.io/images/projects/sass.png",
+        "https://nesbitt.io/images/projects/octobox.png",
+        "https://nesbitt.io/images/projects/24pullrequests.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 107,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package management",
+            "href": "https://nesbitt.io/package-managers/"
+        },
+        {
+            "text": "git",
+            "href": "https://nesbitt.io/git/"
+        },
+        {
+            "text": "Ecosyste.ms",
+            "href": "https://ecosyste.ms/"
+        },
+        {
+            "text": "More about me",
+            "href": "https://nesbitt.io/about/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/#recent-posts"
+        },
+        {
+            "text": "Dumb Ways for an Open Source Project to Die",
+            "href": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "maintainers",
+            "href": "https://nesbitt.io/search#maintainers"
+        },
+        {
+            "text": "supply-chain",
+            "href": "https://nesbitt.io/search#supply-chain"
+        },
+        {
+            "text": "Language Registries Are Unstable by Default",
+            "href": "https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "security",
+            "href": "https://nesbitt.io/search#security"
+        },
+        {
+            "text": "supply-chain",
+            "href": "https://nesbitt.io/search#supply-chain"
+        },
+        {
+            "text": "Centrality is not vitality",
+            "href": "https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "metrics",
+            "href": "https://nesbitt.io/search#metrics"
+        },
+        {
+            "text": "research",
+            "href": "https://nesbitt.io/search#research"
+        },
+        {
+            "text": "Showing Our Work",
+            "href": "https://nesbitt.io/2026/05/13/showing-our-work.html"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "ecosyste.ms",
+            "href": "https://nesbitt.io/search#ecosyste.ms"
+        },
+        {
+            "text": "research",
+            "href": "https://nesbitt.io/search#research"
+        },
+        {
+            "text": "Not a Security Issue",
+            "href": "https://nesbitt.io/2026/05/12/not-a-security-issue.html"
+        },
+        {
+            "text": "security",
+            "href": "https://nesbitt.io/search#security"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "ai",
+            "href": "https://nesbitt.io/search#ai"
+        },
+        {
+            "text": "proxy",
+            "href": "https://nesbitt.io/2026/05/11/proxy.html"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "tools",
+            "href": "https://nesbitt.io/search#tools"
+        },
+        {
+            "text": "git-pkgs",
+            "href": "https://nesbitt.io/search#git-pkgs"
+        },
+        {
+            "text": "security",
+            "href": "https://nesbitt.io/search#security"
+        },
+        {
+            "text": "Madame Semver Will See You Now",
+            "href": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "satire",
+            "href": "https://nesbitt.io/search#satire"
+        },
+        {
+            "text": "The Mismeasure of Open Source",
+            "href": "https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "security",
+            "href": "https://nesbitt.io/search#security"
+        },
+        {
+            "text": "metrics",
+            "href": "https://nesbitt.io/search#metrics"
+        },
+        {
+            "text": "Weekend at Bernie's",
+            "href": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "security",
+            "href": "https://nesbitt.io/search#security"
+        },
+        {
+            "text": "supply-chain",
+            "href": "https://nesbitt.io/search#supply-chain"
+        },
+        {
+            "text": "maintainers",
+            "href": "https://nesbitt.io/search#maintainers"
+        },
+        {
+            "text": "Free as in Tribbles",
+            "href": "https://nesbitt.io/2026/05/07/free-as-in-tribbles.html"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "dependencies",
+            "href": "https://nesbitt.io/search#dependencies"
+        },
+        {
+            "text": "security",
+            "href": "https://nesbitt.io/search#security"
+        },
+        {
+            "text": "supply-chain",
+            "href": "https://nesbitt.io/search#supply-chain"
+        },
+        {
+            "text": "View all posts",
+            "href": "https://nesbitt.io/posts/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/#projects"
+        },
+        {
+            "text": "",
+            "href": "https://ecosyste.ms/"
+        },
+        {
+            "text": "Ecosyste.ms",
+            "href": "https://ecosyste.ms/"
+        },
+        {
+            "text": "",
+            "href": "https://libraries.io/"
+        },
+        {
+            "text": "Libraries.io",
+            "href": "https://libraries.io/"
+        },
+        {
+            "text": "",
+            "href": "https://manifest.fm/"
+        },
+        {
+            "text": "Manifest Podcast",
+            "href": "https://manifest.fm/"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/sass/node-sass"
+        },
+        {
+            "text": "node-sass",
+            "href": "https://github.com/sass/node-sass"
+        },
+        {
+            "text": "",
+            "href": "https://octobox.io/"
+        },
+        {
+            "text": "Octobox",
+            "href": "https://octobox.io/"
+        },
+        {
+            "text": "",
+            "href": "https://24pullrequests.com/"
+        },
+        {
+            "text": "24 Pull Requests",
+            "href": "https://24pullrequests.com/"
+        },
+        {
+            "text": "View all projects",
+            "href": "https://nesbitt.io/projects/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/#podcast-interviews"
+        },
+        {
+            "text": "The world of open source metadata with Andrew Nesbitt from ecosyste.ms",
+            "href": "https://changelog.com/podcast/665"
+        },
+        {
+            "text": "Ecosyste.ms with Andrew Nesbitt",
+            "href": "https://opensourcesecurity.io/2025/2025-06-ecosystems_andrew_nesbitt/"
+        },
+        {
+            "text": "Ben Nickolls & Andrew Nesbitt on Ecosyste.ms",
+            "href": "https://podcast.sustainoss.org/270"
+        },
+        {
+            "text": "Package Metadata Working Group with Andrew Nesbitt and Damián Vicino",
+            "href": "https://podcast.chaoss.community/121"
+        },
+        {
+            "text": "Trends from UN OSS Week and OSSNA",
+            "href": "https://podcast.chaoss.community/115"
+        },
+        {
+            "text": "Dawn Foster & Andrew Nesbitt at State of Open Con 2023",
+            "href": "https://podcast.sustainoss.org/159"
+        },
+        {
+            "text": "Untangle your GitHub notifications with Octobox",
+            "href": "https://changelog.com/podcast/327"
+        },
+        {
+            "text": "24 Pull Requests and Libraries.io",
+            "href": "https://changelog.com/podcast/188"
+        },
+        {
+            "text": "Measuring Success in Open Source",
+            "href": "https://changelog.com/rfc/3"
+        },
+        {
+            "text": "Episode 22: Andrew Nesbitt",
+            "href": "https://www.betonyourself.com/podcast/episode-22-andrew-nesbitt"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/#presentations"
+        },
+        {
+            "text": "Ecosyste.ms: Exploring Open Source Software Landscapes",
+            "href": "https://speakerdeck.com/andrew/ecosyste-dot-ms-conference-talk-at-easybuild-user-meeting"
+        },
+        {
+            "text": "Can my friends come too?",
+            "href": "https://speakerdeck.com/andrew/can-my-friends-come-too"
+        },
+        {
+            "text": "Elasticsearch on Rails",
+            "href": "https://speakerdeck.com/andrew/elasticsearch-on-rails"
+        },
+        {
+            "text": "Robotics 101",
+            "href": "https://speakerdeck.com/andrew/robotics-101"
+        },
+        {
+            "text": "Learning how to Tinker",
+            "href": "https://speakerdeck.com/andrew/learning-how-to-tinker"
+        },
+        {
+            "text": "The Rise of JavaScript Hardware Hacking",
+            "href": "https://speakerdeck.com/andrew/hardware-hacking-with-javascript"
+        },
+        {
+            "text": "JavaScript in the Real World",
+            "href": "https://speakerdeck.com/andrew/javascript-in-the-real-world"
+        },
+        {
+            "text": "The Future of Nodecopter",
+            "href": "https://speakerdeck.com/andrew/the-future-of-nodecopter"
+        },
+        {
+            "text": "Turbo Charging your workflow with Node.js",
+            "href": "https://speakerdeck.com/andrew/webshaped"
+        },
+        {
+            "text": "The Meetup Organisers Field Guide",
+            "href": "https://speakerdeck.com/andrew/the-meetup-organisers-field-guide"
+        },
+        {
+            "text": "View all presentations",
+            "href": "https://speakerdeck.com/andrew"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/#videos"
+        },
+        {
+            "text": "Panel Discussion: The Impact of Funding",
+            "href": "https://www.youtube.com/watch?v=8sD81Dqw0Os"
+        },
+        {
+            "text": "Open source funding: you're doing it wrong",
+            "href": "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5576-open-source-funding-you-re-doing-it-wrong/"
+        },
+        {
+            "text": "Content Addressed Package Management",
+            "href": "https://www.youtube.com/watch?v=uNuPJHP2lfU"
+        },
+        {
+            "text": "Republishing npm dependencies to IPFS as a micro-registry",
+            "href": "https://www.youtube.com/watch?v=9NYjwskpIc0"
+        },
+        {
+            "text": "With a Little Help from My Friends",
+            "href": "https://www.youtube.com/watch?v=hW4wUpoBHr8"
+        },
+        {
+            "text": "Can my friends come too?",
+            "href": "https://brightonruby.com/2017/can-my-friends-come-too-andrew-nesbitt/"
+        },
+        {
+            "text": "The Rise of JavaScript Hardware Hacking",
+            "href": "https://vimeo.com/album/2912171/video/97724406"
+        },
+        {
+            "text": "JavaScript in the Real World",
+            "href": "https://www.youtube.com/watch?v=C7wWakRMAUY"
+        },
+        {
+            "text": "The Future of Nodecopter",
+            "href": "https://www.youtube.com/watch?v=1qq4c6J8lVU"
+        },
+        {
+            "text": "Nodecopter",
+            "href": "https://www.youtube.com/watch?v=bcQAdVO3N_c"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        }
+    ],
+    "text_length": 5100,
+    "text_full": "Andrew Nesbitt\n      \n\nI've spent the last decade thinking about package management and git. I build Ecosyste.ms, the largest open dataset of open source metadata, tracking packages, repositories, and dependencies across ecosystems. I've worked at GitHub and Tidelift, and contributed to working groups at Alpha-Omega, OpenSSF, CycloneDX, and CHAOSS. More about me.\n\nRecent Posts#\nDumb Ways for an Open Source Project to Die\n\nMay 19, 2026open-sourcemaintainerssupply-chain\n\nHow your dependencies became Bernies\n\nLanguage Registries Are Unstable by Default\n\nMay 15, 2026package-managerssecuritysupply-chain\n\napt install -t unstable, but make it your whole personality\n\nCentrality is not vitality\n\nMay 14, 2026open-sourcemetricsresearch\n\nDon't automatically reach for PageRank on dependency graphs\n\nShowing Our Work\n\nMay 13, 2026open-sourceecosyste.msresearch\n\nAn independent benchmark of the ecosyste.ms Python fund\n\nNot a Security Issue\n\nMay 12, 2026securityopen-sourceai\n\nHow curl's disclosure policy filtered an AI scanner's findings at source\n\nproxy\n\nMay 11, 2026package-managerstoolsgit-pkgssecurity\n\nA lightweight multi-ecosystem caching package proxy\n\nMadame Semver Will See You Now\n\nMay 10, 2026package-managerssatire\n\nThe cards do not lie.\n\nThe Mismeasure of Open Source\n\nMay 9, 2026open-sourcesecuritymetrics\n\nThe streetlight effect in project-health scoring\n\nWeekend at Bernie's\n\nMay 8, 2026open-sourcesecuritysupply-chainmaintainers\n\nWhich of your dependencies are wearing sunglasses\n\nFree as in Tribbles\n\nMay 7, 2026open-sourcedependenciessecuritysupply-chain\n\nThe next metaphor after free-as-in-puppy\n\nView all posts\n\nProjects#\nEcosyste.ms\nTools and open datasets to support OSS.\nLibraries.io\nThe Open source Discovery Service.\nManifest Podcast\nA podcast all about package management.\nnode-sass\nNode.js bindings to libsass (1.3B downloads)\nOctobox\nTake back control of your GitHub notifications.\n24 Pull Requests\nGiving back to open source for the holidays.\n\nView all projects\n\nPodcast Interviews#\nThe world of open source metadata with Andrew Nesbitt from ecosyste.ms\n\nChangelog Interviews #665: Building tools and open datasets to support, sustain, and secure critical digital infrastructure\n\nEcosyste.ms with Andrew Nesbitt\n\nOpen Source Security: Ecosyste.ms catalogs open source projects by tracking packages, dependencies, repositories, and more\n\nBen Nickolls & Andrew Nesbitt on Ecosyste.ms\n\nSustain Episode 270: Exploring ecosyste.ms, a project using open source metadata to guide funding and support key projects\n\nPackage Metadata Working Group with Andrew Nesbitt and Damián Vicino\n\nCHAOSScast Episode 121: Discussing the formation and objectives of the Package Metadata Working Group within the CHAOSS community\n\nTrends from UN OSS Week and OSSNA\n\nCHAOSScast Episode 115: Reflections on UN Open Source Week in New York and CHAOSScon North America\n\nDawn Foster & Andrew Nesbitt at State of Open Con 2023\n\nSustain Episode 159: Andrew talks about his history with 24 Pull Requests, Libraries.io, and Ecosyste.ms\n\nUntangle your GitHub notifications with Octobox\n\nChangelog Interviews #327: How Octobox came to be and why open source maintainers love it\n\n24 Pull Requests and Libraries.io\n\nChangelog Interviews #188: A special doubleheader holiday show discussing 24 Pull Requests and Libraries.io\n\nMeasuring Success in Open Source\n\nRequest For Commits #3: Open source metrics and how to interpret data around dependencies and usage\n\nEpisode 22: Andrew Nesbitt\n\nBet On Yourself: Creator of Libraries.io, Dependency CI and 24 Pull Requests on solving discoverability and sustainability in open source\n\nPresentations#\nEcosyste.ms: Exploring Open Source Software Landscapes\n\nPresented at EasyBuild User Meeting in 2025\n\nCan my friends come too?\n\nPresented at Brighton Ruby in 2017\n\nElasticsearch on Rails\n\nPresented at South-West Elastic Community Meetup in 2015\n\nRobotics 101\n\nPresented at Hackference in 2014\n\nLearning how to Tinker\n\nPresented at HybridConf in 2014\n\nThe Rise of JavaScript Hardware Hacking\n\nPresented at jQuery UK in 2014\n\nJavaScript in the Real World\n\nPresented at Full Frontal in 2013\n\nThe Future of Nodecopter\n\nPresented at LXJS in 2013\n\nTurbo Charging your workflow with Node.js\n\nPresented at Webshaped in 2013\n\nThe Meetup Organisers Field Guide\n\nPresented at Bristol IT Mega Meet in 2013\n\nView all presentations\n\nVideos#\nPanel Discussion: The Impact of Funding\n\nWith Georg Link, Dawn Foster & Alyssa Wright at OSS Summit NA 2025\n\nOpen source funding: you're doing it wrong\n\nWith Benjamin Nickolls at FOSDEM 2025\n\nContent Addressed Package Management\n\nPresented in 2021\n\nRepublishing npm dependencies to IPFS as a micro-registry\n\nPresented in 2019\n\nWith a Little Help from My Friends\n\nPresented at Bath Ruby in 2018\n\nCan my friends come too?\n\nPresented at Brighton Ruby in 2017\n\nThe Rise of JavaScript Hardware Hacking\n\nPresented at jQuery UK in 2014\n\nJavaScript in the Real World\n\nRecorded at Full Frontal in 2013\n\nThe Future of Nodecopter\n\nRecorded at LXJS in 2013\n\nNodecopter\n\nRecorded at Over the Air in 2013\n\nMastodon · GitHub · RSS · Stats · Search · About"
+}

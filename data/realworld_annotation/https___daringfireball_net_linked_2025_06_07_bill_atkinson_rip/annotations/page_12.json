@@ -1,0 +1,163 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://daringfireball.net/js/images-global/zoom/zoom-spin-1.png",
+        "https://daringfireball.net/js/images-global/zoom/spacer.gif",
+        "https://daringfireball.net/js/images-global/zoom/closebox.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-l.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-r.png",
+        "https://daringfireball.net/graphics/logos/",
+        "https://daringfireball.net/martini/images/workos.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 36,
+    "links": [
+        {
+            "text": "",
+            "href": "https://daringfireball.net/"
+        },
+        {
+            "text": "ARCHIVE",
+            "href": "https://daringfireball.net/archive/"
+        },
+        {
+            "text": "THE TALK SHOW",
+            "href": "https://daringfireball.net/thetalkshow/"
+        },
+        {
+            "text": "DITHERING",
+            "href": "https://dithering.fm/"
+        },
+        {
+            "text": "PROJECTS",
+            "href": "https://daringfireball.net/projects/"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://daringfireball.net/contact/"
+        },
+        {
+            "text": "COLOPHON",
+            "href": "https://daringfireball.net/colophon/"
+        },
+        {
+            "text": "FEEDS / SOCIAL",
+            "href": "https://daringfireball.net/feeds/"
+        },
+        {
+            "text": "SPONSORSHIP",
+            "href": "https://daringfireball.net/feeds/sponsors/"
+        },
+        {
+            "text": "",
+            "href": "https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "in The New Yorker",
+            "href": "https://daringfireball.net/linked/2026/01/26/chayka-textedit"
+        },
+        {
+            "text": "when they added fucking Markdown support",
+            "href": "https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad"
+        },
+        {
+            "text": "Notepad++",
+            "href": "https://notepad-plus-plus.org/"
+        },
+        {
+            "text": "by Don Ho",
+            "href": "https://notepad-plus-plus.org/author/"
+        },
+        {
+            "text": "debuted back in 2003",
+            "href": "https://notepad-plus-plus.org/"
+        },
+        {
+            "text": "plus",
+            "href": "https://www.waltdisney.org/blog/walts-own-words-plussing-disneyland"
+        },
+        {
+            "text": "BBEdit",
+            "href": "https://www.barebones.com/products/bbedit/"
+        },
+        {
+            "text": "Nextpad++",
+            "href": "https://nextpad.org/author/"
+        },
+        {
+            "text": "from Andrey Letov",
+            "href": "https://nextpad.org/author/"
+        },
+        {
+            "text": "no right or permission to the name",
+            "href": "https://notepad-plus-plus.org/news/npp-trademark-infringement/"
+        },
+        {
+            "text": "About page",
+            "href": "https://nextpad.org/about/"
+        },
+        {
+            "text": "the Author page",
+            "href": "https://nextpad.org/author/"
+        },
+        {
+            "text": "Electron",
+            "href": "https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps"
+        },
+        {
+            "text": "Wine",
+            "href": "https://www.winehq.org/"
+        },
+        {
+            "text": "saved to the Dock",
+            "href": "https://support.apple.com/guide/safari/add-to-dock-ibrw9e991864/mac"
+        },
+        {
+            "text": "curious new generation",
+            "href": "https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html"
+        },
+        {
+            "text": "Zed",
+            "href": "https://zed.dev/"
+        },
+        {
+            "text": "Tolaria",
+            "href": "https://tolaria.md/"
+        },
+        {
+            "text": "like the Mos Eisley cantina",
+            "href": "https://daringfireball.net/2026/04/we_dont_serve_their_kind_here"
+        },
+        {
+            "text": "with 50 inscrutable toolbar buttons",
+            "href": "https://daringfireball.net/misc/2026/05/nextpad++.png"
+        },
+        {
+            "text": "This",
+            "href": "https://daringfireball.net/misc/2026/05/nextpad-editing-contextmenu.png"
+        },
+        {
+            "text": "four settings for font antialiasing",
+            "href": "https://daringfireball.net/misc/2026/05/nextpad-antialiasing.png"
+        },
+        {
+            "text": "Software as the Product of Obsession Times Voice",
+            "href": "https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice"
+        },
+        {
+            "text": "AI Is Technology, Not a Product",
+            "href": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
+        },
+        {
+            "text": "Display Preferences",
+            "href": "https://daringfireball.net/preferences/"
+        }
+    ],
+    "text_length": 3876,
+    "text_full": "By JOHN GRUBER\n\nARCHIVE\nTHE TALK SHOW\nDITHERING\nPROJECTS\nCONTACT\nCOLOPHON\nFEEDS / SOCIAL\nSPONSORSHIP\n\nWorkOS — Agents need context. Ship the integrations that give it to them.\n\nNextpad++\nTuesday, 12 May 2026\n\nWindows Notepad is, more or less, the Windows peer to MacOS’s TextEdit — the built-in system text editor. For years, it was really basic — so much more basic than TextEdit that it engendered no affection. You don’t see paeans to Notepad in The New Yorker. Recently though, Microsoft has started beefing it up, culminating last year when they added fucking Markdown support. Which still blows my mind.\n\nNotepad++ is a longstanding open source (GPL) Windows text editor by Don Ho, which debuted back in 2003. Just adding “++” to the name might be misleading. The name implies that it’s like Microsoft’s Notepad plus a little more. But Notepad++ is in fact a wholly independent programming text editor, with a rich plugin library. It doesn’t resemble Microsoft’s Notepad much at all anymore. It’s over two decades old but remains quite popular. To some extent Notepad++ is sorta kinda the Windows peer to BBEdit.\n\nNextpad++ is something new, from Andrey Letov. It’s a Mac port of the Notepad++ GPL code. It launched a few weeks ago under the name “Notepad++ for Mac”, but Letov had no right or permission to the name. That dispute has been settled, and Letov has renamed this project Nextpad++. The website’s About page has entire sections for “How Nextpad++ for Mac Was Built” and “Technology Stack”, and neither of those mentions AI, but this thing has to have been built using AI vibe-coding agents. That same About page also says the project only started on March 10, and the 1.0 version (under the defunct “Notepad++ for Mac” name) shipped just a few weeks after that. Something of the scope of this port couldn’t happen at that pace without AI. UPDATE: On the Author page, not the About page, it states, “multi-agent AI development workflows are what make a one-person project at this scale practical.” Possible, sure, but I wouldn’t call this practical.\n\nNextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII. Look, there are all sorts of foreign apps on the Mac. Electron apps. Apps ported with Wine. Web apps running in browser tabs or saved to the Dock. The curious new generation of lean-and-mean apps that are, in a technical sense, “native”, but are decidedly not Mac-assed apps, like Zed and Tolaria. All those types of apps feel alien on MacOS. Like different species. They are apps for the Mac but aren’t Mac apps. The Mac, however, is welcoming to them all, like the Mos Eisley cantina. We do serve their kind here. Nextpad++ isn’t like that. It doesn’t feel like an alien. It feels like Vincent D’Onofrio’s alien-bug-in-human-skin character from Men in Black.\n\nLetov’s website describes Nextpad++ as “A real Mac app, not a Wine wrapper: Objective-C++ on top of Scintilla and Cocoa, shipped as a Universal Binary for Apple Silicon (M1–M5) and Intel Macs.” Ostensibly that’s a good thing. The download is only 14 MB. But Nextpad++ looks and feels like something that should not exist. The promotional screenshots on the app’s own website show it with 50 inscrutable toolbar buttons. It closes document tabs on mousedown, not mouseup. Its default font is 10-point Courier New. This is a real dialog box. It offers four settings for font antialiasing — “Default”, “None”, “Antialiased”, and “LCD Optimized” — but the default is not “Default”. No human being would port a complex Windows app like Notepad++ to the Mac like this.\n\nI’m not anti-AI. I’m very much intrigued by the whole incipient vibe-coding phenomenon. But this app feels unholy.\n\nPREVIOUS:\tSoftware as the Product of Obsession Times Voice\nNEXT:\tAI Is Technology, Not a Product\n \n\nDisplay Preferences\n\nCopyright © 2002–2026 The Daring Fireball Company LLC."
+}

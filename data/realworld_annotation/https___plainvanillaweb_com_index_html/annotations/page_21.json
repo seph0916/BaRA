@@ -1,0 +1,15 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 1,
+    "links": [
+        {
+            "text": "Go to the details page",
+            "href": "https://plainvanillaweb.com/details"
+        }
+    ],
+    "text_length": 62,
+    "text_full": "This is the homepage. Go to the details page.\nCurrent route: /"
+}

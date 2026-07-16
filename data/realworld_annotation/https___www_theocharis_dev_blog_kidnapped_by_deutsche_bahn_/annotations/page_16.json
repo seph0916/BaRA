@@ -1,0 +1,88 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 4,
+    "videos": [
+        "https://www.youtube.com/embed/1AitlwNePFg?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0",
+        "https://www.youtube.com/embed/pXiJDko5Zqc?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0",
+        "https://www.youtube.com/embed/di3qi3kTSQ8?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0",
+        "https://www.youtube.com/embed/SRiVE-lwXOQ?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0"
+    ],
+    "link_count": 18,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.theocharis.dev/blog/downsampling-in-industrial-iot-from-dead-band-to-swinging-door-trending/#main"
+        },
+        {
+            "text": "Jeremy Theocharis",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Homepage",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Beliefs",
+            "href": "https://www.theocharis.dev/beliefs"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.theocharis.dev/blog"
+        },
+        {
+            "text": "Talks",
+            "href": "https://www.theocharis.dev/talks"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.theocharis.dev/tools"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.theocharis.dev/#contact"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "learn.umh.app",
+            "href": "https://learn.umh.app/course/downsampling-in-industrial-iot-from-dead-band-to-swinging-door-trending/"
+        },
+        {
+            "text": "open-source United Manufacturing Hub (UMH)",
+            "href": "https://www.umh.app/"
+        },
+        {
+            "text": "a configurable heartbeat",
+            "href": "https://docs.umh.app/benthos-umh/processing/downsampler"
+        },
+        {
+            "text": "Data security",
+            "href": "https://www.theocharis.dev/data-security/"
+        },
+        {
+            "text": "Imprint",
+            "href": "https://www.theocharis.dev/imprint/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "I'm hiring product engineers in Germany.",
+            "href": "https://jobs.umh.app/"
+        }
+    ],
+    "text_length": 10626,
+    "text_full": "Skip to main content\n\nJeremy Theocharis\n\nBoring is Awesome | Co-Founder & CTO at UMH\n\nHomepage\nBeliefs\nBlog\nTalks\nTools\nContact\nGitHub\nLinkedIn\nDownsampling in Industrial IoT: From Dead-Band to Swinging Door Trending\n\n2025-07-14 · Originally published on learn.umh.app\n\nIn modern industrial IoT, data downsampling is essential to tame the flood of sensor readings without losing important information. Many historians and Unified Namespace implementations tout huge “compression” ratios (like 1000:1), but it’s often downsampling—intentionally dropping redundant data, that achieves these gains. This article summarizes a series of short videos on downsampling techniques so you can quickly grasp key concepts like report-by-exception, dead-band filtering, and swinging door trending. Each technique helps reduce data volumes while preserving trends – and when combined with traditional lossless compression, they dramatically cut storage and bandwidth needs.\n\nLossless vs. Lossy Compression (Downsampling)\n\nFirst, it’s important to distinguish lossless compression from lossy compression (downsampling). In lossless compression, every data sample is retained exactly – the data is just packed more efficiently (think of zipping a file). For example, time-series databases like TimescaleDB use background processes to rewrite data chunks and can shrink storage by ~90% without dropping a single point. You could later decompress and retrieve 100% of the original data. In contrast, lossy compression – i.e. downsampling – throws away data on purpose, assuming the “tiny wiggles” (small, rapid fluctuations or noise) add no real value. The goal of downsampling is to reduce resolution or frequency of data while preserving the overall trend. Common downsampling methods include report-by-exception, dead-band filtering, and swinging-door trending.\n\nDead-Band Filtering (Threshold-Based Downsampling)\n\nDead-band filtering is a classic and very straightforward downsampling rule: it only forwards a new data point if the value has changed by more than a specified threshold since the last reported value. In other words, it ignores sensor noise and minor fluctuations. This can typically cut out 80–90% of “sensor chatter” with just one configuration setting.\n\nHow it works: You define a threshold (dead-band) based on the noise level or precision of the sensor. For example, on a temperature reading around 100.0°C, you might set a dead-band of ±0.5°C. The system publishes the first reading (say 100.0°C), then suppresses all new readings until the value differs from 100.0 by more than 0.5. If the temperature drifts to 100.4°C (within the dead-band), it’s not sent. Only when it goes to 100.5°C or 99.5°C (exceeds the threshold) will a new value be published. That way, insignificant oscillations are filtered out.\nEffect: In real plants, a properly tuned dead-band often reduces transmitted data by 80–90% without missing any big changes. It’s “dead simple” to configure and works well for cutting out noise. It’s especially useful for alarm systems and audit logs – you can combine it with a periodic heartbeat message to prove the sensor is still alive even if the value hasn’t changed. In the open-source United Manufacturing Hub (UMH), for instance, the dead-band mechanism includes a configurable heartbeat to periodically confirm the sensor status while still filtering noise.\nTrade-off: The downside is that dead-band can hide slow trends. If a value is gradually drifting in small increments (never exceeding the threshold between readings), the data you send will look like a staircase: it will hold at the last sent value until the threshold is crossed, then “jump” to the new value. This means gentle slopes in the real signal become flat steps in the recorded data. If those tiny gradual changes matter to you, dead-band alone might not suffice.\nSwinging Door Trending (Adaptive Downsampling Algorithm)\n\nAfter dead-band, a more advanced technique in the series is Swinging-Door Trending – the “smarter cousin” of dead-band. This algorithm was originally patented in the 1990s and has been widely used in historian systems to efficiently store time-series data. It adapts to the data’s slope so that slow, meaningful changes are captured, not flattened out.\n\nHow it works: Imagine drawing a band around your data’s trend line that can “swing” like a door. The algorithm defines an acceptable error band (tolerance). As new data points come in, it checks if they still lie within a corridor that represents the current trend. If a point deviates enough that it would change the overall slope beyond the tolerance, the previous point is recorded (door “swings” and locks in that point), and the trend resets from that new point. If points continue along the same general slope, they are skipped because they don’t change the story of the line. In effect, swinging-door trending will drop points that don’t change the line’s direction appreciably.\nBenefit: This method can achieve drastic reduction (often 95–98% fewer points) while retaining nearly all of the important shape of the data. It’s smarter than a fixed dead-band because it follows the slope of the signal, not just absolute differences. That means you get far fewer “flat line” artifacts. Gradual ramps that dead-band might have suppressed are preserved as slopes, since the algorithm recognizes a steady change and includes points to define that line. The result is a downsampled data set that almost overlaps the original trend line, just with a fraction of the points. In one of our tests, swinging-door trending cut data volume by ~98% while the reconstructed trend was virtually indistinguishable from the raw data (no significant detail loss).\nUsage: Swinging-door trending is a proven approach and is implemented in many industrial data historians (often under different names). By adjusting the tolerance band, you can tune how tightly it follows the real data. A tighter tolerance captures more detail (fewer points dropped), while a looser tolerance yields higher compression (more points dropped). Best practice is to set the tolerance relative to your sensor precision and the magnitude of changes you care about – for example, just below the smallest change that matters to your process, or about half of an acceptable deviation range.\nTrade-off: The algorithm is a bit more complex than dead-band; it may require slightly more processing and understanding to configure. However, it’s still lightweight enough for real-time use on the edge (the videos show it running in a 60-second recipe on Unified Namespace data). Once set up, it runs automatically and typically delivers better fidelity than simple thresholding.\nEdge vs. Cloud Compression (Online vs. Offline)\n\nThe video series also emphasizes the difference between online (real-time) downsampling at the edge and offline (batch) compression after the data is collected. We’ve touched on this, but it’s worth summarizing:\n\nOnline (Edge) Compression: These are your real-time downsampling rules that run at the source – e.g. in a PLC, gateway, or MQTT broker (Unified Namespace) as data streams in. Techniques like report-by-exception, dead-band, and swinging-door trending are all online methods. They make instant decisions about whether a new sample is published or dropped, with no knowledge of future points. The benefit is immediate bandwidth reduction: you’re not even sending the data that gets filtered out, which can dramatically cut network load and broker throughput needs. This matters when you have, say, tens of thousands of sensor updates per second on a factory network.\nOffline (Server-Side) Compression: These algorithms run after the data is at rest (in a database or historian). They can be more compute-intensive because they have the full dataset context (past and future points). Examples include general compression codecs like ZIP or Zstandard applied to stored files, as well as time-series database compression and encoding techniques. Because offline methods see the whole picture, they can squeeze data very tightly without losing anything (if lossless) or by downsampling retrospectively. For instance, a historian might periodically compress older data chunks on disk, or you might run a batch process to downsample archival data to hourly averages, etc. Offline compression saves storage space and is great for reducing long-term data retention costs, but it doesn’t reduce the immediate load on your network or brokers (since the data had to get there in full fidelity).\n\nBoth approaches complement each other. Mixing them gives you efficiency in transit and at rest. Just be clear on what you’re measuring: a “1000:1 compression” claim usually means after applying a downsampling rule plus strong storage compression. That’s fine – just avoid confusing your IT colleagues by calling a lossy drop of data a “compression algorithm” 😉. The IT/OT language gap around these terms can fuel misunderstandings (one side hears zip-like compression, the other means filtering out data). Our videos and articles aim to bridge that gap by explaining how these downsampling policies actually work, rather than just quoting impressive ratios.\n\nConclusion: Smarter Data Reduction for IIoT 📉\n\nEffective data management in Industrial IoT isn’t just about buying bigger storage – it’s about being smart with the data you keep. Techniques like dead-band and swinging-door trending let engineers keep virtually the same insight and trends from their sensors while cutting out 80–98% of the raw data points. This leads to leaner networks (no more flooding your MQTT unified namespace with redundant readings) and cheaper, faster data storage and analytics.\n\nDownsampling (lossy compression) and traditional compression (lossless) are both important tools. Use downsampling at the source to trim the fat in real-time, and use compression in your databases to pack the remaining data efficiently. The result is a highly optimized data pipeline that preserves the information that matters for monitoring and analysis, without the extraneous noise.\n\nFor a deeper visual explanation of each concept, be sure to check out the linked video clips in this article. They demonstrate these principles in action within a Unified Namespace architecture, courtesy of United Manufacturing Hub’s open-source platform. By applying these downsampling techniques, you can achieve dramatic bandwidth and storage savings without sacrificing the quality of your industrial insights.\n\n© 2026 Jeremy Theocharis\n\nData security\nImprint\nGitHub\nLinkedIn\n\nI'm hiring product engineers in Germany."
+}

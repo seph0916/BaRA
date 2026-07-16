@@ -1,0 +1,193 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://addyosmani.com/assets/images/addy_2022.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 45,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "IntelliCode",
+            "href": "https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-intellicode/"
+        },
+        {
+            "text": "DeepCode",
+            "href": "https://techcrunch.com/2019/08/06/deepcode-gets-4m-to-feed-its-ai-powered-code-review-tool/"
+        },
+        {
+            "text": "TabNine",
+            "href": "https://www.tabnine.com/"
+        },
+        {
+            "text": "Deep TabNine using OpenAI’s GPT-2 architecture",
+            "href": "https://hub.packtpub.com/introducing-deep-tabnine-a-language-agnostic-autocompleter-based-on-openais-gpt-2/"
+        },
+        {
+            "text": "Kite",
+            "href": "https://kite.com/"
+        },
+        {
+            "text": "SapFix",
+            "href": "https://engineering.fb.com/2018/09/13/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/"
+        },
+        {
+            "text": "Getafix",
+            "href": "https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/"
+        },
+        {
+            "text": "Aroma",
+            "href": "https://arxiv.org/abs/1812.01158"
+        },
+        {
+            "text": "Excel Flash Fill and the PROSE framework",
+            "href": "https://www.microsoft.com/en-us/research/publication/automating-string-processing-spreadsheets-using-input-output-examples/"
+        },
+        {
+            "text": "code2vec",
+            "href": "https://arxiv.org/abs/1803.09473"
+        },
+        {
+            "text": "code2seq",
+            "href": "https://arxiv.org/abs/1808.01400"
+        },
+        {
+            "text": "Introducing Visual Studio IntelliCode",
+            "href": "https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-intellicode/"
+        },
+        {
+            "text": "IntelliCode for Visual Studio",
+            "href": "https://learn.microsoft.com/en-us/visualstudio/ide/intellicode-visual-studio"
+        },
+        {
+            "text": "TabNine’s first month in review",
+            "href": "https://jacobjackson.com/first-month/"
+        },
+        {
+            "text": "Q&A: This Autocompletion Tool Aims to Supercharge Your Coding",
+            "href": "https://spectrum.ieee.org/qa-this-autocompletion-tool-aims-to-supercharge-your-coding"
+        },
+        {
+            "text": "Kite launches Pro plan for AI-powered Python code completions",
+            "href": "https://venturebeat.com/business/kite-pro-ai-powered-python-javascript-code-completions/"
+        },
+        {
+            "text": "Kite Python Plugin",
+            "href": "https://github.com/kiteco"
+        },
+        {
+            "text": "DeepCode gets $4M to feed its AI-powered code review tool",
+            "href": "https://techcrunch.com/2019/08/06/deepcode-gets-4m-to-feed-its-ai-powered-code-review-tool/"
+        },
+        {
+            "text": "Finding and fixing software bugs automatically with SapFix and Sapienz",
+            "href": "https://engineering.fb.com/2018/09/13/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/"
+        },
+        {
+            "text": "How Facebook tools learn to fix bugs automatically",
+            "href": "https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/"
+        },
+        {
+            "text": "Code Recommendation via Structural Code Search",
+            "href": "https://arxiv.org/abs/1812.01158"
+        },
+        {
+            "text": "Program Synthesis",
+            "href": "https://www.microsoft.com/en-us/research/project/prose-framework/"
+        },
+        {
+            "text": "Automating String Processing in Spreadsheets using Input-Output Examples",
+            "href": "https://www.microsoft.com/en-us/research/publication/automating-string-processing-spreadsheets-using-input-output-examples/"
+        },
+        {
+            "text": "Learning Distributed Representations of Code",
+            "href": "https://arxiv.org/abs/1803.09473"
+        },
+        {
+            "text": "Generating Sequences from Structured Representations of Code",
+            "href": "https://arxiv.org/abs/1808.01400"
+        },
+        {
+            "text": "Learning to Write Programs",
+            "href": "https://arxiv.org/abs/1611.01989"
+        },
+        {
+            "text": "Program Synthesis",
+            "href": "https://www.nowpublishers.com/article/Details/PGL-010"
+        },
+        {
+            "text": "Summarizing Source Code using a Neural Attention Model",
+            "href": "https://aclweb.org/anthology/P16-1195"
+        },
+        {
+            "text": "Code Completion with Neural Attention and Pointer Networks",
+            "href": "https://arxiv.org/abs/1711.09573"
+        },
+        {
+            "text": "Neural Translation Model for Learning Source Code Changes",
+            "href": "https://arxiv.org/abs/1810.00314"
+        },
+        {
+            "text": "Addy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.",
+            "href": "http://twitter.com/addyosmani"
+        },
+        {
+            "text": "Tweet",
+            "href": "https://twitter.com/intent/tweet?text=https://addyosmani.com/blog/ai-assisted-engineering-idea/%20-%20AI-Assisted%20Engineering:%20A%202019%20Perspective%20on%20the%20Next%20Decade%20of%20Coding%20by%20@addyosmani"
+        },
+        {
+            "text": "Bluesky",
+            "href": "https://bsky.app/intent/compose?text=AI-Assisted%20Engineering:%20A%202019%20Perspective%20on%20the%20Next%20Decade%20of%20Coding%20-%20https://addyosmani.com/blog/ai-assisted-engineering-idea/"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/share?text=AI-Assisted%20Engineering:%20A%202019%20Perspective%20on%20the%20Next%20Decade%20of%20Coding%0Ahttps://addyosmani.com/blog/ai-assisted-engineering-idea/"
+        },
+        {
+            "text": "Threads",
+            "href": "https://www.threads.net/intent/post?text=AI-Assisted%20Engineering:%20A%202019%20Perspective%20on%20the%20Next%20Decade%20of%20Coding%0Ahttps://addyosmani.com/blog/ai-assisted-engineering-idea/"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://addyosmani.com/blog/ai-assisted-engineering-idea/"
+        },
+        {
+            "text": "Share",
+            "href": "https://addyosmani.com/blog/ai-assisted-engineering-idea/#"
+        }
+    ],
+    "text_length": 17627,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nAI-Assisted Engineering: A 2019 Perspective on the Next Decade of Coding\nOCTOBER 1, 2019\n\nA 2019 perspective on how the next decade of coding could change\n\nI want to give a name to a direction of travel that feels inevitable even if the details are fuzzy. I will call it AI-Assisted Engineering. It describes a shift where software engineers collaborate with learning systems that understand code, intent, and context well enough to accelerate the full lifecycle of development. Some of what follows is speculative. Some of it will be wrong. The aim is to set a vocabulary and a map that teams can use to navigate the next five to ten years.\n\nWhat AI-Assisted Engineering means\n\nAI-Assisted Engineering is the practice of using machine learning and automated reasoning to augment, not replace, human software work. This distinction matters. The goal is not to eliminate developers but to amplify their capabilities through intelligent tooling that sits natively within their existing workflows.\n\nThe practice spans four fundamental modes of interaction. First, systems that understand code by reading source files, comments, tests, logs, and issue threads to answer questions, summarize intent, and highlight potential risks. Second, systems that generate artifacts by drafting code, tests, configuration files, documentation, and migration scripts from natural language descriptions or by-example specifications. Third, systems that modify existing code through refactoring, API upgrades, localization, and adaptation to meet performance, security, or platform constraints. Finally, systems that verify correctness by proposing test cases, proving properties within limited scopes, detecting vulnerabilities, and explaining test failures in human-readable terms.\n\nThe goal is not magic. The goal is compounding productivity achieved through shorter feedback loops, tighter focus on high-value work, and a higher baseline of quality with lower toil. The human remains the editor in chief, making strategic decisions and providing creative direction. The machine becomes a fast, tireless collaborator that operates inside our development tools rather than replacing them.\n\nWhere we are in 2019\n\nWe already see early but real signals of this future taking shape.\n\nMicrosoft has been shipping AI-powered assistance directly in developer tools. IntelliCode provides context-aware code completions in Visual Studio and VS Code by training on thousands of open-source repositories to improve ranking and relevance. DeepCode has brought AI-powered code review to the market, analyzing repositories to detect bugs, security vulnerabilities, and code quality issues.\n\nTabNine demonstrated that a large language model trained on public code repositories can provide intelligent autocomplete across multiple programming languages, moving beyond simple token-based prefix matching. The system, created by Jacob Jackson and later enhanced as Deep TabNine using OpenAI’s GPT-2 architecture, represents a significant leap in code completion capabilities. Similarly, Kite has explored machine-learning-powered completions for Python and JavaScript in popular editors, demonstrating that AI-driven assistance can integrate seamlessly into developer workflows.\n\nFacebook has published pioneering work on systems that learn from code history to propose production-ready patches. SapFix combines automated testing with learned repair patterns to fix bugs automatically at scale. Getafix learns common fix patterns from code review history and suggests corrections during the review process. Aroma explores structural code search to find and recommend similar code patterns, reducing duplication and accelerating development.\n\nThe academic community has contributed foundational techniques that power these tools. Work like Excel Flash Fill and the PROSE framework demonstrated how non-developers can express intent through examples and receive code that captures the underlying pattern. Research on neural code representations, including code2vec and code2seq, has shown how to learn distributed representations of code that enable semantic search, method name prediction, and code summarization.\n\nThese capabilities are narrow but real. They reduce friction in everyday work and hint at much broader possibilities when models, training data, and tooling reach scale.\n\nWhy the next decade might be different\n\nFour converging trends suggest we are at the beginning, not the end, of this transformation. First, data availability continues to expand dramatically. There exists a vast and ever-growing corpus of public code, issue trackers, code reviews, and developer Q&A discussions. Private codebases add even richer local context for enterprises willing to invest in indexing and securing their internal knowledge. This data serves as the training ground for increasingly sophisticated models.\n\nSecond, model capabilities are advancing rapidly. Sequence models that work effectively on natural language also work on source code and diffs. As model capacity increases and training techniques improve, these systems will better capture long-range dependencies, architectural patterns, and domain-specific idioms. The same transformer architectures powering natural language understanding are proving remarkably effective for code.\n\nThird, developer experience has evolved to favor integrated assistance. Developers now spend most of their day in editors, terminals, and browsers that are designed to be extended and customized. This makes new forms of assistance feel native rather than requiring context switches to separate applications. The tools are ready for deeper integration.\n\nFinally, economic pressure drives adoption. Developer time is scarce and expensive. Anything that safely reduces time to first correct solution will find adoption, even if early versions are imperfect. Organizations face increasing pressure to ship faster while maintaining quality, creating strong incentives to adopt productivity-enhancing tools.\n\nA practical ladder of assistance?\n\nIt helps to think in progressive levels so we can choose appropriate ambition and evaluate progress against clear milestones.\n\nLevel 0 represents no AI assistance—just classic IDE features like syntax highlighting and manual linting.\n\nLevel 1 introduces hints through ranked completions, documentation lookup, quick fix actions, and risk highlights in code diffs.\n\nLevel 2 brings drafts, including multi-line code suggestions, test stubs, migration snippets, and automatically generated commit messages.\n\nLevel 3 enables complete tasks executed end-to-end under human supervision, such as implementing a well-specified function or fixing a clearly identified bug.\n\nLevel 4 represents goal-driven assistance where the human states a high-level goal and constraints, and the system proposes a series of coordinated tasks, executes them in a sandbox environment, and returns a verified changeset with supporting evidence.\n\nLevel 5 envisions co-stewardship, where the system actively monitors repositories and production environments, proactively files issues when it detects problems, opens safe automated pull requests for routine maintenance, and explains trade-offs for different approaches.\n\nSome teams in the early 2020s will rapidly climb from Level 0 to Level 2. The journey from Level 2 to Level 4 will take years and require robust guardrails around correctness, security, and maintainability, but the payoff is correspondingly large.\n\nCore workflow primitives\n\nRegardless of which level a team operates at, the same fundamental primitives appear repeatedly in AI-assisted workflows. Systems must retrieve relevant context from code, documentation, issues, and past changes. They must plan sequences of actions that achieve developer goals while respecting constraints. They must generate code, tests, documentation, and configuration that matches project conventions and requirements.\n\nThey must validate their outputs through static analysis, testing, and formal verification where applicable. They must explain their reasoning, suggestions, and decisions in terms developers can understand and critique. Finally, they must learn continuously from feedback, corrections, and new patterns in the evolving codebase. Together, these primitives form a closed loop of augmentation that enables fast iteration guided by context, evidence, and developer feedback.\n\nPredictions for the next five years\n\nThe near-term future will see fundamental shifts in daily development workflows. Autocomplete will evolve into paragraph-complete, where systems suggest entire function implementations or documentation sections based on context and intent. Every diff submitted for review will ship with an automatically generated explanation describing what changed, why it changed, and what testing validated the change.\n\nTests will be generated by default. When a developer writes a function, the system will automatically propose a comprehensive test suite covering normal cases, edge cases, and error conditions. Migrations will become dramatically safer as AI systems learn to apply API changes consistently across large codebases while preserving semantics. Repository-aware assistance will understand project-specific conventions, architectural patterns, and domain knowledge rather than just general programming practices.\n\nConversational search will enable developers to ask questions about code and architecture in natural language and receive contextual answers drawn from the codebase itself. Continuous integration will transform into a teaching loop, where failed builds and tests trigger not just notifications but actionable suggestions for fixes. Incident response will benefit from AI assistants that help diagnose production issues by correlating logs, metrics, and recent code changes.\n\nPredictions for five to ten years\n\nThe longer-term future envisions more profound transformations in how software is built. Goal-driven development flows will allow developers to specify high-level objectives—”make this endpoint handle 10x more traffic” or “add multi-language support to this feature”—and receive proposed implementations complete with tests, documentation, and performance benchmarks.\n\nPolicy-driven governance will operate at scale, automatically enforcing security requirements, accessibility standards, and compliance constraints across entire organizations. Build pipelines may incorporate multi-agent systems where different specialized models handle compilation, testing, security scanning, and deployment coordination.\n\nOrganizations will develop sophisticated memory systems that capture and surface institutional knowledge while respecting privacy boundaries. Design-to-code loops will tighten dramatically, with systems that can translate mockups and specifications into working implementations. Tools will embed learning capabilities that improve continuously from each developer’s unique workflows and preferences. New roles will emerge focused on assistance policy, prompt engineering, and evaluation frameworks for AI-powered development tools.\n\nWhat could block progress?\n\nSeveral obstacles could slow or derail this evolution. Trust remains fragile. False positives and opaque reasoning undermine confidence, and developers will abandon tools that frequently mislead them. Reproducibility poses challenges since non-deterministic model behavior can make debugging harder rather than easier. Privacy and intellectual property concerns complicate training on private codebases and using AI-generated code in proprietary systems.\n\nLatency in interactive settings frustrates developers if suggestions arrive too slowly to fit natural workflows. Perhaps most insidiously, evaluation debt accumulates when teams measure novelty or technical sophistication instead of real outcomes like reduced defects, faster delivery, or improved developer satisfaction. Without rigorous measurement tied to business value, it becomes difficult to distinguish genuine progress from hype.\n\nHow will we evaluate value?\n\nAI-assisted engineering must ultimately prove its worth through tangible improvements in software delivery. Tie assistance capabilities directly to work that matters: time to green builds, code review throughput, defect rates discovered in production, and system reliability outcomes.\n\nMeasure developer experience through reduced cognitive load, increased time spent in flow state, and improved satisfaction scores.\n\nAvoid vanity metrics that sound impressive but fail to connect to actual productivity or quality improvements.\n\nAdoption playbook for 2019\n\nIt’s still very early!\n\nTeams beginning this journey should start pragmatically. Pick narrow, frequent tasks that are well-scoped and easy to evaluate. Keep humans firmly in the loop for all AI-generated outputs, treating suggestions as drafts rather than finished work. Ground everything in your own codebase rather than relying solely on models trained on public code, as project-specific conventions and domain knowledge matter enormously.\n\nBake evaluation directly into your development pipeline so you continuously measure whether assistance is actually helping. Invest heavily in documentation and explanation, since developers need to understand both what the system is suggesting and why. Start building a playbook library that captures effective prompts, examples, and patterns for getting good results from AI tools. This organizational knowledge becomes increasingly valuable as capabilities expand.\n\nWhat I might be wrong about\n\nI may overestimate the near-term feasibility of multi-agent systems while underestimating how quickly design integration or formal verification methods will advance. Governance and policy enforcement may prove harder than technical implementation.\n\nThe specific timeline for reaching different levels of assistance will surely be wrong in the details. But even if the pace varies and specific predictions miss, the overall trajectory feels stable: toward faster feedback loops, safer changes, and more developer time spent on problems that require uniquely human judgment.\n\nSignals to watch\n\nSeveral observable indicators will tell us whether this vision is materializing. Watch for editor vendors shipping learned features by default rather than as experimental add-ons. Look for continuous integration systems that propose fixes rather than merely logging failures.\n\nMonitor the emergence of legal and organizational patterns for private training data. Observe whether reliable benchmarks appear for measuring assistance on real-world workflows rather than synthetic tasks. Most importantly, watch for teams reporting measurable gains in reliability, velocity, or developer satisfaction that they attribute to AI assistance.\n\nClosing thoughts\n\nAI-Assisted Engineering is not a single product or feature—it represents a fundamental shift in posture. It assumes that learning systems can help us understand, generate, modify, and verify software within tight collaborative loops where humans retain strategic control. In 2019, we can see early hints of what becomes possible. Over the next decade, I expect those hints to mature into standard practice.\n\nThe specific details will evolve and some predictions will prove incorrect, but the underlying direction seems clear: faster feedback, safer changes, and more time for the aspects of engineering that most require human creativity and judgment.\n\nFurther reading\nCommercial tools and services (2019)\n\nMicrosoft IntelliCode\nOfficial announcement: Introducing Visual Studio IntelliCode\nDocumentation: IntelliCode for Visual Studio\n\nTabNine / Deep TabNine\nJacob Jackson’s blog: TabNine’s first month in review\nIEEE Spectrum interview: Q&A: This Autocompletion Tool Aims to Supercharge Your Coding\n\nKite\nVentureBeat: Kite launches Pro plan for AI-powered Python code completions\nGitHub: Kite Python Plugin\n\nDeepCode\nTechCrunch: DeepCode gets $4M to feed its AI-powered code review tool\n\nIndustry research\n\nFacebook Engineering\nSapFix: Finding and fixing software bugs automatically with SapFix and Sapienz\nGetafix: How Facebook tools learn to fix bugs automatically\nAroma paper: Code Recommendation via Structural Code Search (OOPSLA 2019)\n\nMicrosoft Research\nPROSE Framework: Program Synthesis\nFlash Fill: Automating String Processing in Spreadsheets using Input-Output Examples (POPL 2011)\n\nAcademic research\n\nNeural Code Representations\ncode2vec: Learning Distributed Representations of Code (POPL 2019)\ncode2seq: Generating Sequences from Structured Representations of Code (ICLR 2019)\n\nProgram Synthesis\nDeepCoder: Learning to Write Programs (ICLR 2017)\nProgram Synthesis Survey: Program Synthesis by Gulwani, Polozov, and Singh (2017)\n\nCode Completion and Summarization\nIyer et al.: Summarizing Source Code using a Neural Attention Model (ACL 2016)\nLi et al.: Code Completion with Neural Attention and Pointer Networks (IJCAI 2018)\n\nAutomated Repair\nTree2Tree: Neural Translation Model for Learning Source Code Changes (ASE 2018)\n\nHistorical Context\n\nIf we define AI-Assisted Engineering well and measure it rigorously, we can turn these early experiments into a trustworthy, durable way to build software faster and better. The tools and research listed above represent the foundation on which the next decade of development assistance will be built.\n\nAddy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.\n Tweet  Bluesky  Mastodon  Threads  LinkedIn  Share\n\nWant more? Subscribe to my free newsletter:\nSubscribe"
+}

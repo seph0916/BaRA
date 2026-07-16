@@ -1,0 +1,295 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 71,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://openai.com/research/index/publication/#main"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/"
+        },
+        {
+            "text": "Research",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Business",
+            "href": "https://openai.com/business/"
+        },
+        {
+            "text": "Developers",
+            "href": "https://openai.com/api/"
+        },
+        {
+            "text": "Company",
+            "href": "https://openai.com/about/"
+        },
+        {
+            "text": "Foundation\n(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "Try ChatGPT\n(opens in a new window)",
+            "href": "https://chatgpt.com/?openaicom-did=a9e5d5b0-0b9e-46f5-8c09-1b58f2437345&openaicom_referred=true"
+        },
+        {
+            "text": "Foundation(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "All",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Publication",
+            "href": "https://openai.com/research/index/publication/"
+        },
+        {
+            "text": "Conclusion",
+            "href": "https://openai.com/research/index/conclusion/"
+        },
+        {
+            "text": "Milestone",
+            "href": "https://openai.com/research/index/milestone/"
+        },
+        {
+            "text": "Release",
+            "href": "https://openai.com/research/index/release/"
+        },
+        {
+            "text": "GPT-5.5 Instant System Card",
+            "href": "https://openai.com/index/gpt-5-5-instant-system-card/"
+        },
+        {
+            "text": "Where the goblins came from\n\nHow goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+            "href": "https://openai.com/index/where-the-goblins-came-from/"
+        },
+        {
+            "text": "GPT-5.5 System Card",
+            "href": "https://openai.com/index/gpt-5-5-system-card/"
+        },
+        {
+            "text": "Inside our approach to the Model Spec\n\nLearn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+            "href": "https://openai.com/index/our-approach-to-the-model-spec/"
+        },
+        {
+            "text": "How we monitor internal coding agents for misalignment\n\nHow OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+            "href": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/"
+        },
+        {
+            "text": "Improving instruction hierarchy in frontier LLMs\n\nIH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+            "href": "https://openai.com/index/instruction-hierarchy-challenge/"
+        },
+        {
+            "text": "Reasoning models struggle to control their chains of thought, and that’s good\n\nOpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+            "href": "https://openai.com/index/reasoning-models-chain-of-thought-controllability/"
+        },
+        {
+            "text": "GPT-5.4 Thinking System Card",
+            "href": "https://openai.com/index/gpt-5-4-thinking-system-card/"
+        },
+        {
+            "text": "Extending single-minus amplitudes to gravitons\n\nA new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+            "href": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/"
+        },
+        {
+            "text": "Research Index",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Research Overview",
+            "href": "https://openai.com/research/"
+        },
+        {
+            "text": "Research Residency",
+            "href": "https://openai.com/residency/"
+        },
+        {
+            "text": "Economic Research",
+            "href": "https://openai.com/signals/"
+        },
+        {
+            "text": "GPT-5.5",
+            "href": "https://openai.com/index/introducing-gpt-5-5/"
+        },
+        {
+            "text": "GPT-5.4",
+            "href": "https://openai.com/index/introducing-gpt-5-4/"
+        },
+        {
+            "text": "GPT-5.3 Instant",
+            "href": "https://openai.com/index/gpt-5-3-instant/"
+        },
+        {
+            "text": "GPT-5.3-Codex",
+            "href": "https://openai.com/index/introducing-gpt-5-3-codex/"
+        },
+        {
+            "text": "Safety Approach",
+            "href": "https://openai.com/safety/"
+        },
+        {
+            "text": "Security & Privacy",
+            "href": "https://openai.com/security-and-privacy/"
+        },
+        {
+            "text": "Trust & Transparency",
+            "href": "https://openai.com/trust-and-transparency/"
+        },
+        {
+            "text": "Explore ChatGPT\n(opens in a new window)",
+            "href": "https://chatgpt.com/overview?openaicom-did=a9e5d5b0-0b9e-46f5-8c09-1b58f2437345&openaicom_referred=true"
+        },
+        {
+            "text": "Business",
+            "href": "https://chatgpt.com/business/business-plan?openaicom-did=a9e5d5b0-0b9e-46f5-8c09-1b58f2437345&openaicom_referred=true"
+        },
+        {
+            "text": "Enterprise",
+            "href": "https://chatgpt.com/business/enterprise?openaicom-did=a9e5d5b0-0b9e-46f5-8c09-1b58f2437345&openaicom_referred=true"
+        },
+        {
+            "text": "Education",
+            "href": "https://chatgpt.com/business/education?openaicom-did=a9e5d5b0-0b9e-46f5-8c09-1b58f2437345&openaicom_referred=true"
+        },
+        {
+            "text": "Pricing\n(opens in a new window)",
+            "href": "https://chatgpt.com/pricing?openaicom-did=a9e5d5b0-0b9e-46f5-8c09-1b58f2437345&openaicom_referred=true"
+        },
+        {
+            "text": "Download\n(opens in a new window)",
+            "href": "https://chatgpt.com/download?openaicom-did=a9e5d5b0-0b9e-46f5-8c09-1b58f2437345&openaicom_referred=true"
+        },
+        {
+            "text": "Platform Overview",
+            "href": "https://openai.com/api/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://openai.com/api/pricing/"
+        },
+        {
+            "text": "API log in\n(opens in a new window)",
+            "href": "https://platform.openai.com/login"
+        },
+        {
+            "text": "Documentation\n(opens in a new window)",
+            "href": "https://developers.openai.com/api/docs"
+        },
+        {
+            "text": "Developer Forum\n(opens in a new window)",
+            "href": "https://community.openai.com/"
+        },
+        {
+            "text": "Business Overview",
+            "href": "https://openai.com/business/"
+        },
+        {
+            "text": "Solutions",
+            "href": "https://openai.com/solutions/"
+        },
+        {
+            "text": "Contact Sales",
+            "href": "https://openai.com/contact-sales/"
+        },
+        {
+            "text": "About Us",
+            "href": "https://openai.com/about/"
+        },
+        {
+            "text": "Our Charter",
+            "href": "https://openai.com/charter/"
+        },
+        {
+            "text": "Foundation\n(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "Careers",
+            "href": "https://openai.com/careers/"
+        },
+        {
+            "text": "Brand",
+            "href": "https://openai.com/brand/"
+        },
+        {
+            "text": "Help Center\n(opens in a new window)",
+            "href": "https://help.openai.com/"
+        },
+        {
+            "text": "News",
+            "href": "https://openai.com/news/"
+        },
+        {
+            "text": "Stories",
+            "href": "https://openai.com/stories/"
+        },
+        {
+            "text": "Academy",
+            "href": "https://openai.com/academy/"
+        },
+        {
+            "text": "Livestreams",
+            "href": "https://openai.com/live/"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://openai.com/podcast/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://openai.com/news/rss.xml"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://openai.com/policies/terms-of-use/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://openai.com/policies/privacy-policy/"
+        },
+        {
+            "text": "Other Policies",
+            "href": "https://openai.com/policies/"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://x.com/OpenAI"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.youtube.com/OpenAI"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.linkedin.com/company/openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://github.com/openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.instagram.com/openai/"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.tiktok.com/@openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://discord.gg/openai"
+        },
+        {
+            "text": "Cookie Policy",
+            "href": "https://openai.com/policies/cookie-policy/"
+        }
+    ],
+    "text_length": 3096,
+    "text_full": "Skip to main content\nResearch\nProducts\nBusiness\nDevelopers\nCompany\nFoundation\n(opens in a new window)\nLog in\nTry ChatGPT\n(opens in a new window)\nOpenAI Research | Publication | OpenAI\nResearch\nAll\nPublication\nConclusion\nMilestone\nRelease\nFilter\nSort\nSwitch cards to show Media\nSwitch cards to hide Media\nSafety\nMay 5, 2026\nGPT-5.5 Instant System Card\n\nPublication\nApr 29, 2026\nWhere the goblins came from\n\nHow goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.\n\nSafety\nApr 23, 2026\nGPT-5.5 System Card\n\nResearch\nMar 25, 2026\nInside our approach to the Model Spec\n\nLearn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.\n\nSafety\nMar 19, 2026\nHow we monitor internal coding agents for misalignment\n\nHow OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.\n\nResearch\nMar 10, 2026\nImproving instruction hierarchy in frontier LLMs\n\nIH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.\n\nResearch\nMar 5, 2026\nReasoning models struggle to control their chains of thought, and that’s good\n\nOpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.\n\nPublication\nMar 5, 2026\nGPT-5.4 Thinking System Card\n\nResearch\nMar 4, 2026\nExtending single-minus amplitudes to gravitons\n\nA new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.\n\nLoad more\nOur Research\nResearch Index\nResearch Overview\nResearch Residency\nEconomic Research\nLatest Advancements\nGPT-5.5\nGPT-5.4\nGPT-5.3 Instant\nGPT-5.3-Codex\nSafety\nSafety Approach\nSecurity & Privacy\nTrust & Transparency\nChatGPT\nExplore ChatGPT\n(opens in a new window)\nBusiness\nEnterprise\nEducation\nPricing\n(opens in a new window)\nDownload\n(opens in a new window)\nAPI Platform\nPlatform Overview\nPricing\nAPI log in\n(opens in a new window)\nDocumentation\n(opens in a new window)\nDeveloper Forum\n(opens in a new window)\nFor Business\nBusiness Overview\nSolutions\nContact Sales\nCompany\nAbout Us\nOur Charter\nFoundation\n(opens in a new window)\nCareers\nBrand\nSupport\nHelp Center\n(opens in a new window)\nMore\nNews\nStories\nAcademy\nLivestreams\nPodcast\nRSS\nTerms & Policies\nTerms of Use\nPrivacy Policy\nOther Policies\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\nOpenAI © 2015–2026\nManage Cookies\nEnglish\nUnited States\n\nWe use cookies\n\nWe use cookies to help this site function, understand service usage, and support marketing efforts. Visit Manage Cookies to change preferences anytime. View our Cookie Policy for more info.\n\nManage Cookies\nReject non-essential\nAccept all"
+}

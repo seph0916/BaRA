@@ -1,0 +1,979 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5219552.jpg?imageId=5219552&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256552.jpg?imageId=256552&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220875.jpg?imageId=5220875&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229529.jpg?imageId=5229529&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256348.jpg?imageId=256348&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262759.jpg?imageId=262759&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252202.jpg?imageId=252202&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262167.jpg?imageId=262167&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094261.jpg?imageId=4094261&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093865.jpg?imageId=4093865&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/248809.jpg?imageId=248809&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228200.jpg?imageId=228200&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254414.jpg?imageId=254414&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238654.jpg?imageId=238654&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684247.jpg?imageId=1684247&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229521.jpg?imageId=229521&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254094.jpg?imageId=254094&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232298.jpg?imageId=232298&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244150.jpg?imageId=244150&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/158265.jpg?imageId=158265&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259201.jpg?imageId=259201&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243410.jpg?imageId=243410&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230120.jpg?imageId=230120&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247965.jpg?imageId=247965&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/132110.jpg?imageId=132110&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/183210.jpg?imageId=183210&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257414.jpg?imageId=257414&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255351.jpg?imageId=255351&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/178780.jpg?imageId=178780&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229014.jpg?imageId=229014&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258868.jpg?imageId=258868&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227079.jpg?imageId=227079&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245843.jpg?imageId=245843&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253256.jpg?imageId=253256&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/233199.jpg?imageId=233199&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230120.jpg?imageId=230120&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235403.jpg?imageId=235403&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259472.jpg?imageId=259472&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234596.jpg?imageId=234596&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/150771.jpg?imageId=150771&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227504.jpg?imageId=227504&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234277.jpg?imageId=234277&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225208.jpg?imageId=225208&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255685.jpg?imageId=255685&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255738.jpg?imageId=255738&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259224.jpg?imageId=259224&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227626.jpg?imageId=227626&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225014.jpg?imageId=225014&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/237132.jpg?imageId=237132&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247078.jpg?imageId=247078&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256059.jpg?imageId=256059&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243378.jpg?imageId=243378&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229650.jpg?imageId=229650&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256757.jpg?imageId=256757&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255251.jpg?imageId=255251&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/246538.jpg?imageId=246538&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/233191.jpg?imageId=233191&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/150771.jpg?imageId=150771&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/223288.jpg?imageId=223288&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253552.jpg?imageId=253552&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226228.jpg?imageId=226228&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257718.jpg?imageId=257718&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255251.jpg?imageId=255251&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228561.jpg?imageId=228561&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252791.jpg?imageId=252791&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235460.jpg?imageId=235460&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253844.jpg?imageId=253844&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/251449.jpg?imageId=251449&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230325.jpg?imageId=230325&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/204119.jpg?imageId=204119&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 223,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/edge_iot#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Britain says Skyhammer drone interceptor passed Jordan tests with flying colors\n\nMoD eyes Middle East exports after desert trials of Cambridge Aerospace system",
+            "href": "https://www.theregister.com/bootnotes/2026/05/06/uk-says-skyhammer-drone-interceptor-passed-jordan-tests-with-flying-colors/5219527"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/2026/"
+        },
+        {
+            "text": "Weak security means attackers could disable all of a city's public EV chargers\n\nDemonstrated in China, probably applicable elsewhere",
+            "href": "https://www.theregister.com/security/2026/04/24/attackers-could-disable-all-of-a-citys-public-ev-chargers/5222307"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/rentable_iot_security_flaws/"
+        },
+        {
+            "text": "Swarm welcome: Britain lines up 120,000 drones for Ukraine\n\nGiant UAV package will include strike, recon, logistics, and maritime systems",
+            "href": "https://www.theregister.com/off-prem/2026/04/16/britain-sends-biggest-ever-drone-package-to-ukraine/5220525"
+        },
+        {
+            "text": "42",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/uk_ukraine_drone_package/"
+        },
+        {
+            "text": "UK defense startup to supply drone interceptors for Britain and allies\n\nMoD plans rapid procurement of Cambridge Aerospace's Skyhammer system at home and abroad",
+            "href": "https://www.theregister.com/off-prem/2026/04/13/uk-startup-to-supply-drone-interceptors-for-britain-allies/5229481"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/cambridge_aerospace_skyhammer_interceptor/"
+        },
+        {
+            "text": "The drone swarm is coming, and NATO air defenses are too expensive to cope\n\nUkraine's battlefield lessons show quantity and affordability now trump exquisite hardware",
+            "href": "https://www.theregister.com/off-prem/2026/03/23/nato-needs-layered-defenses-to-deal-with-swarms-of-drones/5225514"
+        },
+        {
+            "text": "61",
+            "href": "https://forums.theregister.com/forum/all/2026/03/23/nato_air_defenses/"
+        },
+        {
+            "text": "In the name of science: Boffins build fart-tracking undies\n\nA wearable sensor designed to monitor intestinal gas suggests the average person may let rip around 32 times a day",
+            "href": "https://www.theregister.com/offbeat/2026/03/17/in-the-name-of-science-boffins-build-fart-tracking-undies/5221976"
+        },
+        {
+            "text": "89",
+            "href": "https://forums.theregister.com/forum/all/2026/03/17/scientists_build_farttracking_underwear_discover/"
+        },
+        {
+            "text": "Royal Navy races to arm ships against drone threat\n\nBritain's Ministry of Defence wants a counter-drone system designed, contracted, and delivered within weeks",
+            "href": "https://www.theregister.com/off-prem/2026/03/09/royal-navy-races-to-arm-ships-against-drone-threat/5222584"
+        },
+        {
+            "text": "106",
+            "href": "https://forums.theregister.com/forum/all/2026/03/09/uks_royal_navy_desperately_seeking/"
+        },
+        {
+            "text": "UK mobilizes lawyers to keep report on Gatwick 'drone' chaos under wraps\n\nSeven-year Freedom of Information battle heads to tribunal",
+            "href": "https://www.theregister.com/off-prem/2026/03/06/uk-fights-to-keep-gatwick-drone-disaster-report-redacted/4424268"
+        },
+        {
+            "text": "48",
+            "href": "https://forums.theregister.com/forum/all/2026/03/06/gatwick_drone_tribunal/"
+        },
+        {
+            "text": "CERN sends AI-trained robot mice scurrying through LHC beam pipes\n\nBots hunt deformed RF contacts inside the collider's 27 km vacuum tubes",
+            "href": "https://www.theregister.com/offbeat/2026/03/05/ai-trained-robotic-mice-to-roam-the-large-hadron-collider/4484369"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/03/05/robot_mice_lhc/"
+        },
+        {
+            "text": "Passive RFIDs can now stream telemetry data from sensors\n\nTo advance the ‘ambient internet of things’ – no batteries required",
+            "href": "https://www.theregister.com/on-prem/2026/02/17/passive-rfids-can-now-stream-telemetry-data-from-sensors/4419838"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/02/17/ambient_iot_japan_standard/"
+        },
+        {
+            "text": "Open Compute taps IOWN to help design distributed datacenters and a 'computing continuum'\n\nBecause AI won’t only run in Big Tech’s giant GPU garages, and won't tolerate slow connections",
+            "href": "https://www.theregister.com/off-prem/2026/02/11/open-compute-taps-iown-to-design-distributed-datacenters/4673083"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/02/11/iown_ocp_ai_computing_continuum/"
+        },
+        {
+            "text": "Bankrupt scooter startup left one private key to rule them all\n\nOwner reverse-engineered his ride, revealing authentication was never properly individualized",
+            "href": "https://www.theregister.com/security/2026/01/16/bankrupt-scooter-startups-single-key-controlled-everything/4963667"
+        },
+        {
+            "text": "70",
+            "href": "https://forums.theregister.com/forum/all/2026/01/16/bankrupt_scooter_startup_key/"
+        },
+        {
+            "text": "Your smart TV is watching you and nobody's stopping it\n\nFrom buried settings to geopolitical risk, the business model is surveillance",
+            "href": "https://www.theregister.com/off-prem/2026/01/05/your-smart-tv-is-watching-you-and-nobodys-stopping-it/2350998"
+        },
+        {
+            "text": "157",
+            "href": "https://forums.theregister.com/forum/all/2026/01/05/smart_tv_surveillance_opinion/"
+        },
+        {
+            "text": "The Roomba failed because it just kind of sucked\n\nSomething messy happens when the cat hairs of reality meet the shiny hype of smart tech",
+            "href": "https://www.theregister.com/software/2025/12/22/the-roomba-failed-because-it-just-kind-of-sucked/2379916"
+        },
+        {
+            "text": "124",
+            "href": "https://forums.theregister.com/forum/all/2025/12/22/irobot_opinion/"
+        },
+        {
+            "text": "Poop-peeping toilet attachment has a different definition of 'end-to-end' encryption\n\nTalk about enshittification",
+            "href": "https://www.theregister.com/offbeat/2025/12/03/kohler-claims-poop-scanner-uses-e2ee-researcher-cries-foul/2869747"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2025/12/03/pooppeeping_dekoda_toilet_attachment_encryption/"
+        },
+        {
+            "text": "Aviation watchdog says organized drone attacks will shut UK airports ‘sooner or later’\n\nSkies are open for mischief as hard-to-trace drones and fast-moving cyber raids promise new wave of disruption",
+            "href": "https://www.theregister.com/off-prem/2025/11/12/uk-aviation-boss-drone-attacks-will-shut-local-airports/2422599"
+        },
+        {
+            "text": "30",
+            "href": "https://forums.theregister.com/forum/all/2025/11/12/uk_aviation_boss_says_organized/"
+        },
+        {
+            "text": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists\n\nAmazon's hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos",
+            "href": "https://www.theregister.com/off-prem/2025/10/21/aws-outage-turned-smart-homes-into-dumb-boxes/831470"
+        },
+        {
+            "text": "148",
+            "href": "https://forums.theregister.com/forum/all/2025/10/21/aws_outage_aftermath/"
+        },
+        {
+            "text": "Britain eyes satellite laser warning system and carrier-launched jet drones\n\nSpace sensors and UAVs at sea top MoD's list in new wave of cutting-edge projects",
+            "href": "https://www.theregister.com/off-prem/2025/10/07/uk-eyes-satellite-laser-shields-carrier-launched-jet-drones/1226328"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2025/10/07/uk_satellite_laser_drone/"
+        },
+        {
+            "text": "Munich Airport chaos after drone sightings spook air traffic control\n\nOvernight shutdown leaves thousands stuck as Oktoberfest crowds stretch city security",
+            "href": "https://www.theregister.com/off-prem/2025/10/03/munich-airport-closes-over-drone-sightings/719267"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2025/10/03/munich_airport_drone/"
+        },
+        {
+            "text": "Nvidia touts Jetson Thor kit for real-time robot reasoning\n\nGPU modules for AI and robotics take aim at latency",
+            "href": "https://www.theregister.com/off-prem/2025/08/25/nvidia-touts-jetson-thor-kit-for-real-time-robot-reasoning/534996"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2025/08/25/nvidia_touts_jetson_thor_kit/"
+        },
+        {
+            "text": "Jack Dorsey floats specs for decentralized messaging app that uses Bluetooth\n\nIt connects using peer-to-peer networking instead of the internet",
+            "href": "https://www.theregister.com/off-prem/2025/07/08/jack-dorsey-floats-bitchat-messaging-app-based-on-bluetooth/672836"
+        },
+        {
+            "text": "73",
+            "href": "https://forums.theregister.com/forum/all/2025/07/08/jack_dorsey_debuts_bitchat/"
+        },
+        {
+            "text": "Peep show: 40K IoT cameras worldwide stream secrets to anyone with a browser\n\nMajority of exposures located in the US, including datacenters, healthcare facilities, factories, and more",
+            "href": "https://www.theregister.com/security/2025/06/10/40000-cameras-expose-feeds-to-datacenters-health-clinics/375801"
+        },
+        {
+            "text": "59",
+            "href": "https://forums.theregister.com/forum/all/2025/06/10/40000_iot_cameras_exposed/"
+        },
+        {
+            "text": "UK bans game controller exports to Russia in bid to ground drone attacks\n\nMoscow likely to respawn elsewhere",
+            "href": "https://www.theregister.com/off-prem/2025/04/26/uk-bans-game-controller-exports-to-russia/281104"
+        },
+        {
+            "text": "49",
+            "href": "https://forums.theregister.com/forum/all/2025/04/26/uk_russia_controller_drone_attack/"
+        },
+        {
+            "text": "ATMs in the Amazon: Edge is crossing its tipping point, says SUSE CTO\n\nSending Kubernetes and AI into orbit as devices move from 'glorified sensors' to 'decision-making'",
+            "href": "https://www.theregister.com/off-prem/2025/03/18/edge-computing-crossing-its-tipping-point-says-suse-cto/462684"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2025/03/18/suse_cto_interview/"
+        },
+        {
+            "text": "Axiom Space and Red Hat to take edge computing into orbit\n\nTo boldly go where HPE and Raspberry Pi have been for a while",
+            "href": "https://www.theregister.com/off-prem/2025/03/07/axiom-space-and-red-hat-to-take-edge-computing-to-orbit/697241"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/03/07/axiom_space_and_red_hat/"
+        },
+        {
+            "text": "HP Inc to build future products atop grave of flopped 'AI pin'\n\nTech and people behind IoT brooch that reviewers instantly hated will one day pep up printers",
+            "href": "https://www.theregister.com/on-prem/2025/02/19/hp-to-build-future-products-atop-grave-of-flopped-ai-pin/325966"
+        },
+        {
+            "text": "54",
+            "href": "https://forums.theregister.com/forum/all/2025/02/19/hp_acquires_humane/"
+        },
+        {
+            "text": "Netgear fixes critical bugs as Five Eyes warn about break-ins at the edge\n\nInternational security squads all focus on stopping baddies busting in through routers, IoT kit etc",
+            "href": "https://www.theregister.com/off-prem/2025/02/05/netgear-critical-vulns-come-amid-global-netsec-concern/1037063"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/02/05/netgear_fixes_critical_bugs_while/"
+        },
+        {
+            "text": "Garmin pulls a CrowdStrike, turns smartwatches into fancy bracelets\n\nBlue Screen of Death becomes the Blue Triangle of Doom for your wrist",
+            "href": "https://www.theregister.com/on-prem/2025/01/29/garmin-smartwatches-have-a-crowdstrike-moment/914470"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2025/01/29/garmin_smartwatch_faulty_update/"
+        },
+        {
+            "text": "Look for the label: White House rolls out 'Cyber Trust Mark' for smart devices\n\nBeware the IoT that doesn’t get a security tag",
+            "href": "https://www.theregister.com/security/2025/01/09/white-house-launches-consumer-smart-device-security-label/1529609"
+        },
+        {
+            "text": "38",
+            "href": "https://forums.theregister.com/forum/all/2025/01/09/white_house_smart_device_security_label/"
+        },
+        {
+            "text": "Iran-linked crew used custom 'cyberweapon' in US critical infrastructure attacks\n\nIOCONTROL targets IoT and OT devices from a ton of makers, apparently",
+            "href": "https://www.theregister.com/security/2024/12/13/iran-crew-used-cyberweapon-against-us-critical-infra/938947"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2024/12/13/iran_cyberweapon_us_attacks/"
+        },
+        {
+            "text": "A new city springs from the rainforest to become Indonesia's tech hub\n\nJakarta who? Indonesia's new capital, Nusantara, is packed with tech",
+            "href": "https://www.theregister.com/on-prem/2024/11/06/indonesias-new-capital-nusantara-is-packed-with-tech/1522416"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2024/11/06/indonesias_new_capital_nusantara/"
+        },
+        {
+            "text": "Chinese engineers wire Raspberry Pi into 600-meter railway tunnel to find any holes\n\nThe GPIO turns out to be a handy tool if you want to measure the conductivity of concrete",
+            "href": "https://www.theregister.com/on-prem/2024/10/29/chinese-engineers-use-raspberry-pi-to-test-tunnels/1291971"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2024/10/29/china_raspberry_pi_tunnel_testing/"
+        },
+        {
+            "text": "Smart homes may be a bright idea, just not for the dim bulbs who live in 'em\n\nHow many Reg hacks does it take to change a light fitting...?",
+            "href": "https://www.theregister.com/on-prem/2024/10/14/smart-homes-may-be-a-good-idea-just-not-for-the-idiots/488092"
+        },
+        {
+            "text": "159",
+            "href": "https://forums.theregister.com/forum/all/2024/10/14/opinion_column_smart_gadgets/"
+        },
+        {
+            "text": "Samsung and pals Hyundai, Kia team for software-defined cars, IoT integration\n\nTurn on home aircon and maybe peer inside the fridge or oven – all from behind the wheel",
+            "href": "https://www.theregister.com/on-prem/2024/09/25/samsung-hyundai-and-kia-sign-iot-on-wheels-pact/389527"
+        },
+        {
+            "text": "30",
+            "href": "https://forums.theregister.com/forum/all/2024/09/25/samsung_kia_hyundai_iot_alliance/"
+        },
+        {
+            "text": "Capita wins £135M extension on much-delayed UK smart meter rollout\n\nOutsourcing firm has been building network for over a decade now – how's that going?",
+            "href": "https://www.theregister.com/on-prem/2024/09/24/capita-wins-extension-on-much-delayed-uk-smart-meter-rollout/1379942"
+        },
+        {
+            "text": "234",
+            "href": "https://forums.theregister.com/forum/all/2024/09/24/capita_wins_135_million_extension_smart_meters/"
+        },
+        {
+            "text": "From windfarms to Amazon Prime, UK plans to long range test six drone services\n\nBVLOS operations to modernize airspace",
+            "href": "https://www.theregister.com/off-prem/2024/08/16/from-windfarms-to-amazon-prime-uk-to-test-6-drone-services/1529950"
+        },
+        {
+            "text": "50",
+            "href": "https://forums.theregister.com/forum/all/2024/08/16/uk_test_drones_bvlos/"
+        },
+        {
+            "text": "Backscatter brainwave could make IoT comms even more energy efficient\n\nHow does sub-0.6 mW sound?",
+            "href": "https://www.theregister.com/on-prem/2024/07/09/koreans-say-efficient-backscatter-tech-could-power-iot-kit/468846"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2024/07/09/korean_backscatter_research/"
+        },
+        {
+            "text": "Handling inference at the edge\n\nOne way to minimise AI latency is to process ML models closer to end users and the data being ingested",
+            "href": "https://www.theregister.com/off-prem/2024/06/18/handling-inference-at-the-edge/1231258"
+        },
+        {
+            "text": "UK lays down fresh legislation banning crummy default device passwords\n\nNew laws mean vendors need to make clear how long you'll get updates too",
+            "href": "https://www.theregister.com/security/2024/04/29/uk-finally-bans-12345-passwords-on-connected-devices/311236"
+        },
+        {
+            "text": "77",
+            "href": "https://forums.theregister.com/forum/all/2024/04/29/uk_lays_password_legislation/"
+        },
+        {
+            "text": "Some smart meters won't be smart at all once 2/3G networks mothballed\n\nUK reckoning with prospect of millions of homes with obsolete hardware",
+            "href": "https://www.theregister.com/on-prem/2024/04/19/millions-of-uk-smart-meters-facing-obsolescence/1392660"
+        },
+        {
+            "text": "282",
+            "href": "https://forums.theregister.com/forum/all/2024/04/19/uk_smart_meters_pac/"
+        },
+        {
+            "text": "Future Roku TVs may inject tailored ads into anything and everything when you pause\n\nMuted the audio? That's an advert. Paused a video? That's an advert",
+            "href": "https://www.theregister.com/on-prem/2024/04/17/future-roku-tvs-may-run-tailored-ads-when-you-pause/730775"
+        },
+        {
+            "text": "61",
+            "href": "https://forums.theregister.com/forum/all/2024/04/17/roku_tv_ad_patent/"
+        },
+        {
+            "text": "CISA in a flap as Chirp smart door locks can be trivially unlocked remotely\n\nHard-coded credentials last thing you want in home security app",
+            "href": "https://www.theregister.com/security/2024/04/15/cisa-warns-of-critical-vulnerability-in-chirp-smart-locks/1408114"
+        },
+        {
+            "text": "49",
+            "href": "https://forums.theregister.com/forum/all/2024/04/15/critical_vulnerability_chirp_lock/"
+        },
+        {
+            "text": "Qualcomm and Qt partner to supercharge UI development for IoT devices\n\nPlus: Qualy punts a 'micro-power' Wi-Fi system for the industrial kit",
+            "href": "https://www.theregister.com/on-prem/2024/04/09/qualcomm-and-qt-partner-on-ui-development-for-iot-devices/453490"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2024/04/09/qualcomm_qt_iot_gui/"
+        },
+        {
+            "text": "Imagination licenses RISC-V CPU cores for smart TVs, IoT, embedded stuff\n\nChip designer legging it after Arm",
+            "href": "https://www.theregister.com/off-prem/2024/04/08/imagination-licenses-risc-v-cpu-cores-for-smart-devices-iot/881560"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2024/04/08/imagination_riscv_cpu_cores/"
+        },
+        {
+            "text": "India celebrates rapid adoption of its internet of livestock\n\nLatest piece of digital public infrastructure is positively beastly",
+            "href": "https://www.theregister.com/on-prem/2024/03/19/india-celebrates-rapid-adoption-of-its-internet-of-livestock/1398522"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2024/03/19/india_internet_of_cows/"
+        },
+        {
+            "text": "Here's another thing AI can do: Spark a boom in edge infrastructure spending\n\nIDC forecasts spend to grow 15.4% in 2024 to $232B – then add another $100B in three years",
+            "href": "https://www.theregister.com/off-prem/2024/03/14/ai-to-spark-a-boom-in-edge-infrastructure-spending/1027441"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2024/03/14/idc_charts_bright_future_for/"
+        },
+        {
+            "text": "The S in IoT stands for security. You'll never secure all the Things\n\nAll too many 'smart' devices are security stupid",
+            "href": "https://www.theregister.com/off-prem/2024/03/09/the-s-in-iot-stands-for-security/648487"
+        },
+        {
+            "text": "59",
+            "href": "https://forums.theregister.com/forum/all/2024/03/09/opinion_column_security_sjvn/"
+        },
+        {
+            "text": "China pushes 'AI Plus' initiative to integrate technology and industry\n\nBeijing used a similar moniker for program that arguably gave us TikTok, Tencent, and Xiaomi",
+            "href": "https://www.theregister.com/on-prem/2024/03/06/china-pushes-ai-plus-initiative-to-integrate-technology/1377566"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2024/03/06/china_peoples_congress_tech_plans/"
+        },
+        {
+            "text": "Husqvarna ports Doom to a robot lawnmower – not, thankfully, its chainsaws\n\nSeminal game runs on everything, so why not pay €2,199 to run it on a tiny screen?",
+            "href": "https://www.theregister.com/on-prem/2024/02/28/husqvarna-ports-doom-to-a-robot-lawnmower/1530574"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2024/02/28/husqvarna_doom_robomower_port/"
+        },
+        {
+            "text": "Microsoft retires Azure IoT Central retirement announcement\n\nAnd fails to clear up end-of-life debacle",
+            "href": "https://www.theregister.com/on-prem/2024/02/21/microsoft-retires-azure-iot-central-retirement-announcement/670047"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2024/02/21/microsoft_azure_iot_central/"
+        },
+        {
+            "text": "Wyze admits 13,000 users could have viewed strangers' camera feeds\n\nCustomers report feeling violated following the security snafu",
+            "href": "https://www.theregister.com/security/2024/02/20/wyze-admits-13k-users-couldve-seen-strangers-camera-feeds/1011225"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2024/02/20/wyze_admits_13000_users_allowed_feed_access/"
+        },
+        {
+            "text": "Microsoft 'retires' Azure IoT Central in platform rethink\n\nAfter March, devs won’t be able to create new application resources, in 2027 the system will be shut down",
+            "href": "https://www.theregister.com/off-prem/2024/02/15/microsoft-retires-azure-iot-central-in-platform-rethink/413045"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2024/02/15/microsoft_retires_azure_iot_central/"
+        },
+        {
+            "text": "Is critical infrastructure prepared for OT ransomware?\n\nAs extortion tactics evolve, operational shutdowns are the next step",
+            "href": "https://www.theregister.com/on-prem/2024/02/02/is-critical-infrastructure-prepared-for-ot-ransomware/1488395"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2024/02/02/critical_infrastructure_ot_ransomware/"
+        },
+        {
+            "text": "White goods giant fires legal threats to unplug open source plugin\n\n'Substantial increase in AWS calls' triggers takedown notice",
+            "href": "https://www.theregister.com/software/2024/01/22/haier-europe-sends-takedowns-over-open-source-plugins/306040"
+        },
+        {
+            "text": "60",
+            "href": "https://forums.theregister.com/forum/all/2024/01/22/haier_plugin_takedown/"
+        },
+        {
+            "text": "BlackBerry squashes plan to spin out its IoT biz\n\nBoard and incoming CEO decide reorganizing is better than splitting",
+            "href": "https://www.theregister.com/security/2023/12/12/blackberry-squashes-plan-to-spin-out-its-iot-biz/1548071"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2023/12/12/blackberry_cancels_split_plan/"
+        },
+        {
+            "text": "India's $20B Smart Cities Mission isn't, and has hardly scratched the surface after eight years\n\nMany projects really about basic services, or don't integrate well. Charge ahead and extend it anyway, think tank recommends",
+            "href": "https://www.theregister.com/off-prem/2023/11/22/indias-smart-cities-mission-hardly-scratched-the-surface/581582"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2023/11/22/india_smart_cities_mission/"
+        },
+        {
+            "text": "Qualcomm in recovery position following annus horribilis\n\nSmartphone sales not nearly so bad and just think of the AI potential for margins",
+            "href": "https://www.theregister.com/on-prem/2023/11/02/qualcomm-in-recovery-position-following-annus-horribilis/326833"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2023/11/02/qualcomm_in_recovery_position/"
+        },
+        {
+            "text": "Millions of smart meters will brick it when 2G and 3G turns off\n\nPublic Accounts Committee demands timetable for replacements, because things have run so smoothly so far...",
+            "href": "https://www.theregister.com/on-prem/2023/10/23/millions-of-smart-meters-will-fail-when-2g-and-3g-turns-off/1331455"
+        },
+        {
+            "text": "352",
+            "href": "https://forums.theregister.com/forum/all/2023/10/23/millions_of_smart_meters_will/"
+        },
+        {
+            "text": "China requires any new domestic Wi-Fi kit to support IPv6 and run it by default\n\nBeijing set big targets for next-gen networks, but adoption stats suggest it's falling short",
+            "href": "https://www.theregister.com/on-prem/2023/10/17/china-requires-all-new-wi-fi-kit-to-run-ipv6/1259458"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2023/10/17/china_networking_hardware/"
+        },
+        {
+            "text": "Mirai reloads exploit arsenal as botnet embarks on another expansion drive\n\nWith 13 new payloads it's the biggest update to the botnet in months",
+            "href": "https://www.theregister.com/security/2023/10/10/mirai-reloads-exploit-arsenal-before-latest-expansion-drive/1323788"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2023/10/10/mirai_reloads_its_exploit_arsenal/"
+        },
+        {
+            "text": "Never mind SETI and NASA, if your Ring somehow snaps ET, Amazon might give you $1M\n\nFly light-years to our planet and get the real Earth experience: Privacy invaded by doorbell cam",
+            "href": "https://www.theregister.com/offbeat/2023/10/06/amazon-contest-offers-1m-for-ring-footage-of-aliens/796299"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2023/10/06/ring_doorbell_alien/"
+        },
+        {
+            "text": "You've just spent $400 on a baby monitor. Now you need a subscription\n\nOnce upon a time there was a company called Miku who wasn't making quite enough money...",
+            "href": "https://www.theregister.com/offbeat/2023/10/06/400-baby-monitor-vendor-demands-monthly-subscription/1005443"
+        },
+        {
+            "text": "184",
+            "href": "https://forums.theregister.com/forum/all/2023/10/06/miku_baby_monitor/"
+        },
+        {
+            "text": "BlackBerry to split into two companies, foraging for tastier fare for shareholders\n\nHopes to float IoT biz and keep infosec ops, then make a second pressing",
+            "href": "https://www.theregister.com/on-prem/2023/10/05/blackberry-to-split-itself-into-two-companies/994603"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2023/10/05/blackberry_split_plan/"
+        },
+        {
+            "text": "Microsoft delays debut of IoT security offer due to 'unexpected system challenges'\n\nSoftware giant tells partners not to sell it but also happy to take your cash now",
+            "href": "https://www.theregister.com/off-prem/2023/10/05/unexpected-system-challenges-delay-microsoft-product/311442"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2023/10/05/microsoft_e5_iot_sku_delay/"
+        },
+        {
+            "text": "If you like to play along with the illusion of privacy, smart devices are a dumb idea\n\nYou're just giving manufacturers carte blanche to profit off personal data",
+            "href": "https://www.theregister.com/security/2023/09/07/like-privacy-then-smart-devices-are-a-dumb-idea/544594"
+        },
+        {
+            "text": "133",
+            "href": "https://forums.theregister.com/forum/all/2023/09/07/smart_devices_privacy/"
+        },
+        {
+            "text": "2023 World Solar Challenge entrant welcomes clouds – not the fluffy white ones\n\nSolar roller on Australia-spanning race packs an Nvidia Jetson, radio link to an AWS edge box, and Starlink uplink",
+            "href": "https://www.theregister.com/offbeat/2023/09/04/2023-world-solar-challenge-entrant-welcomes-clouds/1413883"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2023/09/04/2023_solar_challenge_cloud_computing/"
+        },
+        {
+            "text": "Why these cloud-connected 3D printers started making junk all by themselves\n\nMessage brokering software blamed for dumping backed-up print jobs on idle devices",
+            "href": "https://www.theregister.com/software/2023/08/24/bambu-lab-explains-why-its-cloudy-3d-printers-went-haywire/1352284"
+        },
+        {
+            "text": "68",
+            "href": "https://forums.theregister.com/forum/all/2023/08/24/bambu_lab_3d_printer_crazy/"
+        },
+        {
+            "text": "Graphene foam is the future of IoT power, maybe\n\nAn electrically charged spring in your step",
+            "href": "https://www.theregister.com/offbeat/2023/08/07/foam-nanogenerators-the-future-of-iot-power-say-acadmics/1094584"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2023/08/07/foam_nanogenerators_paper/"
+        },
+        {
+            "text": "Qualcomm's great vanishing act: $2.48B of Q3 profit disappears\n\nSmartphone CPU king talks of 'additional cost actions' as market recovery still out of reach",
+            "href": "https://www.theregister.com/on-prem/2023/08/03/qualcomms-great-vanishing-act-248b-in-profit-disappears/364072"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2023/08/03/qualcomm_q3_2023/"
+        },
+        {
+            "text": "Orkney islands look to drones to streamline mail deliveries\n\nUnmanned aircraft trial will skip delays caused by boat-battering weather",
+            "href": "https://www.theregister.com/off-prem/2023/08/03/orkney-islands-look-to-drones-to-streamline-mail-deliveries/402066"
+        },
+        {
+            "text": "53",
+            "href": "https://forums.theregister.com/forum/all/2023/08/03/orkney_drones/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/edge_iot?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 12090,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nEdge and IoT news | The Register\nOFF-PREM > EDGE & IOT\nLatest news from the Internet of Things and the edge-of-network world\nBritain says Skyhammer drone interceptor passed Jordan tests with flying colors\n\nMoD eyes Middle East exports after desert trials of Cambridge Aerospace system\n\n2 weeks|25\nWeak security means attackers could disable all of a city's public EV chargers\n\nDemonstrated in China, probably applicable elsewhere\n\n4 weeks|17\nSwarm welcome: Britain lines up 120,000 drones for Ukraine\n\nGiant UAV package will include strike, recon, logistics, and maritime systems\n\n1 month|42\nUK defense startup to supply drone interceptors for Britain and allies\n\nMoD plans rapid procurement of Cambridge Aerospace's Skyhammer system at home and abroad\n\n1 month|34\nThe drone swarm is coming, and NATO air defenses are too expensive to cope\n\nUkraine's battlefield lessons show quantity and affordability now trump exquisite hardware\n\n2 months|61\nIn the name of science: Boffins build fart-tracking undies\n\nA wearable sensor designed to monitor intestinal gas suggests the average person may let rip around 32 times a day\n\n2 months|89\nRoyal Navy races to arm ships against drone threat\n\nBritain's Ministry of Defence wants a counter-drone system designed, contracted, and delivered within weeks\n\n2 months|106\nUK mobilizes lawyers to keep report on Gatwick 'drone' chaos under wraps\n\nSeven-year Freedom of Information battle heads to tribunal\n\n2 months|48\nCERN sends AI-trained robot mice scurrying through LHC beam pipes\n\nBots hunt deformed RF contacts inside the collider's 27 km vacuum tubes\n\n3 months|20\nPassive RFIDs can now stream telemetry data from sensors\n\nTo advance the ‘ambient internet of things’ – no batteries required\n\n3 months|14\nOpen Compute taps IOWN to help design distributed datacenters and a 'computing continuum'\n\nBecause AI won’t only run in Big Tech’s giant GPU garages, and won't tolerate slow connections\n\n3 months|0\nBankrupt scooter startup left one private key to rule them all\n\nOwner reverse-engineered his ride, revealing authentication was never properly individualized\n\n4 months|70\nYour smart TV is watching you and nobody's stopping it\n\nFrom buried settings to geopolitical risk, the business model is surveillance\n\n4 months|157\nThe Roomba failed because it just kind of sucked\n\nSomething messy happens when the cat hairs of reality meet the shiny hype of smart tech\n\n5 months|124\nPoop-peeping toilet attachment has a different definition of 'end-to-end' encryption\n\nTalk about enshittification\n\n6 months|32\nAviation watchdog says organized drone attacks will shut UK airports ‘sooner or later’\n\nSkies are open for mischief as hard-to-trace drones and fast-moving cyber raids promise new wave of disruption\n\n6 months|30\nAWS outage turned smart homes into dumb boxes – and sysadmins into therapists\n\nAmazon's hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos\n\n7 months|148\nBritain eyes satellite laser warning system and carrier-launched jet drones\n\nSpace sensors and UAVs at sea top MoD's list in new wave of cutting-edge projects\n\n7 months|9\nMunich Airport chaos after drone sightings spook air traffic control\n\nOvernight shutdown leaves thousands stuck as Oktoberfest crowds stretch city security\n\n8 months|17\nNvidia touts Jetson Thor kit for real-time robot reasoning\n\nGPU modules for AI and robotics take aim at latency\n\n9 months|2\nJack Dorsey floats specs for decentralized messaging app that uses Bluetooth\n\nIt connects using peer-to-peer networking instead of the internet\n\n10 months|73\nPeep show: 40K IoT cameras worldwide stream secrets to anyone with a browser\n\nMajority of exposures located in the US, including datacenters, healthcare facilities, factories, and more\n\n11 months|59\nUK bans game controller exports to Russia in bid to ground drone attacks\n\nMoscow likely to respawn elsewhere\n\nApril 2025|49\nATMs in the Amazon: Edge is crossing its tipping point, says SUSE CTO\n\nSending Kubernetes and AI into orbit as devices move from 'glorified sensors' to 'decision-making'\n\nMarch 2025|5\nAxiom Space and Red Hat to take edge computing into orbit\n\nTo boldly go where HPE and Raspberry Pi have been for a while\n\nMarch 2025|4\nHP Inc to build future products atop grave of flopped 'AI pin'\n\nTech and people behind IoT brooch that reviewers instantly hated will one day pep up printers\n\nFebruary 2025|54\nNetgear fixes critical bugs as Five Eyes warn about break-ins at the edge\n\nInternational security squads all focus on stopping baddies busting in through routers, IoT kit etc\n\nFebruary 2025|4\nGarmin pulls a CrowdStrike, turns smartwatches into fancy bracelets\n\nBlue Screen of Death becomes the Blue Triangle of Doom for your wrist\n\nJanuary 2025|15\nLook for the label: White House rolls out 'Cyber Trust Mark' for smart devices\n\nBeware the IoT that doesn’t get a security tag\n\nJanuary 2025|38\nIran-linked crew used custom 'cyberweapon' in US critical infrastructure attacks\n\nIOCONTROL targets IoT and OT devices from a ton of makers, apparently\n\nDecember 2024|14\nA new city springs from the rainforest to become Indonesia's tech hub\n\nJakarta who? Indonesia's new capital, Nusantara, is packed with tech\n\nNovember 2024|17\nChinese engineers wire Raspberry Pi into 600-meter railway tunnel to find any holes\n\nThe GPIO turns out to be a handy tool if you want to measure the conductivity of concrete\n\nOctober 2024|31\nSmart homes may be a bright idea, just not for the dim bulbs who live in 'em\n\nHow many Reg hacks does it take to change a light fitting...?\n\nOctober 2024|159\nSamsung and pals Hyundai, Kia team for software-defined cars, IoT integration\n\nTurn on home aircon and maybe peer inside the fridge or oven – all from behind the wheel\n\nSeptember 2024|30\nCapita wins £135M extension on much-delayed UK smart meter rollout\n\nOutsourcing firm has been building network for over a decade now – how's that going?\n\nSeptember 2024|234\nFrom windfarms to Amazon Prime, UK plans to long range test six drone services\n\nBVLOS operations to modernize airspace\n\nAugust 2024|50\nBackscatter brainwave could make IoT comms even more energy efficient\n\nHow does sub-0.6 mW sound?\n\nJuly 2024|9\nHandling inference at the edge\n\nOne way to minimise AI latency is to process ML models closer to end users and the data being ingested\n\nJune 2024\nUK lays down fresh legislation banning crummy default device passwords\n\nNew laws mean vendors need to make clear how long you'll get updates too\n\nApril 2024|77\nSome smart meters won't be smart at all once 2/3G networks mothballed\n\nUK reckoning with prospect of millions of homes with obsolete hardware\n\nApril 2024|282\nFuture Roku TVs may inject tailored ads into anything and everything when you pause\n\nMuted the audio? That's an advert. Paused a video? That's an advert\n\nApril 2024|61\nCISA in a flap as Chirp smart door locks can be trivially unlocked remotely\n\nHard-coded credentials last thing you want in home security app\n\nApril 2024|49\nQualcomm and Qt partner to supercharge UI development for IoT devices\n\nPlus: Qualy punts a 'micro-power' Wi-Fi system for the industrial kit\n\nApril 2024|0\nImagination licenses RISC-V CPU cores for smart TVs, IoT, embedded stuff\n\nChip designer legging it after Arm\n\nApril 2024|14\nIndia celebrates rapid adoption of its internet of livestock\n\nLatest piece of digital public infrastructure is positively beastly\n\nMarch 2024|8\nHere's another thing AI can do: Spark a boom in edge infrastructure spending\n\nIDC forecasts spend to grow 15.4% in 2024 to $232B – then add another $100B in three years\n\nMarch 2024|0\nThe S in IoT stands for security. You'll never secure all the Things\n\nAll too many 'smart' devices are security stupid\n\nMarch 2024|59\nChina pushes 'AI Plus' initiative to integrate technology and industry\n\nBeijing used a similar moniker for program that arguably gave us TikTok, Tencent, and Xiaomi\n\nMarch 2024|5\nHusqvarna ports Doom to a robot lawnmower – not, thankfully, its chainsaws\n\nSeminal game runs on everything, so why not pay €2,199 to run it on a tiny screen?\n\nFebruary 2024|28\nMicrosoft retires Azure IoT Central retirement announcement\n\nAnd fails to clear up end-of-life debacle\n\nFebruary 2024|8\nWyze admits 13,000 users could have viewed strangers' camera feeds\n\nCustomers report feeling violated following the security snafu\n\nFebruary 2024|31\nMicrosoft 'retires' Azure IoT Central in platform rethink\n\nAfter March, devs won’t be able to create new application resources, in 2027 the system will be shut down\n\nFebruary 2024|24\nIs critical infrastructure prepared for OT ransomware?\n\nAs extortion tactics evolve, operational shutdowns are the next step\n\nFebruary 2024|17\nWhite goods giant fires legal threats to unplug open source plugin\n\n'Substantial increase in AWS calls' triggers takedown notice\n\nJanuary 2024|60\nBlackBerry squashes plan to spin out its IoT biz\n\nBoard and incoming CEO decide reorganizing is better than splitting\n\nDecember 2023|5\nIndia's $20B Smart Cities Mission isn't, and has hardly scratched the surface after eight years\n\nMany projects really about basic services, or don't integrate well. Charge ahead and extend it anyway, think tank recommends\n\nNovember 2023|3\nQualcomm in recovery position following annus horribilis\n\nSmartphone sales not nearly so bad and just think of the AI potential for margins\n\nNovember 2023|7\nMillions of smart meters will brick it when 2G and 3G turns off\n\nPublic Accounts Committee demands timetable for replacements, because things have run so smoothly so far...\n\nOctober 2023|352\nChina requires any new domestic Wi-Fi kit to support IPv6 and run it by default\n\nBeijing set big targets for next-gen networks, but adoption stats suggest it's falling short\n\nOctober 2023|13\nMirai reloads exploit arsenal as botnet embarks on another expansion drive\n\nWith 13 new payloads it's the biggest update to the botnet in months\n\nOctober 2023|0\nNever mind SETI and NASA, if your Ring somehow snaps ET, Amazon might give you $1M\n\nFly light-years to our planet and get the real Earth experience: Privacy invaded by doorbell cam\n\nOctober 2023|24\nYou've just spent $400 on a baby monitor. Now you need a subscription\n\nOnce upon a time there was a company called Miku who wasn't making quite enough money...\n\nOctober 2023|184\nBlackBerry to split into two companies, foraging for tastier fare for shareholders\n\nHopes to float IoT biz and keep infosec ops, then make a second pressing\n\nOctober 2023|16\nMicrosoft delays debut of IoT security offer due to 'unexpected system challenges'\n\nSoftware giant tells partners not to sell it but also happy to take your cash now\n\nOctober 2023|11\nIf you like to play along with the illusion of privacy, smart devices are a dumb idea\n\nYou're just giving manufacturers carte blanche to profit off personal data\n\nSeptember 2023|133\n2023 World Solar Challenge entrant welcomes clouds – not the fluffy white ones\n\nSolar roller on Australia-spanning race packs an Nvidia Jetson, radio link to an AWS edge box, and Starlink uplink\n\nSeptember 2023|15\nWhy these cloud-connected 3D printers started making junk all by themselves\n\nMessage brokering software blamed for dumping backed-up print jobs on idle devices\n\nAugust 2023|68\nGraphene foam is the future of IoT power, maybe\n\nAn electrically charged spring in your step\n\nAugust 2023|8\nQualcomm's great vanishing act: $2.48B of Q3 profit disappears\n\nSmartphone CPU king talks of 'additional cost actions' as market recovery still out of reach\n\nAugust 2023|1\nOrkney islands look to drones to streamline mail deliveries\n\nUnmanned aircraft trial will skip delays caused by boat-battering weather\n\nAugust 2023|53\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

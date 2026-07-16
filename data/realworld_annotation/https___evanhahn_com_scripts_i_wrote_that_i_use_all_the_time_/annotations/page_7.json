@@ -1,0 +1,1713 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 425,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Signal",
+            "href": "https://signal.org/"
+        },
+        {
+            "text": "iOS",
+            "href": "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
+        },
+        {
+            "text": "desktop",
+            "href": "https://signal.org/download/"
+        },
+        {
+            "text": "Helmet",
+            "href": "https://helmetjs.github.io/"
+        },
+        {
+            "text": "Adam Baldwin",
+            "href": "https://evilpacket.net/"
+        },
+        {
+            "text": "learned a lot along the way",
+            "href": "https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/"
+        },
+        {
+            "text": "over 226 million times in 2025",
+            "href": "https://npm-stat.com/charts.html?package=helmet&from=2025-01-01&to=2025-12-31"
+        },
+        {
+            "text": "Express in Action",
+            "href": "https://www.manning.com/books/express-in-action"
+        },
+        {
+            "text": "HumanizeDuration.js",
+            "href": "https://evanhahn.github.io/HumanizeDuration.js/"
+        },
+        {
+            "text": "dotfiles",
+            "href": "https://codeberg.org/EvanHahn/dotfiles"
+        },
+        {
+            "text": "wrote some reflections about it",
+            "href": "https://evanhahn.com/a-decade-of-dotfiles/"
+        },
+        {
+            "text": "guides, tutorials, and how-tos",
+            "href": "https://evanhahn.com/guides"
+        },
+        {
+            "text": "Express.js in Action",
+            "href": "https://www.manning.com/books/express-in-action"
+        },
+        {
+            "text": "JavaScript Testing with Jasmine",
+            "href": "https://shop.oreilly.com/product/0636920028277.do"
+        },
+        {
+            "text": "“A decade of dotfiles”",
+            "href": "https://evanhahn.com/a-decade-of-dotfiles/"
+        },
+        {
+            "text": "“The lone developer problem”",
+            "href": "https://evanhahn.com/the-lone-developer-problem/"
+        },
+        {
+            "text": "“The world’s smallest PNG”",
+            "href": "https://evanhahn.com/worlds-smallest-png/"
+        },
+        {
+            "text": "“My programming beliefs as of July 2024”",
+            "href": "https://evanhahn.com/programming-beliefs-as-of-july-2024/"
+        },
+        {
+            "text": "“Why does ‘👩🏾‍🌾’ have a length of 7 in JavaScript?”",
+            "href": "https://evanhahn.com/javascript-string-lengths/"
+        },
+        {
+            "text": "find my writing over at Zelda Dungeon",
+            "href": "https://www.zeldadungeon.net/author/evan-hahn/"
+        },
+        {
+            "text": "Ghost",
+            "href": "https://ghost.org/"
+        },
+        {
+            "text": "Awana Digital",
+            "href": "https://awana.digital/"
+        },
+        {
+            "text": "Signal",
+            "href": "https://signal.org/"
+        },
+        {
+            "text": "encrypted group calling feature",
+            "href": "https://signal.org/blog/group-calls/"
+        },
+        {
+            "text": "privacy-preserving donations feature",
+            "href": "https://signal.org/blog/become-a-signal-sustainer/"
+        },
+        {
+            "text": "Airtable",
+            "href": "https://airtable.com/"
+        },
+        {
+            "text": "REST API",
+            "href": "https://airtable.com/api"
+        },
+        {
+            "text": "Extensions",
+            "href": "https://airtable.com/marketplace"
+        },
+        {
+            "text": "Braintree",
+            "href": "https://www.braintreepayments.com/"
+        },
+        {
+            "text": "Extend",
+            "href": "https://www.braintreepayments.com/products/braintree-extend"
+        },
+        {
+            "text": "Hosted Fields",
+            "href": "https://www.braintreepayments.com/features/seamless-checkout/custom-ui"
+        },
+        {
+            "text": "a patent for it",
+            "href": "https://patents.google.com/patent/US20160342997A1/en"
+        },
+        {
+            "text": "Rec",
+            "href": "https://www.rec.us/"
+        },
+        {
+            "text": "Sensaphonics",
+            "href": "https://www.sensaphonics.com/"
+        },
+        {
+            "text": "Codecademy",
+            "href": "https://www.codecademy.com/"
+        },
+        {
+            "text": "“Learn React” course",
+            "href": "https://www.codecademy.com/learn/react-101"
+        },
+        {
+            "text": "Cooler",
+            "href": "https://cooler.dev/"
+        },
+        {
+            "text": "Kanary",
+            "href": "https://www.kanary.com/"
+        },
+        {
+            "text": "Myriad Genetics",
+            "href": "https://myriad.com/"
+        },
+        {
+            "text": "Django",
+            "href": "https://www.djangoproject.com/"
+        },
+        {
+            "text": "Sencha",
+            "href": "https://www.sencha.com/"
+        },
+        {
+            "text": "Sencha Architect",
+            "href": "https://www.sencha.com/products/architect"
+        },
+        {
+            "text": "Ext JS",
+            "href": "https://www.sencha.com/products/extjs/"
+        },
+        {
+            "text": "Node.js",
+            "href": "https://nodejs.org/"
+        },
+        {
+            "text": "Rails",
+            "href": "https://rubyonrails.org/"
+        },
+        {
+            "text": "Backbone.js",
+            "href": "https://backbonejs.org/"
+        },
+        {
+            "text": "Ember.js",
+            "href": "https://emberjs.com/"
+        },
+        {
+            "text": "TechCrunch story",
+            "href": "https://techcrunch.com/2012/04/12/fetchnotes-launches-a-simple-cloud-based-note-taking-service-that-twitter-users-will-love/"
+        },
+        {
+            "text": "Rockmelt",
+            "href": "https://en.wikipedia.org/wiki/Rockmelt"
+        },
+        {
+            "text": "acquired by Yahoo",
+            "href": "https://yahoo.tumblr.com/post/57166940839/"
+        },
+        {
+            "text": "A wallpaper from a NASA photo",
+            "href": "https://evanhahn.com/wp-content/uploads/2013/02/astro/"
+        },
+        {
+            "text": "America’s DJ",
+            "href": "https://twitter.com/americas_dj"
+        },
+        {
+            "text": "here",
+            "href": "https://github.com/EvanHahn/us-military-dj-names"
+        },
+        {
+            "text": "American police shooting countdown",
+            "href": "https://js1024.fun/demos/2020/41"
+        },
+        {
+            "text": "arraywrap.js",
+            "href": "https://git.sr.ht/~evanhahn/arraywrap.js"
+        },
+        {
+            "text": "backbone-getnset",
+            "href": "https://github.com/EvanHahn/backbone-getnset"
+        },
+        {
+            "text": "Bits Required",
+            "href": "https://github.com/EvanHahn/bits-required"
+        },
+        {
+            "text": "Brainfuck interpreter, in Python",
+            "href": "https://github.com/EvanHahn/brainfuck-interpreter/tree/master"
+        },
+        {
+            "text": "Brainfuck syntax highlighting for Atom",
+            "href": "https://github.com/EvanHahn/atom-language-brainfuck"
+        },
+        {
+            "text": "Brainfuck web app",
+            "href": "https://github.com/EvanHahn/brainfuck-web-app"
+        },
+        {
+            "text": "BRAINFUCK2000",
+            "href": "https://github.com/EvanHahn/BRAINFUCK2000"
+        },
+        {
+            "text": "BREACH helper for Node",
+            "href": "https://github.com/EvanHahn/node-breach-helper"
+        },
+        {
+            "text": "BrowserIs",
+            "href": "https://github.com/EvanHahn/BrowserIs"
+        },
+        {
+            "text": "C program to repeat a string forever",
+            "href": "https://evanhahn.com/short-c-program-to-repeat-a-string-to-stdout/"
+        },
+        {
+            "text": "Caesar shift in JavaScript and CoffeeScript",
+            "href": "https://evanhahn.com/caesar-shift-in-javascript"
+        },
+        {
+            "text": "Canvas to favicon",
+            "href": "https://github.com/EvanHahn/canvas-to-favicon"
+        },
+        {
+            "text": "Check ECMAScript Version Compatibility",
+            "href": "https://github.com/EvanHahn/check-ecmascript-version-compatibility"
+        },
+        {
+            "text": "ChicagoCTA",
+            "href": "https://botsin.space/@ChicagoCTA"
+        },
+        {
+            "text": "ChiPy Mentorship Program",
+            "href": "https://chipymentor.org/"
+        },
+        {
+            "text": "Circles 1K",
+            "href": "https://evanhahn.com/circles-1k"
+        },
+        {
+            "text": "JS1k",
+            "href": "https://js1k.com/"
+        },
+        {
+            "text": "ClimateAction.tech community support",
+            "href": "https://climateaction.tech/community/"
+        },
+        {
+            "text": "Close the popups",
+            "href": "https://js1k.com/2019-x/demo/4236"
+        },
+        {
+            "text": "JS1k 2019",
+            "href": "https://js1k.com/2019-x/"
+        },
+        {
+            "text": "coinflip.js",
+            "href": "https://github.com/EvanHahn/coinflip.js"
+        },
+        {
+            "text": "connect-appcache",
+            "href": "https://github.com/EvanHahn/connect-appcache"
+        },
+        {
+            "text": "Content Security Policy sandbox",
+            "href": "https://github.com/EvanHahn/Content-Security-Policy-sandbox"
+        },
+        {
+            "text": "context.clear",
+            "href": "https://github.com/EvanHahn/context-dot-clear"
+        },
+        {
+            "text": "Crystal PNG chunks",
+            "href": "https://codeberg.org/EvanHahn/crystal-png-chunks"
+        },
+        {
+            "text": "Zineth",
+            "href": "https://evanhahn.com/tape/zineth.png"
+        },
+        {
+            "text": "Lode Runner 2",
+            "href": "https://evanhahn.com/tape/loderunner2.png"
+        },
+        {
+            "text": "cyborg.txt",
+            "href": "https://github.com/EvanHahn/cyborg.txt"
+        },
+        {
+            "text": "Deep Proxy",
+            "href": "https://github.com/EvanHahn/deep-proxy"
+        },
+        {
+            "text": "document.head shim for CommonJS",
+            "href": "https://codeberg.org/EvanHahn/document.head"
+        },
+        {
+            "text": "Dragon Scales",
+            "href": "https://js1k.com/2014-dragons/demo/1850"
+        },
+        {
+            "text": "dw_red.vim",
+            "href": "https://evanhahn.com/vim_dw_red"
+        },
+        {
+            "text": "Euler Method calculator in C++",
+            "href": "https://evanhahn.com/euler-method-calculator"
+        },
+        {
+            "text": "Evan Hahn’s 100 dope beats of the day",
+            "href": "https://evanhahn.com/dbotd/"
+        },
+        {
+            "text": "EvanSpec",
+            "href": "https://github.com/EvanHahn/EvanSpec"
+        },
+        {
+            "text": "Expecting.js",
+            "href": "https://github.com/EvanHahn/expecting.js"
+        },
+        {
+            "text": "Facebook autopoker Chrome extension",
+            "href": "https://evanhahn.com/wp-content/uploads/2012/09/pokey/pokey.zip"
+        },
+        {
+            "text": "or the source",
+            "href": "https://evanhahn.com/wp-content/uploads/2012/09/pokey/src/"
+        },
+        {
+            "text": "ffmpeg buddy",
+            "href": "https://evanhahn.github.io/ffmpeg-buddy/"
+        },
+        {
+            "text": "Fireworks",
+            "href": "https://js1k.com/2016-elemental/demo/2584"
+        },
+        {
+            "text": "JS1k 2016",
+            "href": "https://js1k.com/2016-elemental/"
+        },
+        {
+            "text": "FLoC Block",
+            "href": "https://gitlab.com/EvanHahn/floc-block"
+        },
+        {
+            "text": "Flood",
+            "href": "https://evanhahn.com/tape/flood/"
+        },
+        {
+            "text": "Fudo",
+            "href": "https://evanhahn.com/tape/fudo"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://www.luluspice.com/"
+        },
+        {
+            "text": "David Jackson",
+            "href": "https://www.linkedin.com/pub/david-jackson/64/1aa/5b3/"
+        },
+        {
+            "text": "functional state machine",
+            "href": "https://github.com/EvanHahn/functional-state-machine.js"
+        },
+        {
+            "text": "get the latest Node version from Node",
+            "href": "https://github.com/EvanHahn/get-latest-node-version/"
+        },
+        {
+            "text": "Gopher Node",
+            "href": "https://github.com/EvanHahn/gopher-node"
+        },
+        {
+            "text": "Gribbagrab",
+            "href": "https://github.com/EvanHahn/Gribbagrab"
+        },
+        {
+            "text": "gzpeek",
+            "href": "https://codeberg.org/EvanHahn/gzpeek"
+        },
+        {
+            "text": "haha.sh",
+            "href": "https://evanhahn.github.io/haha.sh/"
+        },
+        {
+            "text": "Helmet for Crystal",
+            "href": "https://github.com/EvanHahn/crystal-helmet"
+        },
+        {
+            "text": "Helmet",
+            "href": "https://github.com/helmetjs/helmet/"
+        },
+        {
+            "text": "Hide the Facebook news feed",
+            "href": "https://github.com/EvanHahn/hide-news-feed"
+        },
+        {
+            "text": "How many English words are alphabetical?",
+            "href": "https://evanhahn.com/under-1-of-english-words-are-alphabetical"
+        },
+        {
+            "text": "HTML Pack",
+            "href": "https://github.com/EvanHahn/node-html-pack"
+        },
+        {
+            "text": "HumanizeDuration.js",
+            "href": "https://evanhahn.github.io/HumanizeDuration.js/"
+        },
+        {
+            "text": "image to table",
+            "href": "https://github.com/EvanHahn/image-to-table"
+        },
+        {
+            "text": "Internet Creator",
+            "href": "https://js1024.fun/demos/2022/19"
+        },
+        {
+            "text": "Is GitHub Up?",
+            "href": "https://github.com/EvanHahn/is-GitHub-up"
+        },
+        {
+            "text": "iscp",
+            "href": "https://github.com/EvanHahn/iscp"
+        },
+        {
+            "text": "isExpress",
+            "href": "https://github.com/EvanHahn/isExpress/tree/master"
+        },
+        {
+            "text": "ISO 3166 country list",
+            "href": "https://github.com/EvanHahn/iso-3166-country-list"
+        },
+        {
+            "text": "JavaScript Jabber episode 311: “Securing Express Apps with Helmet.js with Evan Hahn”",
+            "href": "https://devchat.tv/js-jabber/jsj-311-securing-express-apps-with-helmet-js-with-evan-hahn"
+        },
+        {
+            "text": "JavaScript/CoffeeScript sleepsort",
+            "href": "https://evanhahn.com/javascript-sleepsort"
+        },
+        {
+            "text": "journ",
+            "href": "https://github.com/EvanHahn/journ"
+        },
+        {
+            "text": "JSCPP",
+            "href": "https://github.com/EvanHahn/JSCPP"
+        },
+        {
+            "text": "JSTypes",
+            "href": "https://github.com/EvanHahn/JSTypes"
+        },
+        {
+            "text": "as of April 2023",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-april-2023/"
+        },
+        {
+            "text": "as of February 2023",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-february-2023/"
+        },
+        {
+            "text": "as of January 2023",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-january-2023/"
+        },
+        {
+            "text": "as of December 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-december-2022/"
+        },
+        {
+            "text": "as of November 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-november-2022/"
+        },
+        {
+            "text": "as of September 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-tears-of-the-kingdom-as-of-september-2022/"
+        },
+        {
+            "text": "as of August 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-breath-of-the-wild-sequel-as-of-august-2022/"
+        },
+        {
+            "text": "as of May 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-breath-of-the-wild-sequel-as-of-may-2022/"
+        },
+        {
+            "text": "as of April 2022",
+            "href": "https://evanhahn.com/everything-we-know-about-zelda-breath-of-the-wild-sequel-as-of-april-2022/"
+        },
+        {
+            "text": "as of March 2022",
+            "href": "https://www.reddit.com/r/truezelda/comments/t51u4s"
+        },
+        {
+            "text": "as of December 2021",
+            "href": "https://www.reddit.com/r/truezelda/comments/rqiq9d/"
+        },
+        {
+            "text": "libdeflate.js",
+            "href": "https://codeberg.org/EvanHahn/libdeflate.js"
+        },
+        {
+            "text": "Light Switch",
+            "href": "https://evanhahn.com/light-switch/"
+        },
+        {
+            "text": "Taper",
+            "href": "https://taper.badquar.to/13/"
+        },
+        {
+            "text": "Link’s Awakening.txt",
+            "href": "https://retro.pizza/@LinksAwakeningEbooks"
+        },
+        {
+            "text": "llm-eliza",
+            "href": "https://codeberg.org/EvanHahn/llm-eliza"
+        },
+        {
+            "text": "LLM",
+            "href": "https://llm.datasette.io/"
+        },
+        {
+            "text": "Lucky Picross",
+            "href": "https://evanhahn.com/js1024-2023/"
+        },
+        {
+            "text": "luhncheck",
+            "href": "https://evanhahn.github.io/luhncheck/"
+        },
+        {
+            "text": "Luhn validator",
+            "href": "https://en.wikipedia.org/wiki/Luhn_algorithm"
+        },
+        {
+            "text": "mailtolink.js",
+            "href": "https://github.com/EvanHahn/mailtolink.js"
+        },
+        {
+            "text": "map-invert",
+            "href": "https://www.npmjs.com/package/map-invert"
+        },
+        {
+            "text": "map-omit",
+            "href": "https://www.npmjs.com/package/map-omit"
+        },
+        {
+            "text": "Meme.js",
+            "href": "https://github.com/BuddyMeme/Meme.js"
+        },
+        {
+            "text": "MiniClass",
+            "href": "https://github.com/EvanHahn/MiniClass"
+        },
+        {
+            "text": "minidots",
+            "href": "https://github.com/EvanHahn/minidots"
+        },
+        {
+            "text": "MouseTracker.js",
+            "href": "https://github.com/EvanHahn/MouseTracker.js"
+        },
+        {
+            "text": "Naps and their effectiveness",
+            "href": "https://evanhahn.com/naps-and-their-effectiveness"
+        },
+        {
+            "text": "nimi mute",
+            "href": "https://evanhahn.github.io/nimi-mute/"
+        },
+        {
+            "text": "Toki Pona",
+            "href": "https://tokipona.org/"
+        },
+        {
+            "text": "Node Hyperdrive import",
+            "href": "https://gitlab.com/EvanHahn/node-hyperdrive-import"
+        },
+        {
+            "text": "Hyperdrive",
+            "href": "https://docs.holepunch.to/building-blocks/hyperdrive"
+        },
+        {
+            "text": "Node torrent import",
+            "href": "https://codeberg.org/EvanHahn/node-torrent-import"
+        },
+        {
+            "text": "my accompanying blog post",
+            "href": "https://evanhahn.com/node-torrent-import/"
+        },
+        {
+            "text": "NONOGRAM NIGHTS",
+            "href": "https://evanhahn.com/introducing-nonogram-nights/"
+        },
+        {
+            "text": "Open Link in Unloaded Tab",
+            "href": "https://addons.mozilla.org/en-US/firefox/addon/open-link-in-unloaded-tab/"
+        },
+        {
+            "text": "Origin",
+            "href": "https://js13kgames.com/entries/origin"
+        },
+        {
+            "text": "2013 js13kgames",
+            "href": "https://2013.js13kgames.com/"
+        },
+        {
+            "text": "wrote a little blog post",
+            "href": "https://evanhahn.com/origin-js13kgames/"
+        },
+        {
+            "text": "Paint the box",
+            "href": "https://js1024.fun/demos/2021/17"
+        },
+        {
+            "text": "Percentage.js",
+            "href": "https://github.com/EvanHahn/percentage.js"
+        },
+        {
+            "text": "Persisted JSON objects",
+            "href": "https://github.com/EvanHahn/node-persisted-json-object"
+        },
+        {
+            "text": "Pie Time",
+            "href": "https://js1k.com/2015-hypetrain/demo/2169"
+        },
+        {
+            "text": "a post about it",
+            "href": "https://evanhahn.com/js1k-2015/"
+        },
+        {
+            "text": "Pinboard to Standard Notes Importer",
+            "href": "https://evanhahn.com/tape/pinboard-to-standard-notes/"
+        },
+        {
+            "text": "Pinboard",
+            "href": "https://pinboard.in/"
+        },
+        {
+            "text": "Standard Notes",
+            "href": "https://standardnotes.org/"
+        },
+        {
+            "text": "source code",
+            "href": "https://github.com/EvanHahn/import-pinboard-to-standard-notes"
+        },
+        {
+            "text": "Playback speed calculator",
+            "href": "https://evanhahn.com/uploads/2025-12-03-playback-speed-calculator/"
+        },
+        {
+            "text": "wrote a post about this",
+            "href": "https://evanhahn.com/playback-speed-calculator/"
+        },
+        {
+            "text": "PNG Chunk Editor",
+            "href": "https://evanhahn.com/uploads/2023-07-29-png-chunk-editor/"
+        },
+        {
+            "text": "PNG Chunk Explorer",
+            "href": "https://evanhahn.gitlab.io/png-explorer/"
+        },
+        {
+            "text": "png-cmp",
+            "href": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/"
+        },
+        {
+            "text": "Potions",
+            "href": "https://js1k.com/2017-magic/demo/2902"
+        },
+        {
+            "text": "Predicting the next Zelda’s release date based on historical data",
+            "href": "https://www.reddit.com/r/truezelda/comments/hf6l1k/"
+        },
+        {
+            "text": "Proof of concept: drop-in JSON replacement that produces smaller payloads",
+            "href": "https://evanhahn.com/jsos-proof-of-concept/"
+        },
+        {
+            "text": "Pushbullet CLI",
+            "href": "https://github.com/r-darwish/pushbullet-cli"
+        },
+        {
+            "text": "Pushbullet",
+            "href": "https://www.pushbullet.com/"
+        },
+        {
+            "text": "pwgen",
+            "href": "https://evanhahn.github.io/pwgen"
+        },
+        {
+            "text": "python -m json.tool for JavaScript",
+            "href": "https://github.com/EvanHahn/pythonlike-json-tool.js"
+        },
+        {
+            "text": "QR It",
+            "href": "https://evanhahn.github.io/QRIt/"
+        },
+        {
+            "text": "random-word",
+            "href": "https://github.com/EvanHahn/random-word"
+        },
+        {
+            "text": "Reddit’s /r/dailyprogrammer challenge solutions",
+            "href": "https://evanhahn.com/random/rdailyprogrammer-solutions"
+        },
+        {
+            "text": "Remember The Milk script to estimate selected tasks",
+            "href": "https://evanhahn.com/remember-the-milk-estimate-selected-tasks-script/"
+        },
+        {
+            "text": "Remember The Milk script to export tasks as CSV",
+            "href": "https://evanhahn.com/remember-the-milk-csv-export-script/"
+        },
+        {
+            "text": "Remember The Milk script to find tasks with invalid start times",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-find-tasks-with-invalid-start-times/"
+        },
+        {
+            "text": "Remember The Milk script to get task permalink",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-get-task-permalink/"
+        },
+        {
+            "text": "rename",
+            "href": "https://github.com/EvanHahn/rename"
+        },
+        {
+            "text": "ring-secure-headers",
+            "href": "https://github.com/EvanHahn/ring-secure-headers"
+        },
+        {
+            "text": "RTS camera for Unity",
+            "href": "https://github.com/EvanHahn/Unity-RTS-camera"
+        },
+        {
+            "text": "scrabbler",
+            "href": "https://github.com/EvanHahn/scrabbler"
+        },
+        {
+            "text": "ScriptInclude",
+            "href": "https://github.com/EvanHahn/ScriptInclude"
+        },
+        {
+            "text": "setBigTimeout",
+            "href": "https://evanhahn.com/set-big-timeout/"
+        },
+        {
+            "text": "setAttributes",
+            "href": "https://github.com/EvanHahn/setAttributes"
+        },
+        {
+            "text": "Simple Statistics",
+            "href": "https://codeberg.org/EvanHahn/simple-statistics-crystal"
+        },
+        {
+            "text": "Single Color Image",
+            "href": "https://singlecolorimage.com/"
+        },
+        {
+            "text": "SnackWrap",
+            "href": "https://github.com/EvanHahn/SnackWrap"
+        },
+        {
+            "text": "Grunt",
+            "href": "https://gruntjs.com/"
+        },
+        {
+            "text": "Sprockets",
+            "href": "https://github.com/sstephenson/sprockets"
+        },
+        {
+            "text": "startInterval",
+            "href": "https://github.com/EvanHahn/startInterval"
+        },
+        {
+            "text": "a guide",
+            "href": "https://evanhahn.com/publishing-a-simple-package-to-npm/"
+        },
+        {
+            "text": "string-timing-safe-equal",
+            "href": "https://www.npmjs.com/package/string-timing-safe-equal"
+        },
+        {
+            "text": "semester 3",
+            "href": "https://evanhahn.com/a-couple-of-resources-from-my-3rd-semester"
+        },
+        {
+            "text": "semester 4",
+            "href": "https://evanhahn.com/resources-from-my-4th-semester"
+        },
+        {
+            "text": "semester 5",
+            "href": "https://evanhahn.com/resources-from-my-5th-semester"
+        },
+        {
+            "text": "semester 6",
+            "href": "https://evanhahn.com/semester-6-resources"
+        },
+        {
+            "text": "Sqids Crystal",
+            "href": "https://sqids.org/crystal"
+        },
+        {
+            "text": "Sqids",
+            "href": "https://sqids.org/"
+        },
+        {
+            "text": "The TypeScript Grunt skeleton",
+            "href": "https://github.com/EvanHahn/TypeScript-Grunt-skeleton"
+        },
+        {
+            "text": "Tic Tac Toe in Lua",
+            "href": "https://gist.github.com/1135851"
+        },
+        {
+            "text": "Ticker",
+            "href": "https://github.com/EvanHahn/ticker"
+        },
+        {
+            "text": "Time in Korea",
+            "href": "https://github.com/EvanHahn/time-in-korea"
+        },
+        {
+            "text": "tiny “coming soon” page",
+            "href": "https://github.com/EvanHahn/tiny-coming-soon-page"
+        },
+        {
+            "text": "TinyTar",
+            "href": "https://git.sr.ht/~evanhahn/tinytar.js"
+        },
+        {
+            "text": "toki pona to hex",
+            "href": "https://github.com/EvanHahn/toki-pona-to-hex"
+        },
+        {
+            "text": "Truth table generator",
+            "href": "https://github.com/EvanHahn/truth-table"
+        },
+        {
+            "text": "Try EJS",
+            "href": "https://evanhahn.github.io/try-EJS/"
+        },
+        {
+            "text": "Try LiScript",
+            "href": "https://evanhahn.github.com/Try-LiScript/"
+        },
+        {
+            "text": "Two’s complement utility",
+            "href": "https://github.com/EvanHahn/twos-complement-util"
+        },
+        {
+            "text": "Two-factor authentication list",
+            "href": "https://evanhahn.com/2fa/"
+        },
+        {
+            "text": "untouched",
+            "href": "https://github.com/EvanHahn/untouched"
+        },
+        {
+            "text": "User Agent Bag",
+            "href": "https://github.com/EvanHahn/user-agent-bag"
+        },
+        {
+            "text": "RFC7231",
+            "href": "https://tools.ietf.org/html/rfc7231#section-5.5.3"
+        },
+        {
+            "text": "UTF-21",
+            "href": "https://evanhahn.com/utf-21/"
+        },
+        {
+            "text": "VimL syntax highlighting for Atom",
+            "href": "https://github.com/Alhadis/language-viml"
+        },
+        {
+            "text": "What if the English language had syntax highlighting?",
+            "href": "https://evanhahn.github.io/English-text-highlighting/"
+        },
+        {
+            "text": "when-file-exists",
+            "href": "https://github.com/EvanHahn/node-when-file-exists"
+        },
+        {
+            "text": "wren-please",
+            "href": "https://github.com/EvanHahn/wren-please"
+        },
+        {
+            "text": "wren-vector",
+            "href": "https://github.com/EvanHahn/wren-vector3d"
+        },
+        {
+            "text": "XML to text",
+            "href": "https://github.com/EvanHahn/xml-to-text"
+        },
+        {
+            "text": "Zap",
+            "href": "https://js1k.com/2018-coins/demo/3159"
+        },
+        {
+            "text": "honorable mention",
+            "href": "https://twitter.com/js1k/status/976200980114083840"
+        },
+        {
+            "text": "read my post about it",
+            "href": "https://evanhahn.com/my-entry-to-js1k-2018-zap/"
+        },
+        {
+            "text": "Zelda release anniversary calendar",
+            "href": "https://evanhahn.com/zelda-anniversary-calendar/"
+        },
+        {
+            "text": "ZIP Shrinker",
+            "href": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
+        },
+        {
+            "text": "ZoomContext",
+            "href": "https://github.com/EvanHahn/ZoomContext"
+        },
+        {
+            "text": "350.org’s Climate Strike Poster generator",
+            "href": "https://github.com/350org/strikes-poster-generator"
+        },
+        {
+            "text": "Fix border loading issues",
+            "href": "https://github.com/350org/strikes-poster-generator/pull/11"
+        },
+        {
+            "text": "Add starter ESLint config",
+            "href": "https://github.com/350org/strikes-poster-generator/pull/10"
+        },
+        {
+            "text": "wdm",
+            "href": "https://github.com/350org/strikes-poster-generator/pull/7"
+        },
+        {
+            "text": "Backbone and Underscore",
+            "href": "https://github.com/350org/strikes-poster-generator/pull/8"
+        },
+        {
+            "text": "Middleman",
+            "href": "https://github.com/350org/strikes-poster-generator/pull/9"
+        },
+        {
+            "text": "address-rfc2821",
+            "href": "https://github.com/haraka/node-address-rfc2821"
+        },
+        {
+            "text": "Add TypeScript type definitions",
+            "href": "https://github.com/haraka/node-address-rfc2821/pull/53"
+        },
+        {
+            "text": "Arrow",
+            "href": "https://arrow.readthedocs.io/en/latest/"
+        },
+        {
+            "text": "Throw TypeError when passing booleans to arrow.get",
+            "href": "https://github.com/crsmithdev/arrow/pull/259"
+        },
+        {
+            "text": "Authenticator",
+            "href": "https://gitlab.gnome.org/World/Authenticator"
+        },
+        {
+            "text": "Add import of Raivo OTP files",
+            "href": "https://gitlab.gnome.org/World/Authenticator/-/merge_requests/266"
+        },
+        {
+            "text": "Awesome Crystal",
+            "href": "https://github.com/veelenga/awesome-crystal"
+        },
+        {
+            "text": "Fix stdlib compression links",
+            "href": "https://github.com/veelenga/awesome-crystal/pull/557"
+        },
+        {
+            "text": "bash-guide",
+            "href": "https://github.com/Idnan/bash-guide"
+        },
+        {
+            "text": "Remove gendered language",
+            "href": "https://github.com/Idnan/bash-guide/pull/63"
+        },
+        {
+            "text": "bonjour-service",
+            "href": "https://github.com/onlxltd/bonjour-service"
+        },
+        {
+            "text": "Always define start and stop on Service",
+            "href": "https://github.com/onlxltd/bonjour-service/pull/48"
+        },
+        {
+            "text": "brittle",
+            "href": "https://www.npmjs.com/package/brittle"
+        },
+        {
+            "text": "Show sets in output",
+            "href": "https://github.com/holepunchto/brittle/pull/44"
+        },
+        {
+            "text": "Chai",
+            "href": "https://www.chaijs.com/"
+        },
+        {
+            "text": "Fix syntax errors in assert examples",
+            "href": "https://github.com/chaijs/chai/pull/1774"
+        },
+        {
+            "text": "chihacknight.org",
+            "href": "https://github.com/chihacknight/chihacknight.org"
+        },
+        {
+            "text": "Clean up intro paragraph on donate page",
+            "href": "https://github.com/chihacknight/chihacknight.org/pull/663"
+        },
+        {
+            "text": "Chroma",
+            "href": "https://github.com/alecthomas/chroma"
+        },
+        {
+            "text": "#1232",
+            "href": "https://github.com/alecthomas/chroma/pull/1232"
+        },
+        {
+            "text": "#1256",
+            "href": "https://github.com/alecthomas/chroma/pull/1256"
+        },
+        {
+            "text": "Fix AGENTS.md referencing a non-existent scripts directory",
+            "href": "https://github.com/alecthomas/chroma/pull/1231"
+        },
+        {
+            "text": "clj-http",
+            "href": "https://github.com/dakrone/clj-http"
+        },
+        {
+            "text": "Allow RequestConfig and HttpClientContext to be injected",
+            "href": "https://github.com/dakrone/clj-http/pull/375"
+        },
+        {
+            "text": "CO2.js",
+            "href": "https://developers.thegreenwebfoundation.org/co2js/overview/"
+        },
+        {
+            "text": "Clean up OneByte tests",
+            "href": "https://github.com/thegreenwebfoundation/co2.js/pull/151"
+        },
+        {
+            "text": "Clean up SustainableWebDesign model perByte tests",
+            "href": "https://github.com/thegreenwebfoundation/co2.js/pull/157"
+        },
+        {
+            "text": "Store segment flag on CO2 instance, not models",
+            "href": "https://github.com/thegreenwebfoundation/co2.js/pull/158"
+        },
+        {
+            "text": "CoMapeo",
+            "href": "https://awana.digital/comapeo"
+        },
+        {
+            "text": "279 commits in @comapeo/core",
+            "href": "https://github.com/digidem/comapeo-core/commits?author=EvanHahn"
+        },
+        {
+            "text": "41 commits in @comapeo/schema",
+            "href": "https://github.com/digidem/comapeo-schema/commits?author=EvanHahn"
+        },
+        {
+            "text": "36 commits in @comapeo/ipc",
+            "href": "https://github.com/digidem/comapeo-ipc/commits?author=EvanHahn"
+        },
+        {
+            "text": "76 commits in CoMapeo mobile",
+            "href": "https://github.com/digidem/comapeo-mobile/commits?author=EvanHahn"
+        },
+        {
+            "text": "27 commits in @mapeo/map-server",
+            "href": "https://github.com/digidem/mapeo-map-server/commits?author=EvanHahn"
+        },
+        {
+            "text": "20 commits in multi-core-indexer",
+            "href": "https://github.com/digidem/multi-core-indexer/commits?author=EvanHahn"
+        },
+        {
+            "text": "7 commits in @mapeo/sqlite-indexer",
+            "href": "https://github.com/digidem/mapeo-sqlite-indexer/commits?author=EvanHahn"
+        },
+        {
+            "text": "Constellate",
+            "href": "https://github.com/Greening-Digital/constellate"
+        },
+        {
+            "text": "Let users download profiles as vCards",
+            "href": "https://github.com/Greening-Digital/constellate/pull/241"
+        },
+        {
+            "text": "Fix minor typos in README",
+            "href": "https://github.com/Greening-Digital/constellate/pull/240"
+        },
+        {
+            "text": "DefinitelyTyped",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+        },
+        {
+            "text": "#8818",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/8818"
+        },
+        {
+            "text": "#8820",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/8820"
+        },
+        {
+            "text": "#9017",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9017"
+        },
+        {
+            "text": "#9018",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9018"
+        },
+        {
+            "text": "#9162",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9162"
+        },
+        {
+            "text": "#9248",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9248"
+        },
+        {
+            "text": "#9273",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9273"
+        },
+        {
+            "text": "#39673",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/39673"
+        },
+        {
+            "text": "#44235",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/44235"
+        },
+        {
+            "text": "#44228",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/44228"
+        },
+        {
+            "text": "better-sqlite3 updates",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/55144"
+        },
+        {
+            "text": "big-sparse-array types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/68438"
+        },
+        {
+            "text": "brittle types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/69647"
+        },
+        {
+            "text": "compact-encoding types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/70443"
+        },
+        {
+            "text": "#24883",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/24883"
+        },
+        {
+            "text": "#40409",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/40409"
+        },
+        {
+            "text": "#40776",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/40776"
+        },
+        {
+            "text": "keygrip tidying",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/41152"
+        },
+        {
+            "text": "nanobench types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/68221"
+        },
+        {
+            "text": "Node Content-Type updates",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/70970"
+        },
+        {
+            "text": "random-access-file types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/69860"
+        },
+        {
+            "text": "random-access-storage types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/69839"
+        },
+        {
+            "text": "react-native-zeroconf new events",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/70693"
+        },
+        {
+            "text": "#58648",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/58648"
+        },
+        {
+            "text": "#58705",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/58705"
+        },
+        {
+            "text": "sub-encoder types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/68390"
+        },
+        {
+            "text": "@mapbox/whoots-js types",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/68550"
+        },
+        {
+            "text": "yauzl-promise updates",
+            "href": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/68387"
+        },
+        {
+            "text": "Deno",
+            "href": "https://deno.land/"
+        },
+        {
+            "text": "Update mime-db to 1.38.0",
+            "href": "https://github.com/denoland/deno_std/pull/238"
+        },
+        {
+            "text": "Add util.callbackify to the node standard library",
+            "href": "https://github.com/denoland/deno/pull/5415"
+        },
+        {
+            "text": "Dockerized Signal Messenger REST API",
+            "href": "https://github.com/bbernhard/signal-cli-rest-api"
+        },
+        {
+            "text": "Mention LOG_LEVEL environment variable in debug docs",
+            "href": "https://github.com/bbernhard/signal-cli-rest-api/pull/807"
+        },
+        {
+            "text": "dot-beat-time",
+            "href": "https://github.com/sgwilym/dot-beat-time"
+        },
+        {
+            "text": "Fix incorrect code in documentation",
+            "href": "https://github.com/sgwilym/dot-beat-time/pull/17"
+        },
+        {
+            "text": "Electrify Chicago",
+            "href": "https://electrifychicago.net/"
+        },
+        {
+            "text": "Fix tooltip bug when focusing spark line",
+            "href": "https://github.com/vkoves/electrify-chicago/pull/253"
+        },
+        {
+            "text": "Express",
+            "href": "https://expressjs.com/"
+        },
+        {
+            "text": "Ignore settings on Object.prototype",
+            "href": "https://github.com/expressjs/express/pull/4803"
+        },
+        {
+            "text": "Use object with null prototype for various app properties",
+            "href": "https://github.com/expressjs/express/pull/4861"
+        },
+        {
+            "text": "Use object with null prototype for settings",
+            "href": "https://github.com/expressjs/express/pull/4835"
+        },
+        {
+            "text": "Update Helmet documentation",
+            "href": "https://github.com/expressjs/expressjs.com/pull/1319"
+        },
+        {
+            "text": "Update website for new version",
+            "href": "https://github.com/expressjs/expressjs.com/pull/1347"
+        },
+        {
+            "text": "@fastify/static",
+            "href": "https://github.com/fastify/fastify-static"
+        },
+        {
+            "text": "Improve types for setHeaders option",
+            "href": "https://github.com/fastify/fastify-static/pull/428"
+        },
+        {
+            "text": "flow-typed",
+            "href": "https://github.com/flow-typed/flow-typed"
+        },
+        {
+            "text": "express: correct is method return type on requests",
+            "href": "https://github.com/flow-typed/flow-typed/pull/3464"
+        },
+        {
+            "text": "fzf",
+            "href": "https://github.com/junegunn/fzf"
+        },
+        {
+            "text": "Fix zsh history widget when sh_glob option is on",
+            "href": "https://github.com/junegunn/fzf/pull/4714"
+        },
+        {
+            "text": "Ghost",
+            "href": "https://ghost.org/"
+        },
+        {
+            "text": "Many contributions",
+            "href": "https://github.com/TryGhost/Ghost/commits?author=EvanHahn"
+        },
+        {
+            "text": "Gleam Language Tour",
+            "href": "https://tour.gleam.run/"
+        },
+        {
+            "text": "Fix punctuation error in lesson 5",
+            "href": "https://github.com/gleam-lang/language-tour/pull/133"
+        },
+        {
+            "text": "GRDB",
+            "href": "https://github.com/groue/GRDB.swift"
+        },
+        {
+            "text": "Fix changelog links",
+            "href": "https://github.com/groue/GRDB.swift/pull/1203"
+        },
+        {
+            "text": "host-validation",
+            "href": "https://www.npmjs.com/package/host-validation"
+        },
+        {
+            "text": "Improve performance",
+            "href": "https://github.com/brannondorsey/host-validation/commit/953a9df95b9f6dbf58b43aaa9ae93726809254f1"
+        },
+        {
+            "text": "if-emoji",
+            "href": "https://github.com/Dafrok/if-emoji"
+        },
+        {
+            "text": "Add TypeScript type definitions",
+            "href": "https://github.com/Dafrok/if-emoji/pull/2"
+        },
+        {
+            "text": "KineticJS",
+            "href": "https://github.com/ericdrowell/KineticJS"
+        },
+        {
+            "text": "Add Bower support",
+            "href": "https://github.com/ericdrowell/KineticJS/pull/592"
+        },
+        {
+            "text": "Langserver.org",
+            "href": "https://langserver.org/"
+        },
+        {
+            "text": "Update Crystal LSP",
+            "href": "https://github.com/langserver/langserver.github.io/pull/343"
+        },
+        {
+            "text": "Update ALE link",
+            "href": "https://github.com/langserver/langserver.github.io/pull/344"
+        },
+        {
+            "text": "Learn X in Y minutes",
+            "href": "https://learnxinyminutes.com/"
+        },
+        {
+            "text": "Add docs for Rink",
+            "href": "https://github.com/adambard/learnxinyminutes-docs/pull/5297"
+        },
+        {
+            "text": "Fix incorrect front matter name, causing CI failures",
+            "href": "https://github.com/adambard/learnxinyminutes-docs/pull/5298"
+        },
+        {
+            "text": "Mapbox Maps SDK for React Native",
+            "href": "https://github.com/rnmapbox/maps"
+        },
+        {
+            "text": "Remove AbortController test mock",
+            "href": "https://github.com/rnmapbox/maps/pull/3506"
+        },
+        {
+            "text": "MapLibre GL SDK for React Native",
+            "href": "https://github.com/maplibre/maplibre-react-native"
+        },
+        {
+            "text": "Remove AbortController test mock",
+            "href": "https://github.com/maplibre/maplibre-react-native/pull/403"
+        },
+        {
+            "text": "marceau",
+            "href": "https://github.com/lpil/marceau"
+        },
+        {
+            "text": "Update MIME database",
+            "href": "https://github.com/lpil/marceau/pull/4"
+        },
+        {
+            "text": "Run gleam format to fix CI failure",
+            "href": "https://github.com/lpil/marceau/pull/3"
+        },
+        {
+            "text": "Remove website from metadata",
+            "href": "https://github.com/lpil/marceau/pull/2"
+        },
+        {
+            "text": "methods",
+            "href": "https://github.com/jshttp/methods"
+        },
+        {
+            "text": "Add some simple tests",
+            "href": "https://github.com/jshttp/methods/pull/6"
+        },
+        {
+            "text": "Mint",
+            "href": "https://mint-lang.com/"
+        },
+        {
+            "text": "Fix typo when unable to find file",
+            "href": "https://github.com/mint-lang/mint/pull/738"
+        },
+        {
+            "text": "Neovim",
+            "href": "https://neovim.io/"
+        },
+        {
+            "text": "Fix LSP error with InsertReplaceEdits",
+            "href": "https://github.com/neovim/neovim/pull/33973"
+        },
+        {
+            "text": "node-process-limits",
+            "href": "https://github.com/timjrobinson/node-process-limits"
+        },
+        {
+            "text": "Validate pid before calling",
+            "href": "https://github.com/timjrobinson/node-process-limits/pull/1"
+        },
+        {
+            "text": "nonolib",
+            "href": "https://github.com/simpsonst/nonolib"
+        },
+        {
+            "text": "Declare nonogram_runcycles in header",
+            "href": "https://github.com/simpsonst/nonolib/pull/1"
+        },
+        {
+            "text": "Percentage",
+            "href": "https://github.com/sindresorhus/Percentage"
+        },
+        {
+            "text": "Add .clampedZeroToHundred",
+            "href": "https://github.com/sindresorhus/Percentage/pull/12"
+        },
+        {
+            "text": "pngjs",
+            "href": "https://github.com/pngjs/pngjs"
+        },
+        {
+            "text": "Reject invalid chunk types",
+            "href": "https://github.com/pngjs/pngjs/pull/332"
+        },
+        {
+            "text": "Improve error message when IHDR is not first chunk",
+            "href": "https://github.com/pngjs/pngjs/pull/333"
+        },
+        {
+            "text": "Pony",
+            "href": "https://ponylang.io/"
+        },
+        {
+            "text": "Remove whitespace-only lines from stdlib",
+            "href": "https://github.com/ponylang/ponyc/pull/3761"
+        },
+        {
+            "text": "Qwerty Hancock",
+            "href": "https://github.com/stuartmemo/qwerty-hancock"
+        },
+        {
+            "text": "Add Bower support",
+            "href": "https://github.com/stuartmemo/qwerty-hancock/pull/5"
+        },
+        {
+            "text": "random-access-file",
+            "href": "https://github.com/random-access-storage/random-access-file"
+        },
+        {
+            "text": "Use “unlink” instead of “destroy” in docs",
+            "href": "https://github.com/random-access-storage/random-access-file/pull/39"
+        },
+        {
+            "text": "shurikenJS",
+            "href": "https://github.com/shurikenjs/shurikenjs"
+        },
+        {
+            "text": "Add basic Jasmine tests",
+            "href": "https://github.com/shurikenjs/shurikenjs/pull/1"
+        },
+        {
+            "text": "Signal",
+            "href": "https://signal.org/"
+        },
+        {
+            "text": "749 commits in Signal iOS",
+            "href": "https://github.com/signalapp/Signal-iOS/commits?author=evanhahn-signal"
+        },
+        {
+            "text": "898 commits in Signal Desktop",
+            "href": "https://github.com/signalapp/Signal-Desktop/commits?author=evanhahn-signal"
+        },
+        {
+            "text": "5 commits in RingRTC",
+            "href": "https://github.com/signalapp/ringrtc/commits?author=EvanHahn-Signal"
+        },
+        {
+            "text": "4 commits in Signal Android",
+            "href": "https://github.com/signalapp/Signal-Android/commits?author=evanhahn-signal"
+        },
+        {
+            "text": "Sniper Link",
+            "href": "https://github.com/buttondown/sniper-link"
+        },
+        {
+            "text": "Remove unused variable from render route",
+            "href": "https://github.com/buttondown/sniper-link/pull/3"
+        },
+        {
+            "text": "statuses",
+            "href": "https://github.com/jshttp/statuses"
+        },
+        {
+            "text": "Throw when passed strings on Object.prototype",
+            "href": "https://github.com/jshttp/statuses/pull/21"
+        },
+        {
+            "text": "Sqids JavaScript",
+            "href": "https://sqids.org/javascript"
+        },
+        {
+            "text": "Early exit when encoding invalid numbers",
+            "href": "https://github.com/sqids/sqids-javascript/pull/14"
+        },
+        {
+            "text": "Tab Center Redux",
+            "href": "https://github.com/eoger/tabcenter-redux"
+        },
+        {
+            "text": "Bugfix: clear favicon when the favicon is removed",
+            "href": "https://github.com/eoger/tabcenter-redux/pull/252"
+        },
+        {
+            "text": "Use === instead of == across the codebase",
+            "href": "https://github.com/eoger/tabcenter-redux/pull/259"
+        },
+        {
+            "text": "TWC Berlin website",
+            "href": "https://techworkersberlin.com/"
+        },
+        {
+            "text": "Fix absolute image URLs in events list",
+            "href": "https://github.com/techworkersco/twc-site-berlin/pull/313"
+        },
+        {
+            "text": "TWC website",
+            "href": "https://techworkerscoalition.org/"
+        },
+        {
+            "text": "Include timezone data gem for consistency",
+            "href": "https://github.com/techworkersco/twc-site/pull/443"
+        },
+        {
+            "text": "url2green-js",
+            "href": "https://github.com/thegreenwebfoundation/url2green-js"
+        },
+        {
+            "text": "Require Node 16 or greater",
+            "href": "https://github.com/thegreenwebfoundation/url2green-js/pull/24"
+        },
+        {
+            "text": "Update better-sqlite3 to v8.5.0",
+            "href": "https://github.com/thegreenwebfoundation/url2green-js/pull/25"
+        },
+        {
+            "text": "Vapor Security Headers",
+            "href": "https://github.com/brokenhandsio/VaporSecurityHeaders"
+        },
+        {
+            "text": "Disable X-XSS-Protection filter, for safety",
+            "href": "https://github.com/brokenhandsio/VaporSecurityHeaders/pull/26"
+        },
+        {
+            "text": "Add support for fallback referrer policies",
+            "href": "https://github.com/brokenhandsio/VaporSecurityHeaders/pull/27"
+        },
+        {
+            "text": "vim-fetch",
+            "href": "https://github.com/wsdjeg/vim-fetch"
+        },
+        {
+            "text": "Fix error when opening new files containing quotes",
+            "href": "https://github.com/wsdjeg/vim-fetch/pull/41"
+        },
+        {
+            "text": "WeakValueMap",
+            "href": "https://github.com/jhunterkohler/weak-value-map"
+        },
+        {
+            "text": "Fix documentation link in readme",
+            "href": "https://github.com/jhunterkohler/weak-value-map/pull/1"
+        },
+        {
+            "text": "WebTorrent",
+            "href": "https://webtorrent.io/"
+        },
+        {
+            "text": "Fix malformed debug ID",
+            "href": "https://github.com/webtorrent/webtorrent/pull/2733"
+        },
+        {
+            "text": "yauzl-promise",
+            "href": "https://github.com/overlookmotel/yauzl-promise"
+        },
+        {
+            "text": "Fix doc reference to “validateFilenames”",
+            "href": "https://github.com/overlookmotel/yauzl-promise/pull/40"
+        },
+        {
+            "text": "zig-js-runtime",
+            "href": "https://github.com/lightpanda-io/zig-js-runtime"
+        },
+        {
+            "text": "Fix Lightpanda typo in readme",
+            "href": "https://github.com/lightpanda-io/zig-js-runtime/pull/268"
+        },
+        {
+            "text": "zip.js",
+            "href": "https://gildas-lormeau.github.io/zip.js/"
+        },
+        {
+            "text": "Fix return types for entry progress callbacks",
+            "href": "https://github.com/gildas-lormeau/zip.js/pull/648"
+        },
+        {
+            "text": "Fix Markdown syntax in ZipWriterConstructorOptions.dataDescriptor",
+            "href": "https://github.com/gildas-lormeau/zip.js/pull/630"
+        }
+    ],
+    "text_length": 19613,
+    "text_full": "Contact\nProjects\nGuides\nBlog\nEvan Hahn's projects\n\nThe highlights:\n\nSignal: a messaging app that puts privacy first. I made many contributions to the open source iOS and desktop apps.\nHelmet helps secure Express.js web apps by setting HTTP response headers. Adam Baldwin created the project and I took over as the primary maintainer in 2013. I’ve learned a lot along the way. The project was downloaded over 226 million times in 2025.\nExpress in Action: a book I wrote about Express.js and its ecosystem. Published in 2016 so it’s a little outdated, but I’m proud of it.\nHumanizeDuration.js turns milliseconds into duration strings. For example, it turns 361,000 milliseconds into “6 minutes, 1 second”. Dozens of contributors have localized it into 58 different languages.\ndotfiles are how I configure my Linux and macOS machines. I’ve been maintaining this repository for a long time and wrote some reflections about it.\nWriting\n\nI’ve written many guides, tutorials, and how-tos. Two of those got turned into books:\n\nExpress.js in Action, a Manning book\nJavaScript Testing with Jasmine, an O’Reilly book\n\nIn addition, here are a few blog posts I’m especially proud of:\n\n“A decade of dotfiles”\n“The lone developer problem”\n“The world’s smallest PNG”\n“My programming beliefs as of July 2024”\n“Why does ‘👩🏾‍🌾’ have a length of 7 in JavaScript?”\n\nIf you’re a Legend of Zelda fan, you can also find my writing over at Zelda Dungeon.\n\nJobs\n\nI currently work at Ghost, a software nonprofit building for independent publishers.\n\nI’ve worked at:\n\nAwana Digital builds software to help frontline communities defend their environmental and human rights. I primarily worked on CoMapeo, a peer-to-peer mapping and monitoring app that helps Indigenous people protect their land. I worked on the tool’s “plumbing”, which included work on a complex sync system, peer discovery, and privacy-respecting metrics.\n\nSignal is a non-profit encrypted messenger used by millions around the world. I worked on the iOS and Desktop apps. I built many things including an encrypted group calling feature, a privacy-preserving donations feature, and much more.\n\nAirtable is a tool to organize anything. I was on the Platform team where I worked on the REST API, Extensions (formerly known as Apps and Blocks), and much more. I learned a ton about programming, prioritization, product, and puppies.\n\nBraintree lets developers easily accept payments. I was on the Contextual Commerce (now called Extend) team where I did a lot of Clojure and Ruby. Before that, I spent a lot of time building Braintree’s SDKs. My biggest project was Hosted Fields, a fancy way to accept credit cards on a webpage. We even got a patent for it, which I have mixed feelings about.\n\nI’ve also done some part-time work for Rec on their authentication and payment systems, Sensaphonics with a web-based firmware updater, Codecademy with their “Learn React” course, Cooler with their climate change API, and Kanary with their matching infrastructure.\n\nBefore graduating college, I had a few other part-time jobs, mostly internships:\n\nCounsyl, now Myriad Genetics, aimed to give everybody “access to vital information about their bodies to help them confidently make choices about their lives”. They did this by doing complicated genetic tests and presenting them to patients in accessible ways. I wrote a lot of Django and Python code for them, and even programmed a small robot! One of the coolest parts of the internship was seeing all of the people in white lab coats, something I will likely never wear. Fun fact: they were my third internship in a row that had a nearly-boundless supply of string cheese.\n\nSencha provides frameworks for building cross-platform applications. They had me working on their Sencha Architect team. Architect describes itself as a “visual app builder”, and I’d describe it as a huge, powerful JavaScript application that I helped to work on. I learned a bunch about Ext JS and Sencha Touch, and spent a few weeks deep in Node.js as well.\n\nUniversityNow provided affordable, accredited online higher education. The first weeks of my internship were fixing bugs and implementing small features in Rails, but then I spent the rest of the summer working on their real-time chat feature. I learned Backbone.js and wrote a whole lot of Jasmine specs.\n\nFetchnotes was a note-taking app that aims to be “your mind’s best friend”. Their homepage and web app got a redesign by a brilliant designer, and I coded them both up! I bumbled my way through Ember.js to make it work. Soon after, a TechCrunch story was written and it got tens of thousands of hits! And it worked! Scary stuff. The service is no longer around.\n\nRockmelt was acquired by Yahoo awhile after I left. While I was there, they built a social browser; a fork of Google Chrome that baked things like Facebook and Twitter right into the browser. I worked on some internal help pages. Designers gave me PNGs and I gave them their “Quick Guide”! I also did some other pages for them (such as their What’s New page or some fixes on their homepage) and a lot of internal JavaScript unit tests.\n\nFull list of projects\nA wallpaper from a NASA photo\nAmerica’s DJ was a Twitter bot that tweets fake DJ names pulled from US military operations. You can find the source here.\nAmerican police shooting countdown, my entry to JS1024 2020\narraywrap.js wraps an element in an array if it isn’t one already\nbackbone-getnset adds custom getters and setters to Backbone.js models\nBits Required implements “how many bits do we need to represent integer X?” in various languages\nBrainfuck interpreter, in Python\nBrainfuck syntax highlighting for Atom\nBrainfuck web app, a simple web app written in Brainfuck\nBRAINFUCK2000, a powerful JavaScript Brainfuck interpreter for the stars\nBREACH helper for Node helps to mitigate BREACH attacks by adding a random-length HTML comment helper\nBrowserIs asks questions about Node.js requests useragents. Made for Express\nC program to repeat a string forever\nCaesar shift in JavaScript and CoffeeScript\nCanvas to favicon sends a <canvas> to the favicon\nCheck ECMAScript Version Compatibility checks that your JavaScript is compatible with the right version of ECMAScript\nChicagoCTA is a Mastodon bot that tweets alerts from Chicago public transit\nChiPy Mentorship Program had me as a mentor in the Fall 2017 cohort\nCircles 1K is 639 bytes of trippy and was an entry to JS1k\nClimateAction.tech community support\nClose the popups was my entry to JS1k 2019\ncoinflip.js randomly returns true or false\nconnect-appcache adds Appcache middleware to Connect/Express\nContent Security Policy sandbox is a little test app for playing around with Content Security Policy\ncontext.clear is a small library for clearing a HTML5 canvas\nCrystal PNG chunks offers low-level access to PNG chunk data\nCustom Steam icons for Zineth, Lode Runner 2\ncyborg.txt is a collection of robots.txt utilities for Node\nDeep Proxy uses JavaScript proxies to allow deep property access\ndocument.head shim for CommonJS\nDragon Scales was my entry for JS1k 2014\ndw_red.vim is a red-heavy Vim colorscheme\nEuler Method calculator in C++\nEvan Hahn’s 100 dope beats of the day\nEvanSpec is a souped-up assert for C++\nExpecting.js is an assertion module for JavaScript\nFacebook autopoker Chrome extension (or the source)\nffmpeg buddy helps you build ffmpeg commands\nFireworks was my entry to JS1k 2016\nFLoC Block is a small Express middleware to block Google’s FLoC tracking\nFlood is a game I didn’t invent but did implement. A friend didn’t like the version she was playing, so I made one that she liked\nFudo is an adorable friend that was made from scratch in 36 hours at a hackathon. Art by Lulu Tang. Sound and code help from David Jackson\nfunctional state machine is a small JavaScript state machine that’s purely functional\nget the latest Node version from Node\nGopher Node lets you write Gopher servers with Node\nGribbagrab is an asynchronous JavaScript and CSS loader that’s meant to be inlined\ngzpeek reads gzip metadata\nhaha.sh is a simple shell script that generates hearty laughter\nHelmet for Crystal is a collection of security handlers for the Crystal programming language\nHelmet is a collection of security middlewares for Express\nHide the Facebook news feed\nHow many English words are alphabetical?\nHTML Pack inlines CSS and JavaScript for an HTML page and then minifies everything\nHumanizeDuration.js turns milliseconds into English durations, or many other languages\nimage to table converts images to all-HTML <table> tags\nInternet Creator, my entry to JS1024 2022\nIs GitHub Up? is a command-line tool that tells you if GitHub is online\niscp is an interactive scp, because I always forget the syntax\nisExpress is a function for detecting Express applications\nISO 3166 country list maps things like “DE” to “Germany” and vice-versa\nJavaScript Jabber episode 311: “Securing Express Apps with Helmet.js with Evan Hahn”\nJavaScript/CoffeeScript sleepsort\njourn is a command-line journal\nJSCPP is a shoddy attempt to port some of JavaScript’s standard library to C++\nJSTypes is a small JavaScript library that deals with variable types\nLegend of Zelda: Tears of the Kingdom prerelease roundups (as of April 2023, as of February 2023, as of January 2023, as of December 2022, as of November 2022, as of September 2022, as of August 2022, as of May 2022, as of April 2022, as of March 2022, as of December 2021)\nlibdeflate.js is a JS + WASM wrapper around libdeflate, a library for fast, whole-buffer Deflate-based compression and decompression\nLight Switch is a 2032-byte black cat, submitted to the Taper zine\nLink’s Awakening.txt is a Mastodon bot that periodically posts text from The Legend of Zelda: Link’s Awakening\nllm-eliza is a satirical plugin for LLM that lets you use the ELIZA chatbot\nLucky Picross, my entry to JS1024 ‘23. Won third place!\nluhncheck is a little website that runs a number through a Luhn validator\nmailtolink.js creates mailto: links from JavaScript\nmap-invert inverts JavaScript Maps\nmap-omit removes keys from JavaScript Maps\nMeme.js is a canvas-based meme generator I worked on for now-defunct Buddy Meme\nMiniClass is yet another JavaScript library that allows for simple classical OO. It’s tiny\nminidots are a couple of dotfiles I use when SSHing or in VMs\nMouseTracker.js creates an object called mouse and keeps its x and y properties updated\nNaps and their effectiveness\nnimi mute is a dictionary for the Toki Pona mini-language\nNode Hyperdrive import is an experimental Node module that lets you import packages from Hyperdrive\nNode torrent import is an experimental Node module that lets you import packages from BitTorrent. See my accompanying blog post\nNONOGRAM NIGHTS is a spooky puzzle where you use logic to uncover a mysterious picture\nOpen Link in Unloaded Tab is a little Firefox extension that adds “Open Link in Unloaded Tab” to the right-click context menu\nOrigin won 7th place in the 2013 js13kgames. I also wrote a little blog post about it\nPaint the box, my entry to JS1024 2021\nPercentage.js is a simple function to convert numbers to percentages, like 0.12 to 12%\nPersisted JSON objects are plain JavaScript objects that save themselves to the file system after every change\nPie Time was my entry to JS1k 2015. I also wrote a post about it\nPinboard to Standard Notes Importer moves Pinboard bookmarks into Standard Notes. See the source code\nPlayback speed calculator tells you that listening to a 4 hour audiobook on 1.5× speed will take 2 hours, 40 minutes. I also wrote a post about this\nPNG Chunk Editor lets you edit the bytes that make up a PNG image, and I made it in an hour\nPNG Chunk Explorer lets you explore the bytes that make up a PNG image\npng-cmp checks if two PNGs are visually identical, much like the cmp command\nPotions was my entry to JS1k 2017\nPredicting the next Zelda’s release date based on historical data\nProof of concept: drop-in JSON replacement that produces smaller payloads\nPushbullet CLI is a command-line interface to Pushbullet. I’m no longer the maintainer\npwgen is a little webpage for generating passwords\npython -m json.tool for JavaScript emulates Python’s json.tool in pure JavaScript\nQR It turns text into QR\nrandom-word is a CLI tool to pick a random word from a file\nReddit’s /r/dailyprogrammer challenge solutions\nRemember The Milk script to estimate selected tasks\nRemember The Milk script to export tasks as CSV\nRemember The Milk script to find tasks with invalid start times\nRemember The Milk script to get task permalink\nrename is an interactive version of the mv command\nring-secure-headers adds security HTTP headers to Ring apps (for Clojure)\nRTS camera for Unity is a little utility for RTS games in Unity. Made it for a university course\nscrabbler is a small Scrabble cheater written in Python\nScriptInclude adds include to browser-based JavaScript and is tiny\nsetBigTimeout is an answer to the fact that setTimeout doesn’t work for 1 million years\nsetAttributes helps you call .setAttribute on a DOM node more easily\nSimple Statistics is a Crystal shard for simple statistical operations, such as median or standard deviation\nSingle Color Image lets you generate a PNG that’s just one color. It’s a simple app with a simple API\nSnackWrap allows you to watch files and run a shell command every time a file changes. Not as focused as Grunt or Sprockets\nstartInterval is like JavaScript’s setInterval but it starts immediately. It was made for a guide\nstring-timing-safe-equal, a Node package for comparing strings in a way that’s safe against timing attacks\nStudy guides from my time as an undergraduate at the University of Michigan: semester 3, semester 4, semester 5, and semester 6\nSqids Crystal is a port of the Sqids serialization format to Crystal\nThe TypeScript Grunt skeleton\nTic Tac Toe in Lua\nTicker is a lightweight wrapper around requestAnimationFrame\nTime in Korea is a simple Android app that tells you the time in South Korea\ntiny “coming soon” page\nTinyTar is a tiny library (376 bytes gzipped) for creating tar files\ntoki pona to hex converts the Toki Pona language to and from hex\nTruth table generator for CoffeeScript. Made to take the tedium out of a homework assignment\nTry EJS\nTry LiScript\nTwo’s complement utility for converting from two’s complement numbers\nTwo-factor authentication list\nuntouched gets pristine copies of built-in objects (like Array or JSON) even if they’ve been modified\nUser Agent Bag parses user agents per RFC7231\nUTF-21 is a toy character encoding like UTF-8\nVimL syntax highlighting for Atom\nWhat if the English language had syntax highlighting?\nwhen-file-exists calls a callback when a file is created\nwren-please is an assertion library for Wren\nwren-vector is a 3D vector library for Wren\nXML to text turns XML to plain text with Python\nZap was my entry to JS1k 2018. It was an honorable mention—read my post about it\nZelda release anniversary calendar\nZIP Shrinker makes your ZIP files a little smaller\nZoomContext lets you pan and zoom around an HTML5 canvas\nOpen source contributions\n\nA big list of open source projects I’ve contributed to but don’t run myself.\n\n350.org’s Climate Strike Poster generator\nFix border loading issues\nAdd starter ESLint config\nDependency updates (wdm, Backbone and Underscore, and Middleman)\naddress-rfc2821\nAdd TypeScript type definitions\nArrow\nThrow TypeError when passing booleans to arrow.get\nAuthenticator\nAdd import of Raivo OTP files\nAwesome Crystal\nFix stdlib compression links\nbash-guide\nRemove gendered language\nbonjour-service\nAlways define start and stop on Service\nbrittle\nShow sets in output\nChai\nFix syntax errors in assert examples\nchihacknight.org\nClean up intro paragraph on donate page\nChroma\nAdd Arturo lexer (#1232, #1256)\nFix AGENTS.md referencing a non-existent scripts directory\nclj-http\nAllow RequestConfig and HttpClientContext to be injected\nCO2.js\nClean up OneByte tests\nClean up SustainableWebDesign model perByte tests\nStore segment flag on CO2 instance, not models\nCoMapeo\n279 commits in @comapeo/core\n41 commits in @comapeo/schema\n36 commits in @comapeo/ipc\n76 commits in CoMapeo mobile\n27 commits in @mapeo/map-server\n20 commits in multi-core-indexer\n7 commits in @mapeo/sqlite-indexer\nConstellate\nLet users download profiles as vCards\nFix minor typos in README\nDefinitelyTyped\nVarious Helmet-related changes and code reviews (#8818, #8820, #9017, #9018, #9162, #9248, #9273, #39673, #44235, #44228)\nbetter-sqlite3 updates\nbig-sparse-array types\nbrittle types\ncompact-encoding types\nconnect changes and code reviews (#24883, #40409, #40776)\nkeygrip tidying\nnanobench types\nNode Content-Type updates\nrandom-access-file types\nrandom-access-storage types\nreact-native-zeroconf new events\nreact-virtualized tweaks (#58648, #58705)\nsub-encoder types\n@mapbox/whoots-js types\nyauzl-promise updates\nDeno\nUpdate mime-db to 1.38.0\nAdd util.callbackify to the node standard library\nDockerized Signal Messenger REST API\nMention LOG_LEVEL environment variable in debug docs\ndot-beat-time\nFix incorrect code in documentation\nElectrify Chicago\nFix tooltip bug when focusing spark line\nExpress\nIgnore settings on Object.prototype\nUse object with null prototype for various app properties\nUse object with null prototype for settings\nUpdate Helmet documentation\nUpdate website for new version\n@fastify/static\nImprove types for setHeaders option\nflow-typed\nexpress: correct is method return type on requests\nfzf\nFix zsh history widget when sh_glob option is on\nGhost\nMany contributions\nGleam Language Tour\nFix punctuation error in lesson 5\nGRDB\nFix changelog links\nhost-validation\nImprove performance\nif-emoji\nAdd TypeScript type definitions\nKineticJS\nAdd Bower support\nLangserver.org\nUpdate Crystal LSP\nUpdate ALE link\nLearn X in Y minutes\nAdd docs for Rink\nFix incorrect front matter name, causing CI failures\nMapbox Maps SDK for React Native\nRemove AbortController test mock\nMapLibre GL SDK for React Native\nRemove AbortController test mock\nmarceau\nUpdate MIME database\nRun gleam format to fix CI failure\nRemove website from metadata\nmethods\nAdd some simple tests\nMint\nFix typo when unable to find file\nNeovim\nFix LSP error with InsertReplaceEdits\nnode-process-limits\nValidate pid before calling\nnonolib\nDeclare nonogram_runcycles in header\nPercentage\nAdd .clampedZeroToHundred\npngjs\nReject invalid chunk types\nImprove error message when IHDR is not first chunk\nPony\nRemove whitespace-only lines from stdlib\nQwerty Hancock\nAdd Bower support\nrandom-access-file\nUse “unlink” instead of “destroy” in docs\nshurikenJS\nAdd basic Jasmine tests\nSignal\n749 commits in Signal iOS\n898 commits in Signal Desktop\n5 commits in RingRTC\n4 commits in Signal Android\nSniper Link\nRemove unused variable from render route\nstatuses\nThrow when passed strings on Object.prototype\nSqids JavaScript\nEarly exit when encoding invalid numbers\nTab Center Redux\nBugfix: clear favicon when the favicon is removed\nUse === instead of == across the codebase\nTWC Berlin website\nFix absolute image URLs in events list\nTWC website\nInclude timezone data gem for consistency\nurl2green-js\nRequire Node 16 or greater\nUpdate better-sqlite3 to v8.5.0\nVapor Security Headers\nDisable X-XSS-Protection filter, for safety\nAdd support for fallback referrer policies\nvim-fetch\nFix error when opening new files containing quotes\nWeakValueMap\nFix documentation link in readme\nWebTorrent\nFix malformed debug ID\nyauzl-promise\nFix doc reference to “validateFilenames”\nzig-js-runtime\nFix Lightpanda typo in readme\nzip.js\nFix return types for entry progress callbacks\nFix Markdown syntax in ZipWriterConstructorOptions.dataDescriptor"
+}

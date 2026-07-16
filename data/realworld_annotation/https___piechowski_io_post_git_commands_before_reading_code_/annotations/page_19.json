@@ -1,0 +1,97 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/why-is-default-scope-bad-rails/cover_hu698cbe9da9758f5e3d49778b8a4d5d7c_57806_1500x0_resize_q75_h2_box_2.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 21,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "activerecord",
+            "href": "https://piechowski.io/tags/activerecord"
+        },
+        {
+            "text": "security",
+            "href": "https://piechowski.io/tags/security"
+        },
+        {
+            "text": "discard",
+            "href": "https://github.com/jhawthorn/discard"
+        },
+        {
+            "text": "Ruby on Rails",
+            "href": "https://rubyonrails.org/"
+        },
+        {
+            "text": "default_scopes",
+            "href": "https://api.rubyonrails.org/classes/ActiveRecord/Scoping/Default/ClassMethods.html#method-i-default_scope"
+        },
+        {
+            "text": "audits",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "single-table inheritance",
+            "href": "https://api.rubyonrails.org/classes/ActiveRecord/Inheritance.html"
+        },
+        {
+            "text": "added",
+            "href": "https://github.com/rails/rails/pull/40720"
+        },
+        {
+            "text": "discard",
+            "href": "https://github.com/jhawthorn/discard"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Rails: How to Use Greater Than/Less Than in Active Record where Statements",
+            "href": "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        }
+    ],
+    "text_length": 8606,
+    "text_full": "Work With Me\nGithub\nBlog\nRails default_scope: Why You Should Never Use It\n\n`default_scope` quietly breaks `Model.all`, corrupts scope chaining, bleeds into associations, and can leak data in multi-tenant apps. Here's why it's dangerous and what to use instead.\n\nAlly Piechowski · Jan 6, 2020 · Updated Mar 9, 2026 · 6 min read\nrails\nruby\ndevelopment\nactiverecord\nsecurity\n\nUpdate — March 2026: This post was significantly expanded to cover additional pitfalls: association bleeding, STI subclass inheritance, multi-tenant security risks with unscoped, and the Rails 6.1 all_queries: true option. It also now includes a recommendation for the discard gem as the correct soft-delete solution.\n\nA pretty popular opinion in the Ruby on Rails community is that default_scopes should be avoided at all costs. Even among Rails experts, it’s often hard to articulate exactly why. Here’s a concrete breakdown.\n\nUsing default_scopes\n\nStarting with a very basic Post model that contains a deleted_at column to support soft delete, like so:\n\nclass CreatePosts < ActiveRecord::Migration[8.1]\n  def change\n    create_table :posts do |t|\n      t.string :title\n      t.text :body\n      t.datetime :deleted_at\n      t.timestamps\n    end\n  end\nend\n\n\nThe application is supposed to only display posts that have not been deleted, so a default_scope seems like the perfect solution!\n\nclass Post < ApplicationRecord\n  default_scope -> { where(deleted_at: nil) }\nend\n\n\nThis default_scope successfully hides all posts that are deleted, which is great!\n\nAdditionally, the posts should be ordered by the date they were created, which can also be added to the default_scope.\n\nclass Post < ApplicationRecord\n  default_scope -> { where(deleted_at: nil).order(:created_at) }\nend\n\nProblem 1: Post.all Doesn’t Mean All\n\nThis one sounds minor until it isn’t. Post.all reads as “give me all posts.” With a default_scope, it actually means “give me all non-deleted posts, ordered by created_at.” The method name is a lie.\n\nThis bites hardest in tests (factory records that mysteriously don’t return), the console (wrong counts), and reporting (silently wrong aggregates).\n\nPost.count        # returns 4\nPost.unscoped.count  # returns 11\n\n\nSeven posts just don’t exist as far as the application is concerned, and there’s nothing at the query site to tell you that.\n\nProblem 2: Scopes That Should Work Don’t\n\nNow that the application hides deleted posts by default, a feature request comes in for administrators to show deleted posts.\n\nAdding a named scope seems like the obvious fix:\n\nclass Post < ApplicationRecord\n  default_scope -> { where(deleted_at: nil) }\n  scope :deleted, -> { where.not(deleted_at: nil) }\nend\n\n\nBut calling Post.deleted returns no records, even when deleted posts exist in the database. The generated SQL shows why:\n\nSELECT * FROM posts WHERE deleted_at IS NULL AND deleted_at IS NOT NULL\n\n\nBoth conditions are applied simultaneously. That can never match anything. The default_scope wins silently and Post.deleted is broken from day one.\n\nThe natural instinct is to reach for unscoped:\n\nclass Post < ApplicationRecord\n  default_scope -> { where(deleted_at: nil) }\n  scope :deleted, -> { unscoped.where.not(deleted_at: nil) }\nend\n\n\nThis makes Post.deleted work, but breaks chaining. If you try to filter deleted posts by title:\n\nPost.where(title: 'My Title').deleted\n\n\nThe unscoped inside deleted strips everything before it in the chain, including the where(title:) clause. You get all deleted posts regardless of title. The more conditions you add to the chain, the more surprising the results.\n\nThere is no clean way out of this. The scope is fighting itself.\n\nProblem 3: Order Clauses Stack\n\nThe default_scope includes an order(:created_at). Later, a different part of the app wants posts sorted by updated_at:\n\nPost.order(:updated_at)\n\n\nThis does not replace the existing order. It appends to it:\n\nSELECT * FROM posts WHERE deleted_at IS NULL ORDER BY created_at ASC, updated_at ASC\n\n\nThe created_at order from the default_scope runs first, which makes the updated_at sort meaningless for any posts created on the same day. The results look almost right, which makes this particularly hard to debug.\n\nThe fix is reorder instead of order:\n\nPost.reorder(:updated_at)\n\n\nBut this is a trap waiting for the next developer. Nothing in the call site suggests that order won’t work normally here.\n\nProblem 4: Associations Inherit It Too\n\nThe default_scope applies not just to direct queries, but to any association that loads the model. So if Post has a default_scope, this:\n\nuser.posts\n\n\ngenerates:\n\nSELECT * FROM posts WHERE user_id = 1 AND deleted_at IS NULL\n\n\nThat might seem fine until a query returns fewer records than expected and nobody thinks to look at the model’s default_scope because the query was on an association, not a direct Post call. The scope is invisible at the call site. This is the most common source of subtle, hard-to-reproduce bugs I see in audits.\n\nProblem 5: STI Subclasses Inherit It\n\ndefault_scope is inherited by subclasses through single-table inheritance. If User has one, Admin < User gets it too, whether that’s intended or not:\n\nclass User < ApplicationRecord\n  default_scope -> { where(active: true) }\nend\n\nclass Admin < User\nend\n\nAdmin.all\n# SELECT * FROM users WHERE type = 'Admin' AND active = true\n# Inactive admins are silently excluded\n\n\nThis is easy to miss during a code review because nothing about Admin suggests it filters by active.\n\nProblem 6: unscoped Can Leak Data in Multi-Tenant Apps\n\nunscoped strips every scope on the model, not just the one you’re trying to work around. In an app that uses default_scope for tenant isolation, this is a serious security risk:\n\nclass Post < ApplicationRecord\n  default_scope -> { where(tenant_id: Current.tenant_id) }\nend\n\n# Later, someone tries to work around a soft-delete scope...\nPost.unscoped.where(deleted_at: nil)\n# Returns posts from every tenant in the database\n\n\nTenant isolation via default_scope is itself a bad pattern, but it exists in real codebases. If you ever call unscoped on a model you didn’t write, check what else the default_scope might be doing before you ship.\n\nRails 6.1+: It Can Get Worse\n\nRails 6.1 added an all_queries: true option to default_scope:\n\nclass Post < ApplicationRecord\n  default_scope(all_queries: true) { where(deleted_at: nil) }\nend\n\n\nThis extends the scope to write operations (updates and deletes), not just reads. Post.where(title: \"Old\").update_all(title: \"New\") will silently exclude deleted posts. Post.delete_all won’t delete them either. The filter is now invisible at every query site, reads and writes alike. Don’t use it.\n\nSolution\n\nIn Rails, default_scopes are always painful to work with and result in unexpected bugs, so it’s best not to use Rails’ default_scopes.\n\nInstead, communicative scopes can be used:\n\nclass Post < ApplicationRecord\n  scope :active, -> { where(deleted_at: nil) }\n  scope :deleted, -> { where.not(deleted_at: nil) }\nend\n\n\nFor ordering, I use a named scope like for_index that makes intent explicit at the call site:\n\nclass Post < ApplicationRecord\n  scope :active, -> { where(deleted_at: nil) }\n  scope :deleted, -> { where.not(deleted_at: nil) }\n  scope :for_index, -> { active.order(:created_at) }\nend\n\n\nEven though it seems like more work to include these scopes almost every time you access the records, it ends up being less work as the app ages. In Rails, default_scopes should be avoided at all costs. You’ll regret using default_scopes, maybe not today, but sometime in the future.\n\nIf You Need Soft Delete, Use the discard Gem\n\nMost of the time I see default_scope in the wild, it’s there for soft delete. The right tool is discard. It gives you explicit, predictable soft delete without any of the scope inheritance problems:\n\nclass Post < ApplicationRecord\n  include Discard::Model\nend\n\nPost.kept       # active records (replaces Post.all with a named scope)\nPost.discarded  # soft-deleted records\n\npost.discard    # soft-delete\npost.undiscard  # restore\n\n\nPost.all still returns everything. Post.kept is explicit at the call site. Associations don’t silently filter. unscoped doesn’t mean anything dangerous. The behavior is exactly what you’d expect.\n\nRelated Articles\nHow I Audit a Legacy Rails Codebase in the First Week\nRails: How to Use Greater Than/Less Than in Active Record where Statements\nRuby 3.2 Is EOL: What You Actually Need to Do\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nLet's talk about your codebase.\nEmail\nMessage"
+}

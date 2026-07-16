@@ -1,0 +1,936 @@
+{
+    "image_count": 76,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5230816.webp?imageId=5230816&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=270&format=jpg",
+        "https://image.theregister.com/5240190.jpg?imageId=5240190&panox=0.00&panoy=18.23&panow=100.00&panoh=63.55&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227025.jpg?imageId=5227025&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258820.jpg?imageId=258820&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252920.jpg?imageId=252920&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229110.jpg?imageId=5229110&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/132821.jpg?imageId=132821&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226498.jpg?imageId=226498&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255892.jpg?imageId=255892&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231279.jpg?imageId=231279&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224754.jpg?imageId=5224754&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5228459.jpg?imageId=5228459&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220395.jpg?imageId=5220395&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227527.jpg?imageId=227527&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093862.jpg?imageId=4093862&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252290.jpg?imageId=252290&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094293.jpg?imageId=4094293&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/161530.jpg?imageId=161530&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225298.jpg?imageId=225298&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226096.jpg?imageId=226096&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/161530.jpg?imageId=161530&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094112.jpg?imageId=4094112&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259721.jpg?imageId=259721&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255080.jpg?imageId=255080&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241276.jpg?imageId=241276&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225202.jpg?imageId=225202&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222942.jpg?imageId=222942&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259053.jpg?imageId=259053&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222844.jpg?imageId=222844&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094238.jpg?imageId=4094238&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/239886.jpg?imageId=239886&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244664.jpg?imageId=244664&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231345.jpg?imageId=231345&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231058.jpg?imageId=231058&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094024.jpg?imageId=4094024&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/239215.jpg?imageId=239215&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684406.jpg?imageId=1684406&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244648.jpg?imageId=244648&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222942.jpg?imageId=222942&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/224925.jpg?imageId=224925&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228521.jpg?imageId=228521&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/199311.jpg?imageId=199311&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/236501.jpg?imageId=236501&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/205653.jpg?imageId=205653&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228372.jpg?imageId=228372&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684302.jpg?imageId=1684302&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230564.jpg?imageId=230564&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252054.jpg?imageId=252054&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683941.jpg?imageId=1683941&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229342.jpg?imageId=229342&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241435.jpg?imageId=241435&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232379.jpg?imageId=232379&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255172.jpg?imageId=255172&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225806.jpg?imageId=225806&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241714.jpg?imageId=241714&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258461.jpg?imageId=258461&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235817.jpg?imageId=235817&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/167508.jpg?imageId=167508&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253984.jpg?imageId=253984&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228093.jpg?imageId=228093&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/251875.jpg?imageId=251875&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227546.jpg?imageId=227546&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252954.jpg?imageId=252954&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/242011.jpg?imageId=242011&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258057.jpg?imageId=258057&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222621.jpg?imageId=222621&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226907.jpg?imageId=226907&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254748.jpg?imageId=254748&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261646.jpg?imageId=261646&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262461.jpg?imageId=262461&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/143297.jpg?imageId=143297&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 212,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/storage#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Backup script ingested an accidental asterisk and deleted everything\n\nLetting a 21-year-old write critical code without supervision is not smart",
+            "href": "https://www.theregister.com/storage/2026/05/18/backup-script-ingested-an-accidental-asterisk-and-deleted-everything/5240173"
+        },
+        {
+            "text": "53",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/20262/"
+        },
+        {
+            "text": "Official PCIe 8.0 draft aims for 1 TB/s data rate\n\nFinal specs due for release in 2028, so don't hold your breath for the hardware",
+            "href": "https://www.theregister.com/storage/2026/05/07/official-pcie-80-draft-aims-for-1-tb/s-data-rate/5234648"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/05/07/202611/"
+        },
+        {
+            "text": "Everpure 'takes the hit' as AI-fueled supply crunch drives prices up 70%\n\nStorage vendor predicts current crunch will outlast COVID disruptions",
+            "href": "https://www.theregister.com/on-prem/2026/04/23/ai-fueled-supply-crunch-driving-up-prices-warns-everpure/5224309"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/23/everpure_letter_covid/"
+        },
+        {
+            "text": "Mass data awakening highlights importance of scaling AI infrastructure\n\nIntelligence starts with building AI data infrastructure",
+            "href": "https://www.theregister.com/software/2026/04/22/mass-data-awakening-importance-scaling-ai-infrastructure/5223432"
+        },
+        {
+            "text": "IT manager approved downtime over lunch, but made a meal of it\n\nOptimism is always risky, and defective hardware makes it indigestible",
+            "href": "https://www.theregister.com/on-prem/2026/04/13/it-manager-approved-lunch-downtime-but-made-a-meal-of-it/5228587"
+        },
+        {
+            "text": "50",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/who_me/"
+        },
+        {
+            "text": "Amazon put a filesystem on S3; I showed up with a test suite and bad intentions\n\nThe core product is solid and priced fairly",
+            "href": "https://www.theregister.com/on-prem/2026/04/09/aws-put-a-file-system-on-s3-i-stress-tested-it/5226687"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/aws_s3_files_stress_test_corey_quinn/"
+        },
+        {
+            "text": "How to navigate the storage crunch in the AI era\n\nWatch this webinar and stop playing guessing games with your AI storage",
+            "href": "https://www.theregister.com/on-prem/2026/04/08/how-to-navigate-the-storage-crunch-in-the-ai-era/5228745"
+        },
+        {
+            "text": "Nutanix brings its K8s to bare metal because hardware matters again\n\nExpands compatibility since it's tough to buy the boxes you want right now",
+            "href": "https://www.theregister.com/software/2026/04/07/nutanix-brings-its-k8s-to-bare-metal/5226716"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/04/07/nutanix_bare_metal_k8s/"
+        },
+        {
+            "text": "Microslop stuffs AI photo restyling powers into OneDrive\n\nMicroslop? Sorry, we meant Microsoft",
+            "href": "https://www.theregister.com/on-prem/2026/03/24/microslop-stuffs-ai-photo-restyling-powers-into-onedrive/5220191"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/03/24/onedrive_ai_restyle/"
+        },
+        {
+            "text": "Storage vendors orbit the Nvidia sun at GTC\n\nHitachi Vantara, IBM, Nutanix, and Seagate all had something to say",
+            "href": "https://www.theregister.com/on-prem/2026/03/18/storage-vendors-orbit-the-nvidia-sun-at-gtc/5223644"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/03/18/gtc_storage_hitatchi_ibm_seagate/"
+        },
+        {
+            "text": "Big moves in Linux filesystems as new bcachefs lands and KDE adds support for Apple's APFS\n\nLinux still can't mount or read APFS volumes by default ... but that's about to change",
+            "href": "https://www.theregister.com/on-prem/2026/03/17/new-bcachefs-release-and-kde-linux-adds-apfs-support/5228431"
+        },
+        {
+            "text": "35",
+            "href": "https://forums.theregister.com/forum/all/2026/03/17/bcachefs_and_apfs_news/"
+        },
+        {
+            "text": "AWS S3 turns 20 and reaches ‘hundreds of exabytes’\n\nCloudy storage service's scale gave it a hefty cultural footprint",
+            "href": "https://www.theregister.com/off-prem/2026/03/16/aws-s3-turns-20-and-reaches-hundreds-of-exabytes/5219872"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/03/16/aws_s3_turns_20/"
+        },
+        {
+            "text": "RAM is getting expensive, so squeeze the most from it\n\nZram versus zswap – two ways to get a quart into a pint pot",
+            "href": "https://www.theregister.com/on-prem/2026/03/13/ram-is-getting-expensive-so-squeeze-the-most-from-it/5226550"
+        },
+        {
+            "text": "55",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/zram_vs_zswap/"
+        },
+        {
+            "text": "Rethinking storage for the AI era\n\nHuawei outlines how telecom operators may need to redesign data infrastructure as AI workloads grow",
+            "href": "https://www.theregister.com/on-prem/2026/03/06/rethinking-storage-for-the-ai-era/4248478"
+        },
+        {
+            "text": "Once upon a time, saving your bits meant punching holes in floppies\n\nMicrosoft vet revisits the gloriously manual era of write protection",
+            "href": "https://www.theregister.com/on-prem/2026/03/04/when-protecting-your-data-meant-punching-a-hole-in-it/4803151"
+        },
+        {
+            "text": "49",
+            "href": "https://forums.theregister.com/forum/all/2026/03/04/chen_floppy_disks/"
+        },
+        {
+            "text": "One vendor doesn't mind high RAM prices: VMware\n\nMemory tiering and pooled memory are having a moment because they offer the chance to use less RAM",
+            "href": "https://www.theregister.com/on-prem/2026/03/04/one-vendor-doesnt-mind-high-ram-prices-vmware/5191398"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/03/04/one_company_is_very_happy/"
+        },
+        {
+            "text": "Microsoft's Project Silica promises eternal storage. It can't get there from here\n\nSoon turned out, we had a heart of glass",
+            "href": "https://www.theregister.com/offbeat/2026/03/02/storage-for-a-virtual-eternity-but-were-not-there-yet/4125172"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2026/03/02/microsoft_project_silica_opinion/"
+        },
+        {
+            "text": "Hard drives already sold out for this year – AI to blame\n\nOh snap! The hyperscalers bought all the HDDs",
+            "href": "https://www.theregister.com/on-prem/2026/02/20/ai-blamed-again-as-hard-drives-are-sold-out-for-this-year/4285453"
+        },
+        {
+            "text": "66",
+            "href": "https://forums.theregister.com/forum/all/2026/02/20/ai_blamed_again_as_hard_drives_sell_out/"
+        },
+        {
+            "text": "How AI Is forcing storage back into the enterprise conversation\n\nHPE designs storage with AI realities in mind",
+            "href": "https://www.theregister.com/on-prem/2026/02/19/how-ai-is-forcing-storage-back-into-the-enterprise/4523932"
+        },
+        {
+            "text": "Microsoft boffins cook up archival storage using Pyrex glass they say can last over 10,000 years\n\nIt may have half the capacity of fused silica glass, but is faster and much cheaper",
+            "href": "https://www.theregister.com/on-prem/2026/02/19/microsofts-latest-storage-tech-encodes-data-into-pyrex/4868805"
+        },
+        {
+            "text": "55",
+            "href": "https://forums.theregister.com/forum/all/2026/02/19/microsoft_glass_storage/"
+        },
+        {
+            "text": "AI gets all the good stuff, including Micron's speedy 28 GB/s PCIe 6.0 SSD\n\nConsumers have a long wait ahead of them before they can bring that kind of performance home",
+            "href": "https://www.theregister.com/on-prem/2026/02/17/microns-first-pcie-60-ssds-are-all-about-ai/4394621"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/02/17/micron_pcie_6/"
+        },
+        {
+            "text": "Broadband rollouts feel the burn from AI memory frenzy\n\nPrices for router and set-top boxes up nearly sevenfold, squeezing telcos and raising deployment costs",
+            "href": "https://www.theregister.com/on-prem/2026/02/13/ai-memory-crunch-hits-broadband-rollouts/4828414"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/02/13/ai_memory_router_prices/"
+        },
+        {
+            "text": "Microsoft sets Copilot agents loose on your OneDrive files\n\nAI helpers can now rummage through multiple documents",
+            "href": "https://www.theregister.com/on-prem/2026/02/05/microsoft-sets-copilot-agents-loose-on-your-onedrive-files/4257413"
+        },
+        {
+            "text": "59",
+            "href": "https://forums.theregister.com/forum/all/2026/02/05/microsoft_onedrive_agents/"
+        },
+        {
+            "text": "Microsoft finally sends TLS 1.0 and 1.1 to the cloud retirement home\n\nAzure Storage now requires version 1.2 or newer for encrypted connections",
+            "href": "https://www.theregister.com/on-prem/2026/02/03/microsoft-sends-tls-10-and-11-to-the-cloud-retirement-home/4521158"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/02/03/microsoft_tls_deprecations/"
+        },
+        {
+            "text": "Microsoft kills standalone SharePoint and OneDrive plans, because they’re not suite enough\n\nBlames ‘unintended or nonstandard usage’ and the cost of keeping them alive",
+            "href": "https://www.theregister.com/off-prem/2026/02/03/microsoft-ends-some-standalone-sharepoint-and-onedrive-plans/4967301"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/02/03/microsoft_retires_sharepoint_onedrive_standalone/"
+        },
+        {
+            "text": "DRAM prices expected to double in Q1 as AI ambitions push memory fabs to their limit\n\nNAND flash now expected to surge 55–60% compared to Q4",
+            "href": "https://www.theregister.com/on-prem/2026/02/02/dram-prices-expected-to-nearly-double-in-q1/4179710"
+        },
+        {
+            "text": "21",
+            "href": "https://forums.theregister.com/forum/all/2026/02/02/dram_prices_expected_to_double/"
+        },
+        {
+            "text": "Microsoft rushes out another fix for cloud storage after January update\n\n2026 is shaping up to be a bumper year for patch management",
+            "href": "https://www.theregister.com/on-prem/2026/01/26/microsoft-rushes-out-cloud-storage-fix-after-january-update/5055905"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/01/26/microsoft_outofband_patch/"
+        },
+        {
+            "text": "Microsoft admits Outlook might freeze when saving files to OneDrive\n\nJanuary update is the gift that keeps on giving",
+            "href": "https://www.theregister.com/on-prem/2026/01/21/outlook-might-freeze-when-saving-files-to-onedrive/5104155"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2026/01/21/outlook_freeze_onedrive/"
+        },
+        {
+            "text": "Micron breaks ground on humungous NY DRAM fab after beating bats and tree huggers\n\nChipmaker claims the four-fab site could expand US-based DRAM production by a factor of 12",
+            "href": "https://www.theregister.com/on-prem/2026/01/16/micron-breaks-ground-on-100b-new-york-dram-megafab/5072057"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/01/16/micron_fab_breaks_ground/"
+        },
+        {
+            "text": "Buy servers now or cry later: DRAM price spike threatens infrastructure budgets\n\nComponent up 63% since September, more pricey memory coming to a supply chain near you",
+            "href": "https://www.theregister.com/on-prem/2026/01/14/dram-price-hike-to-hit-server-and-infrastructure-costs/5166984"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/01/14/dram_infrastructure_costs/"
+        },
+        {
+            "text": "SK Hynix's $13B packaging facility promises more HBM for the AI bubble\n\nGreat news for AMD and Nvidia, less so for cash-strapped consumers",
+            "href": "https://www.theregister.com/on-prem/2026/01/13/sk-hynix-plans-to-open-13b-hbm-packaging-plant-in-2027/5046014"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/01/13/sk_hbm_packaging/"
+        },
+        {
+            "text": "Techie banned from client site for outage he didn’t cause\n\nUPSes don’t work without power, or well-designed electricals",
+            "href": "https://www.theregister.com/on-prem/2026/01/12/techie-banned-from-client-site-for-outage-he-didnt-cause/4631108"
+        },
+        {
+            "text": "124",
+            "href": "https://forums.theregister.com/forum/all/2026/01/12/who_me/"
+        },
+        {
+            "text": "While you pay through the nose for memory, Samsung expects to triple its profits in Q4\n\nMemory pricing expected to surge another 60% in Q1 with relief years away",
+            "href": "https://www.theregister.com/on-prem/2026/01/08/samsung-expects-to-triple-its-profits-in-q4/4713152"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/01/08/samsung_memory_profits/"
+        },
+        {
+            "text": "SanDisk heals WD Black and Blues, rebrands beloved client SSDs\n\nNVMe drives to live on under the Optimus banner",
+            "href": "https://www.theregister.com/on-prem/2026/01/07/sandisk-heals-wd-black-and-blues-rebrands-client-ssds/4750587"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/01/07/sandisk_heals_wds_black_and_blues/"
+        },
+        {
+            "text": "Infinidat's latest upgrades should make ransomware thieves shiver\n\nWant to shield yourself against ransomware? Accelerate your recovery times. It starts with effective backup storage",
+            "href": "https://www.theregister.com/on-prem/2026/01/06/infinidats-latest-upgrades-make-ransomware-thieves-shiver/2877370"
+        },
+        {
+            "text": "AWS adds hybrid cloud storage support for Nutanix’s AHV hypervisor\n\nVMware's main challenger already embraces multiple storage options",
+            "href": "https://www.theregister.com/software/2025/12/24/aws-adds-hybrid-cloud-storage-support-for-nutanix/2419927"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2025/12/24/aws_storage_gateway_nutanix_ahv/"
+        },
+        {
+            "text": "UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again\n\nCrucial early evolutionary step found, imaged, and ... amazingly ... works",
+            "href": "https://www.theregister.com/on-prem/2025/12/23/unix-v4-tape-successfully-recovered/2701023"
+        },
+        {
+            "text": "109",
+            "href": "https://forums.theregister.com/forum/all/2025/12/23/unix_v4_tape_successfully_recovered/"
+        },
+        {
+            "text": "Tired of sky-high memory prices? Buckle up, we're in this for the long haul\n\nWe haven't even hit the peak, TechInsights tells El Reg",
+            "href": "https://www.theregister.com/on-prem/2025/12/20/buckle-up-memory-prices-arent-easing-anytime-soon/2631106"
+        },
+        {
+            "text": "77",
+            "href": "https://forums.theregister.com/forum/all/2025/12/20/memory_prices_dram/"
+        },
+        {
+            "text": "Lenovo DE6600: The Storage Engine Built for HPC Acceleration\n\nLightning fast with oodles of capacity, meet the DE6600",
+            "href": "https://www.theregister.com/on-prem/2025/12/18/introducing-lenovos-de6600-series-storage-made-smarter/2422086"
+        },
+        {
+            "text": "Hyperscalers fuel $112B server spending spree in Q3\n\nIDC's latest tracker numbers were brought to you by the letters A and I",
+            "href": "https://www.theregister.com/special-features/2025/12/15/hyperscalers-fuel-112b-server-spending-spree-in-q3/2393592"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/12/15/idc_server_storage_q3/"
+        },
+        {
+            "text": "The future of long-term data storage is clear and will last 14 billion years\n\nSPhotoix moves its 5D Memory Crystal cold storage tech closer to deployment in data centers",
+            "href": "https://www.theregister.com/on-prem/2025/12/14/sphotonix-5d-memory-crystal-cold-storage-lasts-14b-years/2598684"
+        },
+        {
+            "text": "102",
+            "href": "https://forums.theregister.com/forum/all/2025/12/14/sphotonix_moves_5d_memory_crystal/"
+        },
+        {
+            "text": "User insisted their screen was blank, until admitting it wasn't\n\nGetting that confession took hours, during which L1 and L2 support gave up",
+            "href": "https://www.theregister.com/on-prem/2025/12/12/user-swore-their-screen-was-blank-until-admitting-it-wasnt/2787052"
+        },
+        {
+            "text": "252",
+            "href": "https://forums.theregister.com/forum/all/2025/12/12/on_call/"
+        },
+        {
+            "text": "Micron ditches consumer memory brand Crucial to chase AI riches\n\nFirst AI came for our jobs. Now, our memory?",
+            "href": "https://www.theregister.com/on-prem/2025/12/03/micron-cuts-consumer-memory-crucial-to-chase-ai-riches/2894682"
+        },
+        {
+            "text": "81",
+            "href": "https://forums.theregister.com/forum/all/2025/12/03/micron_cuts_crucial/"
+        },
+        {
+            "text": "Cheaper 1 GB Raspberry Pi 5 lands as memory costs go through the roof\n\nBudget model slips in at $45 while other boards climb amid AI-driven component crunch",
+            "href": "https://www.theregister.com/on-prem/2025/12/01/cheaper-1-gb-raspberry-pi-5-launches-as-ram-costs-bite/2348365"
+        },
+        {
+            "text": "74",
+            "href": "https://forums.theregister.com/forum/all/2025/12/01/raspberry_pi_5_1gb/"
+        },
+        {
+            "text": "Self-destructing thumb drive can brick itself and wipe your secret files away\n\nCatch: you have to plug it into a computer first",
+            "href": "https://www.theregister.com/on-prem/2025/11/21/self-destructing-portable-ssd-built-to-torch-sensitive-data/2550631"
+        },
+        {
+            "text": "111",
+            "href": "https://forums.theregister.com/forum/all/2025/11/21/selfdestructing_external_ssd/"
+        },
+        {
+            "text": "Eleven years after Lenovo acquired IBM’s x86 server biz, profits are still elusive\n\nPC sales are pushing upwards nicely, but AI PCs only account for a third of the new fleet",
+            "href": "https://www.theregister.com/on-prem/2025/11/20/lenovos-enterprise-hardware-biz-racks-up-another-loss/2008471"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2025/11/20/lenovo_q2_2026/"
+        },
+        {
+            "text": "Why don't storage systems last 12 years?\n\nHint: it's the software that's the problem",
+            "href": "https://www.theregister.com/on-prem/2025/11/19/why-dont-storage-systems-last-12-years/2591521"
+        },
+        {
+            "text": "NetApp claims ex-CTO built a secret cloud platform then sold it to VAST Data\n\nLawsuit alleges he poached staff, lifted trade secrets, and set up Red Stapler before quitting",
+            "href": "https://www.theregister.com/on-prem/2025/11/18/netapp-sues-ex-cto-claiming-theft-of-trade-secrets/2003194"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2025/11/18/netapp_cto_lawsuit/"
+        },
+        {
+            "text": "Oops. VMware admits it over-specced storage servers for years\n\nVCF users wrestling with bill shock may get a little relief",
+            "href": "https://www.theregister.com/software/2025/11/18/vmware-admits-it-over-specced-storage-servers-for-years/2435908"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2025/11/18/vsan_hardware_guidance_revised_down/"
+        },
+        {
+            "text": "Need AI? Dell backs up the truck and tips out servers, storage, blueprints\n\nVendor leans on Nvidia tie-up so hard you can hear the GPUs squeak",
+            "href": "https://www.theregister.com/special-features/2025/11/17/dell-expands-ai-lineup-with-new-servers-and-storage/2160797"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2025/11/17/dell_ai_lineup/"
+        },
+        {
+            "text": "InfiniBox G4 Family enhancements change the game in high-end enterprise storage\n\nThe new InfiniBox SSA G4 F24 offers a lower footprint and more storage. Who wouldn't want that?",
+            "href": "https://www.theregister.com/on-prem/2025/11/13/infinibox-g4-family-enhancements-change-high-end-storage/2849291"
+        },
+        {
+            "text": "The great virtualization reset: Why HPE has the only real plan B\n\nHow to stay stable when the market shifts around you",
+            "href": "https://www.theregister.com/on-prem/2025/11/13/the-great-virtualization-reset-hpes-plan-b/2843406"
+        },
+        {
+            "text": "Data sovereignty: Don't just tick the box, think outside it\n\nHow your data strategy can fuel innovation",
+            "href": "https://www.theregister.com/on-prem/2025/11/11/data-sovereignty-dont-just-tick-the-box-think-outside-it/1111853"
+        },
+        {
+            "text": "Conquer your storage challenges for generative AI success\n\nHPE's Alletra Storage MP X10000 addresses the problems of AI data management",
+            "href": "https://www.theregister.com/on-prem/2025/10/23/conquer-your-storage-challenges-for-generative-ai-success/1106442"
+        },
+        {
+            "text": "AlmaLinux gives Btrfs a home after Red Hat kicked it out\n\nNot the default file system, but in the installer if you want it",
+            "href": "https://www.theregister.com/software/2025/10/22/almalinux-gives-btrfs-a-home-after-red-hat-kicked-it-out/1543916"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2025/10/22/btrfs_almalinux/"
+        },
+        {
+            "text": "The $100B memory war: Inside the battle for AI's future\n\nThe AI gold rush is so large that even third place is lucrative",
+            "href": "https://www.theregister.com/on-prem/2025/10/16/the-100b-memory-war-inside-the-battle-for-ais-future/1445545"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2025/10/16/race_to_supply_advanced_memory/"
+        },
+        {
+            "text": "Microsoft's OneDrive spots your mates, remembers their faces, and won't forget easily\n\nThen shalt thee change the setting three times, no more!",
+            "href": "https://www.theregister.com/on-prem/2025/10/13/microsoft-previews-people-grouping-in-onedrive-photos/430472"
+        },
+        {
+            "text": "101",
+            "href": "https://forums.theregister.com/forum/all/2025/10/13/microsoft_face_grouping_ondrive/"
+        },
+        {
+            "text": "OpenAI ropes in Korean giants Samsung and SK Hynix to feed its AI megaproject\n\nDuo pledge memory for Stargate to the tune of 900k DRAM wafer starts a month",
+            "href": "https://www.theregister.com/on-prem/2025/10/02/samsung-and-sk-hynix-to-feed-openais-megaproject/753274"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/10/02/openai_ropes_in_samsung_and/"
+        },
+        {
+            "text": "Imaging infrastructure needs to catch up with how healthcare operates\n\nOverprovisioning and poor performance can be things of the past for healthcare providers who see the bigger picture",
+            "href": "https://www.theregister.com/on-prem/2025/09/17/imaging-infrastructure-needs-catch-up-how-healthcare-operate/854388"
+        },
+        {
+            "text": "Boffins invent DNA tape that could pack 375 petabytes into an LTO cart\n\nBut it reads at about the speed of punch cards",
+            "href": "https://www.theregister.com/on-prem/2025/09/12/researchers-design-fully-indexed-dna-storage-tapes/1078175"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/09/12/indexed_dna_storage_tapes_invented/"
+        },
+        {
+            "text": "Forget disappearing messages – now Signal will store 100MB of them for you for free\n\nIncluding messages sent to users, a potential problem for the privacy-conscious",
+            "href": "https://www.theregister.com/software/2025/09/09/signal-will-store-100mb-of-messages-free-100gb-at-199/mo/518755"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2025/09/09/storage_message_signal/"
+        },
+        {
+            "text": "Huawei's battery energy storage systems run out of juice in the UK\n\nSources say decision to pull products takes effect from end of 2025",
+            "href": "https://www.theregister.com/on-prem/2025/09/05/huawei-to-yank-battery-energy-storage-systems-from-uk/784785"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2025/09/05/huawei_bess_uk/"
+        },
+        {
+            "text": "Uber India starts offering drivers gigs collecting and classifying info for AI models\n\nRideshare giant also reveals 350-petabyte data lake it protects with tech adapted from Airbnb",
+            "href": "https://www.theregister.com/software/2025/09/05/uber-india-now-offering-gigs-collecting-info-for-ai-models/1524000"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/09/05/uber_india_ai_model_gigs/"
+        },
+        {
+            "text": "Matrix.org homeserver grinds to a halt after RAID meltdown\n\nEngineers wrangle 55 TB restore and traffic replay as millions of messages queue up",
+            "href": "https://www.theregister.com/on-prem/2025/09/03/matrixorg-homeserver-grinds-to-a-halt-after-raid-meltdown/1073827"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2025/09/03/matrixorg_raid_failure/"
+        },
+        {
+            "text": "Teen interns brute-forced a disk install, with predictable results\n\nThe real lesson here is how little some companies care about training",
+            "href": "https://www.theregister.com/on-prem/2025/08/18/unskilled-teen-interns-brute-forced-and-broke-a-disk/1332203"
+        },
+        {
+            "text": "132",
+            "href": "https://forums.theregister.com/forum/all/2025/08/18/who_me/"
+        },
+        {
+            "text": "Snowflake builds Spark clients for its own analytics engine\n\nNo need to spin up separate Apache Spark clusters, vendor claims",
+            "href": "https://www.theregister.com/on-prem/2025/08/07/snowflake-builds-spark-clients-for-its-own-analytics-engine/335126"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2025/08/07/snowflake_builds_spark_clients_for/"
+        },
+        {
+            "text": "Flock storage: Audio boffin encodes data in a starling\n\nBirdsong stores 176 KB, but can it run Doom?",
+            "href": "https://www.theregister.com/offbeat/2025/07/30/flock-storage-audio-boffin-encodes-data-in-a-starling/1047798"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2025/07/30/encoded_audio_starling_song/"
+        },
+        {
+            "text": "And now for our annual ‘Tape is still not dead’ update\n\n176.5 Exabytes of the stuff shipped in 2024, another double-digit jump",
+            "href": "https://www.theregister.com/on-prem/2025/07/23/new-data-shows-tape-is-still-not-dead/1141205"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2025/07/23/lto_2024_tape_shipment_data/"
+        },
+        {
+            "text": "HAMR time: Seagate unleashes 30 TB disks to feed the AI beast\n\nExos and IronWolf drives show spinning rust isn't going anywhere",
+            "href": "https://www.theregister.com/on-prem/2025/07/15/seagate-rolls-out-30-tb-hamr-drives-for-ai-storage-demand/1242873"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2025/07/15/seagate_hamr_drives/"
+        },
+        {
+            "text": "GParted: Still the best free partitioner standing – unless you're on a 32-bit box\n\nLatest release handles NBD and bcachefs, but you’ll need 64-bit hardware to boot it",
+            "href": "https://www.theregister.com/software/2025/07/14/gparted-live-1708-is-out/981850"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2025/07/14/gparted_live_1708/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/storage?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 11200,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nLatest news on enterprise storage systems | The Register\nSponsored By\nON-PREM > STORAGE\nLatest news on enterprise storage systems\nBackup script ingested an accidental asterisk and deleted everything\n\nLetting a 21-year-old write critical code without supervision is not smart\n\n3 days|53\nOfficial PCIe 8.0 draft aims for 1 TB/s data rate\n\nFinal specs due for release in 2028, so don't hold your breath for the hardware\n\n2 weeks|4\nEverpure 'takes the hit' as AI-fueled supply crunch drives prices up 70%\n\nStorage vendor predicts current crunch will outlast COVID disruptions\n\n4 weeks|0\nMass data awakening highlights importance of scaling AI infrastructure\n\nIntelligence starts with building AI data infrastructure\n\n4 weeks\nIT manager approved downtime over lunch, but made a meal of it\n\nOptimism is always risky, and defective hardware makes it indigestible\n\n1 month|50\nAmazon put a filesystem on S3; I showed up with a test suite and bad intentions\n\nThe core product is solid and priced fairly\n\n1 month|16\nHow to navigate the storage crunch in the AI era\n\nWatch this webinar and stop playing guessing games with your AI storage\n\n1 month\nNutanix brings its K8s to bare metal because hardware matters again\n\nExpands compatibility since it's tough to buy the boxes you want right now\n\n1 month|3\nMicroslop stuffs AI photo restyling powers into OneDrive\n\nMicroslop? Sorry, we meant Microsoft\n\n2 months|14\nStorage vendors orbit the Nvidia sun at GTC\n\nHitachi Vantara, IBM, Nutanix, and Seagate all had something to say\n\n2 months|0\nBig moves in Linux filesystems as new bcachefs lands and KDE adds support for Apple's APFS\n\nLinux still can't mount or read APFS volumes by default ... but that's about to change\n\n2 months|35\nAWS S3 turns 20 and reaches ‘hundreds of exabytes’\n\nCloudy storage service's scale gave it a hefty cultural footprint\n\n2 months|8\nRAM is getting expensive, so squeeze the most from it\n\nZram versus zswap – two ways to get a quart into a pint pot\n\n2 months|55\nRethinking storage for the AI era\n\nHuawei outlines how telecom operators may need to redesign data infrastructure as AI workloads grow\n\n2 months\nOnce upon a time, saving your bits meant punching holes in floppies\n\nMicrosoft vet revisits the gloriously manual era of write protection\n\n3 months|49\nOne vendor doesn't mind high RAM prices: VMware\n\nMemory tiering and pooled memory are having a moment because they offer the chance to use less RAM\n\n3 months|6\nMicrosoft's Project Silica promises eternal storage. It can't get there from here\n\nSoon turned out, we had a heart of glass\n\n3 months|28\nHard drives already sold out for this year – AI to blame\n\nOh snap! The hyperscalers bought all the HDDs\n\n3 months|66\nHow AI Is forcing storage back into the enterprise conversation\n\nHPE designs storage with AI realities in mind\n\n3 months\nMicrosoft boffins cook up archival storage using Pyrex glass they say can last over 10,000 years\n\nIt may have half the capacity of fused silica glass, but is faster and much cheaper\n\n3 months|55\nAI gets all the good stuff, including Micron's speedy 28 GB/s PCIe 6.0 SSD\n\nConsumers have a long wait ahead of them before they can bring that kind of performance home\n\n3 months|7\nBroadband rollouts feel the burn from AI memory frenzy\n\nPrices for router and set-top boxes up nearly sevenfold, squeezing telcos and raising deployment costs\n\n3 months|20\nMicrosoft sets Copilot agents loose on your OneDrive files\n\nAI helpers can now rummage through multiple documents\n\n3 months|59\nMicrosoft finally sends TLS 1.0 and 1.1 to the cloud retirement home\n\nAzure Storage now requires version 1.2 or newer for encrypted connections\n\n4 months|7\nMicrosoft kills standalone SharePoint and OneDrive plans, because they’re not suite enough\n\nBlames ‘unintended or nonstandard usage’ and the cost of keeping them alive\n\n4 months|25\nDRAM prices expected to double in Q1 as AI ambitions push memory fabs to their limit\n\nNAND flash now expected to surge 55–60% compared to Q4\n\n4 months|21\nMicrosoft rushes out another fix for cloud storage after January update\n\n2026 is shaping up to be a bumper year for patch management\n\n4 months|2\nMicrosoft admits Outlook might freeze when saving files to OneDrive\n\nJanuary update is the gift that keeps on giving\n\n4 months|44\nMicron breaks ground on humungous NY DRAM fab after beating bats and tree huggers\n\nChipmaker claims the four-fab site could expand US-based DRAM production by a factor of 12\n\n4 months|24\nBuy servers now or cry later: DRAM price spike threatens infrastructure budgets\n\nComponent up 63% since September, more pricey memory coming to a supply chain near you\n\n4 months|11\nSK Hynix's $13B packaging facility promises more HBM for the AI bubble\n\nGreat news for AMD and Nvidia, less so for cash-strapped consumers\n\n4 months|3\nTechie banned from client site for outage he didn’t cause\n\nUPSes don’t work without power, or well-designed electricals\n\n4 months|124\nWhile you pay through the nose for memory, Samsung expects to triple its profits in Q4\n\nMemory pricing expected to surge another 60% in Q1 with relief years away\n\n4 months|10\nSanDisk heals WD Black and Blues, rebrands beloved client SSDs\n\nNVMe drives to live on under the Optimus banner\n\n4 months|15\nInfinidat's latest upgrades should make ransomware thieves shiver\n\nWant to shield yourself against ransomware? Accelerate your recovery times. It starts with effective backup storage\n\n4 months\nAWS adds hybrid cloud storage support for Nutanix’s AHV hypervisor\n\nVMware's main challenger already embraces multiple storage options\n\n5 months|1\nUNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again\n\nCrucial early evolutionary step found, imaged, and ... amazingly ... works\n\n5 months|109\nTired of sky-high memory prices? Buckle up, we're in this for the long haul\n\nWe haven't even hit the peak, TechInsights tells El Reg\n\n5 months|77\nLenovo DE6600: The Storage Engine Built for HPC Acceleration\n\nLightning fast with oodles of capacity, meet the DE6600\n\n5 months\nHyperscalers fuel $112B server spending spree in Q3\n\nIDC's latest tracker numbers were brought to you by the letters A and I\n\n5 months|6\nThe future of long-term data storage is clear and will last 14 billion years\n\nSPhotoix moves its 5D Memory Crystal cold storage tech closer to deployment in data centers\n\n5 months|102\nUser insisted their screen was blank, until admitting it wasn't\n\nGetting that confession took hours, during which L1 and L2 support gave up\n\n5 months|252\nMicron ditches consumer memory brand Crucial to chase AI riches\n\nFirst AI came for our jobs. Now, our memory?\n\n6 months|81\nCheaper 1 GB Raspberry Pi 5 lands as memory costs go through the roof\n\nBudget model slips in at $45 while other boards climb amid AI-driven component crunch\n\n6 months|74\nSelf-destructing thumb drive can brick itself and wipe your secret files away\n\nCatch: you have to plug it into a computer first\n\n6 months|111\nEleven years after Lenovo acquired IBM’s x86 server biz, profits are still elusive\n\nPC sales are pushing upwards nicely, but AI PCs only account for a third of the new fleet\n\n6 months|12\nWhy don't storage systems last 12 years?\n\nHint: it's the software that's the problem\n\n6 months\nNetApp claims ex-CTO built a secret cloud platform then sold it to VAST Data\n\nLawsuit alleges he poached staff, lifted trade secrets, and set up Red Stapler before quitting\n\n6 months|13\nOops. VMware admits it over-specced storage servers for years\n\nVCF users wrestling with bill shock may get a little relief\n\n6 months|7\nNeed AI? Dell backs up the truck and tips out servers, storage, blueprints\n\nVendor leans on Nvidia tie-up so hard you can hear the GPUs squeak\n\n6 months|3\nInfiniBox G4 Family enhancements change the game in high-end enterprise storage\n\nThe new InfiniBox SSA G4 F24 offers a lower footprint and more storage. Who wouldn't want that?\n\n6 months\nThe great virtualization reset: Why HPE has the only real plan B\n\nHow to stay stable when the market shifts around you\n\n6 months\nData sovereignty: Don't just tick the box, think outside it\n\nHow your data strategy can fuel innovation\n\n6 months\nConquer your storage challenges for generative AI success\n\nHPE's Alletra Storage MP X10000 addresses the problems of AI data management\n\n7 months\nAlmaLinux gives Btrfs a home after Red Hat kicked it out\n\nNot the default file system, but in the installer if you want it\n\n7 months|10\nThe $100B memory war: Inside the battle for AI's future\n\nThe AI gold rush is so large that even third place is lucrative\n\n7 months|9\nMicrosoft's OneDrive spots your mates, remembers their faces, and won't forget easily\n\nThen shalt thee change the setting three times, no more!\n\n7 months|101\nOpenAI ropes in Korean giants Samsung and SK Hynix to feed its AI megaproject\n\nDuo pledge memory for Stargate to the tune of 900k DRAM wafer starts a month\n\n8 months|4\nImaging infrastructure needs to catch up with how healthcare operates\n\nOverprovisioning and poor performance can be things of the past for healthcare providers who see the bigger picture\n\n8 months\nBoffins invent DNA tape that could pack 375 petabytes into an LTO cart\n\nBut it reads at about the speed of punch cards\n\n8 months|6\nForget disappearing messages – now Signal will store 100MB of them for you for free\n\nIncluding messages sent to users, a potential problem for the privacy-conscious\n\n8 months|19\nHuawei's battery energy storage systems run out of juice in the UK\n\nSources say decision to pull products takes effect from end of 2025\n\n8 months|11\nUber India starts offering drivers gigs collecting and classifying info for AI models\n\nRideshare giant also reveals 350-petabyte data lake it protects with tech adapted from Airbnb\n\n8 months|6\nMatrix.org homeserver grinds to a halt after RAID meltdown\n\nEngineers wrangle 55 TB restore and traffic replay as millions of messages queue up\n\n9 months|44\nTeen interns brute-forced a disk install, with predictable results\n\nThe real lesson here is how little some companies care about training\n\n9 months|132\nSnowflake builds Spark clients for its own analytics engine\n\nNo need to spin up separate Apache Spark clusters, vendor claims\n\n9 months|0\nFlock storage: Audio boffin encodes data in a starling\n\nBirdsong stores 176 KB, but can it run Doom?\n\n10 months|44\nAnd now for our annual ‘Tape is still not dead’ update\n\n176.5 Exabytes of the stuff shipped in 2024, another double-digit jump\n\n10 months|46\nHAMR time: Seagate unleashes 30 TB disks to feed the AI beast\n\nExos and IronWolf drives show spinning rust isn't going anywhere\n\n10 months|10\nGParted: Still the best free partitioner standing – unless you're on a 32-bit box\n\nLatest release handles NBD and bcachefs, but you’ll need 64-bit hardware to boot it\n\n10 months|22\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

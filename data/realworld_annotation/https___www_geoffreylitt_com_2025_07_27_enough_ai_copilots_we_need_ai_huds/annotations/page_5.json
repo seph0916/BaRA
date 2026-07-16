@@ -1,0 +1,73 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://www.geoffreylitt.com/images/headshot.jpg?1761416283"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 15,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Geoffrey Litt",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://www.geoffreylitt.com/#projects"
+        },
+        {
+            "text": "Writing",
+            "href": "https://www.geoffreylitt.com/#writing"
+        },
+        {
+            "text": "Inspirations",
+            "href": "https://www.geoffreylitt.com/inspirations"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@geoffreylitt"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue#june-2025"
+        },
+        {
+            "text": "read this",
+            "href": "https://www.inkandswitch.com/essay/malleable-software/"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue#subscribe"
+        },
+        {
+            "text": "Join my email newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "Follow me on Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Subscribe via RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        }
+    ],
+    "text_length": 7238,
+    "text_full": " Geoffrey Litt\nProjects\nWriting\nInspirations\nSubscribe:\nNewsletter \nTwitter \nMastodon \nRSS \nContact\nEmail me \nJune 2025\nIs chat a good UI for AI? A Socratic dialogue\n\nThe pupil was confused. Some people on Design Twitter said that chat isn’t a good UI for AI… but then chat seemed to be winning in many products? He climbed Mount GPT to consult a wizard…\n\n🐣: please wizard tell me once and for all. is chat a good UI for AI?\n\n🧙: well, aren’t we chatting now?\n\n🐣: …?\n\n🧙: should this conversation be a traditional GUI?\n\n🐣: no, it could never be!\n\n🧙: why not?\n\n🐣: uh… you can’t click buttons and drag sliders to ask open-ended questions like this?\n\n🧙: precisely! chat is marvelous, done.\n\n🐣: dude seriously? i came all the way here for that?\n\n🧙: yep. i’ll tell you the best route down the mountain. straight 1000 ft, left 50 degrees, straight 2 miles—\n\n🐣: hold on hold on. do you have a map handy?\n\n🧙: aha! here’s a map i had in my pocket. is this a GUI?\n\n🐣: well, this map is just a piece of paper, so no?\n\n🧙: ok, what is a paper map?\n\n🐣: uh… a better way to see the world?\n\n🧙: indeed! for certain things, a map is the way to see. for other things, a diagram, a chart, a table. this is the first precept:\n\nText is not the universal information visualization.\n\n🐣: ok fine. but info viz can fit into a chat can’t it? like, if i ask Siri or ChatGPT for the weather, they’ll show me a little weather card…but it’s still basically chat\n\n🧙: where do you live on this map?\n\n🐣: right th–\n\n🧙: hands in your pockets!\n\n🐣: ?\n\n🧙: no pointing. tell me where you live\n\n🐣: ….well, see how there’s a little lake up by the top left? no not that lake… a bit to the right.. no no next one over–\n\n🧙: hahaha\n\n🐣: … ok fine i get your point! this sucks.\n\n🧙: indeed! pointing is great. for referring to things, for precisely cropping an image in the right spot…\n\n🐣: ok fine. but if we talk while you show me the map and i point at it, that still feels like a chat? we’re layering on information visualization and precision input, but natural language is still doing the heavy lifting?\n\n🧙: (points at a rock, then at the ground) put that there.\n\n🐣: huh?\n\n🧙: put that there!\n\n🐣: (moves the rock) ok, what was that about?\n\n🧙: As you say, we needed our fingers and our voices both. This leads to a second precept:\n\nNatural language and precision inputs are complementary.\n\nbtw want a compass?\n\n🐣: yeah that’ll actually be helpful on the way down.\n\n🧙: cool, i can give you a regular compass, or Mr. Magnetic, a magical fairy who can tell you which way you’re pointed.\n\n🐣: i’ll take the regular compass? I did Boy Scouts so I know how to read it, it just becomes part of me in a sense. i definitely don’t need to have a whole damn conversation every time.\n\n🧙: ah yes, you see it. the compass pairs information visualization and precision inputs with a low-latency feedback loop, becoming an extension of your mind. this is one of our great powers as humans—to shoot an arrow or swing a club.\n\n🐣: ok that’s cool. but dude i’ve been here a while and i feel like we haven’t even really talked about GUIs!\n\n🧙: you’re right, time for dinner. let’s order a pizza\n\n🐣: …\n\n🧙: can you order one?\n\n🐣: fine. I’ll see if UberEats delivers up here.\n\n🧙: why not call the restaurant?\n\n🐣: are you kidding me? i’m not a boomer.\n\n🧙: is UberEats a GUI?\n\n🐣: yes?\n\n🧙: does it work well?\n\n🐣: yeah it’s fine! gets the job done.\n\n🧙: why not chat over the phone instead?\n\n🐣: well, ordering food is the same thing every time! even when you talk to the person you’re both just following a script, really. the app just makes it faster to follow that script.\n\n🧙: indeed! this is our third precept:\n\nGraphical interfaces can make repeated workflows nicer.\n\n🐣: ok i get it. but idk man, i feel like this is all kinda obvious and we haven’t hit the heart of the matter? yes chat is better for open-ended workflows, and GUIs can be better when the task is repeated. but how do they relate?\n\n🧙: hey i host seminars up here every week and it’s kinda tedious. could you show me the button in UberEats where I can enter the estimated attendance and then it orders the right number of pizzas?\n\n🐣: umm that’s not a thing?\n\n🧙: why not? i want it.\n\n🐣: uhh, this is UberEats, not a seminar organizer app?\n\n🧙: oh right good point! in that case let’s add a button on the calendar invite i can press which will order the pizzas.\n\n🐣: dude what do you mean? the calendar app is just a calendar app, not a seminar organizer. you can’t just change your software like this.\n\n🧙: hm, what are my options then?\n\n🐣: ooh i have an idea! have you heard of MCP? if we just install the right servers then you can program a seminar planner agent in Claude to do this every week for you.\n\n🧙: sounds fine for the first few times while i’m figuring it out. but–is planning a seminar not a repeated workflow?\n\n🐣: … yes, i think it is?\n\n🧙: did we not say that GUIs can speed up repeated workflows? why do i need to stay in chat for this? also btw, i want my assistant to help out with this, and an app would help them know what to do.\n\n🐣: i mean, i’m not sure there’s a good app for seminar planning that does what you want. lemme search on the app st–\n\n🧙: wait! a GUI that someone else made will not fit my seminar planning needs. i need my own preferred workflow to be the one that is encoded in the tool.\n\n🐣: ohh i see! this actually might not be that much work, have you heard of vibe coding? i’ll open up Claude Artifacts and get cookin.\n\n🧙: thanks, lemme know when you’ve added the seminar pizza feature to UberEats!\n\n🐣: oh well, I was thinking it’s not gonna be added to uber eats exactly – i’m gonna make a new web app that does all this.\n\n🧙: why? UberEats already has great UI for the checkout flow, I just need one little feature added.\n\n🐣: i mean i see your point, but you can’t really add your own features to UberEats? you don’t control it.\n\n🧙: haven’t they heard of vibe coding over there?\n\n🐣: dude that’s not how software works. sure everyone can code now but that doesn’t mean you can just edit any app.\n\n🧙: why not?\n\n🐣: er… it sounds kinda messy? and i guess all of this app stuff was invented before AI came along anyway?\n\n🧙: when you paint a wall do you need to ask permission of the company that made the wall?\n\n🐣: … hm. when you put it that way… i see what you’re getting at. if all the GUIs you already use could be edited, then you wouldn’t need to resort to chat as much to fill in the seams. instead you could just change the GUIs to do what you want!\n\n🧙: aha! yes, now you see. if the UI is fixed, then it cannot respond to my needs. but if it is malleable, then I can evolve it over time. This is the fourth and final precept for today:\n\nA malleable UI pairs the ergonomics of GUIs with the open-ended flexibility of chat.\n\n🐣: neat. this seems hard though, wouldn’t we need to rethink how the App Store works?\n\n🧙: indeed. and that is a longer conversation for another time.\n\nNote from the editor: to keep exploring, read this.\n\nSubscribe\nI periodically write about programming tools, end-user programming, and other software topics. To get updates about new posts:\n Join my email newsletter  Follow me on Twitter  Subscribe via RSS"
+}

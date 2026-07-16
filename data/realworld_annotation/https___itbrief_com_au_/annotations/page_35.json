@@ -1,0 +1,623 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://cfotech.com.au/brands/cfo-new-logo.svg",
+        "https://cfotech.com.au/brands/td-new-logo-right.svg",
+        "https://itbrief.com.au/uploads/story/2026/05/21/preview_images__14_.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/20/preview_helpful-australian-owner-cafe-counter-tablet-sales-insights-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/20/preview_lively-fans-arena-concourse-contactless-payment-australian-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/19/preview_calm-australian-financial-exchange-secure-ledger-blocks-regulatory-symbols-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Mary_Anne.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Nick_Martin.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/04/29/preview_clean-fintech-banking-dashboard-tablet-modular-omnichannel-api-links.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/22/preview_Ned.webp",
+        "https://channellife.com.au/uploads/story/2026/04/01/preview_flux-result-830622bb-38cd-4208-acb1-02e6c3071ad2.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/25/preview_Michael_Perica.webp",
+        "https://cfotech.com.au/uploads/story/2026/03/23/preview_email_attachment20260323-1874322-u35ewi.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/08/preview_Rafa.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/30/preview_FIA.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/04/30/preview_Vicky_Katsabaris.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/25/preview_Sid_Nadella.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/24/preview_Hsann.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/03/18/preview_260310EnterpriseIrelandfirstselec.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/06/preview_PS_Stephen_Deasy_Chief_Technology_Officer_at_Confluent__1_.webp",
+        "https://cfotech.com.au/uploads/story/2026/03/03/preview_ChristinaColby_0085_-_Web.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/19/preview_Rudy_Kuhn_Celonis.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Tiarnan.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/08/preview_Risa.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/08/preview_Edmund.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/07/preview_Justin_Smith.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/06/preview_965.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/29/preview_address-data-for-identity-verifcation-benefits.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/22/preview_616.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/07/preview_building-digital-trust-data-quality-strategy.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/06/preview_Pascal_Coubard.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/02/preview_mike_putman.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/08/preview_Rafa.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/30/preview_FIA.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/04/30/preview_Vicky_Katsabaris.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/25/preview_Sid_Nadella.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/24/preview_Hsann.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/14/preview_anxious-founders-investors-australian-office-tax-paper-shadow-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/14/preview_professional-compliance-fund-workflow-digital-tiles-office-matte.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/08/preview_images__9_.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/07/preview_Justin_Smith.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/05/preview_growth-australian-investor-desk-superfund-ledger-smartphone-digital-illustration.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/05/preview_focused-australian-sole-trader-desk-laptop-phone-warm-office-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/01/preview_secure-mobile-banking-app-transfer-route-location-pins-australia-new-zealand-digital-illustration.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/08/preview_secure-ai-assistant-australian-banking-laptop-lock-flat.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/29/preview_australian-stock-exchange-clearing-settlement-hub-blue-gold.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/29/preview_modern-australian-stock-exchange-operations-room-clearing.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/28/preview_australian-open-banking-trust-data-dashboard-rising-coin.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/04/24/preview_flux-result-65d1cc50-083e-48f4-bbb9-763ab0b0391d.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/24/preview_flux-result-2919d974-763e-476e-8dec-7a2fd2ca2c2d.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/24/preview_Hsann.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/23/preview_email_attachment20260423-3173968-vq7mtd.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/23/preview_flux-result-d5a794f1-d52c-4e13-acc2-e49685f1636f.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/21/preview_flux-result-004514df-d528-405b-905e-f71218f50956.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/21/preview_flux-result-33f261b0-2c48-4a27-aa79-2b41df77d591.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/21/preview_flux-result-492d921d-7f83-448b-b70e-7b1167ea4274.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/21/preview_flux-result-e33c1085-7790-44aa-9097-13c07045dc9e.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Mary_Anne.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/09/preview_Grace_Gown(2).webp",
+        "https://itbrief.com.au/uploads/story/2026/03/30/preview_OpenMarkets.webp",
+        "https://cfotech.com.au/uploads/story/2026/03/12/preview_images__8_.webp",
+        "https://securitybrief.com.au/uploads/story/2026/02/25/preview_Mariana.webp",
+        "https://cfotech.com.au/uploads/story/2026/02/09/preview_images.webp",
+        "https://cfotech.com.au/uploads/story/2026/02/04/preview_Brian_Collins__CEO__Enterprize_Tasmania.webp",
+        "https://cfotech.com.au/uploads/story/2026/01/30/preview_Meaghan-Riley.webp",
+        "https://cfotech.com.au/uploads/story/2025/12/05/preview_Dan__WeMoney.webp",
+        "https://cfotech.com.au/uploads/story/2025/12/01/preview_coin.webp",
+        "https://cfotech.com.au/brands/td-left-new-logo.svg",
+        "https://cfotech.com.au/brands/cfo-white-logo.svg",
+        "https://cfotech.com.au/brands/cl-white-logo.svg",
+        "https://cfotech.com.au/brands/ecn-white-logo.svg",
+        "https://cfotech.com.au/brands/f5-white-logo.svg",
+        "https://cfotech.com.au/brands/itb-white-logo.svg",
+        "https://cfotech.com.au/brands/sb-white-logo.svg",
+        "https://cfotech.com.au/brands/tn-white-logo.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 134,
+    "links": [
+        {
+            "text": "AUSTRALIA",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "POWERED BY",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "Banking",
+            "href": "https://cfotech.com.au/tag/banking"
+        },
+        {
+            "text": "Data Analytics",
+            "href": "https://cfotech.com.au/tag/data-analytics"
+        },
+        {
+            "text": "Digital Transformation",
+            "href": "https://cfotech.com.au/tag/digital-transformation"
+        },
+        {
+            "text": "Fintech",
+            "href": "https://cfotech.com.au/tag/fintech"
+        },
+        {
+            "text": "Insurance",
+            "href": "https://cfotech.com.au/tag/insurance"
+        },
+        {
+            "text": "Australian News",
+            "href": "https://cfotech.com.au/tag/fintech#localised"
+        },
+        {
+            "text": "Analyst Insights",
+            "href": "https://cfotech.com.au/tag/fintech#analyst"
+        },
+        {
+            "text": "Featured News",
+            "href": "https://cfotech.com.au/tag/fintech#featured"
+        },
+        {
+            "text": "Expert Columns",
+            "href": "https://cfotech.com.au/tag/fintech#bylines"
+        },
+        {
+            "text": "Interviews",
+            "href": "https://cfotech.com.au/tag/fintech#interviews"
+        },
+        {
+            "text": "Recent News",
+            "href": "https://cfotech.com.au/tag/fintech#recent"
+        },
+        {
+            "text": "Job Moves",
+            "href": "https://cfotech.com.au/tag/fintech#jobs"
+        },
+        {
+            "text": "ASIC\nBlock Earner wins first digital asset credit licence\n\nThe approval lets eligible Australians borrow against crypto holdings under direct oversight, as the sector seeks clearer rules and mainstream acceptance.",
+            "href": "https://itbrief.com.au/story/block-earner-wins-first-digital-asset-credit-licence"
+        },
+        {
+            "text": "MARKETING\nSquare AI launched in Australia for small businesses\n\nSmall firms could save hours on admin as the free assistant turns sales data into plain-language answers inside Square's platform.",
+            "href": "https://ecommercenews.com.au/story/square-ai-launched-in-australia-for-small-businesses"
+        },
+        {
+            "text": "QUALTRICS\nAfterpay Arena deal to reshape Sydney venue payments\n\nThe five-year deal could ease upfront costs for fans and boost spending on tickets, food and merchandise at one of Australia's busiest arenas.",
+            "href": "https://cfotech.com.au/story/afterpay-arena-deal-to-reshape-sydney-venue-payments"
+        },
+        {
+            "text": "ASIC\nAustralia tests tokenised finance in Project Acacia\n\nSettlement could become faster and cheaper for wholesale markets, but regulators say tokenised finance still needs new rules and infrastructure.",
+            "href": "https://cfotech.com.au/story/australia-tests-tokenised-finance-in-project-acacia"
+        },
+        {
+            "text": "MICROSOFT\nCommBank appoints first Chief AI Scientist in Australia\n\nThe appointment underscores the lender's push to scale responsible AI as banks race to recruit academic talent and manage security and governance risks.",
+            "href": "https://cfotech.com.au/story/commbank-appoints-first-chief-ai-scientist-in-australia"
+        },
+        {
+            "text": "TAXATION\nRemote expands payroll platform in Australia for AI\n\nAustralian employers could ease cross-border payroll and compliance burdens as Remote broadens access to its platform for partners and AI agents.",
+            "href": "https://cfotech.com.au/story/remote-expands-payroll-platform-in-australia-for-ai"
+        },
+        {
+            "text": "ANALYST\nTemenos named Forrester leader in digital banking tech\n\nForrester Wave · Fintech · Mobile Apps",
+            "href": "https://ecommercenews.com.au/story/temenos-named-forrester-leader-in-digital-banking-tech"
+        },
+        {
+            "text": "ANALYST\nAgentic era and the UI transition\n\nGartner · Fintech · Opinion",
+            "href": "https://itbrief.com.au/story/agentic-era-and-the-ui-transition"
+        },
+        {
+            "text": "ANALYST\nThunes ranks among top three in cross-border payments\n\nJuniper Research · Fintech · Digital wallets",
+            "href": "https://channellife.com.au/story/thunes-ranks-among-top-three-in-cross-border-payments"
+        },
+        {
+            "text": "ANALYST\nRimini Street: SaaS-pocalypse spells opportunity to escape AI lock-in\n\nGartner · Fintech · Rent Seeking",
+            "href": "https://itbrief.com.au/story/rimini-street-saas-pocalypse-spells-opportunity-to-escape-ai-lock-in"
+        },
+        {
+            "text": "ANALYST\nCFOs face AI talent squeeze amid market volatility\n\nGartner · Fintech · CFO",
+            "href": "https://cfotech.com.au/story/cfos-face-ai-talent-squeeze-amid-market-volatility"
+        },
+        {
+            "text": "ABOUT CUSTOMER EXPERIENCE\nGigs makes APAC splash with promising ShopBack partnership\n\nShopBack users could soon get easier access to travel connectivity and local mobile plans as Gigs tests its expansion in Asia.\n\nThis month",
+            "href": "https://ecommercenews.com.au/story/gigs-makes-apac-splash-with-promising-shopback-partnership"
+        },
+        {
+            "text": "ABOUT EDITOR INTERVIEW\nSage Intacct builds explainable AI into accounting\n\nAccountants facing staff shortages may gain faster workflows, as Sage Intacct’s new agent exposes its calculations, sources and audit trail.\n\nLast month",
+            "href": "https://cfotech.com.au/story/sage-intacct-builds-explainable-ai-into-accounting"
+        },
+        {
+            "text": "ABOUT SUSTAINABILITY\n'Self-learning' AI big boon for Qualtrics' CX\n\nCompanies using AI for customer experience are cutting churn and lifting revenue, with Qualtrics saying richer feedback can triple insights.\n\nLast month",
+            "href": "https://ecommercenews.com.au/story/self-learning-ai-big-boon-for-qualtrics-cx"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nExclusive: Google Cloud reshaping finance with agentic AI\n\nBanks must move beyond isolated pilots if they want agentic AI to deliver enterprise-wide gains, Google Cloud says.\n\nLast month",
+            "href": "https://cfotech.com.au/story/exclusive-google-cloud-reshaping-finance-with-agentic-ai"
+        },
+        {
+            "text": "ABOUT BITCOIN\nPepperstone Crypto: Digital assets go mainstream as investors take control of financial future\n\nClearer rules and institutional flows are making digital assets easier for Australians to trade, particularly younger investors seeking diversification.\n\nLast month",
+            "href": "https://cfotech.com.au/story/pepperstone-crypto-digital-assets-go-mainstream-as-investors-take-control-of-financial-future"
+        },
+        {
+            "text": "ABOUT IT INDUSTRY\nStrong growth for Irish tech imports across Australia and New Zealand\n\nIrish tech exports to Australia and New Zealand have surged nearly 60% in five years, with Enterprise Ireland backing rapid sector growth.\n\nWed, 18th Mar 2026",
+            "href": "https://ecommercenews.com.au/story/strong-growth-for-irish-tech-imports-across-australia-and-new-zealand"
+        },
+        {
+            "text": "ABOUT BIG DATA\nConfluent says data streaming will enable faster, better decisions\n\nConfluent says organisations must shift to governed data streaming, with AI agents making millisecond decisions at scale.\n\nWed, 11th Mar 2026",
+            "href": "https://itbrief.com.au/story/confluent-says-data-streaming-will-enable-faster-better-decisions"
+        },
+        {
+            "text": "ABOUT CLOUD SERVICES\nGuidewire showcases GenAI's capabilities in insurance risks\n\nGuidewire touts 'insurance-grade AI' as it uses generative tools to speed risk, claims and pricing decisions for cautious insurers.\n\nWed, 4th Mar 2026",
+            "href": "https://cfotech.com.au/story/guidewire-showcases-genai-s-capabilities-in-insurance-risks"
+        },
+        {
+            "text": "ABOUT DIGITAL TRANSFORMATION\nComposable, process‑aware AI key to enterprise ROI\n\nProcess intelligence and composable architecture are emerging as the missing ingredients to turn fragile AI pilots into resilient, traceable value.\n\nWed, 25th Feb 2026",
+            "href": "https://itbrief.com.au/story/composable-process-aware-ai-key-to-enterprise-roi"
+        },
+        {
+            "text": "Looking to Ireland for the CFO tech stack of the future\n\nBy Tiarnan McCaughan of Enterprise Ireland",
+            "href": "https://cfotech.com.au/story/looking-to-ireland-for-the-cfo-tech-stack-of-the-future"
+        },
+        {
+            "text": "AI shopping boom puts checkout under pressure\n\nBy Risa Huang of Unlimit",
+            "href": "https://ecommercenews.com.au/story/ai-shopping-boom-puts-checkout-under-pressure"
+        },
+        {
+            "text": "Digital identity: How it powers APAC's fintech boom\n\nBy Edmund Ng of Melissa",
+            "href": "https://cfotech.com.au/story/digital-identity-how-it-powers-apac-s-fintech-boom"
+        },
+        {
+            "text": "AI virtual data rooms are reshaping M&A due diligence\n\nBy Justin Smith of Ansarada",
+            "href": "https://itbrief.com.au/story/ai-virtual-data-rooms-are-reshaping-m-a-due-diligence"
+        },
+        {
+            "text": "The 70% problem: Why checkout is still where eCommerce goes to die\n\nBy Suzana Kordumova of G+D Netcetera",
+            "href": "https://ecommercenews.com.au/story/the-70-problem-why-checkout-is-still-where-ecommerce-goes-to-die"
+        },
+        {
+            "text": "How accurate address data powers identity verification\n\nBy Edmund Ng of Melissa",
+            "href": "https://securitybrief.com.au/story/how-accurate-address-data-powers-identity-verification"
+        },
+        {
+            "text": "When identity becomes the payment rail\n\nBy Martin Zeisel of G+D Netcetera",
+            "href": "https://cfotech.com.au/story/when-identity-becomes-the-payment-rail"
+        },
+        {
+            "text": "Building digital trust: Data quality provides a scalable path\n\nBy Bud Walker of Melissa",
+            "href": "https://securitybrief.com.au/story/building-digital-trust-data-quality-provides-a-scalable-path"
+        },
+        {
+            "text": "Beyond the billion-dollar banking oversight: How process intelligence can surface vital warning signs\n\nBy Pascal Coubard of Celonis",
+            "href": "https://cfotech.com.au/story/beyond-the-billion-dollar-banking-oversight-how-process-intelligence-can-surface-vital-warning-signs"
+        },
+        {
+            "text": "AI can inspire travel, but it still can't book it. That's about to change\n\nBy Mike Putman of Custom Travel Solutions",
+            "href": "https://itbrief.com.au/story/ai-can-inspire-travel-but-it-still-can-t-book-it-that-s-about-to-change"
+        },
+        {
+            "text": "Gigs makes APAC splash with promising ShopBack partnership\n\nDiscussing Customer Experience",
+            "href": "https://ecommercenews.com.au/story/gigs-makes-apac-splash-with-promising-shopback-partnership"
+        },
+        {
+            "text": "Sage Intacct builds explainable AI into accounting\n\nDiscussing Editor interview",
+            "href": "https://cfotech.com.au/story/sage-intacct-builds-explainable-ai-into-accounting"
+        },
+        {
+            "text": "'Self-learning' AI big boon for Qualtrics' CX\n\nDiscussing Sustainability",
+            "href": "https://ecommercenews.com.au/story/self-learning-ai-big-boon-for-qualtrics-cx"
+        },
+        {
+            "text": "Exclusive: Google Cloud reshaping finance with agentic AI\n\nDiscussing Productivity",
+            "href": "https://cfotech.com.au/story/exclusive-google-cloud-reshaping-finance-with-agentic-ai"
+        },
+        {
+            "text": "Pepperstone Crypto: Digital assets go mainstream as investors take control of financial future\n\nDiscussing BitCoin",
+            "href": "https://cfotech.com.au/story/pepperstone-crypto-digital-assets-go-mainstream-as-investors-take-control-of-financial-future"
+        },
+        {
+            "text": "IT INDUSTRY\nFinTech Australia warns tax changes may hurt startups\n\nUncertainty over planned capital gains tax changes could deter startup funding and prompt founders, investors and talent to leave Australia.\n\nLast week",
+            "href": "https://cfotech.com.au/story/fintech-australia-warns-tax-changes-may-hurt-startups"
+        },
+        {
+            "text": "OUTSOURCING\nCarta buys Avantia to launch legal platform for funds\n\nThe deal aims to speed routine legal and compliance work for private capital firms by linking it to fund administration and portfolio data.\n\nLast week",
+            "href": "https://cfotech.com.au/story/carta-buys-avantia-to-launch-legal-platform-for-funds"
+        },
+        {
+            "text": "RISK & COMPLIANCE\nWise adds family & group travel tools for Australians\n\nShared spending and children’s cards aim to ease overseas money stress for Australian travellers, as 67% reported anxiety on recent trips.\n\nThis month",
+            "href": "https://ecommercenews.com.au/story/wise-adds-family-group-travel-tools-for-australians"
+        },
+        {
+            "text": "OPINION\nAI virtual data rooms are reshaping M&A due diligence\n\nDue diligence is speeding up as purpose-built AI data rooms cut manual review and help buyers and sellers handle complex transactions faster.\n\nThis month",
+            "href": "https://itbrief.com.au/story/ai-virtual-data-rooms-are-reshaping-m-a-due-diligence"
+        },
+        {
+            "text": "TAXATION\nDigital assets drive record growth in Australian SMSFs\n\nYounger investors and cryptocurrency demand helped push Australia’s SMSF sector to a record 33,224 net new funds last financial year.\n\nThis month",
+            "href": "https://cfotech.com.au/story/digital-assets-drive-record-growth-in-australian-smsfs"
+        },
+        {
+            "text": "PRODUCTIVITY\nAustralian sole traders embrace AI for daily business\n\nAustralian sole traders are using AI to cut admin time and boost output, with daily or weekly use now at 41 per cent, Hnry found.\n\nThis month",
+            "href": "https://ecommercenews.com.au/story/australian-sole-traders-embrace-ai-for-daily-business"
+        },
+        {
+            "text": "CLOUD SERVICES\nANZ boosts Plus transfers with tracking & fraud checks\n\nCustomers can now track overseas payments in ANZ Plus, with near real-time transfers on some routes and extra scam protections added.\n\nThis month",
+            "href": "https://cfotech.com.au/story/anz-boosts-plus-transfers-with-tracking-fraud-checks"
+        },
+        {
+            "text": "ONLINE SHOPPING\nVisa adds Australian banks to AI payments programme\n\nAustralian banks are now trialling AI-led purchases under Visa's controls, as the payments group seeks to protect consent and spending limits.\n\nLast month",
+            "href": "https://cfotech.com.au/story/visa-adds-australian-banks-to-ai-payments-programme"
+        },
+        {
+            "text": "MODERNISATION\nTCS & ASX go live with CHESS cash clearing upgrade\n\nThe upgrade puts Australia’s post-trade market on a new footing, with release 1 of CHESS now handling cash clearing and settlement in production.\n\nLast month",
+            "href": "https://cfotech.com.au/story/tcs-asx-go-live-with-chess-cash-clearing-upgrade"
+        },
+        {
+            "text": "STOCK EXCHANGE\nASX, TCS put CHESS Release 1 into production for clearing\n\nAustralia’s market infrastructure overhaul takes a step forward as the new clearing platform goes live, with Release 2 now on the horizon.\n\nLast month",
+            "href": "https://cfotech.com.au/story/asx-tcs-put-chess-release-1-into-production-for-clearing"
+        },
+        {
+            "text": "DATA PROTECTION\nCDR reforms could add AUD $1.2 billion, study says\n\nEasier consent and wider bank access could lift Consumer Data Right use to more than 18 million Australians by 2035, the modelling says.\n\nLast month",
+            "href": "https://cfotech.com.au/story/cdr-reforms-could-add-aud-1-2-billion-study-says"
+        },
+        {
+            "text": "SMALL BUSINESS\nAnt International launches PayTo service for Australian SMEs\n\nAustralian exporters gain a real-time cash-flow boost as PayTo lets them top up World Accounts instantly, even on holidays.\n\nLast month",
+            "href": "https://ecommercenews.com.au/story/ant-international-launches-payto-service-for-australian-smes"
+        },
+        {
+            "text": "DATA PROTECTION\nCommBank deploys AI to spot emerging fraud patterns\n\nThe bank’s defences may move faster as the system is meant to spot new scam patterns and turn them into blocking rules more quickly.\n\nLast month",
+            "href": "https://cfotech.com.au/story/commbank-deploys-ai-to-spot-emerging-fraud-patterns"
+        },
+        {
+            "text": "BITCOIN\nPepperstone Crypto: Digital assets go mainstream as investors take control of financial future\n\nClearer rules and institutional flows are making digital assets easier for Australians to trade, particularly younger investors seeking diversification.\n\nLast month",
+            "href": "https://cfotech.com.au/story/pepperstone-crypto-digital-assets-go-mainstream-as-investors-take-control-of-financial-future"
+        },
+        {
+            "text": "DATA PROTECTION\nFinTech Australia names Finnies finalists for 10th year\n\nThe shortlist comes as the sector weighs new rules on payments, scams and data rights, with 160 finalists vying across 22 categories.\n\nLast month",
+            "href": "https://cfotech.com.au/story/fintech-australia-names-finnies-finalists-for-10th-year"
+        },
+        {
+            "text": "AUSTRALIAN DOLLAR\nMacropod lists Australian-dollar stablecoin AUDM on OKX\n\nAccess to a regulated Australian-dollar token widens as OKX Australia adds AUDM, targeting faster payments and settlement for users.\n\nLast month",
+            "href": "https://cfotech.com.au/story/macropod-lists-australian-dollar-stablecoin-audm-on-okx"
+        },
+        {
+            "text": "SOCIAL MEDIA\nPersona integrates ConnectID for privacy-first age checks\n\nAustralian platforms facing tougher age-check rules can now verify users through bank data, without collecting passports or licences.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/persona-integrates-connectid-for-privacy-first-age-checks"
+        },
+        {
+            "text": "PASSPORTS\nEntrust launches Australia-ready identity checks for AML\n\nAustralia's widened AML rules are pushing real estate, law and accounting firms to tighten onboarding checks before the reforms bite.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/entrust-launches-australia-ready-identity-checks-for-aml"
+        },
+        {
+            "text": "EFTPOS\nPayNuts broadens offer for SMEs as surcharging reforms loom\n\nA tougher fee regime is pushing the payments firm to offer SMEs more services, from POS and broadband to bookkeeping, beyond EFTPOS.\n\nLast month",
+            "href": "https://cfotech.com.au/story/paynuts-broadens-offer-for-smes-as-surcharging-reforms-loom"
+        },
+        {
+            "text": "CONTACTLESS PAYMENTS\nPaymentology enters Australia via Change Financial deal\n\nThe tie-up gives fintechs and digital banks a quicker route into Australia’s fast-growing card and mobile payments market.\n\nLast month",
+            "href": "https://itbrief.com.au/story/paymentology-enters-australia-via-change-financial-deal"
+        },
+        {
+            "text": "CommBank appoints first Chief AI Scientist in Australia\n\nMove at Microsoft",
+            "href": "https://cfotech.com.au/story/commbank-appoints-first-chief-ai-scientist-in-australia"
+        },
+        {
+            "text": "FinTech Australia appoints Xero policy chief Grace Gown\n\nMove at Xero",
+            "href": "https://cfotech.com.au/story/fintech-australia-appoints-xero-policy-chief-grace-gown"
+        },
+        {
+            "text": "Openmarkets appoints David Jenkins to lead DeFi push\n\nMove at Bloomberg",
+            "href": "https://itbrief.com.au/story/openmarkets-appoints-david-jenkins-to-lead-defi-push"
+        },
+        {
+            "text": "Elula names Andrew Phillips as new Chief Revenue Officer\n\nMove at Freshworks",
+            "href": "https://cfotech.com.au/story/elula-names-andrew-phillips-as-new-chief-revenue-officer"
+        },
+        {
+            "text": "Zepto names Mariana Paun chief business resilience lead\n\nMove at Afterpay",
+            "href": "https://securitybrief.com.au/story/zepto-names-mariana-paun-chief-business-resilience-lead"
+        },
+        {
+            "text": "Openmarkets boosts board ahead of planned Nasdaq listing\n\nMove at AMP",
+            "href": "https://cfotech.com.au/story/openmarkets-boosts-board-ahead-of-planned-nasdaq-listing"
+        },
+        {
+            "text": "Enterprize Tasmania names Brian Collins as new CEO\n\nMove at FinTech Australia",
+            "href": "https://cfotech.com.au/story/enterprize-tasmania-names-brian-collins-as-new-ceo"
+        },
+        {
+            "text": "Convera names Meaghan Riley Chief Commercial Officer\n\nMove at SAP",
+            "href": "https://cfotech.com.au/story/convera-names-meaghan-riley-chief-commercial-officer"
+        },
+        {
+            "text": "Dan Jovevski joins FinTech Australia board to drive open banking\n\nMove at FinTech Australia",
+            "href": "https://cfotech.com.au/story/dan-jovevski-joins-fintech-australia-board-to-drive-open-banking"
+        },
+        {
+            "text": "Coinbase Australia names Adam Judd COO ahead of regulatory shift\n\nMove at Macquarie University",
+            "href": "https://cfotech.com.au/story/coinbase-australia-names-adam-judd-coo-ahead-of-regulatory-shift"
+        },
+        {
+            "text": "Xero",
+            "href": "https://cfotech.com.au/tag/xero"
+        },
+        {
+            "text": "Oracle",
+            "href": "https://cfotech.com.au/tag/oracle"
+        },
+        {
+            "text": "MYOB",
+            "href": "https://cfotech.com.au/tag/myob"
+        },
+        {
+            "text": "Oracle NetSuite",
+            "href": "https://cfotech.com.au/tag/oracle-netsuite"
+        },
+        {
+            "text": "Visa",
+            "href": "https://cfotech.com.au/tag/visa"
+        },
+        {
+            "text": "Artificial Intelligence\n→",
+            "href": "https://cfotech.com.au/tag/artificial-intelligence"
+        },
+        {
+            "text": "Risk & Compliance\n→",
+            "href": "https://cfotech.com.au/tag/risk-compliance"
+        },
+        {
+            "text": "Marketing Technologies\n→",
+            "href": "https://cfotech.com.au/tag/marketing-technologies"
+        },
+        {
+            "text": "Financial Systems\n→",
+            "href": "https://cfotech.com.au/tag/financial-systems"
+        },
+        {
+            "text": "Payment Technologies\n→",
+            "href": "https://cfotech.com.au/tag/payment-technologies"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://cfotech.com.au/contact-us"
+        },
+        {
+            "text": "",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "GET THE LATEST FROM\nCFOtech Australia\nSUBSCRIBE",
+            "href": "https://cfotech.com.au/subscribe"
+        },
+        {
+            "text": "FOLLOW US ON\nLinkedIn",
+            "href": "https://www.linkedin.com/company/techday-australia"
+        },
+        {
+            "text": "FOLLOW US ON\nX",
+            "href": "https://x.com/techday_au"
+        },
+        {
+            "text": "",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://cfotech.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://channellife.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://ecommercenews.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://futurefive.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://telconews.com.au/media-kit"
+        },
+        {
+            "text": "Asia",
+            "href": "https://techday.asia/"
+        },
+        {
+            "text": "Canada",
+            "href": "https://techdayca.com/"
+        },
+        {
+            "text": "India",
+            "href": "https://techday.in/"
+        },
+        {
+            "text": "Ireland",
+            "href": "https://techday.ie/"
+        },
+        {
+            "text": "New Zealand",
+            "href": "https://techday.co.nz/"
+        },
+        {
+            "text": "United Kingdom",
+            "href": "https://techday.co.uk/"
+        },
+        {
+            "text": "United States",
+            "href": "https://techday.com/"
+        },
+        {
+            "text": "Brand guidelines",
+            "href": "https://cfotech.com.au/brand-guidelines"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://cfotech.com.au/contact-us"
+        },
+        {
+            "text": "Editorial Calendar",
+            "href": "https://cfotech.com.au/editorial-calendar"
+        },
+        {
+            "text": "Editorial standards",
+            "href": "https://cfotech.com.au/editorial-standards"
+        },
+        {
+            "text": "FAQs",
+            "href": "https://cfotech.com.au/tag/frequently-asked-questions"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://cfotech.com.au/media-kit"
+        },
+        {
+            "text": "Our team",
+            "href": "https://cfotech.com.au/our-team"
+        },
+        {
+            "text": "Our terms",
+            "href": "https://cfotech.com.au/our-terms"
+        },
+        {
+            "text": "YOUTUBE",
+            "href": "https://www.youtube.com/@techdaynetwork"
+        },
+        {
+            "text": "RSS",
+            "href": "https://cfotech.com.au/feed"
+        },
+        {
+            "text": "Plan B's Cloud Services",
+            "href": "https://www.planb.co.nz/tech-services/cloud-services/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        },
+        {
+            "text": "PowerDMARC",
+            "href": "https://powerdmarc.com/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        }
+    ],
+    "text_length": 13754,
+    "text_full": "CFOtech Australia - Technology news for CFOs & financial decision-makers\nAUSTRALIA\nPOWERED BY\nGUIDES\nBanking\nData Analytics\nDigital Transformation\nFintech\nInsurance\nAUSTRALIAN EDITION · 2026\nThe Ultimate Guide to\nFintech\n\nA curated Australian edition of TechDay news, analysis, interviews, reviews, job moves, and related resources for Fintech.\n\nUpdated continuously from TechDay's regional network.\n\nLAST UPDATED:\n\nThu, 21st May 2026 (Today)\n\nWhat to know about Fintech\n\nFintech, short for financial technology, represents a dynamic sector where innovation meets finance to revolutionize how individuals and businesses manage money. This tag aggregates stories that cover the broad spectrum of fintech developments ranging from payment solutions and banking technology to AI-driven financial services and cybersecurity.\n\nReaders exploring this tag will find insights on groundbreaking startups expanding across regions, significant funding rounds propelling growth, the rise of embedded finance, and the ongoing challenges of regulatory compliance and cybersecurity in financial services. The stories also spotlight the evolving influence of women leaders and inclusivity efforts within the fintech landscape.\n\nWhether it's about the latest in digital payments, collaboration between traditional banks and fintech firms, advances in AI for financial operations, or regional fintech ecosystems gaining momentum, this collection offers valuable knowledge for anyone interested in the current and future impact of technology on finance.\n\nAustralian News\nAnalyst Insights\nFeatured News\nExpert Columns\nInterviews\nRecent News\nJob Moves\nAUSTRALIAN FINTECH NEWS\nRegional stories with direct local relevance\nASIC\nBlock Earner wins first digital asset credit licence\n\nThe approval lets eligible Australians borrow against crypto holdings under direct oversight, as the sector seeks clearer rules and mainstream acceptance.\n\nMARKETING\nSquare AI launched in Australia for small businesses\n\nSmall firms could save hours on admin as the free assistant turns sales data into plain-language answers inside Square's platform.\n\nQUALTRICS\nAfterpay Arena deal to reshape Sydney venue payments\n\nThe five-year deal could ease upfront costs for fans and boost spending on tickets, food and merchandise at one of Australia's busiest arenas.\n\nASIC\nAustralia tests tokenised finance in Project Acacia\n\nSettlement could become faster and cheaper for wholesale markets, but regulators say tokenised finance still needs new rules and infrastructure.\n\nMICROSOFT\nCommBank appoints first Chief AI Scientist in Australia\n\nThe appointment underscores the lender's push to scale responsible AI as banks race to recruit academic talent and manage security and governance risks.\n\nTAXATION\nRemote expands payroll platform in Australia for AI\n\nAustralian employers could ease cross-border payroll and compliance burdens as Remote broadens access to its platform for partners and AI agents.\n\nAnalyst Insights\nResearch and market analysis connected to Fintech\nANALYST\nTemenos named Forrester leader in digital banking tech\n\nForrester Wave · Fintech · Mobile Apps\n\nANALYST\nAgentic era and the UI transition\n\nGartner · Fintech · Opinion\n\nANALYST\nThunes ranks among top three in cross-border payments\n\nJuniper Research · Fintech · Digital wallets\n\nANALYST\nRimini Street: SaaS-pocalypse spells opportunity to escape AI lock-in\n\nGartner · Fintech · Rent Seeking\n\nANALYST\nCFOs face AI talent squeeze amid market volatility\n\nGartner · Fintech · CFO\n\nFeatured News\nABOUT CUSTOMER EXPERIENCE\nGigs makes APAC splash with promising ShopBack partnership\n\nShopBack users could soon get easier access to travel connectivity and local mobile plans as Gigs tests its expansion in Asia.\n\nThis month\n\nABOUT EDITOR INTERVIEW\nSage Intacct builds explainable AI into accounting\n\nAccountants facing staff shortages may gain faster workflows, as Sage Intacct’s new agent exposes its calculations, sources and audit trail.\n\nLast month\n\nABOUT SUSTAINABILITY\n'Self-learning' AI big boon for Qualtrics' CX\n\nCompanies using AI for customer experience are cutting churn and lifting revenue, with Qualtrics saying richer feedback can triple insights.\n\nLast month\n\nABOUT PRODUCTIVITY\nExclusive: Google Cloud reshaping finance with agentic AI\n\nBanks must move beyond isolated pilots if they want agentic AI to deliver enterprise-wide gains, Google Cloud says.\n\nLast month\n\nABOUT BITCOIN\nPepperstone Crypto: Digital assets go mainstream as investors take control of financial future\n\nClearer rules and institutional flows are making digital assets easier for Australians to trade, particularly younger investors seeking diversification.\n\nLast month\n\nABOUT IT INDUSTRY\nStrong growth for Irish tech imports across Australia and New Zealand\n\nIrish tech exports to Australia and New Zealand have surged nearly 60% in five years, with Enterprise Ireland backing rapid sector growth.\n\nWed, 18th Mar 2026\n\nABOUT BIG DATA\nConfluent says data streaming will enable faster, better decisions\n\nConfluent says organisations must shift to governed data streaming, with AI agents making millisecond decisions at scale.\n\nWed, 11th Mar 2026\n\nABOUT CLOUD SERVICES\nGuidewire showcases GenAI's capabilities in insurance risks\n\nGuidewire touts 'insurance-grade AI' as it uses generative tools to speed risk, claims and pricing decisions for cautious insurers.\n\nWed, 4th Mar 2026\n\nABOUT DIGITAL TRANSFORMATION\nComposable, process‑aware AI key to enterprise ROI\n\nProcess intelligence and composable architecture are emerging as the missing ingredients to turn fragile AI pilots into resilient, traceable value.\n\nWed, 25th Feb 2026\n\nExpert Columns\nLooking to Ireland for the CFO tech stack of the future\n\nBy Tiarnan McCaughan of Enterprise Ireland\n\nAI shopping boom puts checkout under pressure\n\nBy Risa Huang of Unlimit\n\nDigital identity: How it powers APAC's fintech boom\n\nBy Edmund Ng of Melissa\n\nAI virtual data rooms are reshaping M&A due diligence\n\nBy Justin Smith of Ansarada\n\nThe 70% problem: Why checkout is still where eCommerce goes to die\n\nBy Suzana Kordumova of G+D Netcetera\n\nHow accurate address data powers identity verification\n\nBy Edmund Ng of Melissa\n\nWhen identity becomes the payment rail\n\nBy Martin Zeisel of G+D Netcetera\n\nBuilding digital trust: Data quality provides a scalable path\n\nBy Bud Walker of Melissa\n\nBeyond the billion-dollar banking oversight: How process intelligence can surface vital warning signs\n\nBy Pascal Coubard of Celonis\n\nAI can inspire travel, but it still can't book it. That's about to change\n\nBy Mike Putman of Custom Travel Solutions\n\nInterviews\nInterviews and video coverage from the network\nGigs makes APAC splash with promising ShopBack partnership\n\nDiscussing Customer Experience\n\nSage Intacct builds explainable AI into accounting\n\nDiscussing Editor interview\n\n'Self-learning' AI big boon for Qualtrics' CX\n\nDiscussing Sustainability\n\nExclusive: Google Cloud reshaping finance with agentic AI\n\nDiscussing Productivity\n\nPepperstone Crypto: Digital assets go mainstream as investors take control of financial future\n\nDiscussing BitCoin\n\nRecent Fintech News\nIT INDUSTRY\nFinTech Australia warns tax changes may hurt startups\n\nUncertainty over planned capital gains tax changes could deter startup funding and prompt founders, investors and talent to leave Australia.\n\nLast week\n\nOUTSOURCING\nCarta buys Avantia to launch legal platform for funds\n\nThe deal aims to speed routine legal and compliance work for private capital firms by linking it to fund administration and portfolio data.\n\nLast week\n\nRISK & COMPLIANCE\nWise adds family & group travel tools for Australians\n\nShared spending and children’s cards aim to ease overseas money stress for Australian travellers, as 67% reported anxiety on recent trips.\n\nThis month\n\nOPINION\nAI virtual data rooms are reshaping M&A due diligence\n\nDue diligence is speeding up as purpose-built AI data rooms cut manual review and help buyers and sellers handle complex transactions faster.\n\nThis month\n\nTAXATION\nDigital assets drive record growth in Australian SMSFs\n\nYounger investors and cryptocurrency demand helped push Australia’s SMSF sector to a record 33,224 net new funds last financial year.\n\nThis month\n\nPRODUCTIVITY\nAustralian sole traders embrace AI for daily business\n\nAustralian sole traders are using AI to cut admin time and boost output, with daily or weekly use now at 41 per cent, Hnry found.\n\nThis month\n\nCLOUD SERVICES\nANZ boosts Plus transfers with tracking & fraud checks\n\nCustomers can now track overseas payments in ANZ Plus, with near real-time transfers on some routes and extra scam protections added.\n\nThis month\n\nONLINE SHOPPING\nVisa adds Australian banks to AI payments programme\n\nAustralian banks are now trialling AI-led purchases under Visa's controls, as the payments group seeks to protect consent and spending limits.\n\nLast month\n\nMODERNISATION\nTCS & ASX go live with CHESS cash clearing upgrade\n\nThe upgrade puts Australia’s post-trade market on a new footing, with release 1 of CHESS now handling cash clearing and settlement in production.\n\nLast month\n\nSTOCK EXCHANGE\nASX, TCS put CHESS Release 1 into production for clearing\n\nAustralia’s market infrastructure overhaul takes a step forward as the new clearing platform goes live, with Release 2 now on the horizon.\n\nLast month\n\nDATA PROTECTION\nCDR reforms could add AUD $1.2 billion, study says\n\nEasier consent and wider bank access could lift Consumer Data Right use to more than 18 million Australians by 2035, the modelling says.\n\nLast month\n\nSMALL BUSINESS\nAnt International launches PayTo service for Australian SMEs\n\nAustralian exporters gain a real-time cash-flow boost as PayTo lets them top up World Accounts instantly, even on holidays.\n\nLast month\n\nDATA PROTECTION\nCommBank deploys AI to spot emerging fraud patterns\n\nThe bank’s defences may move faster as the system is meant to spot new scam patterns and turn them into blocking rules more quickly.\n\nLast month\n\nBITCOIN\nPepperstone Crypto: Digital assets go mainstream as investors take control of financial future\n\nClearer rules and institutional flows are making digital assets easier for Australians to trade, particularly younger investors seeking diversification.\n\nLast month\n\nDATA PROTECTION\nFinTech Australia names Finnies finalists for 10th year\n\nThe shortlist comes as the sector weighs new rules on payments, scams and data rights, with 160 finalists vying across 22 categories.\n\nLast month\n\nAUSTRALIAN DOLLAR\nMacropod lists Australian-dollar stablecoin AUDM on OKX\n\nAccess to a regulated Australian-dollar token widens as OKX Australia adds AUDM, targeting faster payments and settlement for users.\n\nLast month\n\nSOCIAL MEDIA\nPersona integrates ConnectID for privacy-first age checks\n\nAustralian platforms facing tougher age-check rules can now verify users through bank data, without collecting passports or licences.\n\nLast month\n\nPASSPORTS\nEntrust launches Australia-ready identity checks for AML\n\nAustralia's widened AML rules are pushing real estate, law and accounting firms to tighten onboarding checks before the reforms bite.\n\nLast month\n\nEFTPOS\nPayNuts broadens offer for SMEs as surcharging reforms loom\n\nA tougher fee regime is pushing the payments firm to offer SMEs more services, from POS and broadband to bookkeeping, beyond EFTPOS.\n\nLast month\n\nCONTACTLESS PAYMENTS\nPaymentology enters Australia via Change Financial deal\n\nThe tie-up gives fintechs and digital banks a quicker route into Australia’s fast-growing card and mobile payments market.\n\nLast month\n\nJob Moves\nCommBank appoints first Chief AI Scientist in Australia\n\nMove at Microsoft\n\nFinTech Australia appoints Xero policy chief Grace Gown\n\nMove at Xero\n\nOpenmarkets appoints David Jenkins to lead DeFi push\n\nMove at Bloomberg\n\nElula names Andrew Phillips as new Chief Revenue Officer\n\nMove at Freshworks\n\nZepto names Mariana Paun chief business resilience lead\n\nMove at Afterpay\n\nOpenmarkets boosts board ahead of planned Nasdaq listing\n\nMove at AMP\n\nEnterprize Tasmania names Brian Collins as new CEO\n\nMove at FinTech Australia\n\nConvera names Meaghan Riley Chief Commercial Officer\n\nMove at SAP\n\nDan Jovevski joins FinTech Australia board to drive open banking\n\nMove at FinTech Australia\n\nCoinbase Australia names Adam Judd COO ahead of regulatory shift\n\nMove at Macquarie University\n\nTop Players\nXero\nOracle\nMYOB\nOracle NetSuite\nVisa\nRelated Guides\nArtificial Intelligence\n→\nRisk & Compliance\n→\nMarketing Technologies\n→\nFinancial Systems\n→\nPayment Technologies\n→\nGet featured\n\nTalk to the TechDay team about editorial feature opportunities across the network\n\nContact us\n61 specialist tech sites.\n8 regions. One network.\n678,397\nPUBLISHED STORIES\n7\nAUSTRALIAN SITES\nHuman\nPOWERED\n20th\nyear of business\nGET THE LATEST FROM\nCFOtech Australia\nSUBSCRIBE\nFOLLOW US ON\nLinkedIn\nFOLLOW US ON\nX\nAUSTRALIAN\nFinTech\n\nTechnology news for CFOs & financial decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nIndustry\n\nIndustry insider news for technology resellers\n\nVisit\nMedia kit\nAUSTRALIAN\nCommerce\n\nTechnology news for digital commerce decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nConsumer tech\n\nConsumer technology news from the future\n\nVisit\nMedia kit\nAUSTRALIAN\nEnterprise\n\nTechnology news for CIOs & IT decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nCybersecurity\n\nTechnology news for CISOs & cybersecurity decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nTelecomms\n\nTelecommunications news for ICT decision-makers\n\nVisit\nMedia kit\nExplore other regions\nAsia\nCanada\nIndia\nIreland\nNew Zealand\nUnited Kingdom\nUnited States\nBrand guidelines\nContact us\nEditorial Calendar\nEditorial standards\nFAQs\nMedia kit\nOur team\nOur terms\nYOUTUBE\nRSS\n© 2026 TechDay, All rights reserved. Hosted on Plan B's Cloud Services. DMARC protection by PowerDMARC."
+}

@@ -1,0 +1,113 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 25,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "a quick blog post",
+            "href": "https://evanhahn.com/python-skip-header-csv-reader/"
+        },
+        {
+            "text": "how to disable ESLint for a single file",
+            "href": "https://evanhahn.com/disable-eslint-for-a-file/"
+        },
+        {
+            "text": "I wrote one",
+            "href": "https://evanhahn.com/understanding-express/"
+        },
+        {
+            "text": "Express in Action",
+            "href": "https://www.manning.com/books/express-in-action?utm_source=express-in-action&utm_medium=affiliate&utm_campaign=book_hahn_express_4_7_16&a_aid=express-in-action&a_bid=fe3fcff7"
+        },
+        {
+            "text": "an old JavaScript testing library",
+            "href": "https://evanhahn.com/how-do-i-jasmine/"
+        },
+        {
+            "text": "the standard size of a kilobyte",
+            "href": "https://evanhahn.com/how-big-is-a-kilobyte/"
+        },
+        {
+            "text": "the PNG file format",
+            "href": "https://evanhahn.com/worlds-smallest-png/"
+        },
+        {
+            "text": "why “👩🏾‍🌾” has a length of 7 in JavaScript",
+            "href": "https://evanhahn.com/javascript-string-lengths/"
+        },
+        {
+            "text": "how to compute a CRC32 checksum in Crystal",
+            "href": "https://evanhahn.com/crystal-compute-a-crc32-checksum/"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 2469,
+    "text_full": "Filling in the gaps of the internet\nby Evan Hahn, updated Dec 5, 2025 (originally posted Mar 12, 2025), tagged #reflection #culture\n\nHere’s a small philosophy I have about the internet:\n\nI believe that it’s my duty to publish the answer to previously-unanswered questions. That way, the next person who comes along has an easier time.\n\nFor example, I was once trying to figure out how to skip the first line of a CSV file in Python. When I did a web search for “python skip first line of CSV”, I couldn’t find the answer.\n\nAfter a few minutes, I figured it out myself. Then, I wrote a quick blog post explaining my solution…and now it’s one of the most popular posts on my site! Even though the post only took a few minutes to write, it’s been one of my most viewed over the last decade, (presumably) because so many people are trying to do the exact same thing.\n\nAnother post, showing how to disable ESLint for a single file, has been comparably visited. Same story: I figured out how to do something and wrote a few words about it. And now, a few times a year, someone DMs me telling me they came across my blog when trying to disable ESLint for a file.\n\nThese posts have even been turned into books! When I was learning Express.js, I couldn’t find a tutorial that explained the framework’s concepts, so I wrote one. I was later contacted by a publisher, and a couple of years later, Express in Action was printed. Something very similar happened for a tutorial on an old JavaScript testing library.\n\nI’ve published questions about the standard size of a kilobyte, the PNG file format, why “👩🏾‍🌾” has a length of 7 in JavaScript, and many more.\n\nOf course, this is a guideline, not a rule. Sometimes I don’t feel very confident in my answer and don’t want to publish bogus information. Sometimes I’m busy and don’t have time for a writeup, especially for more complex stuff. And sometimes, nobody cares—how to compute a CRC32 checksum in Crystal has not been a big hit; I might have wasted my time with that one.\n\nBut in general, I think I have a responsibility to fill in the gaps of the internet.\n\n“If there’s a book that you want to read, but it hasn’t been written yet, then you must write it.”\n\n— Toni Morrison\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

@@ -1,0 +1,65 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/action-controller-param-missing/error_hudeca835d7df0c0a8ba370826b1652777_85618_1500x0_resize_q75_h2_box_3.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "debugging",
+            "href": "https://piechowski.io/tags/debugging"
+        },
+        {
+            "text": "strong_params",
+            "href": "https://edgeapi.rubyonrails.org/classes/ActionController/StrongParameters.html"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "Migrating from Sprockets to Propshaft: Is It Worth It?",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        }
+    ],
+    "text_length": 1675,
+    "text_full": "Work With Me\nGithub\nBlog\nSolved: ActionController::ParameterMissing (param is missing or the value is empty)\n\nWhen using Ruby on Rails' strong_params with require, there is a chance the key doesn't exist. When this happens, an ActionController::ParameterMissing exception is thrown.\n\nAlly Piechowski · Jan 2, 2020 · 1 min read\nrails\nruby\ndebugging\n\nIn Ruby on Rails, strong_params are a necessity to work with ActionController parameters, but sometimes an exception of ActionController::ParameterMissing is thrown… Why?\n\nThe Code\nparams.require(:message).permit(:text, :author_id)\n\nThe Exception\n\nActionController::ParameterMissing (param is missing or the value is empty: message)\n\nThe Fix\n\nThe error is occurring because our params hash does not include the root key :message. We can diagnose this issue by utilizing params.inspect in either an interactive console or printing the output of certain commands.\n\nThe command I tend to use most to identify mishaps is params.inspect.\n\nFor example, the output of this command might be:\n\n<ActionController::Parameters {\"messages\"=>{\"text\"=>\"My Message\", \"author_id\"=>1337}} permitted: false>\n\n\nIn this case, it appears as though there is a typo in our view! The key was typed as messages rather than message. The fix is easy, change the view to submit message instead.\n\nRelated Articles\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nRuby 3.2 Is EOL: What You Actually Need to Do\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nMigrating from Sprockets to Propshaft: Is It Worth It?\nHow I Audit a Legacy Rails Codebase in the First Week\nLet's talk about your codebase.\nEmail\nMessage"
+}

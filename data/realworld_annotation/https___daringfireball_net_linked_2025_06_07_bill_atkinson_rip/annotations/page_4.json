@@ -1,0 +1,114 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://daringfireball.net/graphics/logos/",
+        "https://daringfireball.net/martini/images/workos.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 25,
+    "links": [
+        {
+            "text": "",
+            "href": "https://daringfireball.net/"
+        },
+        {
+            "text": "ARCHIVE",
+            "href": "https://daringfireball.net/archive/"
+        },
+        {
+            "text": "THE TALK SHOW",
+            "href": "https://daringfireball.net/thetalkshow/"
+        },
+        {
+            "text": "DITHERING",
+            "href": "https://dithering.fm/"
+        },
+        {
+            "text": "PROJECTS",
+            "href": "https://daringfireball.net/projects/"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://daringfireball.net/contact/"
+        },
+        {
+            "text": "COLOPHON",
+            "href": "https://daringfireball.net/colophon/"
+        },
+        {
+            "text": "FEEDS / SOCIAL",
+            "href": "https://daringfireball.net/feeds/"
+        },
+        {
+            "text": "SPONSORSHIP",
+            "href": "https://daringfireball.net/feeds/sponsors/"
+        },
+        {
+            "text": "",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "Markdown",
+            "href": "https://daringfireball.net/projects/markdown/"
+        },
+        {
+            "text": "SmartyPants",
+            "href": "https://daringfireball.net/projects/smartypants/"
+        },
+        {
+            "text": "Vesper",
+            "href": "https://itunes.apple.com/us/app/vesper/id655895325?mt=8"
+        },
+        {
+            "text": "it is now defunct",
+            "href": "https://daringfireball.net/2016/08/vesper_adieu"
+        },
+        {
+            "text": "Open URLs in Safari Tabs",
+            "href": "http://daringfireball.net/2010/08/open_urls_in_safari_tabs"
+        },
+        {
+            "text": "EscapeForJSON",
+            "href": "https://daringfireball.net/projects/mt-escapeforjson"
+        },
+        {
+            "text": "JSON feeds",
+            "href": "https://jsonfeed.org/"
+        },
+        {
+            "text": "BBColors",
+            "href": "https://daringfireball.net/projects/bbcolors/"
+        },
+        {
+            "text": "CSS Syntax Checker for BBEdit and TextWrangler",
+            "href": "https://daringfireball.net/projects/csschecker/"
+        },
+        {
+            "text": "Apache Configuration Language Module for BBEdit",
+            "href": "https://daringfireball.net/projects/apacheconfig/"
+        },
+        {
+            "text": "Movable Type Configuration Language Module for BBEdit",
+            "href": "https://daringfireball.net/projects/mtconfig/"
+        },
+        {
+            "text": "Tiger Details Report",
+            "href": "https://daringfireball.net/misc/2005/04/tiger_details"
+        },
+        {
+            "text": "bbdiff",
+            "href": "https://daringfireball.net/projects/bbdiff/"
+        },
+        {
+            "text": "Display Preferences",
+            "href": "https://daringfireball.net/preferences/"
+        }
+    ],
+    "text_length": 2270,
+    "text_full": "By JOHN GRUBER\n\nARCHIVE\nTHE TALK SHOW\nDITHERING\nPROJECTS\nCONTACT\nCOLOPHON\nFEEDS / SOCIAL\nSPONSORSHIP\n\nOpenAI, Anthropic, Cursor, and Perplexity chose WorkOS over building it themselves.\n\nMarkdown (v1.0.1)\n\nA text-to-HTML formatting syntax for web writers, implemented as a plug-in for Movable Type, Blosxom, and BBEdit. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).\n\nSmartyPants (v1.5.1)\n\nA plug-in for Movable Type, Blosxom, and BBEdit that provides smart quotes and other typographic goodies.\n\nVesper (v2.0)\n\nVesper was a simple and elegant tool for collecting notes, ideas, things to do — anything you want to remember. Vesper lets you use tags to group related items into playlist-like collections, and now offers fast, reliable cloud-based syncing. Alas, it is now defunct.\n\nOpen URLs in Safari Tabs\n\nA Mac OS X service that takes as input the text selection in the frontmost app. Every URL within the selected text is opened in a tab in one new window in Safari.\n\nEscapeForJSON\n\nA plug-in for Movable Type that escapes strings for JSON. Useful when creating templates for JSON feeds.\n\nBBColors (v1.0.1)\n\nA command-line tool for saving and loading text color schemes for BBEdit and TextWrangler. Obsoleted by the built-in color scheme preferences in BBEdit 10 or later.\n\nCSS Syntax Checker for BBEdit and TextWrangler (v1.0.0)\n\nA combination of Perl and AppleScript that allows you to syntax-check CSS files using the W3C’s CSS Validation Service.\n\nApache Configuration Language Module for BBEdit (v1.0.7)\n\nSyntax-coloring language module for Apache configuration files, for BBEdit 8.0 or later.\n\nMovable Type Configuration Language Module for BBEdit (v1.0.2)\n\nSyntax-coloring language module for Movable Type configuration files (‘mt.cfg’), for BBEdit 8.0 or later.\n\nTiger Details Report\n\nNotes, comments, and observations regarding changes and additions to Mac OS X 10.4.\n\nbbdiff (v1.1)\n\nCommand-line interface to BBEdit’s Find Differences command on Mac OS X. (Obsoleted by BBEdit 8.0's official ‘bbdiff’ tool (which is not based on mine), but some people still prefer using this script.)\n\n \n\nDisplay Preferences\n\nCopyright © 2002–2026 The Daring Fireball Company LLC."
+}

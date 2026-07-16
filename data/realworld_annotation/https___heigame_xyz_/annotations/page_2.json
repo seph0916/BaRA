@@ -1,0 +1,29 @@
+{
+    "image_count": 5,
+    "images": [
+        "https://www.heigame.xyz/static/images/logo.png",
+        "https://www.heigame.xyz/static/images/search.png",
+        "https://www.heigame.xyz/static/images/search-icon.png",
+        "https://www.heigame.xyz/static/images/close2.png",
+        "https://www.heigame.xyz/static/images/back.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 3,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.heigame.xyz/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.heigame.xyz/privacy/privacy.html"
+        },
+        {
+            "text": "Agreement",
+            "href": "https://www.heigame.xyz/privacy/agreement.html"
+        }
+    ],
+    "text_length": 63,
+    "text_full": "Record\nCopyright © 2024 All rights Reserved\nPrivacy ｜ Agreement"
+}

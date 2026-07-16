@@ -1,0 +1,443 @@
+{
+    "image_count": 63,
+    "images": [
+        "https://addyosmani.com/press/img/thumbnails/55.jpg",
+        "https://addyosmani.com/press/img/thumbnails/31.jpg",
+        "https://addyosmani.com/press/img/thumbnails/1.jpg",
+        "https://addyosmani.com/press/img/thumbnails/2.jpg",
+        "https://addyosmani.com/press/img/thumbnails/3.jpg",
+        "https://addyosmani.com/press/img/thumbnails/4.jpg",
+        "https://addyosmani.com/press/img/thumbnails/5.jpg",
+        "https://addyosmani.com/press/img/thumbnails/6.jpg",
+        "https://addyosmani.com/press/img/thumbnails/7.jpg",
+        "https://addyosmani.com/press/img/thumbnails/8.jpg",
+        "https://addyosmani.com/press/img/thumbnails/9.jpg",
+        "https://addyosmani.com/press/img/thumbnails/10.jpg",
+        "https://addyosmani.com/press/img/thumbnails/11.jpg",
+        "https://addyosmani.com/press/img/thumbnails/12.jpg",
+        "https://addyosmani.com/press/img/thumbnails/13.jpg",
+        "https://addyosmani.com/press/img/thumbnails/14.jpg",
+        "https://addyosmani.com/press/img/thumbnails/15.jpg",
+        "https://addyosmani.com/press/img/thumbnails/16.jpg",
+        "https://addyosmani.com/press/img/thumbnails/17.jpg",
+        "https://addyosmani.com/press/img/thumbnails/18.jpg",
+        "https://addyosmani.com/press/img/thumbnails/19.jpg",
+        "https://addyosmani.com/press/img/thumbnails/20.jpg",
+        "https://addyosmani.com/press/img/thumbnails/21.jpg",
+        "https://addyosmani.com/press/img/thumbnails/22.jpg",
+        "https://addyosmani.com/press/img/thumbnails/23.jpg",
+        "https://addyosmani.com/press/img/thumbnails/24.jpg",
+        "https://addyosmani.com/press/img/thumbnails/25.jpg",
+        "https://addyosmani.com/press/img/thumbnails/26.jpg",
+        "https://addyosmani.com/press/img/thumbnails/27.jpg",
+        "https://addyosmani.com/press/img/thumbnails/28.jpg",
+        "https://addyosmani.com/press/img/thumbnails/29.jpg",
+        "https://addyosmani.com/press/img/thumbnails/30.jpg",
+        "https://addyosmani.com/press/img/thumbnails/32.jpg",
+        "https://addyosmani.com/press/img/thumbnails/33.jpg",
+        "https://addyosmani.com/press/img/thumbnails/34.jpg",
+        "https://addyosmani.com/press/img/thumbnails/35.jpg",
+        "https://addyosmani.com/press/img/thumbnails/36.jpg",
+        "https://addyosmani.com/press/img/thumbnails/37.jpg",
+        "https://addyosmani.com/press/img/thumbnails/38.jpg",
+        "https://addyosmani.com/press/img/thumbnails/39.jpg",
+        "https://addyosmani.com/press/img/thumbnails/40.jpg",
+        "https://addyosmani.com/press/img/thumbnails/41.jpg",
+        "https://addyosmani.com/press/img/thumbnails/42.jpg",
+        "https://addyosmani.com/press/img/thumbnails/43.jpg",
+        "https://addyosmani.com/press/img/thumbnails/44.jpg",
+        "https://addyosmani.com/press/img/thumbnails/45.jpg",
+        "https://addyosmani.com/press/img/thumbnails/46.jpg",
+        "https://addyosmani.com/press/img/thumbnails/47.jpg",
+        "https://addyosmani.com/press/img/thumbnails/48.jpg",
+        "https://addyosmani.com/press/img/thumbnails/49.jpg",
+        "https://addyosmani.com/press/img/thumbnails/50.jpg",
+        "https://addyosmani.com/press/img/thumbnails/51.jpg",
+        "https://addyosmani.com/press/img/thumbnails/52.jpg",
+        "https://addyosmani.com/press/img/thumbnails/53.jpg",
+        "https://addyosmani.com/press/img/thumbnails/54.jpg",
+        "https://addyosmani.com/press/img/GOOG_1.jpg",
+        "https://addyosmani.com/press/img/GOOG_2.jpg",
+        "https://addyosmani.com/press/img/GOOG_3.jpg",
+        "https://addyosmani.com/press/img/GOOG_4.jpg",
+        "https://addyosmani.com/press/img/GOOG_5.jpg",
+        "https://addyosmani.com/press/img/GOOG_6.jpg",
+        "https://addyosmani.com/press/img/GOOG_7.jpg",
+        "https://addyosmani.com/press/"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 92,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "Software Engineer",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Google Cloud AI",
+            "href": "https://cloud.google.com/ai"
+        },
+        {
+            "text": "Gemini",
+            "href": "https://gemini.addy.ie/"
+        },
+        {
+            "text": "Chrome",
+            "href": "https://www.google.com/chrome/"
+        },
+        {
+            "text": "Google DeepMind",
+            "href": "https://deepmind.google/"
+        },
+        {
+            "text": "previously",
+            "href": "https://golden.com/wiki/Addy_Osmani_(software_engineer)-REKEB86"
+        },
+        {
+            "text": "author",
+            "href": "https://g.co/kgs/t9AVE7"
+        },
+        {
+            "text": "books",
+            "href": "https://store.addy.ie/"
+        },
+        {
+            "text": "Learning JavaScript Design Patterns",
+            "href": "https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/"
+        },
+        {
+            "text": "Leading Effective Engineering Teams",
+            "href": "https://leet.addy.ie/"
+        },
+        {
+            "text": "Stoic Mind",
+            "href": "https://stoic.im/"
+        },
+        {
+            "text": "Image Optimization",
+            "href": "https://www.smashingmagazine.com/printed-books/image-optimization/"
+        },
+        {
+            "text": "apps",
+            "href": "https://apps.addy.ie/"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "TikTok",
+            "href": "https://tiktok.com/@vvoicemotivation"
+        },
+        {
+            "text": "talks",
+            "href": "https://www.youtube.com/playlist?list=PLVUliVBcvz1lKS9-rcPFFXkwGOj_YX_-5"
+        },
+        {
+            "text": "blog",
+            "href": "https://addyosmani.com/blog/"
+        },
+        {
+            "text": "Substack",
+            "href": "https://substack.com/@addyosmani"
+        },
+        {
+            "text": "LeadDev",
+            "href": "https://leaddev.com/community/addy-osmani"
+        },
+        {
+            "text": "here",
+            "href": "https://golden.com/wiki/Addy_Osmani_(software_engineer)-REKEB86"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/55.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/31.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/1.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/2.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/3.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/4.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/5.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/6.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/7.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/8.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/9.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/10.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/11.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/12.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/13.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/14.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/15.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/16.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/17.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/18.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/19.png"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/20.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/21.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/22.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/23.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/24.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/25.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/26.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/27.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/28.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/29.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/30.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/32.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/33.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/34.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/35.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/36.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/37.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/38.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/39.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/40.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/41.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/42.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/43.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/44.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/45.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/46.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/47.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/48.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/49.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/50.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/51.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/52.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/53.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/54.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/GOOG_1.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/GOOG_2.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/GOOG_3.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/GOOG_4.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/GOOG_5.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/GOOG_6.jpg"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/press/img/GOOG_7.jpg"
+        },
+        {
+            "text": "Download",
+            "href": "https://addyosmani.com/press/#"
+        }
+    ],
+    "text_length": 2917,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nPress\n\nIf you are a print or online magazine, a conference or otherwise, please feel free to use the below for articles or interviews.\n\nBiography\nSHORTER\n\nAddy Osmani is a director at Google Cloud AI, focused on helping developers and businesses succeed with Gemini, Vertex AI, ADK, and enterprise AI. After nearly 14 years leading Chrome developer experiences, he now bridges Google DeepMind, engineering, product, and developer relations teams for Cloud AI.\n\nCopy\nLONGER\nAddy Osmani is an Irish Software Engineer and leader currently working as a director at Google Cloud AI, focused on helping developers and businesses succeed with Gemini, Vertex AI, and the Agent Development Kit (ADK). After nearly 14 years leading developer experiences in Chrome, where he worked on DevTools, Lighthouse, and Core Web Vitals, he now bridges Google DeepMind, engineering, product, go-to-market, and developer relations teams. A developer for 25+ years at Google, he is passionate about AI-assisted engineering and developer tools. He previously worked on Fortune 500 sites. Addy is the author of a number of books including Learning JavaScript Design Patterns, Leading Effective Engineering Teams, Stoic Mind and Image Optimization. You can try his recent apps. You can find him on LinkedIn, Twitter or TikTok. He's given over 175 talks worldwide. You can find Addy's writing on his blog, Substack and on LeadDev.\nCopy\n\nA community contributed profile on Addy can be found here.\n\nPress Photos\n\nFeel free to use the photography below in media. All photos are licensed under Creative Commons for reuse.\n\n2025 - GOOGLE, SVL\n2024 - ZARA SHOOT\n2023 - CASUAL\n2023 - GOOGLE CHROME\n2023 - STUDIO\nFORMAL\n2021\n2020\n2020 PHOTOSHOOT - CYAN\n2020 PHOTOSHOOT - PINK\n2020 PHOTOSHOOT - CYAN\n2020 PHOTOSHOOT - CYAN\n2020 PHOTOSHOOT - YELLOW\n2019 - CHROME DEV SUMMIT\n2019 - COST OF JAVASCRIPT\n2022 - SMASHINGCONF\n2017 - CHROME DEV SUMMIT\n2017 - CHROME DEV SUMMIT\n2019 - GOOGLE I/O\n2019 - GOOGLE I/O\n2019 - GOOGLE I/O\n2019 - GOOGLE I/O\n2018 - GOOGLE I/O\n2018 - GOOGLE I/O\n2018 - CHROME DEV SUMMIT\n2017 - CHROME DEV SUMMIT\n2017 - CHROME DEV SUMMIT\n2016 - CHROME DEV SUMMIT\n2016 - CHROME DEV SUMMIT\n2015 - GOOGLE I/O\n2015 - GOOGLE I/O\n2014 - GOOGLE I/O\nGoogle I/O 2025 Keynote\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n2025 - GOOGLE I/O\n\nImages of Addy Osmani at Google offices.\n\nAT GOOGLE\nAT GOOGLE\nAT GOOGLE\nAT GOOGLE\nAT GOOGLE\nAT GOOGLE\nAT GOOGLE\nContact\n\nFor press inquiries, please reach out via email at hi(at)addyosmani(dot)com."
+}

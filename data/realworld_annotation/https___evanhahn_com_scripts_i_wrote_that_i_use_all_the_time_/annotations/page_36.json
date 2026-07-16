@@ -1,0 +1,185 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 43,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Make ZIP files smaller with ZIP Shrinker",
+            "href": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Open Link in Unloaded Tab, a little Firefox extension",
+            "href": "https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/"
+        },
+        {
+            "text": "#firefox",
+            "href": "https://evanhahn.com/tags/firefox/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "png-cmp: like cmp for PNGs",
+            "href": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#go",
+            "href": "https://evanhahn.com/tags/go/"
+        },
+        {
+            "text": "Offline command line translation with TranslateGemma + Ollama",
+            "href": "https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Introducing gzpeek, a tool to parse gzip metadata",
+            "href": "https://evanhahn.com/introducing-gzpeek/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#zig",
+            "href": "https://evanhahn.com/tags/zig/"
+        },
+        {
+            "text": "I made a little audio speed calculator",
+            "href": "https://evanhahn.com/playback-speed-calculator/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "Import Pinboard bookmarks into Standard Notes",
+            "href": "https://evanhahn.com/import-pinboard-bookmarks-into-standard-notes/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "Resources from my 5th semester at the University of Michigan",
+            "href": "https://evanhahn.com/resources-from-my-5th-semester/"
+        },
+        {
+            "text": "#university-of-michigan",
+            "href": "https://evanhahn.com/tags/university-of-michigan/"
+        },
+        {
+            "text": "#study-guide",
+            "href": "https://evanhahn.com/tags/study-guide/"
+        },
+        {
+            "text": "#c",
+            "href": "https://evanhahn.com/tags/c/"
+        },
+        {
+            "text": "#c++",
+            "href": "https://evanhahn.com/tags/c++/"
+        },
+        {
+            "text": "#algorithm",
+            "href": "https://evanhahn.com/tags/algorithm/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#coffeescript",
+            "href": "https://evanhahn.com/tags/coffeescript/"
+        }
+    ],
+    "text_length": 791,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n8 posts tagged #tool\n2026\nMake ZIP files smaller with ZIP Shrinker\n2026-05-16 #compression #tool #release\nOpen Link in Unloaded Tab, a little Firefox extension\n2026-05-13 #firefox #release #tool\npng-cmp: like cmp for PNGs\n2026-05-03 #png #release #tool #go\nOffline command line translation with TranslateGemma + Ollama\n2026-05-01 #tool #release #ai #ollama\nIntroducing gzpeek, a tool to parse gzip metadata\n2026-02-26 #compression #experiment #release #tool #zig\n2025\nI made a little audio speed calculator\n2025-12-03 #release #tool\n2017\nImport Pinboard bookmarks into Standard Notes\n2017-11-24 #tool #release\n2012\nResources from my 5th semester at the University of Michigan\n2012-12-17 #university-of-michigan #study-guide #c #c++ #algorithm #tool #coffeescript"
+}

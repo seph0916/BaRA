@@ -1,0 +1,258 @@
+{
+    "image_count": 6,
+    "images": [
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-light.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=089d09358d8f5a3e3815861a7419a616",
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-dark.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=2946b82b1620bb2c7839f85d7e2e113b",
+        "https://mintcdn.com/turso/7mjM7fXIfeZ8ZwNC/images/turso-banner.png?fit=max&auto=format&n=7mjM7fXIfeZ8ZwNC&q=85&s=e06c9ad0e66501d523ed87aaecefa6ba",
+        "https://mintcdn.com/turso/7mjM7fXIfeZ8ZwNC/images/turso-banner.png?w=1100&fit=max&auto=format&n=7mjM7fXIfeZ8ZwNC&q=85&s=40068eeca4870fb12ef9e5cbb07e28cb",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=da84b43d-c6bf-40fb-8ac6-57ee52d41e07&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=44ffca3e-0a2c-411d-9506-4b9391b27eb9&pt=Welcome%20to%20Turso%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fintroduction&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342064327.467345385715471058&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=da84b43d-c6bf-40fb-8ac6-57ee52d41e07&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=44ffca3e-0a2c-411d-9506-4b9391b27eb9&pt=Welcome%20to%20Turso%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fintroduction&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342064327.467345385715471058&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 60,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://docs.turso.tech/introduction#content-area"
+        },
+        {
+            "text": "Turso home page",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://turso.tech/app"
+        },
+        {
+            "text": "tursodatabase/turso18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "tursodatabase/turso\n18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Turso Database (beta)",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Turso Cloud",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "AgentFS (beta)",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Turso Homepage",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/tursodb/quickstart"
+        },
+        {
+            "text": "Change Data Capture",
+            "href": "https://docs.turso.tech/tursodb/cdc"
+        },
+        {
+            "text": "Concurrent Writes",
+            "href": "https://docs.turso.tech/tursodb/concurrent-writes"
+        },
+        {
+            "text": "Encryption",
+            "href": "https://docs.turso.tech/tursodb/encryption"
+        },
+        {
+            "text": "Vector Search",
+            "href": "https://docs.turso.tech/guides/vector-search"
+        },
+        {
+            "text": "Agent Databases",
+            "href": "https://docs.turso.tech/guides/agent-databases"
+        },
+        {
+            "text": "AI Memory",
+            "href": "https://docs.turso.tech/guides/ai-memory"
+        },
+        {
+            "text": "Code Indexing",
+            "href": "https://docs.turso.tech/guides/code-indexing"
+        },
+        {
+            "text": "Content Caching",
+            "href": "https://docs.turso.tech/guides/content-caching"
+        },
+        {
+            "text": "Getting Started",
+            "href": "https://docs.turso.tech/sql-reference/cli/getting-started"
+        },
+        {
+            "text": "Command-Line Options",
+            "href": "https://docs.turso.tech/sql-reference/cli/command-line-options"
+        },
+        {
+            "text": "Shell Commands",
+            "href": "https://docs.turso.tech/sql-reference/cli/shell-commands"
+        },
+        {
+            "text": "Compatibility",
+            "href": "https://docs.turso.tech/sql-reference/compatibility"
+        },
+        {
+            "text": "Data Types",
+            "href": "https://docs.turso.tech/sql-reference/data-types"
+        },
+        {
+            "text": "Expressions",
+            "href": "https://docs.turso.tech/sql-reference/expressions"
+        },
+        {
+            "text": "Multi-Process Access",
+            "href": "https://docs.turso.tech/sql-reference/multiprocess-access"
+        },
+        {
+            "text": "Extensions",
+            "href": "https://docs.turso.tech/sql-reference/extensions"
+        },
+        {
+            "text": "PRAGMAs",
+            "href": "https://docs.turso.tech/sql-reference/pragmas"
+        },
+        {
+            "text": "Experimental Features",
+            "href": "https://docs.turso.tech/sql-reference/experimental-features"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Get Started",
+            "href": "https://docs.turso.tech/introduction#get-started"
+        },
+        {
+            "text": "Turso Database Features",
+            "href": "https://docs.turso.tech/introduction#turso-database-features"
+        },
+        {
+            "text": "Join Our Communities",
+            "href": "https://docs.turso.tech/introduction#join-our-communities"
+        },
+        {
+            "text": "Follow Us",
+            "href": "https://docs.turso.tech/introduction#follow-us"
+        },
+        {
+            "text": "https://docs.turso.tech/llms.txt",
+            "href": "https://docs.turso.tech/llms.txt"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/introduction#get-started"
+        },
+        {
+            "text": "Turso Database (Embedded)\nAn embedded database engine that goes anywhere. Offline, in the browser, or on-device.",
+            "href": "https://docs.turso.tech/tursodb/quickstart"
+        },
+        {
+            "text": "AgentFS\nFilesystem and state SDK for AI agents with built-in auditability.",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Turso Cloud\nFully managed database platform with branching, analytics, backups,and more.",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "How Well You Know Turso?\nTest your knowledge of Turso and share your results.",
+            "href": "https://www.howwellyouknow.com/play/turso"
+        },
+        {
+            "text": "Turso Database",
+            "href": "https://docs.turso.tech/tursodb/quickstart"
+        },
+        {
+            "text": "Turso Sync",
+            "href": "https://docs.turso.tech/sync/usage"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/introduction#turso-database-features"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/introduction#join-our-communities"
+        },
+        {
+            "text": "Turso Database Core Developers\nJoin the core development community for Turso Database discussions",
+            "href": "https://discord.gg/jgjmyYgHwB"
+        },
+        {
+            "text": "Turso Community\nConnect with users and get support for Turso Cloud",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/introduction#follow-us"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase"
+        },
+        {
+            "text": "X (Twitter)",
+            "href": "https://twitter.com/tursodatabase"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "Suggest edits",
+            "href": "https://github.com/tursodatabase/turso-docs/edit/main/introduction.mdx"
+        },
+        {
+            "text": "Raise issue",
+            "href": "https://github.com/tursodatabase/turso-docs/issues/new?title=Issue%20on%20docs&body=Path:%20/introduction"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/tursodb/quickstart"
+        },
+        {
+            "text": "discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "github",
+            "href": "https://github.com/tursodatabase"
+        },
+        {
+            "text": "twitter",
+            "href": "https://twitter.com/tursodatabase"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "Powered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform",
+            "href": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=turso"
+        }
+    ],
+    "text_length": 2764,
+    "text_full": "Skip to main content\nTurso home page\nSearch...\nCtrl K\nDashboard\ntursodatabase/turso\n18,893\nTurso Database (beta)\nTurso Cloud\nAgentFS (beta)\nTurso Homepage\nDiscord\nGitHub\nGetting Started\nIntroduction\nQuickstart\nConnect\nFundamentals\nChange Data Capture\nConcurrent Writes\nEncryption\nVector Search\nSync\nAI and Agents\nAgent Databases\nAI Memory\nCode Indexing\nContent Caching\nCLI Reference\nGetting Started\nCommand-Line Options\nShell Commands\nSQL Reference\nCompatibility\nData Types\nExpressions\nStatements\nFunctions\nMulti-Process Access\nExtensions\nPRAGMAs\nExperimental Features\nChangelog\nChangelog\nOn this page\nGet Started\nTurso Database Features\nJoin Our Communities\nFollow Us\nGetting Started\nWelcome to Turso\n\nThe small database to power your big dreams in the age of AI.\n\nCopy page\nDocumentation Index\n\nFetch the complete documentation index at: https://docs.turso.tech/llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nTurso is the small database to power your big dreams in the age of AI. The most efficient way to build for traditional applications, smart devices, embodied AI, agents, and anything in between.\n​\nGet Started\nChoose your path to get started with Turso:\nTurso Database (Embedded)\nAn embedded database engine that goes anywhere. Offline, in the browser, or on-device.\nAgentFS\nFilesystem and state SDK for AI agents with built-in auditability.\nTurso Cloud\nFully managed database platform with branching, analytics, backups,and more.\nHow Well You Know Turso?\nTest your knowledge of Turso and share your results.\nNeed sync? If you want local reads and writes with push/pull sync to the cloud, start with Turso Database and Turso Sync.\n​\nTurso Database Features\nThe next evolution of SQLite, built for modern applications:\nVector Search\nNative similarity search for AI apps and RAG workflows, no extensions required\nAsync Design\nModern async primitives such as Linux io_uring to keep your apps responsive\nSQLite Compatible\nFully backwards compatible with SQLite, but built for the next generation\nConcurrent Writes\nMultiple writers, zero conflicts, without locking\nRicher Type System\nRicher and stricter type system, including User-Defined Types (experimental)\nOpen Contribution\nTake your seat at the table and contribute to the next evolution of SQLite\n​\nJoin Our Communities\nConnect with developers and the Turso team:\nTurso Database Core Developers\nJoin the core development community for Turso Database discussions\nTurso Community\nConnect with users and get support for Turso Cloud\n​\nFollow Us\nGitHub\nX (Twitter)\nLinkedIn\n\nWas this page helpful?\n\nYes\nNo\nSuggest edits\nRaise issue\nQuickstart\ndiscord\ngithub\ntwitter\nlinkedin\nPowered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform"
+}

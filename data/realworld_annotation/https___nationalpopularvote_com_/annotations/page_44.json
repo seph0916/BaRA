@@ -1,0 +1,810 @@
+{
+    "image_count": 10,
+    "images": [
+        "https://www.nationalpopularvote.com/sites/all/themes/npv/logo.png",
+        "https://www.nationalpopularvote.com/sites/default/files/202305/hb4156-hearing-with-vote-2023-6-6.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/hildenbrand-testifying-2018-9-6.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/wolfram-testifying-2018-9-6.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/haynes-pearson-testifying-2018-9-6.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/rosenstiel-testifying-2018-9-6-another.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/wolfram-testifying-picture-2018-9-6.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/pearson-testifying-house-picture-2018-9-6.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/haynes-testifying-house-picture-2018-9-6.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/rosenstiel-testifying-house-picture-2018-9-6.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 197,
+    "links": [
+        {
+            "text": "Search",
+            "href": "https://www.nationalpopularvote.com/search"
+        },
+        {
+            "text": "",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "DONATE",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/mi#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/mi#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/mi#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Books",
+            "href": "https://www.nationalpopularvote.com/books"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Donate",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Electoral College",
+            "href": "https://www.nationalpopularvote.com/electoral-college"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Get Email Updates",
+            "href": "https://www.nationalpopularvote.com/get-email-updates"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Map",
+            "href": "https://www.nationalpopularvote.com/state-status"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/mi#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "News History",
+            "href": "https://www.nationalpopularvote.com/news-history"
+        },
+        {
+            "text": "News Stories",
+            "href": "https://www.nationalpopularvote.com/news"
+        },
+        {
+            "text": "Newsletters",
+            "href": "https://www.nationalpopularvote.com/newsletters"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "Store",
+            "href": "https://www.zazzle.com/store/nationalpopularvote"
+        },
+        {
+            "text": "Text and Explanation of Bill",
+            "href": "https://www.nationalpopularvote.com/bill-text"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/state/mi#"
+        },
+        {
+            "text": "Introduction: What It Is - Why It's Needed",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Myths About Big Cities",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-2"
+        },
+        {
+            "text": "Myths About Small States",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-3"
+        },
+        {
+            "text": "Myths About Fraud",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-4"
+        },
+        {
+            "text": "Myths About Constitutionality",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-5"
+        },
+        {
+            "text": "Myths About Big States and Big Counties",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-6"
+        },
+        {
+            "text": "Myths About Post Election Rule Changes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-7"
+        },
+        {
+            "text": "Myths About Interstate Compacts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-8"
+        },
+        {
+            "text": "Myths About Faithless Electors",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-9"
+        },
+        {
+            "text": "Myths About 15% Presidents",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-10"
+        },
+        {
+            "text": "Myths about Missing Votes and Hurricanes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-11"
+        },
+        {
+            "text": "Myths About Single-State Veto (Achilles’ Heel)",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-12"
+        },
+        {
+            "text": "Myths About Recounts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-13"
+        },
+        {
+            "text": "Myths About Missing Vote Counts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-14"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Write Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        },
+        {
+            "text": "Send emails to your Michigan legislators",
+            "href": "http://www.national-popular-vote.com/Campaign/MI/MI0"
+        },
+        {
+            "text": "Send a letter-to-editor",
+            "href": "https://www.nationalpopularvote.com/writing-letter-editor-michigan"
+        },
+        {
+            "text": "National Popular Vote’s Facebook",
+            "href": "https://www.facebook.com/nationalpopularvoteinc"
+        },
+        {
+            "text": "National Popular Vote’s Twitter",
+            "href": "https://twitter.com/natlpopularvote"
+        },
+        {
+            "text": "status of HB4156",
+            "href": "http://www.legislature.mi.gov/(S(yosvz0gwd43icd2etv4104yx))/mileg.aspx?page=GetObject&objectname=2023-HB-4156"
+        },
+        {
+            "text": "National popular vote winner would get Michigan electoral votes under bills",
+            "href": "https://www.crainsdetroit.com/politics-policy/national-popular-vote-plan-advances-michigan-legislature"
+        },
+        {
+            "text": "Michigan House Elections Committee advances national popular vote legislation",
+            "href": "https://michiganadvance.com/2023/06/06/michigan-house-elections-committee-advances-national-popular-vote-legislation/"
+        },
+        {
+            "text": "video of hearing",
+            "href": "https://house.mi.gov/VideoArchivePlayer?video=HELEC-030723.mp4"
+        },
+        {
+            "text": "status of HB4156",
+            "href": "http://www.legislature.mi.gov/(S(yosvz0gwd43icd2etv4104yx))/mileg.aspx?page=GetObject&objectname=2023-HB-4156"
+        },
+        {
+            "text": "status of SB126",
+            "href": "http://www.legislature.mi.gov/(S(adzd2l3i5k4j35hceb5afztw))/mileg.aspx?page=GetObject&objectname=2023-SB-0126"
+        },
+        {
+            "text": "Nolan Finley column in Detroit News",
+            "href": "https://www.detroitnews.com/story/opinion/columnists/nolan-finley/2023/02/28/finley-michigan-to-weigh-switch-to-national-popular-vote/69951285007/"
+        },
+        {
+            "text": "Michigan lawmakers restart bipartisan effort to enact National Popular Vote",
+            "href": "https://www.mlive.com/public-interest/2023/03/michigan-lawmakers-restart-bipartisan-effort-to-enact-national-popular-vote.html"
+        },
+        {
+            "text": "Representative Matt Koleszar",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/koleszar-press-release-2021-9-28.pdf"
+        },
+        {
+            "text": "HB5343",
+            "href": "http://www.legislature.mi.gov/(S(ig2wwuf54e3kpvqbnou3b3ed))/mileg.aspx?page=getObject&objectName=2021-HB-5343"
+        },
+        {
+            "text": "Yes On National Popular Vote campaign",
+            "href": "https://www.yesonnationalpopularvote.com/"
+        },
+        {
+            "text": "Dem, GOP heavyweights launch ballot drive to decide presidency by popular vote",
+            "href": "https://www.freep.com/story/news/politics/elections/2021/09/27/michigan-presidency-popular-vote/5880810001/"
+        },
+        {
+            "text": "Campaign launching in Michigan to pick president by popular vote",
+            "href": "https://www.detroitnews.com/story/news/politics/2021/09/27/campaign-michigan-pick-president-united-states-popular-vote-electoral-college/5883574001/"
+        },
+        {
+            "text": "Ballot drive would join Michigan with national popular vote pact",
+            "href": "https://www.abc12.com/2021/09/27/ballot-drive-would-join-michigan-with-national-popular-vote-pact/"
+        },
+        {
+            "text": "Video of press conference",
+            "href": "https://us06web.zoom.us/rec/share/dAqR9X9Kr2Oy1yyXEKL2sinfUNqXteMf4KqBTJLxbjeGja_m122IRJpB-6XDzOs6.82OgVGWdaYkPPlK7"
+        },
+        {
+            "text": "One-page description",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/yonpv-1-pager-v5-2021-9-27.pdf"
+        },
+        {
+            "text": "SB1117",
+            "href": "http://legislature.mi.gov/doc.aspx?2018-SB-1117"
+        },
+        {
+            "text": "SB1117",
+            "href": "http://legislature.mi.gov/doc.aspx?2018-SB-1117"
+        },
+        {
+            "text": "Detroit News editorial \"Michigan should pass National Popular Vote\"",
+            "href": "https://www.detroitnews.com/story/opinion/editorials/2018/09/09/michigan-should-pass-national-popular-vote/1211021002/"
+        },
+        {
+            "text": "CBS TV news story",
+            "href": "https://www.wlns.com/news/michigan/skubick-lawmakers-look-to-increase-michigan-influence-in-presidential-elections/1423572028"
+        },
+        {
+            "text": "Rick Albin report on WOOD TV",
+            "href": "https://www.woodtv.com/news/elections/plan-would-give-national-popular-vote-more-power/1454402158"
+        },
+        {
+            "text": "Testimony of Hillsdale College Prof. Gary Wolfram",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/wolfram-testimony-2018-9-6.pdf"
+        },
+        {
+            "text": "Testimony of former ALEC national chair and California state Senator Ray Haynes",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/haynes-testimony-2018-9-6.pdf"
+        },
+        {
+            "text": "Testimony of Vermont State Senator Christopher Pearson",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/pearson-michigan-prepared-testimony-2018-9-6.pdf"
+        },
+        {
+            "text": "Op-ed in Detroit News by Saul Anuzis",
+            "href": "https://www.detroitnews.com/story/opinion/2018/09/21/national-popular-vote-makes-each-vote-count/1359741002/"
+        },
+        {
+            "text": "MIRS article on hearings",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/mirs-capitol-capsule-see-pages-11-13-2018-9-6.pdf"
+        },
+        {
+            "text": "Former Congressman John Conyers op-ed",
+            "href": "https://www.freep.com/story/opinion/contributors/2016/12/15/americans-deserve-better-than-electoral-college/95483508/"
+        },
+        {
+            "text": "Former Republican National Committee Chair Michael Steele and Former Michigan GOP Chair Saul Anuzis",
+            "href": "https://www.politico.com/magazine/story/2019/08/28/gop-national-popular-vote-227915/"
+        },
+        {
+            "text": "HB6323",
+            "href": "http://legislature.mi.gov/doc.aspx?2018-HB-6323"
+        },
+        {
+            "text": "HB6323",
+            "href": "http://legislature.mi.gov/doc.aspx?2018-HB-6323"
+        },
+        {
+            "text": "editorial in Detroit News",
+            "href": "https://www.detroitnews.com/story/opinion/editorials/2018/04/28/elect-presidents-voting-system-electoral-popular/34367481/"
+        },
+        {
+            "text": "survey of 800 Michigan voters",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/michigan-poll-2011-3-26.pdf"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        }
+    ],
+    "text_length": 7695,
+    "text_full": "Toggle navigation\nSearch\nDONATE\nHome\n \nExplanation\n \nAnswering Myths\n \nVideos\n \nEmail Your Legislator\n \nLetter-to-Editor\n \nVolunteer\n \nMedia\n \nAbout\n \nEvents\n\nState status: AK AL AR AZ CA CO CT DC DE FL GA HI IA ID IL IN KS KY LA MA MD ME MI MN MO MS MT NC ND NE NH NJ NM NV NY OH OK OR PA RI SC SD TN TX UT VA VT WA WI WV WY\n\nMichigan\nSend emails to your Michigan legislators asking them to pass National Popular Vote in Michigan\nSend a letter-to-editor to Michigan newspapers\nNational Popular Vote’s Facebook page\nNational Popular Vote’s Twitter page\n\nOn June 6, 2023, he Michigan House Elections Committee approved the National Popular Vote bill (status of HB4156, status of HB4440).\n\nNational popular vote winner would get Michigan electoral votes under bills (Crain's Detroit Business)\n\nMichigan House Elections Committee advances national popular vote legislation (Michigan Advance)\n\nMichigan House Elections Committee meeting on June 6, 2023\n\nOn March 7, 2023, the Michigan House Elections Committee held a hearing on the National Popular Vote bill (video of hearing, status of HB4156).\n\nOn March 2, 2023, Representative Carrie Rheingans introduced the National Popular Vote bill in the Michigan House of Representatives (status of HB4156) along with Representatives Penelope Tsernoglou, Matt Koleszar, Samantha Steckloff, Dylan Wegela, Erin Byrnes, Noah Arbit, Natalie Price, Laurie Pohutsky, Regina Weiss, Jasper Martus, Sharon MacDonell, Emily Dievendorf, Ranjeev Puri, Tyrone Carter, Phil Skaggs, Rachel Hood, Jimmie Wilson Jr., Veronica Paiz, Helena Scott, Julie Brixie, Jason Hoskins, Reggie Miller, Stephanie Young, Kristian Grant, Felicia Brabec, Kara Hope, Mike McFall, Brenda Carter, Donavan McKinney, Amos O'Neal, Joey Andrews, Alabas Farhat, Karen Whitsett, and Abraham Aiyash.\n\nOn March 2, 2023, Senator Stephanie Chang introduced the bill in the Senate (status of SB126) along with Senators Jeff Irwin, Mallory McMorrow, Rosemary Bayer, Erika Geiss, Sylvia A. Santana, Sam Singh, Sean McCann, Sue Shink, and John Cherry.\n\nNolan Finley column in Detroit News - Michigan to weigh switch to national popular vote\nMLIVE article Michigan lawmakers restart bipartisan effort to enact National Popular Vote\n\nIn 2021, Representative Matt Koleszar introduced the National Popular Vote bill in the Michigan House of Representatives (HB5343). \n\nOn September 27, 2021, the Yes On National Popular Vote campaign announced that it was considering an initiative petition to enact the National Popular Vote legislation in Michigan at the November 2022 or 2024 election.  In October, the Michigan Board of Canvassers approved wording for a petition. However, the signature-gathering process was never started.\n\nDetroit Free Press article - \"Dem, GOP heavyweights launch ballot drive to decide presidency by popular vote\"\nDetroit News article - \"Campaign launching in Michigan to pick president by popular vote\"\nAssociated Press - \"Ballot drive would join Michigan with national popular vote pact\"\nVideo of press conference\nOne-page description of Yes On National Popular Vote campaign\n\nA majority of Republican state senators and a majority of Democratic state senators sponsored the National Popular Vote bill in the Michigan Senate on September 5, 2018 (SB1117). The bill was sponsored by a bipartisan group of 25 of the 38 Michigan senators, including 15 Republicans and 10 Democrats.   The sponsors were Senators Dave Hildenbrand, Mike Green, Kenneth Horn, Darwin Booher, Goeff Hansen, Rick Jones, Jim Stamas, Mike Shirkey, Peter MacGregor, Phillip Pavlov, Jim Ananich, Mike Kowall, Steven Bieda, Curtis Hertel, Jack Brandenburg, James Marleau, Wayne Schmidt, David Knezek , Ian Conyers, Rebekah Warren, Morris Hood, Hoon-Yung Hopgood, Vincent Gregory, Coleman Young II, and Judy Emmons. \n\nOn September 6, 2018, the Senate Committee on Elections and Government Reform held a hearing on the National Popular Vote bill (SB1117). \n\nDetroit News editorial \"Michigan should pass National Popular Vote\"\nCBS TV news story entitled \"Lawmakers look to increase Michigan influence in presidential elections\"\nRick Albin report on WOOD TV\nTestimony of Hillsdale College Prof. Gary Wolfram\nTestimony of former ALEC national chair and California state Senator Ray Haynes\nTestimony of Vermont State Senator Christopher Pearson\nOp-ed in Detroit News by Saul Anuzis\nMIRS article on hearings (see pages 11-13)\nFormer Congressman John Conyers op-ed in Detroit Free Press\nFormer Republican National Committee Chair Michael Steele and Former Michigan GOP Chair Saul Anuzis op-ed in Politico\n\nSenator Dave Hildenbrand (R), main Senate sponsor of the National Popular Vote bill, testifiying before Senate committee on September 6, 2018\n\nHillsdale College Professor Gary Wolfram testifying before Senate committee on September 6, 2018 in favor of the National Popular Vote bill \n\nVermont State Senator Chris Pearson and former ALEC national chair Ray Haynes testifying before Senate committee on September 6, 2018 in favor of the National Popular Vote bill\n\nPat Rosenstiel testifying before Senate committee on September 6, 2018 in favor of the National Popular Vote bill\n\nOn September 5, 2018, the National Popular Vote bill was introduced in the Michigan House of Representatives (HB6323) by a bipartisan group of 16 Representatives, including 14 Republicans and two Democrats. The sponsors were Representatives Tim Kelly, Steve Marino, Edward Canfield, Julie Alexander, Jim Lilly, Jason Wentworth, Jason Sheppard, Aaron Miller, Daire Rendon, Joseph Bellino, Tom Cochran, Rob VerHeulen, Eric Leutheuser, David Maturen, Triston Cole, and Vanessa Guerra.\n\nOn September 6, 2018, the House Elections and Ethics Committee held a hearing on the National Popular Vote bill (HB6323).  Representative Tim Kelly, main sponsor of HB6323 spoke first and presented the bill to the committee (photo not available). \n\nHillsdale College Professor Gary Wolfram testifying before House committee on September 6, 2018 in favor of the National Popular Vote bill \n\nVermont State Senator Chris Pearson testifying before House committee on September 6, 2018 in favor of the National Popular Vote bill\n\nFormer ALEC national chair and California state Senator Ray Haynes testifying before House committee on September 6, 2018 in favor of the National Popular Vote bill\n\nPat Rosenstiel testifying before House committee on September 6, 2018 in favor of the National Popular Vote bill\n\nApril 28, 2018 editorial in Detroit News entitled \"Reconsider How We Elect Presidents.\"\n\nOn December 11, 2008, the Michigan House of Representatives passed the National Popular Vote bill (HB 6610) by a 65-36 margin.\n\nA survey of 800 Michigan voters conducted on December 2-3, 2008 showed 73% overall support for a national popular vote for President.  Support was 73% among independents, 78% among Democrats, and 68% among Republicans.  By age, support was 77% among 18-29 year olds, 67% among 30-45 year olds, 74% among 46-65 year olds, and 75% for those older than 65.  By gender, support was 86% among women and 59% among men.  By race, support was 75% among whites (representing 82% of respondents), 64% among African-Americans (representing 14% of respondents), 64% among Hispanics (representing 2% of respondents), and 69% among Others (representing 2% of respondents).  Based on whether the respondent or someone in the respondent's household is a member of a labor union, support was 77% for union households and 72% for non-union households.  The survey had a margin of error of plus or minus 3 1/2%. \n\nThe national popular vote winner should become President\nOne-person, one-vote\nCandidates should have a reason to campaign in all 50 states"
+}

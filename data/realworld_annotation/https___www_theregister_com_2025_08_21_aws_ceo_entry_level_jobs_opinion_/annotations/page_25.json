@@ -1,0 +1,983 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5243659.jpg?imageId=5243659&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5242942.jpg?imageId=5242942&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5241184.jpg?imageId=5241184&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093838.jpg?imageId=4093838&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234872.jpg?imageId=234872&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5241309.jpg?imageId=5241309&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232617.jpg?imageId=232617&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240668.jpg?imageId=5240668&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5219960.jpg?imageId=5219960&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239796.jpg?imageId=5239796&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239581.jpg?imageId=5239581&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=5.96&heighty=0.00&heightw=35.24&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239532.jpg?imageId=5239532&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239509.jpg?imageId=5239509&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238543.jpg?imageId=5238543&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238398.jpg?imageId=5238398&panox=0.00&panoy=7.14&panow=100.00&panoh=85.71&heightx=0.00&heighty=7.14&heightw=100.00&heighth=85.71&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238260.jpg?imageId=5238260&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238016.jpg?imageId=5238016&panox=0.00&panoy=9.17&panow=100.00&panoh=71.67&heightx=9.55&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237824.jpg?imageId=5237824&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237447.jpg?imageId=5237447&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237283.jpg?imageId=5237283&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237244.jpg?imageId=5237244&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5219524.jpg?imageId=5219524&panox=0.00&panoy=12.50&panow=100.00&panoh=71.67&heightx=40.45&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226908.jpg?imageId=5226908&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230204.jpg?imageId=5230204&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093877.jpg?imageId=4093877&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230765.jpg?imageId=230765&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/239474.jpg?imageId=239474&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253894.jpg?imageId=253894&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227110.jpg?imageId=5227110&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256704.jpg?imageId=256704&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229698.jpg?imageId=5229698&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238768.jpg?imageId=238768&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230385.jpg?imageId=230385&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227504.jpg?imageId=227504&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230265.jpg?imageId=5230265&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226485.jpg?imageId=5226485&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5219795.jpg?imageId=5219795&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/242741.jpg?imageId=242741&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5223573.jpg?imageId=5223573&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229639.jpg?imageId=229639&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235328.jpg?imageId=235328&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/169808.jpg?imageId=169808&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/251821.jpg?imageId=251821&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/246588.jpg?imageId=246588&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093838.jpg?imageId=4093838&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254142.jpg?imageId=254142&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/158043.jpg?imageId=158043&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220074.jpg?imageId=5220074&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232419.jpg?imageId=232419&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227944.jpg?imageId=227944&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222706.jpg?imageId=5222706&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257936.jpg?imageId=257936&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226430.jpg?imageId=5226430&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222673.jpg?imageId=5222673&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252864.jpg?imageId=252864&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234660.jpg?imageId=234660&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221482.jpg?imageId=5221482&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220925.jpg?imageId=5220925&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225253.jpg?imageId=5225253&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222047.jpg?imageId=5222047&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231778.jpg?imageId=231778&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/260842.jpg?imageId=260842&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224060.jpg?imageId=5224060&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254046.jpg?imageId=254046&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254142.jpg?imageId=254142&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226908.jpg?imageId=5226908&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225582.jpg?imageId=225582&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256388.jpg?imageId=256388&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222220.jpg?imageId=5222220&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254456.jpg?imageId=254456&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 224,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/oses#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Fedora: Microsoft is all aboard, but Deepin is dumped\n\nRed Hat’s free distro loses a desktop, but makes an important new friend",
+            "href": "https://www.theregister.com/oses/2026/05/20/microsoft-rebases-azure-linux-on-fedora-as-fedora-drops-deepin/5243629"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/05/20/202616/"
+        },
+        {
+            "text": "Firefox 151 helps you edit PDFs – and switch OSes\n\nExport a profile on Windows, restore it on Linux. Extensions and themes too",
+            "href": "https://www.theregister.com/software/2026/05/19/firefox-151-helps-you-edit-pdfs-and-switch-oses/5242888"
+        },
+        {
+            "text": "39",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/202620/"
+        },
+        {
+            "text": "Windows Firewall stands between you and greasy delight\n\nYou don't really want that entering your system, do you?",
+            "href": "https://www.theregister.com/oses/2026/05/19/windows-firewall-stands-between-you-and-greasy-delight/5241050"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/20266/"
+        },
+        {
+            "text": "Windows boot partition runs out of space for Microsoft's May security update\n\nTesting? We've heard of it",
+            "href": "https://www.theregister.com/oses/2026/05/18/windows-boot-partition-runs-out-of-space-for-microsofts-may-security-update/5241799"
+        },
+        {
+            "text": "79",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/20268/"
+        },
+        {
+            "text": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’\n\nMultiple researchers using the same tools to find the same bugs are creating ‘unnecessary pain and pointless work’",
+            "href": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633"
+        },
+        {
+            "text": "43",
+            "href": "https://forums.theregister.com/forum/all/2026/05/17/20265/"
+        },
+        {
+            "text": "Classic 7 is Windows 10 LTSC cosplaying as Windows 7\n\nUncanny rebuild resurrects the 2009 desktop, complete with support, updates, and licensing questions",
+            "href": "https://www.theregister.com/oses/2026/05/17/classic-7-is-windows-10-ltsc-cosplaying-as-windows-7/5241291"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2026/05/17/20261/"
+        },
+        {
+            "text": "Microsoft puts stability in the driver's seat with new initiative\n\nUser interface tweaks are nice, but reliable drivers matter more",
+            "href": "https://www.theregister.com/oses/2026/05/15/microsoft-puts-stability-in-the-drivers-seat-with-new-initiative/5241381"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/05/15/202615/"
+        },
+        {
+            "text": "KDE bags €1.3M as Europe realizes it might need an OS of its own\n\nGermany's Sovereign Tech Fund backs the desktop project while public sector interest in homegrown alternatives grows",
+            "href": "https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562"
+        },
+        {
+            "text": "47",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/202616/"
+        },
+        {
+            "text": "UK begins antitrust inquiry into Microsoft's business software ecosystem\n\nBrit regulator has 'heard' customers can't always 'effectively combine software from Microsoft with that of other providers'",
+            "href": "https://www.theregister.com/oses/2026/05/14/uk-begins-antitrust-inquiry-into-microsofts-business-software-ecosystem/5240452"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/202614/"
+        },
+        {
+            "text": "Mystery Microsoft bug leaker keeps the zero-days coming\n\nSecurity pros warn YellowKey claim could make stolen laptops a much bigger problem",
+            "href": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758"
+        },
+        {
+            "text": "35",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202621/"
+        },
+        {
+            "text": "Microsoft aims to speed Windows with 'leap forward' in WinUI 3 perf\n\nBittersweet post tells devs what they already knew: The framework is too slow",
+            "href": "https://www.theregister.com/oses/2026/05/13/microsoft-aims-to-speed-windows-with-leap-forward-in-winui-3-perf/5239559"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202616/"
+        },
+        {
+            "text": "Microsoft gives Windows Update a Ctrl-Z for bad drivers\n\nCloud-powered undo will roll back dodgy code without users or hardware partners lifting a finger",
+            "href": "https://www.theregister.com/oses/2026/05/13/microsoft-gives-windows-update-a-ctrl-z-for-bad-drivers/5239489"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202613/"
+        },
+        {
+            "text": "Linux gains more critical Windows apps: 3D Movie Maker and Space Cadet Pinball\n\nFurther demonstrating its role as industry default OS the versatility of modern porting tools",
+            "href": "https://www.theregister.com/oses/2026/05/13/linux-gains-more-critical-windows-apps-3d-movie-maker-and-space-cadet-pinball/5239455"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202612/"
+        },
+        {
+            "text": "Windows update prompt joins the Post Office queue\n\nCustomers left staring at restart plea with no keyboard, mouse, or hope",
+            "href": "https://www.theregister.com/offbeat/2026/05/12/windows-update-prompt-joins-the-post-office-queue/5238531"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/20267/"
+        },
+        {
+            "text": "Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter\n\nOrbital compute platform, which launched on a mission to the ISS last year, gets an immutable upgrade alongside refreshed container images",
+            "href": "https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/20261/"
+        },
+        {
+            "text": "Debian 14 cracks down on unreproducible packages\n\nDull but important … so, a bit like Debian itself, really",
+            "href": "https://www.theregister.com/oses/2026/05/11/debian-14-cracks-down-on-unreproducible-packages/5238094"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/05/11/202616/"
+        },
+        {
+            "text": "Gtk2-NG, next generation of Gtk 2, comes back to life\n\nDebian 14 plans to ax Gtk2 – and hard pruning stimulates fresh growth",
+            "href": "https://www.theregister.com/oses/2026/05/11/gtk2-ng-next-generation-of-gtk-2-comes-back-to-life/5237970"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/05/11/202610/"
+        },
+        {
+            "text": "Linux kernel maintainers pitch emergency killswitch after CopyFail and Dirty Frag chaos\n\nInstead of waiting for patch cycles, admins could simply shut down vulnerable functions before attackers get there",
+            "href": "https://www.theregister.com/oses/2026/05/11/linux-kernel-maintainers-pitch-emergency-killswitch-after-copyfail-and-dirty-frag-chaos/5237801"
+        },
+        {
+            "text": "39",
+            "href": "https://forums.theregister.com/forum/all/2026/05/11/20269/"
+        },
+        {
+            "text": "Both Fedora and Ubuntu will get AI support – soon\n\nFurores are fermenting in the forums",
+            "href": "https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409"
+        },
+        {
+            "text": "29",
+            "href": "https://forums.theregister.com/forum/all/2026/05/10/20261/"
+        },
+        {
+            "text": "Raspberry Pi wants Windows admins to Connect – or it might pull the plug\n\nRemote access software could bring mixed fleets under one roof, assuming enough people ask for it",
+            "href": "https://www.theregister.com/personal-tech/2026/05/08/raspberry-pi-wants-windows-admins-to-connect-or-it-might-pull-the-plug/5235753"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/202615/"
+        },
+        {
+            "text": "'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit\n\nBroken disclosure embargo left admins facing a fresh root-level flaw with no CVE",
+            "href": "https://www.theregister.com/security/2026/05/08/dirty-frag-linux-flaw-one-ups-copyfail-with-no-patches-and-public-root-exploit/5237230"
+        },
+        {
+            "text": "53",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/202613/"
+        },
+        {
+            "text": "GNOME may rule Ubuntu Resolute Raccoon, but X.org isn't roadkill yet\n\nSeven official flavors offer alternatives to the default Wayland-only desktop – and Xfce looks like the leanest",
+            "href": "https://www.theregister.com/oses/2026/05/06/gnome-may-rule-ubuntu-resolute-raccoon-but-xorg-isnt-roadkill-yet/5219477"
+        },
+        {
+            "text": "47",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/20262/"
+        },
+        {
+            "text": "Attackers are cashing in on fresh 'CopyFail' Linux flaw\n\nResearchers dropped a reliable root exploit and it didn’t sit idle for long",
+            "href": "https://www.theregister.com/security/2026/05/05/copyfail-attackers-start-cashing-in-on-linux-flaw/5226930"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/cisa_sounds_the_alarm_on/"
+        },
+        {
+            "text": "Unexpected item in Windows' bagging area\n\nActivating Windows will cost more than a couple of cheap carrier bags",
+            "href": "https://www.theregister.com/offbeat/2026/05/05/unexpected-item-in-windows-bagging-area/5229720"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/unexpected_item_in_windows_bagging/"
+        },
+        {
+            "text": "Microsoft's bad obsession is showing up in shabby services and slipshod software. Here's proof\n\nIf you can't bother to keep GitHub running, why should we bother with you?",
+            "href": "https://www.theregister.com/columnists/2026/05/05/microsofts-code-shack-shaken-as-redmond-chases-ai-ghosts/5219761"
+        },
+        {
+            "text": "49",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/microsoft_opinion_column/"
+        },
+        {
+            "text": "Moving to mainframe can be cheaper than sticking with VMware: Gartner\n\nSerious Linux VMs will enjoy big iron – if you can learn to love lock-in risks and skills challenges",
+            "href": "https://www.theregister.com/on-prem/2026/05/04/moving-to-a-mainframe-can-be-cheaper-than-vmware-gartner/5229237"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/05/04/gartner_state_of_mainframes/"
+        },
+        {
+            "text": "Microsoft's turned Windows into a cesspool, but it wants to do better\n\nWindows is a mess, GitHub keeps wobbling, Copilot draws flak - what’s wrong at Redmond?",
+            "href": "https://www.theregister.com/software/2026/05/04/microsoft-promises-to-do-better-but-it-has-a-long-way-to-go/5226977"
+        },
+        {
+            "text": "64",
+            "href": "https://forums.theregister.com/forum/all/2026/05/03/microsoft_promises_to_do_better/"
+        },
+        {
+            "text": "Microsoft releases first big update after Nadella's vow to 'win back fans'\n\nLots of fixes, some performance tweaks. Fingers crossed there's no out-of-band patch to follow",
+            "href": "https://www.theregister.com/software/2026/05/01/first-big-microsoft-update-after-vow-to-win-back-fans/5222873"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2026/05/01/microsoft_release_first_big_update/"
+        },
+        {
+            "text": "Who needs ghost train scares when Windows is such a fright?\n\nThings that go bork in the night",
+            "href": "https://www.theregister.com/software/2026/05/01/who-needs-ghost-train-scares-when-windows-is-such-a-fright/5227086"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/05/01/ghost_train_bork/"
+        },
+        {
+            "text": "Microsoft boss tells investors the company is working to 'win back fans'\n\nBut why did those fans go away in the first place, Satya?",
+            "href": "https://www.theregister.com/software/2026/04/30/microsoft-boss-says-company-is-working-to-win-back-fans/5225622"
+        },
+        {
+            "text": "126",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/microsoft_boss_says_company_is/"
+        },
+        {
+            "text": "Linux cryptographic code flaw offers fast route to root\n\nPatches land for authencesn flaw enabling local privilege escalation",
+            "href": "https://www.theregister.com/software/2026/04/30/linux-cryptographic-code-flaw-offers-fast-route-to-root/5229187"
+        },
+        {
+            "text": "53",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/linux_cryptographic_code_flaw/"
+        },
+        {
+            "text": "Fedora 44 is out – countless versions of it\n\nNew sealed bootable container images and Stratis storage, too",
+            "href": "https://www.theregister.com/software/2026/04/29/fedora-44-is-out-countless-versions-of-it/5224584"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/fedora_44_countless_versions/"
+        },
+        {
+            "text": "Microsoft opens door to the past by releasing 86-DOS and PC-DOS 1.00\n\nBack to a time when source repositories were printouts and commits were hand-written notes",
+            "href": "https://www.theregister.com/software/2026/04/29/microsoft-sets-its-sights-on-the-past-with-86-dos-and-pc-dos/5223426"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/microsoft_pc_dos_1_point_oh/"
+        },
+        {
+            "text": "Microsoft updates the Windows Update Experience: You can hit pause now\n\nKeep the patches away for as long as you like",
+            "href": "https://www.theregister.com/software/2026/04/27/microsoft-updates-the-windows-update-experience/5224612"
+        },
+        {
+            "text": "48",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/microsoft_updates_the_windows_update/"
+        },
+        {
+            "text": "Go straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense\n\nThe OS trying to upsell you subscriptions is more than just an annoyance",
+            "href": "https://www.theregister.com/software/2026/04/26/windows-second-chance-setup-hurts-it-productivity/5228374"
+        },
+        {
+            "text": "60",
+            "href": "https://forums.theregister.com/forum/all/2026/04/26/windows_second_chance_setup/"
+        },
+        {
+            "text": "Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps\n\nNew LTS is here, with more tooling for GPGPU and AI workloads",
+            "href": "https://www.theregister.com/software/2026/04/24/ubuntu-resolute-raccoon-drops-xorg-keeps-x11-apps-alive/5225331"
+        },
+        {
+            "text": "61",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/ubuntu_resolute_raccoon/"
+        },
+        {
+            "text": "More ancient Linux device support faces the chop\n\nOne way to deal with bug hunting LLMs: ditch the old drivers",
+            "href": "https://www.theregister.com/software/2026/04/24/more-ancient-linux-device-support-facing-the-ax/5219757"
+        },
+        {
+            "text": "55",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/ancient_linux_drivers_going/"
+        },
+        {
+            "text": "Microsoft beefs up Remote Desktop security with ... hard-to-read messages\n\nAiling scaling blamed by Windows-maker for unreadable missives",
+            "href": "https://www.theregister.com/software/2026/04/24/remote-desktop-security-beefed-up-with-hard-to-read-messages/5227234"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/remote_desktop_security_beefed_up/"
+        },
+        {
+            "text": "Linux may get a hall pass from one state age-check bill, but Congress plays hall monitor\n\nColorado amendments could exempt open source OSes, code repos, and containers",
+            "href": "https://www.theregister.com/on-prem/2026/04/22/linux-may-get-exemption-from-colorado-age-check-bill/5222771"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/linux_us_state_age_verificaiton_laws/"
+        },
+        {
+            "text": "You can now run WSL on Windows 95, in case you're crazy, too\n\n'I think this might be one of my greatest hacks of all time,' says dev behind unholy abomination",
+            "href": "https://www.theregister.com/software/2026/04/22/wsl9x-hacks-linux-into-ancient-windows-9x-systems/5220212"
+        },
+        {
+            "text": "38",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/wsl_windows95/"
+        },
+        {
+            "text": "Zorin OS 18.1 released - and the Lite edition reappears\n\nPlus news from its Dublin neighbors, Linux Mint",
+            "href": "https://www.theregister.com/software/2026/04/21/zorin-os-181-released-and-the-lite-edition-reappears/5223179"
+        },
+        {
+            "text": "42",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/zorin_os_181_released/"
+        },
+        {
+            "text": "Task Manager's CPU meter is an obituary for the recent past, says the engineer who built it\n\nSpoiler: There's no magic value. Just a timer, some kernel calls, and too much coffee",
+            "href": "https://www.theregister.com/software/2026/04/21/task-managers-cpu-an-obituary-for-the-recent-past/5221801"
+        },
+        {
+            "text": "18",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/task_manager_cpu_meter/"
+        },
+        {
+            "text": "Linux 7.1 will have an optional new NTFS driver\n\nGood news for those working with Windows, bad news for Paragon Software",
+            "href": "https://www.theregister.com/software/2026/04/20/linux-71-will-have-an-optional-new-ntfs-driver/5226567"
+        },
+        {
+            "text": "54",
+            "href": "https://forums.theregister.com/forum/all/2026/04/20/linux_71_new_ntfs/"
+        },
+        {
+            "text": "Microsoft releases Windows Server update fix to fix its April update fixes\n\nOut-of-band or out of control?",
+            "href": "https://www.theregister.com/software/2026/04/20/microsoft-releases-windows-server-update-to-fix-april-update/5229402"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/04/20/microsoft_releases_a_windows_server_update_fix/"
+        },
+        {
+            "text": "Decades-old Linux UI bug fixed by dev younger than the window manager\n\nKamila Szewczyk prefers old software, as back then people understood something could actually be finished",
+            "href": "https://www.theregister.com/software/2026/04/15/20-year-old-enlightenment-e16-bug-finally-gets-patched/5225913"
+        },
+        {
+            "text": "75",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/enlightenment_e16_bug_patched/"
+        },
+        {
+            "text": "Raspberry Pi OS ends open-door policy for sudo\n\nCommand prefix will require password by default",
+            "href": "https://www.theregister.com/software/2026/04/15/raspberry-pi-os-ends-open-door-policy-for-sudo/5222213"
+        },
+        {
+            "text": "69",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/raspberry_pi_os_sudo/"
+        },
+        {
+            "text": "You can finally control serial devices from Firefox\n\nLong languishing API gets love from Mozilla",
+            "href": "https://www.theregister.com/software/2026/04/14/firefox-nightly-adds-web-serial-after-years-of-saying-no/5225521"
+        },
+        {
+            "text": "67",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/firefox_nightly_web_serial/"
+        },
+        {
+            "text": "Windows Update is a torture chamber for seldom-used PCs\n\nMicrosoft punishes you for updating infrequently",
+            "href": "https://www.theregister.com/software/2026/04/14/windows-update-torture-chamber-for-seldom-used-pcs/5220024"
+        },
+        {
+            "text": "144",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/windows_update_torture/"
+        },
+        {
+            "text": "Notepad sheds Copilot from toolbar as Microsoft gives subtlety a try\n\nAI gubbins still there, just tucked under 'Writing Tools'",
+            "href": "https://www.theregister.com/software/2026/04/13/notepad-loses-copilot-icon-as-microsoft-gives-subtlety-a-try/5220503"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/microsoft_notepad_copilot_icon/"
+        },
+        {
+            "text": "Microsoft attempts to untangle 'confusing' Windows Insider program\n\nControlled Feature Rollouts headed for the trash among other changes",
+            "href": "https://www.theregister.com/software/2026/04/13/microsoft-attempts-to-untangle-windows-insider-program/5222265"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/microsoft_windows_insider_refresh/"
+        },
+        {
+            "text": "Adobe finally patches PDF pest after months of abuse\n\nReader and Acrobat flaw let booby-trapped documents profile targets and hijack machines",
+            "href": "https://www.theregister.com/software/2026/04/13/adobe-finally-patches-pdf-pest-after-months-of-abuse/5222279"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/adobe_reader_zeroday/"
+        },
+        {
+            "text": "France’s digital directorate dumping Windows desktops, adopting Linux instead\n\nAprès ça, le déluge, as plans call for move away from plenty more American software and hardware",
+            "href": "https://www.theregister.com/on-prem/2026/04/13/frances-digital-agency-dumping-windows-desktops-for-linux/5225890"
+        },
+        {
+            "text": "120",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/france_tech_sovereignty_plan/"
+        },
+        {
+            "text": "Linux 7.0 debuts as Linus Torvalds ponders AI's bug-finding powers\n\nMakes Rust support official, adds code for ancient Alpha and SPARC CPUs",
+            "href": "https://www.theregister.com/software/2026/04/13/linux-70-debuts-as-linus-torvalds-ponders-ais-impact/5226385"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/linux_kernel_7_releaseed/"
+        },
+        {
+            "text": "Red Hat RHELocates its Chinese engineering team to India\n\nHundreds of layoffs, but this smells of geopolitics, not downsizing",
+            "href": "https://www.theregister.com/software/2026/04/10/red-hat-rhelocates-its-chinese-engineering-team-to-india/5222097"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/red_hat_ends_china_engineering/"
+        },
+        {
+            "text": "Apple's chips are the core of a new landscape, but its biggest win is Windows\n\nWalled gardens make more sense when it's an AI-lligator infested swamp outside",
+            "href": "https://www.theregister.com/on-prem/2026/04/07/apples-chips-are-winners-but-windows-fails-help-it-most/5228949"
+        },
+        {
+            "text": "129",
+            "href": "https://forums.theregister.com/forum/all/2026/04/07/opinion_column_apple_vs_microsoft/"
+        },
+        {
+            "text": "Patch to end i486 support hits Linux kernel merge queue\n\nAfter a year of patchwork, maintainers look ready to start retiring 486-class CPUs",
+            "href": "https://www.theregister.com/software/2026/04/06/the-end-of-linux-i486-support-looks-nigh/5227500"
+        },
+        {
+            "text": "49",
+            "href": "https://forums.theregister.com/forum/all/2026/04/06/patch_to_end_i486_support/"
+        },
+        {
+            "text": "Windows asks a networking question on a Stratford billboard\n\nGlue and paper wouldn't have cared about discoverability",
+            "href": "https://www.theregister.com/software/2026/04/06/windows-asks-a-networking-question-on-a-stratford-billboard/5221248"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/04/06/windows_asks_a_networking_question/"
+        },
+        {
+            "text": "When a billboard survives the wind, but not the boot\n\nThis GRUB is not an advert for some tasty fried food",
+            "href": "https://www.theregister.com/offbeat/2026/04/03/when-a-billboard-survives-the-wind-but-not-the-boot/5220726"
+        },
+        {
+            "text": "41",
+            "href": "https://forums.theregister.com/forum/all/2026/04/03/when_a_billboard_survives_the/"
+        },
+        {
+            "text": "Microsoft veteran says some 'broken by update' PCs were already doomed\n\nPatch Tuesday often gets blamed when a reboot merely exposes damage already done, according to Chen",
+            "href": "https://www.theregister.com/software/2026/04/02/some-broken-by-update-pcs-were-already-doomed/5224924"
+        },
+        {
+            "text": "97",
+            "href": "https://forums.theregister.com/forum/all/2026/04/02/chen_windows_updates/"
+        },
+        {
+            "text": "SystemRescue 13 lands with Linux 6.18 and bcachefs support\n\nAnd other handy tools that could save your data in a crisis",
+            "href": "https://www.theregister.com/software/2026/04/02/systemrescue-13-lands-with-linux-618-and-bcachefs-support/5221773"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/04/02/systemrescue_13/"
+        },
+        {
+            "text": "Leaked memo suggests Red Hat's chugging the AI Kool-Aid\n\nSounds like an excellent time to start honing your Debian skills",
+            "href": "https://www.theregister.com/software/2026/03/31/memo-red-hat-global-engineering-plans-to-lean-in-to-ai/5221432"
+        },
+        {
+            "text": "83",
+            "href": "https://forums.theregister.com/forum/all/2026/03/31/red_hat_ai_dev/"
+        },
+        {
+            "text": "Microsoft reaches for yet another out-of-band patch to deal with latest update issue\n\nWeren't these supposed to be 'atypical'?",
+            "href": "https://www.theregister.com/software/2026/03/31/microsoft-plans-another-out-of-band-windows-fix/5228517"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/03/31/microsoft_out_of_band/"
+        },
+        {
+            "text": "Ubuntu 26.04 beta arrives packing GNOME 50, which no longer supports Google Drive\n\nYep, you read that right. And there's no official Linux client from Google",
+            "href": "https://www.theregister.com/software/2026/03/31/ubuntu-beta-arrives-with-gnome-50-sans-google-drive-support/5223741"
+        },
+        {
+            "text": "77",
+            "href": "https://forums.theregister.com/forum/all/2026/03/31/ubuntu_2604_beta/"
+        },
+        {
+            "text": "Microsoft yanks Windows 11 preview update after install failures\n\nKB5079391 pulled after some devices hit errors, adding to recent quality woes",
+            "href": "https://www.theregister.com/software/2026/03/30/microsoft-pulls-windows-update-after-installation-problems/5222984"
+        },
+        {
+            "text": "50",
+            "href": "https://forums.theregister.com/forum/all/2026/03/30/microsoft_faulty_windows_update/"
+        },
+        {
+            "text": "Microsoft tells crusty old kernel drivers to get with the Windows Hardware Compatibility Program\n\nCross-signed code gets the cold shoulder as Redmond tightens trust",
+            "href": "https://www.theregister.com/software/2026/03/27/microsoft-cracks-down-on-old-windows-kernel-drivers/5229729"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2026/03/27/microsoft_kernel_trust/"
+        },
+        {
+            "text": "AI bug reports went from junk to legit overnight, says Linux kernel czar\n\nGreg Kroah-Hartman can't explain the inflection point, but it's not slowing down or going away",
+            "href": "https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256"
+        },
+        {
+            "text": "51",
+            "href": "https://forums.theregister.com/forum/all/2026/03/26/greg_kroahhartman_ai_kernel/"
+        },
+        {
+            "text": "Windows 95 let installers trash its files then fixed the mess behind their backs\n\nI'll just clear up that up, shall I?",
+            "href": "https://www.theregister.com/software/2026/03/25/how-windows-95-fought-off-badly-behaved-installers/5223960"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/03/25/windows_95_installers_chen/"
+        },
+        {
+            "text": "Age checks creep into Linux as systemd gets a DOB field\n\nFlatpak may be next, and the lobbying behind it is raising eyebrows",
+            "href": "https://www.theregister.com/software/2026/03/24/age-checks-creep-into-linux-as-systemd-gets-a-dob-field/5229495"
+        },
+        {
+            "text": "184",
+            "href": "https://forums.theregister.com/forum/all/2026/03/24/foss_age_verification/"
+        },
+        {
+            "text": "Systemd-free antiX Linux 26: Debian 13, in bonsai form\n\nPlus: Still supports 32-bit hardware or VMs",
+            "href": "https://www.theregister.com/software/2026/03/24/systemd-free-antix-26-debian-13-in-bonsai-form/5223152"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/03/24/antix_26_bonsai_trixie/"
+        },
+        {
+            "text": "Windows boss promises to heal the operating system's self-inflicted wounds\n\nSorry seems to be the hardest word at Microsoft",
+            "href": "https://www.theregister.com/software/2026/03/24/windows-boss-promises-to-heal-the-operating-systems-wounds/5223630"
+        },
+        {
+            "text": "79",
+            "href": "https://forums.theregister.com/forum/all/2026/03/24/windows_boss_promises/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/oses?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 11356,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nOperating systems news | The Register\nSOFTWARE > OSES\nLatest news from the worlds of Windows, Linux, macOS and other operating systems\nFedora: Microsoft is all aboard, but Deepin is dumped\n\nRed Hat’s free distro loses a desktop, but makes an important new friend\n\n11 hours|4\nFirefox 151 helps you edit PDFs – and switch OSes\n\nExport a profile on Windows, restore it on Linux. Extensions and themes too\n\n1 day|39\nWindows Firewall stands between you and greasy delight\n\nYou don't really want that entering your system, do you?\n\n2 days|3\nWindows boot partition runs out of space for Microsoft's May security update\n\nTesting? We've heard of it\n\n3 days|79\nLinus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’\n\nMultiple researchers using the same tools to find the same bugs are creating ‘unnecessary pain and pointless work’\n\n3 days|43\nClassic 7 is Windows 10 LTSC cosplaying as Windows 7\n\nUncanny rebuild resurrects the 2009 desktop, complete with support, updates, and licensing questions\n\n4 days|46\nMicrosoft puts stability in the driver's seat with new initiative\n\nUser interface tweaks are nice, but reliable drivers matter more\n\n5 days|9\nKDE bags €1.3M as Europe realizes it might need an OS of its own\n\nGermany's Sovereign Tech Fund backs the desktop project while public sector interest in homegrown alternatives grows\n\n7 days|47\nUK begins antitrust inquiry into Microsoft's business software ecosystem\n\nBrit regulator has 'heard' customers can't always 'effectively combine software from Microsoft with that of other providers'\n\n7 days|15\nMystery Microsoft bug leaker keeps the zero-days coming\n\nSecurity pros warn YellowKey claim could make stolen laptops a much bigger problem\n\n1 week|35\nMicrosoft aims to speed Windows with 'leap forward' in WinUI 3 perf\n\nBittersweet post tells devs what they already knew: The framework is too slow\n\n1 week|13\nMicrosoft gives Windows Update a Ctrl-Z for bad drivers\n\nCloud-powered undo will roll back dodgy code without users or hardware partners lifting a finger\n\n1 week|13\nLinux gains more critical Windows apps: 3D Movie Maker and Space Cadet Pinball\n\nFurther demonstrating its role as industry default OS the versatility of modern porting tools\n\n1 week|16\nWindows update prompt joins the Post Office queue\n\nCustomers left staring at restart plea with no keyboard, mouse, or hope\n\n1 week|16\nRed Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter\n\nOrbital compute platform, which launched on a mission to the ISS last year, gets an immutable upgrade alongside refreshed container images\n\n1 week|3\nDebian 14 cracks down on unreproducible packages\n\nDull but important … so, a bit like Debian itself, really\n\n1 week|14\nGtk2-NG, next generation of Gtk 2, comes back to life\n\nDebian 14 plans to ax Gtk2 – and hard pruning stimulates fresh growth\n\n1 week|12\nLinux kernel maintainers pitch emergency killswitch after CopyFail and Dirty Frag chaos\n\nInstead of waiting for patch cycles, admins could simply shut down vulnerable functions before attackers get there\n\n1 week|39\nBoth Fedora and Ubuntu will get AI support – soon\n\nFurores are fermenting in the forums\n\n2 weeks|29\nRaspberry Pi wants Windows admins to Connect – or it might pull the plug\n\nRemote access software could bring mixed fleets under one roof, assuming enough people ask for it\n\n2 weeks|17\n'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit\n\nBroken disclosure embargo left admins facing a fresh root-level flaw with no CVE\n\n2 weeks|53\nGNOME may rule Ubuntu Resolute Raccoon, but X.org isn't roadkill yet\n\nSeven official flavors offer alternatives to the default Wayland-only desktop – and Xfce looks like the leanest\n\n2 weeks|47\nAttackers are cashing in on fresh 'CopyFail' Linux flaw\n\nResearchers dropped a reliable root exploit and it didn’t sit idle for long\n\n2 weeks|40\nUnexpected item in Windows' bagging area\n\nActivating Windows will cost more than a couple of cheap carrier bags\n\n2 weeks|31\nMicrosoft's bad obsession is showing up in shabby services and slipshod software. Here's proof\n\nIf you can't bother to keep GitHub running, why should we bother with you?\n\n2 weeks|49\nMoving to mainframe can be cheaper than sticking with VMware: Gartner\n\nSerious Linux VMs will enjoy big iron – if you can learn to love lock-in risks and skills challenges\n\n2 weeks|40\nMicrosoft's turned Windows into a cesspool, but it wants to do better\n\nWindows is a mess, GitHub keeps wobbling, Copilot draws flak - what’s wrong at Redmond?\n\n2 weeks|64\nMicrosoft releases first big update after Nadella's vow to 'win back fans'\n\nLots of fixes, some performance tweaks. Fingers crossed there's no out-of-band patch to follow\n\n3 weeks|46\nWho needs ghost train scares when Windows is such a fright?\n\nThings that go bork in the night\n\n3 weeks|27\nMicrosoft boss tells investors the company is working to 'win back fans'\n\nBut why did those fans go away in the first place, Satya?\n\n3 weeks|126\nLinux cryptographic code flaw offers fast route to root\n\nPatches land for authencesn flaw enabling local privilege escalation\n\n3 weeks|53\nFedora 44 is out – countless versions of it\n\nNew sealed bootable container images and Stratis storage, too\n\n3 weeks|17\nMicrosoft opens door to the past by releasing 86-DOS and PC-DOS 1.00\n\nBack to a time when source repositories were printouts and commits were hand-written notes\n\n3 weeks|25\nMicrosoft updates the Windows Update Experience: You can hit pause now\n\nKeep the patches away for as long as you like\n\n3 weeks|48\nGo straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense\n\nThe OS trying to upsell you subscriptions is more than just an annoyance\n\n4 weeks|60\nUbuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps\n\nNew LTS is here, with more tooling for GPGPU and AI workloads\n\n4 weeks|61\nMore ancient Linux device support faces the chop\n\nOne way to deal with bug hunting LLMs: ditch the old drivers\n\n4 weeks|55\nMicrosoft beefs up Remote Desktop security with ... hard-to-read messages\n\nAiling scaling blamed by Windows-maker for unreadable missives\n\n4 weeks|33\nLinux may get a hall pass from one state age-check bill, but Congress plays hall monitor\n\nColorado amendments could exempt open source OSes, code repos, and containers\n\n4 weeks|34\nYou can now run WSL on Windows 95, in case you're crazy, too\n\n'I think this might be one of my greatest hacks of all time,' says dev behind unholy abomination\n\n4 weeks|38\nZorin OS 18.1 released - and the Lite edition reappears\n\nPlus news from its Dublin neighbors, Linux Mint\n\n4 weeks|42\nTask Manager's CPU meter is an obituary for the recent past, says the engineer who built it\n\nSpoiler: There's no magic value. Just a timer, some kernel calls, and too much coffee\n\n4 weeks|18\nLinux 7.1 will have an optional new NTFS driver\n\nGood news for those working with Windows, bad news for Paragon Software\n\n4 weeks|54\nMicrosoft releases Windows Server update fix to fix its April update fixes\n\nOut-of-band or out of control?\n\n1 month|14\nDecades-old Linux UI bug fixed by dev younger than the window manager\n\nKamila Szewczyk prefers old software, as back then people understood something could actually be finished\n\n1 month|75\nRaspberry Pi OS ends open-door policy for sudo\n\nCommand prefix will require password by default\n\n1 month|69\nYou can finally control serial devices from Firefox\n\nLong languishing API gets love from Mozilla\n\n1 month|67\nWindows Update is a torture chamber for seldom-used PCs\n\nMicrosoft punishes you for updating infrequently\n\n1 month|144\nNotepad sheds Copilot from toolbar as Microsoft gives subtlety a try\n\nAI gubbins still there, just tucked under 'Writing Tools'\n\n1 month|22\nMicrosoft attempts to untangle 'confusing' Windows Insider program\n\nControlled Feature Rollouts headed for the trash among other changes\n\n1 month|6\nAdobe finally patches PDF pest after months of abuse\n\nReader and Acrobat flaw let booby-trapped documents profile targets and hijack machines\n\n1 month|11\nFrance’s digital directorate dumping Windows desktops, adopting Linux instead\n\nAprès ça, le déluge, as plans call for move away from plenty more American software and hardware\n\n1 month|120\nLinux 7.0 debuts as Linus Torvalds ponders AI's bug-finding powers\n\nMakes Rust support official, adds code for ancient Alpha and SPARC CPUs\n\n1 month|13\nRed Hat RHELocates its Chinese engineering team to India\n\nHundreds of layoffs, but this smells of geopolitics, not downsizing\n\n1 month|28\nApple's chips are the core of a new landscape, but its biggest win is Windows\n\nWalled gardens make more sense when it's an AI-lligator infested swamp outside\n\n1 month|129\nPatch to end i486 support hits Linux kernel merge queue\n\nAfter a year of patchwork, maintainers look ready to start retiring 486-class CPUs\n\n1 month|49\nWindows asks a networking question on a Stratford billboard\n\nGlue and paper wouldn't have cared about discoverability\n\n1 month|22\nWhen a billboard survives the wind, but not the boot\n\nThis GRUB is not an advert for some tasty fried food\n\n2 months|41\nMicrosoft veteran says some 'broken by update' PCs were already doomed\n\nPatch Tuesday often gets blamed when a reboot merely exposes damage already done, according to Chen\n\n2 months|97\nSystemRescue 13 lands with Linux 6.18 and bcachefs support\n\nAnd other handy tools that could save your data in a crisis\n\n2 months|9\nLeaked memo suggests Red Hat's chugging the AI Kool-Aid\n\nSounds like an excellent time to start honing your Debian skills\n\n2 months|83\nMicrosoft reaches for yet another out-of-band patch to deal with latest update issue\n\nWeren't these supposed to be 'atypical'?\n\n2 months|13\nUbuntu 26.04 beta arrives packing GNOME 50, which no longer supports Google Drive\n\nYep, you read that right. And there's no official Linux client from Google\n\n2 months|77\nMicrosoft yanks Windows 11 preview update after install failures\n\nKB5079391 pulled after some devices hit errors, adding to recent quality woes\n\n2 months|50\nMicrosoft tells crusty old kernel drivers to get with the Windows Hardware Compatibility Program\n\nCross-signed code gets the cold shoulder as Redmond tightens trust\n\n2 months|46\nAI bug reports went from junk to legit overnight, says Linux kernel czar\n\nGreg Kroah-Hartman can't explain the inflection point, but it's not slowing down or going away\n\n2 months|51\nWindows 95 let installers trash its files then fixed the mess behind their backs\n\nI'll just clear up that up, shall I?\n\n2 months|25\nAge checks creep into Linux as systemd gets a DOB field\n\nFlatpak may be next, and the lobbying behind it is raising eyebrows\n\n2 months|184\nSystemd-free antiX Linux 26: Debian 13, in bonsai form\n\nPlus: Still supports 32-bit hardware or VMs\n\n2 months|40\nWindows boss promises to heal the operating system's self-inflicted wounds\n\nSorry seems to be the hardest word at Microsoft\n\n2 months|79\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

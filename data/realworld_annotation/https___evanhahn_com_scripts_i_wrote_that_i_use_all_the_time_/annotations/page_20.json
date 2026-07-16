@@ -1,0 +1,369 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 89,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Offline command line translation with TranslateGemma + Ollama",
+            "href": "https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "All tests pass: a short story",
+            "href": "https://evanhahn.com/all-tests-pass-a-short-story/"
+        },
+        {
+            "text": "#story",
+            "href": "https://evanhahn.com/tags/story/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#arturo",
+            "href": "https://evanhahn.com/tags/arturo/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#satire",
+            "href": "https://evanhahn.com/tags/satire/"
+        },
+        {
+            "text": "human.json",
+            "href": "https://evanhahn.com/human-dot-json/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "How I use generative AI on this blog",
+            "href": "https://evanhahn.com/how-i-use-gen-ai-on-this-blog/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#writing",
+            "href": "https://evanhahn.com/tags/writing/"
+        },
+        {
+            "text": "#me",
+            "href": "https://evanhahn.com/tags/me/"
+        },
+        {
+            "text": "Introducing llm-eliza",
+            "href": "https://evanhahn.com/llm-eliza/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#satire",
+            "href": "https://evanhahn.com/tags/satire/"
+        },
+        {
+            "text": "An LLM that's 7500× stupider",
+            "href": "https://evanhahn.com/an-llm-thats-7500x-stupider/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Notes from December 2025",
+            "href": "https://evanhahn.com/notes-from-december-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#algorithm",
+            "href": "https://evanhahn.com/tags/algorithm/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#public-domain",
+            "href": "https://evanhahn.com/tags/public-domain/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "Notes from November 2025",
+            "href": "https://evanhahn.com/notes-from-november-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "Notes from September 2025",
+            "href": "https://evanhahn.com/notes-from-september-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#video-games",
+            "href": "https://evanhahn.com/tags/video-games/"
+        },
+        {
+            "text": "#chicago",
+            "href": "https://evanhahn.com/tags/chicago/"
+        },
+        {
+            "text": "Local LLMs versus offline Wikipedia",
+            "href": "https://evanhahn.com/local-llms-versus-offline-wikipedia/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#data",
+            "href": "https://evanhahn.com/tags/data/"
+        },
+        {
+            "text": "#ollama",
+            "href": "https://evanhahn.com/tags/ollama/"
+        },
+        {
+            "text": "Simple macOS script to extract text from images (OCR)",
+            "href": "https://evanhahn.com/mac-ocr-script/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "Notes from June 2025",
+            "href": "https://evanhahn.com/notes-from-june-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#nonogram",
+            "href": "https://evanhahn.com/tags/nonogram/"
+        },
+        {
+            "text": "#bittorrent",
+            "href": "https://evanhahn.com/tags/bittorrent/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "Notes from \"Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI\"",
+            "href": "https://evanhahn.com/empire-of-ai-book-notes/"
+        },
+        {
+            "text": "#book-notes",
+            "href": "https://evanhahn.com/tags/book-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#culture",
+            "href": "https://evanhahn.com/tags/culture/"
+        },
+        {
+            "text": "Notes from April 2025",
+            "href": "https://evanhahn.com/notes-from-april-2025/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#ethics",
+            "href": "https://evanhahn.com/tags/ethics/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        },
+        {
+            "text": "LLMs: harmful to technical innovation?",
+            "href": "https://evanhahn.com/llms-and-technical-innovation/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#software-development",
+            "href": "https://evanhahn.com/tags/software-development/"
+        },
+        {
+            "text": "Why should AI be humanlike?",
+            "href": "https://evanhahn.com/why-should-ai-be-humanlike/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#quote",
+            "href": "https://evanhahn.com/tags/quote/"
+        }
+    ],
+    "text_length": 1371,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n16 posts tagged #ai\n2026\nOffline command line translation with TranslateGemma + Ollama\n2026-05-01 #tool #release #ai #ollama\nAll tests pass: a short story\n2026-03-22 #story #ai #arturo #compression #satire\nhuman.json\n2026-03-14 #me #ai #link\nHow I use generative AI on this blog\n2026-03-12 #ai #ethics #writing #me\nIntroducing llm-eliza\n2026-03-08 #ai #experiment #release #satire\nAn LLM that's 7500× stupider\n2026-01-27 #ai #experiment #ollama\n2025\nNotes from December 2025\n2025-12-31 #month-notes #ai #algorithm #software-development #public-domain #video-games\nNotes from November 2025\n2025-11-30 #month-notes #ethics #ai #open-source #performance #chicago\nNotes from September 2025\n2025-09-30 #month-notes #software-development #ethics #ai #video-games #chicago\nLocal LLMs versus offline Wikipedia\n2025-07-19 #experiment #ai #data #ollama\nSimple macOS script to extract text from images (OCR)\n2025-07-14 #release #macos #swift #ai\nNotes from June 2025\n2025-06-30 #month-notes #ai #open-source #nonogram #bittorrent #link\nNotes from \"Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI\"\n2025-06-23 #book-notes #ai #ethics #culture\nNotes from April 2025\n2025-04-30 #month-notes #ai #ethics #link #quote\nLLMs: harmful to technical innovation?\n2025-02-02 #ai #software-development\n2013\nWhy should AI be humanlike?\n2013-01-03 #ai #quote"
+}

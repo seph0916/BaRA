@@ -1,0 +1,103 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 23,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "deep-dive",
+            "href": "https://nesbitt.io/search#deep-dive"
+        },
+        {
+            "text": "Left-pad",
+            "href": "https://en.wikipedia.org/wiki/Npm_left-pad_incident"
+        },
+        {
+            "text": "Rust RFCs",
+            "href": "https://github.com/rust-lang/rfcs"
+        },
+        {
+            "text": "PEPs",
+            "href": "https://peps.python.org/"
+        },
+        {
+            "text": "Common Package Specification",
+            "href": "https://nesbitt.io/2026/04/13/common-package-specification.html"
+        },
+        {
+            "text": "The Roles of Packages",
+            "href": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html"
+        },
+        {
+            "text": "What's Going On with FAIR Package Manager",
+            "href": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html"
+        },
+        {
+            "text": "If It Quacks Like a Package Manager",
+            "href": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+        },
+        {
+            "text": "Package Managers Need to Cool Down",
+            "href": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-12-22-package-registries-are-governance-as-a-service.md"
+        }
+    ],
+    "text_length": 4213,
+    "text_full": "Andrew Nesbitt\n      \nPackage Registries Are Governance Providers\npackage-managersdeep-dive\n\nDec 22, 2025\n\nPackage registries are infrastructure. They host files, serve downloads, run APIs. But they’re also governance providers, and that second role gets less attention. When a registry decides who owns a disputed package name, whether an unpublished package should be restored, or how to handle a compromised maintainer account, those aren’t infrastructure decisions. They’re political choices with real consequences. Registries do both jobs at once: the hosting and the ruling.\n\nA registry decides who owns express or urllib3 or sinatra, whether scopes exist, and who can claim them. It determines what happens when a maintainer abandons a popular package, how ownership transfers work, whether malware triggers removal, and whether published versions are reversible. These are political choices about rights and responsibilities, not operational concerns.\n\nLeft-pad made this visible. When Azer Koçulu unpublished his packages after a naming dispute with Kik, npm’s policies about removal and dependency chains became front-page news. The registry’s governance had always been there, embedded in terms of service and incident responses. It just hadn’t been tested publicly at scale.\n\nDifferent registries make different choices, and the variation is telling. npm allows scoped namespaces and relatively permissive unpublishing, at least within time windows. Maven Central requires proving ownership of a group ID through domain verification. RubyGems has a flat namespace with name dispute processes handled by humans. These aren’t resource constraints or implementation accidents. They reflect philosophical positions about scarcity, squatting, authority, and reversibility.\n\nSome registries have made their governance explicit: crates.io has Rust RFCs and PyPI has PEPs, providing public processes where policy changes are debated before adoption. If registries were pure infrastructure, they would converge on the same policies the way CDNs converge on caching strategies.\n\nSystem package distributions make governance explicit in a way language registries don’t. Debian maintainers patch upstream code, backport security fixes, and sometimes refuse to ship packages at all. Fedora makes licensing decisions that exclude certain software categories. Alpine strips packages down for size constraints. Homebrew’s maintainers decide what gets into core versus casks, and they’ll reject formulas that don’t meet quality bars. These distributions acknowledge their curatorial role.\n\nLanguage registries do much of the same work, just less visibly. When npm removes a malicious package, when PyPI disables a compromised account, when RubyGems transfers ownership of an abandoned gem, they are exercising the same authority that Debian exercises when it ships a patched OpenSSL. The difference is framing. Distributions present themselves as curators; registries present themselves as platforms. But the governance function is identical.\n\nThis matters for how we fund and legitimize these systems. Infrastructure gets treated as a cost center, something to minimize and optimize. Governance requires expertise, accountability, and deliberation. The people making judgment calls about malware reports, naming disputes, and takedown requests are doing governance work. If we treat registries as governance institutions, not just infrastructure, we have to ask a different set of questions. How they’re designed, who they’re accountable to, and what values they encode.\n\nRelated posts\nCommon Package Specification Apr 13, 2026\n\nNot the cross-ecosystem format the name suggests.\n\nThe Roles of Packages Mar 29, 2026\n\nApplying Sajaniemi's roles of variables to packages across every kind of package manager.\n\nWhat's Going On with FAIR Package Manager Mar 14, 2026\n\nFederated FAIR pivots from WordPress to TYPO3\n\nIf It Quacks Like a Package Manager Mar 8, 2026\n\nSome tools waddle like package managers without learning to swim.\n\nPackage Managers Need to Cool Down Mar 4, 2026\n\nA survey of dependency cooldown support across package managers and update tools.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

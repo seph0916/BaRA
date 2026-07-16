@@ -1,0 +1,163 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/hyrums-law.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 37,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=Hyrum%27s+Law%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fhyrums-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fhyrums-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fhyrums-law%2F&title=Hyrum%27s+Law%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/hyrums-law/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/#further-reading"
+        },
+        {
+            "text": "Hyrum's Law Official Site\nThe official explanation of Hyrum's Law",
+            "href": "https://www.hyrumslaw.com/"
+        },
+        {
+            "text": "Software Engineering at Google\nDiscusses Hyrum's Law in the context of large-scale systems",
+            "href": "https://abseil.io/resources/swe-book/html/ch01.html#hyrumapostrophes_law"
+        },
+        {
+            "text": "Hyrum's Law on xkcd\nComic illustrating the problem",
+            "href": "https://xkcd.com/1172/"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "ARCHITECTURE\nThe Law of Leaky Abstractions\n\nAll non-trivial abstractions, to some degree, are leaky.",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 3870,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nHyrum's Law\nHyrum's Law\nARCHITECTURE\nSENIOR\n2 min read\n\nWith a sufficient number of API users, all observable behaviors of your system will be depended on by somebody.\n\nTakeaways\nAs the user count grows, everything your system does becomes a dependency point. Even unintended side effects or bugs can become ‘features’ that someone’s workflow depends on.\nHyrum’s Law warns maintainers that any change can break something for someone. Consumers may have integrated your API in ways you didn’t expect, including relying on timing, error messages, formatting, etc.\nThe actual contract of your software isn’t just the official API/spec; it’s the exact behavior as observed in the wild. The contract can even be something informal, such as the UI that your users are used to.\nOverview\n\nHyrum’s Law describes a phenomenon where the boundary between a software’s documented interface and its implementation details gets blurred in practice. No matter what you promise in an API contract, if people use your system enough, they will depend on behaviors you never officially supported.\n\nOver time, the implementation becomes the interface. Every observable trait, performance characteristic, or error code might be assumed by someone. This drastically limits freedom to change the system, as even internal changes can break users who wrote code around the old behavior.\n\nHyrum’s Law\n\nExamples\n\nMicrosoft Windows had undocumented behaviors and bugs that many third-party applications relied on. When Microsoft fixed or changed those behaviors in new versions, those applications broke. Microsoft often had to revert or maintain quirky behavior to ensure compatibility.\n\nA library might state in the docs that a function returns an unordered list, but it currently returns a sorted list. Some users start depending on it being sorted. If the library later changes to truly unordered, those users’ code will break. The law is especially relevant in API versioning: even minor changes can be breaking changes from someone’s perspective.\n\nOrigins\n\nThe law is named after Hyrum Wright, a software engineer who articulated this observation while at Google around 2011-2012. Hyrum noticed that even changes to core Google libraries that should have been invisible would often break some project somewhere, because that project relied on an undocumented behavior.\n\nHis colleague, Titus Winters, coined the term “Hyrum’s Law” in recognition of it (in Software Engineering at Google).\n\nFurther Reading\nHyrum's Law Official Site\nThe official explanation of Hyrum's Law\nSoftware Engineering at Google\nDiscusses Hyrum's Law in the context of large-scale systems\nHyrum's Law on xkcd\nComic illustrating the problem\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). Hyrum's Law. Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/hyrums-law/\n\nPlain text: \"Hyrum's Law\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/hyrums-law/\n\nBibTeX: @misc{milanovic_hyrums-law_2026, author = {Dr. Milan Milanović}, title = {Hyrum's Law}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/hyrums-law/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nARCHITECTURE\nThe Law of Leaky Abstractions\n\nAll non-trivial abstractions, to some degree, are leaky.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

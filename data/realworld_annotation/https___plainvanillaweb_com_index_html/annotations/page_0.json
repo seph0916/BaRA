@@ -1,0 +1,79 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 17,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://plainvanillaweb.com/index.html#main-content"
+        },
+        {
+            "text": "Welcome",
+            "href": "https://plainvanillaweb.com/index.html#"
+        },
+        {
+            "text": "Components",
+            "href": "https://plainvanillaweb.com/pages/components.html"
+        },
+        {
+            "text": "Styling",
+            "href": "https://plainvanillaweb.com/pages/styling.html"
+        },
+        {
+            "text": "Sites",
+            "href": "https://plainvanillaweb.com/pages/sites.html"
+        },
+        {
+            "text": "Applications",
+            "href": "https://plainvanillaweb.com/pages/applications.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/"
+        },
+        {
+            "text": "Components",
+            "href": "https://plainvanillaweb.com/pages/components.html"
+        },
+        {
+            "text": "Styling",
+            "href": "https://plainvanillaweb.com/pages/styling.html"
+        },
+        {
+            "text": "Sites",
+            "href": "https://plainvanillaweb.com/pages/sites.html"
+        },
+        {
+            "text": "Applications",
+            "href": "https://plainvanillaweb.com/pages/applications.html"
+        },
+        {
+            "text": "HTML for People",
+            "href": "https://htmlforpeople.com/"
+        },
+        {
+            "text": "The Odin Project Foundations Course",
+            "href": "https://www.theodinproject.com/paths/foundations/courses/foundations"
+        },
+        {
+            "text": "Get Started",
+            "href": "https://plainvanillaweb.com/pages/components.html"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/index.html#top"
+        }
+    ],
+    "text_length": 1551,
+    "text_full": "Skip to main content\nPlain Vanilla\n\nAn explainer for web development using only vanilla techniques.\nNo tools, no frameworks — just HTML, CSS, and JavaScript.\n\nWelcome\nComponents\nStyling\nSites\nApplications\nBlog\n\nLearn how to make web sites and web applications without build tools or frameworks, with just an editor, a browser, and web standards.\n\nComponents\nUse web components to make higher-level primitives\nout of plain HTML, JavaScript, and CSS.\nStyling\nLeverage modern CSS to replace the conveniences\nof CSS Modules, PostCSS, or SASS.\nSites\nMake a vanilla web site and get it online without\nbuild tools, frameworks or server-side logic.\nApplications\nCraft single-page applications with vanilla strategies\nfor client-side routing and managing state.\nWhy go plain vanilla?\n\nModern web development frameworks offer rich functionality, but this comes at the cost of framework and tooling complexity. The plain vanilla style of web development takes a different path, trading off short term comforts for long term benefits like simplicity and being effectively zero-maintenance.\n\nWho is this for?\n\nThis tutorial is meant for those who already know their way around HTML, CSS, and JavaScript, and are looking to press the eject button on tooling complexity.\n\nIf you're just starting out learning web development then this is not the site for you yet. You can get started at HTML for People or The Odin Project Foundations Course.\n\nUp next\n\nLearn how to use Web Components to compose content, style and behavior.\n\nGet Started\n\nContact GitHub\n\nBack to top"
+}

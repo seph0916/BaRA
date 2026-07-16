@@ -1,0 +1,61 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/vim-tabclose/cover_hu05e50695b4b0858a2e9f131f1fdb039b_59726_1500x0_resize_q75_h2_box_2.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 12,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "vim",
+            "href": "https://piechowski.io/tags/vim"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "How to Open a New Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabnew/"
+        },
+        {
+            "text": "How to Open a New Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabnew/"
+        },
+        {
+            "text": "Vim: How to Open Current Opened File in New Tab",
+            "href": "https://piechowski.io/post/how-to-open-current-opened-file-in-new-tab-vim/"
+        },
+        {
+            "text": "The Git Commands I Run Before Reading Any Code",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        },
+        {
+            "text": "Why Your Engineering Team Is Slow (It's the Codebase, Not the People)",
+            "href": "https://piechowski.io/post/codebase-drag-audit/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        }
+    ],
+    "text_length": 1255,
+    "text_full": "Work With Me\nGithub\nBlog\nHow to Close a Tab in Vim\n\nTo close a tab in vim, use :tabclose\n\nAlly Piechowski · Mar 9, 2026 · 1 min read\nvim\ndevelopment\n\nIn order to close a tab in vim, in normal mode type :tabclose (or the shorthand :tabc).\n\nThis will close the current tab page and all of its windows.\n\nIf you only have one tab open, vim will give you an error. Use :q instead.\n\nYou can read more by typing :help tabclose, which outputs this message:\n\n:tabc[lose][!]    Close current tab page.\n        This command fails when:\n        - There is only one tab page on the screen.\n        - When 'hidden' is not set, [!] is not used, a buffer has\n          changes, and there is no other window on this buffer.\n        Changes to the buffer are not written and won't get lost, so\n        this is a \"safe\" command. >\n                    :tabclose   \" close the current tab page\n\n\nLooking to open a new tab instead? See How to Open a New Tab in Vim.\n\nRelated Articles\nHow to Open a New Tab in Vim\nVim: How to Open Current Opened File in New Tab\nThe Git Commands I Run Before Reading Any Code\nWhy Your Engineering Team Is Slow (It's the Codebase, Not the People)\nHow I Audit a Legacy Rails Codebase in the First Week\nLet's talk about your codebase.\nEmail\nMessage"
+}

@@ -1,0 +1,983 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5242669.jpg?imageId=5242669&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5242479.jpg?imageId=5242479&panox=0.00&panoy=13.97&panow=100.00&panoh=72.07&heightx=40.06&heighty=0.00&heightw=40.95&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5242247.jpg?imageId=5242247&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220456.jpg?imageId=5220456&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=34.76&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/224087.jpg?imageId=224087&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240833.jpg?imageId=5240833&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/109601.jpg?imageId=109601&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239187.jpg?imageId=5239187&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239008.jpg?imageId=5239008&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238949.jpg?imageId=5238949&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257723.jpg?imageId=257723&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238067.jpg?imageId=5238067&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237994.jpg?imageId=5237994&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237950.jpg?imageId=5237950&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/101297.jpg?imageId=101297&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5235606.jpg?imageId=5235606&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/101422.jpg?imageId=101422&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/101297.jpg?imageId=101297&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5234756.jpg?imageId=5234756&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5234620.jpg?imageId=5234620&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230516.jpg?imageId=5230516&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226908.jpg?imageId=5226908&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256118.jpg?imageId=256118&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227770.jpg?imageId=5227770&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257106.jpg?imageId=257106&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254673.jpg?imageId=254673&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224613.jpg?imageId=5224613&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261737.jpg?imageId=261737&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232811.jpg?imageId=232811&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226825.jpg?imageId=226825&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/249902.jpg?imageId=249902&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229720.jpg?imageId=229720&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255316.jpg?imageId=255316&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231079.jpg?imageId=231079&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222639.jpg?imageId=222639&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/233128.jpg?imageId=233128&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/242181.jpg?imageId=242181&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/233718.jpg?imageId=233718&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252006.jpg?imageId=252006&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225143.jpg?imageId=5225143&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221547.jpg?imageId=5221547&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224005.jpg?imageId=5224005&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231334.jpg?imageId=231334&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/223432.jpg?imageId=223432&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257077.jpg?imageId=257077&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226944.jpg?imageId=5226944&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5223474.jpg?imageId=5223474&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225321.jpg?imageId=225321&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261805.jpg?imageId=261805&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/249797.jpg?imageId=249797&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228344.jpg?imageId=228344&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230049.jpg?imageId=230049&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254353.jpg?imageId=254353&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227275.jpg?imageId=227275&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261805.jpg?imageId=261805&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221710.jpg?imageId=5221710&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225832.jpg?imageId=5225832&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227119.jpg?imageId=5227119&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257127.jpg?imageId=257127&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230658.jpg?imageId=230658&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220144.jpg?imageId=5220144&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254089.jpg?imageId=254089&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222706.jpg?imageId=5222706&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252904.jpg?imageId=252904&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230387.jpg?imageId=230387&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5223633.jpg?imageId=5223633&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/248317.jpg?imageId=248317&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226457.jpg?imageId=226457&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227503.jpg?imageId=227503&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259951.jpg?imageId=259951&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 224,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/cyber_crime#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Shai-Hulud keeps burrowing: 314 npm packages infected after another account compromise\n\nPopular JavaScript modules including size-sensor and echarts-for-react hit as hijacked account closed GitHub warnings",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/19/shai-hulud-keeps-burrowing-314-npm-packages-infected-after-another-account-compromise/5242601"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/202611/"
+        },
+        {
+            "text": "Crook leaks 468k+ records, claims they pwned Portugal’s postal carrier\n\nOrdered packages via CTT? Those phishing emails could be tricky to spot",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/19/468k-records-allegedly-stolen-from-portugals-postal-carrier/5242457"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/202610/"
+        },
+        {
+            "text": "Shai-Hulud copycat worm infects yet another npm package\n\nPlus three other stealers in three other packages, all from the same scumbag",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/202621/"
+        },
+        {
+            "text": "Dutch cops’ shame game works wonders as most wanted scammers now turned in\n\nGame Over?! gamified the identification of scammers who sought thrills from terrorising the elderly",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/18/dutch-cops-shame-games-nets-74-wanted-fraudsters/5241980"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/202614/"
+        },
+        {
+            "text": "Grafana Labs admits all its codebase are belong to someone who popped its GitHub account\n\nNo customer info stolen, no impact to operations, and no blackmail payment",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/18/grafana-labs-admits-attackers-downloaded-its-codebase-from-github/5241686"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/20261/"
+        },
+        {
+            "text": "Nobody believes the 'criminals and scumbags' who hacked Canvas really deleted stolen student data\n\nOther than Instructure execs - maybe?",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/202621/"
+        },
+        {
+            "text": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub\n\nWhere it’s been well and truly forked, seemingly without Microsoft’s code locker noticing",
+            "href": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/20265/"
+        },
+        {
+            "text": "Foxconn confirms cyberattack after ransomware crew claims it stole confidential Apple, Nvidia files\n\nAffected factories back up and running, we're told",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202623/"
+        },
+        {
+            "text": "Congress investigates Canvas breach as company pays ransom\n\nInstructure CEO Steve Daly's got some explaining to do",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/12/congress-investigates-canvas-breach-after-instructure-cuts-deal-with-shinyhunters/5238927"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202619/"
+        },
+        {
+            "text": "AirBit crypto Ponzi victims can now claim slice of $400M asset haul\n\nAfter guilty pleas, prison terms, and seizures, the DOJ has opened the compensation process",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/12/airbit-crypto-ponzi-victims-can-now-claim-slice-of-400m-asset-haul/5238867"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202620/"
+        },
+        {
+            "text": "Cache-poisoning caper turns TanStack npm packages toxic\n\nSix-minute supply chain blitz pushed 84 malicious versions with credential theft and disk-wiping code",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/12/cache-poisoning-caper-turns-tanstack-npm-packages-toxic/5238650"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202610/"
+        },
+        {
+            "text": "FleetWave outage takes another turn. Chevin confirms crooks accessed customer data\n\nA month after bringing systems back online, SaaS vendor tells customers attackers potentially walked off with operational data, contact details, and payroll numbers",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/12/fleetwave-outage-takes-another-turn-chevin-confirms-crooks-accessed-customer-data/5238046"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/20265/"
+        },
+        {
+            "text": "Google says criminals used AI-built zero-day in planned mass hack spree\n\nGTIG says AI-powered hacking has moved well beyond phishing emails and chatbot tricks",
+            "href": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/11/202612/"
+        },
+        {
+            "text": "Water company's leaky security earns near-£1M fine\n\nUtility provider failed to detect Cl0p ransomware attack for nearly two years",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/11/ico-fines-south-staffordshire-963k-over-2022-breach/5237875"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/05/11/202615/"
+        },
+        {
+            "text": "Disgraced US gov software contractor found guilty of database destruction\n\nTwin brother still faces trial over broader cybercrime allegations",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/08/former-us-contractor-convicted-in-federal-database-wipe-case/5237296"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/202617/"
+        },
+        {
+            "text": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack\n\nShinyHunters takes the credit and gives developer an F for security",
+            "href": "https://www.theregister.com/security/2026/05/08/hackers-ate-my-homework-educational-saas-canvas-down-after-cyberattack/5235561"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/20267/"
+        },
+        {
+            "text": "Fake IT workers rented laptops to Nork scammers, got prison time\n\nMatthew Isaac Knoot and Erick Ntekereze Prince will each do 18 months for hosting laptops used by North Korean IT workers to remotely infiltrate US companies",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/07/fake-it-workers-rented-laptops-to-nork-scammers-got-prison-time/5235342"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/05/07/202618/"
+        },
+        {
+            "text": "$250M crypto-robbing gang’s dirty work guy sentenced to 6.5 years behind bars\n\nThe then-teen was told to break in and steal what the keyboard warriors couldn’t",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/07/250m-crypto-robbing-gangs-dirty-work-guy-sentenced-to-65-years-behind-bars/5234787"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/05/07/202614/"
+        },
+        {
+            "text": "State-backed hackers hammer Palo Alto firewall zero-day before patch lands\n\nInternet-facing PAN-OS firewalls are once again doing impressions of initial access brokers",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/07/state-backed-hackers-hammer-palo-alto-firewall-zero-day-before-patch-lands/5234737"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/05/07/202612/"
+        },
+        {
+            "text": "Hungarian cops cuff suspected swatter after two-year FBI probe\n\n20-year-old fessed up after investigators found video of crime in progress",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/07/fbi-locates-alleged-rhode-island-swatter-in-hungary/5234582"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/05/07/202610/"
+        },
+        {
+            "text": "Taiwan cops say student's radio kit brought bullet trains to a standstill\n\nInvestigators spent weeks unravelling enthusiast's bedroom project",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/06/taiwan-student-pwns-rail-comms-halts-high-speed-trains/5230489"
+        },
+        {
+            "text": "72",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/20265/"
+        },
+        {
+            "text": "Attackers are cashing in on fresh 'CopyFail' Linux flaw\n\nResearchers dropped a reliable root exploit and it didn’t sit idle for long",
+            "href": "https://www.theregister.com/security/2026/05/05/copyfail-attackers-start-cashing-in-on-linux-flaw/5226930"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/cisa_sounds_the_alarm_on/"
+        },
+        {
+            "text": "Real estate giant confirms vishing incident as ShinyHunters and Qilin both come knocking\n\nCushman & Wakefield activated incident response protocols after serial extortionists issued separate threats",
+            "href": "https://www.theregister.com/security/2026/05/05/cushman-wakefield-confirms-vishing-cyberattack/5228718"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/cushman_wakefield/"
+        },
+        {
+            "text": "ShinyHunters claims dump puts 119K Vimeo emails in the wild\n\nVimeo points finger at analytics supplier Anodot, says no logins or card data were touched",
+            "href": "https://www.theregister.com/patches/2026/05/05/shinyhunters-claims-119k-vimeo-emails-in-the-wild/5227389"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/shinyhunters_dump_puts_119k_vimeo/"
+        },
+        {
+            "text": "Romance scammers turn sweet talk into £102M payday\n\nVictims losing £280K a day to fake profiles and sob stories",
+            "href": "https://www.theregister.com/security/2026/05/05/romance-fraudsters-fleeced-uk-victims-of-102m-in-2025/5227963"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/romance_scam_figures/"
+        },
+        {
+            "text": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed\n\nExploitation was underway before patches landed, at least one victim reports ransomware demand",
+            "href": "https://www.theregister.com/security/2026/05/01/critical-cpanel-exploited-millions-of-sites-could-be-hit/5225588"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/05/01/critical_cpanel_vuln_hits_cisa/"
+        },
+        {
+            "text": "Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down\n\n313 Team tells Canonical: pay up or the packets keep coming",
+            "href": "https://www.theregister.com/security/2026/05/01/pro-iran-group-turns-ubuntu-ddos-into-shakedown/5224575"
+        },
+        {
+            "text": "98",
+            "href": "https://forums.theregister.com/forum/all/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/"
+        },
+        {
+            "text": "The never-ending supply chain attacks worm into SAP npm packages, other dev tools\n\nMini Shai-Hulud caught spreading credential-stealing malware",
+            "href": "https://www.theregister.com/security/2026/05/01/ongoing-supply-chain-attacks-worm-into-sap-npm-packages/5228837"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/supply_chain_attacks_sap_npm_packages/"
+        },
+        {
+            "text": "FBI cyber boss: China's hacker-for-hire ecosystem 'out of control'\n\nOne alleged cyber contractor was extradited to the US over the weekend",
+            "href": "https://www.theregister.com/security/2026/04/30/fbi-chinas-hacker-for-hire-ecosystem-out-of-control/5227748"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/fbi_cyber_boss_chinas_hackerforhire/"
+        },
+        {
+            "text": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency\n\nTwo computer crime allegations follow up to 18M lines of data surfacing online",
+            "href": "https://www.theregister.com/security/2026/04/30/french-prosecutors-link-15-year-old-to-gov-mega-breach/5221613"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/french_gov_mega_breach_suspect/"
+        },
+        {
+            "text": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005\n\nTurns out the real problem is not AI but staff still clicking on dodgy emails from 'IT support'",
+            "href": "https://www.theregister.com/security/2026/04/30/uk-business-breach-rate-stuck-at-43-blame-the-phishing/5220326"
+        },
+        {
+            "text": "23",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/almost_half_of_uk_firms/"
+        },
+        {
+            "text": "What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia\n\nJust in time for the Trump-Xi summit",
+            "href": "https://www.theregister.com/security/2026/04/30/chinese-spy-group-caught-lurking-in-poland-asia-networks/5227509"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/chinese_spies_lurking_networks/"
+        },
+        {
+            "text": "Microsoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack\n\nSecond try's a charm?",
+            "href": "https://www.theregister.com/security/2026/04/29/microsoft-patch-fell-short-new-windows-flaw-exploited/5227153"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/microsoft_zero_click_exploit/"
+        },
+        {
+            "text": "Don't pay Vect a ransom - your data's likely already wiped out\n\n'Full recovery is impossible for anyone, including the attacker'",
+            "href": "https://www.theregister.com/security/2026/04/28/dont-pay-vect-a-ransom-your-big-files-are-likely-gone/5227697"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/dont_pay_vect_a_ransom/"
+        },
+        {
+            "text": "Have I Been Pwned claims Pitney Bowes hit by 8.2M email address leak\n\nNames, phone numbers, physical addresses also included in Shiny Hunters alleged data dump",
+            "href": "https://www.theregister.com/security/2026/04/28/pitney-bowes-the-latest-victim-of-shinyhunters-breach-spree/5222896"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/pitney_bowes_is_the_latest/"
+        },
+        {
+            "text": "Ongoing supply-chain attack 'explicitly targeting' security, dev tools\n\nVendor confirms repo data exposure after Lapsus$ claims source code, secrets dump",
+            "href": "https://www.theregister.com/security/2026/04/28/ongoing-supply-chain-attack-targets-security-dev-tools/5226665"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/supply_chain_campaign_targets_security/"
+        },
+        {
+            "text": "Medical and utility tech companies admit digital breakins\n\nItron, Medtronic disclose breaches in Friday filings",
+            "href": "https://www.theregister.com/security/2026/04/27/medical-and-utility-tech-companies-admit-digital-breakins/5221046"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/itron_medtronic_hacked/"
+        },
+        {
+            "text": "Burglar alarm biz burgled: ADT confirms cyber intrusion after ShinyHunters extortion attempt\n\nSecurity giant says attackers grabbed 'limited set' of data. Crooks claim 10 million records",
+            "href": "https://www.theregister.com/security/2026/04/27/burglar-alarm-biz-gets-burgled-shinyhunters-pursues-ransom/5226645"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/home_security_giant_adt_gets/"
+        },
+        {
+            "text": "Crime crew impersonates help desk, abuses Microsoft Teams to steal your data\n\nComing in cold with custom Snow malware",
+            "href": "https://www.theregister.com/security/2026/04/25/crime-crew-impersonates-help-desk-abuses-teams-chats/5221505"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/04/25/new_crime_crew_impersonates_help_desks/"
+        },
+        {
+            "text": "ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface\n\nLeak-site bragging meets breach hunters as Have I Been Pwned flags millions of records",
+            "href": "https://www.theregister.com/security/2026/04/24/shinyhunters-claim-they-have-cruise-giant-carnivals-booty/5224615"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/shinyhunters_claim_cruise_giant_carnivals/"
+        },
+        {
+            "text": "Governments on high alert after CISA snuffs out Firestarter backdoor on fed network\n\nLatest in long-running pwning of Cisco kit found in mystery Fed agency",
+            "href": "https://www.theregister.com/security/2026/04/24/cisa-ncsc-issue-firestarter-backdoor-warning/5221148"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/government_cni_on_high_alert/"
+        },
+        {
+            "text": "Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'\n\nLegit-looking website, camera-on interviews, jokes about backdoors ... it worked",
+            "href": "https://www.theregister.com/security/2026/04/23/dev-targeted-by-sophisticated-job-scam/5226263"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/04/23/job_scam_targeted_developer/"
+        },
+        {
+            "text": "Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn\n\nAll the Typhoons, everywhere, all at once",
+            "href": "https://www.theregister.com/security/2026/04/23/china-linked-crews-turn-routers-into-covert-attack-proxies/5228232"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/04/23/china_covert_networks/"
+        },
+        {
+            "text": "Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals\n\nWorld's largest biomedical dataset lifted and shifted on Chinese mega marketplace",
+            "href": "https://www.theregister.com/security/2026/04/23/500k-biobank-volunteers-data-listed-for-sale-on-alibaba/5229664"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/04/23/500k_biobank_volunteers_data_listed/"
+        },
+        {
+            "text": "Another npm supply chain worm is tearing through dev environments\n\nPlus, the payload references 'TeamPCP/LiteLLM method'",
+            "href": "https://www.theregister.com/security/2026/04/22/another-npm-supply-chain-worm-hits-dev-environments/5220989"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/another_npm_supply_chain_attack/"
+        },
+        {
+            "text": "France's 'Secure' ID agency probes breach as crooks claim 19M records\n\nGov admits 'incident' as forum sellers boast of fresh haul covering up to a third of the population",
+            "href": "https://www.theregister.com/security/2026/04/22/frances-secure-id-agency-probes-claimed-19m-record-breach/5226902"
+        },
+        {
+            "text": "38",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/frances_secure_id_agency_probes/"
+        },
+        {
+            "text": "Murder, she wrote: Ex-FBI chief wants some ransomware crims charged with homicide\n\nLawmakers decry CISA cuts: 'We are shooting ourselves in the foot'",
+            "href": "https://www.theregister.com/security/2026/04/21/ex-fbi-lead-urges-homicide-charges-against-ransomware-scum/5225420"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/exfbi_cyber_chief_urges_felony_charges_ransomware/"
+        },
+        {
+            "text": "More Cisco SD-WAN bugs battered in attacks\n\nCISA gives federal agencies 4 days to patch",
+            "href": "https://www.theregister.com/security/2026/04/21/more-cisco-sd-wan-bugs-battered-in-attacks/5229107"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/cisco_sdwan_bugs_kev/"
+        },
+        {
+            "text": "macOS ClickFix attacks deliver AppleScript stealers to snarf credentials, wallets\n\nData from browsers, cryptocurrency wallets, 200+ extensions hoovered up",
+            "href": "https://www.theregister.com/security/2026/04/21/macos-clickfix-attacks-deliver-applescript-stealers/5226728"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/macos_clickfix_attacks_deliver_applescript/"
+        },
+        {
+            "text": "Yet another ex-ransomware negotiator admits turning rogue after payoff from crimelords\n\nPlus: Court papers reveal nonprofit paid a ransom worth nearly $26.8 million",
+            "href": "https://www.theregister.com/security/2026/04/21/third-ransomware-pro-pleads-guilty-to-cybercrime-u-turn/5222277"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/yet_another_ex_ransomware_negotiator_pleads/"
+        },
+        {
+            "text": "AI-assisted intruders pwned Vercel via OAuth abuse and a pilfered employee account\n\nCEO suspects silicon sidekick behind 'surprising velocity' breach - cyber crims shop stolen data for $2M",
+            "href": "https://www.theregister.com/security/2026/04/21/ai-pwned-vercel-breach-traced-to-stolen-employee-creds/5221254"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/vercel_ceo_points_to_aidriven/"
+        },
+        {
+            "text": "Crook claims to leak 'video surveillance footage' of companies\n\nMexican IT services firm admits it was hacked, but says client operations weren't affected",
+            "href": "https://www.theregister.com/security/2026/04/21/crook-claims-to-leak-video-surveillance-footage-of-firms/5222481"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/be_prime_cctv_leak/"
+        },
+        {
+            "text": "Adaptavist Group breach spawns imposter emails as ransomware crew claims mega-haul\n\nFake emails already doing the rounds as ransomware crew boasts about what it allegedly stole",
+            "href": "https://www.theregister.com/security/2026/04/21/adaptavist-group-breach-ransomware-crew-claims-mega-haul/5220317"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/adaptavist_group_breach_spawns_impostor/"
+        },
+        {
+            "text": "Scot becomes second Scattered Spider-linked crook to plead guilty in US\n\nTyler Buchanan admits role in scheme that stole at least $8 million in virtual currency",
+            "href": "https://www.theregister.com/security/2026/04/20/us-gets-second-scattered-spider-linked-guilty-plea/5220131"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/04/20/scattered_spider_linked_scot_plead_guilty/"
+        },
+        {
+            "text": "North Korea targets macOS users in latest heist\n\nSocial engineering: 'low-cost, hard to patch, and scales well'",
+            "href": "https://www.theregister.com/security/2026/04/16/north-korea-targets-macos-users-in-latest-heist/5229126"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/north_korea_social_engineering_macos/"
+        },
+        {
+            "text": "Textbook titan McGraw Hill on ransomware crew's reading list after 13.5M records exposed\n\nPublisher claims misconfigured Salesforce-hosted page leaked data",
+            "href": "https://www.theregister.com/security/2026/04/16/mcgraw-hill-linked-to-135m-record-data-leak/5221260"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/mcgraw_hill_salesforce/"
+        },
+        {
+            "text": "Automotive data biz Autovista blames ransomware for service disruption\n\nSome customer orgs tell staff to block inbound email from the provider",
+            "href": "https://www.theregister.com/security/2026/04/15/autovista-blames-ransomware-for-service-disruption/5225309"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/automotive_data_biz_autovista_ransomware/"
+        },
+        {
+            "text": "French cops free mother and son after 20-hour crypto kidnap ordeal\n\nLatest in a string of cases that have earned France an unfortunate title",
+            "href": "https://www.theregister.com/security/2026/04/15/french-cops-free-mother-and-son-after-crypto-kidnapping/5226623"
+        },
+        {
+            "text": "18",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/crypto_kidnap_france/"
+        },
+        {
+            "text": "No honor among thieves as 0APT threatens rival ransomware gang Krybit\n\nHoney, the skids are fighting again",
+            "href": "https://www.theregister.com/security/2026/04/14/0apt-ransomware-gang-extorts-krybit-amid-doxxing-threat/5226000"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/0apt_krybit_spat/"
+        },
+        {
+            "text": "Zombie Microsoft bugs rise from the dead, pave way for crims and ransomware scum\n\nOne was patched almost 14 years ago",
+            "href": "https://www.theregister.com/security/2026/04/13/ransomware-scum-other-crims-exploit-4-old-microsoft-bugs/5222887"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/ransomware_gang_other_crims_attacking/"
+        },
+        {
+            "text": "Fake Linux leader using Slack to con devs into giving up their secrets\n\nGoogle Sites lure leads to bogus root certificate",
+            "href": "https://www.theregister.com/security/2026/04/13/fake-linux-foundation-leader-using-slack-to-phish-devs/5219669"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/linux_foundation_social_engineering/"
+        },
+        {
+            "text": "Booking.com warns reservation data may have checked out with intruders\n\nTravel giant says names, contact details, dates, and hotel messages potentially exposed",
+            "href": "https://www.theregister.com/security/2026/04/13/bookingcom-warns-of-possible-reservation-data-exposure/5224520"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/bookingcom_breach/"
+        },
+        {
+            "text": "Adobe finally patches PDF pest after months of abuse\n\nReader and Acrobat flaw let booby-trapped documents profile targets and hijack machines",
+            "href": "https://www.theregister.com/software/2026/04/13/adobe-finally-patches-pdf-pest-after-months-of-abuse/5222279"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/adobe_reader_zeroday/"
+        },
+        {
+            "text": "Gym giant Basic-Fit confirms data on a million members stolen in cyberattack\n\nNames, addresses, dates of birth, and bank details accessed, though not passwords",
+            "href": "https://www.theregister.com/security/2026/04/13/gym-giant-basic-fit-breached-with-at-least-1m-affected/5220344"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/basicfit_breach/"
+        },
+        {
+            "text": "Rockstar Games gets a taste of grand theft data\n\nShinyHunters claims it accessed Snowflake metrics via third-party tool",
+            "href": "https://www.theregister.com/security/2026/04/13/rockstar-games-gets-a-taste-of-grand-theft-data/5227426"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/shinyhunters_rockstar_breach/"
+        },
+        {
+            "text": "Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case\n\nCops bust latest scam, return $12m to bilked victims",
+            "href": "https://www.theregister.com/security/2026/04/09/us-uk-canadian-cops-disrupt-45m-global-crypto-scam/5223082"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/crypto_fraud_scam_45_million/"
+        },
+        {
+            "text": "'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree\n\nPossible link to Mr. Raccoon's claimed Adobe break-in",
+            "href": "https://www.theregister.com/security/2026/04/09/several-dozen-orgs-targeted-by-a-new-extortion-crew/5222215"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/several_dozen_highvalue_corporations_targeted/"
+        },
+        {
+            "text": "Months-old Adobe Reader zero-day uses PDFs to size up targets\n\nMalicious PDFs abuse legit features to harvest system data and decide which victims get a 2nd-stage payload",
+            "href": "https://www.theregister.com/security/2026/04/09/old-adobe-reader-zero-day-uses-pdfs-to-size-up-targets/5222301"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/monthsold_adobe_reader_zeroday_uses/"
+        },
+        {
+            "text": "Zephyr Energy loses £700K in cyber hit that rerouted contractor payment\n\nAttackers slipped into the process and redirected funds, leaving the company scrambling to recover the cash",
+            "href": "https://www.theregister.com/security/2026/04/09/zephyr-energy-loses-700k-to-contractor-payment-fraud/5226395"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/zephyr_energy_cyberattack/"
+        },
+        {
+            "text": "Dutch healthcare software vendor goes dark after ransomware attack\n\nChipSoft's website remains down but emails are functioning",
+            "href": "https://www.theregister.com/security/2026/04/08/ransomware-knocks-dutch-healthcare-software-vendor-offline/5220887"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/08/chipsoft_ransomware/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/cyber_crime?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 12009,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nCybercrime news | The Register\nSECURITY > CYBER-CRIME\nLatest news on criminal online attacks and defense techniques\nShai-Hulud keeps burrowing: 314 npm packages infected after another account compromise\n\nPopular JavaScript modules including size-sensor and echarts-for-react hit as hijacked account closed GitHub warnings\n\n2 days|9\nCrook leaks 468k+ records, claims they pwned Portugal’s postal carrier\n\nOrdered packages via CTT? Those phishing emails could be tricky to spot\n\n2 days|1\nShai-Hulud copycat worm infects yet another npm package\n\nPlus three other stealers in three other packages, all from the same scumbag\n\n2 days|2\nDutch cops’ shame game works wonders as most wanted scammers now turned in\n\nGame Over?! gamified the identification of scammers who sought thrills from terrorising the elderly\n\n3 days|25\nGrafana Labs admits all its codebase are belong to someone who popped its GitHub account\n\nNo customer info stolen, no impact to operations, and no blackmail payment\n\n3 days|10\nNobody believes the 'criminals and scumbags' who hacked Canvas really deleted stolen student data\n\nOther than Instructure execs - maybe?\n\n6 days|15\nMalware crew TeamPCP open-sources its Shai-Hulud worm on GitHub\n\nWhere it’s been well and truly forked, seemingly without Microsoft’s code locker noticing\n\n1 week|6\nFoxconn confirms cyberattack after ransomware crew claims it stole confidential Apple, Nvidia files\n\nAffected factories back up and running, we're told\n\n1 week|1\nCongress investigates Canvas breach as company pays ransom\n\nInstructure CEO Steve Daly's got some explaining to do\n\n1 week|6\nAirBit crypto Ponzi victims can now claim slice of $400M asset haul\n\nAfter guilty pleas, prison terms, and seizures, the DOJ has opened the compensation process\n\n1 week|4\nCache-poisoning caper turns TanStack npm packages toxic\n\nSix-minute supply chain blitz pushed 84 malicious versions with credential theft and disk-wiping code\n\n1 week|7\nFleetWave outage takes another turn. Chevin confirms crooks accessed customer data\n\nA month after bringing systems back online, SaaS vendor tells customers attackers potentially walked off with operational data, contact details, and payroll numbers\n\n1 week|1\nGoogle says criminals used AI-built zero-day in planned mass hack spree\n\nGTIG says AI-powered hacking has moved well beyond phishing emails and chatbot tricks\n\n1 week|1\nWater company's leaky security earns near-£1M fine\n\nUtility provider failed to detect Cl0p ransomware attack for nearly two years\n\n1 week|11\nDisgraced US gov software contractor found guilty of database destruction\n\nTwin brother still faces trial over broader cybercrime allegations\n\n2 weeks|6\nHackers ate my homework: Educational SaaS Canvas down after cyberattack\n\nShinyHunters takes the credit and gives developer an F for security\n\n2 weeks|11\nFake IT workers rented laptops to Nork scammers, got prison time\n\nMatthew Isaac Knoot and Erick Ntekereze Prince will each do 18 months for hosting laptops used by North Korean IT workers to remotely infiltrate US companies\n\n2 weeks|2\n$250M crypto-robbing gang’s dirty work guy sentenced to 6.5 years behind bars\n\nThe then-teen was told to break in and steal what the keyboard warriors couldn’t\n\n2 weeks|4\nState-backed hackers hammer Palo Alto firewall zero-day before patch lands\n\nInternet-facing PAN-OS firewalls are once again doing impressions of initial access brokers\n\n2 weeks|7\nHungarian cops cuff suspected swatter after two-year FBI probe\n\n20-year-old fessed up after investigators found video of crime in progress\n\n2 weeks|4\nTaiwan cops say student's radio kit brought bullet trains to a standstill\n\nInvestigators spent weeks unravelling enthusiast's bedroom project\n\n2 weeks|72\nAttackers are cashing in on fresh 'CopyFail' Linux flaw\n\nResearchers dropped a reliable root exploit and it didn’t sit idle for long\n\n2 weeks|40\nReal estate giant confirms vishing incident as ShinyHunters and Qilin both come knocking\n\nCushman & Wakefield activated incident response protocols after serial extortionists issued separate threats\n\n2 weeks|5\nShinyHunters claims dump puts 119K Vimeo emails in the wild\n\nVimeo points finger at analytics supplier Anodot, says no logins or card data were touched\n\n2 weeks|4\nRomance scammers turn sweet talk into £102M payday\n\nVictims losing £280K a day to fake profiles and sob stories\n\n2 weeks|6\nFirst reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed\n\nExploitation was underway before patches landed, at least one victim reports ransomware demand\n\n3 weeks|12\nPro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down\n\n313 Team tells Canonical: pay up or the packets keep coming\n\n3 weeks|98\nThe never-ending supply chain attacks worm into SAP npm packages, other dev tools\n\nMini Shai-Hulud caught spreading credential-stealing malware\n\n3 weeks|0\nFBI cyber boss: China's hacker-for-hire ecosystem 'out of control'\n\nOne alleged cyber contractor was extradited to the US over the weekend\n\n3 weeks|3\nFrench prosecutors link 15-year-old to mega-breach at state’s secure document agency\n\nTwo computer crime allegations follow up to 18M lines of data surfacing online\n\n3 weeks|25\nNearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005\n\nTurns out the real problem is not AI but staff still clicking on dodgy emails from 'IT support'\n\n3 weeks|23\nWhat type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia\n\nJust in time for the Trump-Xi summit\n\n3 weeks|3\nMicrosoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack\n\nSecond try's a charm?\n\n3 weeks|17\nDon't pay Vect a ransom - your data's likely already wiped out\n\n'Full recovery is impossible for anyone, including the attacker'\n\n3 weeks|15\nHave I Been Pwned claims Pitney Bowes hit by 8.2M email address leak\n\nNames, phone numbers, physical addresses also included in Shiny Hunters alleged data dump\n\n3 weeks|4\nOngoing supply-chain attack 'explicitly targeting' security, dev tools\n\nVendor confirms repo data exposure after Lapsus$ claims source code, secrets dump\n\n3 weeks|1\nMedical and utility tech companies admit digital breakins\n\nItron, Medtronic disclose breaches in Friday filings\n\n3 weeks|1\nBurglar alarm biz burgled: ADT confirms cyber intrusion after ShinyHunters extortion attempt\n\nSecurity giant says attackers grabbed 'limited set' of data. Crooks claim 10 million records\n\n3 weeks|7\nCrime crew impersonates help desk, abuses Microsoft Teams to steal your data\n\nComing in cold with custom Snow malware\n\n4 weeks|5\nShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface\n\nLeak-site bragging meets breach hunters as Have I Been Pwned flags millions of records\n\n4 weeks|9\nGovernments on high alert after CISA snuffs out Firestarter backdoor on fed network\n\nLatest in long-running pwning of Cisco kit found in mystery Fed agency\n\n4 weeks|13\nDev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'\n\nLegit-looking website, camera-on interviews, jokes about backdoors ... it worked\n\n4 weeks|27\nChinese attackers are pwning your infrastructure to use in attacks, 10 countries warn\n\nAll the Typhoons, everywhere, all at once\n\n4 weeks|7\nMedical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals\n\nWorld's largest biomedical dataset lifted and shifted on Chinese mega marketplace\n\n4 weeks|20\nAnother npm supply chain worm is tearing through dev environments\n\nPlus, the payload references 'TeamPCP/LiteLLM method'\n\n4 weeks|8\nFrance's 'Secure' ID agency probes breach as crooks claim 19M records\n\nGov admits 'incident' as forum sellers boast of fresh haul covering up to a third of the population\n\n4 weeks|38\nMurder, she wrote: Ex-FBI chief wants some ransomware crims charged with homicide\n\nLawmakers decry CISA cuts: 'We are shooting ourselves in the foot'\n\n4 weeks|33\nMore Cisco SD-WAN bugs battered in attacks\n\nCISA gives federal agencies 4 days to patch\n\n4 weeks|1\nmacOS ClickFix attacks deliver AppleScript stealers to snarf credentials, wallets\n\nData from browsers, cryptocurrency wallets, 200+ extensions hoovered up\n\n4 weeks|3\nYet another ex-ransomware negotiator admits turning rogue after payoff from crimelords\n\nPlus: Court papers reveal nonprofit paid a ransom worth nearly $26.8 million\n\n4 weeks|9\nAI-assisted intruders pwned Vercel via OAuth abuse and a pilfered employee account\n\nCEO suspects silicon sidekick behind 'surprising velocity' breach - cyber crims shop stolen data for $2M\n\n4 weeks|0\nCrook claims to leak 'video surveillance footage' of companies\n\nMexican IT services firm admits it was hacked, but says client operations weren't affected\n\n4 weeks|1\nAdaptavist Group breach spawns imposter emails as ransomware crew claims mega-haul\n\nFake emails already doing the rounds as ransomware crew boasts about what it allegedly stole\n\n4 weeks|0\nScot becomes second Scattered Spider-linked crook to plead guilty in US\n\nTyler Buchanan admits role in scheme that stole at least $8 million in virtual currency\n\n1 month|3\nNorth Korea targets macOS users in latest heist\n\nSocial engineering: 'low-cost, hard to patch, and scales well'\n\n1 month|2\nTextbook titan McGraw Hill on ransomware crew's reading list after 13.5M records exposed\n\nPublisher claims misconfigured Salesforce-hosted page leaked data\n\n1 month|1\nAutomotive data biz Autovista blames ransomware for service disruption\n\nSome customer orgs tell staff to block inbound email from the provider\n\n1 month|0\nFrench cops free mother and son after 20-hour crypto kidnap ordeal\n\nLatest in a string of cases that have earned France an unfortunate title\n\n1 month|18\nNo honor among thieves as 0APT threatens rival ransomware gang Krybit\n\nHoney, the skids are fighting again\n\n1 month|2\nZombie Microsoft bugs rise from the dead, pave way for crims and ransomware scum\n\nOne was patched almost 14 years ago\n\n1 month|7\nFake Linux leader using Slack to con devs into giving up their secrets\n\nGoogle Sites lure leads to bogus root certificate\n\n1 month|2\nBooking.com warns reservation data may have checked out with intruders\n\nTravel giant says names, contact details, dates, and hotel messages potentially exposed\n\n1 month|22\nAdobe finally patches PDF pest after months of abuse\n\nReader and Acrobat flaw let booby-trapped documents profile targets and hijack machines\n\n1 month|11\nGym giant Basic-Fit confirms data on a million members stolen in cyberattack\n\nNames, addresses, dates of birth, and bank details accessed, though not passwords\n\n1 month|15\nRockstar Games gets a taste of grand theft data\n\nShinyHunters claims it accessed Snowflake metrics via third-party tool\n\n1 month|4\nCrypto? Huh. Good gawd y'all, what is it good for? $45M in this case\n\nCops bust latest scam, return $12m to bilked victims\n\n1 month|7\n'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree\n\nPossible link to Mr. Raccoon's claimed Adobe break-in\n\n1 month|3\nMonths-old Adobe Reader zero-day uses PDFs to size up targets\n\nMalicious PDFs abuse legit features to harvest system data and decide which victims get a 2nd-stage payload\n\n1 month|17\nZephyr Energy loses £700K in cyber hit that rerouted contractor payment\n\nAttackers slipped into the process and redirected funds, leaving the company scrambling to recover the cash\n\n1 month|6\nDutch healthcare software vendor goes dark after ransomware attack\n\nChipSoft's website remains down but emails are functioning\n\n1 month|2\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

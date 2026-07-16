@@ -1,0 +1,77 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 16,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "get the US to use the metric system",
+            "href": "https://usma.org/"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 1152,
+    "text_full": "A mental math heuristic to convert between Fahrenheit and Celsius\nby Evan Hahn, posted Jan 17, 2026, tagged #guide\n\nI sometimes have to convert between Fahrenheit and Celsius. The actual formula is hard to do in my head, but someone once told me a useful approximation:\n\nTo convert from Celsius to Fahrenheit, double it and add 30.\nTo convert from Fahrenheit to Celsius, subtract 30 and halve it (the reverse).\n\nFor example, if it’s 12ºC, this heuristic would return 54ºF. (12 × 2) + 30 = 54. The actual amount is not far off: 53.6ºF.\n\nTo convert the other way: 68ºF becomes 19ºC. (68 − 30) ÷ 2 = 19. Again, this is close to the actual answer of 18ºC.\n\nThese are pretty close because the numbers we’re using (2 and 30) are pretty close to their counterparts in the real formula (1.8 and 32).\n\nThis isn’t exact, of course. But it’s come in handy! Now if we could only get the US to use the metric system…\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

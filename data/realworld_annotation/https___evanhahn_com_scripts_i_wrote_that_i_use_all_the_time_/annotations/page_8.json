@@ -1,0 +1,341 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 82,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Publishing a simple package to npm",
+            "href": "https://evanhahn.com/publishing-a-simple-package-to-npm/"
+        },
+        {
+            "text": "Why does “👩🏾‍🌾” have a length of 7 in JavaScript?",
+            "href": "https://evanhahn.com/javascript-string-lengths/"
+        },
+        {
+            "text": "What’s the best way to concatenate Uint8Arrays?",
+            "href": "https://evanhahn.com/the-best-way-to-concatenate-uint8arrays/"
+        },
+        {
+            "text": "How to use the JavaScript Compression Streams API to (de)compress strings",
+            "href": "https://evanhahn.com/javascript-compression-streams-api-with-strings/"
+        },
+        {
+            "text": "How to use crypto.timingSafeEqual with strings",
+            "href": "https://evanhahn.com/crypto-timingsafeequal-with-strings/"
+        },
+        {
+            "text": "Working with the UTF-8 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/working-with-utf8-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "Getting the UTF-16 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/getting-the-utf16-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "Getting the UTF-32 bytes of JavaScript strings",
+            "href": "https://evanhahn.com/getting-the-utf32-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "Using ESLint to (help) avoid non-deterministic randomness",
+            "href": "https://evanhahn.com/using-eslint-to-help-avoid-non-deterministic-randomness/"
+        },
+        {
+            "text": "Detect global JavaScript variables with iframes",
+            "href": "https://evanhahn.com/detect-global-javascript-variables-using-iframes/"
+        },
+        {
+            "text": "Should you use semicolons in JavaScript?",
+            "href": "https://evanhahn.com/should-you-use-semicolons-in-javascript"
+        },
+        {
+            "text": "Newline necessary at the end of JavaScript files?",
+            "href": "https://evanhahn.com/newline-necessary-at-the-end-of-javascript-files"
+        },
+        {
+            "text": "Parse URLs with <a> tags in JavaScript",
+            "href": "https://evanhahn.com/parse-urls-with-a-tags/"
+        },
+        {
+            "text": "Nested array permutations",
+            "href": "https://evanhahn.com/nested-list-permutations-in-javascript/"
+        },
+        {
+            "text": "Disable ESLint for a file",
+            "href": "https://evanhahn.com/disable-eslint-for-a-file"
+        },
+        {
+            "text": "Disable JSHint for a file",
+            "href": "https://evanhahn.com/disable-jshint-for-a-file"
+        },
+        {
+            "text": "When stringify doesn’t return a string",
+            "href": "https://evanhahn.com/when-stringify-doesnt-return-a-string"
+        },
+        {
+            "text": "Show only production dependencies with npm",
+            "href": "https://evanhahn.com/show-only-production-dependencies-with-npm/"
+        },
+        {
+            "text": "Install Node Version Manager without the “source” line",
+            "href": "https://evanhahn.com/install-nvm-without-source-line"
+        },
+        {
+            "text": "How to compute the distance between two Cartesian points in JavaScript",
+            "href": "https://evanhahn.com/javascript-distance-between-two-points/"
+        },
+        {
+            "text": "Re-implementing JavaScript’s == in JavaScript",
+            "href": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/"
+        },
+        {
+            "text": "How to reverse an array",
+            "href": "https://evanhahn.com/how-to-reverse-an-array-in-javascript/"
+        },
+        {
+            "text": "Remove one element by index from JavaScript array",
+            "href": "https://evanhahn.com/remove-one-element-by-index-from-javascript-array"
+        },
+        {
+            "text": "Randomly generate either -1 or 1",
+            "href": "https://evanhahn.com/randomly-generate-either-1-or-1"
+        },
+        {
+            "text": "Understanding Express.js",
+            "href": "https://evanhahn.com/understanding-express"
+        },
+        {
+            "text": "Express.js in Action",
+            "href": "https://www.manning.com/books/express-in-action?utm_source=express-in-action&utm_medium=affiliate&utm_campaign=book_hahn_express_4_7_16&a_aid=express-in-action&a_bid=fe3fcff7"
+        },
+        {
+            "text": "Gotchas with Express query parsing (and how to avoid them)",
+            "href": "https://evanhahn.com/gotchas-with-express-query-parsing-and-how-to-avoid-them"
+        },
+        {
+            "text": "You might not need Helmet.js",
+            "href": "https://evanhahn.com/you-might-not-need-helmet/"
+        },
+        {
+            "text": "A deep dive into Express’s static middleware",
+            "href": "https://evanhahn.com/express-dot-static-deep-dive"
+        },
+        {
+            "text": "Conditional Express middleware",
+            "href": "https://evanhahn.com/conditional-express-middleware/"
+        },
+        {
+            "text": "How to block Google’s FLoC tracking with Express",
+            "href": "https://evanhahn.com/block-googles-floc-tracking-with-express"
+        },
+        {
+            "text": "Smoothing out setTimeout in CoffeeScript",
+            "href": "https://evanhahn.com/smoothing-out-settimeout-in-coffeescript"
+        },
+        {
+            "text": "A quick romp through default values in CoffeeScript",
+            "href": "https://evanhahn.com/default-values-in-coffeescript"
+        },
+        {
+            "text": "Makeshift hot reload",
+            "href": "https://evanhahn.com/htmhell-2024/"
+        },
+        {
+            "text": "How to clear all inline styles from an HTML element",
+            "href": "https://evanhahn.com/clear-all-inline-styles-from-an-element/"
+        },
+        {
+            "text": "Four CSS tips that have changed me",
+            "href": "https://evanhahn.com/life-changing-css/"
+        },
+        {
+            "text": "Disabling selection and copy-paste on the web",
+            "href": "https://evanhahn.com/how-to-disable-copy-paste-on-your-website"
+        },
+        {
+            "text": "Overwriting document.head in strict mode on Safari",
+            "href": "https://evanhahn.com/document-dot-head-on-safari-strict-mode"
+        },
+        {
+            "text": "How to set the (deprecated) valign attribute in JavaScript",
+            "href": "https://evanhahn.com/set-deprecated-valign-attribute-with-javascript/"
+        },
+        {
+            "text": "systemd-inhibit: a built-in Linux alternative to macOS’s caffeinate command",
+            "href": "https://evanhahn.com/systemd-inhibit-alternative-to-macos-caffeinate/"
+        },
+        {
+            "text": "How to set a Zsh option only if supported",
+            "href": "https://evanhahn.com/how-to-set-a-zsh-option-only-if-supported/"
+        },
+        {
+            "text": "Disable the beer emoji in Homebrew",
+            "href": "https://evanhahn.com/disable-homebrew-emoji"
+        },
+        {
+            "text": "Prevent Homebrew from gathering analytics",
+            "href": "https://evanhahn.com/prevent-homebrew-from-gathering-analytics/"
+        },
+        {
+            "text": "Play a jingle on Git commits",
+            "href": "https://evanhahn.com/jingle-on-git-commit/"
+        },
+        {
+            "text": "How to play a file in reverse with mpv",
+            "href": "https://evanhahn.com/mpv-play-media-in-reverse/"
+        },
+        {
+            "text": "Cancel a git-flow branch",
+            "href": "https://evanhahn.com/cancel-a-git-flow-branch"
+        },
+        {
+            "text": "Rink cheatsheet",
+            "href": "https://evanhahn.com/rink-cheatsheet/"
+        },
+        {
+            "text": "Skip the header of a file with Python’s CSV reader",
+            "href": "https://evanhahn.com/python-skip-header-csv-reader/"
+        },
+        {
+            "text": "How to read tab-separated values (TSV) files in Python",
+            "href": "https://evanhahn.com/how-to-read-tsv-files-in-python/"
+        },
+        {
+            "text": "How to change the extension of a pathlib.Path",
+            "href": "https://evanhahn.com/change-pathlib-path-extension-python/"
+        },
+        {
+            "text": "The difference between “=” and “IS” in SQLite",
+            "href": "https://evanhahn.com/difference-between-equals-and-is-in-sqlite/"
+        },
+        {
+            "text": "How to format SQLite BLOB columns as hex",
+            "href": "https://evanhahn.com/how-to-format-sqlite-blob-columns-as-hex/"
+        },
+        {
+            "text": "How does SQLite’s “changes” API handle no-op UPDATEs?",
+            "href": "https://evanhahn.com/sqlite-changes-and-noop-updates/"
+        },
+        {
+            "text": "Vim’s :x command: like :wq but better",
+            "href": "https://evanhahn.com/vim-colon-x-command/"
+        },
+        {
+            "text": "Start Vim and temporarily ignore your .vimrc",
+            "href": "https://evanhahn.com/ignore-vimrc-with-vim"
+        },
+        {
+            "text": "Nicer committing with Vim",
+            "href": "https://evanhahn.com/nicer-committing-with-vim"
+        },
+        {
+            "text": "Disable SwiftLint for a file",
+            "href": "https://evanhahn.com/disable-swiftlint-for-a-file/"
+        },
+        {
+            "text": "How does Swift decode “weird” JSON numbers?",
+            "href": "https://evanhahn.com/swift-weird-json-numbers/"
+        },
+        {
+            "text": "Converting UIColors to CSS colors",
+            "href": "https://evanhahn.com/convert-uicolor-to-css-color/"
+        },
+        {
+            "text": "Clojure: distinct versus dedupe",
+            "href": "https://evanhahn.com/posts/2024-02-25-clojure-distinct-vs-dedupe/"
+        },
+        {
+            "text": "Clojure’s “zero?” has some quirks",
+            "href": "https://evanhahn.com/clojures-zero-has-some-quirks/"
+        },
+        {
+            "text": "How to do integer division in Crystal",
+            "href": "https://evanhahn.com/integer-division-in-crystal/"
+        },
+        {
+            "text": "Crystal: how to compute a CRC32 checksum",
+            "href": "https://evanhahn.com/crystal-compute-a-crc32-checksum/"
+        },
+        {
+            "text": "The world’s smallest PNG",
+            "href": "https://evanhahn.com/worlds-smallest-png/"
+        },
+        {
+            "text": "What’s the largest possible PNG?",
+            "href": "https://evanhahn.com/largest-possible-png/"
+        },
+        {
+            "text": "My mnemonic to remember tar commands on Linux",
+            "href": "https://evanhahn.com/mnemonic-to-remember-tar-commands/"
+        },
+        {
+            "text": "Script to estimate selected tasks",
+            "href": "https://evanhahn.com/remember-the-milk-estimate-selected-tasks-script/"
+        },
+        {
+            "text": "Script to export tasks as CSV",
+            "href": "https://evanhahn.com/remember-the-milk-csv-export-script/"
+        },
+        {
+            "text": "Script to find tasks with invalid start times",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-find-tasks-with-invalid-start-times/"
+        },
+        {
+            "text": "Script to get a task’s permalink",
+            "href": "https://evanhahn.com/remember-the-milk-script-to-get-task-permalink/"
+        },
+        {
+            "text": "A little trick to reduce Zoom bandwidth",
+            "href": "https://evanhahn.com/little-trick-to-reduce-zoom-bandwidth/"
+        },
+        {
+            "text": "Ruby: how to get the MD5 hash of a file",
+            "href": "https://evanhahn.com/md5-of-a-ruby-file/"
+        },
+        {
+            "text": "How to code Tic-Tac-Toe (and a Lua implementation)",
+            "href": "https://evanhahn.com/how-to-code-tic-tac-toe-and-a-lua-implementation"
+        },
+        {
+            "text": "How to download every game from js13kgames",
+            "href": "https://evanhahn.com/download-js13kgames-zips/"
+        },
+        {
+            "text": "Track flights on iOS without installing anything",
+            "href": "https://evanhahn.com/track-flights-on-ios/"
+        },
+        {
+            "text": "How I fixed broken Wi-Fi on my 2012 Mac Mini running Zorin OS",
+            "href": "https://evanhahn.com/fixing-broken-wifi-on-2012-mac-mini-running-zorin/"
+        },
+        {
+            "text": "How to transfer Android Neko Atsume saves using adb",
+            "href": "https://evanhahn.com/transfer-android-neko-atsume-saves/"
+        }
+    ],
+    "text_length": 3493,
+    "text_full": "Contact\nProjects\nGuides\nBlog\nEvan Hahn's guides\n\nI’ve written some guides and how-tos. Here they are:\n\nJavaScript\nPublishing a simple package to npm\nWhy does “👩🏾‍🌾” have a length of 7 in JavaScript?\nWhat’s the best way to concatenate Uint8Arrays?\nHow to use the JavaScript Compression Streams API to (de)compress strings\nHow to use crypto.timingSafeEqual with strings\nWorking with the UTF-8 bytes of JavaScript strings\nGetting the UTF-16 bytes of JavaScript strings\nGetting the UTF-32 bytes of JavaScript strings\nUsing ESLint to (help) avoid non-deterministic randomness\nDetect global JavaScript variables with iframes\nShould you use semicolons in JavaScript?\nNewline necessary at the end of JavaScript files?\nParse URLs with <a> tags in JavaScript\nNested array permutations\nDisable ESLint for a file\nDisable JSHint for a file\nWhen stringify doesn’t return a string\nShow only production dependencies with npm\nInstall Node Version Manager without the “source” line\nHow to compute the distance between two Cartesian points in JavaScript\nRe-implementing JavaScript’s == in JavaScript\nHow to reverse an array\nRemove one element by index from JavaScript array\nRandomly generate either -1 or 1\nExpress.js\nUnderstanding Express.js or my book Express.js in Action\nGotchas with Express query parsing (and how to avoid them)\nYou might not need Helmet.js\nA deep dive into Express’s static middleware\nConditional Express middleware\nHow to block Google’s FLoC tracking with Express\nCoffeeScript\nSmoothing out setTimeout in CoffeeScript\nA quick romp through default values in CoffeeScript\nWeb development\nMakeshift hot reload\nHow to clear all inline styles from an HTML element\nFour CSS tips that have changed me\nDisabling selection and copy-paste on the web\nOverwriting document.head in strict mode on Safari\nHow to set the (deprecated) valign attribute in JavaScript\nCommand line\nsystemd-inhibit: a built-in Linux alternative to macOS’s caffeinate command\nHow to set a Zsh option only if supported\nDisable the beer emoji in Homebrew\nPrevent Homebrew from gathering analytics\nPlay a jingle on Git commits\nHow to play a file in reverse with mpv\nCancel a git-flow branch\nRink cheatsheet\nPython\nSkip the header of a file with Python’s CSV reader\nHow to read tab-separated values (TSV) files in Python\nHow to change the extension of a pathlib.Path\nSQLite\nThe difference between “=” and “IS” in SQLite\nHow to format SQLite BLOB columns as hex\nHow does SQLite’s “changes” API handle no-op UPDATEs?\nVim\nVim’s :x command: like :wq but better\nStart Vim and temporarily ignore your .vimrc\nNicer committing with Vim\niOS/Swift\nDisable SwiftLint for a file\nHow does Swift decode “weird” JSON numbers?\nConverting UIColors to CSS colors\nClojure\nClojure: distinct versus dedupe\nClojure’s “zero?” has some quirks\nCrystal\nHow to do integer division in Crystal\nCrystal: how to compute a CRC32 checksum\nFile formats\nThe world’s smallest PNG\nWhat’s the largest possible PNG?\nMy mnemonic to remember tar commands on Linux\nRemember The Milk\nScript to estimate selected tasks\nScript to export tasks as CSV\nScript to find tasks with invalid start times\nScript to get a task’s permalink\nOther\nA little trick to reduce Zoom bandwidth\nRuby: how to get the MD5 hash of a file\nHow to code Tic-Tac-Toe (and a Lua implementation)\nHow to download every game from js13kgames\nTrack flights on iOS without installing anything\nHow I fixed broken Wi-Fi on my 2012 Mac Mini running Zorin OS\nHow to transfer Android Neko Atsume saves using adb"
+}

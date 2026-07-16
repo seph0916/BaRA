@@ -1,0 +1,110 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png",
+        "https://evanhahn.com/me.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 24,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Ghost",
+            "href": "https://ghost.org/"
+        },
+        {
+            "text": "Awana Digital",
+            "href": "https://awana.digital/"
+        },
+        {
+            "text": "Signal",
+            "href": "https://signal.org/"
+        },
+        {
+            "text": "Airtable",
+            "href": "https://airtable.com/"
+        },
+        {
+            "text": "several other places",
+            "href": "https://evanhahn.com/projects/#jobs"
+        },
+        {
+            "text": "Helmet.js",
+            "href": "https://helmetjs.github.io/"
+        },
+        {
+            "text": "Humanize Duration",
+            "href": "https://evanhahn.github.io/HumanizeDuration.js/"
+        },
+        {
+            "text": "UTF-21",
+            "href": "https://evanhahn.com/utf-21/"
+        },
+        {
+            "text": "see more",
+            "href": "https://evanhahn.com/projects/#full-list-of-projects"
+        },
+        {
+            "text": "Express in Action",
+            "href": "https://www.manning.com/books/express-in-action?utm_source=express-in-action&utm_medium=affiliate&utm_campaign=book_hahn_express_4_7_16&a_aid=express-in-action&a_bid=fe3fcff7"
+        },
+        {
+            "text": "JavaScript Testing with Jasmine",
+            "href": "https://shop.oreilly.com/product/0636920028277.do"
+        },
+        {
+            "text": "“The lone developer problem”",
+            "href": "https://evanhahn.com/the-lone-developer-problem/"
+        },
+        {
+            "text": "“How I build software quickly”",
+            "href": "https://evanhahn.com/how-i-build-software-quickly/"
+        },
+        {
+            "text": "“The world’s smallest PNG”",
+            "href": "https://evanhahn.com/worlds-smallest-png/"
+        },
+        {
+            "text": "“Why does ‘👩🏾‍🌾’ have a length of 7 in JavaScript?”",
+            "href": "https://evanhahn.com/javascript-string-lengths/"
+        },
+        {
+            "text": "read more",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "EvanHahn.64",
+            "href": "https://signal.me/#eu/vDide_HmUgHnNa0usMXq8oHAA0gnl5dzCqDeHyXhkeIbIiOcPVhCZKXIZteSqoc8"
+        },
+        {
+            "text": "@EvanHahn@bigshoulders.city",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "other ways",
+            "href": "https://evanhahn.com/contact/"
+        }
+    ],
+    "text_length": 1148,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n\nI’m Evan Hahn, a computer programmer.\n\nI work at Ghost, a nonprofit that builds software for independent publishers.\n\nIn the past, I’ve worked at:\n\nAwana Digital, building Node.js-powered peer-to-peer software to help Indigenous communities map and monitor their land\nSignal, the encrypted messenger, building their iOS and Windows/macOS/Linux apps\nAirtable, the low-code database product, maintaining their REST API and running their bug bounty program\nseveral other places\n\nI maintain some open source projects:\n\nHelmet.js, a web security module, is my most popular with over 226 million downloads in 2025\nHumanize Duration turns milliseconds into duration strings\nUTF-21, a toy character encoding\nsee more\n\nI’ve written a few things:\n\nExpress in Action, a Manning book\nJavaScript Testing with Jasmine, an O’Reilly book\n“The lone developer problem”\n“How I build software quickly”\n“The world’s smallest PNG”\n“Why does ‘👩🏾‍🌾’ have a length of 7 in JavaScript?”\nread more\n\nI would love to hear from you. You can contact me:\n\nEmail: me@evanhahn.com\nSignal: EvanHahn.64\nMastodon: @EvanHahn@bigshoulders.city\nother ways"
+}

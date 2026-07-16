@@ -1,0 +1,35 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 6,
+    "links": [
+        {
+            "text": "Purcell's Posts",
+            "href": "https://sethpurcell.com/"
+        },
+        {
+            "text": "RSS Feed",
+            "href": "https://sethpurcell.com/rss.xml"
+        },
+        {
+            "text": "leadership",
+            "href": "https://sethpurcell.com/tags/leadership/"
+        },
+        {
+            "text": "devmgmt",
+            "href": "https://sethpurcell.com/tags/devmgmt/"
+        },
+        {
+            "text": "Previous Post\nAmplifying Expertise and Accelerating Learning Through Apprenticeship",
+            "href": "https://sethpurcell.com/writing/apprenticeship"
+        },
+        {
+            "text": "Next Post\nMy Top 0x10 Tips for Hiring Great Developers",
+            "href": "https://sethpurcell.com/writing/tips-for-hiring-great-engineers"
+        }
+    ],
+    "text_length": 3356,
+    "text_full": "Purcell's Posts\nSend an email to Purcell's Posts\nRSS Feed\nMy Take on Development Best Practices\n\nI was asked to contribute to a feature on best practices for software engineering. Here’s the full text I provided, a small excerpt of which was included in the piece.\n\nDec 8, 2013\nleadership\ndevmgmt\n\nNote: eight years on, I find this post pretty embarrassing because it makes no attempt to support any of the opinions presented, my opinions have evolved since, and I cringe at the style, but to be fair I was writing this for a publication where this style was appropriate. Also, I’ve come to hate the use of “velocity” to mean development productivity, despite its ubiquity.\n\nA true master developer knows how to maximize velocity while maintaining quality.\n\nHere’s my top ten:\n\nKISS - complexity is your #1 enemy. Everything should be as simple as possible. Invest in simplifying your architecture and codebase and it will pay off in velocity. When there’s more than one way to go, choose the simpler way. Don’t over-engineer things. Anything that’s “unavoidably complex” is best avoided entirely.\n\nTDD is how you build defect-free code as quickly as humanly possible. Never, ever, say you’ll write the tests later, or “it’s done except for writing tests” — that’s how they did it in the ’90s. We know better than that now. Measure test coverage and keep it at 100%.\n\nBuild your prototypes under the assumption that they’ll evolve into your product whether you like it or not; you may intend to throw it away and start from scratch later but it usually doesn’t work out that way. This means start writing tests when you start writing code.\n\nDevelop your software securely from inception since it’s extremely painful to “add security” later. If you don’t know how to do this, get someone on your team who does.\n\nKeep your workspace clean — purge all unnecessary code, remove unnecessary dependencies, drop DB tables you no longer need (though you might need to retain backups), keep your team wiki up-to-date.\n\nAutomate QA and ops as much as possible — development is inherently iterative so maximizing velocity means driving your iteration time down. Aim for at least push-button if not fully automatic deploys. Build on every commit to master.\n\nMake your tests as high-veracity as possible. It might seem like a lot of work, but it’s an investment you’ll be thankful for when you narrowly avoid shipping a subtle, nasty bug.\n\nSoftware engineering is a team sport; peer review all commits. A critique-seeking, low-ego culture fosters team-wide excellence.\n\nDeploy whenever you have something ready to release; otherwise you’ve paid for the work but you’re not realizing the value of it.\n\nOnly refactor when the problem and the solution are both staring you in the face — premature refactoring is a huge waste of time. Don’t invest in perfecting anything that might conceivably be dropped in the next 6 months. And always remember that premature optimization is the root of all evil.\n\nSuccess is when a single developer can fearlessly rewrite core modules in the morning and deploy to production in the afternoon with zero disruption for your customers.\n\nPrevious Post\nAmplifying Expertise and Accelerating Learning Through Apprenticeship\nNext Post\nMy Top 0x10 Tips for Hiring Great Developers\nCopyright © 2026 by Seth Purcell\n | \nHosted on a Raspberry Pi 5"
+}

@@ -1,0 +1,124 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://benholmen.com/assets/images/howtall.is/joe-post.webp",
+        "https://benholmen.com/assets/images/howtall.is/howtall.is-open-graph.jpg",
+        "https://benholmen.com/assets/images/howtall.is/autocomplete.webp",
+        "https://benholmen.com/assets/images/howtall.is/open-graph-benholmen.com.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 27,
+    "links": [
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/joe.codes/post/3lbp6zapsb223"
+        },
+        {
+            "text": "an app to let internet friends guess your height",
+            "href": "https://howtall.is/"
+        },
+        {
+            "text": "Justin Jackson's a great example",
+            "href": "https://howtall.is/justinjackson.ca"
+        },
+        {
+            "text": "",
+            "href": "https://howtall.is/"
+        },
+        {
+            "text": "Chris Morrell",
+            "href": "https://cmorrell.com/"
+        },
+        {
+            "text": "revolution/laravel-bluesky",
+            "href": "https://packagist.org/packages/revolution/laravel-bluesky"
+        },
+        {
+            "text": "this endpoint",
+            "href": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=benholmen.com"
+        },
+        {
+            "text": "app.bsky.actor.searchActorsTypeahead",
+            "href": "https://public.api.bsky.app/xrpc/app.bsky.actor.searchActorsTypeahead?q=holmen"
+        },
+        {
+            "text": "Open Graph images",
+            "href": "https://www.opengraph.xyz/"
+        },
+        {
+            "text": "Browsershot",
+            "href": "https://github.com/spatie/browsershot"
+        },
+        {
+            "text": "Browsershot on AWS Lambda",
+            "href": "https://github.com/stefanzweifel/sidecar-browsershot"
+        },
+        {
+            "text": "standard PHP library",
+            "href": "https://www.php.net/manual/en/function.imagecopyresampled.php"
+        },
+        {
+            "text": "",
+            "href": "https://benholmen.com/"
+        },
+        {
+            "text": "The Kilopixel recap - season one",
+            "href": "https://benholmen.com/blog/kilopixel-season-1/"
+        },
+        {
+            "text": "I spent 6 years building a ridiculous wooden pixel display",
+            "href": "https://benholmen.com/blog/kilopixel/"
+        },
+        {
+            "text": "Pairing with Strangers (the Pair-amid Scheme)",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "Mapping a Hyper key on MacOS with Karabiner Elements (the easy way)",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "Defragment your PHPUnit tests",
+            "href": "https://benholmen.com/blog/defragment-your-phpunit-tests/"
+        },
+        {
+            "text": "A photo a day for 30 days",
+            "href": "https://benholmen.com/blog/a-photo-a-day/"
+        },
+        {
+            "text": "Building howtall.is",
+            "href": "https://benholmen.com/blog/howtall.is/"
+        },
+        {
+            "text": "The Art of Pairing with Strangers - Over Engineered Podcast",
+            "href": "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/"
+        },
+        {
+            "text": "Just how old is a 45 year old soup (and would you eat it)",
+            "href": "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/"
+        },
+        {
+            "text": "Growing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "VIEW ALL ⇢",
+            "href": "https://benholmen.com/blog/"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/benholmen.com"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/benholmen/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/benholmen"
+        }
+    ],
+    "text_length": 4207,
+    "text_full": " \nBuilding howtall.is\n\nDecember 7, 2024\n\nYet again, Joe provided the spark:\n\nI immediately knew I needed to build an app to let internet friends guess your height and find out just how much they were under- or over-estimating how tall you are. Justin Jackson's a great example: he gives off 6'1\" energy (to me, anyhow) but he's actually 5'8\". And I've seen him in person and I still thought he was taller!\n\nI have some experience building viral voting apps - my largest picked up about 250,000 unique users - and the name of the game is simplification. Avoid inserts to your database unless you have to, cache as much as you can, make your GET requests as low impact as possible, keep things light and cheap. By Laravel standards, I went with a bare metal approach: a couple of controllers, server side rendered blade views, and a little bit of AlpineJS on the frontend. Guesses can be made by guests, reducing friction for users. I did make one tradeoff: since it's just for fun, and not business critical, it's easy to vote stuff and I didn't work hard on any de-duping or anti-abuse logic.\n\nThe Bluesky API\n\nThis project uses the Bluesky API a few ways:\n\nOAuth for authentication\n\nThe Bluesky OAuth implementation is quite novel and honestly, hard to integrate. I hacked on this for fun with Chris Morrell and after 4 hours, we were still struggling. We eventually got a proof of concept working, but that's about when we discovered the revolution/laravel-bluesky package. That package handles OAuth and a Laravel Socialite integration to make it easy to authenticate users. Highly recommended.\n\nPublic API for user data\n\nI wanted visitors to be able to guess on someone who hadn't even heard of howtall.is. To do this, I just needed a handle, avatar, and display name - fortunately those are all available on this endpoint. When a user provides a handle, I do a quick API lookup, cache it in my database, and show the profile.\n\nPublic API for autocompleting user search\n\nThere's a perfect endpoint for this: app.bsky.actor.searchActorsTypeahead. I whipped up a quick AlpineJS component to query that API and render an autocomplete UI.\n\nSweet open graph images\n\nOpen Graph images are the images you see when you share a link on social media. They're a critical factor in making something viral because they make your links more unique and enticing. For this application I decided to create unique images for each user, including their Bluesky avatar in the image. I think this makes people more likely to share their own link, and more likely to engage with an image of someone they recognize.\n\nOpen graph images can be rendered a few ways - the most flexible and complex involves using something like Browsershot (or Browsershot on AWS Lambda) to render an entire webpage, take a screenshot, and save it. In my experience that takes about 3-5s per image and some finicky dependencies. For this project, that wasn't the right fit - I wanted to use the standard PHP library to create the image once and cache it. No dependencies, but not trivial.\n\nTo execute that lightweight, no-dependency approach, I created a base template image with a spot for an avatar. I then download their avatar, resize it to fit, crop to a circle with a transparent background, and copy that circle onto the base template. The image is saved to the disk so it only has to be rendered once, then returned to the user.\n\nLaravel Cloud ☁️\n\nOh, and it's all deployed on an early release of Laravel Cloud! The kind people at Laravel Inc graciously let me take it for a spin and I only have great things to report. Everything demonstrated on stage at Laracon US 2024 just...works now. 10/10 experience!\n\nPopular Posts\nThe Kilopixel recap - season one\nI spent 6 years building a ridiculous wooden pixel display\nPairing with Strangers (the Pair-amid Scheme)\nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\nDefragment your PHPUnit tests\nRecent Posts\nA photo a day for 30 days\nBuilding howtall.is\nThe Art of Pairing with Strangers - Over Engineered Podcast\nJust how old is a 45 year old soup (and would you eat it)\nGrowing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast\nVIEW ALL ⇢"
+}

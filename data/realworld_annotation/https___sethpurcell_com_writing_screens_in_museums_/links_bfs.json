@@ -1,0 +1,47 @@
+{
+  "start_url": "https://sethpurcell.com/writing/screens-in-museums",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://sethpurcell.com/writing/screens-in-museums",
+    "https://sethpurcell.com/",
+    "https://sethpurcell.com/rss.xml",
+    "https://sethpurcell.com/tags/technology",
+    "https://sethpurcell.com/tags/education",
+    "https://sethpurcell.com/writing/observations-from-twenty-years-of-dev-management",
+    "https://sethpurcell.com/writing/notes-on-admiral-hyman-rickover",
+    "https://sethpurcell.com/writing/leadership-is-just-three-things",
+    "https://sethpurcell.com/writing/tips-for-hiring-great-engineers",
+    "https://sethpurcell.com/writing/development-best-practices",
+    "https://sethpurcell.com/tags/devmgmt",
+    "https://sethpurcell.com/tags/books",
+    "https://sethpurcell.com/tags/leadership",
+    "https://sethpurcell.com/writing/apprenticeship"
+  ],
+  "by_depth": {
+    "0": [
+      "https://sethpurcell.com/writing/screens-in-museums"
+    ],
+    "1": [
+      "https://sethpurcell.com/",
+      "https://sethpurcell.com/rss.xml",
+      "https://sethpurcell.com/tags/technology",
+      "https://sethpurcell.com/tags/education"
+    ],
+    "2": [
+      "https://sethpurcell.com/writing/observations-from-twenty-years-of-dev-management",
+      "https://sethpurcell.com/writing/notes-on-admiral-hyman-rickover",
+      "https://sethpurcell.com/writing/leadership-is-just-three-things",
+      "https://sethpurcell.com/writing/tips-for-hiring-great-engineers",
+      "https://sethpurcell.com/writing/development-best-practices"
+    ],
+    "3": [
+      "https://sethpurcell.com/tags/devmgmt",
+      "https://sethpurcell.com/tags/books",
+      "https://sethpurcell.com/tags/leadership",
+      "https://sethpurcell.com/writing/apprenticeship"
+    ]
+  },
+  "dead_links": []
+}

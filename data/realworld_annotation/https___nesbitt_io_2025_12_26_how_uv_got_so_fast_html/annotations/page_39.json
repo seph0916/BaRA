@@ -1,0 +1,147 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 34,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "open-source",
+            "href": "https://nesbitt.io/search#open-source"
+        },
+        {
+            "text": "ecosyste.ms",
+            "href": "https://nesbitt.io/search#ecosyste.ms"
+        },
+        {
+            "text": "research",
+            "href": "https://nesbitt.io/search#research"
+        },
+        {
+            "text": "Modeling Dependency-Propagated Ecosystem Impact of Changes in Maintenance Activities",
+            "href": "https://arxiv.org/abs/2605.06164"
+        },
+        {
+            "text": "ecosyste.ms Python fund",
+            "href": "https://funds.ecosyste.ms/funds/python"
+        },
+        {
+            "text": "run with Open Source Collective",
+            "href": "https://blog.ecosyste.ms/2024/12/09/ecosystem-funds-curated-support-for-your-critical-software-dependencies.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/05/13/showing-our-work.html#ten-years-of-dependency-graphs"
+        },
+        {
+            "text": "Libraries.io",
+            "href": "https://libraries.io/"
+        },
+        {
+            "text": "ecosyste.ms",
+            "href": "https://ecosyste.ms/"
+        },
+        {
+            "text": "ecosyste.ms critical set for PyPI",
+            "href": "https://packages.ecosyste.ms/registries/pypi.org/packages?critical=true"
+        },
+        {
+            "text": "Open Collective",
+            "href": "https://opencollective.com/"
+        },
+        {
+            "text": "Open Source Pledge",
+            "href": "https://opensourcepledge.com/"
+        },
+        {
+            "text": "Alpha-Omega",
+            "href": "https://alpha-omega.dev/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/05/13/showing-our-work.html#what-it-doesnt-measure"
+        },
+        {
+            "text": "wrote last week",
+            "href": "https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html"
+        },
+        {
+            "text": "trying to measure",
+            "href": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html"
+        },
+        {
+            "text": "Centrality is not vitality",
+            "href": "https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html"
+        },
+        {
+            "text": "Whale Fall",
+            "href": "https://nesbitt.io/2026/02/21/whale-fall.html"
+        },
+        {
+            "text": "A Taxonomy for Open Source Software",
+            "href": "https://nesbitt.io/2025/11/29/oss-taxonomy.html"
+        },
+        {
+            "text": "Podcast Interviews 2025",
+            "href": "https://nesbitt.io/2025/11/17/podcast-interviews-2025.html"
+        },
+        {
+            "text": "Ecosyste.ms 2023 End of Year Update",
+            "href": "https://nesbitt.io/2023/12/21/2023-ecosystems-end-of-year-update.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2026/05/13/showing-our-work.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2026-05-13-showing-our-work.md"
+        }
+    ],
+    "text_length": 8446,
+    "text_full": "Andrew Nesbitt\n      \nShowing Our Work\nopen-sourceecosyste.msresearch\n\nMay 13, 2026\n\nA preprint went up on arXiv this week from Alexandros Tsakpinis, Emil Schwenger and Alexander Pretschner at fortiss and TU Munich: Modeling Dependency-Propagated Ecosystem Impact of Changes in Maintenance Activities. They built a model of how maintenance changes propagate through the Python dependency graph, ran it over 718,750 PyPI packages and two million dependency edges, and then benchmarked three real-world support mechanisms against it to see how well each one’s package selection lined up with where the model says support would do the most good.\n\nThe three were Tidelift’s lifted packages, GitHub Sponsors, and the ecosyste.ms Python fund. The fund is something we run with Open Source Collective: organisations put money in for a language ecosystem as a whole rather than picking individual projects, and we distribute it across the packages our dependency data says are most critical, paying out through whatever funding channel each maintainer already has set up.\n\nAt 97 packages, that selection accounted for 25.9% of the total modelled improvement impact and 38.0% of the total modelled regression impact across all of PyPI. From the paper: “Ecosyste.ms shows comparatively strong alignment with high-impact packages despite its small size.” Of the mechanisms tested it was the most efficient per package by a comfortable margin.\n\nI run ecosyste.ms, so I’m not a neutral reader of that result, and I don’t normally use this blog to talk up my own projects. But I didn’t design this test, choose its metric, or know it was being run. An independent group built their own model from raw PyPI data and found that our selection lines up with it better than anything else they could measure. That kind of external validation doesn’t come along often, and I think it’s worth writing about.\n\nTen years of dependency graphs#\n\nBen Nickolls and I have spent the last decade working on this, starting with Libraries.io in 2015. The premise from the beginning was that the dependency graph, rather than download counts or stars, is the right structure for working out which open source projects actually matter. Downloads mostly measure CI runners reinstalling the world, and stars measure visibility among people who have GitHub accounts and click buttons.\n\nDeclared dependents are the closest thing we have to a direct measure of who is actually using a library, and unlike either of those they go down as well as up: when people migrate off something the dependent count drops, where the star stays clicked and the download number keeps ticking over from old CI. A usage signal that moves in both directions lets you infer a great deal about a project’s standing without having to measure any of it separately.\n\necosyste.ms is what that work turned into, and it has long since outgrown the original project. It currently indexes over 14 million packages and 157 million versions across dozens of registries, with close to two billion version-level dependency declarations between them, and advisories, committers, funding links and release history joined on. PyPI alone is 860,000 packages and 8.9 million versions. The paper builds its graph from the latest version of each package; we keep the dependencies of every version ever published, which is what you need if you want to watch the graph change over time rather than take a single snapshot of it.\n\nSitting on top of that is a second, larger graph of 292 million source repositories and 24 billion edges back to the packages they install, which is how you find out what relies on a library beyond the boundaries of its own registry. All of it is open source, the data is openly licensed, and the APIs are serving around 1.6 billion requests a month.\n\nThe paper’s core equation is the number of packages that transitively depend on you, multiplied by how much your maintenance state could change. That’s a dependency-graph metric built on the same kind of data as the fund’s selection, and two groups working independently from the same premise and arriving at heavily overlapping lists is more or less what validation looks like.\n\nThe authors spent five days in February assembling their PyPI snapshot, throttled the whole way by GitHub and registry rate limits. That same graph already exists in ecosyste.ms for npm, RubyGems, Maven, Cargo, Go, Packagist, Hex and a couple of dozen others, refreshed continuously and queryable today. The method in this paper could be applied across every major language ecosystem tomorrow morning without anyone writing another crawler, and I’d very much like someone to do that.\n\nThe paper’s optimal selection is 730 packages for 80% of modelled impact. The ecosyste.ms critical set for PyPI, picked by a different method and for a different purpose, is currently 523. I pulled the replication package and ran our 523 through the same model: they cover roughly 64% of total improvement impact and 76% of total regression impact, within a few points of the paper’s optimum and well past anything in its comparison table. 333 of their 730 are already in our list, and on the regression side specifically, the “what hurts most if it stops being maintained” question, it’s 165 of their 204.\n\nIdentifying the critical packages is step one of almost every serious attempt to support open source, and most of those attempts are still doing it from scratch, per ecosystem, with whatever a registry API will give them in an afternoon. Money routed through Open Collective and companies signed up to the Open Source Pledge, security engineering coming out of Alpha-Omega, governments trying to enumerate digital infrastructure: all of it needs a defensible answer to “which packages, and why these ones.” The dependency graph is the best basis I know of for giving that answer, and ecosyste.ms exists so that nobody has to rebuild it before they can start.\n\nWhat it doesn’t measure#\n\nThe maintenance signal, which the authors themselves flag as a limitation, is the OpenSSF Scorecard Maintained check: ninety days of commit and issue activity on a GitHub repository. I wrote last week about why activity-based signals are getting steadily less trustworthy as bots and scheduled agents keep contribution graphs green on projects no human is reading. The top of the paper’s own improvement ranking is idna, colorama, six, python-dateutil, zipp and pyyaml, all sitting at a Maintained score of zero with somewhere between 90,000 and 200,000 PyPI packages transitively depending on each. Those packages are finished rather than abandoned, and a 90-day activity window can’t tell the difference. The study is also PyPI only, GitHub only, and a handful of high-reach packages fell out of the analysis entirely for lack of a repository URL, though none of that changes the comparative result since every mechanism was scored the same way.\n\nThe regression half of the result says that if those 97 packages all fell to a maintenance score of zero, that alone would account for 38% of the total possible maintenance collapse across PyPI. The paper treats that as a hypothetical to be simulated, but I spent the week before last trying to measure how hypothetical it actually is across the equivalent critical sets in sixteen ecosystems, and found about 12% of the repositories behind them already gone, another 20% one tired person away from it, and a further 19% untested because nobody’s knocked. I think we now have very good data for working out which packages are structurally critical. What state the people behind them are in is a different and harder question, and that’s where the next ten years of this goes.\n\nRelated posts\nCentrality is not vitality May 14, 2026\n\nDon't automatically reach for PageRank on dependency graphs\n\nWhale Fall Feb 21, 2026\n\nWhat happens when a large open source project dies.\n\nA Taxonomy for Open Source Software Nov 29, 2025\n\nI'm working on a structured taxonomy for classifying open source projects across multiple dimensions: domain, role, technology, audience, layer, and function.\n\nPodcast Interviews 2025 Nov 17, 2025\n\nA collection of podcast interviews discussing ecosyste.ms, open source metadata, package management, and software sustainability.\n\nEcosyste.ms 2023 End of Year Update Dec 21, 2023\n\nWrapping up what we've been up to over the past year on https://ecosyste.ms\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

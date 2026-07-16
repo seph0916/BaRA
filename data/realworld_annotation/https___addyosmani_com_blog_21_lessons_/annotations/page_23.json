@@ -1,0 +1,67 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 14,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "Tool Use",
+            "href": "https://addyosmani.com/agentic-engineering/tool-use/"
+        },
+        {
+            "text": "Plan-Act-Observe Loop",
+            "href": "https://addyosmani.com/agentic-engineering/plan-act-observe/"
+        },
+        {
+            "text": "Guardrails",
+            "href": "https://addyosmani.com/agentic-engineering/guardrails/"
+        },
+        {
+            "text": "Human-in-the-Loop",
+            "href": "https://addyosmani.com/agentic-engineering/human-in-the-loop/"
+        },
+        {
+            "text": "Agentic Engineering",
+            "href": "https://addyosmani.com/blog/agentic-engineering/"
+        },
+        {
+            "text": "← Back to Glossary",
+            "href": "https://addyosmani.com/agentic-engineering/"
+        }
+    ],
+    "text_length": 2449,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nAI Coding Agent\n\nAn AI that doesn't just suggest code - it writes, runs, and fixes it autonomously.\n\nThe simple explanation\n\nImagine the difference between asking a friend for driving directions versus hiring a driver. A chatbot gives you directions - it tells you what code to write. A coding agent is the driver - it actually writes the code, runs it, checks if it works, and fixes problems on its own.\n\nAn AI coding agent is software powered by a large language model that can take autonomous actions on your codebase. It reads your files, understands the context, writes or edits code, executes commands, runs tests, and iterates based on the results. Tools like Claude Code, Cursor, Windsurf, and GitHub Copilot agent mode are all examples.\n\nThe key word is autonomous. A coding agent doesn't just predict the next line of code - it operates in a loop, taking actions and observing results until the task is done. It might create a file, realize it forgot an import, fix the import, run the tests, see a failure, and adjust its approach - all without you intervening.\n\nWhy it matters for agentic engineering\n\nCoding agents are the foundation that agentic engineering is built on. Without agents, you're just using AI as a fancy autocomplete. With agents, you can delegate entire tasks - \"add pagination to this API endpoint\" or \"write tests for this module\" - and get back working code.\n\nBut agents aren't magic. They're powerful tools that need direction. The quality of what an agent produces depends heavily on the context you give it: clear specs, good scaffolding, and robust guardrails. Agentic engineering is the discipline of providing that direction effectively.\n\nIn practice\nSingle-task agents: You describe a feature or bug fix, the agent implements it end-to-end, and you review the diff\nMulti-agent setups: Several agents work on different parts of a codebase simultaneously - one on the API, one on tests, one on frontend\nBackground agents: Agents that run asynchronously on tasks like PR reviews, dependency updates, or migration work while you focus on something else\n\nThe best results come when you treat agents like capable but context-limited junior developers. Give them clear instructions, set up guardrails, and always review their work.\n\nRELATED TERMS\n\nTool Use · Plan-Act-Observe Loop · Guardrails · Human-in-the-Loop · Agentic Engineering\n\n← Back to Glossary"
+}

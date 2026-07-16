@@ -1,0 +1,83 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://daringfireball.net/js/images-global/zoom/zoom-spin-1.png",
+        "https://daringfireball.net/js/images-global/zoom/spacer.gif",
+        "https://daringfireball.net/js/images-global/zoom/closebox.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-l.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-r.png",
+        "https://daringfireball.net/graphics/logos/",
+        "https://daringfireball.net/martini/images/workos.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 16,
+    "links": [
+        {
+            "text": "",
+            "href": "https://daringfireball.net/"
+        },
+        {
+            "text": "ARCHIVE",
+            "href": "https://daringfireball.net/archive/"
+        },
+        {
+            "text": "THE TALK SHOW",
+            "href": "https://daringfireball.net/thetalkshow/"
+        },
+        {
+            "text": "DITHERING",
+            "href": "https://dithering.fm/"
+        },
+        {
+            "text": "PROJECTS",
+            "href": "https://daringfireball.net/projects/"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://daringfireball.net/contact/"
+        },
+        {
+            "text": "COLOPHON",
+            "href": "https://daringfireball.net/colophon/"
+        },
+        {
+            "text": "FEEDS / SOCIAL",
+            "href": "https://daringfireball.net/feeds/"
+        },
+        {
+            "text": "SPONSORSHIP",
+            "href": "https://daringfireball.net/feeds/sponsors/"
+        },
+        {
+            "text": "",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "PEDOMETER++ 8.0",
+            "href": "https://david-smith.org/blog/2026/04/29/maps-on-watchos/"
+        },
+        {
+            "text": "launch of Pedometer++ 8",
+            "href": "https://david-smith.org/blog/2026/04/28/pedometer-v8/"
+        },
+        {
+            "text": "the Pedometer++ blog",
+            "href": "https://pedometer.app/blog/v8-new-watch-app"
+        },
+        {
+            "text": "Stephen Hackett at 512 Pixels",
+            "href": "https://512pixels.net/2026/04/pedometer-v8-new-watch-app/"
+        },
+        {
+            "text": "Display Preferences",
+            "href": "https://daringfireball.net/preferences/"
+        }
+    ],
+    "text_length": 1505,
+    "text_full": "By JOHN GRUBER\n\nARCHIVE\nTHE TALK SHOW\nDITHERING\nPROJECTS\nCONTACT\nCOLOPHON\nFEEDS / SOCIAL\nSPONSORSHIP\n\nOpenAI, Anthropic, Cursor, and Perplexity chose WorkOS over building it themselves.\n\nPEDOMETER++ 8.0\n\nDavid Smith, “Six Years Perfecting Maps on watchOS”:\n\nI love going on wilderness adventures. I am rarely happier than when I am far off into the mountains without a soul in sight. As a result, I have spent a lot of time learning how to safely explore and navigate when I’m away from civilization. The most important habit I’ve found for not getting lost is to be very regular in checking your location as you go, and the best way I’ve found to do that is to have a map on my wrist.\n\nFor more than six years I’ve been working towards creating the best possible mapping experience on the Apple Watch. With yesterday’s launch of Pedometer++ 8, I feel like this design journey has reached a meaningful destination. I would contend that Pedometer++’s watchOS mapping support is the absolute best available on the App Store.\n\nSo I wanted to walk through the journey it took to get here.\n\n“I love going on wilderness adventures” is how you start a post about an app update. Or at least my type of update to my type of app. I don’t have any desire for maps on my watch, but reading this makes me want it anyway. Enthusiasm is contagious. (See also: the Pedometer++ blog, and Stephen Hackett at 512 Pixels.)\n\n★ Tuesday, 5 May 2026\n\n \n\nDisplay Preferences\n\nCopyright © 2002–2026 The Daring Fireball Company LLC."
+}

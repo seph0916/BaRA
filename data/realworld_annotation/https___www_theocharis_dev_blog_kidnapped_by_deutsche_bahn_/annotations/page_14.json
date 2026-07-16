@@ -1,0 +1,91 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://www.theocharis.dev/blog/we-built-what-we-wished-existed-5m-to-double-down/Screenshot-2026-01-07-at-18.41.45-1_hu10935798187741099106.png",
+        "https://www.theocharis.dev/blog/we-built-what-we-wished-existed-5m-to-double-down/Screenshot-2026-01-08-at-12.49.47_hu10912189161924282768.png",
+        "https://www.theocharis.dev/blog/we-built-what-we-wished-existed-5m-to-double-down/Team-Photo_Web----2026-United-Manufacturing-Hub_hu14478232485885318199.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.theocharis.dev/blog/we-built-what-we-wished-existed-5m-to-double-down/#main"
+        },
+        {
+            "text": "Jeremy Theocharis",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Homepage",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Beliefs",
+            "href": "https://www.theocharis.dev/beliefs"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.theocharis.dev/blog"
+        },
+        {
+            "text": "Talks",
+            "href": "https://www.theocharis.dev/talks"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.theocharis.dev/tools"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.theocharis.dev/#contact"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "learn.umh.app",
+            "href": "https://learn.umh.app/course/we-built-what-we-wished-existed-5m-to-double-down/"
+        },
+        {
+            "text": "n8n",
+            "href": "https://n8n.io/"
+        },
+        {
+            "text": "Cloudera",
+            "href": "https://www.cloudera.com/"
+        },
+        {
+            "text": "https://management.umh.app/",
+            "href": "https://management.umh.app/"
+        },
+        {
+            "text": "Data security",
+            "href": "https://www.theocharis.dev/data-security/"
+        },
+        {
+            "text": "Imprint",
+            "href": "https://www.theocharis.dev/imprint/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "I'm hiring product engineers in Germany.",
+            "href": "https://jobs.umh.app/"
+        }
+    ],
+    "text_length": 5541,
+    "text_full": "Skip to main content\n\nJeremy Theocharis\n\nBoring is Awesome | Co-Founder & CTO at UMH\n\nHomepage\nBeliefs\nBlog\nTalks\nTools\nContact\nGitHub\nLinkedIn\nWe built what we wished existed. €5M to double down.\n\n2026-01-09 · Originally published on learn.umh.app\n\nBeyond compressed air and electricity, data should be the third resource every factory runs on. Today, it’s blocked.\n\nA maintenance engineer can’t figure out why machines fail. The data exists. Scattered across USB sticks, databases, Excel sheets.\n\nEvery hour you spend on integration is an hour not spent creating business value.\n\nWe’ve lived it. I’m Jeremy, co-founder of UMH. Before this, Alex and I spent seven years as system integrators.\n\nWe built UMH because we needed it ourselves. You, our community and early customers, made it what it is today.\n\nTo everyone who’s deployed UMH, filed issues, contributed code, shared templates on Discord, and told us what broke: this funding proves we’re building something real. To the customers who bet on us early: this is validation.\n\nNiklas spent 8 years at Freigeist Capital (Frank Thelen’s fund), where he led our investment. He believed in UMH enough to leave and join as CCO.\n\nJan Oberhauser built n8n. Jeff Hammerbacher co-founded Cloudera. They invested. The people who built the tools we admire are betting on us.\n\nKOMPAS VC led the round, joined by seed + speed Ventures, Sustainable Future Ventures, and Archimedes New Ventures.\n\nWe’ve been where you are\n\nWe have been in all types of industries all around the world.\n\nAlex and I traveled the world retrofitting machines. Tokyo. Singapore. Atlanta. Every factory had the same problem: a tangled mess of point-to-point integrations. Each connection built by a different contractor, carrying just enough data to work. Nothing more. We’d spend weeks data plumbing before we could build anything new.\n\nYes, every factory is special. Their processes and competitive advantages are unique. Their data plumbing isn’t. OPC UA and MQTT work the same way whether you’re making car parts or beer.\n\nSo we built what we wished existed.\n\nWe handle the plumbing so you can focus on what matters\n\nFirst, we built this only for us. For us as system integrators to make our lives easier and speed it up. Then we realized, we can achieve way more.\n\nAt UMH we built it for you. The person who gets shit done on the factory floor. Not management. Not procurement committees.\n\nWhat makes your factory money isn’t choosing between MQTT and OPC UA. It’s your scheduling, your processes, what you actually know about running your factory.\n\nWhen data lives in one place, building use cases takes hours instead of weeks. The Unified Namespace is where all factory data flows. Dashboards, monitoring, analytics. All drawing from the same source.\n\nleft: industrial standard, right: unified namespace\n\nWith UMH, the equipment you bought 15 years ago keeps working. No rip-and-replace. You add new capabilities without buying new hardware. PLCs keep running whether UMH is up or down. We handle data, you handle control.\n\nBöllhoff proved this approach works. They went from planning months of data infrastructure work to being productive in weeks. “Instead of spending months building data infrastructure from scratch, we were up and running in no time. We now connect new data sources and build digital use cases in hours instead of weeks.” That’s Lutz Hermanns, Head of Processes, Digitalisation and Applications (PDA) Production & Supply Chain at Böllhoff.\n\nEdeka has run UMH in production for three years across Sonnländer, their juice subsidiary. HiPP deploys it in multiple baby food factories.\n\nOne way to connect to an OPC UA server. One way to access the logs. When every factory makes different choices, you become dependent on whoever built it. We know. One way means you stay in control.\n\nThe same applies to your data. Open source means your data never leaves your factory. All processing happens on your infrastructure. If we vanished tomorrow, you’d keep running. We’re not going anywhere.\n\nStart free, no PO needed. When you’re ready to scale across factories and teams, enterprise features are there: SLAs, multi-user access, compliance packages, dedicated support.\n\nWe’re doubling down\n\nWe built what we wished existed. Now we’re making it better.\n\nMaking UMH work the way you work. Drag-and-drop to connect devices. Model your data visually. The UI generates YAML you can read and edit. We’re building a CLI so you can take over in code when you need to.\n\nLLMs can already write that YAML directly. Claude Code, Cursor, whatever tools you use. One person can configure hundreds of machines in minutes. LLMs hallucinate. UMH doesn’t. The LLM writes YAML. The Management Console visualizes what the agent configured. UMH validates it before anything runs.\n\nThat’s just the start.\n\nWe’re growing the engineering team to make this real. Your bug reports get fixed. Features ship faster. The technical challenges that SMEs and Fortune 500s both face. We’re solving them.\n\nWe’ve been in the factories. We built the tool we needed. €5M means we can build it faster.\n\nTo the UMH team who shipped through weekends and debugged at 3am: this is yours too.\n\nBeyond compressed air and electricity, data should be the third resource your factory runs on. We’re building the pipes to deliver it.\n\nTry UMH → https://management.umh.app/\n\nAlex, Niklas, and Jeremy\n\nFrom left to right: Niklas, Jeremy, Alex\n\n© 2026 Jeremy Theocharis\n\nData security\nImprint\nGitHub\nLinkedIn\n\nI'm hiring product engineers in Germany."
+}

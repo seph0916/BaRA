@@ -1,0 +1,72 @@
+{
+  "start_url": "https://plainvanillaweb.com/index.html",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://plainvanillaweb.com/index.html",
+    "https://plainvanillaweb.com/pages/components.html",
+    "https://plainvanillaweb.com/pages/styling.html",
+    "https://plainvanillaweb.com/pages/sites.html",
+    "https://plainvanillaweb.com/pages/applications.html",
+    "https://plainvanillaweb.com/blog/",
+    "https://plainvanillaweb.com/blog/articles/2024-09-06-how-fast-are-web-components/",
+    "https://plainvanillaweb.com/blog/articles/2025-04-21-attribute-property-duality/",
+    "https://plainvanillaweb.com/blog/articles/2024-09-16-life-and-times-of-a-custom-element/",
+    "https://plainvanillaweb.com/blog/articles/2025-05-09-form-control/",
+    "https://plainvanillaweb.com/blog/articles/2024-10-20-editing-plain-vanilla/",
+    "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/",
+    "https://plainvanillaweb.com/blog/articles/2024-10-07-needs-more-context/",
+    "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/",
+    "https://plainvanillaweb.com/blog/articles/2026-03-01-redesigning-plain-vanilla/",
+    "https://plainvanillaweb.com/blog/articles/2025-07-16-local-first-architecture/",
+    "https://plainvanillaweb.com/blog/articles/2025-07-13-history-architecture/",
+    "https://plainvanillaweb.com/blog/articles/2025-06-12-view-transitions/",
+    "https://plainvanillaweb.com/blog/index.html",
+    "https://plainvanillaweb.com/blog/articles/2024-09-16-life-and-times-of-a-custom-element/undefined/example.css",
+    "https://plainvanillaweb.com/blog/articles/2024-08-25-vanilla-entity-encoding/",
+    "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/example1/index.html",
+    "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/example2/index.html",
+    "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/example3/index.html",
+    "https://plainvanillaweb.com/blog/articles/2024-09-28-unreasonable-effectiveness-of-vanilla-js/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://plainvanillaweb.com/index.html"
+    ],
+    "1": [
+      "https://plainvanillaweb.com/pages/components.html",
+      "https://plainvanillaweb.com/pages/styling.html",
+      "https://plainvanillaweb.com/pages/sites.html",
+      "https://plainvanillaweb.com/pages/applications.html",
+      "https://plainvanillaweb.com/blog/"
+    ],
+    "2": [
+      "https://plainvanillaweb.com/blog/articles/2024-09-06-how-fast-are-web-components/",
+      "https://plainvanillaweb.com/blog/articles/2025-04-21-attribute-property-duality/",
+      "https://plainvanillaweb.com/blog/articles/2024-09-16-life-and-times-of-a-custom-element/",
+      "https://plainvanillaweb.com/blog/articles/2025-05-09-form-control/",
+      "https://plainvanillaweb.com/blog/articles/2024-10-20-editing-plain-vanilla/",
+      "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/",
+      "https://plainvanillaweb.com/blog/articles/2024-10-07-needs-more-context/",
+      "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/",
+      "https://plainvanillaweb.com/blog/articles/2026-03-01-redesigning-plain-vanilla/",
+      "https://plainvanillaweb.com/blog/articles/2025-07-16-local-first-architecture/",
+      "https://plainvanillaweb.com/blog/articles/2025-07-13-history-architecture/",
+      "https://plainvanillaweb.com/blog/articles/2025-06-12-view-transitions/"
+    ],
+    "3": [
+      "https://plainvanillaweb.com/blog/index.html",
+      "https://plainvanillaweb.com/blog/articles/2024-09-16-life-and-times-of-a-custom-element/undefined/example.css",
+      "https://plainvanillaweb.com/blog/articles/2024-08-25-vanilla-entity-encoding/",
+      "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/example1/index.html",
+      "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/example2/index.html",
+      "https://plainvanillaweb.com/blog/articles/2025-06-25-routing/example3/index.html",
+      "https://plainvanillaweb.com/blog/articles/2024-09-28-unreasonable-effectiveness-of-vanilla-js/"
+    ]
+  },
+  "dead_links": [
+    "https://plainvanillaweb.com/details",
+    "https://plainvanillaweb.com/unknown"
+  ]
+}

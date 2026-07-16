@@ -1,0 +1,35 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 6,
+    "links": [
+        {
+            "text": "3v4l.org\nrun code in 500+ PHP versions simultaneously",
+            "href": "https://3v4l.org/"
+        },
+        {
+            "text": "sponsor",
+            "href": "https://3v4l.org/sponsor"
+        },
+        {
+            "text": "bughunt",
+            "href": "https://3v4l.org/bughunt"
+        },
+        {
+            "text": "search",
+            "href": "https://3v4l.org/search"
+        },
+        {
+            "text": "recent",
+            "href": "https://3v4l.org/last"
+        },
+        {
+            "text": "about",
+            "href": "https://3v4l.org/about"
+        }
+    ],
+    "text_length": 419,
+    "text_full": "3v4l.org\nrun code in 500+ PHP versions simultaneously\nsponsor\nbughunt\nsearch\nrecent\nabout\nversions\n\nSelect one version you want to focus on when comparing\n\ncontrols\n\nSelect two versions to compare against. Output from all controls must match, this eliminates scripts that have a high variance (caused by time based or random output)\n\npreferences:dark modelive preview\nace\nvim\nemacs\nkey bindings\n15.24 ms | 475 KiB | 1 Q"
+}

@@ -1,0 +1,86 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://hey.paris/space-cover.jpg",
+        "https://hey.paris/earthrise.jpg#center"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 18,
+    "links": [
+        {
+            "text": "Paris Buttfield-Addison",
+            "href": "https://hey.paris/"
+        },
+        {
+            "text": "EVENTS",
+            "href": "https://hey.paris/books-and-events/events/"
+        },
+        {
+            "text": "WRITING",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://hey.paris/about/"
+        },
+        {
+            "text": "POSTS",
+            "href": "https://hey.paris/all-posts/"
+        },
+        {
+            "text": "Lucie Cutting on Sunday mornings",
+            "href": "https://www.abc.net.au/listen/programs/hobart-sundays"
+        },
+        {
+            "text": "this edition of the programme",
+            "href": "https://www.abc.net.au/listen/programs/hobart-sundays"
+        },
+        {
+            "text": "iScience",
+            "href": "https://www.cell.com/iscience/fulltext/S2589-0042%2825%2900155-3"
+        },
+        {
+            "text": "Fortune piece",
+            "href": "https://fortune.com/2025/12/03/google-data-centers-outer-space-problem-space-junk-debris/"
+        },
+        {
+            "text": "Earthrise",
+            "href": "https://en.wikipedia.org/wiki/Earthrise"
+        },
+        {
+            "text": "",
+            "href": "https://en.wikipedia.org/wiki/Earthrise"
+        },
+        {
+            "text": "archive of Space News",
+            "href": "https://hey.paris/tags/space-news/"
+        },
+        {
+            "text": "SPACE NEWS",
+            "href": "https://hey.paris/tags/space-news/"
+        },
+        {
+            "text": "ABC RADIO",
+            "href": "https://hey.paris/tags/abc-radio/"
+        },
+        {
+            "text": "RADIO",
+            "href": "https://hey.paris/tags/radio/"
+        },
+        {
+            "text": "← PREVIOUS\nSlop for the People",
+            "href": "https://hey.paris/posts/govai/"
+        },
+        {
+            "text": "NEXT →\n20 Years of Digital Life, Gone in an Instant, …",
+            "href": "https://hey.paris/posts/appleid/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://hey.paris/privacy/"
+        }
+    ],
+    "text_length": 7514,
+    "text_full": "Paris Buttfield-Addison\nTechnology · Policy · Games · Arts · Education · Writing\nEVENTS\nWRITING\nABOUT\nPOSTS\nDECEMBER 7, 2025\nSpace News, December 2025\n\nThese are my notes and expanded thoughts from this month’s Space News segment on ABC Radio Hobart and ABC Northern Tasmania. Every month I join Lucie Cutting on Sunday mornings to chat about what’s happening above and beyond.\n\nHere’s what we discussed, plus some of my notes, and expanded thoughts from this edition of the programme:\n\nMoss Survived Nine Months in Space, and Scientists Are Stunned\n\nJapanese researchers strapped moss spores to the outside of the International Space Station for 283 days. Not inside. Outside. Direct exposure to vacuum, cosmic radiation, UV bombardment up to 1,000 times stronger than Earth’s surface, and temperature swings that would kill almost anything.\n\nThey expected most of it to die. Over 80% survived. And 86-89% of those survivors could still germinate and grow normally back on Earth.\n\nThe species was Physcomitrium patens, commonly called spreading earthmoss. Launched March 2022 on a Northrop Grumman spacecraft, retrieved via SpaceX Dragon in January 2023. The results, published in iScience last month, have researchers rethinking what we might use to terraform other worlds.\n\nThe secret is something called a sporangium—a protective capsule that encases moss spores. Think of it as nature’s original spacesuit. Mosses evolved these structures 450-500 million years ago when they transitioned from water to land. The same adaptations that helped them survive multiple mass extinction events on Earth happen to work against the vacuum of space. We may have had a space-ready organism in our backyards this whole time.\n\nTardigrades get all the fame for space survival, but moss might actually beat them. In a 2007 ESA experiment, tardigrades survived space vacuum fairly well (~68%), but when exposed to full UV radiation plus vacuum, survival dropped to 10-15%. Moss spores showed roughly 1,000 times more UV resistance. There’s delicious irony here: tardigrades are nicknamed “moss piglets” because they live in tufts of moss.\n\nLead researcher Tomomichi Fujita summed up years of work with a single word when he saw the results: “Beautiful.”\n\nHis ultimate hope: moss could become a pioneer species for the Moon and Mars—producing oxygen, improving soil quality, creating conditions for more complex plants. Mathematical models from the study suggest moss spores could potentially survive up to 15 years in space. We might be looking at the first step toward self-sustaining agriculture beyond Earth.\n\nGoogle Wants to Put Data Centres in Space\n\nGoogle announced Project Suncatcher last month: AI data centres in orbit, using clusters of 81 solar-powered satellites equipped with their custom TPU chips. Two prototype satellites are planned for launch with Planet Labs by early 2027.\n\nThis sounds absurd until you look at the numbers (at which point it’s absurd for different reasons!) Data centres consumed 460 TWh globally in 2022—on par with France. A single ChatGPT query uses nearly 10x the electricity of a Google search. Up to 43% of data centre power goes just to cooling. Google’s facilities in The Dalles, Oregon consumed 355 million gallons of water in 2021—one-quarter of the town’s annual supply.\n\nSpace offers constant sunlight (solar panels are 8x more productive in orbit—no clouds, no night) and no water needed for cooling. CEO Sundar Pichai says we’ll eventually view this as “a more normal way to build.”\n\nCooling is actually harder in space, not easier. No air means no convection—heat can only radiate away via infrared. Startup Starcloud’s design requires kilometre-long deployable radiators, and their CEO acknowledged the obvious: “Cooling in space is hard.”\n\nThe bigger concern is traffic… Google’s target orbit is already the most congested highway in low Earth orbit. Over 11,000 satellites are up there now, and 7,000+ belong to SpaceX’s Starlink alone—more than half. In the first six months of 2025, Starlink performed nearly 150,000 collision-avoidance manoeuvres. A Fortune piece pointed out that Google’s constellation would encounter debris larger than a grain of sand every five seconds.\n\nThis accelerates the risk of Kessler Syndrome, a theoretical chain reaction where collisions create debris that causes more collisions, potentially making certain orbits permanently unusable. Named after NASA scientist Donald Kessler who proposed it in 1978, it’s basically a highway where one car crash creates debris that causes more crashes until the entire highway is undrivable. Except at thousands of kilometres per hour…\n\nGoogle is framing this as a decade-away vision, not an imminent product. But everyone else is racing too: Jeff Bezos predicts gigawatt space data centres in 10-20 years, Musk claims SpaceX “will be doing” this (not that we should listen to anything he says), and Eric Schmidt acquired Relativity Space specifically for orbital computing. Startup Lonestar is planning data centres on the Moon.\n\nIt’s a solution to one environmental problem that will create several others…\n\nSpace and Christmas: A Brief, Weird History\n\nSince it’s December, we ended on something lighter: the surprisingly long history of Christmas in space.\n\nJingle Bells was the first song ever played in space. On December 16, 1965, Gemini 6 astronauts Tom Stafford and Wally Schirra pulled an elaborate prank on Mission Control, reporting a UFO: “We have an object, looks like a satellite going from north to south… very low, looks like he might be going to re-enter soon.” Then they pulled out a smuggled harmonica and sleigh bells and played Jingle Bells. Mission Control’s response: “You’re too much, Six.” The instruments are now in the Smithsonian.\n\nThree years later, Apollo 8 broadcast Genesis readings to an estimated one billion viewers—one-quarter of Earth’s population—while orbiting the Moon on Christmas Eve 1968. When they left lunar orbit on Christmas morning, Jim Lovell radioed: “Please be informed, there is a Santa Claus!” Bill Anders also snapped the iconic Earthrise photo that day.\n\nISS astronauts still sneak presents aboard for each other. In 2010, families sent gifts via supply mission—astronauts woke to find stockings on their sleeping compartment doors. This year, stranded astronauts Suni Williams and Butch Wilmore built a makeshift reindeer from storage bags and brown industrial clips.\n\nAnd then there’s Christmas on Mars, a 2008 film by The Flaming Lips that took seven years to make, mostly in Wayne Coyne’s backyard in Oklahoma. The plot involves a Mars colony’s first Christmas, an artificial womb baby due at midnight on Christmas Eve, gravity failures, mass hallucinations, and a green-skinned alien who becomes both saviour and Santa Claus. One scene features a marching band with… anatomical headgear. The accompanying track is called “The Gleaming Armament of Marching Genitalia.”\n\nCoyne’s description: “Maybe Eraserhead crossed with The Wizard of Oz and 2001: A Space Odyssey, except done without real actors or money, and set at Christmas-time.”\n\nIt’s possibly the weirdest Christmas movie ever made. Worth watching with appropriately relaxed expectations.\n\nNext year I’ll be back on ABC Radio Hobart and ABC Northern Tasmania with Lucie for more space news.\n\nView the archive of Space News.\n\nSPACE NEWS\nABC RADIO\nRADIO\n← PREVIOUS\nSlop for the People\nNEXT →\n20 Years of Digital Life, Gone in an Instant, …\n\n© 2026 Dr Paris Buttfield-Addison · Privacy"
+}

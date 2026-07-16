@@ -1,0 +1,983 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5242428.jpg?imageId=5242428&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5242134.jpg?imageId=5242134&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240657.jpg?imageId=5240657&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240731.jpg?imageId=5240731&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=23.26&heighty=0.00&heightw=34.76&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240537.jpg?imageId=5240537&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238981.jpg?imageId=5238981&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239900.jpg?imageId=5239900&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238543.jpg?imageId=5238543&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237377.jpg?imageId=5237377&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235579.jpg?imageId=235579&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5235650.jpg?imageId=5235650&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5234482.jpg?imageId=5234482&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5234481.jpg?imageId=5234481&panox=0.00&panoy=23.21&panow=100.00&panoh=42.81&heightx=0.00&heighty=23.21&heightw=100.00&heighth=42.81&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5231314.jpg?imageId=5231314&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230584.jpg?imageId=5230584&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230655.jpg?imageId=5230655&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222566.jpg?imageId=222566&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230204.jpg?imageId=5230204&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230257.jpg?imageId=5230257&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/171753.jpg?imageId=171753&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224773.jpg?imageId=5224773&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222821.jpg?imageId=222821&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221458.jpg?imageId=5221458&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227614.jpg?imageId=5227614&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5229577.jpg?imageId=5229577&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221067.jpg?imageId=5221067&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220522.jpg?imageId=5220522&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229663.jpg?imageId=229663&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/170107.jpg?imageId=170107&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230552.jpg?imageId=230552&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222138.jpg?imageId=5222138&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221452.jpg?imageId=5221452&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5219911.jpg?imageId=5219911&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5228080.jpg?imageId=5228080&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230830.jpg?imageId=230830&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227330.jpg?imageId=5227330&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/223845.jpg?imageId=223845&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/246586.jpg?imageId=246586&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227341.jpg?imageId=5227341&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221496.jpg?imageId=5221496&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227446.jpg?imageId=5227446&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227354.jpg?imageId=227354&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/143692.jpg?imageId=143692&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/131098.jpg?imageId=131098&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094118.jpg?imageId=4094118&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093874.jpg?imageId=4093874&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/263167.jpg?imageId=263167&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094105.jpg?imageId=4094105&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245851.jpg?imageId=245851&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093982.jpg?imageId=4093982&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232763.jpg?imageId=232763&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255014.jpg?imageId=255014&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094213.jpg?imageId=4094213&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093975.jpg?imageId=4093975&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094208.jpg?imageId=4094208&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228046.jpg?imageId=228046&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/224820.jpg?imageId=224820&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254046.jpg?imageId=254046&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094132.jpg?imageId=4094132&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094180.jpg?imageId=4094180&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093831.jpg?imageId=4093831&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241456.jpg?imageId=241456&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/246069.jpg?imageId=246069&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684161.jpg?imageId=1684161&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262761.jpg?imageId=262761&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255924.jpg?imageId=255924&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230354.jpg?imageId=230354&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093971.jpg?imageId=4093971&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/242310.jpg?imageId=242310&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094057.jpg?imageId=4094057&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 224,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/offbeat#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "UK Typhoon jets fitted with bargain-bin drone busters for Middle East sorties\n\nLow-cost laser-guided rockets offer cheaper way to swat Shahed-style threats than firing pricey air-to-air missiles",
+            "href": "https://www.theregister.com/offbeat/2026/05/19/uk-typhoon-jets-fitted-with-bargain-bin-drone-busters-for-middle-east-sorties/5242412"
+        },
+        {
+            "text": "57",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/20268/"
+        },
+        {
+            "text": "Yes, you can serve a website from a $1 microcontroller\n\nWell, page is more accurate, but the source code is available if you want to try doing something even crazier",
+            "href": "https://www.theregister.com/offbeat/2026/05/18/yes-you-can-serve-a-website-from-a-1-microcontroller/5242096"
+        },
+        {
+            "text": "26",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/202617/"
+        },
+        {
+            "text": "UK reloads artillery plans with £1B remote-control howitzer order\n\n72 Boxer-mounted RCH 155s due from 2028 as Britain fills the gap left by AS-90s sent to Ukraine",
+            "href": "https://www.theregister.com/offbeat/2026/05/15/uk-reloads-artillery-plans-with-1b-remote-control-howitzer-order/5240629"
+        },
+        {
+            "text": "53",
+            "href": "https://forums.theregister.com/forum/all/2026/05/15/20266/"
+        },
+        {
+            "text": "Grad-to-be turns graduation cap into Rust-powered light show\n\nEric Park tells us he doesn't plan to wear his modified cap to commencement, but his code's available for anyone with no such qualms and an upcoming ceremony",
+            "href": "https://www.theregister.com/offbeat/2026/05/14/grad-to-be-turns-graduation-cap-into-rust-powered-light-show/5240682"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/202618/"
+        },
+        {
+            "text": "Dude… where’s my password? Claude reunites forgetful stoner with $400k Bitcoin stash\n\nAI to the rescue as 11-year search for password turns up in old PC files",
+            "href": "https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/202612/"
+        },
+        {
+            "text": "This browser add-in doesn't just hide ads, it tells you to OBEY\n\nChromium extension swaps promos for John Carpenter-style subliminal slogans",
+            "href": "https://www.theregister.com/offbeat/2026/05/13/this-browser-add-in-doesnt-just-hide-ads-it-tells-you-to-obey/5238887"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202610/"
+        },
+        {
+            "text": "Man jailed for packing printer with something more expensive than toner: Cocaine\n\nClass A drugs loaded instead of A4",
+            "href": "https://www.theregister.com/offbeat/2026/05/13/man-jailed-for-packing-printer-with-something-more-expensive-than-toner-cocaine/5239293"
+        },
+        {
+            "text": "23",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/20261/"
+        },
+        {
+            "text": "Windows update prompt joins the Post Office queue\n\nCustomers left staring at restart plea with no keyboard, mouse, or hope",
+            "href": "https://www.theregister.com/offbeat/2026/05/12/windows-update-prompt-joins-the-post-office-queue/5238531"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/20267/"
+        },
+        {
+            "text": "The latest innovation in UK public transport: Schrödinger's trains\n\nWho knows what is going where. Might as well have a lovely beer instead.",
+            "href": "https://www.theregister.com/offbeat/2026/05/11/the-latest-innovation-in-uk-public-transport-schroedingers-trains/5237362"
+        },
+        {
+            "text": "79",
+            "href": "https://forums.theregister.com/forum/all/2026/05/11/20264/"
+        },
+        {
+            "text": "London’s BT Tower to get rooftop swimming pool\n\nImagine taking a dip 177m above the streets of London’s West End",
+            "href": "https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337"
+        },
+        {
+            "text": "91",
+            "href": "https://forums.theregister.com/forum/all/2026/05/09/20261/"
+        },
+        {
+            "text": "Vi clone written in BASIC proves old habits :wq hard\n\nA few hundred lines of Yabasic recreate just enough to keep modal editing muscle memory alive",
+            "href": "https://www.theregister.com/offbeat/2026/05/08/vi-clone-written-in-basic-proves-old-habits-wq-hard/5235594"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/202612/"
+        },
+        {
+            "text": "Lego throws its own Hail Mary\n\nMovie-inspired set ticks the clever Technic box, but at a price",
+            "href": "https://www.theregister.com/offbeat/2026/05/08/lego-throws-its-own-hail-mary/5230873"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/20265/"
+        },
+        {
+            "text": "Bus station display takes the Windows 10 road to nowhere\n\nSpikes deter pigeons, but Microsoft still managed to foul the screen",
+            "href": "https://www.theregister.com/offbeat/2026/05/08/bus-station-display-takes-the-windows-10-road-to-nowhere/5231669"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/20263/"
+        },
+        {
+            "text": "Young evil genius forces hamster to run on wheel to power his gadgets\n\nOkay, the rodent was a willing participant - after all, who turns down treats for a spin that charges a phone?",
+            "href": "https://www.theregister.com/offbeat/2026/05/06/youtuber-turns-hamster-wheel-into-phone-charger/5231293"
+        },
+        {
+            "text": "52",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/202620/"
+        },
+        {
+            "text": "IBM tried to kill Tab navigation. Microsoft told it Bill Gates' mother wasn't interested\n\nBig Blue escalated the OS/2 keyboard squabble through seven layers of management. Redmond's answer? Nope",
+            "href": "https://www.theregister.com/offbeat/2026/05/06/ibm-tried-to-kill-tab-navigation-microsoft-told-it-bill-gates-mother-wasnt-interested/5230592"
+        },
+        {
+            "text": "37",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/20269/"
+        },
+        {
+            "text": "UK puts £20.5M behind 'numberplate for the skies' to keep tabs on drones\n\nRemote ID system will log aircraft identity and location as ministers try to stop rogue flyers grounding airports",
+            "href": "https://www.theregister.com/offbeat/2026/05/06/uk-puts-205m-behind-numberplate-for-the-skies-to-keep-tabs-on-drones/5230609"
+        },
+        {
+            "text": "26",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/20267/"
+        },
+        {
+            "text": "DIY mystery box will wow your friends by hinting at what the ionosphere is up to\n\nA rough guide to when your signal will behave, or not",
+            "href": "https://www.theregister.com/offbeat/2026/05/05/maker-builds-diy-rf-monitor-to-aid-shortwave-listening/5222600"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/diy_rf_radiation_tracker/"
+        },
+        {
+            "text": "Unexpected item in Windows' bagging area\n\nActivating Windows will cost more than a couple of cheap carrier bags",
+            "href": "https://www.theregister.com/offbeat/2026/05/05/unexpected-item-in-windows-bagging-area/5229720"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/unexpected_item_in_windows_bagging/"
+        },
+        {
+            "text": "Hobbyist xenomorphs Raspberry Pi into Alien-themed DIY laptop\n\nEverything you need to build the PS-85 is available from its designer's website, even if you can't get to space",
+            "href": "https://www.theregister.com/offbeat/2026/05/04/maker-builds-alien-style-diy-laptop-around-raspberry-pi/5229595"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/05/04/alien_weyland_yutani_themed_diy_laptop/"
+        },
+        {
+            "text": "Britain's £6B armoured sickener Ajax cleared for duty despite injuring troops\n\nInvestigation finds no single cause for soldiers falling ill, just bad bolts, cold air, and apparently the soldiers themselves",
+            "href": "https://www.theregister.com/offbeat/2026/04/30/6b-ajax-troops-hurt-mod-shrugs-vehicle-carries-on/5228742"
+        },
+        {
+            "text": "85",
+            "href": "https://forums.theregister.com/forum/all/2026/04/30/ajax_armored_vehicle_cleared/"
+        },
+        {
+            "text": "Bork in Prague: SUSE's keynote gods demand their tribute\n\nLinux vendor touts European independence while rate limits, Chromium popups, and cold sparks steal the show",
+            "href": "https://www.theregister.com/offbeat/2026/04/29/bork-in-prague-suses-keynote-gods-demand-their-tribute/5224501"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/never_anger_the_keynote_demo/"
+        },
+        {
+            "text": "Friendster rises from the grave to make social media great again\n\nNo ads, no algorithm, and you actually have to physically tap phones to add a friend",
+            "href": "https://www.theregister.com/offbeat/2026/04/27/friendster-rises-from-the-grave-to-deshittify-social-media/5226659"
+        },
+        {
+            "text": "50",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/friendster_rises_from_the_grave/"
+        },
+        {
+            "text": "In the beginning was the Bork: 'Heart of the Earth' exhibit reveals Raspberry Pi in existential crisis\n\nDynamic Earth's ancient rock holds not primordial crystal, but a tiny Linux box having a bad day",
+            "href": "https://www.theregister.com/offbeat/2026/04/27/raspberry-pi-turns-up-in-the-strangest-of-places/5221227"
+        },
+        {
+            "text": "30",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/the_raspberry_pi_turns_up/"
+        },
+        {
+            "text": "Google Meet or Google Mute? Even CEOs get borked sometimes\n\nVideo conferencing has tripped us all up. Now cloud chief Thomas Kurian gets his turn",
+            "href": "https://www.theregister.com/offbeat/2026/04/23/bork-crashes-google-cloud-ceos-keynote/5227566"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/04/23/google_cloud_next_videoconf_issues/"
+        },
+        {
+            "text": "Would you like fries with that terminal?\n\nJack might be on Track, but the order screen certainly isn't",
+            "href": "https://www.theregister.com/offbeat/2026/04/17/would-you-like-fries-with-that-terminal/5229548"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/04/17/bork_jack_in_the_box/"
+        },
+        {
+            "text": "Obsolete Google nag drowns out vital bar information at Swedish concert hall\n\nBackup and Sync may be dead, but it still knows how to kill the buzz before the ukuleles start",
+            "href": "https://www.theregister.com/offbeat/2026/04/16/obsolete-google-nag-drowns-out-late-bar-notice-in-sweden/5220861"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/google_sweden_bork/"
+        },
+        {
+            "text": "Windows takes a crash dump after one McDonald's order too many\n\nWe've all been there",
+            "href": "https://www.theregister.com/offbeat/2026/04/15/windows-takes-a-crash-dump-after-one-mcdonalds-too-many/5220500"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/windows_mcdonalds_bork/"
+        },
+        {
+            "text": "Waymo's self-driving cars face their toughest test yet: London\n\nGoogle sibling takes on the Big Smoke – with a human hand on the wheel",
+            "href": "https://www.theregister.com/offbeat/2026/04/15/waymo-self-driving-cars-face-toughest-test-yet-london/5222474"
+        },
+        {
+            "text": "81",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/waymo_london/"
+        },
+        {
+            "text": "Boeing deliveries soar past Airbus for the first time in years, but this is no time to unbuckle your seat belt\n\nSupply chain and engineering woes keep the supply of new planes sputtering",
+            "href": "https://www.theregister.com/offbeat/2026/04/15/boeing-soars-past-airbus-for-the-first-time-in-years/5222710"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/boeing_airbus_deliveries/"
+        },
+        {
+            "text": "Tech support chap's boss got him out of jail so he could finish a job\n\nThe right person for the job didn't have the right passport for the job",
+            "href": "https://www.theregister.com/offbeat/2026/04/10/tech-support-chaps-boss-got-him-out-of-jail-to-finish-a-job/5227996"
+        },
+        {
+            "text": "161",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/on_call/"
+        },
+        {
+            "text": "Showing the Windows 10 desktop was the yeast they could do\n\nFresh and healthy, just like Windows 11 isn't",
+            "href": "https://www.theregister.com/offbeat/2026/04/08/showing-the-windows-10-desktop-was-the-yeast-they-could-do/5222088"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/04/08/windows_desktop_bakery/"
+        },
+        {
+            "text": "Virtual SG-41 project brings Nazi cipher machine to life in the browser\n\nMartin Gillow's 3D recreation lets users explore would-be Enigma successor's mechanics and enciphering logic online",
+            "href": "https://www.theregister.com/offbeat/2026/04/08/sg-41-cipher-machine-recreated-online-with-3d-model/5221413"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/04/08/virtual_sg41/"
+        },
+        {
+            "text": "Iran war drives urgent need to counter underwater attack drones\n\nUS and UK forces seeking tech tender with an April 3 deadline",
+            "href": "https://www.theregister.com/offbeat/2026/03/27/iran-war-drives-urgent-need-to-counter-underwater-drones/5219854"
+        },
+        {
+            "text": "54",
+            "href": "https://forums.theregister.com/forum/all/2026/03/27/us_and_uk_forces_auv_tender/"
+        },
+        {
+            "text": "Forget drones – the US Army just took delivery of a self-flying Black Hawk helicopter\n\nExpendable military drones are so 2025",
+            "href": "https://www.theregister.com/offbeat/2026/03/23/black-hawk-drone-us-army-gets-self-flying-chopper/5227515"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/03/23/black_hawk_self_flying_army/"
+        },
+        {
+            "text": "Britain's satellite-watching gap to be plugged with £17.5M eyeball in Cyprus\n\nNo 1 Space Operations Squadron will get a persistent stare capability",
+            "href": "https://www.theregister.com/offbeat/2026/03/18/mod-spends-175m-on-cyprus-eye-in-the-sky-for-skynet/5220138"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/03/18/miniastry_of_defence_to_spend/"
+        },
+        {
+            "text": "Repopulate! Repopulate! Two lost Doctor Who episodes turn up in private collection\n\nDark Dalek drama to stream this April",
+            "href": "https://www.theregister.com/offbeat/2026/03/16/two-lost-doctor-who-episodes-turn-up-in-private-collection/5226750"
+        },
+        {
+            "text": "51",
+            "href": "https://forums.theregister.com/forum/all/2026/03/16/lost_doctor_who_episodes_found/"
+        },
+        {
+            "text": "Those who 'circle back' and 'synergize' also tend to be crap at their jobs\n\nCornell Uni researchers pivot to pluck low-hanging fruit to optimize bandwidth",
+            "href": "https://www.theregister.com/offbeat/2026/03/15/jargon-lovers-are-worse-at-their-jobs-say-boffins/5229659"
+        },
+        {
+            "text": "146",
+            "href": "https://forums.theregister.com/forum/all/2026/03/15/corporate_jargon_research/"
+        },
+        {
+            "text": "'Are you freaking crazy?' Bot harasses woman, gets led away by cops\n\nAn incident in Macau",
+            "href": "https://www.theregister.com/offbeat/2026/03/13/bot-harasses-woman-led-away-by-cops/5228673"
+        },
+        {
+            "text": "64",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/china_bot_berated_woman_freaking_crazy/"
+        },
+        {
+            "text": "Windows pays tribute to Britain's creaking rail network with a BSOD\n\nGrappling with UK trains will send humans into Recovery too sometimes",
+            "href": "https://www.theregister.com/offbeat/2026/03/13/windows-pays-tribute-to-britains-rail-network-with-a-bsod/5227106"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/windows_railway_bork/"
+        },
+        {
+            "text": "White House activates Yu-Gi-Oh's trap card by using anime clip for war comms\n\nFranchise isn't the only one unhappy about its IP appearing in propaganda",
+            "href": "https://www.theregister.com/offbeat/2026/03/12/white-house-meme-war-comms-draw-yu-gi-oh-criticism/5221459"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2026/03/12/yugioh_us_propaganda/"
+        },
+        {
+            "text": "Smart mirror shows dumb Windows in elevator\n\nAll aboard the elevator where only Microsoft knows where you're going",
+            "href": "https://www.theregister.com/offbeat/2026/03/12/smart-mirror-shows-dumb-windows-in-elevator/5227236"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/03/12/smart_mirror_or_dumb_windows/"
+        },
+        {
+            "text": "NASA watchdog report pokes holes in Artemis lunar lander plans\n\nInspector general flags Starship risks and gaps in testing",
+            "href": "https://www.theregister.com/offbeat/2026/03/11/nasa-watchdog-pokes-holes-in-artermis-lunar-lander-program/5227727"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/03/11/nasa_oig_artemis_lander/"
+        },
+        {
+            "text": "Flying cabs, next-gen aircraft cleared for takeoff in 26 states\n\nFAA launches pilot projects starting this summer",
+            "href": "https://www.theregister.com/offbeat/2026/03/10/faa-launches-flying-taxi-pilot-program-spanning-26-states/5224219"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/03/10/evtol_pilot_26_states/"
+        },
+        {
+            "text": "Retro tech fan views LaserDisc movie data with a budget microscope\n\nAnalog video spied by looking really, really closely at tracks",
+            "href": "https://www.theregister.com/offbeat/2026/03/10/retro-tech-fan-views-laserdisc-movie-data-with-a-microscope/5226176"
+        },
+        {
+            "text": "50",
+            "href": "https://forums.theregister.com/forum/all/2026/03/10/laserdisc_microscope/"
+        },
+        {
+            "text": "Norway's Consumer Council takes aim at enshittification\n\nIts aim is wide, covering everything from social networks to GenAI",
+            "href": "https://www.theregister.com/offbeat/2026/03/06/norways-consumer-council-takes-aim-at-enshittification/5132242"
+        },
+        {
+            "text": "45",
+            "href": "https://forums.theregister.com/forum/all/2026/03/06/forbrukerradet_aim_enshittification/"
+        },
+        {
+            "text": "You can power a G-Wiz EV with 500 vapes, and this YouTuber proved it\n\nYou made a time machine vapemobile ... out of a Delorean G-Wiz?",
+            "href": "https://www.theregister.com/offbeat/2026/03/05/youtuber-turns-g-wiz-ev-into-vape-powered-mini-car/4615471"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2026/03/05/vape_powered_gwiz_ev/"
+        },
+        {
+            "text": "Popular prayer program becomes propaganda pusher after reported Israeli hack\n\nIranian worshippers got notifications saying 'help has arrived'",
+            "href": "https://www.theregister.com/offbeat/2026/03/02/israel-hacks-prayer-app-to-push-propaganda-to-iran-report/4632057"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/03/02/iran_prayer_app_propaganda_hack_israel/"
+        },
+        {
+            "text": "US struck Iran with copies of its own drones\n\nIran's own technology reverse engineered and used against it.",
+            "href": "https://www.theregister.com/offbeat/2026/03/02/us-struck-iran-with-copies-of-its-own-drones/4833761"
+        },
+        {
+            "text": "80",
+            "href": "https://forums.theregister.com/forum/all/2026/03/02/us_iran_clone_drones/"
+        },
+        {
+            "text": "UK copper fired after faking keyboard taps using photo frame\n\nTyping 8x more than your peers? You better have the work to show for it",
+            "href": "https://www.theregister.com/offbeat/2026/02/27/uk-copper-fired-for-faking-keyboard-activity/5181891"
+        },
+        {
+            "text": "76",
+            "href": "https://forums.theregister.com/forum/all/2026/02/27/uk_copper_struck_off_after/"
+        },
+        {
+            "text": "Gatwick shuttle screen suffers pre-flight nerves\n\nDude, where's my operating system?",
+            "href": "https://www.theregister.com/offbeat/2026/02/25/gatwick-shuttle-screen-suffers-pre-flight-nerves/4204072"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/02/25/airport_bork/"
+        },
+        {
+            "text": "Discord drama delays age verification debut until the second half of 2026\n\nCofounder promises transparency and full technical explanation of plans, which aren't actually changing",
+            "href": "https://www.theregister.com/offbeat/2026/02/24/discord-pushes-back-age-verification-debut-to-2h26/4387071"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/02/24/discord_drama_delays_age_verification/"
+        },
+        {
+            "text": "O say, can you see: FCC pushes patriotic programming for US 250th\n\nStations urged to mark milestone with pro-America content",
+            "href": "https://www.theregister.com/offbeat/2026/02/23/fcc-pushes-patriotic-programming-for-us-250th/4321219"
+        },
+        {
+            "text": "67",
+            "href": "https://forums.theregister.com/forum/all/2026/02/23/fcc_patriotic_programming/"
+        },
+        {
+            "text": "Hotel's rotary switchboard so retro it predates the concept of crashing\n\nAnalog curio nestled between fax and typewriter - this is a very different definition of 'legacy support'",
+            "href": "https://www.theregister.com/offbeat/2026/02/23/hotel-hides-ancient-switchboard-behind-the-desk/4989541"
+        },
+        {
+            "text": "64",
+            "href": "https://forums.theregister.com/forum/all/2026/02/23/bork_goes_retro_with_a/"
+        },
+        {
+            "text": "Government upgrades drones, deploys joystick tweakers to catch illegal dumpers\n\nElectronic eyes are watching from above, ready to catch dumpers of smashed up couches in the act",
+            "href": "https://www.theregister.com/offbeat/2026/02/21/government-upgrades-drones-to-catch-illegal-dumpers/4205598"
+        },
+        {
+            "text": "86",
+            "href": "https://forums.theregister.com/forum/all/2026/02/21/head/"
+        },
+        {
+            "text": "Windows 11 Start menu makes unscheduled stop in Saint Moritz\n\nPassenger info display takes scenic detour via desktop and pending updates",
+            "href": "https://www.theregister.com/offbeat/2026/02/18/windows-11-start-menu-makes-unscheduled-stop-in-saint-moritz/4374441"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/02/18/st_moritz_bork/"
+        },
+        {
+            "text": "Flush with potential? Activist investor insists Japanese toilet giant is an AI sleeper\n\nPalliser Capital says Toto is sitting on hidden semiconductor value – and wants the company to lift the lid",
+            "href": "https://www.theregister.com/offbeat/2026/02/17/investor-says-toilet-maker-toto-is-an-overlooked-ai-play/4390438"
+        },
+        {
+            "text": "36",
+            "href": "https://forums.theregister.com/forum/all/2026/02/17/palliser_capital_toto/"
+        },
+        {
+            "text": "MoD ticks shopping list as PM considers weapons budget boost\n\nTop brass splash cash on acoustic targeting, hypersonic missiles…and Red Hat",
+            "href": "https://www.theregister.com/offbeat/2026/02/17/mod-ticks-shopping-list-as-pm-considers-weapons-budget-boost/4652507"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/02/17/mod_weapons_budget/"
+        },
+        {
+            "text": "Dutch cops arrest man after sending him confidential files by mistake\n\nBungled link handed over sensitive docs, and when recipient didn't cooperate, police opted for cuffs",
+            "href": "https://www.theregister.com/offbeat/2026/02/16/dutch-cops-arrest-man-after-sending-him-confidential-files/5113128"
+        },
+        {
+            "text": "110",
+            "href": "https://forums.theregister.com/forum/all/2026/02/16/dutch_cops_breach/"
+        },
+        {
+            "text": "Penguin-powered platform board keels over at Alpine station\n\nIt must be that fresh mountain air",
+            "href": "https://www.theregister.com/offbeat/2026/02/15/penguin-powered-platform-board-keels-over-at-alpine-station/4304815"
+        },
+        {
+            "text": "21",
+            "href": "https://forums.theregister.com/forum/all/2026/02/15/swiss_railway_bork/"
+        },
+        {
+            "text": "ʎɹǝʌoɔǝᴚ sʍopuᴉM ʇɐ sǝʇɐuᴉɯɹǝʇ snq sᴉɥ┴\n\nOne destination passengers were definitely not hoping to reach",
+            "href": "https://www.theregister.com/offbeat/2026/02/13/this-bus-is-heading-for-windows-recovery-upside-down/5033318"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/02/13/bus_bork/"
+        },
+        {
+            "text": "$8K laundry bot knows when to hold ’em, knows when to fold ’em, and knows it has help standing by\n\nNot-onamous by a long shot",
+            "href": "https://www.theregister.com/offbeat/2026/02/12/8k-laundry-bot-still-needs-human-help/4095885"
+        },
+        {
+            "text": "42",
+            "href": "https://forums.theregister.com/forum/all/2026/02/12/laundry_folding_robot_8000_dollars_teleoperated/"
+        },
+        {
+            "text": "Fukushima's radioactive hybrid terror pig boom was driven by amorous mothers\n\nGenetic study finds domestic pigs' year-round breeding sped gene flow into wild boar",
+            "href": "https://www.theregister.com/offbeat/2026/02/11/study-domestic-sows-sped-fukushima-hybrid-spread/4578229"
+        },
+        {
+            "text": "47",
+            "href": "https://forums.theregister.com/forum/all/2026/02/11/amorous_radioactive_hybrid_terror_pig_mums/"
+        },
+        {
+            "text": "Discord to start assuming all users are underage unless they prove otherwise\n\nAlthough you might be able to wiggle out if its AI age-inference model decides you’re an adult",
+            "href": "https://www.theregister.com/offbeat/2026/02/09/discord-puts-everyone-in-teen-mode-by-default/4453989"
+        },
+        {
+            "text": "37",
+            "href": "https://forums.theregister.com/forum/all/2026/02/09/discord_demands_id_proof_of_age/"
+        },
+        {
+            "text": "'Roaring cougars' lunched on OpenAI in Super Bowl ad battle, but ai.com wins the day\n\nAdvertising search and web meters recorded site crashing traffic for ai.com",
+            "href": "https://www.theregister.com/offbeat/2026/02/09/ad-trackers-say-anthropic-beat-openai-but-aicom-won-the-day/4310584"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/02/09/superbowl_ad_reach_anthropic_beat_openai/"
+        },
+        {
+            "text": "Yes, backsies: Crypto exchange Bithumb claws back $40B in accidental payments to users\n\nNew users promised $68, but briefly saw multi-million-dollar balances",
+            "href": "https://www.theregister.com/offbeat/2026/02/09/botched-promo-saw-bithumb-credit-users-with-40b-by-mistake/4163364"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/02/09/crypto_exchange_bithumb_40b_payments/"
+        },
+        {
+            "text": "BBC bumps telly tax to £180 as Netflix lurks with cheaper tiers\n\nUK's pay-to-watch license fee gets inflation-linked hike amid funding debate",
+            "href": "https://www.theregister.com/offbeat/2026/02/09/bbc-raises-tv-license-to-180-as-netflix-offers-cheaper-plan/4613928"
+        },
+        {
+            "text": "262",
+            "href": "https://forums.theregister.com/forum/all/2026/02/09/bbc_tv_licensing_hike/"
+        },
+        {
+            "text": "Study confirms experience beats youthful enthusiasm\n\nResearch shows productivity and judgment peak decades after graduation",
+            "href": "https://www.theregister.com/offbeat/2026/02/07/study-confirms-experience-beats-youthful-enthusiasm/5188183"
+        },
+        {
+            "text": "104",
+            "href": "https://forums.theregister.com/forum/all/2026/02/07/boomers_vs_zoomers_workplace/"
+        },
+        {
+            "text": "Lego shrinks NASA's biggest rocket – accuracy sold separately\n\nBring your own sound effects to a Technic-enabled Space Launch System",
+            "href": "https://www.theregister.com/offbeat/2026/02/04/lego-goes-back-to-the-moon-with-artemis-set/4689861"
+        },
+        {
+            "text": "29",
+            "href": "https://forums.theregister.com/forum/all/2026/02/04/lego_artemis/"
+        },
+        {
+            "text": "Elon Musk merges xAI into SpaceX to spread universal consciousness via a sentient sun\n\nBurning Man woo woo values House of Grok at $250 billion",
+            "href": "https://www.theregister.com/offbeat/2026/02/03/elon-musk-merging-xai-with-spacex-in-wild-sci-fi-vision/4114869"
+        },
+        {
+            "text": "107",
+            "href": "https://forums.theregister.com/forum/all/2026/02/03/musk_spacex_xai_merge_hallucination_burning_man/"
+        },
+        {
+            "text": "There's nothing micro about this super-sized Arduino Uno\n\nIt's 7x the size of the regular board",
+            "href": "https://www.theregister.com/offbeat/2026/02/02/theres-nothing-micro-about-this-super-sized-arduino-uno/5182918"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/02/02/arduino_uno/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/offbeat?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 11471,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nOffbeat | The Register\nOFFBEAT\nUK Typhoon jets fitted with bargain-bin drone busters for Middle East sorties\n\nLow-cost laser-guided rockets offer cheaper way to swat Shahed-style threats than firing pricey air-to-air missiles\n\n2 days|57\nYes, you can serve a website from a $1 microcontroller\n\nWell, page is more accurate, but the source code is available if you want to try doing something even crazier\n\n2 days|26\nUK reloads artillery plans with £1B remote-control howitzer order\n\n72 Boxer-mounted RCH 155s due from 2028 as Britain fills the gap left by AS-90s sent to Ukraine\n\n6 days|53\nGrad-to-be turns graduation cap into Rust-powered light show\n\nEric Park tells us he doesn't plan to wear his modified cap to commencement, but his code's available for anyone with no such qualms and an upcoming ceremony\n\n6 days|3\nDude… where’s my password? Claude reunites forgetful stoner with $400k Bitcoin stash\n\nAI to the rescue as 11-year search for password turns up in old PC files\n\n7 days|25\nThis browser add-in doesn't just hide ads, it tells you to OBEY\n\nChromium extension swaps promos for John Carpenter-style subliminal slogans\n\n1 week|14\nMan jailed for packing printer with something more expensive than toner: Cocaine\n\nClass A drugs loaded instead of A4\n\n1 week|23\nWindows update prompt joins the Post Office queue\n\nCustomers left staring at restart plea with no keyboard, mouse, or hope\n\n1 week|16\nThe latest innovation in UK public transport: Schrödinger's trains\n\nWho knows what is going where. Might as well have a lovely beer instead.\n\n1 week|79\nLondon’s BT Tower to get rooftop swimming pool\n\nImagine taking a dip 177m above the streets of London’s West End\n\n2 weeks|91\nVi clone written in BASIC proves old habits :wq hard\n\nA few hundred lines of Yabasic recreate just enough to keep modal editing muscle memory alive\n\n2 weeks|27\nLego throws its own Hail Mary\n\nMovie-inspired set ticks the clever Technic box, but at a price\n\n2 weeks|19\nBus station display takes the Windows 10 road to nowhere\n\nSpikes deter pigeons, but Microsoft still managed to foul the screen\n\n2 weeks|14\nYoung evil genius forces hamster to run on wheel to power his gadgets\n\nOkay, the rodent was a willing participant - after all, who turns down treats for a spin that charges a phone?\n\n2 weeks|52\nIBM tried to kill Tab navigation. Microsoft told it Bill Gates' mother wasn't interested\n\nBig Blue escalated the OS/2 keyboard squabble through seven layers of management. Redmond's answer? Nope\n\n2 weeks|37\nUK puts £20.5M behind 'numberplate for the skies' to keep tabs on drones\n\nRemote ID system will log aircraft identity and location as ministers try to stop rogue flyers grounding airports\n\n2 weeks|26\nDIY mystery box will wow your friends by hinting at what the ionosphere is up to\n\nA rough guide to when your signal will behave, or not\n\n2 weeks|12\nUnexpected item in Windows' bagging area\n\nActivating Windows will cost more than a couple of cheap carrier bags\n\n2 weeks|31\nHobbyist xenomorphs Raspberry Pi into Alien-themed DIY laptop\n\nEverything you need to build the PS-85 is available from its designer's website, even if you can't get to space\n\n2 weeks|27\nBritain's £6B armoured sickener Ajax cleared for duty despite injuring troops\n\nInvestigation finds no single cause for soldiers falling ill, just bad bolts, cold air, and apparently the soldiers themselves\n\n3 weeks|85\nBork in Prague: SUSE's keynote gods demand their tribute\n\nLinux vendor touts European independence while rate limits, Chromium popups, and cold sparks steal the show\n\n3 weeks|2\nFriendster rises from the grave to make social media great again\n\nNo ads, no algorithm, and you actually have to physically tap phones to add a friend\n\n3 weeks|50\nIn the beginning was the Bork: 'Heart of the Earth' exhibit reveals Raspberry Pi in existential crisis\n\nDynamic Earth's ancient rock holds not primordial crystal, but a tiny Linux box having a bad day\n\n3 weeks|30\nGoogle Meet or Google Mute? Even CEOs get borked sometimes\n\nVideo conferencing has tripped us all up. Now cloud chief Thomas Kurian gets his turn\n\n4 weeks|6\nWould you like fries with that terminal?\n\nJack might be on Track, but the order screen certainly isn't\n\n1 month|20\nObsolete Google nag drowns out vital bar information at Swedish concert hall\n\nBackup and Sync may be dead, but it still knows how to kill the buzz before the ukuleles start\n\n1 month|20\nWindows takes a crash dump after one McDonald's order too many\n\nWe've all been there\n\n1 month|32\nWaymo's self-driving cars face their toughest test yet: London\n\nGoogle sibling takes on the Big Smoke – with a human hand on the wheel\n\n1 month|81\nBoeing deliveries soar past Airbus for the first time in years, but this is no time to unbuckle your seat belt\n\nSupply chain and engineering woes keep the supply of new planes sputtering\n\n1 month|22\nTech support chap's boss got him out of jail so he could finish a job\n\nThe right person for the job didn't have the right passport for the job\n\n1 month|161\nShowing the Windows 10 desktop was the yeast they could do\n\nFresh and healthy, just like Windows 11 isn't\n\n1 month|33\nVirtual SG-41 project brings Nazi cipher machine to life in the browser\n\nMartin Gillow's 3D recreation lets users explore would-be Enigma successor's mechanics and enciphering logic online\n\n1 month|20\nIran war drives urgent need to counter underwater attack drones\n\nUS and UK forces seeking tech tender with an April 3 deadline\n\n2 months|54\nForget drones – the US Army just took delivery of a self-flying Black Hawk helicopter\n\nExpendable military drones are so 2025\n\n2 months|20\nBritain's satellite-watching gap to be plugged with £17.5M eyeball in Cyprus\n\nNo 1 Space Operations Squadron will get a persistent stare capability\n\n2 months|34\nRepopulate! Repopulate! Two lost Doctor Who episodes turn up in private collection\n\nDark Dalek drama to stream this April\n\n2 months|51\nThose who 'circle back' and 'synergize' also tend to be crap at their jobs\n\nCornell Uni researchers pivot to pluck low-hanging fruit to optimize bandwidth\n\n2 months|146\n'Are you freaking crazy?' Bot harasses woman, gets led away by cops\n\nAn incident in Macau\n\n2 months|64\nWindows pays tribute to Britain's creaking rail network with a BSOD\n\nGrappling with UK trains will send humans into Recovery too sometimes\n\n2 months|14\nWhite House activates Yu-Gi-Oh's trap card by using anime clip for war comms\n\nFranchise isn't the only one unhappy about its IP appearing in propaganda\n\n2 months|44\nSmart mirror shows dumb Windows in elevator\n\nAll aboard the elevator where only Microsoft knows where you're going\n\n2 months|34\nNASA watchdog report pokes holes in Artemis lunar lander plans\n\nInspector general flags Starship risks and gaps in testing\n\n2 months|25\nFlying cabs, next-gen aircraft cleared for takeoff in 26 states\n\nFAA launches pilot projects starting this summer\n\n2 months|33\nRetro tech fan views LaserDisc movie data with a budget microscope\n\nAnalog video spied by looking really, really closely at tracks\n\n2 months|50\nNorway's Consumer Council takes aim at enshittification\n\nIts aim is wide, covering everything from social networks to GenAI\n\n2 months|45\nYou can power a G-Wiz EV with 500 vapes, and this YouTuber proved it\n\nYou made a time machine vapemobile ... out of a Delorean G-Wiz?\n\n3 months|19\nPopular prayer program becomes propaganda pusher after reported Israeli hack\n\nIranian worshippers got notifications saying 'help has arrived'\n\n3 months|22\nUS struck Iran with copies of its own drones\n\nIran's own technology reverse engineered and used against it.\n\n3 months|80\nUK copper fired after faking keyboard taps using photo frame\n\nTyping 8x more than your peers? You better have the work to show for it\n\n3 months|76\nGatwick shuttle screen suffers pre-flight nerves\n\nDude, where's my operating system?\n\n3 months|17\nDiscord drama delays age verification debut until the second half of 2026\n\nCofounder promises transparency and full technical explanation of plans, which aren't actually changing\n\n3 months|25\nO say, can you see: FCC pushes patriotic programming for US 250th\n\nStations urged to mark milestone with pro-America content\n\n3 months|67\nHotel's rotary switchboard so retro it predates the concept of crashing\n\nAnalog curio nestled between fax and typewriter - this is a very different definition of 'legacy support'\n\n3 months|64\nGovernment upgrades drones, deploys joystick tweakers to catch illegal dumpers\n\nElectronic eyes are watching from above, ready to catch dumpers of smashed up couches in the act\n\n3 months|86\nWindows 11 Start menu makes unscheduled stop in Saint Moritz\n\nPassenger info display takes scenic detour via desktop and pending updates\n\n3 months|4\nFlush with potential? Activist investor insists Japanese toilet giant is an AI sleeper\n\nPalliser Capital says Toto is sitting on hidden semiconductor value – and wants the company to lift the lid\n\n3 months|36\nMoD ticks shopping list as PM considers weapons budget boost\n\nTop brass splash cash on acoustic targeting, hypersonic missiles…and Red Hat\n\n3 months|22\nDutch cops arrest man after sending him confidential files by mistake\n\nBungled link handed over sensitive docs, and when recipient didn't cooperate, police opted for cuffs\n\n3 months|110\nPenguin-powered platform board keels over at Alpine station\n\nIt must be that fresh mountain air\n\n3 months|21\nʎɹǝʌoɔǝᴚ sʍopuᴉM ʇɐ sǝʇɐuᴉɯɹǝʇ snq sᴉɥ┴\n\nOne destination passengers were definitely not hoping to reach\n\n3 months|27\n$8K laundry bot knows when to hold ’em, knows when to fold ’em, and knows it has help standing by\n\nNot-onamous by a long shot\n\n3 months|42\nFukushima's radioactive hybrid terror pig boom was driven by amorous mothers\n\nGenetic study finds domestic pigs' year-round breeding sped gene flow into wild boar\n\n3 months|47\nDiscord to start assuming all users are underage unless they prove otherwise\n\nAlthough you might be able to wiggle out if its AI age-inference model decides you’re an adult\n\n3 months|37\n'Roaring cougars' lunched on OpenAI in Super Bowl ad battle, but ai.com wins the day\n\nAdvertising search and web meters recorded site crashing traffic for ai.com\n\n3 months|8\nYes, backsies: Crypto exchange Bithumb claws back $40B in accidental payments to users\n\nNew users promised $68, but briefly saw multi-million-dollar balances\n\n3 months|10\nBBC bumps telly tax to £180 as Netflix lurks with cheaper tiers\n\nUK's pay-to-watch license fee gets inflation-linked hike amid funding debate\n\n3 months|262\nStudy confirms experience beats youthful enthusiasm\n\nResearch shows productivity and judgment peak decades after graduation\n\n3 months|104\nLego shrinks NASA's biggest rocket – accuracy sold separately\n\nBring your own sound effects to a Technic-enabled Space Launch System\n\n3 months|29\nElon Musk merges xAI into SpaceX to spread universal consciousness via a sentient sun\n\nBurning Man woo woo values House of Grok at $250 billion\n\n4 months|107\nThere's nothing micro about this super-sized Arduino Uno\n\nIt's 7x the size of the regular board\n\n4 months|9\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

@@ -1,0 +1,109 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 24,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Simple macOS script to extract text from images (OCR)",
+            "href": "https://evanhahn.com/mac-ocr-script/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "systemd-inhibit: a built-in Linux alternative to macOS's \"caffeinate\" command",
+            "href": "https://evanhahn.com/systemd-inhibit-alternative-to-macos-caffeinate/"
+        },
+        {
+            "text": "#linux",
+            "href": "https://evanhahn.com/tags/linux/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "Prevent Homebrew from gathering analytics",
+            "href": "https://evanhahn.com/prevent-homebrew-from-gathering-analytics/"
+        },
+        {
+            "text": "#homebrew",
+            "href": "https://evanhahn.com/tags/homebrew/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Disable the beer emoji in Homebrew",
+            "href": "https://evanhahn.com/disable-homebrew-emoji/"
+        },
+        {
+            "text": "#homebrew",
+            "href": "https://evanhahn.com/tags/homebrew/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Old Notational Velocity icon",
+            "href": "https://evanhahn.com/old-notational-velocity-icon/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#resource",
+            "href": "https://evanhahn.com/tags/resource/"
+        }
+    ],
+    "text_length": 474,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n5 posts tagged #macos\n2025\nSimple macOS script to extract text from images (OCR)\n2025-07-14 #release #macos #swift #ai\n2024\nsystemd-inhibit: a built-in Linux alternative to macOS's \"caffeinate\" command\n2024-01-22 #linux #macos\n2017\nPrevent Homebrew from gathering analytics\n2017-01-05 #homebrew #macos #guide\n2014\nDisable the beer emoji in Homebrew\n2014-12-02 #homebrew #macos #guide\n2011\nOld Notational Velocity icon\n2011-04-15 #macos #resource"
+}

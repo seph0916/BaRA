@@ -1,0 +1,395 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://www.vlab.co.in/images/fb-icon.png",
+        "https://www.vlab.co.in/images/logo.jpg",
+        "https://www.vlab.co.in/images/qr-code-mob6.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 95,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.facebook.com/VLabsIITDelhi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "ABOUT US",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "OUTREACH PORTAL",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "PARTICIPATING INSTITUTES",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "CONTACT US",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Outreach Portal",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "Fluid Mechanics Virtual Lab (New)",
+            "href": "https://fmce-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Regression Analysis Lab (New)",
+            "href": "https://nm-regression-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Interpolation Lab (New)",
+            "href": "https://nm-interpolation-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Eigen Analysis Lab (New)",
+            "href": "https://nm-ea-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Differentiation Lab (New)",
+            "href": "https://nm-differentiation-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Conduction Lab I (New)",
+            "href": "https://htc1-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Conduction Lab II (New)",
+            "href": "https://htc2-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Radiation Lab (New)",
+            "href": "https://htr-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Forced and Natural Convection Lab (New)",
+            "href": "https://htfnc-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Dynamics of Fluid Flow Lab (New)",
+            "href": "https://fm-dff-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Kinematics of Flow and Ideal Flow Lab (New)",
+            "href": "https://fm-kif-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Buoyancy and Flotation Lab (New)",
+            "href": "http://fm-bf-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Viscous Flow, Compressible Flow, Boundary Layer Virtual Lab (New)",
+            "href": "https://fm-vfc-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Flow through Pipes Virtual Lab (New)",
+            "href": "https://fm-ftp-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Hydrostatic Forces on Surface Lab (New)",
+            "href": "https://fm-hfs-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Pressure and its Measurement Virtual Lab (New)",
+            "href": "https://fm-pm-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Fluid Properties Virtual Lab (New)",
+            "href": "https://fm-fp-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Integration Lab (New)",
+            "href": "https://nm-integration-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Partial Differential Equation Lab (New)",
+            "href": "https://nm-pde-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Engineering Physics Lab II (New)",
+            "href": "https://ep2-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Univariate Analysis Lab (New)",
+            "href": "https://nm-ua-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Heat Transfer Lab (New)",
+            "href": "https://ht-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Thermodynamics II Virtual Lab (New)",
+            "href": "https://thermodynamics-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Numerical Methods - Optimization Virtual Lab (New)",
+            "href": "https://nm-opt-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Boiling and Condensation Virtual Lab (New)",
+            "href": "https://bc-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Engineering Physics Lab I (New)",
+            "href": "https://ep-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Systems of Linear Equations Lab (New)",
+            "href": "https://nm-sle-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Roots of Equation Lab (New)",
+            "href": "https://nm-re-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Ordinary Differential Equation Lab (New)",
+            "href": "https://nm-ode-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Chemical Process Dynamics Laboratory",
+            "href": "https://cpd-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering"
+        },
+        {
+            "text": "Process Control, Reaction Engineering and Unit Operations Lab",
+            "href": "https://uorepc-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/courses/103103029/pdf/mod1.pdf",
+            "href": "http://nptel.ac.in/courses/103103029/pdf/mod1.pdf"
+        },
+        {
+            "text": "IIT DELHI",
+            "href": "https://www.vlab.co.in/participating-institute-iit-delhi"
+        },
+        {
+            "text": "IIT KANPUR",
+            "href": "https://www.vlab.co.in/participating-institute-iit-kanpur"
+        },
+        {
+            "text": "IIT BOMBAY",
+            "href": "https://www.vlab.co.in/participating-institute-iit-bombay"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://www.vlab.co.in/participating-institute-iit-kharagpur"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://www.vlab.co.in/participating-institute-iit-roorkee"
+        },
+        {
+            "text": "IIT GUWAHATI",
+            "href": "https://www.vlab.co.in/participating-institute-iit-guwahati"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://www.vlab.co.in/participating-institute-iiit-hyderabad"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://www.vlab.co.in/participating-institute-amrita-vishwa-vidyapeetham"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://www.vlab.co.in/participating-institute-dayalbagh"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://www.vlab.co.in/participating-institute-nitk-surathkal"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://www.vlab.co.in/participating-institute-coe-pune"
+        },
+        {
+            "text": "Lab Feedback Form",
+            "href": "http://38.100.110.143/feedback/feedback.html"
+        },
+        {
+            "text": "Lab Assessment Form",
+            "href": "http://38.100.110.143/labassessment/assessmentform.html"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.vlab.co.in/faq"
+        },
+        {
+            "text": "Shakshat Portal",
+            "href": "http://www.sakshat.ac.in/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        }
+    ],
+    "text_length": 2298,
+    "text_full": "21 May, 2026 | 06:14:05 AM\nVisitors  51333642\nAn Initiative of\nMinistry of Education\nUnder the National Mission on Education through ICT\nHOME\nABOUT US\nOUTREACH PORTAL\nPARTICIPATING INSTITUTES\nNMEICT\nCONTACT US\nChemical Engineering - NPTEL Labs\nHome » NPTEL Labs Chemical Engineering\nChemical Engineering\nFluid Mechanics Virtual Lab (New)\nIIT KANPUR\nRegression Analysis Lab (New)\nIIT BOMBAY\nInterpolation Lab (New)\nIIT BOMBAY\nEigen Analysis Lab (New)\nIIT BOMBAY\nDifferentiation Lab (New)\nIIT BOMBAY\nConduction Lab I (New)\nIIT BOMBAY\nConduction Lab II (New)\nIIT BOMBAY\nRadiation Lab (New)\nIIT BOMBAY\nForced and Natural Convection Lab (New)\nIIT BOMBAY\nDynamics of Fluid Flow Lab (New)\nIIT BOMBAY\nKinematics of Flow and Ideal Flow Lab (New)\nIIT BOMBAY\nBuoyancy and Flotation Lab (New)\nIIT BOMBAY\nViscous Flow, Compressible Flow, Boundary Layer Virtual Lab (New)\nIIT BOMBAY\nFlow through Pipes Virtual Lab (New)\nIIT BOMBAY\nHydrostatic Forces on Surface Lab (New)\nIIT BOMBAY\nPressure and its Measurement Virtual Lab (New)\nIIT BOMBAY\nFluid Properties Virtual Lab (New)\nIIT BOMBAY\nIntegration Lab (New)\nIIT BOMBAY\nPartial Differential Equation Lab (New)\nIIT BOMBAY\nEngineering Physics Lab II (New)\nIIT BOMBAY\nUnivariate Analysis Lab (New)\nIIT BOMBAY\nHeat Transfer Lab (New)\nIIT BOMBAY\nThermodynamics II Virtual Lab (New)\nIIT BOMBAY\nNumerical Methods - Optimization Virtual Lab (New)\nIIT BOMBAY\nBoiling and Condensation Virtual Lab (New)\nIIT BOMBAY\nEngineering Physics Lab I (New)\nIIT BOMBAY\nSystems of Linear Equations Lab (New)\nIIT BOMBAY\nRoots of Equation Lab (New)\nIIT BOMBAY\nOrdinary Differential Equation Lab (New)\nIIT BOMBAY\nChemical Process Dynamics Laboratory\nIIT KHARAGPUR\nProcess Control, Reaction Engineering and Unit Operations Lab\nNITK SURATHKAL\nhttp://nptel.ac.in/courses/103103029/pdf/mod1.pdf\nAbout VLAB\nIIT DELHI\nIIT KANPUR\nIIT BOMBAY\nIIT KHARAGPUR\nIIT ROORKEE\nIIT GUWAHATI\nIIIT HYDERABAD\nAMRITA VISHWA VIDYAPEETHAM\nDAYALBAGH\nNITK SURATHKAL\nCOEP Technological University Pune\n\nQuick Links\n\nLab Feedback Form\nLab Assessment Form\nFAQ\nShakshat Portal\n\nAbout VLAB\n\nHome\nAbout us\nContact Us\n\nGet In Touch With Us\n\n  support@vlab.co.in\n   Phone(O) - +91-9211460624\n  Wireless Research Lab\nRoom No - 206/IIA\nBharti School of Telecom\nIndian Institute of Technology Delhi\nHauz Khas, New Delhi-110016"
+}

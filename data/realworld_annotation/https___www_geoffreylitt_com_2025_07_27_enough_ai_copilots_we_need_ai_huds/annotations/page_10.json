@@ -1,0 +1,66 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://www.geoffreylitt.com/images/headshot.jpg?1761416283",
+        "https://www.geoffreylitt.com/images/project_images/todomvc-vis/timeline.gif?1761416283"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Geoffrey Litt",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://www.geoffreylitt.com/#projects"
+        },
+        {
+            "text": "Writing",
+            "href": "https://www.geoffreylitt.com/#writing"
+        },
+        {
+            "text": "Inspirations",
+            "href": "https://www.geoffreylitt.com/inspirations"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@geoffreylitt"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/projects/todomvc-vis#more-info"
+        },
+        {
+            "text": "⏯ Try a live prototype",
+            "href": "https://geoffreylitt.github.io/todomvc-vis/"
+        },
+        {
+            "text": "📄 Read a short paper about the project",
+            "href": "https://www.geoffreylitt.com/resources/todomvc-vis.pdf"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/projects/todomvc-vis#4-minute-demo-video"
+        }
+    ],
+    "text_length": 769,
+    "text_full": " Geoffrey Litt\nProjects\nWriting\nInspirations\nSubscribe:\nNewsletter \nTwitter \nMastodon \nRSS \nContact\nEmail me \nTodoMVC Vis\n\nThis was a class project I did in Spring 2020 exploring the problem of visualizing the internal behavior of a UI at a high level of abstraction.\n\nTo gain initial traction on the problem, I tried visualizing the behavior of a TodoMVC app implemented with the Redux MVU library (similar to Elm). The key idea is that because the UI is already implemented with this architecture, it’s easy to extract a “semantic” timeline view, and then augment it with little sparkline visualizations. Further, this timeline acts as a minimap for time-travel debugging.\n\nMore info:\n⏯ Try a live prototype\n📄 Read a short paper about the project\n4 minute demo video"
+}

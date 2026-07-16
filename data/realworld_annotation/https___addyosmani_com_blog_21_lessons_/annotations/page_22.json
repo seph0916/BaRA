@@ -1,0 +1,63 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "Sandboxing",
+            "href": "https://addyosmani.com/agentic-engineering/sandboxing/"
+        },
+        {
+            "text": "Scaffolding",
+            "href": "https://addyosmani.com/agentic-engineering/scaffolding/"
+        },
+        {
+            "text": "Human-in-the-Loop",
+            "href": "https://addyosmani.com/agentic-engineering/human-in-the-loop/"
+        },
+        {
+            "text": "AI-Assisted Code Review",
+            "href": "https://addyosmani.com/blog/code-review-ai/"
+        },
+        {
+            "text": "← Back to Glossary",
+            "href": "https://addyosmani.com/agentic-engineering/"
+        }
+    ],
+    "text_length": 2753,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nGuardrails\n\nThe bumpers on the bowling lane - they don't tell the agent what to do, but they keep it from doing something catastrophic.\n\nThe simple explanation\n\nGuardrails are constraints you set up to limit what an AI agent can do wrong. They're not instructions - they're boundaries. Like a bowling lane with bumper rails, the agent can still aim wherever it wants, but it can't throw the ball into the gutter.\n\nIn software, guardrails come in many forms: type checkers that catch incorrect data shapes, test suites that catch regressions, linters that enforce code style, file access restrictions that prevent agents from touching production configs, and mandatory human review before code gets merged.\n\nThe key insight is that guardrails are automated. They don't require you to watch the agent constantly. They fire automatically when something goes wrong, giving the agent feedback in its observe phase or blocking a bad change before it lands.\n\nWhy it matters for agentic engineering\n\nWithout guardrails, you're doing vibe coding - letting the AI do whatever it wants and hoping for the best. Guardrails are what make agentic engineering a disciplined practice. They let you give agents more autonomy without proportionally increasing risk.\n\nThink of it as a trust gradient. New agents or unfamiliar tasks get tight guardrails - sandboxed environments, small scopes, mandatory review. As you build confidence in the agent's capabilities for specific types of tasks, you can relax certain guardrails. But you never remove them entirely.\n\nIn practice\nType systems: TypeScript's compiler, Python's mypy, Rust's borrow checker - catch bugs at build time before they reach runtime\nTest suites: If the agent's changes break existing tests, the agent knows immediately and can self-correct\nLinting: Enforces code style and catches common mistakes (unused variables, missing error handling)\nFile access restrictions: Limit which directories the agent can read or write - keep it out of secrets, configs, and infrastructure code\nIteration limits: Cap the number of times an agent can retry before escalating to a human\nSandboxing: Run agents in isolated environments so mistakes don't affect production\nCode review: The ultimate guardrail - a human reviews every change before it ships\nScope limits: Restrict agents to specific tasks rather than giving them free rein over the entire codebase\n\nThe best guardrails are the ones you'd want in place anyway, even without AI. Type checking, testing, linting, and code review are just good engineering practice. AI agents make them essential.\n\nRELATED TERMS\n\nSandboxing · Scaffolding · Human-in-the-Loop · AI-Assisted Code Review\n\n← Back to Glossary"
+}

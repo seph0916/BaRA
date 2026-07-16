@@ -1,0 +1,73 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 15,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 1642,
+    "text_full": "95% is very different from 99%\nby Evan Hahn, posted Nov 10, 2024, tagged #reflection\n\nThis post is a rant.\n\nI feel a vast difference between interfaces that work most of the time and ones that seem to work every time.\n\nSome interfaces that mostly work:\n\nAutocorrect\nGenerative AI\nFraud/bot detection\nVideo game motion controls\nWireless connections like wifi, Bluetooth\nAudio transcription\n\nThese tools can be useful, but I think lots of people have been frustrated by them. Many of us have sent the word “ducking” in a text when they meant to say…a different word. Who hasn’t gotten annoyed at unreliable wifi or Bluetooth? Who hasn’t seen an AI “hallucination”?\n\nOther interfaces feel like they work 100% of the time:\n\nPen and paper\nPhysical keyboards and mice\nTraditional video game controllers with buttons\nWired connections\nFiles on your computer\nKitchen appliances\n\nNone of these systems are perfect—I’ve had pens with low ink, files corrupted, wires frayed—but I think these frustrations are of a different class.\n\nI use my computer’s file system every day, and though I occasionally run into problems, these issues are not part of my normal operation. My phone’s autocorrect, though essential and impressive, fails all the time.\n\nI bet a lot of people don’t care much about this distinction, but I do! I think there’s a huge difference between “usually works” and “almost always works”.\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

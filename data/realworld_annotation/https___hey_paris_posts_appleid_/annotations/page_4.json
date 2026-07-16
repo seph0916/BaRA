@@ -1,0 +1,572 @@
+{
+    "image_count": 190,
+    "images": [
+        "https://hey.paris/about/images/mountain.jpeg",
+        "https://hey.paris/about/images/yarn-spinner.jpeg",
+        "https://hey.paris/images/games/nitw.webp",
+        "https://hey.paris/images/games/dredge.webp",
+        "https://hey.paris/images/games/venba.webp",
+        "https://hey.paris/images/games/a-short-hike.webp",
+        "https://hey.paris/images/games/little-kitty.webp",
+        "https://hey.paris/images/games/norco.webp",
+        "https://hey.paris/images/games/rift-necrodancer.webp",
+        "https://hey.paris/images/games/demonschool.webp",
+        "https://hey.paris/images/games/lost-in-random.webp",
+        "https://hey.paris/images/games/frog-detective.webp",
+        "https://hey.paris/images/games/escape-academy.webp",
+        "https://hey.paris/images/games/lil-guardsman.webp",
+        "https://hey.paris/images/games/unbeatable.webp",
+        "https://hey.paris/images/games/skate-story.webp",
+        "https://hey.paris/images/games/south-of-the-circle.webp",
+        "https://hey.paris/images/games/rogue-prince-of-persia.webp",
+        "https://hey.paris/images/games/button-city.webp",
+        "https://hey.paris/images/games/welcome-to-elk.webp",
+        "https://hey.paris/images/games/ena-dream-bbq.webp",
+        "https://hey.paris/images/games/tiny-bookshop.webp",
+        "https://hey.paris/images/games/cabernet.webp",
+        "https://hey.paris/images/games/cozy-caravan.webp",
+        "https://hey.paris/images/games/goodnight-universe.webp",
+        "https://hey.paris/images/games/letters-to-arralla.webp",
+        "https://hey.paris/images/games/shelflife.webp",
+        "https://hey.paris/images/games/afterlove-ep.webp",
+        "https://hey.paris/images/games/burger-bois.webp",
+        "https://hey.paris/images/games/dead-pets.webp",
+        "https://hey.paris/images/games/dead-watch.webp",
+        "https://hey.paris/images/games/i-feel-fine.webp",
+        "https://hey.paris/images/games/imprinted.webp",
+        "https://hey.paris/images/games/janet-demornay.webp",
+        "https://hey.paris/images/games/mayor-may-knott.webp",
+        "https://hey.paris/images/games/my-arms-are-longer-now.webp",
+        "https://hey.paris/images/games/nullstar-solus.webp",
+        "https://hey.paris/images/games/outcore.webp",
+        "https://hey.paris/images/games/project-lexa.webp",
+        "https://hey.paris/images/games/big-hops.webp",
+        "https://hey.paris/images/games/star-trek-infection.webp",
+        "https://hey.paris/images/games/young-suns.webp",
+        "https://hey.paris/about/images/hintline93.png",
+        "https://hey.paris/about/images/iff.png",
+        "https://hey.paris/images/iff-keyart.webp",
+        "https://hey.paris/about/images/leonardos-moon-ship.png",
+        "https://hey.paris/about/images/mtpleasant.jpg",
+        "https://hey.paris/about/images/moonland-rover-lab.png",
+        "https://hey.paris/about/images/big-plans.png",
+        "https://hey.paris/about/images/nitw.jpg",
+        "https://hey.paris/about/images/culture.png",
+        "https://hey.paris/about/images/yarn-spinner.jpeg",
+        "https://hey.paris/about/images/playschool.jpg",
+        "https://hey.paris/about/images/artmaker.jpg",
+        "https://hey.paris/about/images/qantas.png",
+        "https://hey.paris/about/images/csiro.png",
+        "https://hey.paris/about/images/nma.png",
+        "https://hey.paris/about/images/billshock.jpg",
+        "https://hey.paris/about/images/oldasdirt.jpeg",
+        "https://hey.paris/about/images/scienceweek.png",
+        "https://hey.paris/about/images/portarthur.jpeg",
+        "https://hey.paris/about/images/fastmail.jpeg",
+        "https://hey.paris/about/images/mightygames.png",
+        "https://hey.paris/about/images/frog.png",
+        "https://hey.paris/images/books/kaleidoscope.jpg",
+        "https://hey.paris/images/books/unity-cookbook-2.jpg",
+        "https://hey.paris/images/books/practical-simulations-ml.jpg",
+        "https://hey.paris/images/books/head-first-swift.jpg",
+        "https://hey.paris/images/books/unity-cookbook-1.jpg",
+        "https://hey.paris/images/books/practical-ai-swift.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-3.jpg",
+        "https://hey.paris/images/books/learning-swift-3.jpg",
+        "https://hey.paris/images/books/mobile-game-unity.jpg",
+        "https://hey.paris/images/books/learning-swift-2.jpg",
+        "https://hey.paris/images/books/kerbal-guide.jpg",
+        "https://hey.paris/images/books/learning-swift-1.jpg",
+        "https://hey.paris/images/books/whats-new-swift-3.jpg",
+        "https://hey.paris/images/books/swift-apple-watch.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-2.jpg",
+        "https://hey.paris/images/books/swift-cocoa.jpg",
+        "https://hey.paris/images/books/ios-game-cookbook-1.jpg",
+        "https://hey.paris/images/books/learning-cocoa-4.jpg",
+        "https://hey.paris/images/books/learning-cocoa-3.jpg",
+        "https://hey.paris/images/books/unity-dummies.jpg",
+        "https://hey.paris/images/books/iphone-ipad-dummies.jpg",
+        "https://hey.paris/about/images/yarn-spinner.jpeg",
+        "https://hey.paris/images/games/nitw.webp",
+        "https://hey.paris/images/games/dredge.webp",
+        "https://hey.paris/images/games/venba.webp",
+        "https://hey.paris/images/games/a-short-hike.webp",
+        "https://hey.paris/images/games/little-kitty.webp",
+        "https://hey.paris/images/games/norco.webp",
+        "https://hey.paris/images/games/rift-necrodancer.webp",
+        "https://hey.paris/images/games/demonschool.webp",
+        "https://hey.paris/images/games/lost-in-random.webp",
+        "https://hey.paris/images/games/frog-detective.webp",
+        "https://hey.paris/images/games/escape-academy.webp",
+        "https://hey.paris/images/games/lil-guardsman.webp",
+        "https://hey.paris/images/games/unbeatable.webp",
+        "https://hey.paris/images/games/skate-story.webp",
+        "https://hey.paris/images/games/south-of-the-circle.webp",
+        "https://hey.paris/images/games/rogue-prince-of-persia.webp",
+        "https://hey.paris/images/games/button-city.webp",
+        "https://hey.paris/images/games/welcome-to-elk.webp",
+        "https://hey.paris/images/games/ena-dream-bbq.webp",
+        "https://hey.paris/images/games/tiny-bookshop.webp",
+        "https://hey.paris/images/games/cabernet.webp",
+        "https://hey.paris/images/games/cozy-caravan.webp",
+        "https://hey.paris/images/games/goodnight-universe.webp",
+        "https://hey.paris/images/games/letters-to-arralla.webp",
+        "https://hey.paris/images/games/shelflife.webp",
+        "https://hey.paris/images/games/afterlove-ep.webp",
+        "https://hey.paris/images/games/burger-bois.webp",
+        "https://hey.paris/images/games/dead-pets.webp",
+        "https://hey.paris/images/games/dead-watch.webp",
+        "https://hey.paris/images/games/i-feel-fine.webp",
+        "https://hey.paris/images/games/imprinted.webp",
+        "https://hey.paris/images/games/janet-demornay.webp",
+        "https://hey.paris/images/games/mayor-may-knott.webp",
+        "https://hey.paris/images/games/my-arms-are-longer-now.webp",
+        "https://hey.paris/images/games/nullstar-solus.webp",
+        "https://hey.paris/images/games/outcore.webp",
+        "https://hey.paris/images/games/project-lexa.webp",
+        "https://hey.paris/images/games/big-hops.webp",
+        "https://hey.paris/images/games/star-trek-infection.webp",
+        "https://hey.paris/images/games/young-suns.webp",
+        "https://hey.paris/about/images/secretlab.jpeg",
+        "https://hey.paris/about/images/wcsc.jpeg",
+        "https://hey.paris/about/images/abc.jpeg",
+        "https://hey.paris/about/images/libraries-tasmania.png",
+        "https://hey.paris/about/images/utas.jpeg",
+        "https://hey.paris/about/images/oreilly.jpeg",
+        "https://hey.paris/images/books/unity-cookbook-2.jpg",
+        "https://hey.paris/images/books/practical-simulations-ml.jpg",
+        "https://hey.paris/images/books/head-first-swift.jpg",
+        "https://hey.paris/images/books/unity-cookbook-1.jpg",
+        "https://hey.paris/images/books/practical-ai-swift.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-3.jpg",
+        "https://hey.paris/images/books/learning-swift-3.jpg",
+        "https://hey.paris/images/books/mobile-game-unity.jpg",
+        "https://hey.paris/images/books/learning-swift-2.jpg",
+        "https://hey.paris/images/books/kerbal-guide.jpg",
+        "https://hey.paris/images/books/learning-swift-1.jpg",
+        "https://hey.paris/images/books/whats-new-swift-3.jpg",
+        "https://hey.paris/images/books/swift-apple-watch.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-2.jpg",
+        "https://hey.paris/images/books/swift-cocoa.jpg",
+        "https://hey.paris/images/books/ios-game-cookbook-1.jpg",
+        "https://hey.paris/images/books/learning-cocoa-4.jpg",
+        "https://hey.paris/images/books/learning-cocoa-3.jpg",
+        "https://hey.paris/images/books/unity-cookbook-2.jpg",
+        "https://hey.paris/images/books/practical-simulations-ml.jpg",
+        "https://hey.paris/images/books/head-first-swift.jpg",
+        "https://hey.paris/images/books/unity-cookbook-1.jpg",
+        "https://hey.paris/images/books/practical-ai-swift.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-3.jpg",
+        "https://hey.paris/images/books/learning-swift-3.jpg",
+        "https://hey.paris/images/books/mobile-game-unity.jpg",
+        "https://hey.paris/images/books/learning-swift-2.jpg",
+        "https://hey.paris/images/books/kerbal-guide.jpg",
+        "https://hey.paris/images/books/learning-swift-1.jpg",
+        "https://hey.paris/images/books/whats-new-swift-3.jpg",
+        "https://hey.paris/images/books/swift-apple-watch.jpg",
+        "https://hey.paris/images/books/ios-swift-game-cookbook-2.jpg",
+        "https://hey.paris/images/books/swift-cocoa.jpg",
+        "https://hey.paris/images/books/ios-game-cookbook-1.jpg",
+        "https://hey.paris/images/books/learning-cocoa-4.jpg",
+        "https://hey.paris/images/books/learning-cocoa-3.jpg",
+        "https://hey.paris/about/images/wiley.jpeg",
+        "https://hey.paris/images/books/unity-dummies.jpg",
+        "https://hey.paris/images/books/iphone-ipad-dummies.jpg",
+        "https://hey.paris/images/books/unity-dummies.jpg",
+        "https://hey.paris/images/books/iphone-ipad-dummies.jpg",
+        "https://hey.paris/about/images/meebo.jpeg",
+        "https://hey.paris/about/images/meebo-original.png",
+        "https://hey.paris/about/images/govhack.jpeg",
+        "https://hey.paris/about/images/devworld.jpg",
+        "https://hey.paris/about/images/levelup.png",
+        "https://hey.paris/about/images/narrascope.png",
+        "https://hey.paris/about/images/wcsc.jpeg",
+        "https://hey.paris/about/images/tasgm.png",
+        "https://hey.paris/about/images/auc.png",
+        "https://hey.paris/about/images/pearcey.jpeg",
+        "https://hey.paris/about/images/acs.jpeg",
+        "https://hey.paris/about/images/une.jpeg",
+        "https://hey.paris/about/images/tasmanian-leaders.jpeg",
+        "https://hey.paris/about/images/utas.jpeg",
+        "https://hey.paris/about/images/utas.jpeg",
+        "https://hey.paris/about/images/utas.jpeg",
+        "https://hey.paris/about/images/hutchins.jpeg"
+    ],
+    "video_count": 1,
+    "videos": [
+        "https://hey.paris/images/iff-hover.mp4"
+    ],
+    "link_count": 92,
+    "links": [
+        {
+            "text": "Paris Buttfield-Addison",
+            "href": "https://hey.paris/"
+        },
+        {
+            "text": "EVENTS",
+            "href": "https://hey.paris/books-and-events/events/"
+        },
+        {
+            "text": "WRITING",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://hey.paris/about/"
+        },
+        {
+            "text": "POSTS",
+            "href": "https://hey.paris/all-posts/"
+        },
+        {
+            "text": "Secret Lab",
+            "href": "https://secretlab.games/"
+        },
+        {
+            "text": "Night in the Woods",
+            "href": "https://nightinthewoods.com/"
+        },
+        {
+            "text": "Yarn Spinner",
+            "href": "https://yarnspinner.dev/"
+        },
+        {
+            "text": "over 20 books",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "space on ABC Radio",
+            "href": "https://hey.paris/tags/space-news/"
+        },
+        {
+            "text": "Tasmanian Game Makers",
+            "href": "https://tasgamemakers.com/"
+        },
+        {
+            "text": "/dev/world",
+            "href": "https://devworld.com.au/"
+        },
+        {
+            "text": "space centre",
+            "href": "https://westcoastspacecentre.com/"
+        },
+        {
+            "text": "wife",
+            "href": "https://themartianlife.com/"
+        },
+        {
+            "text": "Products",
+            "href": "https://hey.paris/about/#products"
+        },
+        {
+            "text": "Books",
+            "href": "https://hey.paris/about/#books"
+        },
+        {
+            "text": "Work",
+            "href": "https://hey.paris/about/#work"
+        },
+        {
+            "text": "Events",
+            "href": "https://hey.paris/about/#events"
+        },
+        {
+            "text": "Community",
+            "href": "https://hey.paris/about/#community"
+        },
+        {
+            "text": "Skills",
+            "href": "https://hey.paris/about/#skills"
+        },
+        {
+            "text": "Education",
+            "href": "https://hey.paris/about/#education"
+        },
+        {
+            "text": "Awards",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "More detailed info →",
+            "href": "https://hey.paris/bio/"
+        },
+        {
+            "text": "Yarn Spinner",
+            "href": "https://www.yarnspinner.dev/"
+        },
+        {
+            "text": "MINISTER'S STEM INNOVATION 2025",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "TASICT 2017",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "",
+            "href": "https://www.yarnspinner.dev/showcase/"
+        },
+        {
+            "text": "SECRET LAB & YARN SPINNER\n\nHint Line '93\n\nA retro video game hint line experience, featured at ACMI.\n\nAWARDS:\nDIEMEN AWARD 2026\nPRODUCING\nSOFTWARE ENGINEERING\nWRITING\nGAME DESIGN",
+            "href": "https://www.yarnspinner.dev/blog/hint-line-93/"
+        },
+        {
+            "text": "SECRET LAB\n\nI Feel Fine\n\nA narrative adventure game about the end of the world, written by Eisner-winner Ryan North, built with Yarn Spinner. Funded by Screen Tasmania.\n\nPRODUCING\nSOFTWARE ENGINEERING",
+            "href": "https://store.steampowered.com/app/2150850/I_Feel_Fine/"
+        },
+        {
+            "text": "Jim Capobianco",
+            "href": "https://en.wikipedia.org/wiki/Jim_Capobianco"
+        },
+        {
+            "text": "THE UNCONFORMITY\n\nMoonland Rover Lab\n\nAn exploration for The Unconformity.\n\nSOFTWARE ENGINEERING\nWRITING\nEDUCATION\nGAME DESIGN",
+            "href": "https://theunconformity.com.au/explorations/moonland-rover-lab/"
+        },
+        {
+            "text": "BANK OF US\n\nBig Plans\n\nAn iOS and Android game for children aged 5–8, designed to teach financial literacy. Built for the Tasmanian customer-owned bank, Bank of us.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN",
+            "href": "https://apps.apple.com/au/app/big-plans/id6758355932"
+        },
+        {
+            "text": "BAFTA 2018",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "IGF 2018",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "SECRET LAB\n\nCulture\n\nOne of the first games on the iOS (then iPhone) App Store, all the way back in 2008.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN",
+            "href": "https://web.archive.org/web/20080724122546/http://secretlab.com.au/culture/"
+        },
+        {
+            "text": "AIMIA BEST OF TABLET",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "TASICT 2013",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "AIMIA EFFECTIVENESS",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "AIMIA BEST TABLET APP",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "AIMIA BEST CHILDREN'S",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "IAWARD MOBILITY INNOVATION 2016",
+            "href": "https://hey.paris/about/#awards"
+        },
+        {
+            "text": "Mars",
+            "href": "https://themartianlife.com/"
+        },
+        {
+            "text": "National Science Week",
+            "href": "https://www.scienceweek.net.au/"
+        },
+        {
+            "text": "Mars",
+            "href": "https://themartianlife.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.inklestudios.com/kaleidoscope/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/unity-development-cookbook/9781098113704/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/practical-simulations-for/9781492089919/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/head-first-swift/9781491923184/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/unity-game-development/9781491999141/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/ios-swift-game/9781491999073/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/mobile-game-development/9781491944738/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/learning-swift-2nd/9781491967058/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/the-kerbal-players/9781491913475/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/learning-swift/9781491940730/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/whats-new-in/9781492049050/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/swift-development-for/9781491925263/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/ios-swift-game/9781491920794/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/swift-development-with/9781491909683/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/ios-game-development/9781449369644/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/learning-cocoa-with/9781491901380/"
+        },
+        {
+            "text": "",
+            "href": "https://www.oreilly.com/library/view/learning-cocoa-with/9781449355432/"
+        },
+        {
+            "text": "",
+            "href": "https://www.wiley.com/en-us/Unity+Mobile+Game+Development+for+Dummies-p-9780470937662"
+        },
+        {
+            "text": "",
+            "href": "https://www.wiley.com/en-gb/iPhone+and+iPad+Game+Development+For+Dummies-p-9780470599105"
+        },
+        {
+            "text": "All books, translations & fiction →",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "Yarn Spinner\n\nHead of Product, Research & Analytics · 2023–present\n\nNarrative game tools used by thousands of games played by millions",
+            "href": "https://yarnspinner.dev/"
+        },
+        {
+            "text": "",
+            "href": "https://www.yarnspinner.dev/showcase/"
+        },
+        {
+            "text": "Secret Lab\n\nHead of Product & Creative · 2008–present\n\nAward-winning game development studio (Night in the Woods)",
+            "href": "https://secretlab.games/"
+        },
+        {
+            "text": "West Coast Space Centre\n\nChair · 2023–present\n\nNot-for-profit STEM engagement initiative",
+            "href": "https://westcoastspacecentre.com/"
+        },
+        {
+            "text": "ABC\n\nSpace News Presenter · 2025–present\n\nMonthly radio segment on space news, ABC Radio Hobart",
+            "href": "https://hey.paris/tags/space-news/"
+        },
+        {
+            "text": "Libraries Tasmania\n\nResearch Fellow · 2026\n\nResearching Tasmania's space history, from Rossbank Observatory (1840) to contemporary interplanetary spacecraft tracking",
+            "href": "https://libraries.tas.gov.au/slat/fellowship/recipients/"
+        },
+        {
+            "text": "University of Tasmania\n\nSessional Academic · 2008–present\n\nTeaching and research in computing",
+            "href": "https://utas.edu.au/"
+        },
+        {
+            "text": "O'Reilly Media\n\nTechnical Author · 2011–2023\n\nAuthor of books on mobile dev, AI, game design, and Swift",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "Wiley\n\nTechnical Author · 2009–2011\n\nFor Dummies imprint, including iPhone & iPad Game Dev",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "Meebo\n\nProduct Manager · 2007–2013\n\nConsumer web platform, acquired by Google for $100M",
+            "href": "https://en.wikipedia.org/wiki/Meebo"
+        },
+        {
+            "text": "GovHack\n\nProgram Manager · 2018\n\nNational open-data hackathon competition",
+            "href": "https://en.wikipedia.org/wiki/GovHack"
+        },
+        {
+            "text": "AUC\n\n/dev/world + X World\n\nThe longest-running Apple developer conference not run by Apple, since 2008.",
+            "href": "https://devworld.au/index.php"
+        },
+        {
+            "text": "TASMANIAN GAME MAKERS\n\nLevel Up Tasmania\n\nTasmania's game development conference and showcase.",
+            "href": "https://leveluptasmania.com/"
+        },
+        {
+            "text": "IFTF\n\nNarraScope 2026\n\nInteractive narrative and storytelling conference. Part of the Programming Group.",
+            "href": "https://narrascope.org/"
+        },
+        {
+            "text": "WEST COAST SPACE CENTRE\n\nWest Coast Space Show\n\nA live space show bringing STEM engagement to regional Tasmania.",
+            "href": "https://inspiringtas.org.au/2024/07/west-coast-space-show/"
+        },
+        {
+            "text": "More on speaking appearances and events.",
+            "href": "https://hey.paris/books-and-events/events/"
+        },
+        {
+            "text": "Tasmanian Game Makers\n\nPresident · 2019–present\n\nGovernment advocacy securing policy changes and sector funding",
+            "href": "https://tasgamemakers.com/"
+        },
+        {
+            "text": "AUC\n\nSecretary of Executive · 2014–present\n\nAustralasian Apple University Consortium, runs /dev/world",
+            "href": "https://auc.edu.au/"
+        },
+        {
+            "text": "ACS\n\nExecutive Committee Member · 2008–2020\n\nAustralian Computer Society, Gold Disruptor 2016",
+            "href": "https://www.acs.org.au/"
+        },
+        {
+            "text": "Research Fellowship",
+            "href": "https://www.premier.tas.gov.au/latest-news/2026/april/libraries-tasmania-2026-fellowships-announced"
+        },
+        {
+            "text": "Diemen Award",
+            "href": "https://diemenawards.com.au/archive/12th-annual-2/hint-line-93/"
+        },
+        {
+            "text": "Minister's STEM Innovation of the Year",
+            "href": "https://inspiringtas.org.au/2025/11/2025-stem-excellence-awards-winners/"
+        },
+        {
+            "text": "Young Alumni Award",
+            "href": "https://www.utas.edu.au/about/news-and-stories/articles/2024/congratulations-to-our-alumni-award-winners-for-2024"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://hey.paris/privacy/"
+        }
+    ],
+    "text_length": 11296,
+    "text_full": "Paris Buttfield-Addison\nTechnology · Policy · Games · Arts · Education · Writing\nEVENTS\nWRITING\nABOUT\nPOSTS\nAbout Paris\n\nParis is a computer scientist, game designer, writer, and artist, based in Hobart, Tasmania. He’s also doing a law degree, because apparently he didn’t have enough on.\n\nHe co-founded Secret Lab — the studio behind the beloved ABC Play School games, best known for working on the BAFTA-winning Night in the Woods and creating Yarn Spinner, the narrative tools that power DREDGE, A Short Hike, Little Kitty Big City, and thousands more games. He’s written over 20 books for O’Reilly and Wiley, talks about space on ABC Radio, occasionally teaches at the University of Tasmania, and has a PhD in Computing and a degree in medieval history (which is more useful than it sounds).\n\nWhen not doing any of that, he helps run Tasmanian Game Makers (as President), helps run /dev/world (the longest-running Apple developer conference not run by Apple), and co-founded a space centre with his wife. He lives in Hobart with said wife and serves as butler to three chihuahuas and a whippet.\n\nProducts\nBooks\nWork\nEvents\nCommunity\nSkills\nEducation\nAwards\nMore detailed info →\nPRODUCTS & PROJECTS\n\nYARN SPINNER\n\nYarn Spinner\n\nThe industry-standard narrative tool for games. Powers DREDGE, Venba, A Short Hike, Little Kitty Big City, NORCO, Luma Island, and thousands more.\n\nPRODUCING\nSOFTWARE ENGINEERING\nPRODUCTS:\nYarn Spinner for Unity\nYarn Spinner for Godot\nYarn Spinner for Unreal\nVS Code Extension\nTry Yarn Spinner\nCore Compiler\nYarn Spinner Playground\nStory Solver\n+ more\nAWARDS:\nMINISTER'S STEM INNOVATION 2025\nTASICT 2017\n\nSECRET LAB & YARN SPINNER\n\nHint Line '93\n\nA retro video game hint line experience, featured at ACMI.\n\nAWARDS:\nDIEMEN AWARD 2026\nPRODUCING\nSOFTWARE ENGINEERING\nWRITING\nGAME DESIGN\n\nSECRET LAB\n\nI Feel Fine\n\nA narrative adventure game about the end of the world, written by Eisner-winner Ryan North, built with Yarn Spinner. Funded by Screen Tasmania.\n\nPRODUCING\nSOFTWARE ENGINEERING\n\nSECRET LAB\n\nLeonardo's Moon Ship\n\nAn adventure game about helping Leonardo da Vinci reach the moon. Character and world created by Jim Capobianco, powered by Yarn Spinner, and partially funded by Screen Tasmania and Screen Australia.\n\nPRODUCING\nSOFTWARE ENGINEERING\nWRITING\nGAME DESIGN\n\nSECRET LAB\n\nMt Pleasant\n\nEarly, early pre-production for a workplace TV sitcom set at a radio observatory in rural Tasmania.\n\nWRITER\nCREATOR\n\nTHE UNCONFORMITY\n\nMoonland Rover Lab\n\nAn exploration for The Unconformity.\n\nSOFTWARE ENGINEERING\nWRITING\nEDUCATION\nGAME DESIGN\n\nBANK OF US\n\nBig Plans\n\nAn iOS and Android game for children aged 5–8, designed to teach financial literacy. Built for the Tasmanian customer-owned bank, Bank of us.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nSECRET LAB\n\nNight in the Woods\n\nBAFTA- and IGF-winning adventure game about a college dropout returning to her crumbling hometown. Praised for its writing, art, and unflinching look at small-town life. We created Yarn Spinner for Night in the Woods.\n\nPRODUCING\nSOFTWARE ENGINEERING\nAWARDS:\nBAFTA 2018\nIGF 2018\n\nSECRET LAB\n\nCulture\n\nOne of the first games on the iOS (then iPhone) App Store, all the way back in 2008.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nA WELL-KNOWN COMPANY\n\nRedacted\n\nSecret project.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nAUSTRALIAN BROADCASTING CORPORATION (ABC)\n\nPlay School Play Time\n\nOfficial games for Australia's beloved children's TV show, Play School, for the Australian Broadcasting Corporation.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\nAWARDS:\nAIMIA BEST OF TABLET\nTASICT 2013\n\nAUSTRALIAN BROADCASTING CORPORATION (ABC)\n\nPlay School Art Maker\n\nCreative art-making app for kids, part of the ABC Play School suite.\n\nPRODUCING\nSOFTWARE ENGINEERING\nAWARDS:\nAIMIA EFFECTIVENESS\nAIMIA BEST TABLET APP\nAIMIA BEST CHILDREN'S\n\nQANTAS\n\nJoey Playbox\n\nCreative children's entertainment for in-flight use on one of the oldest and most respected airlines in the world.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\nAWARDS:\nIAWARD MOBILITY INNOVATION 2016\n\nCSIRO\n\nPhysical Activity Games\n\nExploring whether video games can help motivate people's fitness, for Australia's national laboratory.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nNATIONAL MUSEUM OF AUSTRALIA\n\nThe Museum Game\n\nAn interactive experience that has helped thousands of school children explore and engage with the museum's collection.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nTASNETWORKS\n\nBill Shock\n\nA game to help people understand how their appliance use impacts their energy costs.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nCORE LEARNING FOUNDATION\n\nOld as Dirt & Resource, Respond Rescue!\n\nAward-winning party games and custom Minecraft: Education Edition content to teach the next generation of STEM leaders. Minecraft content by Mars.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nAUSTRALIAN GOVERNMENT\n\nNational Science Week Apps\n\nThe official National Science Week apps for Australia, built for many years running. Most recent versions by Mars.\n\nPRODUCING\nSOFTWARE ENGINEERING\n\nPORT ARTHUR HISTORIC SITE\n\nGuide App\n\nVisitor guide app for one of Australia's most significant heritage sites.\n\nPRODUCING\nSOFTWARE ENGINEERING\n\nFASTMAIL\n\niPhone and Android App\n\nWork for the most amazing email provider on the planet.\n\nPRODUCING\nSOFTWARE ENGINEERING\n\nMIGHTY GAMES GROUP\n\nClient Projects\n\nProjects for the Australian game development powerhouse.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nSTUDYLADDER\n\nFeed a Frog\n\nAn engaging educational game for children, tied into Studyladder's classroom rewards system.\n\nPRODUCING\nSOFTWARE ENGINEERING\nGAME DESIGN\n\nPlus hundreds more projects I can't talk about, including work for Google, Apple, a rather marvellous superhero comics publisher, a beloved cooking app for the ABC, educational games for courseware companies, and hundreds more.\n\nBOOKS\nAll books, translations & fiction →\nWORK\n\nYarn Spinner\n\nHead of Product, Research & Analytics · 2023–present\n\nNarrative game tools used by thousands of games played by millions\n\nSecret Lab\n\nHead of Product & Creative · 2008–present\n\nAward-winning game development studio (Night in the Woods)\n\nWest Coast Space Centre\n\nChair · 2023–present\n\nNot-for-profit STEM engagement initiative\n\nABC\n\nSpace News Presenter · 2025–present\n\nMonthly radio segment on space news, ABC Radio Hobart\n\nLibraries Tasmania\n\nResearch Fellow · 2026\n\nResearching Tasmania's space history, from Rossbank Observatory (1840) to contemporary interplanetary spacecraft tracking\n\nUniversity of Tasmania\n\nSessional Academic · 2008–present\n\nTeaching and research in computing\n\nO'Reilly Media\n\nTechnical Author · 2011–2023\n\nAuthor of books on mobile dev, AI, game design, and Swift\n\nWiley\n\nTechnical Author · 2009–2011\n\nFor Dummies imprint, including iPhone & iPad Game Dev\n\nMeebo\n\nProduct Manager · 2007–2013\n\nConsumer web platform, acquired by Google for $100M\n\nGovHack\n\nProgram Manager · 2018\n\nNational open-data hackathon competition\n\nIT\n\nITHINKITWORKS\n\nSoftware Engineer · 2001–2007\n\nSoftware engineering and consulting\n\nEVENTS\n\nAUC\n\n/dev/world + X World\n\nThe longest-running Apple developer conference not run by Apple, since 2008.\n\nTASMANIAN GAME MAKERS\n\nLevel Up Tasmania\n\nTasmania's game development conference and showcase.\n\nIFTF\n\nNarraScope 2026\n\nInteractive narrative and storytelling conference. Part of the Programming Group.\n\nWEST COAST SPACE CENTRE\n\nWest Coast Space Show\n\nA live space show bringing STEM engagement to regional Tasmania.\n\nAnd hundreds of events, including corporate training for Apple, Google, Microsoft, and everyone in between, plus regular meetups for Tasmanian Game Makers, Inc., AUC events like XWorld and CreateWorld, and all manner of workshops. More on speaking appearances and events.\n\nCOMMUNITY\n\nTasmanian Game Makers\n\nPresident · 2019–present\n\nGovernment advocacy securing policy changes and sector funding\n\nAUC\n\nSecretary of Executive · 2014–present\n\nAustralasian Apple University Consortium, runs /dev/world\n\nPearcey Foundation\n\nCommittee Member · 2014–present\n\nRecognising contributions to the Australian ICT sector\n\nACS\n\nExecutive Committee Member · 2008–2020\n\nAustralian Computer Society, Gold Disruptor 2016\n\nSKILLS\n\nTECHNICAL · Product Strategy · Swift · C# · C++ · C · Rust · Python · React · TypeScript · Vite · Unity · Godot · Unreal Engine · Phaser.js · Game Development · Narrative Systems · Yarn Spinner · Ink · Mobile Dev · Android · Apple Platforms · Machine Learning · AI · Data Science · Language Design\n\nRESEARCH & WRITING · Qualitative Research · Quantitative Research · AI Governance · Technical Writing · HCI Research · Policy Analysis · Information Management · Public Speaking · Science Communication · Broadcasting · Administrative Law\n\nLEADERSHIP · Government Advocacy · Community Building · Board Governance · Stakeholder Engagement · Event Organisation · Funding Strategy · Education · Cross-functional Teams\n\nEDUCATION\n\nUniversity of New England\n\nBachelor of Laws (LLB) · 2018–present\n\nUnderstanding how regulation actually works, particularly for AI\n\nTasmanian Leaders\n\nGraduate TLP12 · 2018\n\nIntensive year-long program developing high-potential leaders\n\nUniversity of Tasmania\n\nPhD, Computer Science · 2009–2012\n\nManaging personal information across multiple platforms\n\nUniversity of Tasmania\n\nBComp (Hons), Computing · First Class Honours\n\nThesis: See Through Paper — Exploring PIM with RFID\n\nUniversity of Tasmania\n\nBA-BComp, Medieval & Modern History, CS\n\nDouble degree in history and computer science\n\nThe Hutchins School\n\nSecondary Education\n\nHobart, Tasmania\n\nAWARDS\n2026\n\nResearch Fellowship\n\nTasmania's space history, from Rossbank Observatory to today\n\nLibraries Tasmania\n2026\n\nDiemen Award\n\nHint Line '93\n\nDiemen Awards\n2025\n\nMinister's STEM Innovation of the Year\n\nYarn Spinner — Yarn Spinner 3 & Story Solver\n\nTasICT\n2024\n\nYoung Alumni Award\n\nUniversity of Tasmania\n2021\n\nBest Customer Service or Solution\n\nEducational Games for CoRE Learning Foundation\n\nTasICT\n2018\n\nBAFTA Award, Best Narrative Game\n\nNight in the Woods\n\nBAFTA\n2018\n\nExcellence in Narrative\n\nNight in the Woods\n\nIndependent Games Festival\n2018\n\nSeumas McNally Grand Prize\n\nNight in the Woods\n\nIndependent Games Festival\n2017\n\nBest Tasmanian Customer Service or Solution (Merit)\n\nYarn Spinner & Night in the Woods\n\nTasICT\n2016\n\nMobility Innovation of the Year\n\nJoey Playbox for Qantas\n\niAward\n2016\n\nGold Disruptor\n\nAustralian Computer Society\n2014\n\nBest of Tablet (overall winner)\n\nPlay School Play Time\n\nAIMIA\n2014\n\nBest of Tablet – Entertainment\n\nPlay School Play Time\n\nAIMIA\n2014\n\nBest of Tablet – Learning and Education\n\nPlay School Play Time\n\nAIMIA\n2014\n\nBest ICT Solution\n\nTasICT\n2014\n\nGo South Awards, Business Category\n\nSnapTas\n\nGo South\n2013\n\nEffectiveness\n\nPlay School Art Maker\n\nAIMIA\n2013\n\nBest Application for a Tablet\n\nPlay School Art Maker\n\nAIMIA\n2013\n\nBest Children's\n\nPlay School Art Maker\n\nAIMIA\n2013\n\nBest Software Product\n\nPlay School Art Maker\n\nTasICT\n2012\n\nBest Cultural or Lifestyle\n\nFoodi\n\nAIMIA\n2012\n\nBest Application on a Tablet or Mobile\n\nPlay School Art Maker\n\nAIMIA\n2010\n\nExcellence in Digital Media\n\nTasICT\n2010\n\nExport Success\n\nTasICT\n2010\n\nPresident's Award for Excellence\n\nTasICT\n2010\n\nPearcey Award\n\nPearcey Foundation\n\n© 2026 Dr Paris Buttfield-Addison · Privacy"
+}

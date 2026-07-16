@@ -1,0 +1,223 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 53,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "git",
+            "href": "https://nesbitt.io/search#git"
+        },
+        {
+            "text": "tools",
+            "href": "https://nesbitt.io/search#tools"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "extending git functionality",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html"
+        },
+        {
+            "text": "git-pkgs",
+            "href": "https://github.com/git-pkgs/git-pkgs"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#gitignore"
+        },
+        {
+            "text": "gitignore docs",
+            "href": "https://git-scm.com/docs/gitignore"
+        },
+        {
+            "text": "a collection of .gitignore templates",
+            "href": "https://github.com/github/gitignore"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#gitattributes"
+        },
+        {
+            "text": "gitattributes docs",
+            "href": "https://git-scm.com/docs/gitattributes"
+        },
+        {
+            "text": "GitHub Linguist docs",
+            "href": "https://github.com/github-linguist/linguist/blob/main/docs/overrides.md"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#lfsconfig"
+        },
+        {
+            "text": "Git LFS config docs",
+            "href": "https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs-config.adoc"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#gitmodules"
+        },
+        {
+            "text": "git submodules docs",
+            "href": "https://git-scm.com/docs/git-submodule"
+        },
+        {
+            "text": "gitmodules docs",
+            "href": "https://git-scm.com/docs/gitmodules"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#mailmap"
+        },
+        {
+            "text": "do not",
+            "href": "https://github.com/orgs/community/discussions/22518"
+        },
+        {
+            "text": "gitmailmap docs",
+            "href": "https://git-scm.com/docs/gitmailmap"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#git-blame-ignore-revs"
+        },
+        {
+            "text": "git blame docs",
+            "href": "https://git-scm.com/docs/git-blame#Documentation/git-blame.txt---ignore-revs-fileltfilegt"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#gitmessage"
+        },
+        {
+            "text": "husky",
+            "href": "https://github.com/typicode/husky"
+        },
+        {
+            "text": "git commit docs",
+            "href": "https://git-scm.com/docs/git-commit#_discussion"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#forge-specific-folders"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#other-conventions"
+        },
+        {
+            "text": "Gerrit",
+            "href": "https://www.gerritcodereview.com/"
+        },
+        {
+            "text": "git review",
+            "href": "https://docs.opendev.org/opendev/git-review/latest/"
+        },
+        {
+            "text": "gitlint",
+            "href": "https://jorisroovers.com/gitlint/"
+        },
+        {
+            "text": "Jujutsu",
+            "href": "https://github.com/jj-vcs/jj"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#beyond-git"
+        },
+        {
+            "text": "editorconfig.org",
+            "href": "https://editorconfig.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html#supporting-these-files"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew/nesbitt.io"
+        },
+        {
+            "text": "Git Diff Drivers",
+            "href": "https://nesbitt.io/2026/03/30/git-diff-drivers.html"
+        },
+        {
+            "text": "Extending Git Functionality",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html"
+        },
+        {
+            "text": "Git Remote Helpers",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html"
+        },
+        {
+            "text": "Forge",
+            "href": "https://nesbitt.io/2026/03/13/forge.html"
+        },
+        {
+            "text": "Forge-Specific Repository Folders",
+            "href": "https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2026-02-05-git-magic-files.md"
+        }
+    ],
+    "text_length": 13706,
+    "text_full": "Andrew Nesbitt\n      \nGit's Magic Files\ngittoolsreference\n\nFeb 5, 2026\n\nA follow-up to my post on extending git functionality. Git looks for several special files in your repository that control its behavior. These aren’t configuration files in .git/, they’re committed files that travel with your code and affect how git treats your files.\n\nIf you’re building a tool that works with git repositories, like git-pkgs, you’ll want to ensure you respect these configs.\n\n.gitignore#\n\nPatterns of files git should never track. One pattern per line, supports wildcards and directory markers.\n\nnode_modules/\n*.log\n.env\ndist/\n\n\nGit checks multiple ignore files in order: .gitignore in each directory, .git/info/exclude for local-only ignores, and the global ignore file at ~/.config/git/ignore or wherever core.excludesFile points. Global ignores are good for OS-specific files like .DS_Store or Thumbs.db that shouldn’t clutter every project’s .gitignore.\n\nThe pattern matching supports wildcards (*.log), directory markers (dist/), negation (!important.log), and character ranges. The ** pattern matches nested directories.\n\n.gitignore only affects untracked files. Files that were already tracked before being added to .gitignore stay in the repository and show up in every forge’s web UI as normal (git rm --cached removes them from tracking). GitHub, GitLab, Forgejo, and Gitea’s web editors will also let you create a file matching an ignored pattern and commit it without any warning. Package managers often ship with their own ignore patterns (node_modules/, vendor/, target/) that you’re expected to add to your ignore file.\n\nSee the gitignore docs for the full pattern syntax. GitHub maintains a collection of .gitignore templates for different languages and frameworks.\n\n.gitattributes#\n\nTells git how to handle specific files. This is where you configure filters, diff drivers, merge drivers, line ending normalization, and language detection overrides.\n\n# Clean/smudge filters\n*.psd filter=lfs diff=lfs merge=lfs\n\n# Line ending normalization\n*.sh text eol=lf\n*.bat text eol=crlf\n\n# Treat as binary\n*.png binary\n\n# Custom diff driver\n*.json diff=json\n\n# Merge strategy\npackage-lock.json merge=ours\n\n# Language detection override for GitHub Linguist\nvendor/* linguist-vendored\n*.gen.go linguist-generated\ndocs/* linguist-documentation\n\n\nThe text attribute tells git to normalize line endings. The binary attribute tells git not to diff or merge, just pick one version. The merge=ours strategy always keeps your version during merge conflicts.\n\nGitHub Linguist reads .gitattributes to override its language detection. Mark vendored code with linguist-vendored to exclude it from language statistics. Mark generated files with linguist-generated to collapse them in diffs. Mark documentation with linguist-documentation to exclude it from stats.\n\nLike .gitignore, git checks .gitattributes files in each directory and .git/info/attributes for local-only attributes.\n\nThe gitattributes docs cover all attributes. The GitHub Linguist docs list its specific attributes.\n\n.lfsconfig#\n\nGit LFS configuration that travels with the repository. Uses git config format to set the LFS endpoint URL, transfer settings, and other LFS options.\n\n[lfs]\n    url = https://lfs.example.com/repo\n[lfs \"transfer\"]\n    maxretries = 3\n\n\nGit LFS reads .lfsconfig automatically when you run LFS commands. This lets you commit LFS configuration so everyone working on the repo uses the same settings. Without it, developers need to manually configure their local LFS setup.\n\nLFS also uses .gitattributes to mark which files should be handled by LFS (the *.psd filter=lfs diff=lfs merge=lfs pattern shown above). The .lfsconfig file handles the LFS-specific settings like where to find the LFS server. If you add file patterns to LFS after files are already committed, you need to run git lfs migrate to rewrite history and move those files into LFS.\n\nSee the Git LFS config docs for all available options.\n\n.gitmodules#\n\nConfiguration for git submodules. Git writes this file when you run git submodule add and reads it when you run git submodule update.\n\n[submodule \"vendor/lib\"]\n    path = vendor/lib\n    url = https://github.com/example/lib.git\n    branch = main\n\n\nEach submodule gets an entry with its path, URL, and optionally the branch to track. The file lives at the root of your repository.\n\nSubmodules let you embed other git repositories as dependencies. Running git clone doesn’t fetch submodule content automatically, you need git submodule update --init --recursive or pass --recurse-submodules to clone.\n\nThey don’t handle versioning well (you track a specific commit, not a version range), they create nested .git directories, and forgetting to update them creates confusing states.\n\nBut submodules work fine for vendoring code you control or for monorepo structures where you want to check out only part of the tree.\n\nThe git submodules docs explain the full workflow. The gitmodules docs cover the file format.\n\n.mailmap#\n\nMaps author names and email addresses to canonical identities. Git uses this for git log, git shortlog, and git blame output.\n\n# Map old email to new email\nJane Developer <jane@company.com> <jane@oldcompany.com>\n\n# Standardize name spelling\nJane Developer <jane@company.com> Jane Dev <jane@company.com>\n\n# Fix both\nJane Developer <jane@company.com> <janed@personal.com>\nJane Developer <jane@company.com> J Developer <janed@personal.com>\n\n\nThe format is Proper Name <proper@email.com> Commit Name <commit@email.com>. Git looks for entries matching the commit author and rewrites the output.\n\ngit shortlog -sn, git log, and git blame all use mailmap to aggregate commits under canonical identities. GitHub’s contributor graphs do not, which means duplicate entries persist on the web even when your mailmap is correct.\n\nWithout mailmap, contributors who changed email addresses or fixed typos in their names show up as multiple people. With it, all their commits aggregate under one identity.\n\nThe gitmailmap docs cover the file format. You can put mailmap at .mailmap in the repo root or configure mailmap.file to point elsewhere.\n\n.git-blame-ignore-revs#\n\nLists commits that git blame should skip. Put the commit SHA of bulk formatting changes, linting passes, or other noise commits in this file and blame will look through them to find the meaningful change.\n\n# .git-blame-ignore-revs\n# Ran prettier on entire codebase\na1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0\n\n# Migrated to ESLint flat config\nb2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1\n\n\nConfigure git to use it with git config blame.ignoreRevsFile .git-blame-ignore-revs. GitHub, GitLab (15.4+), and Gitea all read this file automatically without configuration. If you set this in your global git config, git blame will fail in any repository that doesn’t have the file, so you either need per-repo config or an empty .git-blame-ignore-revs in every repo you work in.\n\nThis solves the problem where running a formatter on the entire codebase makes git blame useless. With this file, blame skips those commits and shows the actual author of the logic.\n\nThe file format is simple: one commit SHA per line, with # for comments. See the git blame docs for details.\n\n.gitmessage#\n\nA template for commit messages. You configure this with git config commit.template .gitmessage and git will pre-fill the commit message editor with this content.\n\n# .gitmessage\n# <type>: <subject>\n#\n# <body>\n#\n# <footer>\n#\n# Types: feat, fix, docs, style, refactor, test, chore\n\n\nUnlike the other files in this post, .gitmessage requires manual configuration per clone. Each developer needs to run git config commit.template .gitmessage after cloning. Some teams automate this with a setup script or use tools like husky to set local configs during installation. This extra step is why most projects prefer commit-msg hooks to validate format rather than templates to guide writing.\n\nThe git commit docs mention template files. The prepare-commit-msg hook is an alternative that can generate dynamic templates.\n\nForge-Specific Folders#\n\nGit forges extend repositories with their own magic folders: .github/, .gitlab/, .gitea/, .forgejo/, .bitbucket/. These aren’t git features, but they follow the same pattern: configuration that travels with your code.\n\nInside these folders you’ll find CI/CD workflows, issue and PR templates, CODEOWNERS files mapping paths to required reviewers, and other forge-specific configuration. The folders let forges add features without polluting the repository root.\n\nForgejo and Gitea have fallback chains. Forgejo checks .forgejo/ → .gitea/ → .github/. Gitea checks .gitea/ → .github/. This lets you override GitHub-specific config when hosting on multiple platforms.\n\nSourceHut uses .build.yml at the root or .builds/*.yml for CI, without a dedicated folder namespace.\n\nOther Conventions#\n\n.gitkeep is a convention, not a git feature. Git doesn’t track empty directories. If you want an empty directory in your repository, you put a .gitkeep file in it so git has something to track. The filename .gitkeep is arbitrary, it could be anything.\n\n.gitconfig files sometimes appear in repositories as suggested configuration. Git won’t load these automatically (security reasons), but projects include them with instructions to run git config include.path ../.gitconfig or manually copy settings. Common in monorepos or projects with specific git settings they want to standardize.\n\n.gitsigners or similar files track GPG/SSH signing keys for trusted contributors. Not a native git feature, but used by some projects (notably the Linux kernel) as part of their signing workflow. Git’s gpg.ssh.allowedSignersFile config can point to a file of trusted SSH keys that git log --show-signature uses for verification.\n\n.gitreview configures Gerrit code review integration. Used by projects hosted on Gerrit (OpenStack, Android, Eclipse) to specify which Gerrit server and project to push to.\n\n[gerrit]\nhost=review.opendev.org\nport=29418\nproject=openstack/nova.git\ndefaultbranch=master\n\n\nRunning git review reads this file and pushes commits to Gerrit for review instead of directly to the branch. It’s a canonical example of a tool extending git’s workflow through a committed config file.\n\n.gitlint configures gitlint for commit message linting. Follows the same pattern: commit the config, everyone gets the same rules.\n\n[general]\nignore=body-is-missing\n\n[title-max-length]\nline-length=72\n\n\nGitlint reads this to validate commit message format. Similar to using a commit-msg hook but with the configuration traveling with the repository.\n\n.jj/ is Jujutsu’s working copy state directory. Jujutsu is a git-compatible VCS that stores its own metadata in .jj/ while respecting all of git’s magic files. If you use jj, you’ll have both .git/ and .jj/ in your repository, and .gitignore, .gitattributes, .mailmap all work the same way.\n\nBeyond Git#\n\nThe pattern extends beyond git. Other tools follow the same approach: drop a dotfile in your repository, tools detect it automatically, behavior changes.\n\n.editorconfig standardizes editor behavior across teams. Put it at the root of your repo and editors read it to configure indent style, line endings, trailing whitespace, and character encoding.\n\nroot = true\n\n[*]\nindent_style = space\nindent_size = 2\nend_of_line = lf\ncharset = utf-8\ntrim_trailing_whitespace = true\n\n[*.md]\ntrim_trailing_whitespace = false\n\n\nVS Code, Vim, Emacs, Sublime, and most other editors either support it natively or have plugins. See editorconfig.org for the full spec.\n\n.ruby-version, .node-version, .python-version tell version managers which language version to use. Tools like rbenv, nodenv, pyenv, nvm, and asdf read these files when you cd into the directory and automatically switch versions.\n\n# .ruby-version\n3.3.0\n\n# .node-version\n20.11.0\n\n\n.tool-versions is asdf’s multi-language version file. One file for all languages.\n\nruby 3.3.0\nnodejs 20.11.0\npython 3.12.0\n\n\n.dockerignore works like .gitignore but for Docker build context. When you run docker build, Docker sends files to the daemon. List patterns in .dockerignore and Docker won’t send them.\n\n.git\nnode_modules\n*.log\n.env\n\n\nThis speeds up builds and keeps secrets out of images. The syntax matches .gitignore: wildcards, negation, directory markers.\n\nSupporting These Files#\n\nIf you’re building tools that interact with git repositories, you probably want to respect these files:\n\nRead .gitignore when walking the repository tree\nRead .gitattributes to know which files are binary, vendored, or generated\nRead .mailmap when displaying author information\nRead .gitmodules if you need to handle submodules\n\nThe git config format (used by .gitmodules and various other files) is [section \"subsection\"] key = value. Git ships a git config command that reads and writes these files correctly. Most languages have git config parsers in their git libraries.\n\nIf you know of other git magic files or have corrections, reach out on Mastodon or submit a pull request on GitHub.\n\nRelated posts\nGit Diff Drivers Mar 30, 2026\n\nWhat git's diff drivers can do, from built-in language support to custom textconv filters.\n\nExtending Git Functionality Nov 26, 2025\n\nA practical guide to the different ways you can extend git: subcommands, filters, hooks, remote helpers, and more.\n\nGit Remote Helpers Mar 18, 2026\n\nGit can talk to anything if you write the right helper.\n\nForge Mar 13, 2026\n\nA unified CLI for GitHub, GitLab, Gitea, Forgejo, and Bitbucket.\n\nForge-Specific Repository Folders Feb 22, 2026\n\nMagic folders in git forges: what .github/, .gitlab/, .gitea/, .forgejo/ and .bitbucket/ do.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

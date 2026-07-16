@@ -1,0 +1,623 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://securitybrief.com.au/brands/sb-new-logo.svg",
+        "https://securitybrief.com.au/brands/td-new-logo-right.svg",
+        "https://securitybrief.com.au/uploads/story/2026/05/20/preview_stress-small-business-owner-desk-malware-update-popup-office-files-padlock-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/19/preview_Paul.webp",
+        "https://channellife.com.au/uploads/story/2026/05/18/preview_IMAGES.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/06/preview_Ben.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/13/preview_shielding-cybersecurity-office-network-dashboard-laptops-mobile-devices-digital-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/11/preview_upward-growth-australian-skyline-data-centers-cloud-ai-nodes-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/21/preview_Henrique.webp",
+        "https://channellife.com.au/uploads/story/2026/05/19/preview_Janine_Seebeck.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/13/preview_cautious-ai-security-team-government-office-shield-digital-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/09/preview_professional-office-scene-document-dashboard-cloud-icons-matte-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/11/preview_upward-growth-australian-skyline-data-centers-cloud-ai-nodes-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/07/preview_Matt_Hanmer__Regional_Director__SASE___Security__APJ___HPE_Networking.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/06/preview_dan.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/04/preview_Alex_Wilson_-_Senior_Director_Solutions_Engineering_at_Yubico.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/29/preview_YP_PP__1_.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/27/preview_202605_-_Deepika_Chahuan_-_DigiCert_-_headshot.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/28/preview_thomas.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/28/preview_Sandra-Joyce.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/25/preview_Sid_Nadella.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/25/preview_Jon_Ramsey.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/14/preview_202604_-_Tony_Burnside_-_Netskope_-_Headshot.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/08/preview_Andrew_Philp.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/03/preview_Jason_Merrick.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/20/preview_1398.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/18/preview_Sonicwall.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/07/preview_1024.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/30/preview_Jerome.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/28/preview_Jerome.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/27/preview_Lisa.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/24/preview_Jerome.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/21/preview_Global_Upg._Phase_2_Partner_Blog_HEADER_9_1200x500px-1200x500-3c18ef3.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/20/preview_Rishi.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/16/preview_Debasish.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/07/preview_Matt_Hanmer__Regional_Director__SASE___Security__APJ___HPE_Networking.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/06/preview_dan.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/04/preview_Alex_Wilson_-_Senior_Director_Solutions_Engineering_at_Yubico.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/29/preview_YP_PP__1_.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/27/preview_202605_-_Deepika_Chahuan_-_DigiCert_-_headshot.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/06/preview_dan.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/07/preview_World_Password_Day_-_Bass_PR.webp",
+        "https://telconews.com.au/uploads/story/2026/05/05/preview_942.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/04/preview_BeyondTrust.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/30/preview_alert-australian-office-team-ai-security-incident-laptop-cloud-icons-enterprise-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/28/preview_Chris.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/22/preview_email_attachment20260422-2053092-a4uu5x.webp",
+        "https://channellife.com.au/uploads/story/2026/04/21/preview_flux-result-8ebbd43f-bcd8-44de-bdf3-236bd6316542.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/14/preview_flux-result-89b895f6-2142-4f0a-96ba-c21758ac4373.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/13/preview_Check_Point.webp",
+        "https://telconews.com.au/uploads/story/2026/04/09/preview_flux-result-970c0fdf-769c-44e1-a48b-1906451f912c.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/07/preview_Vulnetix.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/06/preview_email_attachment20260406-1015143-8xx90v.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/02/preview_AU_firms_warned.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/02/preview_Aidan_x_Marija_x_Netskope_and_Macquarie.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/31/preview_Mark_Boyd.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/19/preview_australia_secure_cloud_data_center_with_shield_evidence_storage.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/16/preview_Ingram_Micro.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/10/preview_Headshot_Nigel_Hardy.webp",
+        "https://securitybrief.com.au/uploads/story/2026/03/06/preview_ai_malware_attack_shadow_figure_targeting_india_australia_maps.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/28/preview_Chris.webp",
+        "https://channellife.com.au/uploads/story/2025/09/03/preview_PS_ADC_-_Greg__Matt__Peter.webp",
+        "https://channellife.com.au/uploads/story/2025/08/25/preview_PS_Patrick_Ibrahim.webp",
+        "https://itbrief.com.au/uploads/story/2024/09/02/preview_Samantha_Maher.webp",
+        "https://itbrief.com.au/uploads/story/2023/03/02/preview_Daniel-Fouladi-Netskope.webp",
+        "https://itbrief.com.au/uploads/story/2022/12/21/preview_Innowell_headshots_-_20_June_2019_-_Kristin_Stubbins__1__cropped_TechDay(2).webp",
+        "https://itbrief.com.au/uploads/story/2022/12/22/preview_Screenshot_2023-02-24_153958(2).webp",
+        "https://securitybrief.com.au/brands/td-left-new-logo.svg",
+        "https://securitybrief.com.au/brands/cfo-white-logo.svg",
+        "https://securitybrief.com.au/brands/cl-white-logo.svg",
+        "https://securitybrief.com.au/brands/ecn-white-logo.svg",
+        "https://securitybrief.com.au/brands/f5-white-logo.svg",
+        "https://securitybrief.com.au/brands/itb-white-logo.svg",
+        "https://securitybrief.com.au/brands/sb-white-logo.svg",
+        "https://securitybrief.com.au/brands/tn-white-logo.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 134,
+    "links": [
+        {
+            "text": "AUSTRALIA",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "POWERED BY",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "Cloud Security",
+            "href": "https://securitybrief.com.au/tag/cloud-security"
+        },
+        {
+            "text": "Cybersecurity",
+            "href": "https://securitybrief.com.au/tag/cybersecurity"
+        },
+        {
+            "text": "Endpoint Protection",
+            "href": "https://securitybrief.com.au/tag/endpoint-protection"
+        },
+        {
+            "text": "Firewalls",
+            "href": "https://securitybrief.com.au/tag/firewalls"
+        },
+        {
+            "text": "Ransomware",
+            "href": "https://securitybrief.com.au/tag/ransomware"
+        },
+        {
+            "text": "Australian News",
+            "href": "https://securitybrief.com.au/tag/cloud-security#localised"
+        },
+        {
+            "text": "Analyst Insights",
+            "href": "https://securitybrief.com.au/tag/cloud-security#analyst"
+        },
+        {
+            "text": "Featured News",
+            "href": "https://securitybrief.com.au/tag/cloud-security#featured"
+        },
+        {
+            "text": "Expert Columns",
+            "href": "https://securitybrief.com.au/tag/cloud-security#bylines"
+        },
+        {
+            "text": "Interviews",
+            "href": "https://securitybrief.com.au/tag/cloud-security#interviews"
+        },
+        {
+            "text": "Recent News",
+            "href": "https://securitybrief.com.au/tag/cloud-security#recent"
+        },
+        {
+            "text": "Job Moves",
+            "href": "https://securitybrief.com.au/tag/cloud-security#jobs"
+        },
+        {
+            "text": "SOFTWARE UPDATES\nAustralian businesses warned over ClickFix attacks\n\nMany small firms cannot block the attack with email or antivirus tools because it tricks staff into running malicious commands themselves.",
+            "href": "https://securitybrief.com.au/story/australian-businesses-warned-over-clickfix-attacks"
+        },
+        {
+            "text": "PUBLIC SECTOR\nAustralian firms lag on post-quantum crypto readiness\n\nOnly 11% of organisations are confident they can meet post-quantum deadlines, as legacy systems and tight budgets slow Australian preparations.",
+            "href": "https://securitybrief.com.au/story/australian-firms-lag-on-post-quantum-crypto-readiness"
+        },
+        {
+            "text": "CLOUD SERVICES\nSnowflake wins IRAP approval in Google Cloud Melbourne\n\nAustralian government agencies can now use Snowflake on Google Cloud in Melbourne for PROTECTED workloads, broadening cloud choice and assurance.",
+            "href": "https://channellife.com.au/story/snowflake-wins-irap-approval-in-google-cloud-melbourne"
+        },
+        {
+            "text": "CLOUD SERVICES\nAustralia tightens data centre scrutiny amid AI boom\n\nAustralia tightens data centre approvals as governments weigh AI power, water and jobs against AUD $51.9 billion of NSW pipeline projects.",
+            "href": "https://itbrief.com.au/story/australia-tightens-data-centre-scrutiny-amid-ai-boom"
+        },
+        {
+            "text": "BRING YOUR OWN DEVICE\nArctic Wolf unveils exposure management for AI-driven risks\n\nBusinesses face faster-growing exposure risks as the security firm widens its portfolio with tools for vulnerabilities, mobile threats and patching.",
+            "href": "https://securitybrief.com.au/story/arctic-wolf-unveils-exposure-management-for-ai-driven-risks"
+        },
+        {
+            "text": "CLOUD SERVICES\nAustralian cloud spending to hit AUD $33.6bn in 2026\n\nAI workloads and cost controls are set to push Australian public cloud spending up 17.9% to AUD $33.6 billion in 2026.",
+            "href": "https://itbrief.com.au/story/australian-cloud-spending-to-hit-aud-33-6bn-in-2026"
+        },
+        {
+            "text": "ANALYST\nSaviynt named leader in four KuppingerCole reviews\n\nKuppingerCole · Cloud Security · PAM",
+            "href": "https://securitybrief.com.au/story/saviynt-named-leader-in-four-kuppingercole-reviews"
+        },
+        {
+            "text": "ANALYST\nBeyondTrust named leader in KuppingerCole PAM report\n\nKuppingerCole · Cloud Security · IT Department",
+            "href": "https://channellife.com.au/story/beyondtrust-named-leader-in-kuppingercole-pam-report"
+        },
+        {
+            "text": "ANALYST\nGovernments eye agentic AI as security worries persist\n\nIDC · Cloud Security · Data Analytics",
+            "href": "https://securitybrief.com.au/story/governments-eye-agentic-ai-as-security-worries-persist"
+        },
+        {
+            "text": "ANALYST\nDocuWare named a challenger in Gartner document review\n\nGartner · Cloud Security · SMB",
+            "href": "https://itbrief.com.au/story/docuware-named-a-challenger-in-gartner-document-review"
+        },
+        {
+            "text": "ANALYST\nAustralian cloud spending to hit AUD $33.6bn in 2026\n\nGartner · Cloud Security · IT Industry",
+            "href": "https://itbrief.com.au/story/australian-cloud-spending-to-hit-aud-33-6bn-in-2026"
+        },
+        {
+            "text": "ABOUT BREACH PREVENTION\nHPE assisting IT teams navigate complex challenges\n\nHPE Networking says AI, zero trust and SASE are reshaping network security as remote work and connected devices make threats harder to control.\n\nLast week",
+            "href": "https://securitybrief.com.au/story/hpe-assisting-it-teams-navigate-complex-challenges"
+        },
+        {
+            "text": "ABOUT DATA PROTECTION\nExclusive: Arctic Wolf builds out agentic security\n\nArctic Wolf expands its Agentic SOC as AI speeds attacks and shadow AI risks, with President, Technology and Services Dan Schiappa backing human oversight.\n\nThis month",
+            "href": "https://securitybrief.com.au/story/exclusive-arctic-wolf-builds-out-agentic-security"
+        },
+        {
+            "text": "ABOUT DATA PROTECTION\nYubico well-prepared for post-quantum computing threats\n\nBusinesses are racing to upgrade defences as Yubico says quantum computers could expose banking, health data and other records within years.\n\nThis month",
+            "href": "https://securitybrief.com.au/story/yubico-well-prepared-for-post-quantum-computing-threats"
+        },
+        {
+            "text": "ABOUT CHIEF INFORMATION SECURITY OFFICER\nUpwind Expands to Sydney: Real Time Cloud Security for APJ\n\nThe Sydney move follows a USD $250 million funding round as the cloud security firm bets on real-time protection for fast-growing AI workloads.\n\nThis month",
+            "href": "https://itbrief.com.au/story/upwind-expands-to-sydney-real-time-cloud-security-for-apj"
+        },
+        {
+            "text": "ABOUT MALWARE\nAI agents multiply risk, says DigiCert chief product officer\n\nMany firms cannot see where their AI agents are, leaving identity, policy and supply-chain risks to grow as deployments scale.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/ai-agents-multiply-risk-says-digicert-chief-product-officer"
+        },
+        {
+            "text": "ABOUT DIGITAL TRANSFORMATION\nGoogle Cloud CEO sets out enterprise AI agent plan\n\nEnterprises will get one place to build, govern and run AI agents, as Google Cloud expands Gemini Enterprise across models, data and security.\n\nLast month",
+            "href": "https://itbrief.com.au/story/google-cloud-ceo-sets-out-enterprise-ai-agent-plan"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nGoogle flags urgency as AI reshapes cyber threats\n\nPatching delays now carry greater risk as Google says AI is helping attackers scale intrusions, speed up breaches and automate operations.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/google-flags-urgency-as-ai-reshapes-cyber-threats"
+        },
+        {
+            "text": "ABOUT PRODUCTIVITY\nExclusive: Google Cloud reshaping finance with agentic AI\n\nBanks must move beyond isolated pilots if they want agentic AI to deliver enterprise-wide gains, Google Cloud says.\n\nLast month",
+            "href": "https://cfotech.com.au/story/exclusive-google-cloud-reshaping-finance-with-agentic-ai"
+        },
+        {
+            "text": "ABOUT THREAT INTELLIGENCE\nExclusive: Google Cloud on the road to autonomous SecOps\n\nThe new tools could cut analysts’ manual threat-response work from days to minutes as Google Cloud pushes SecOps towards an autonomous SOC.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/exclusive-google-cloud-on-the-road-to-autonomous-secops"
+        },
+        {
+            "text": "ABOUT SHADOW IT\nNetskope's Tony Burnside - visibility is key to AI security\n\nAI tools are creating hidden east-west traffic that security teams struggle to monitor, raising the risk of data leakage and compromise.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/netskope-s-tony-burnside-visibility-is-key-to-ai-security"
+        },
+        {
+            "text": "ABOUT HACKERS\nTrendAI: Evolving the cybersecurity value proposition\n\nNew research shows two-thirds of Australian business and IT leaders feel pressured to approve AI projects while overlooking security risks.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/trendai-evolving-the-cybersecurity-value-proposition"
+        },
+        {
+            "text": "ABOUT CHIEF INFORMATION SECURITY OFFICER\nConsolidation Wave Hits Infosec, Sparing CISOs From Tool Sprawl\n\nOverwhelmed CISOs are driving a consolidation wave in cybersecurity, slashing tool sprawl to close security gaps and cut mounting costs.\n\nTue, 3rd Mar 2026",
+            "href": "https://securitybrief.com.au/story/consolidation-wave-hits-infosec-sparing-cisos-from-tool-sprawl"
+        },
+        {
+            "text": "A long time ago in a galaxy far, far away…Cybersecurity was already hard\n\nBy Justin Carter",
+            "href": "https://securitybrief.com.au/story/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard"
+        },
+        {
+            "text": "Virtual vs. physical firewalls: A practical guide for modern networks\n\nBy Leelin Thye and Lokesh Kannaiyan of SonicWall",
+            "href": "https://securitybrief.com.au/story/virtual-vs-physical-firewalls-a-practical-guide-for-modern-networks"
+        },
+        {
+            "text": "The Death of the Firewall\n\nBy Chandrodaya Prasad of SonicWall",
+            "href": "https://itbrief.com.au/story/the-death-of-the-firewall"
+        },
+        {
+            "text": "Stolen credentials don't have to mean a breach\n\nBy Jerome Lowe of SonicWall",
+            "href": "https://securitybrief.com.au/story/stolen-credentials-don-t-have-to-mean-a-breach"
+        },
+        {
+            "text": "One click can trigger a breach, but security can stop it\n\nBy Jerome Lowe of SonicWall",
+            "href": "https://securitybrief.com.au/story/one-click-can-trigger-a-breach-but-security-can-stop-it"
+        },
+        {
+            "text": "Global real estate company strengthens MFA security with Inde\n\nBy Lisa Pfahlert of Inde",
+            "href": "https://securitybrief.com.au/story/global-real-estate-company-strengthens-mfa-security-with-inde"
+        },
+        {
+            "text": "VPN vulnerabilities don't have to become breaches\n\nBy Jerome Lowe of SonicWall",
+            "href": "https://securitybrief.com.au/story/vpn-vulnerabilities-don-t-have-to-become-breaches"
+        },
+        {
+            "text": "How MH Enterprise turns trust into cybersecurity success\n\nBy Gaëlle Perrin of SonicWall",
+            "href": "https://securitybrief.com.au/story/how-mh-enterprise-turns-trust-into-cybersecurity-success"
+        },
+        {
+            "text": "Mythos changes everything: Is your AI agent security ready?\n\nBy Dev Rishi of Rubrik",
+            "href": "https://securitybrief.com.au/story/mythos-changes-everything-is-your-ai-agent-security-ready"
+        },
+        {
+            "text": "Building security outcomes for small businesses: Why breaches persist despite available tools\n\nBy Debasish Mukherjee of SonicWall",
+            "href": "https://securitybrief.com.au/story/building-security-outcomes-for-small-businesses-why-breaches-persist-despite-available-tools"
+        },
+        {
+            "text": "HPE assisting IT teams navigate complex challenges\n\nDiscussing Breach Prevention",
+            "href": "https://securitybrief.com.au/story/hpe-assisting-it-teams-navigate-complex-challenges"
+        },
+        {
+            "text": "Exclusive: Arctic Wolf builds out agentic security\n\nDiscussing Data Protection",
+            "href": "https://securitybrief.com.au/story/exclusive-arctic-wolf-builds-out-agentic-security"
+        },
+        {
+            "text": "Yubico well-prepared for post-quantum computing threats\n\nDiscussing Data Protection",
+            "href": "https://securitybrief.com.au/story/yubico-well-prepared-for-post-quantum-computing-threats"
+        },
+        {
+            "text": "Upwind Expands to Sydney: Real Time Cloud Security for APJ\n\nDiscussing Chief Information Security Officer",
+            "href": "https://itbrief.com.au/story/upwind-expands-to-sydney-real-time-cloud-security-for-apj"
+        },
+        {
+            "text": "AI agents multiply risk, says DigiCert chief product officer\n\nDiscussing Malware",
+            "href": "https://securitybrief.com.au/story/ai-agents-multiply-risk-says-digicert-chief-product-officer"
+        },
+        {
+            "text": "DATA PROTECTION\nExclusive: Arctic Wolf builds out agentic security\n\nArctic Wolf expands its Agentic SOC as AI speeds attacks and shadow AI risks, with President, Technology and Services Dan Schiappa backing human oversight.\n\nThis month",
+            "href": "https://securitybrief.com.au/story/exclusive-arctic-wolf-builds-out-agentic-security"
+        },
+        {
+            "text": "RANSOMWARE\nExperts warn passwords no longer sufficient in AI era\n\nAustralian firms are being urged to adopt passwordless logins as AI tools and data leakage make stolen credentials easier to exploit.\n\nThis month",
+            "href": "https://securitybrief.com.au/story/experts-warn-passwords-no-longer-sufficient-in-ai-era"
+        },
+        {
+            "text": "DATA PROTECTION\nVocus & Fortinet launch Secure Shield for AI oversight\n\nIt aims to curb staff data leaks into public AI tools by giving Australian employers visibility and controls over what workers share.\n\nThis month",
+            "href": "https://telconews.com.au/story/vocus-fortinet-launch-secure-shield-for-ai-oversight"
+        },
+        {
+            "text": "HYBRID CLOUD\nBeyondTrust expands identity security insights to Australia\n\nLocal firms in regulated sectors can now keep identity security data onshore as scrutiny over machine and AI access intensifies.\n\nThis month",
+            "href": "https://securitybrief.com.au/story/beyondtrust-expands-identity-security-insights-to-australia"
+        },
+        {
+            "text": "DATA PROTECTION\nNearly half of Australian firms hit by AI incidents\n\nMost Australian security teams lack confidence their controls can spot a compromised AI system, even as firms push assistants beyond pilots.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/nearly-half-of-australian-firms-hit-by-ai-incidents"
+        },
+        {
+            "text": "DATA PROTECTION\nMacquarie Government appoints Dr Chris Peiris for Azure\n\nPublic sector agencies facing tighter cyber scrutiny may gain stronger Azure support as Macquarie Government expands its Microsoft security push.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/macquarie-government-appoints-dr-chris-peiris-for-azure"
+        },
+        {
+            "text": "DATA PROTECTION\nMelbourne to host combined cyber security conferences\n\nMore than 500 senior leaders will gather in Melbourne next July as cyber risk, AI and resilience pressures push security teams to align.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/melbourne-to-host-combined-cyber-security-conferences"
+        },
+        {
+            "text": "CLOUD SERVICES\nTAL expands Microsoft deal in biggest tech pact yet\n\nThe insurer will use cloud and AI tools to cut claims admin and speed up customer service under a five-year agreement with Microsoft.\n\nLast month",
+            "href": "https://channellife.com.au/story/tal-expands-microsoft-deal-in-biggest-tech-pact-yet"
+        },
+        {
+            "text": "DATA BREACH\nOrro launches AI CTEM service for Australian firms\n\nAustralian security teams are under pressure to prioritise fixes as attacks surge and exploited vulnerabilities can now be used within five days.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/orro-launches-ai-ctem-service-for-australian-firms"
+        },
+        {
+            "text": "CLOUD SERVICES\nCheck Point launches Perth data residency SASE site\n\nWestern Australian enterprises and agencies can now keep SASE traffic local, easing compliance and latency concerns under tighter data rules.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/check-point-launches-perth-data-residency-sase-site"
+        },
+        {
+            "text": "FIREWALLS\nAttackers shift upstream into Australia's network edge\n\nCritical infrastructure and cloud operators face harder-to-detect attacks as criminals turn routers, VPN gateways and IoT kit into proxies.\n\nLast month",
+            "href": "https://telconews.com.au/story/attackers-shift-upstream-into-australia-s-network-edge"
+        },
+        {
+            "text": "MALWARE\nVulnetix named Australia's first global CVE authority\n\nAustralian developers can now access free vulnerability tools as Vulnetix takes a formal role in global software flaw tracking.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/vulnetix-named-australia-s-first-global-cve-authority"
+        },
+        {
+            "text": "CLOUD SERVICES\nAvocado warns on code repository supply chain attacks\n\nAustralian organisations face fresh risk of cloud and identity compromise as the cyber watchdog reissues its alert on repository attacks.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/avocado-warns-on-code-repository-supply-chain-attacks"
+        },
+        {
+            "text": "CLOUD SERVICES\nAustralian firms warned over AI & cloud cyber risks\n\nGrowing use of cloud services and AI is widening cyber exposure for Australian businesses and households as security controls lag behind.\n\nLast month",
+            "href": "https://itbrief.com.au/story/australian-firms-warned-over-ai-cloud-cyber-risks"
+        },
+        {
+            "text": "DATA PROTECTION\nMacquarie wins Netskope APJ managed services award\n\nThe deal underlines rising demand for bundled cloud security as Australian agencies and businesses face tighter compliance and AI-related data risks.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/macquarie-wins-netskope-apj-managed-services-award"
+        },
+        {
+            "text": "IT SERVICES\nAssetsaas.io uses Check Point to fix email deliverability\n\nImproved inbox placement has become a sales hook for the Melbourne managed services provider after misconfigured emails caused bounces and poor reputation.\n\nTue, 31st Mar 2026",
+            "href": "https://securitybrief.com.au/story/assetsaas-io-uses-check-point-to-fix-email-deliverability"
+        },
+        {
+            "text": "CLOUD SERVICES\nCellebrite seeks IRAP review for Guardian cloud tool\n\nCellebrite has submitted its Guardian cloud evidence platform for IRAP assessment, targeting stricter use by Australian security agencies.\n\nThu, 19th Mar 2026",
+            "href": "https://securitybrief.com.au/story/cellebrite-seeks-irap-review-for-guardian-cloud-tool"
+        },
+        {
+            "text": "SECURITY OPERATIONS CENTRES\nIngram Micro warns MSPs on AI-era information risks\n\nIngram Micro warns MSPs that generative AI is shifting cyber risk to the information layer, demanding new focus on data use and governance.\n\nMon, 16th Mar 2026",
+            "href": "https://securitybrief.com.au/story/ingram-micro-warns-msps-on-ai-era-information-risks"
+        },
+        {
+            "text": "SOCIAL MEDIA\nMaking cyber threat intelligence work: closing the intelligence paradox\n\nBusinesses must turn generic cyber threat data into tailored, actionable intelligence or risk paying more for security that feels no safer.\n\nWed, 11th Mar 2026",
+            "href": "https://securitybrief.com.au/story/making-cyber-threat-intelligence-work-closing-the-intelligence-paradox"
+        },
+        {
+            "text": "CLOUD SERVICES\nBitdefender warns of AI 'vibeware' targeting India\n\nBitdefender flags AI-powered 'vibeware' malware blitz hitting Indian government targets, using niche languages to overwhelm defences.\n\nFri, 6th Mar 2026",
+            "href": "https://securitybrief.com.au/story/bitdefender-warns-of-ai-vibeware-targeting-india"
+        },
+        {
+            "text": "Macquarie Government appoints Dr Chris Peiris for Azure\n\nMove at Microsoft",
+            "href": "https://securitybrief.com.au/story/macquarie-government-appoints-dr-chris-peiris-for-azure"
+        },
+        {
+            "text": "Australian Data Centres appoints trio of executives for expansion\n\nMove at Microsoft",
+            "href": "https://channellife.com.au/story/australian-data-centres-appoints-trio-of-executives-for-expansion"
+        },
+        {
+            "text": "Exabeam appoints Patrick Ibrahim to lead regional sales in Australia\n\nMove at Cisco",
+            "href": "https://channellife.com.au/story/exabeam-appoints-patrick-ibrahim-to-lead-regional-sales-in-australia"
+        },
+        {
+            "text": "AUCloud appoints Samantha Maher as head of government relations\n\nMove at AUCloud",
+            "href": "https://itbrief.com.au/story/aucloud-appoints-samantha-maher-as-head-of-government-relations"
+        },
+        {
+            "text": "Netskope appoints Daniel Fouladi as APAC Sales Manager\n\nMove at Netskope",
+            "href": "https://itbrief.com.au/story/netskope-appoints-daniel-fouladi-as-apac-sales-manager"
+        },
+        {
+            "text": "PwC appoints Kristin Stubbins & Liz O'Brien as Assurance leader & Audit business leader\n\nMove at Application Security",
+            "href": "https://itbrief.com.au/story/pwc-appoints-kristin-stubbins-and-liz-o-brien-as-assurance-leader-and-audit-business-leader"
+        },
+        {
+            "text": "LastPass appoints Karim Toubba as CEO\n\nMove at LogMeIn",
+            "href": "https://itbrief.com.au/story/lastpass-appoints-karim-toubba-as-ceo"
+        },
+        {
+            "text": "Application Security",
+            "href": "https://securitybrief.com.au/tag/application-security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://securitybrief.com.au/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://securitybrief.com.au/tag/amazon-web-services"
+        },
+        {
+            "text": "Google Cloud",
+            "href": "https://securitybrief.com.au/tag/google-cloud"
+        },
+        {
+            "text": "GRC",
+            "href": "https://securitybrief.com.au/tag/grc"
+        },
+        {
+            "text": "Cybersecurity\n→",
+            "href": "https://securitybrief.com.au/tag/cybersecurity"
+        },
+        {
+            "text": "Artificial Intelligence\n→",
+            "href": "https://securitybrief.com.au/tag/artificial-intelligence"
+        },
+        {
+            "text": "Risk & Compliance\n→",
+            "href": "https://securitybrief.com.au/tag/risk-compliance"
+        },
+        {
+            "text": "Breach Prevention\n→",
+            "href": "https://securitybrief.com.au/tag/breach-prevention"
+        },
+        {
+            "text": "Advanced Persistent Threat Protection\n→",
+            "href": "https://securitybrief.com.au/tag/advanced-persistent-threat-protection"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://securitybrief.com.au/contact-us"
+        },
+        {
+            "text": "",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "GET THE LATEST FROM\nSecurityBrief Australia\nSUBSCRIBE",
+            "href": "https://securitybrief.com.au/subscribe"
+        },
+        {
+            "text": "FOLLOW US ON\nLinkedIn",
+            "href": "https://www.linkedin.com/company/techday-australia"
+        },
+        {
+            "text": "FOLLOW US ON\nX",
+            "href": "https://x.com/techday_au"
+        },
+        {
+            "text": "",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://cfotech.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://channellife.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://ecommercenews.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://futurefive.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://telconews.com.au/media-kit"
+        },
+        {
+            "text": "Asia",
+            "href": "https://techday.asia/"
+        },
+        {
+            "text": "Canada",
+            "href": "https://techdayca.com/"
+        },
+        {
+            "text": "India",
+            "href": "https://techday.in/"
+        },
+        {
+            "text": "Ireland",
+            "href": "https://techday.ie/"
+        },
+        {
+            "text": "New Zealand",
+            "href": "https://techday.co.nz/"
+        },
+        {
+            "text": "United Kingdom",
+            "href": "https://techday.co.uk/"
+        },
+        {
+            "text": "United States",
+            "href": "https://techday.com/"
+        },
+        {
+            "text": "Brand guidelines",
+            "href": "https://securitybrief.com.au/brand-guidelines"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://securitybrief.com.au/contact-us"
+        },
+        {
+            "text": "Editorial Calendar",
+            "href": "https://securitybrief.com.au/editorial-calendar"
+        },
+        {
+            "text": "Editorial standards",
+            "href": "https://securitybrief.com.au/editorial-standards"
+        },
+        {
+            "text": "FAQs",
+            "href": "https://securitybrief.com.au/tag/frequently-asked-questions"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "Our team",
+            "href": "https://securitybrief.com.au/our-team"
+        },
+        {
+            "text": "Our terms",
+            "href": "https://securitybrief.com.au/our-terms"
+        },
+        {
+            "text": "YOUTUBE",
+            "href": "https://www.youtube.com/@techdaynetwork"
+        },
+        {
+            "text": "RSS",
+            "href": "https://securitybrief.com.au/feed"
+        },
+        {
+            "text": "Plan B's Cloud Services",
+            "href": "https://www.planb.co.nz/tech-services/cloud-services/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        },
+        {
+            "text": "PowerDMARC",
+            "href": "https://powerdmarc.com/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        }
+    ],
+    "text_length": 14814,
+    "text_full": "SecurityBrief Australia - Technology news for CISOs & cybersecurity decision-makers\nAUSTRALIA\nPOWERED BY\nGUIDES\nCloud Security\nCybersecurity\nEndpoint Protection\nFirewalls\nRansomware\nAUSTRALIAN EDITION · 2026\nThe Ultimate Guide to\nCloud Security\n\nA curated Australian edition of TechDay news, analysis, interviews, reviews, job moves, and related resources for Cloud Security.\n\nUpdated continuously from TechDay's regional network.\n\nLAST UPDATED:\n\nThu, 21st May 2026 (Today)\n\nWhat to know about Cloud Security\n\nCloud security encompasses the technologies, policies, controls, and services that protect cloud computing environments, data, applications, and infrastructure from cyber threats. As businesses increasingly adopt cloud platforms for scalability and flexibility, securing these environments has become critical to safeguard sensitive data and maintain compliance.\n\nThe recent stories highlight a dynamic landscape marked by advancements in privileged access controls, zero trust architectures, AI-driven threat detection, and collaborations among leading cybersecurity firms. Readers will find insights into emerging threats such as ransomware targeting cloud workloads, the rise of generative AI increasing security risks, and the importance of integrating multi-cloud security tools.\n\nBy exploring these developments, readers can learn best practices for cloud server privilege management, understand challenges in hybrid and multicloud deployments, and discover how innovations in AI and automation are shaping the future of cloud security. This collection also emphasizes the significance of visibility, control, and identity management in mitigating evolving threats within cloud environments.\n\nWhether you are looking to enhance your organization's cloud security posture or seeking to stay informed on the latest trends and technologies, this tag provides valuable perspectives and actionable strategies to navigate the complexities of modern cloud security.\n\nAustralian News\nAnalyst Insights\nFeatured News\nExpert Columns\nInterviews\nRecent News\nJob Moves\nAUSTRALIAN CLOUD SECURITY NEWS\nRegional stories with direct local relevance\nSOFTWARE UPDATES\nAustralian businesses warned over ClickFix attacks\n\nMany small firms cannot block the attack with email or antivirus tools because it tricks staff into running malicious commands themselves.\n\nPUBLIC SECTOR\nAustralian firms lag on post-quantum crypto readiness\n\nOnly 11% of organisations are confident they can meet post-quantum deadlines, as legacy systems and tight budgets slow Australian preparations.\n\nCLOUD SERVICES\nSnowflake wins IRAP approval in Google Cloud Melbourne\n\nAustralian government agencies can now use Snowflake on Google Cloud in Melbourne for PROTECTED workloads, broadening cloud choice and assurance.\n\nCLOUD SERVICES\nAustralia tightens data centre scrutiny amid AI boom\n\nAustralia tightens data centre approvals as governments weigh AI power, water and jobs against AUD $51.9 billion of NSW pipeline projects.\n\nBRING YOUR OWN DEVICE\nArctic Wolf unveils exposure management for AI-driven risks\n\nBusinesses face faster-growing exposure risks as the security firm widens its portfolio with tools for vulnerabilities, mobile threats and patching.\n\nCLOUD SERVICES\nAustralian cloud spending to hit AUD $33.6bn in 2026\n\nAI workloads and cost controls are set to push Australian public cloud spending up 17.9% to AUD $33.6 billion in 2026.\n\nAnalyst Insights\nResearch and market analysis connected to Cloud Security\nANALYST\nSaviynt named leader in four KuppingerCole reviews\n\nKuppingerCole · Cloud Security · PAM\n\nANALYST\nBeyondTrust named leader in KuppingerCole PAM report\n\nKuppingerCole · Cloud Security · IT Department\n\nANALYST\nGovernments eye agentic AI as security worries persist\n\nIDC · Cloud Security · Data Analytics\n\nANALYST\nDocuWare named a challenger in Gartner document review\n\nGartner · Cloud Security · SMB\n\nANALYST\nAustralian cloud spending to hit AUD $33.6bn in 2026\n\nGartner · Cloud Security · IT Industry\n\nFeatured News\nABOUT BREACH PREVENTION\nHPE assisting IT teams navigate complex challenges\n\nHPE Networking says AI, zero trust and SASE are reshaping network security as remote work and connected devices make threats harder to control.\n\nLast week\n\nABOUT DATA PROTECTION\nExclusive: Arctic Wolf builds out agentic security\n\nArctic Wolf expands its Agentic SOC as AI speeds attacks and shadow AI risks, with President, Technology and Services Dan Schiappa backing human oversight.\n\nThis month\n\nABOUT DATA PROTECTION\nYubico well-prepared for post-quantum computing threats\n\nBusinesses are racing to upgrade defences as Yubico says quantum computers could expose banking, health data and other records within years.\n\nThis month\n\nABOUT CHIEF INFORMATION SECURITY OFFICER\nUpwind Expands to Sydney: Real Time Cloud Security for APJ\n\nThe Sydney move follows a USD $250 million funding round as the cloud security firm bets on real-time protection for fast-growing AI workloads.\n\nThis month\n\nABOUT MALWARE\nAI agents multiply risk, says DigiCert chief product officer\n\nMany firms cannot see where their AI agents are, leaving identity, policy and supply-chain risks to grow as deployments scale.\n\nLast month\n\nABOUT DIGITAL TRANSFORMATION\nGoogle Cloud CEO sets out enterprise AI agent plan\n\nEnterprises will get one place to build, govern and run AI agents, as Google Cloud expands Gemini Enterprise across models, data and security.\n\nLast month\n\nABOUT PRODUCTIVITY\nGoogle flags urgency as AI reshapes cyber threats\n\nPatching delays now carry greater risk as Google says AI is helping attackers scale intrusions, speed up breaches and automate operations.\n\nLast month\n\nABOUT PRODUCTIVITY\nExclusive: Google Cloud reshaping finance with agentic AI\n\nBanks must move beyond isolated pilots if they want agentic AI to deliver enterprise-wide gains, Google Cloud says.\n\nLast month\n\nABOUT THREAT INTELLIGENCE\nExclusive: Google Cloud on the road to autonomous SecOps\n\nThe new tools could cut analysts’ manual threat-response work from days to minutes as Google Cloud pushes SecOps towards an autonomous SOC.\n\nLast month\n\nABOUT SHADOW IT\nNetskope's Tony Burnside - visibility is key to AI security\n\nAI tools are creating hidden east-west traffic that security teams struggle to monitor, raising the risk of data leakage and compromise.\n\nLast month\n\nABOUT HACKERS\nTrendAI: Evolving the cybersecurity value proposition\n\nNew research shows two-thirds of Australian business and IT leaders feel pressured to approve AI projects while overlooking security risks.\n\nLast month\n\nABOUT CHIEF INFORMATION SECURITY OFFICER\nConsolidation Wave Hits Infosec, Sparing CISOs From Tool Sprawl\n\nOverwhelmed CISOs are driving a consolidation wave in cybersecurity, slashing tool sprawl to close security gaps and cut mounting costs.\n\nTue, 3rd Mar 2026\n\nExpert Columns\nA long time ago in a galaxy far, far away…Cybersecurity was already hard\n\nBy Justin Carter\n\nVirtual vs. physical firewalls: A practical guide for modern networks\n\nBy Leelin Thye and Lokesh Kannaiyan of SonicWall\n\nThe Death of the Firewall\n\nBy Chandrodaya Prasad of SonicWall\n\nStolen credentials don't have to mean a breach\n\nBy Jerome Lowe of SonicWall\n\nOne click can trigger a breach, but security can stop it\n\nBy Jerome Lowe of SonicWall\n\nGlobal real estate company strengthens MFA security with Inde\n\nBy Lisa Pfahlert of Inde\n\nVPN vulnerabilities don't have to become breaches\n\nBy Jerome Lowe of SonicWall\n\nHow MH Enterprise turns trust into cybersecurity success\n\nBy Gaëlle Perrin of SonicWall\n\nMythos changes everything: Is your AI agent security ready?\n\nBy Dev Rishi of Rubrik\n\nBuilding security outcomes for small businesses: Why breaches persist despite available tools\n\nBy Debasish Mukherjee of SonicWall\n\nInterviews\nInterviews and video coverage from the network\nHPE assisting IT teams navigate complex challenges\n\nDiscussing Breach Prevention\n\nExclusive: Arctic Wolf builds out agentic security\n\nDiscussing Data Protection\n\nYubico well-prepared for post-quantum computing threats\n\nDiscussing Data Protection\n\nUpwind Expands to Sydney: Real Time Cloud Security for APJ\n\nDiscussing Chief Information Security Officer\n\nAI agents multiply risk, says DigiCert chief product officer\n\nDiscussing Malware\n\nRecent Cloud Security News\nDATA PROTECTION\nExclusive: Arctic Wolf builds out agentic security\n\nArctic Wolf expands its Agentic SOC as AI speeds attacks and shadow AI risks, with President, Technology and Services Dan Schiappa backing human oversight.\n\nThis month\n\nRANSOMWARE\nExperts warn passwords no longer sufficient in AI era\n\nAustralian firms are being urged to adopt passwordless logins as AI tools and data leakage make stolen credentials easier to exploit.\n\nThis month\n\nDATA PROTECTION\nVocus & Fortinet launch Secure Shield for AI oversight\n\nIt aims to curb staff data leaks into public AI tools by giving Australian employers visibility and controls over what workers share.\n\nThis month\n\nHYBRID CLOUD\nBeyondTrust expands identity security insights to Australia\n\nLocal firms in regulated sectors can now keep identity security data onshore as scrutiny over machine and AI access intensifies.\n\nThis month\n\nDATA PROTECTION\nNearly half of Australian firms hit by AI incidents\n\nMost Australian security teams lack confidence their controls can spot a compromised AI system, even as firms push assistants beyond pilots.\n\nLast month\n\nDATA PROTECTION\nMacquarie Government appoints Dr Chris Peiris for Azure\n\nPublic sector agencies facing tighter cyber scrutiny may gain stronger Azure support as Macquarie Government expands its Microsoft security push.\n\nLast month\n\nDATA PROTECTION\nMelbourne to host combined cyber security conferences\n\nMore than 500 senior leaders will gather in Melbourne next July as cyber risk, AI and resilience pressures push security teams to align.\n\nLast month\n\nCLOUD SERVICES\nTAL expands Microsoft deal in biggest tech pact yet\n\nThe insurer will use cloud and AI tools to cut claims admin and speed up customer service under a five-year agreement with Microsoft.\n\nLast month\n\nDATA BREACH\nOrro launches AI CTEM service for Australian firms\n\nAustralian security teams are under pressure to prioritise fixes as attacks surge and exploited vulnerabilities can now be used within five days.\n\nLast month\n\nCLOUD SERVICES\nCheck Point launches Perth data residency SASE site\n\nWestern Australian enterprises and agencies can now keep SASE traffic local, easing compliance and latency concerns under tighter data rules.\n\nLast month\n\nFIREWALLS\nAttackers shift upstream into Australia's network edge\n\nCritical infrastructure and cloud operators face harder-to-detect attacks as criminals turn routers, VPN gateways and IoT kit into proxies.\n\nLast month\n\nMALWARE\nVulnetix named Australia's first global CVE authority\n\nAustralian developers can now access free vulnerability tools as Vulnetix takes a formal role in global software flaw tracking.\n\nLast month\n\nCLOUD SERVICES\nAvocado warns on code repository supply chain attacks\n\nAustralian organisations face fresh risk of cloud and identity compromise as the cyber watchdog reissues its alert on repository attacks.\n\nLast month\n\nCLOUD SERVICES\nAustralian firms warned over AI & cloud cyber risks\n\nGrowing use of cloud services and AI is widening cyber exposure for Australian businesses and households as security controls lag behind.\n\nLast month\n\nDATA PROTECTION\nMacquarie wins Netskope APJ managed services award\n\nThe deal underlines rising demand for bundled cloud security as Australian agencies and businesses face tighter compliance and AI-related data risks.\n\nLast month\n\nIT SERVICES\nAssetsaas.io uses Check Point to fix email deliverability\n\nImproved inbox placement has become a sales hook for the Melbourne managed services provider after misconfigured emails caused bounces and poor reputation.\n\nTue, 31st Mar 2026\n\nCLOUD SERVICES\nCellebrite seeks IRAP review for Guardian cloud tool\n\nCellebrite has submitted its Guardian cloud evidence platform for IRAP assessment, targeting stricter use by Australian security agencies.\n\nThu, 19th Mar 2026\n\nSECURITY OPERATIONS CENTRES\nIngram Micro warns MSPs on AI-era information risks\n\nIngram Micro warns MSPs that generative AI is shifting cyber risk to the information layer, demanding new focus on data use and governance.\n\nMon, 16th Mar 2026\n\nSOCIAL MEDIA\nMaking cyber threat intelligence work: closing the intelligence paradox\n\nBusinesses must turn generic cyber threat data into tailored, actionable intelligence or risk paying more for security that feels no safer.\n\nWed, 11th Mar 2026\n\nCLOUD SERVICES\nBitdefender warns of AI 'vibeware' targeting India\n\nBitdefender flags AI-powered 'vibeware' malware blitz hitting Indian government targets, using niche languages to overwhelm defences.\n\nFri, 6th Mar 2026\n\nJob Moves\nMacquarie Government appoints Dr Chris Peiris for Azure\n\nMove at Microsoft\n\nAustralian Data Centres appoints trio of executives for expansion\n\nMove at Microsoft\n\nExabeam appoints Patrick Ibrahim to lead regional sales in Australia\n\nMove at Cisco\n\nAUCloud appoints Samantha Maher as head of government relations\n\nMove at AUCloud\n\nNetskope appoints Daniel Fouladi as APAC Sales Manager\n\nMove at Netskope\n\nPwC appoints Kristin Stubbins & Liz O'Brien as Assurance leader & Audit business leader\n\nMove at Application Security\n\nLastPass appoints Karim Toubba as CEO\n\nMove at LogMeIn\n\nTop Players\nApplication Security\nMicrosoft\nAWS\nGoogle Cloud\nGRC\nRelated Guides\nCybersecurity\n→\nArtificial Intelligence\n→\nRisk & Compliance\n→\nBreach Prevention\n→\nAdvanced Persistent Threat Protection\n→\nGet featured\n\nTalk to the TechDay team about editorial feature opportunities across the network\n\nContact us\n61 specialist tech sites.\n8 regions. One network.\n678,397\nPUBLISHED STORIES\n7\nAUSTRALIAN SITES\nHuman\nPOWERED\n20th\nyear of business\nGET THE LATEST FROM\nSecurityBrief Australia\nSUBSCRIBE\nFOLLOW US ON\nLinkedIn\nFOLLOW US ON\nX\nAUSTRALIAN\nFinTech\n\nTechnology news for CFOs & financial decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nIndustry\n\nIndustry insider news for technology resellers\n\nVisit\nMedia kit\nAUSTRALIAN\nCommerce\n\nTechnology news for digital commerce decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nConsumer tech\n\nConsumer technology news from the future\n\nVisit\nMedia kit\nAUSTRALIAN\nEnterprise\n\nTechnology news for CIOs & IT decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nCybersecurity\n\nTechnology news for CISOs & cybersecurity decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nTelecomms\n\nTelecommunications news for ICT decision-makers\n\nVisit\nMedia kit\nExplore other regions\nAsia\nCanada\nIndia\nIreland\nNew Zealand\nUnited Kingdom\nUnited States\nBrand guidelines\nContact us\nEditorial Calendar\nEditorial standards\nFAQs\nMedia kit\nOur team\nOur terms\nYOUTUBE\nRSS\n© 2026 TechDay, All rights reserved. Hosted on Plan B's Cloud Services. DMARC protection by PowerDMARC."
+}

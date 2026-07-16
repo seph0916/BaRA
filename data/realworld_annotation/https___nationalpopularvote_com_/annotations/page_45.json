@@ -1,0 +1,840 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://www.nationalpopularvote.com/sites/all/themes/npv/logo.png",
+        "https://www.nationalpopularvote.com/sites/default/files/202304/roll-call-final-passing-sf1362-34-yea-and-33-nay-2023-4-26.png",
+        "https://www.nationalpopularvote.com/sites/default/files/vote-tally-board-hf1830-final-passage-2023-4-18.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/202302/minn-sen-el-comm.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 206,
+    "links": [
+        {
+            "text": "Search",
+            "href": "https://www.nationalpopularvote.com/search"
+        },
+        {
+            "text": "",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "DONATE",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/mn#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/mn#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/mn#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Books",
+            "href": "https://www.nationalpopularvote.com/books"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Donate",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Electoral College",
+            "href": "https://www.nationalpopularvote.com/electoral-college"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Get Email Updates",
+            "href": "https://www.nationalpopularvote.com/get-email-updates"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Map",
+            "href": "https://www.nationalpopularvote.com/state-status"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/mn#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "News History",
+            "href": "https://www.nationalpopularvote.com/news-history"
+        },
+        {
+            "text": "News Stories",
+            "href": "https://www.nationalpopularvote.com/news"
+        },
+        {
+            "text": "Newsletters",
+            "href": "https://www.nationalpopularvote.com/newsletters"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "Store",
+            "href": "https://www.zazzle.com/store/nationalpopularvote"
+        },
+        {
+            "text": "Text and Explanation of Bill",
+            "href": "https://www.nationalpopularvote.com/bill-text"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/state/mn#"
+        },
+        {
+            "text": "Introduction: What It Is - Why It's Needed",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Myths About Big Cities",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-2"
+        },
+        {
+            "text": "Myths About Small States",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-3"
+        },
+        {
+            "text": "Myths About Fraud",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-4"
+        },
+        {
+            "text": "Myths About Constitutionality",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-5"
+        },
+        {
+            "text": "Myths About Big States and Big Counties",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-6"
+        },
+        {
+            "text": "Myths About Post Election Rule Changes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-7"
+        },
+        {
+            "text": "Myths About Interstate Compacts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-8"
+        },
+        {
+            "text": "Myths About Faithless Electors",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-9"
+        },
+        {
+            "text": "Myths About 15% Presidents",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-10"
+        },
+        {
+            "text": "Myths about Missing Votes and Hurricanes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-11"
+        },
+        {
+            "text": "Myths About Single-State Veto (Achilles’ Heel)",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-12"
+        },
+        {
+            "text": "Myths About Recounts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-13"
+        },
+        {
+            "text": "Myths About Missing Vote Counts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-14"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Write Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        },
+        {
+            "text": "Ask your Minnesota state legislators",
+            "href": "http://www.national-popular-vote.com/Campaign/MN/MN0"
+        },
+        {
+            "text": "Send letter-to-the-editors to Minnesota newspapers",
+            "href": "https://www.nationalpopularvote.com/writing-letter-editor-minnesota"
+        },
+        {
+            "text": "National Popular Vote's Facebook page",
+            "href": "https://www.facebook.com/nationalpopularvoteinc"
+        },
+        {
+            "text": "National Popular Vote Twitter page",
+            "href": "https://twitter.com/natlpopularvote"
+        },
+        {
+            "text": "status of HF898",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0898&ssn=0&y=2025"
+        },
+        {
+            "text": "status of SF682",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF0682&ssn=0&y=2025"
+        },
+        {
+            "text": "status of SF720",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF0720&ssn=0&y=2025"
+        },
+        {
+            "text": "status of HF1830",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=HF1830&ssn=0&y=2023"
+        },
+        {
+            "text": "Minnesota lawmakers bring national popular vote one step closer to reality",
+            "href": "https://www.kimt.com/news/minnesota/minnesota-lawmakers-bring-national-popular-vote-one-step-closer-to-reality/article_7efe0a3f-2a7f-59a7-a22e-a75225872873.html"
+        },
+        {
+            "text": "status of HF1830",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=HF1830&ssn=0&y=2023"
+        },
+        {
+            "text": "status of SF1362",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?f=SF1362&b=senate&y=2023&ssn=0"
+        },
+        {
+            "text": "status of SF538",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=senate&f=SF538&ssn=0&y=2023"
+        },
+        {
+            "text": "status of HF1830",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1830&ssn=0&y=2023"
+        },
+        {
+            "text": "status of HF642",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0642&ssn=0&y=2023"
+        },
+        {
+            "text": "status of HF642",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0642&ssn=0&y=2023"
+        },
+        {
+            "text": "status of SF538",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=senate&f=SF538&ssn=0&y=2023"
+        },
+        {
+            "text": "Star Tribune article",
+            "href": "https://www.startribune.com/momentum-building-to-add-minnesota-to-national-popular-vote-compact/600249145/"
+        },
+        {
+            "text": "PDF",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/202302/shortcomings-of-current-system-minn-v3-2023-2-24.pdf"
+        },
+        {
+            "text": "status of SF538",
+            "href": "https://www.revisor.mn.gov/bills/text.php?number=SF538&version=latest&session=ls93&session_year=2023&session_number=0"
+        },
+        {
+            "text": "status of HF642",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0642&ssn=0&y=2023"
+        },
+        {
+            "text": "status of SF85",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF85&ssn=0&y=2021"
+        },
+        {
+            "text": "status of HF47",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF47&ssn=0&y=2021"
+        },
+        {
+            "text": "status of SF30",
+            "href": "https://www.revisor.mn.gov/bills/text.php?number=SF30&version=latest&session=ls92&session_year=2021&session_number=0"
+        },
+        {
+            "text": "status of SF18",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF18&ssn=0&y=2021"
+        },
+        {
+            "text": "status of HF192",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=house&f=HF192&ssn=0&y=2021"
+        },
+        {
+            "text": "HF1603",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1603&ssn=0&y=2019"
+        },
+        {
+            "text": "HF1941",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1941&ssn=0&y=2019"
+        },
+        {
+            "text": "status of SF 34",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF0034&ssn=0&y=2019"
+        },
+        {
+            "text": "status of SF 189",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF0189&ssn=0&y=2019"
+        },
+        {
+            "text": "HF2117",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?f=HF2117&b=house&y=2020&ssn=0"
+        },
+        {
+            "text": "SF 16",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF0016&ssn=0&y=2017"
+        },
+        {
+            "text": "Status of HF42",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0042&ssn=0&y=2017"
+        },
+        {
+            "text": "Status of HF44",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0044&ssn=0&y=2017"
+        },
+        {
+            "text": "Status of SF16",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF0016&ssn=0&y=2017"
+        },
+        {
+            "text": "Status of SF10",
+            "href": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF0010&ssn=0&y=2017"
+        },
+        {
+            "text": "Op-Ed in Minneapolis Star Tribune by Representatives Pat Garofalo and Steve Simon",
+            "href": "http://archive.nationalpopularvote.com/pages/op-eds/minnstartribune_20110523.php"
+        },
+        {
+            "text": "Prof. Larry Jacoband and Dr. John R. Koza discussion at Humphrey Institute",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/archive/HumphreyInstitute_NPV_20110524.wav"
+        },
+        {
+            "text": "West Central Tribune article on Emmer",
+            "href": "http://archive.nationalpopularvote.com/pages/articles/wcentraltribune_20110520.php"
+        },
+        {
+            "text": "HF 495",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/mn-hf495-2011.pdf"
+        },
+        {
+            "text": "SF 1241",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/mn-sf1241-2011.pdf"
+        },
+        {
+            "text": "HF 512",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/mn-hf0512-of-2009-simon.pdf"
+        },
+        {
+            "text": "Status of HF 512",
+            "href": "https://www.revisor.leg.state.mn.us/pages/doctypes/bills/bill.php?b=House&f=HF0512&ssn=0&y=0&ls=86"
+        },
+        {
+            "text": "SF 446",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/mn-sf-446-of-2009.pdf"
+        },
+        {
+            "text": "Status of SF 446",
+            "href": "https://www.revisor.leg.state.mn.us/pages/doctypes/bills/bill.php?b=Senate&f=SF0446&ssn=0&y=2009"
+        },
+        {
+            "text": "Minnesota poll results",
+            "href": "https://www.nationalpopularvote.com/polls#MN_2009JAN"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        }
+    ],
+    "text_length": 9929,
+    "text_full": "Toggle navigation\nSearch\nDONATE\nHome\n \nExplanation\n \nAnswering Myths\n \nVideos\n \nEmail Your Legislator\n \nLetter-to-Editor\n \nVolunteer\n \nMedia\n \nAbout\n \nEvents\n\nState status: AK AL AR AZ CA CO CT DC DE FL GA HI IA ID IL IN KS KY LA MA MD ME MI MN MO MS MT NC ND NE NH NJ NM NV NY OH OK OR PA RI SC SD TN TX UT VA VT WA WI WV WY\n\nMinnesota\nAsk your Minnesota state legislators to continue their support for the National Popular Vote law (and oppose attempts to repeal it)\nSend letter-to-the-editors to Minnesota newspapers\nNational Popular Vote's Facebook page\nNational Popular Vote Twitter page\n\nOn February 17, 2025, Representatives Krista Knudsen (R), Bobbie Harder (R), Roger Skraba (R), Ben Davis (R), Elliott Engen (R), Pam Altendorf (R), Terry Stier (R), and Marj Fogelman (R) introduced a bill to repeal the National Popular Vote law in Minnesota (status of HF898).  Senators Paul Utke (R) and Glenn Gruenhagen (R) introduced a companion bill (status of SF682). Senators Eric Lucero (R), Justin Eichorn (R), Senator Glenn Gruenhagen (R), Robert Farnsworth (R), Cal Bahr (R) introduced a similar bill (status of SF720).\n\nOn May 24, 2023, Minnesota Governor Tim Walz signed the National Popular Vote Interstate Compact into law -- making Minnesota the 17th jurisdiction to do so (status of HF1830).\n\nMinnesota lawmakers bring national popular vote one step closer to reality KIMT-TV\n\nOn May 19, 2023, the Minnesota House and Senate both passed the National Popular Vote Interstate Compact and sent the bill to Governor Tim Walz. The Compact was part of the Omnibus State Government and Elections Appropriations bill (status of HF1830) that was previously approved by a conference committee.  The final vote in the Senate on the omnibus bill was 34-31, and the final vote in the House was 69-62.\n\nOn April 26, 2023, the Minnesota Senate took a separate vote on whether to delete National Popular Vote from the omnibus elections policy bill, and the motion to delete failed 33-34.  Later in the day, the Senate passed the omnibus elections policy bill (of which the National Popular Vote Interstate Compact was a part) by a 34-33 vote (status of SF1362).  The Minnesota Senate thus became the 42nd state legislative chamber to pass the bill.  The Compact was a separate Senate bill in Minnesota at the time of its original public hearing and committee vote (status of SF538). \n\nOn April 18, 2023, the Minnesota House took a separate vote on whether to delete National Popular Vote from the omnibus election bill, and the motion to delete failed.  Later in the day, the Minnesota House passed the omnibus elections bill (of which the National Popular Vote Interstate Compact was a part) by a 70-59 vote (status of HF1830).  The Compact was a separate Senate bill at the time of its original public hearing and committee vote (status of HF642).  \n\nOn February 1, 2023, the Minnesota House Elections Finance and Policy Committee held a public hearing on the National Popular Vote bill, and approved the bill (status of HF642).  \n\nOn January 31, 2023, the Minnesota Senate Elections Committee held a public hearing on the National Popular Vote bill, and approved the bill (status of SF538). \n\nMomentum building to add Minnesota to National Popular Vote compact (Star Tribune article, February 4)\nThe National Popular Vote Bill Addresses the Shortcomings of the Current System of Electing the President (PDF)\n\nIn January 2023, Minnesota Senators John Hoffman, Ann Rest, Bobby Champion, Kari Dziedzic, and Robert J. Kupec sponsored the National Popular Vote bill in the Senate (status of SF538).  In the House, the bill is sponsored by Representatives Mike Freiberg, Kristin Bahner, Jamie Long, Larry Kraft, Emma Greenman, Brion Curran, Jeff Brand, Cedrick Frazier, Athena Hollins, Pat Garofalo, Amanda Hemmingsen-Jaeger, Andrew Smith, Liz Reyer, Peter Fischer, Samantha Sencer-Mura, and Frank Hornstein (status of HF642). \n\nMinnesota Senate Elections Committee hearing on January 31, 2023\n\nIn 2021, Senator Ann Rest introduced the National Popular Vote bill in the Minnesota Senate (status of SF85), and Senators Dziedzic and Marty co-sponsored that bill.  Representative Peter Fischer introduced the bill in the  House (status of HF47), and Representatives Freiberg, Stephenson, Jordan, and Bernardy co-sponsored that bill. Senators Wiger, Wiklund, McEwen, Putnam, and Kunesh introduced the bill in the Senate (status of SF30). Senators Ann Rest, Foung Hawj, Lindsey Port, Kari Dziedzic, and Jerry Newton introduced the National Popular Vote interstate compact in the form of a constitutional amendment (status of SF18). Representatives Freiberg, Stephenson, Bernardy, amd Lippert introduced the National Popular Vote interstate compact in the form of a constitutional amendment (status of HF192).\n\nOn April 30, 2019, the Minnesota House of Representatives passed an omnibus bill (HF1935DE1) containing the National Popular Vote interstate compact by a 73-58 vote.  The Minnesota House is the 39th state legislative chamber to have passed the National Popular Vote interstate compact.  The legislative history of the House passage is somewhat complicated and involved several different bill numbers.  There was a first omnibus bill (HF1603) mentioned below. The House actually passed a different House omnibus bill (HF1935DE1).  The Senate did not agree to the House-passed omnibus bill, and instead passed a bill of its own (SF2227) that to which the House did not agree.  The 2019 legislative session ended with no bill being enacted into law. \n\nOn April 3, 2019, a hearing was held on an omnibus election bill (status of HF1603) containing the National Popular Vote bill.\n\nIn March 2019, Representative John Lesch introduced the National Popular Vote bill into the Minnesota House (status of HF1941). \n\nIn January 2019, Senator Charles W. Wiger introduced the National Popular Vote bill into the Minnesota Senate (status of SF 34).  Also, Senators Rest and Wiger introduced a similar bill (status of SF 189). \n\nIn January 2019, Representatives Freiberg, Fischer, Lee, L. Carlson, and Huot introduced the National Popular Vote bill (status of HF2117).\n\nOn January 5, 2017, the National Popular Vote bill (SF 16) was introduced into the Minnesota Senate by Senators Ann Rest, David Dibble, Charles Wiger, and John Marty.\n\nIn January 2017, Representatives John Lesch, Pat Garofalo, Paul Rosenthal, Connie Bernardy, Alice Hausman, Sheldon Johnson, Frank Hornstein, Mike Freiberg, Linda Slocum, Leon Lillie, Peter Fischer introduced the National Populalr Vote bill (Status of HF42). Rep. Leon Lillie also introduced the bill into the House (Status of HF44).\n\nIn January 2017, Senators Ann Rest,  David Dibble,and Charles Wiger introduced the National Popular Vote bill (Status of SF16). Senator Charles Wiger also introduced the bill into the Senate (Status of SF10). \n\nOn February 28, 2013, the Elections Committee of the Minnesota House of Representatives approved the National Popular Vote bill (HF799). \n\nIn February 2013, the National Popular Vote bill (HF799) was introduced in the Minnesota House by Representatives Steve Simon, Pat Garofalo, John Persell, Carlos Mariani, Kurt Zellers, David Bly, Paul Rosenthal, Carolyn Laine, Tim Sanders, Frank Hornstein, Joe Atkins, and Zachary Dorholt.\n\nIn addition, in February 2013, the National Popular Vote bill (SF585) was introduced in the Minnesota Senate by Senators Ann H. Rest, Leroy A. Stumpf, Karin Housley, Branden Petersen, and Jeff Hayden.\n\nOn April 27, 2011, the Minnesota house Committee on Government Operations and Elections approved the National Popular Vote bill by a voice vote.\n\nOp-Ed in Minneapolis Star Tribune by Representatives Pat Garofalo and Steve Simon\n\nProf. Larry Jacoband and Dr. John R. Koza discussion at Humphrey Institute\n\nWest Central Tribune article on Emmer\n\nIn February 2011, the National Popular Vote bill (HF 495 was introduced by Representatives Pat Garofalo, Michael L. Beard, Mary Liz Holberg, Erin Murphy, Tim Sanders, Dean Urdahl, Steve Simon, Denny McNamara, Kurt Zellers (Speaker), Frank Hornstein, John Benson, Phyllis Kahn, Jeff Hayden, Patti Fritz, Bev Scalze, John Lesch, Leon Lillie, and Diane Loeffler. The 18 sponsors include 7 Republicans and 11 Democrats. Senators Ray Vandeveer and Anne (R) and Ann H. Rest (D) introduced the bill (SF 1241) in the Senate in 2011.\n\nOn February 4, 2009, the National Popular Vote bill (HF 512   Status of HF 512) was introduced in Minnesota by Representatives Steve Simon, Bob Gunther, Denny McNamara, Kurt Zellers, Frank Hornstein, John Benson, Roger Reinert, Phyllis Kahn, Sandra Masin, Larry Hosch, Jeff Hayden, Jerry Newton, Laura Brod, Greg Davids, Patti Fritz, Cy Thao, Bev Scalze, Terry Morrow, John Lesch, Carol McFarlane, and Leon Lillie. The bill (SF 446   Status of SF 446) was introduced in the Minnesota Senate by Senators Ann H. Rest, Dick Day, Sandra L. Pappas, John Marty, and Pat Pariseau.\n\nA survey of 800 Minnesota voters conducted on January 15-16, 2009 showed 75% overall support for a national popular vote for President. Support was 84% among Democrats, 69% among Republicans, and 68% among others. By age, support was 74% among 18-29 year olds, 73% among 30-45 year olds, 77% among 46-65 year olds, and 75% for those older than 65. By gender, support was 83% among women and 67% among men. By race, support was 76% among whites (representing 91% of respondents), 60% among African Americans (representing 3% of respondents), and 63% among others (representing 6% of respondents). The survey was conducted on January 15-16, 2009, had a margin or error of plus or minus 3 1/2%. Minnesota poll results\n\nOn April 18, 2007, Minnesota State Representative Steve Simon introduced the National Popular Vote bill into Minnesota Legislature.\n\nThe national popular vote winner should become President\nOne-person, one-vote\nCandidates should have a reason to campaign in all 50 states"
+}

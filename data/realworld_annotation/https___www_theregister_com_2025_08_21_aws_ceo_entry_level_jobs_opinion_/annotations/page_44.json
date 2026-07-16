@@ -1,0 +1,330 @@
+{
+    "image_count": 18,
+    "images": [
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/the_register_vulture_logo.53c8756c.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass.9cbf748e.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass_vulture.292e7b64.svg",
+        "https://cdn.theregister.com/assets/images/burger_menu.5dd339c3.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://vendorvoice.theregister.com/media/images/lenovo_and_infinidat_logo_fJe7Plg.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/everpure_250x100_1_mm2sbbb.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/rubrik_vendor_voice_and_sponsored_section_ta_zWwEu9g.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/aws-capgemini-logo_NBbteiJ.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/fis_aws_250x100_z6sxtis.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/zte-logo_g0LlgSt.max-500x500.svg",
+        "https://vendorvoice.theregister.com/media/images/nutanix_logo_sjdC1wY.max-500x500.svg",
+        "https://vendorvoice.theregister.com/media/images/aws_logo_250x100_vv_newpx_4FvsqUO.max-500x500.png",
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_two_lines.7bfa3d3e.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_one_line.b1e3235b.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 75,
+    "links": [
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "Infinidat: The Standard in Enterprise Storage\n\nExperience unmatched real-world application performance, zero downtime, built-in cyber resilience, and massive savings.",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "Manage your data, not your storage\n\nRun all your data on a modern platform built for AI. Replace isolated storage silos with a simple, unified data platform that delivers consistent performance and built-in resilience.",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "Cybercriminals never sleep. Neither does Rubrik Security Cloud.\n\nAt Rubrik, we help you achieve business resilience against cyberattacks, malicious insiders, and operational disruptions. We secure your data wherever it lives—across enterprise, cloud, and SaaS—making your business unstoppable.",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "From vision to reality at enterprise scale. Make it real with Capgemini and AWS.\n\nCapgemini and AWS are uniquely positioned to help our joint clients bring their vision into reality at enterprise scale. We transform technology potential into business advantage using our deep-industry expertise, mastery of emerging technologies, and proven execution capabilities. We combine our experience leading effective enterprise transformation with AWS's technology foundation to drive measurable business results across industries that can be scaled to millions.",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "Money Movement Hub\n\nNorth America’s payments industry is evolving fast. This resource center, sponsored by FIS and AWS, explores shifting customer expectations, complex compliance, and modernization challenges. Discover how the FIS Money Movement Hub helps financial institutions build secure, scalable payment infrastructure to compete in an always-on, rapidly changing landscape.",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "Connectivity + Computing\n\nLeveraging innovative technologies and product solutions, ZTE serves global telecom operators, government and enterprise customers, and consumers. Covering more than 160 countries and regions, ZTE enables connectivity for one-third of the world's population, and is committed to realizing a bright future with communication and trust everywhere.",
+            "href": "https://vendorvoice.theregister.com/zte/"
+        },
+        {
+            "text": "Scale Kubernetes. Not Chaos.\n\nCloud native adoption is accelerating, but so are complexity and risk. Learn how Nutanix helps enterprises streamline operations, unify environments, and build a resilient platform for modern apps and AI, without the chaos of fragmented Kubernetes and DIY infrastructure.",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "Move towards a new horizon in Cloud Computing\n\nBenefit from the world’s most comprehensive and broadly adopted cloud, which offers over 200 fully featured services from data centers globally. Join millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—in using AWS to lower costs, become more agile, and innovate faster.",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/Profile/contact/"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/Profile/about_the_register/"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/Profile/privacy/"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/Profile/terms_and_conditions_of_use/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        }
+    ],
+    "text_length": 3257,
+    "text_full": "Sign in\n\nThe Register Home Page\n\nSearch\nNavigation\nVendor pages\n\nMillions of IT professionals turn to The Register for our news, analysis, and views on the industry. For those who wish to hear direct from vendors, unfiltered and in their own words, we offer you the following dedicated vendor pages.\n\nInfinidat: The Standard in Enterprise Storage\n\nExperience unmatched real-world application performance, zero downtime, built-in cyber resilience, and massive savings.\n\nManage your data, not your storage\n\nRun all your data on a modern platform built for AI. Replace isolated storage silos with a simple, unified data platform that delivers consistent performance and built-in resilience.\n\nCybercriminals never sleep. Neither does Rubrik Security Cloud.\n\nAt Rubrik, we help you achieve business resilience against cyberattacks, malicious insiders, and operational disruptions. We secure your data wherever it lives—across enterprise, cloud, and SaaS—making your business unstoppable.\n\nFrom vision to reality at enterprise scale. Make it real with Capgemini and AWS.\n\nCapgemini and AWS are uniquely positioned to help our joint clients bring their vision into reality at enterprise scale. We transform technology potential into business advantage using our deep-industry expertise, mastery of emerging technologies, and proven execution capabilities. We combine our experience leading effective enterprise transformation with AWS's technology foundation to drive measurable business results across industries that can be scaled to millions.\n\nMoney Movement Hub\n\nNorth America’s payments industry is evolving fast. This resource center, sponsored by FIS and AWS, explores shifting customer expectations, complex compliance, and modernization challenges. Discover how the FIS Money Movement Hub helps financial institutions build secure, scalable payment infrastructure to compete in an always-on, rapidly changing landscape.\n\nConnectivity + Computing\n\nLeveraging innovative technologies and product solutions, ZTE serves global telecom operators, government and enterprise customers, and consumers. Covering more than 160 countries and regions, ZTE enables connectivity for one-third of the world's population, and is committed to realizing a bright future with communication and trust everywhere.\n\nScale Kubernetes. Not Chaos.\n\nCloud native adoption is accelerating, but so are complexity and risk. Learn how Nutanix helps enterprises streamline operations, unify environments, and build a resilient platform for modern apps and AI, without the chaos of fragmented Kubernetes and DIY infrastructure.\n\nMove towards a new horizon in Cloud Computing\n\nBenefit from the world’s most comprehensive and broadly adopted cloud, which offers over 200 fully featured services from data centers globally. Join millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—in using AWS to lower costs, become more agile, and innovate faster.\n\nThe Register Home Page\n\nBiting the hand that feeds IT\n\nABOUT US\nContact us\nAdvertise with us\nWho we are\nOUR WEBSITES\nThe Next Platform\nDevClass\nBlocks and Files\nYOUR PRIVACY\nCookies Policy\nPrivacy Policy\nTs & Cs\nSituation Publishing\n\nCopyright. All rights reserved © 1998–2026"
+}

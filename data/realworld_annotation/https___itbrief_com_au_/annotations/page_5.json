@@ -1,0 +1,602 @@
+{
+    "image_count": 70,
+    "images": [
+        "https://itbrief.com.au/brands/itb-new-logo.svg",
+        "https://itbrief.com.au/brands/td-new-logo-right.svg",
+        "https://cfotech.com.au/uploads/story/2026/05/20/preview_focused-australian-freelancer-home-office-business-plan-legal-documents-digital-illustration.webp",
+        "https://channellife.com.au/uploads/story/2026/05/20/preview_email_attachment20260520-130962-6np5m9.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/19/preview_email_attachment20260519-384582-l7yduf.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/18/preview_Nick_Martin.webp",
+        "https://telconews.com.au/uploads/story/2026/05/15/preview_email_attachment20260515-328521-44484f.webp",
+        "https://cfotech.com.au/uploads/story/2026/05/14/preview_warm-professional-hiring-manager-candidate-office-interview-skills-portfolio-digital-illustration.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/15/preview_efficient-doc-management-business-office-cloud-lock-digital-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/15/preview_secure-shield-managed-it-office-laptop-cloud-icons-hybrid-workspace-digital-illustration.webp",
+        "https://channellife.com.au/uploads/story/2026/04/30/preview_collaboration-two-it-platforms-global-network-cloud-operations-digital-illustration.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/15/preview_flux-result-3b0f14f8-f6f4-4f41-80a0-696378d862ce.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/09/preview_flux-result-15f42594-4ff5-453e-a52e-0198b3f21283.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_Phil_Lenton_-_Headshot.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/07/preview_Matt_Hanmer__Regional_Director__SASE___Security__APJ___HPE_Networking.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/07/preview_Jason_Keogh__Tristan_Ohlenrott__TeamViewer.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/14/preview_Apple-MacBook-Neo-silver-260304.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/08/preview_combined.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/09/preview_1067.webp",
+        "https://channellife.com.au/uploads/story/2026/04/30/preview_IMG_8847.webp",
+        "https://futurefive.com.au/uploads/story/2026/04/30/preview_Dlink_DUF_E01_08.webp",
+        "https://channellife.com.au/uploads/story/2026/04/21/preview_Portege_Z40L-N_23.webp",
+        "https://futurefive.com.au/uploads/story/2026/04/17/preview_Logitech_Casa_Pop-Up.webp",
+        "https://futurefive.com.au/uploads/story/2026/03/29/preview_Apple-iPad-Air-M4-Magic-Keyboard-with-Apple-Pencil-Pro-260302.webp",
+        "https://futurefive.com.au/uploads/story/2026/03/24/preview_Espressso_15_Lite_06.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/18/preview_Sonicwall.webp",
+        "https://telconews.com.au/uploads/story/2026/04/29/preview_Michael.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/28/preview_Jerome.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/27/preview_Lisa.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/24/preview_Scott.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/24/preview_Jerome.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/20/preview_Chirag2.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/21/preview_Global_Upg._Phase_2_Partner_Blog_HEADER_9_1200x500px-1200x500-3c18ef3.webp",
+        "https://channellife.com.au/uploads/story/2026/04/20/preview_Chirag1.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/16/preview_Debasish.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/20/preview_Phil_Lenton_-_Headshot.webp",
+        "https://securitybrief.com.au/uploads/story/2026/05/07/preview_Matt_Hanmer__Regional_Director__SASE___Security__APJ___HPE_Networking.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/07/preview_Jason_Keogh__Tristan_Ohlenrott__TeamViewer.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/12/preview_hpe_final.webp",
+        "https://futurefive.com.au/uploads/story/2026/02/09/preview_pic.webp",
+        "https://itbrief.com.au/uploads/story/2026/05/13/preview_efficient-workflow-australian-founder-desk-remote-assistant-australia-philippines-digital-illustration.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/11/preview_email_attachment20260511-2309071-tpmmat.webp",
+        "https://channellife.com.au/uploads/story/2026/05/08/preview_focused-australian-farmer-tractor-cab-outback-farm-radio-illustration.webp",
+        "https://futurefive.com.au/uploads/story/2026/05/06/preview_email_attachment20260506-2841139-m6g3en.webp",
+        "https://ecommercenews.com.au/uploads/story/2026/05/05/preview_focused-australian-sole-trader-desk-laptop-phone-warm-office-digital-illustration.webp",
+        "https://telconews.com.au/uploads/story/2026/05/05/preview_frustrated-residents-mobile-tower-construction-rural-nsw-council-office-digital-illustration.webp",
+        "https://futurefive.com.au/uploads/story/2026/04/29/preview_5a48f39e-1c21-449e-94c9-aa5a46e385fe.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/28/preview_modern-digital-illustration-australia-chat-laptop-job-matches.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/27/preview_australian-construction-workers-work-life-balance-sunset.webp",
+        "https://channellife.com.au/uploads/story/2026/04/22/preview_flux-result-44c7029b-0e32-481c-a15c-7c45a39f08b4.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/20/preview_Chirag2.webp",
+        "https://channellife.com.au/uploads/story/2026/04/20/preview_Chirag1.webp",
+        "https://itbrief.com.au/uploads/story/2026/04/20/preview_flux-result-df2cad0c-deb0-454f-82c9-177e26afcd3e.webp",
+        "https://futurefive.com.au/uploads/story/2026/04/16/preview_Mother_s_Day_Gift_Ideas.webp",
+        "https://channellife.com.au/uploads/story/2026/04/14/preview_Chirag_4.webp",
+        "https://futurefive.com.au/uploads/story/2026/04/14/preview_Chirag_3.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/14/preview_email_attachment20260414-3429319-dk8r9v.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/13/preview_email_attachment20260413-2247043-pgeoxl.webp",
+        "https://securitybrief.com.au/uploads/story/2026/04/13/preview_Check_Point.webp",
+        "https://cfotech.com.au/uploads/story/2026/04/08/preview_flux-result-a61303e8-9daf-4ff7-ac00-e6467fe7cf3f.webp",
+        "https://itbrief.com.au/uploads/story/2026/03/02/preview_unnamed__1_.webp",
+        "https://itbrief.com.au/uploads/story/2026/02/18/preview_Jon_Hatchuel.webp",
+        "https://itbrief.com.au/brands/td-left-new-logo.svg",
+        "https://itbrief.com.au/brands/cfo-white-logo.svg",
+        "https://itbrief.com.au/brands/cl-white-logo.svg",
+        "https://itbrief.com.au/brands/ecn-white-logo.svg",
+        "https://itbrief.com.au/brands/f5-white-logo.svg",
+        "https://itbrief.com.au/brands/itb-white-logo.svg",
+        "https://itbrief.com.au/brands/sb-white-logo.svg",
+        "https://itbrief.com.au/brands/tn-white-logo.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 130,
+    "links": [
+        {
+            "text": "AUSTRALIA",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "POWERED BY",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "Artificial Intelligence",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence"
+        },
+        {
+            "text": "Digital Transformation",
+            "href": "https://itbrief.com.au/tag/digital-transformation"
+        },
+        {
+            "text": "Disaster Recovery",
+            "href": "https://itbrief.com.au/tag/disaster-recovery"
+        },
+        {
+            "text": "Hybrid & Remote Work",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work"
+        },
+        {
+            "text": "Internet of Things",
+            "href": "https://itbrief.com.au/tag/internet-of-things"
+        },
+        {
+            "text": "Australian News",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#localised"
+        },
+        {
+            "text": "Analyst Insights",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#analyst"
+        },
+        {
+            "text": "Featured News",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#featured"
+        },
+        {
+            "text": "Reviews",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#reviews"
+        },
+        {
+            "text": "Expert Columns",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#bylines"
+        },
+        {
+            "text": "Interviews",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#interviews"
+        },
+        {
+            "text": "Recent News",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#recent"
+        },
+        {
+            "text": "Job Moves",
+            "href": "https://itbrief.com.au/tag/hybrid-remote-work#jobs"
+        },
+        {
+            "text": "MOBILE APPS\nBusiness plan writing tops freelance pay in Australia\n\nAustralian freelancers can earn the most from business and legal work, as crowded design listings keep average rates lower.",
+            "href": "https://cfotech.com.au/story/business-plan-writing-tops-freelance-pay-in-australia"
+        },
+        {
+            "text": "ARTIFICIAL INTELLIGENCE\nHP launches AI-powered PCs in Australia for work & play\n\nAustralian buyers now have access to HP's new AI-enabled PCs, with premium models starting at AUD $2,899 and topping out at AUD $6,500.",
+            "href": "https://channellife.com.au/story/hp-launches-ai-powered-pcs-in-australia-for-work-play"
+        },
+        {
+            "text": "TELSTRA\nZetifi launches Microsoft-native fleet safety tool\n\nBeta customers in Australia are getting alerts and compliance records inside Microsoft 365, reducing the risk of missed lone-worker incidents.",
+            "href": "https://itbrief.com.au/story/zetifi-launches-microsoft-native-fleet-safety-tool"
+        },
+        {
+            "text": "TAXATION\nRemote expands payroll platform in Australia for AI\n\nAustralian employers could ease cross-border payroll and compliance burdens as Remote broadens access to its platform for partners and AI agents.",
+            "href": "https://cfotech.com.au/story/remote-expands-payroll-platform-in-australia-for-ai"
+        },
+        {
+            "text": "STREAMING\nSuperloop adds Wi-Fi 7 mesh bundle to broadband plans\n\nBroadband buyers may get better whole-home coverage as the free extra device is aimed at reducing dead spots in medium-sized houses.",
+            "href": "https://telconews.com.au/story/superloop-adds-wi-fi-7-mesh-bundle-to-broadband-plans"
+        },
+        {
+            "text": "ONBOARDING\nAustralian employers shift towards skills-based hiring\n\nHiring decisions are increasingly being driven by skills and fit, as AI-polished CVs and big-name employers lose their edge in Australia.",
+            "href": "https://cfotech.com.au/story/australian-employers-shift-towards-skills-based-hiring"
+        },
+        {
+            "text": "ANALYST\nFoxit launches document management system in PDF tools\n\nGartner · Hybrid & Remote Work · Productivity",
+            "href": "https://securitybrief.com.au/story/foxit-launches-document-management-system-in-pdf-tools"
+        },
+        {
+            "text": "ANALYST\nYASH named Major Contender in Everest digital workplace\n\nEverest Group · Hybrid & Remote Work · Workplace",
+            "href": "https://itbrief.com.au/story/yash-named-major-contender-in-everest-digital-workplace"
+        },
+        {
+            "text": "ANALYST\nPax8 & NinjaOne form global MSP referral partnership\n\nCanalys · Hybrid & Remote Work · Cloud Services",
+            "href": "https://channellife.com.au/story/pax8-ninjaone-form-global-msp-referral-partnership"
+        },
+        {
+            "text": "ANALYST\nThe Real World launches expert-approved Campus certificate\n\nGartner · Hybrid & Remote Work · Marketing",
+            "href": "https://itbrief.com.au/story/the-real-world-launches-expert-approved-campus-certificate"
+        },
+        {
+            "text": "ANALYST\niProov report warns of soaring iOS injection attacks\n\nGartner · Hybrid & Remote Work · UC",
+            "href": "https://securitybrief.com.au/story/iproov-report-warns-of-soaring-ios-injection-attacks"
+        },
+        {
+            "text": "ABOUT IT SERVICE MANAGEMENT\nRiverbed says go from ticket queues to zero disruption\n\nAI-driven support tools could cut employee downtime, as Riverbed argues that fewer tickets may still hide unresolved problems.\n\nToday",
+            "href": "https://itbrief.com.au/story/riverbed-says-go-from-ticket-queues-to-zero-disruption"
+        },
+        {
+            "text": "ABOUT BREACH PREVENTION\nHPE assisting IT teams navigate complex challenges\n\nHPE Networking says AI, zero trust and SASE are reshaping network security as remote work and connected devices make threats harder to control.\n\nLast week",
+            "href": "https://securitybrief.com.au/story/hpe-assisting-it-teams-navigate-complex-challenges"
+        },
+        {
+            "text": "ABOUT SMARTPHONES\nTeamViewer utilising AI to cut costly digital friction\n\nA survey of 4,000 workers found digital friction is fuelling burnout, tears and staff turnover as TeamViewer automates routine IT tasks.\n\nThis month",
+            "href": "https://itbrief.com.au/story/teamviewer-utilising-ai-to-cut-costly-digital-friction"
+        },
+        {
+            "text": "PRODUCTIVITY\nHands-on review: Apple MacBook Neo",
+            "href": "https://futurefive.com.au/story/hands-on-review-apple-macbook-neo"
+        },
+        {
+            "text": "DIGITAL ENTERTAINMENT\nHands-on review: Apple Creator Studio earns its keep",
+            "href": "https://futurefive.com.au/story/hands-on-review-apple-creator-studio-earns-its-keep"
+        },
+        {
+            "text": "UNIFIED COMMUNICATIONS\nHands-on review: Asus RT-BE58 Go dual-band travel router/range extender",
+            "href": "https://futurefive.com.au/story/hands-on-review-asus-rt-be58-go-dual-band-travel-router-range-extender"
+        },
+        {
+            "text": "APPLICATION PERFORMANCE MONITORING\nHands-on review: Pocket AI Notetaker handy, not revolutionary",
+            "href": "https://channellife.com.au/story/hands-on-review-pocket-ai-notetaker-handy-not-revolutionary"
+        },
+        {
+            "text": "PC HARDWARE\nHands-on review: D-Link 14-in-1 Thunderbolt 4 Docking Station DUF-E01",
+            "href": "https://futurefive.com.au/story/hands-on-review-d-link-14-in-1-thunderbolt-4-docking-station-duf-e01"
+        },
+        {
+            "text": "VIDEO CONFERENCING\nHands-on review: Dynabook Z40L-N business laptop",
+            "href": "https://channellife.com.au/story/hands-on-review-dynabook-z40l-n-business-laptop"
+        },
+        {
+            "text": "BLUETOOTH\nHands-on review: Casa Pop-Up Desk for hybrid work",
+            "href": "https://futurefive.com.au/story/hands-on-review-casa-pop-up-desk-for-hybrid-work"
+        },
+        {
+            "text": "BLUETOOTH\nHands-on review: iPad Air M4 balances power and price",
+            "href": "https://futurefive.com.au/story/hands-on-review-ipad-air-m4-balances-power-and-price"
+        },
+        {
+            "text": "MOBILE GAMING\nHands-on Review: Upgrading to an Espresso Lite 15 portable monitor",
+            "href": "https://futurefive.com.au/story/hands-on-review-upgrading-to-an-espresso-lite-15-portable-monitor"
+        },
+        {
+            "text": "Virtual vs. physical firewalls: A practical guide for modern networks\n\nBy Leelin Thye and Lokesh Kannaiyan of SonicWall",
+            "href": "https://securitybrief.com.au/story/virtual-vs-physical-firewalls-a-practical-guide-for-modern-networks"
+        },
+        {
+            "text": "Why frontline mobility is becoming an operational intelligence layer\n\nBy Michael Dyson of SOTI",
+            "href": "https://telconews.com.au/story/why-frontline-mobility-is-becoming-an-operational-intelligence-layer"
+        },
+        {
+            "text": "One click can trigger a breach, but security can stop it\n\nBy Jerome Lowe of SonicWall",
+            "href": "https://securitybrief.com.au/story/one-click-can-trigger-a-breach-but-security-can-stop-it"
+        },
+        {
+            "text": "Global real estate company strengthens MFA security with Inde\n\nBy Lisa Pfahlert of Inde",
+            "href": "https://securitybrief.com.au/story/global-real-estate-company-strengthens-mfa-security-with-inde"
+        },
+        {
+            "text": "Turning security into a story: How managed service providers use reporting to drive retention and revenue\n\nBy Scott Jenkins of SonicWall",
+            "href": "https://securitybrief.com.au/story/turning-security-into-a-story-how-managed-service-providers-use-reporting-to-drive-retention-and-revenue"
+        },
+        {
+            "text": "VPN vulnerabilities don't have to become breaches\n\nBy Jerome Lowe of SonicWall",
+            "href": "https://securitybrief.com.au/story/vpn-vulnerabilities-don-t-have-to-become-breaches"
+        },
+        {
+            "text": "How to upgrade your home internet for faster speeds\n\nBy Chirag Solanki of Kia Ora Digital",
+            "href": "https://securitybrief.com.au/story/how-to-upgrade-your-home-internet-for-faster-speeds"
+        },
+        {
+            "text": "How MH Enterprise turns trust into cybersecurity success\n\nBy Gaëlle Perrin of SonicWall",
+            "href": "https://securitybrief.com.au/story/how-mh-enterprise-turns-trust-into-cybersecurity-success"
+        },
+        {
+            "text": "What to look for when buying a laptop in 2026\n\nBy Chirag Solanki of Kia Ora Digital",
+            "href": "https://channellife.com.au/story/what-to-look-for-when-buying-a-laptop-in-2026"
+        },
+        {
+            "text": "Building security outcomes for small businesses: Why breaches persist despite available tools\n\nBy Debasish Mukherjee of SonicWall",
+            "href": "https://securitybrief.com.au/story/building-security-outcomes-for-small-businesses-why-breaches-persist-despite-available-tools"
+        },
+        {
+            "text": "Riverbed says go from ticket queues to zero disruption\n\nDiscussing IT service management",
+            "href": "https://itbrief.com.au/story/riverbed-says-go-from-ticket-queues-to-zero-disruption"
+        },
+        {
+            "text": "HPE assisting IT teams navigate complex challenges\n\nDiscussing Breach Prevention",
+            "href": "https://securitybrief.com.au/story/hpe-assisting-it-teams-navigate-complex-challenges"
+        },
+        {
+            "text": "TeamViewer utilising AI to cut costly digital friction\n\nDiscussing SmartPhones",
+            "href": "https://itbrief.com.au/story/teamviewer-utilising-ai-to-cut-costly-digital-friction"
+        },
+        {
+            "text": "Exclusive: HPE Networking advances 'self-driving' networks\n\nDiscussing Wi-Fi",
+            "href": "https://itbrief.com.au/story/exclusive-hpe-networking-advances-self-driving-networks"
+        },
+        {
+            "text": "Exclusive: Edifier outlines next phase of global audio strategy\n\nDiscussing Headphones",
+            "href": "https://futurefive.com.au/story/exclusive-edifier-outlines-next-phase-of-global-audio-strategy"
+        },
+        {
+            "text": "PRODUCTIVITY\nAgentSync launches AI-trained EAs for Australian founders\n\nFounders could save up to AUD $70,000 per hire as the Australian talent provider targets busy chiefs with offshore AI-trained support.\n\nLast week",
+            "href": "https://itbrief.com.au/story/agentsync-launches-ai-trained-eas-for-australian-founders"
+        },
+        {
+            "text": "DIGITAL TRANSFORMATION\nPlaud launches AI note-taking devices in Australia\n\nAustralian professionals now have two purpose-built recording tools that turn meetings and calls into summaries, notes and action items.\n\nLast week",
+            "href": "https://futurefive.com.au/story/plaud-launches-ai-note-taking-devices-in-australia"
+        },
+        {
+            "text": "BLUETOOTH\nGME launches tractor radio pack for Australian farms\n\nAustralian farmers facing patchy mobile coverage now have a dedicated radio kit for tractors and side-by-sides, priced at AUD $789.\n\nThis month",
+            "href": "https://channellife.com.au/story/gme-launches-tractor-radio-pack-for-australian-farms"
+        },
+        {
+            "text": "SPEAKERS\nBose launches modular Lifestyle home audio collection\n\nBuyers can build from a single speaker to a 7.1.4 cinema system, as Bose targets simpler wireless home audio set-ups.\n\nThis month",
+            "href": "https://futurefive.com.au/story/bose-launches-modular-lifestyle-home-audio-collection"
+        },
+        {
+            "text": "PRODUCTIVITY\nAustralian sole traders embrace AI for daily business\n\nAustralian sole traders are using AI to cut admin time and boost output, with daily or weekly use now at 41 per cent, Hnry found.\n\nThis month",
+            "href": "https://ecommercenews.com.au/story/australian-sole-traders-embrace-ai-for-daily-business"
+        },
+        {
+            "text": "PRODUCTIVITY\nAMTA criticises Central Coast Council over tower delays\n\nResidents and emergency services are left with weak coverage as repeated planning requests push mobile tower approvals back by hundreds of days.\n\nThis month",
+            "href": "https://telconews.com.au/story/amta-criticises-central-coast-council-over-tower-delays"
+        },
+        {
+            "text": "PC HARDWARE\nGigabyte launches glossy 27-inch OLED gaming monitor\n\nAustralian buyers now have a glossy alternative in Gigabyte’s 27-inch OLED range, with the new panel aimed at reducing reflections and preserving dark detail.\n\nLast month",
+            "href": "https://futurefive.com.au/story/gigabyte-launches-glossy-27-inch-oled-gaming-monitor"
+        },
+        {
+            "text": "RECRUITMENT\nIndeed launches job search app in ChatGPT in Australia\n\nJob seekers in Australia can now search listings in ChatGPT, with applications still completed on Indeed’s own platforms.\n\nLast month",
+            "href": "https://cfotech.com.au/story/indeed-launches-job-search-app-in-chatgpt-in-australia"
+        },
+        {
+            "text": "FLEXIBLE WORK\nWork-life balance trumps pay for construction staff\n\nFlexibility is emerging as a bigger draw than pay in construction and engineering, as firms battle shortages and retention pressures.\n\nLast month",
+            "href": "https://cfotech.com.au/story/work-life-balance-trumps-pay-for-construction-staff"
+        },
+        {
+            "text": "CLEAN TECHNOLOGIES\nMultimedia Technology lands Cygnett Australian power deal\n\nNational resellers will gain local stock and support as Multimedia Technology adds Cygnett’s portable power range to its Australian line-up.\n\nLast month",
+            "href": "https://channellife.com.au/story/multimedia-technology-lands-cygnett-australian-power-deal"
+        },
+        {
+            "text": "VIDEO CONFERENCING\nHow to upgrade your home internet for faster speeds\n\nSlow, patchy connections are prompting households to replace ageing routers and rethink coverage as more devices strain home networks.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/how-to-upgrade-your-home-internet-for-faster-speeds"
+        },
+        {
+            "text": "STORAGE\nWhat to look for when buying a laptop in 2026\n\nShoppers now need to weigh battery life, portability and processing power more carefully as laptop options broaden in 2026.\n\nLast month",
+            "href": "https://channellife.com.au/story/what-to-look-for-when-buying-a-laptop-in-2026"
+        },
+        {
+            "text": "SMALL BUSINESS\nAustralia employers tie pay & bonuses to office attendance\n\nEmployers are rewarding office presence with higher salaries and bonuses as hybrid staff risk falling behind on pay and progression.\n\nLast month",
+            "href": "https://itbrief.com.au/story/australia-employers-tie-pay-bonuses-to-office-attendance"
+        },
+        {
+            "text": "FITNESS\nMother's Day gift ideas span home appliances & tech\n\nShoppers are being steered towards practical gifts, with prices from AUD $139 to AUD $1,399 across home, sport and imaging items.\n\nLast month",
+            "href": "https://futurefive.com.au/story/mother-s-day-gift-ideas-span-home-appliances-tech"
+        },
+        {
+            "text": "SMALL BUSINESS\nWhat makes virtual offices a smart choice for startups\n\nStartups can trim overheads and still project a credible image, with virtual offices also suiting remote teams and expansion plans.\n\nLast month",
+            "href": "https://channellife.com.au/story/what-makes-virtual-offices-a-smart-choice-for-startups"
+        },
+        {
+            "text": "FLEXIBLE WORK\nThe growing importance of wellbeing in the workplace\n\nBurnout, turnover and absenteeism are pushing employers to treat employee wellbeing as a core business strategy, not a perk.\n\nLast month",
+            "href": "https://futurefive.com.au/story/the-growing-importance-of-wellbeing-in-the-workplace"
+        },
+        {
+            "text": "DATA PROTECTION\nAustralian skincare founder hit by chargeback scams\n\nTens of thousands of dollars in disputed payments have left a Sydney skincare business exposed as household budgets tighten and chargeback fraud rises.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/australian-skincare-founder-hit-by-chargeback-scams"
+        },
+        {
+            "text": "JOBS\nFuel costs push NSW firms to review staffing levels\n\nAlmost half of surveyed employers are weighing shorter hours or fewer staff as higher fuel bills squeeze margins and weaken demand across NSW.\n\nLast month",
+            "href": "https://cfotech.com.au/story/fuel-costs-push-nsw-firms-to-review-staffing-levels"
+        },
+        {
+            "text": "CLOUD SERVICES\nCheck Point launches Perth data residency SASE site\n\nWestern Australian enterprises and agencies can now keep SASE traffic local, easing compliance and latency concerns under tighter data rules.\n\nLast month",
+            "href": "https://securitybrief.com.au/story/check-point-launches-perth-data-residency-sase-site"
+        },
+        {
+            "text": "CONNECTIVITY\nAustralia's commercial property splits on office stress\n\nOffice landlords face rising vacancies and tenant stress, while industrial property stays resilient on tight supply and stronger demand.\n\nLast month",
+            "href": "https://cfotech.com.au/story/australia-s-commercial-property-splits-on-office-stress"
+        },
+        {
+            "text": "Dominic Price joins Be Luminous to drive people led change\n\nMove at PwC",
+            "href": "https://itbrief.com.au/story/dominic-price-joins-be-luminous-to-drive-people-led-change"
+        },
+        {
+            "text": "eG Innovations appoints Jon Hatchuel to lead Australia\n\nMove at Microsoft",
+            "href": "https://itbrief.com.au/story/eg-innovations-appoints-jon-hatchuel-to-lead-australia"
+        },
+        {
+            "text": "Poly",
+            "href": "https://itbrief.com.au/tag/poly"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://itbrief.com.au/tag/microsoft"
+        },
+        {
+            "text": "Zoom",
+            "href": "https://itbrief.com.au/tag/zoom"
+        },
+        {
+            "text": "Women in Technology",
+            "href": "https://itbrief.com.au/tag/women-in-technology"
+        },
+        {
+            "text": "Google",
+            "href": "https://itbrief.com.au/tag/google"
+        },
+        {
+            "text": "Cybersecurity\n→",
+            "href": "https://itbrief.com.au/tag/cybersecurity"
+        },
+        {
+            "text": "Artificial Intelligence\n→",
+            "href": "https://itbrief.com.au/tag/artificial-intelligence"
+        },
+        {
+            "text": "Unified Communications\n→",
+            "href": "https://itbrief.com.au/tag/unified-communications"
+        },
+        {
+            "text": "Digital Transformation\n→",
+            "href": "https://itbrief.com.au/tag/digital-transformation"
+        },
+        {
+            "text": "Risk & Compliance\n→",
+            "href": "https://itbrief.com.au/tag/risk-compliance"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://itbrief.com.au/contact-us"
+        },
+        {
+            "text": "",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "GET THE LATEST FROM\nIT Brief Australia\nSUBSCRIBE",
+            "href": "https://itbrief.com.au/subscribe"
+        },
+        {
+            "text": "FOLLOW US ON\nLinkedIn",
+            "href": "https://www.linkedin.com/company/techday-australia"
+        },
+        {
+            "text": "FOLLOW US ON\nX",
+            "href": "https://x.com/techday_au"
+        },
+        {
+            "text": "",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://cfotech.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://channellife.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://ecommercenews.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://futurefive.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://telconews.com.au/media-kit"
+        },
+        {
+            "text": "Asia",
+            "href": "https://techday.asia/"
+        },
+        {
+            "text": "Canada",
+            "href": "https://techdayca.com/"
+        },
+        {
+            "text": "India",
+            "href": "https://techday.in/"
+        },
+        {
+            "text": "Ireland",
+            "href": "https://techday.ie/"
+        },
+        {
+            "text": "New Zealand",
+            "href": "https://techday.co.nz/"
+        },
+        {
+            "text": "United Kingdom",
+            "href": "https://techday.co.uk/"
+        },
+        {
+            "text": "United States",
+            "href": "https://techday.com/"
+        },
+        {
+            "text": "Brand guidelines",
+            "href": "https://itbrief.com.au/brand-guidelines"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://itbrief.com.au/contact-us"
+        },
+        {
+            "text": "Editorial Calendar",
+            "href": "https://itbrief.com.au/editorial-calendar"
+        },
+        {
+            "text": "Editorial standards",
+            "href": "https://itbrief.com.au/editorial-standards"
+        },
+        {
+            "text": "FAQs",
+            "href": "https://itbrief.com.au/tag/frequently-asked-questions"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "Our team",
+            "href": "https://itbrief.com.au/our-team"
+        },
+        {
+            "text": "Our terms",
+            "href": "https://itbrief.com.au/our-terms"
+        },
+        {
+            "text": "YOUTUBE",
+            "href": "https://www.youtube.com/@techdaynetwork"
+        },
+        {
+            "text": "RSS",
+            "href": "https://itbrief.com.au/feed"
+        },
+        {
+            "text": "Plan B's Cloud Services",
+            "href": "https://www.planb.co.nz/tech-services/cloud-services/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        },
+        {
+            "text": "PowerDMARC",
+            "href": "https://powerdmarc.com/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        }
+    ],
+    "text_length": 12466,
+    "text_full": "IT Brief Australia - Technology news for CIOs & IT decision-makers\nAUSTRALIA\nPOWERED BY\nGUIDES\nArtificial Intelligence\nDigital Transformation\nDisaster Recovery\nHybrid & Remote Work\nInternet of Things\nAUSTRALIAN EDITION · 2026\nThe Ultimate Guide to\nHybrid & Remote Work\n\nA curated Australian edition of TechDay news, analysis, interviews, reviews, job moves, and related resources for Hybrid & Remote Work.\n\nUpdated continuously from TechDay's regional network.\n\nLAST UPDATED:\n\nThu, 21st May 2026 (Today)\n\nWhat to know about Hybrid & Remote Work\n\nHybrid and remote work have fundamentally transformed the modern workplace, blending traditional office environments with flexible, technology-driven arrangements. This evolving approach to work reshapes how organizations operate, collaborate, and engage with their employees, offering new opportunities and challenges.\n\nExploring stories under this tag reveals insights into the latest technologies enhancing hybrid work experiences, such as AI-powered communication tools, secure cloud solutions, and innovative collaboration platforms. It also highlights the critical importance of addressing security risks, managing employee wellbeing, and fostering inclusive cultures amidst dispersed teams.\n\nFrom advancements in video conferencing and smart office design to strategies for digital transformation and cybersecurity in hybrid settings, readers can gain practical knowledge on navigating this dynamic work landscape. Dive into these stories to understand how businesses and employees are adapting to, and thriving within, the hybrid and remote work era.\n\nAustralian News\nAnalyst Insights\nFeatured News\nReviews\nExpert Columns\nInterviews\nRecent News\nJob Moves\nAUSTRALIAN HYBRID & REMOTE WORK NEWS\nRegional stories with direct local relevance\nMOBILE APPS\nBusiness plan writing tops freelance pay in Australia\n\nAustralian freelancers can earn the most from business and legal work, as crowded design listings keep average rates lower.\n\nARTIFICIAL INTELLIGENCE\nHP launches AI-powered PCs in Australia for work & play\n\nAustralian buyers now have access to HP's new AI-enabled PCs, with premium models starting at AUD $2,899 and topping out at AUD $6,500.\n\nTELSTRA\nZetifi launches Microsoft-native fleet safety tool\n\nBeta customers in Australia are getting alerts and compliance records inside Microsoft 365, reducing the risk of missed lone-worker incidents.\n\nTAXATION\nRemote expands payroll platform in Australia for AI\n\nAustralian employers could ease cross-border payroll and compliance burdens as Remote broadens access to its platform for partners and AI agents.\n\nSTREAMING\nSuperloop adds Wi-Fi 7 mesh bundle to broadband plans\n\nBroadband buyers may get better whole-home coverage as the free extra device is aimed at reducing dead spots in medium-sized houses.\n\nONBOARDING\nAustralian employers shift towards skills-based hiring\n\nHiring decisions are increasingly being driven by skills and fit, as AI-polished CVs and big-name employers lose their edge in Australia.\n\nAnalyst Insights\nResearch and market analysis connected to Hybrid & Remote Work\nANALYST\nFoxit launches document management system in PDF tools\n\nGartner · Hybrid & Remote Work · Productivity\n\nANALYST\nYASH named Major Contender in Everest digital workplace\n\nEverest Group · Hybrid & Remote Work · Workplace\n\nANALYST\nPax8 & NinjaOne form global MSP referral partnership\n\nCanalys · Hybrid & Remote Work · Cloud Services\n\nANALYST\nThe Real World launches expert-approved Campus certificate\n\nGartner · Hybrid & Remote Work · Marketing\n\nANALYST\niProov report warns of soaring iOS injection attacks\n\nGartner · Hybrid & Remote Work · UC\n\nFeatured News\nABOUT IT SERVICE MANAGEMENT\nRiverbed says go from ticket queues to zero disruption\n\nAI-driven support tools could cut employee downtime, as Riverbed argues that fewer tickets may still hide unresolved problems.\n\nToday\n\nABOUT BREACH PREVENTION\nHPE assisting IT teams navigate complex challenges\n\nHPE Networking says AI, zero trust and SASE are reshaping network security as remote work and connected devices make threats harder to control.\n\nLast week\n\nABOUT SMARTPHONES\nTeamViewer utilising AI to cut costly digital friction\n\nA survey of 4,000 workers found digital friction is fuelling burnout, tears and staff turnover as TeamViewer automates routine IT tasks.\n\nThis month\n\nReviews\nPRODUCTIVITY\nHands-on review: Apple MacBook Neo\nDIGITAL ENTERTAINMENT\nHands-on review: Apple Creator Studio earns its keep\nUNIFIED COMMUNICATIONS\nHands-on review: Asus RT-BE58 Go dual-band travel router/range extender\nAPPLICATION PERFORMANCE MONITORING\nHands-on review: Pocket AI Notetaker handy, not revolutionary\nPC HARDWARE\nHands-on review: D-Link 14-in-1 Thunderbolt 4 Docking Station DUF-E01\nVIDEO CONFERENCING\nHands-on review: Dynabook Z40L-N business laptop\nBLUETOOTH\nHands-on review: Casa Pop-Up Desk for hybrid work\nBLUETOOTH\nHands-on review: iPad Air M4 balances power and price\nMOBILE GAMING\nHands-on Review: Upgrading to an Espresso Lite 15 portable monitor\nExpert Columns\nVirtual vs. physical firewalls: A practical guide for modern networks\n\nBy Leelin Thye and Lokesh Kannaiyan of SonicWall\n\nWhy frontline mobility is becoming an operational intelligence layer\n\nBy Michael Dyson of SOTI\n\nOne click can trigger a breach, but security can stop it\n\nBy Jerome Lowe of SonicWall\n\nGlobal real estate company strengthens MFA security with Inde\n\nBy Lisa Pfahlert of Inde\n\nTurning security into a story: How managed service providers use reporting to drive retention and revenue\n\nBy Scott Jenkins of SonicWall\n\nVPN vulnerabilities don't have to become breaches\n\nBy Jerome Lowe of SonicWall\n\nHow to upgrade your home internet for faster speeds\n\nBy Chirag Solanki of Kia Ora Digital\n\nHow MH Enterprise turns trust into cybersecurity success\n\nBy Gaëlle Perrin of SonicWall\n\nWhat to look for when buying a laptop in 2026\n\nBy Chirag Solanki of Kia Ora Digital\n\nBuilding security outcomes for small businesses: Why breaches persist despite available tools\n\nBy Debasish Mukherjee of SonicWall\n\nInterviews\nInterviews and video coverage from the network\nRiverbed says go from ticket queues to zero disruption\n\nDiscussing IT service management\n\nHPE assisting IT teams navigate complex challenges\n\nDiscussing Breach Prevention\n\nTeamViewer utilising AI to cut costly digital friction\n\nDiscussing SmartPhones\n\nExclusive: HPE Networking advances 'self-driving' networks\n\nDiscussing Wi-Fi\n\nExclusive: Edifier outlines next phase of global audio strategy\n\nDiscussing Headphones\n\nRecent Hybrid & Remote Work News\nPRODUCTIVITY\nAgentSync launches AI-trained EAs for Australian founders\n\nFounders could save up to AUD $70,000 per hire as the Australian talent provider targets busy chiefs with offshore AI-trained support.\n\nLast week\n\nDIGITAL TRANSFORMATION\nPlaud launches AI note-taking devices in Australia\n\nAustralian professionals now have two purpose-built recording tools that turn meetings and calls into summaries, notes and action items.\n\nLast week\n\nBLUETOOTH\nGME launches tractor radio pack for Australian farms\n\nAustralian farmers facing patchy mobile coverage now have a dedicated radio kit for tractors and side-by-sides, priced at AUD $789.\n\nThis month\n\nSPEAKERS\nBose launches modular Lifestyle home audio collection\n\nBuyers can build from a single speaker to a 7.1.4 cinema system, as Bose targets simpler wireless home audio set-ups.\n\nThis month\n\nPRODUCTIVITY\nAustralian sole traders embrace AI for daily business\n\nAustralian sole traders are using AI to cut admin time and boost output, with daily or weekly use now at 41 per cent, Hnry found.\n\nThis month\n\nPRODUCTIVITY\nAMTA criticises Central Coast Council over tower delays\n\nResidents and emergency services are left with weak coverage as repeated planning requests push mobile tower approvals back by hundreds of days.\n\nThis month\n\nPC HARDWARE\nGigabyte launches glossy 27-inch OLED gaming monitor\n\nAustralian buyers now have a glossy alternative in Gigabyte’s 27-inch OLED range, with the new panel aimed at reducing reflections and preserving dark detail.\n\nLast month\n\nRECRUITMENT\nIndeed launches job search app in ChatGPT in Australia\n\nJob seekers in Australia can now search listings in ChatGPT, with applications still completed on Indeed’s own platforms.\n\nLast month\n\nFLEXIBLE WORK\nWork-life balance trumps pay for construction staff\n\nFlexibility is emerging as a bigger draw than pay in construction and engineering, as firms battle shortages and retention pressures.\n\nLast month\n\nCLEAN TECHNOLOGIES\nMultimedia Technology lands Cygnett Australian power deal\n\nNational resellers will gain local stock and support as Multimedia Technology adds Cygnett’s portable power range to its Australian line-up.\n\nLast month\n\nVIDEO CONFERENCING\nHow to upgrade your home internet for faster speeds\n\nSlow, patchy connections are prompting households to replace ageing routers and rethink coverage as more devices strain home networks.\n\nLast month\n\nSTORAGE\nWhat to look for when buying a laptop in 2026\n\nShoppers now need to weigh battery life, portability and processing power more carefully as laptop options broaden in 2026.\n\nLast month\n\nSMALL BUSINESS\nAustralia employers tie pay & bonuses to office attendance\n\nEmployers are rewarding office presence with higher salaries and bonuses as hybrid staff risk falling behind on pay and progression.\n\nLast month\n\nFITNESS\nMother's Day gift ideas span home appliances & tech\n\nShoppers are being steered towards practical gifts, with prices from AUD $139 to AUD $1,399 across home, sport and imaging items.\n\nLast month\n\nSMALL BUSINESS\nWhat makes virtual offices a smart choice for startups\n\nStartups can trim overheads and still project a credible image, with virtual offices also suiting remote teams and expansion plans.\n\nLast month\n\nFLEXIBLE WORK\nThe growing importance of wellbeing in the workplace\n\nBurnout, turnover and absenteeism are pushing employers to treat employee wellbeing as a core business strategy, not a perk.\n\nLast month\n\nDATA PROTECTION\nAustralian skincare founder hit by chargeback scams\n\nTens of thousands of dollars in disputed payments have left a Sydney skincare business exposed as household budgets tighten and chargeback fraud rises.\n\nLast month\n\nJOBS\nFuel costs push NSW firms to review staffing levels\n\nAlmost half of surveyed employers are weighing shorter hours or fewer staff as higher fuel bills squeeze margins and weaken demand across NSW.\n\nLast month\n\nCLOUD SERVICES\nCheck Point launches Perth data residency SASE site\n\nWestern Australian enterprises and agencies can now keep SASE traffic local, easing compliance and latency concerns under tighter data rules.\n\nLast month\n\nCONNECTIVITY\nAustralia's commercial property splits on office stress\n\nOffice landlords face rising vacancies and tenant stress, while industrial property stays resilient on tight supply and stronger demand.\n\nLast month\n\nJob Moves\nDominic Price joins Be Luminous to drive people led change\n\nMove at PwC\n\neG Innovations appoints Jon Hatchuel to lead Australia\n\nMove at Microsoft\n\nTop Players\nPoly\nMicrosoft\nZoom\nWomen in Technology\nGoogle\nRelated Guides\nCybersecurity\n→\nArtificial Intelligence\n→\nUnified Communications\n→\nDigital Transformation\n→\nRisk & Compliance\n→\nGet featured\n\nTalk to the TechDay team about editorial feature opportunities across the network\n\nContact us\n61 specialist tech sites.\n8 regions. One network.\n678,397\nPUBLISHED STORIES\n7\nAUSTRALIAN SITES\nHuman\nPOWERED\n20th\nyear of business\nGET THE LATEST FROM\nIT Brief Australia\nSUBSCRIBE\nFOLLOW US ON\nLinkedIn\nFOLLOW US ON\nX\nAUSTRALIAN\nFinTech\n\nTechnology news for CFOs & financial decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nIndustry\n\nIndustry insider news for technology resellers\n\nVisit\nMedia kit\nAUSTRALIAN\nCommerce\n\nTechnology news for digital commerce decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nConsumer tech\n\nConsumer technology news from the future\n\nVisit\nMedia kit\nAUSTRALIAN\nEnterprise\n\nTechnology news for CIOs & IT decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nCybersecurity\n\nTechnology news for CISOs & cybersecurity decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nTelecomms\n\nTelecommunications news for ICT decision-makers\n\nVisit\nMedia kit\nExplore other regions\nAsia\nCanada\nIndia\nIreland\nNew Zealand\nUnited Kingdom\nUnited States\nBrand guidelines\nContact us\nEditorial Calendar\nEditorial standards\nFAQs\nMedia kit\nOur team\nOur terms\nYOUTUBE\nRSS\n© 2026 TechDay, All rights reserved. Hosted on Plan B's Cloud Services. DMARC protection by PowerDMARC."
+}

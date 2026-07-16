@@ -1,0 +1,149 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://hey.paris/posts/state-ai-governance/cover.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 34,
+    "links": [
+        {
+            "text": "Paris Buttfield-Addison",
+            "href": "https://hey.paris/"
+        },
+        {
+            "text": "EVENTS",
+            "href": "https://hey.paris/books-and-events/events/"
+        },
+        {
+            "text": "WRITING",
+            "href": "https://hey.paris/books-and-events/books/"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://hey.paris/about/"
+        },
+        {
+            "text": "POSTS",
+            "href": "https://hey.paris/all-posts/"
+        },
+        {
+            "text": "Slop for the People",
+            "href": "https://hey.paris/posts/govai/"
+        },
+        {
+            "text": "Australia’s AI Safety Institute: Lessons from the UK and US",
+            "href": "https://hey.paris/posts/aisi-international-comparison/"
+        },
+        {
+            "text": "NSW’s Artificial Intelligence Strategy",
+            "href": "https://www.digital.nsw.gov.au/policy/artificial-intelligence/artificial-intelligence-strategy"
+        },
+        {
+            "text": "AI Ethics Policy",
+            "href": "https://arp.nsw.gov.au/dcs-2024-04-use-of-artificial-intelligence-by-nsw-government-agencies"
+        },
+        {
+            "text": "AI Assessment Framework (AIAF)",
+            "href": "https://www.digital.nsw.gov.au/policy/artificial-intelligence"
+        },
+        {
+            "text": "updated in July 2024",
+            "href": "https://www.digital.nsw.gov.au/policy/artificial-intelligence"
+        },
+        {
+            "text": "Agentic AI Guide",
+            "href": "https://www.digital.nsw.gov.au/policy/artificial-intelligence"
+        },
+        {
+            "text": "Artificial Intelligence Governance Policy",
+            "href": "https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/artificial-intelligence-governance-policy"
+        },
+        {
+            "text": "Microsoft Copilot",
+            "href": "https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/controlling-data-exposure-copilot-and-copilot-for-m365-guideline"
+        },
+        {
+            "text": "National Framework for the Assurance of Artificial Intelligence in Government",
+            "href": "https://www.vgso.vic.gov.au/prompt-action-new-framework-guide-public-sector-use-ai"
+        },
+        {
+            "text": "AI Strategy",
+            "href": "https://www.dpc.sa.gov.au/digital-government/ai-strategy"
+        },
+        {
+            "text": "National Framework",
+            "href": "https://www.vgso.vic.gov.au/prompt-action-new-framework-guide-public-sector-use-ai"
+        },
+        {
+            "text": "Digital.NSW",
+            "href": "https://www.digital.nsw.gov.au/policy/artificial-intelligence"
+        },
+        {
+            "text": "ForGov",
+            "href": "https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/artificial-intelligence-governance-policy"
+        },
+        {
+            "text": "VGSO",
+            "href": "https://www.vgso.vic.gov.au/prompt-action-new-framework-guide-public-sector-use-ai"
+        },
+        {
+            "text": "Joey Csunyo",
+            "href": "https://unsplash.com/@joey_csunyo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+        },
+        {
+            "text": "Unsplash",
+            "href": "https://unsplash.com/photos/map-of-australia-2EGuIR00UTk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+        },
+        {
+            "text": "AI",
+            "href": "https://hey.paris/tags/ai/"
+        },
+        {
+            "text": "GOVERNANCE",
+            "href": "https://hey.paris/tags/governance/"
+        },
+        {
+            "text": "AUSTRALIA",
+            "href": "https://hey.paris/tags/australia/"
+        },
+        {
+            "text": "STATES",
+            "href": "https://hey.paris/tags/states/"
+        },
+        {
+            "text": "NSW",
+            "href": "https://hey.paris/tags/nsw/"
+        },
+        {
+            "text": "VICTORIA",
+            "href": "https://hey.paris/tags/victoria/"
+        },
+        {
+            "text": "QUEENSLAND",
+            "href": "https://hey.paris/tags/queensland/"
+        },
+        {
+            "text": "POLICY",
+            "href": "https://hey.paris/tags/policy/"
+        },
+        {
+            "text": "AUSPOL",
+            "href": "https://hey.paris/tags/auspol/"
+        },
+        {
+            "text": "← PREVIOUS\nWhy We Don't Use AI",
+            "href": "https://hey.paris/posts/yarn-spinner-no-ai/"
+        },
+        {
+            "text": "NEXT →\nWe Made a Game About a 1993 Hint Line",
+            "href": "https://hey.paris/posts/hint-line-93/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://hey.paris/privacy/"
+        }
+    ],
+    "text_length": 7684,
+    "text_full": "Paris Buttfield-Addison\nTechnology · Policy · Games · Arts · Education · Writing\nEVENTS\nWRITING\nABOUT\nPOSTS\nJANUARY 19, 2026\nState of Play: How Australian States Are (Not) Governing AI\n\nRelated: This article examines state-level AI governance in Australia. For analysis of the Commonwealth’s AI governance failures, see Slop for the People. For context on the newly announced federal AI Safety Institute, see Australia’s AI Safety Institute: Lessons from the UK and US.\n\nThe Commonwealth government attracts most attention for its AI policies. State and territory governments are also deploying AI systems in education, health, policing, transport, and social services.\n\nEach state governs AI differently. Some are ahead of the Commonwealth. Others barely engage with it. None do it well.\n\nNew South Wales\n\nNSW is the most active Australian jurisdiction on AI governance. NSW’s Artificial Intelligence Strategy sets “the direction on the development and use of AI by NSW Government agencies”. It’s been in place since 2022, well before the Commonwealth’s recent activity.\n\nNSW agencies must follow the AI Ethics Policy, updated on 1 July 2024. The AI Assessment Framework (AIAF) was updated in July 2024 to address “new and emerging risks and opportunities”. NSW departments must “establish minimum governance and assurance standards” for AI deployments.\n\nNSW also released an Agentic AI Guide for AI systems that take autonomous actions.\n\nNSW had mandatory policies before the federal government released its first APS AI Plan. The state’s been working on this for years.\n\nNSW’s policies have the same problems as the Commonwealth’s. They’re not legislation—agencies must comply, but there’s no statutory enforcement. The frameworks check process compliance, not outcomes. NSW won’t tell you what AI systems it actually uses.\n\nQueensland\n\nQueensland released its Artificial Intelligence Governance Policy in September 2024. The policy “focuses on ensuring agency strategic planning for AI demonstrates a structured and consistent approach when evaluating AI solutions for transparency, accountability, and risk.”\n\nQueensland also warned about Microsoft Copilot:\n\n“Data sources accessed by M365 Copilot may contain personal, protected, sensitive, or official information that has been misclassified or secured appropriately. This may lead to the uncontrolled or unauthorised exposure of data.”\n\nQueensland takes Copilot more seriously than the Commonwealth. The state warns about data exposure risks that the federal Copilot trial found but ignored.\n\nQueensland’s policy is less comprehensive than NSW’s, but at least it addresses actual technical risks.\n\nVictoria\n\nVictoria adopted the National Framework for the Assurance of Artificial Intelligence in Government, released by Australia’s Data and Digital Ministers on 21 June 2024. The framework “sets a governance template for Victorian public sector organisations” covering AI adoption, data governance, risk, alignment with AI standards (AS ISO/IEC 42001:2023, AS ISO/IEC 23894:2023, AS ISO/IEC 38507:2022), and procurement.\n\nVictoria didn’t develop its own policy. The state just adopted the national framework.\n\nOther States and Territories\n\nSouth Australia has an AI Strategy about economic opportunity and innovation, not governance and risk.\n\nWestern Australia has almost no AI-specific governance publicly available.\n\nTasmania, ACT, Northern Territory have almost nothing publicly visible.\n\nThe Coordination Problem\n\nAustralian AI governance has no coordination between levels of government.\n\nStates deploy AI in schools, hospitals, police, transport. The Commonwealth’s governance doesn’t cover any of this.\n\nCitizens deal with both levels of government. You might get an AI decision from Centrelink and your state housing authority in the same week. Different governance, different risks, different transparency.\n\nNothing prevents states from using systems the Commonwealth won’t touch. Assessment methodologies aren’t consistent across jurisdictions. Citizens don’t have the same rights depending on which government uses AI on them. Lessons learned in one jurisdiction aren’t shared with others.\n\nThe National Framework is voluntary and high-level. States can ignore it.\n\nWhat Happens When Laws Conflict?\n\nThe Commonwealth’s Privacy Act ADM provisions (commencing December 2026) impose transparency requirements on federal agencies. State agencies using AI on the same citizens have no equivalent obligations.\n\nIf the Commonwealth eventually regulates “high-risk AI”, that regulation won’t apply to state government AI.\n\nThis creates regulatory arbitrage. If the Commonwealth makes AI governance harder, states become attractive venues for deployment. If states are more permissive, Commonwealth policy is undermined.\n\nThe Constitution doesn’t help. The Commonwealth has power over corporations, trade, and some specific areas, but not state government AI use. States have to choose to align.\n\nThe Service Delivery Reality\n\nState governments run services that matter to people’s lives. Education: student assessment, resource allocation, learning support. Health: hospital resource allocation, diagnostic support, treatment recommendations. Policing: predictive policing, facial recognition, evidence analysis. Transport: traffic management, public transport scheduling, road safety. Child protection: risk assessment, case prioritisation, placement decisions. Housing: eligibility assessment, allocation, waitlist management.\n\nAI is already deployed in several of these areas. NSW Police has used facial recognition. Victorian child protection has used risk assessment tools. Queensland Health has explored diagnostic support.\n\nThe governance frameworks reviewed above don’t consistently apply to these deployments. Documentation is inconsistent. Public transparency is minimal.\n\nWhat States Should Do\n\nLegislate. NSW has the most developed framework, but it’s just policy. Policy can be ignored or changed whenever. Laws can’t.\n\nMake AI systems public. Citizens should know what AI their state government uses on them. NSW won’t tell you. That needs to change.\n\nCoordinate nationally. Eight different frameworks means gaps and inconsistencies. States should work through COAG/National Cabinet to develop actual national standards.\n\nReflect local context. Queensland’s tropical health challenges differ from Victoria’s urban density challenges. Don’t copy-paste national templates.\n\nFund enforcement. Governance without enforcement is just paper. States need oversight bodies with real powers and real budgets, not self-assessment checklists.\n\nInvolve affected communities. State AI deployments hit vulnerable populations hardest: people in social housing, child protection clients, people dealing with police. These communities should have a say in how AI is used on them.\n\nThe Federal-State Gap\n\nThe Commonwealth publishes strategies, establishes institutes, attracts media coverage. State governments deploy AI in schools, hospitals, and police stations quietly.\n\nAI governance failures will happen at the state level first. Discriminatory outcomes. Harmful decisions. State governance is less developed, less resourced, less visible.\n\nFederal AI governance alone won’t work. The states matter. Right now, most of them aren’t governing AI seriously.\n\nState AI governance documentation: NSW’s Digital.NSW, Queensland’s ForGov, Victoria’s VGSO. Other states don’t make it easy to find.\n\nCover photo by Joey Csunyo on Unsplash.\n\nAI\nGOVERNANCE\nAUSTRALIA\nSTATES\nNSW\nVICTORIA\nQUEENSLAND\nPOLICY\nAUSPOL\n← PREVIOUS\nWhy We Don't Use AI\nNEXT →\nWe Made a Game About a 1993 Hint Line\n\n© 2026 Dr Paris Buttfield-Addison · Privacy"
+}

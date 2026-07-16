@@ -1,0 +1,350 @@
+{
+    "image_count": 22,
+    "images": [
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/the_register_vulture_logo.53c8756c.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass.9cbf748e.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass_vulture.292e7b64.svg",
+        "https://cdn.theregister.com/assets/images/burger_menu.5dd339c3.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://vendorvoice.theregister.com/media/images/fis_aws_250x100_z6sxtis.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/VV_FIS_23655_lockup.2e16d0ba.fill-648x234.png",
+        "https://vendorvoice.theregister.com/media/images/vv_fis_20807_648x234_set_the_stand.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_fis_20807_648x234_high-performa.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_fis_20807_648x234_transforming_.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_fis_20807_648x234_transforming__jKQvYw4.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_fis_20807_648x234_legacy_to_lea.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_648x234_set_money_in.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_fis_20807_648x234_transforming__iMYj2na.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_648x234_keep_up_with.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_648x234_fis_money_movement-1.2e16d0ba.fill-648x234.jpg",
+        "https://vendorvoice.theregister.com/media/images/vv_648x234_fis_money_movement.2e16d0ba.fill-648x234.jpg",
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_two_lines.7bfa3d3e.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_one_line.b1e3235b.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 79,
+    "links": [
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "WEBINAR\n\nThe Role of Cloud-Native Infrastructure in Payments Modernization\n\nDiscover how financial institutions are modernising payments infrastructure using cloud-native platforms. Join FIS and AWS to explore scalable, resilient approaches for supporting real-time payments, reducing integration complexity, improving operational efficiency, and enabling faster innovation without replacing core banking systems.",
+            "href": "https://go.theregister.com/k/FIS_Webinar_April"
+        },
+        {
+            "text": "WHITEPAPER\n\nSet the Standard in Modern Payments\n\nModernizing payments isn’t just a tech upgrade—it’s a chance to streamline operations, reduce risk, and unlock growth. Learn how FIS and AWS enable secure, scalable cloud-native payments that support real-time processing, simplify operations, and deliver new capabilities without reengineering core systems.",
+            "href": "https://whitepapers.theregister.com/paper/view/45786/set-the-standard-in-modern-payments"
+        },
+        {
+            "text": "VIDEO\n\nAWS re:Invent 2025 - FIS: High-performance instant payment processing at massive scale\n\nExplore how new instant payment schemes like FedNow and RTP are reshaping performance demands for banks. Learn how FIS built a cloud-native money-movement solution on AWS to enable real-time interbank payments via a unified API, at massive scale.",
+            "href": "https://go.theregister.com/k/AWS_Reinvent_Video"
+        },
+        {
+            "text": "VIDEO\n\nTransforming Banking: How Real-Time Payments Are Reshaping Financial Services\n\nSee how FIS uses AWS to power cloud-native instant payments—meeting demanding uptime, resiliency, and integration requirements. This session explores real-time interbank payments through a unified API, plus orchestration at scale with deep observability and centralized data processing.",
+            "href": "https://go.theregister.com/k/Transforming_Banking_Video"
+        },
+        {
+            "text": "Q&A\n\nTransforming payments platforms for a new era\n\nModernize payments for a real-time world. In this Q&A, FIS’s Ade Sturley explains how Money Movement Hub helps financial institutions move beyond legacy constraints with cloud-native agility, resilience, and scalability—supporting new rails, compliance demands, and faster innovation.",
+            "href": "https://go.theregister.com/k/Money_Movement_QA"
+        },
+        {
+            "text": "Q&A\n\nLegacy to leading edge: Payments transformation and the future offinancial institutions\n\nExplore how financial institutions can move beyond legacy constraints to deliver secure, always-on payments. This Q&A covers key industry drivers, cloud modernization strategies, and the role of AI and machine learning in fraud detection, observability, and scalability.",
+            "href": "https://go.theregister.com/k/Legacy_to_leading_edge"
+        },
+        {
+            "text": "WHITEPAPER\n\nSet Money in Motion with Payments Transformation\n\nDiscover how FIS and AWS help financial institutions modernize payments. This white paper explores industry challenges, evolving customer expectations, and how the Money Movement Hub supports secure, scalable, future-ready payment infrastructure",
+            "href": "https://go.theregister.com/k/set_money_in_motion_with_payments_transformation"
+        },
+        {
+            "text": "WEBINAR\n\nTransforming Payments Platforms for a New Era\n\nNorth American payments are transforming fast, but banks face legacy tech, regulatory hurdles, and rising expectations. In this Regcast, FIS and AWS discuss modernizing payments with Money Movement Hub—covering key challenges, cloud-native ecosystems, AI, and steps toward a modern platform.",
+            "href": "https://go.theregister.com/k/Transforming_Payments_Platforms_Webinar"
+        },
+        {
+            "text": "INFOGRAPHIC\n\nKeep up with ever-changing payment schemes\n\nManaging multiple payment schemes is time-consuming and costly. Download our infographic and learn 3 ways on how to unlock strategic growth with the FIS Money Movement Hub.",
+            "href": "https://regmedia.co.uk/2026/01/21/money_movement_infographic.pdf"
+        },
+        {
+            "text": "PRODUCT SHEET\n\nFIS Money Movement Hub factsheet\n\nManaging payments can be complex and costly. Learn how Money Movement Hub simplifies it all with a single API for a full range of U.S schemes. Save time and stay compliant while delivering seamless payment experiences.",
+            "href": "https://regmedia.co.uk/2026/01/21/money_movement_product_sheet.pdf"
+        },
+        {
+            "text": "BROCHURE\n\nFIS Money Movement Hub Brochure\n\nStruggling to manage multiple payment schemes efficiently? Don’t fall behind in the fast-changing payments landscape Discover how the Money Movement Hub can unlock a single gateway to streamline payment operations reduce costs and stay compliant.",
+            "href": "https://go.theregister.com/k/Money_Movement_Hub_Brochure"
+        },
+        {
+            "text": "BACK TO TOP",
+            "href": "https://vendorvoice.theregister.com/aws_fis/#vendor-voice"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/Profile/contact/"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/Profile/about_the_register/"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/Profile/privacy/"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/Profile/terms_and_conditions_of_use/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        }
+    ],
+    "text_length": 4380,
+    "text_full": "Sign in\n\nThe Register Home Page\n\nSearch\nNavigation\n\nSponsored By\n\nMoney Movement Hub\n\nNorth America’s payments industry is evolving fast. This resource center, sponsored by FIS and AWS, explores shifting customer expectations, complex compliance, and modernization challenges. Discover how the FIS Money Movement Hub helps financial institutions build secure, scalable payment infrastructure to compete in an always-on, rapidly changing landscape.\n\nWEBINAR\n\nThe Role of Cloud-Native Infrastructure in Payments Modernization\n\nDiscover how financial institutions are modernising payments infrastructure using cloud-native platforms. Join FIS and AWS to explore scalable, resilient approaches for supporting real-time payments, reducing integration complexity, improving operational efficiency, and enabling faster innovation without replacing core banking systems.\n\nWHITEPAPER\n\nSet the Standard in Modern Payments\n\nModernizing payments isn’t just a tech upgrade—it’s a chance to streamline operations, reduce risk, and unlock growth. Learn how FIS and AWS enable secure, scalable cloud-native payments that support real-time processing, simplify operations, and deliver new capabilities without reengineering core systems.\n\nVIDEO\n\nAWS re:Invent 2025 - FIS: High-performance instant payment processing at massive scale\n\nExplore how new instant payment schemes like FedNow and RTP are reshaping performance demands for banks. Learn how FIS built a cloud-native money-movement solution on AWS to enable real-time interbank payments via a unified API, at massive scale.\n\nVIDEO\n\nTransforming Banking: How Real-Time Payments Are Reshaping Financial Services\n\nSee how FIS uses AWS to power cloud-native instant payments—meeting demanding uptime, resiliency, and integration requirements. This session explores real-time interbank payments through a unified API, plus orchestration at scale with deep observability and centralized data processing.\n\nQ&A\n\nTransforming payments platforms for a new era\n\nModernize payments for a real-time world. In this Q&A, FIS’s Ade Sturley explains how Money Movement Hub helps financial institutions move beyond legacy constraints with cloud-native agility, resilience, and scalability—supporting new rails, compliance demands, and faster innovation.\n\nQ&A\n\nLegacy to leading edge: Payments transformation and the future offinancial institutions\n\nExplore how financial institutions can move beyond legacy constraints to deliver secure, always-on payments. This Q&A covers key industry drivers, cloud modernization strategies, and the role of AI and machine learning in fraud detection, observability, and scalability.\n\nWHITEPAPER\n\nSet Money in Motion with Payments Transformation\n\nDiscover how FIS and AWS help financial institutions modernize payments. This white paper explores industry challenges, evolving customer expectations, and how the Money Movement Hub supports secure, scalable, future-ready payment infrastructure\n\nWEBINAR\n\nTransforming Payments Platforms for a New Era\n\nNorth American payments are transforming fast, but banks face legacy tech, regulatory hurdles, and rising expectations. In this Regcast, FIS and AWS discuss modernizing payments with Money Movement Hub—covering key challenges, cloud-native ecosystems, AI, and steps toward a modern platform.\n\nINFOGRAPHIC\n\nKeep up with ever-changing payment schemes\n\nManaging multiple payment schemes is time-consuming and costly. Download our infographic and learn 3 ways on how to unlock strategic growth with the FIS Money Movement Hub.\n\nPRODUCT SHEET\n\nFIS Money Movement Hub factsheet\n\nManaging payments can be complex and costly. Learn how Money Movement Hub simplifies it all with a single API for a full range of U.S schemes. Save time and stay compliant while delivering seamless payment experiences.\n\nBROCHURE\n\nFIS Money Movement Hub Brochure\n\nStruggling to manage multiple payment schemes efficiently? Don’t fall behind in the fast-changing payments landscape Discover how the Money Movement Hub can unlock a single gateway to streamline payment operations reduce costs and stay compliant.\n\nBACK TO TOP\nThe Register Home Page\n\nBiting the hand that feeds IT\n\nABOUT US\nContact us\nAdvertise with us\nWho we are\nOUR WEBSITES\nThe Next Platform\nDevClass\nBlocks and Files\nYOUR PRIVACY\nCookies Policy\nPrivacy Policy\nTs & Cs\nSituation Publishing\n\nCopyright. All rights reserved © 1998–2026"
+}

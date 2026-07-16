@@ -1,0 +1,71 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 15,
+    "links": [
+        {
+            "text": "",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "home",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "demo",
+            "href": "https://old.jstree.com/demo"
+        },
+        {
+            "text": "documentation",
+            "href": "https://old.jstree.com/documentation"
+        },
+        {
+            "text": "faq",
+            "href": "https://old.jstree.com/faq"
+        },
+        {
+            "text": "check the new version out",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Download\npre 1.0 fix 2",
+            "href": "https://github.com/vakata/jstree/archive/v.pre1.0.zip"
+        },
+        {
+            "text": "Discussion group",
+            "href": "https://groups.google.com/group/jstree"
+        },
+        {
+            "text": "jstree on GitHub",
+            "href": "https://github.com/vakata/jstree"
+        },
+        {
+            "text": "Submit a bug",
+            "href": "https://github.com/vakata/jstree/issues"
+        },
+        {
+            "text": "Support jsTree",
+            "href": "https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@vakata.com&currency_code=USD&amount=&return=https://old.jstree.com/donation&item_name=Buy+me+a+coffee+for+jsTree"
+        },
+        {
+            "text": "download",
+            "href": "https://code.google.com/p/jstree/downloads/list"
+        },
+        {
+            "text": "valid CSS",
+            "href": "http://jigsaw.w3.org/css-validator/check/referer"
+        },
+        {
+            "text": "valid XHTML",
+            "href": "http://validator.w3.org/check?uri=referer"
+        },
+        {
+            "text": "Ivan Bozhanov",
+            "href": "http://vakata.com/"
+        }
+    ],
+    "text_length": 3028,
+    "text_full": "jsTree\njquery tree plugin\n \nhome\ndemo\ndocumentation\nfaq\nYou are browsing the old site - check the new version out\nDownload\npre 1.0 fix 2\n\n03 Sep 2012\n\nDeveloper resources\nDiscussion group\njstree on GitHub\nSubmit a bug\nSupport jsTree\nThank you\n\nIT Consulting VPNC Tec., Lambisoft Inc., Gene Davis, Latko Management INc., ThinkingMedia, Patrick Harken, Shtripling Sergey, Cameron Seibel, Alexander Shchagin, Bruno Winck, Andreas Stephan, Scott Beaman, Stephen Rosman, Roger Martin, Dan Sexton, Mario Albacete, Listorado, Zaramuk Shardan, Joachim Frischknecht, David Waite, getYourNet IT Services, Competition Management Services, Deborah Reddin, Humane tehnologije, Christian Quirós, Jose Mera, Kresimir Katusic, Dobromir Radichkov, Mario Boggio, Douglas Stanley, Silvio Costantini, J SPIT, Stigur Thorhallsson, Transparent Technologies, Kronos WebSoft, Matthew Alexander, Bailey Projects, Shau-Chi Tse, Chris Wigley, Lewis Duke, Noaman Sachwani, Tommi Kiviniemi, Régis Guyomarch, Luis Fraile Hernández, Bruno Winck, Gareth Farrington, Janusz Noszczyński, Damir Secki, Martin Fisher, Martin Möhnen, Aaron Stone, Adevsoft Inc, Manuel Graf, Joseph Canton, Net Design Ltd, LiquidNet Ltd, Sabin Ioan Cirimpei, Walter Gamba, William Morris, Marcel Wijnands, Webunity.nl, Tactics bvba, Brendon Muir, Philip Ehret, Rinaldas Lazickas, Jake Liu, Pete Smith, Chris Means, Quentin Zervaas, Red Paint Multimedia, Olof Törnqvist, Meshach Weber, Mee Fong Huang, Octavalent, Kevin Papst, Michael Schmidt, Justin Wright, VariPath Technologies, Mate Skoblar, John Lewin, Alvin Schur, Jacob Hochstetler, Heiner Merten, Harold Owen, Kaloyan Tsvetkov, Oliver Jones, Johan Sörlin, Edwin de Vries\n\nFAQ\n\nSome settings or functions do not work properly, tree is not behaving properly.\n\nUSE VALID IDs: ID and NAME tokens must begin with a letter ([A-Za-z]) and may be followed by any number of letters, digits ([0-9]), hyphens (\"-\"), underscores (\"_\"), colons (\":\"), and periods (\".\").\n\nIf you use periods (\".\") in your IDs keep in mind jsTree deals with jquery selectors. So an ID like this: my.id, would become \"#my\\\\.id\".\n\nI am using XML as data source, but I get infinite loading.\n\nFirst of all – make sure you are running your files on a web server and not from the local file system (the address you see in the browser should not begin with ‘file://’).\nAlso check the headers the server returns for the file you request. Any XML file should be preceded by a `text/xml` header.\n\nWhere are the docs for previous jstree versions.\n\nA copy of the documentation for a given version is available in each download.\n\nI am redirecting the page onclick and use the cookie plugin, I get an infinite loop.\n\nCheck if this is the first time this page loads. Otherwise as the page loads, the script selects the last selected node and leads to another refresh of the same page – endless cycle. Try this in your select_node event handler:\n\n  if(!first) {\n    first = true;\n    return;\n  }\n  document.location.href = ...\n\nvalid CSS valid XHTML Created by Ivan Bozhanov"
+}

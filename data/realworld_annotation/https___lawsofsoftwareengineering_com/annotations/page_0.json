@@ -1,0 +1,331 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/front-cover.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 79,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "Y\n1.1k points on Hacker News",
+            "href": "https://news.ycombinator.com/item?id=47847179"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "TEAMS\nConway's Law\n\nOrganizations design systems that mirror their own communication structure.",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/"
+        },
+        {
+            "text": "PLANNING\nPremature Optimization (Knuth's Optimization Principle)\n\nPremature optimization is the root of all evil.",
+            "href": "https://lawsofsoftwareengineering.com/laws/premature-optimization/"
+        },
+        {
+            "text": "ARCHITECTURE\nHyrum's Law\n\nWith a sufficient number of API users, all observable behaviors of your system will be depended on by somebody.",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/"
+        },
+        {
+            "text": "QUALITY\nThe Boy Scout Rule\n\nLeave the code better than you found it.",
+            "href": "https://lawsofsoftwareengineering.com/laws/boy-scout-rule/"
+        },
+        {
+            "text": "DESIGN\nYAGNI (You Aren't Gonna Need It)\n\nDon't add functionality until it is necessary.",
+            "href": "https://lawsofsoftwareengineering.com/laws/yagni/"
+        },
+        {
+            "text": "TEAMS\nBrooks's Law\n\nAdding manpower to a late software project makes it later.",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/"
+        },
+        {
+            "text": "ARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.",
+            "href": "https://lawsofsoftwareengineering.com/laws/galls-law/"
+        },
+        {
+            "text": "ARCHITECTURE\nThe Law of Leaky Abstractions\n\nAll non-trivial abstractions, to some degree, are leaky.",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/"
+        },
+        {
+            "text": "ARCHITECTURE\nTesler's Law (Conservation of Complexity)\n\nEvery application has an inherent amount of irreducible complexity that can only be shifted, not eliminated.",
+            "href": "https://lawsofsoftwareengineering.com/laws/teslers-law/"
+        },
+        {
+            "text": "C\nA\nP\nARCHITECTURE\nCAP Theorem\n\nA distributed system can guarantee only two of: consistency, availability, and partition tolerance.",
+            "href": "https://lawsofsoftwareengineering.com/laws/cap-theorem/"
+        },
+        {
+            "text": "ARCHITECTURE\nSecond-System Effect\n\nSmall, successful systems tend to be followed by overengineered, bloated replacements.",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/"
+        },
+        {
+            "text": "ARCHITECTURE\nFallacies of Distributed Computing\n\nA set of eight false assumptions that new distributed system designers often make.",
+            "href": "https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/"
+        },
+        {
+            "text": "ARCHITECTURE\nLaw of Unintended Consequences\n\nWhenever you change a complex system, expect surprise.",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-unintended-consequences/"
+        },
+        {
+            "text": "+\n+\n+\n+\n+\nARCHITECTURE\nZawinski's Law\n\nEvery program attempts to expand until it can read mail.",
+            "href": "https://lawsofsoftwareengineering.com/laws/zawinskis-law/"
+        },
+        {
+            "text": "150\nTEAMS\nDunbar's Number\n\nThere is a cognitive limit of about 150 stable relationships one person can maintain.",
+            "href": "https://lawsofsoftwareengineering.com/laws/dunbars-number/"
+        },
+        {
+            "text": "TEAMS\nThe Ringelmann Effect\n\nIndividual productivity decreases as group size increases.",
+            "href": "https://lawsofsoftwareengineering.com/laws/ringelmann-effect/"
+        },
+        {
+            "text": "N\nTEAMS\nPrice's Law\n\nThe square root of the total number of participants does 50% of the work.",
+            "href": "https://lawsofsoftwareengineering.com/laws/prices-law/"
+        },
+        {
+            "text": "?\n⚙\n⚙\nTEAMS\nPutt's Law\n\nThose who understand technology don't manage it, and those who manage it don't understand it.",
+            "href": "https://lawsofsoftwareengineering.com/laws/putts-law/"
+        },
+        {
+            "text": "TEAMS\nPeter Principle\n\nIn a hierarchy, every employee tends to rise to their level of incompetence.",
+            "href": "https://lawsofsoftwareengineering.com/laws/peter-principle/"
+        },
+        {
+            "text": "1\nTEAMS\nBus Factor\n\nThe minimum number of team members whose loss would put the project in serious trouble.",
+            "href": "https://lawsofsoftwareengineering.com/laws/bus-factor/"
+        },
+        {
+            "text": "✓\n?\nTEAMS\nDilbert Principle\n\nCompanies tend to promote incompetent employees to management to limit the damage they can do.",
+            "href": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/"
+        },
+        {
+            "text": "PLANNING\nParkinson's Law\n\nWork expands to fill the time available for its completion.",
+            "href": "https://lawsofsoftwareengineering.com/laws/parkinsons-law/"
+        },
+        {
+            "text": "90%\n+90%\nPLANNING\nThe Ninety-Ninety Rule\n\nThe first 90% of the code accounts for the first 90% of development time; the remaining 10% accounts for the other 90%.",
+            "href": "https://lawsofsoftwareengineering.com/laws/ninety-ninety-rule/"
+        },
+        {
+            "text": "+\nPLANNING\nHofstadter's Law\n\nIt always takes longer than you expect, even when you take into account Hofstadter's Law.",
+            "href": "https://lawsofsoftwareengineering.com/laws/hofstadters-law/"
+        },
+        {
+            "text": "PLANNING\nGoodhart's Law\n\nWhen a measure becomes a target, it ceases to be a good measure.",
+            "href": "https://lawsofsoftwareengineering.com/laws/goodharts-law/"
+        },
+        {
+            "text": "PLANNING\nGilb's Law\n\nAnything you need to quantify can be measured in some way better than not measuring it.",
+            "href": "https://lawsofsoftwareengineering.com/laws/gilbs-law/"
+        },
+        {
+            "text": "QUALITY\nMurphy's Law / Sod's Law\n\nAnything that can go wrong will go wrong.",
+            "href": "https://lawsofsoftwareengineering.com/laws/murphys-law/"
+        },
+        {
+            "text": "QUALITY\nPostel's Law\n\nBe conservative in what you do, be liberal in what you accept from others.",
+            "href": "https://lawsofsoftwareengineering.com/laws/postels-law/"
+        },
+        {
+            "text": "QUALITY\nBroken Windows Theory\n\nDon't leave broken windows (bad designs, wrong decisions, or poor code) unrepaired.",
+            "href": "https://lawsofsoftwareengineering.com/laws/broken-windows-theory/"
+        },
+        {
+            "text": "$\n%\nQUALITY\nTechnical Debt\n\nTechnical Debt is everything that slows us down when developing software.",
+            "href": "https://lawsofsoftwareengineering.com/laws/technical-debt/"
+        },
+        {
+            "text": "QUALITY\nLinus's Law\n\nGiven enough eyeballs, all bugs are shallow.",
+            "href": "https://lawsofsoftwareengineering.com/laws/linuss-law/"
+        },
+        {
+            "text": "QUALITY\nKernighan's Law\n\nDebugging is twice as hard as writing the code in the first place.",
+            "href": "https://lawsofsoftwareengineering.com/laws/kernighans-law/"
+        },
+        {
+            "text": "QUALITY\nTesting Pyramid\n\nA project should have many fast unit tests, fewer integration tests, and only a small number of UI tests.",
+            "href": "https://lawsofsoftwareengineering.com/laws/testing-pyramid/"
+        },
+        {
+            "text": "QUALITY\nPesticide Paradox\n\nRepeatedly running the same tests becomes less effective over time.",
+            "href": "https://lawsofsoftwareengineering.com/laws/pesticide-paradox/"
+        },
+        {
+            "text": "QUALITY\nLehman's Laws of Software Evolution\n\nSoftware that reflects the real world must evolve, and that evolution has predictable limits.",
+            "href": "https://lawsofsoftwareengineering.com/laws/lehmans-laws/"
+        },
+        {
+            "text": "QUALITY\nSturgeon's Law\n\n90% of everything is crap.",
+            "href": "https://lawsofsoftwareengineering.com/laws/sturgeons-law/"
+        },
+        {
+            "text": "SCALE\nAmdahl's Law\n\nThe speedup from parallelization is limited by the fraction of work that cannot be parallelized.",
+            "href": "https://lawsofsoftwareengineering.com/laws/amdahls-law/"
+        },
+        {
+            "text": "SCALE\nGustafson's Law\n\nIt is possible to achieve significant speedup in parallel processing by increasing the problem size.",
+            "href": "https://lawsofsoftwareengineering.com/laws/gustafsons-law/"
+        },
+        {
+            "text": "SCALE\nMetcalfe's Law\n\nThe value of a network is proportional to the square of the number of users.",
+            "href": "https://lawsofsoftwareengineering.com/laws/metcalfes-law/"
+        },
+        {
+            "text": "1\nDESIGN\nDRY (Don't Repeat Yourself)\n\nEvery piece of knowledge must have a single, unambiguous, authoritative representation.",
+            "href": "https://lawsofsoftwareengineering.com/laws/dry-principle/"
+        },
+        {
+            "text": "DESIGN\nKISS (Keep It Simple, Stupid)\n\nDesigns and systems should be as simple as possible.",
+            "href": "https://lawsofsoftwareengineering.com/laws/kiss-principle/"
+        },
+        {
+            "text": "DESIGN\nSOLID Principles\n\nFive main guidelines that enhance software design, making code more maintainable and scalable.",
+            "href": "https://lawsofsoftwareengineering.com/laws/solid-principles/"
+        },
+        {
+            "text": "A\nB\nC\nDESIGN\nLaw of Demeter\n\nAn object should only interact with its immediate friends, not strangers.",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-demeter/"
+        },
+        {
+            "text": "DESIGN\nPrinciple of Least Astonishment\n\nSoftware and interfaces should behave in a way that least surprises users and other developers.",
+            "href": "https://lawsofsoftwareengineering.com/laws/principle-of-least-astonishment/"
+        },
+        {
+            "text": "DECISIONS\nDunning-Kruger Effect\n\nThe less you know about something, the more confident you tend to be.",
+            "href": "https://lawsofsoftwareengineering.com/laws/dunning-kruger-effect/"
+        },
+        {
+            "text": "DECISIONS\nHanlon's Razor\n\nNever attribute to malice that which is adequately explained by stupidity or carelessness.",
+            "href": "https://lawsofsoftwareengineering.com/laws/hanlons-razor/"
+        },
+        {
+            "text": "DECISIONS\nOccam's Razor\n\nThe simplest explanation is often the most accurate one.",
+            "href": "https://lawsofsoftwareengineering.com/laws/occams-razor/"
+        },
+        {
+            "text": "DECISIONS\nSunk Cost Fallacy\n\nSticking with a choice because you've invested time or energy in it, even when walking away helps you.",
+            "href": "https://lawsofsoftwareengineering.com/laws/sunk-cost-fallacy/"
+        },
+        {
+            "text": "≠\nMAP\nREAL\nDECISIONS\nThe Map Is Not the Territory\n\nOur representations of reality are not the same as reality itself.",
+            "href": "https://lawsofsoftwareengineering.com/laws/map-is-not-the-territory/"
+        },
+        {
+            "text": "DECISIONS\nConfirmation Bias\n\nA tendency to favor information that supports our existing beliefs or ideas.",
+            "href": "https://lawsofsoftwareengineering.com/laws/confirmation-bias/"
+        },
+        {
+            "text": "DECISIONS\nThe Hype Cycle & Amara's Law\n\nWe tend to overestimate the effect of a technology in the short run and underestimate the impact in the long run.",
+            "href": "https://lawsofsoftwareengineering.com/laws/hype-cycle-amaras-law/"
+        },
+        {
+            "text": "+\nDECISIONS\nThe Lindy Effect\n\nThe longer something has been in use, the more likely it is to continue being used.",
+            "href": "https://lawsofsoftwareengineering.com/laws/lindy-effect/"
+        },
+        {
+            "text": "?\nDECISIONS\nFirst Principles Thinking\n\nBreaking a complex problem into its most basic blocks and then building up from there.",
+            "href": "https://lawsofsoftwareengineering.com/laws/first-principles-thinking/"
+        },
+        {
+            "text": "DECISIONS\nInversion\n\nSolving a problem by considering the opposite outcome and working backward from it.",
+            "href": "https://lawsofsoftwareengineering.com/laws/inversion/"
+        },
+        {
+            "text": "80%\n20%\nDECISIONS\nPareto Principle (80/20 Rule)\n\n80% of the problems result from 20% of the causes.",
+            "href": "https://lawsofsoftwareengineering.com/laws/pareto-principle/"
+        },
+        {
+            "text": "✗\nDECISIONS\nCunningham's Law\n\nThe best way to get the correct answer on the Internet is not to ask a question, it's to post the wrong answer.",
+            "href": "https://lawsofsoftwareengineering.com/laws/cunninghams-law/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 6743,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\nLaws of Software Engineering\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n56 laws\n•\nClick any card to learn more\nY\n1.1k points on Hacker News\nLEVEL\nAll\nJunior\nMid-Level\nSenior\nCATEGORY\nAll\nArchitecture\nTeams\nPlanning\nQuality\nScale\nDesign\nDecisions\nTEAMS\nConway's Law\n\nOrganizations design systems that mirror their own communication structure.\n\nPLANNING\nPremature Optimization (Knuth's Optimization Principle)\n\nPremature optimization is the root of all evil.\n\nARCHITECTURE\nHyrum's Law\n\nWith a sufficient number of API users, all observable behaviors of your system will be depended on by somebody.\n\nQUALITY\nThe Boy Scout Rule\n\nLeave the code better than you found it.\n\nDESIGN\nYAGNI (You Aren't Gonna Need It)\n\nDon't add functionality until it is necessary.\n\nTEAMS\nBrooks's Law\n\nAdding manpower to a late software project makes it later.\n\nARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.\n\nARCHITECTURE\nThe Law of Leaky Abstractions\n\nAll non-trivial abstractions, to some degree, are leaky.\n\nARCHITECTURE\nTesler's Law (Conservation of Complexity)\n\nEvery application has an inherent amount of irreducible complexity that can only be shifted, not eliminated.\n\nC\nA\nP\nARCHITECTURE\nCAP Theorem\n\nA distributed system can guarantee only two of: consistency, availability, and partition tolerance.\n\nARCHITECTURE\nSecond-System Effect\n\nSmall, successful systems tend to be followed by overengineered, bloated replacements.\n\nARCHITECTURE\nFallacies of Distributed Computing\n\nA set of eight false assumptions that new distributed system designers often make.\n\nARCHITECTURE\nLaw of Unintended Consequences\n\nWhenever you change a complex system, expect surprise.\n\n+\n+\n+\n+\n+\nARCHITECTURE\nZawinski's Law\n\nEvery program attempts to expand until it can read mail.\n\n150\nTEAMS\nDunbar's Number\n\nThere is a cognitive limit of about 150 stable relationships one person can maintain.\n\nTEAMS\nThe Ringelmann Effect\n\nIndividual productivity decreases as group size increases.\n\nN\nTEAMS\nPrice's Law\n\nThe square root of the total number of participants does 50% of the work.\n\n?\n⚙\n⚙\nTEAMS\nPutt's Law\n\nThose who understand technology don't manage it, and those who manage it don't understand it.\n\nTEAMS\nPeter Principle\n\nIn a hierarchy, every employee tends to rise to their level of incompetence.\n\n1\nTEAMS\nBus Factor\n\nThe minimum number of team members whose loss would put the project in serious trouble.\n\n✓\n?\nTEAMS\nDilbert Principle\n\nCompanies tend to promote incompetent employees to management to limit the damage they can do.\n\nPLANNING\nParkinson's Law\n\nWork expands to fill the time available for its completion.\n\n90%\n+90%\nPLANNING\nThe Ninety-Ninety Rule\n\nThe first 90% of the code accounts for the first 90% of development time; the remaining 10% accounts for the other 90%.\n\n+\nPLANNING\nHofstadter's Law\n\nIt always takes longer than you expect, even when you take into account Hofstadter's Law.\n\nPLANNING\nGoodhart's Law\n\nWhen a measure becomes a target, it ceases to be a good measure.\n\nPLANNING\nGilb's Law\n\nAnything you need to quantify can be measured in some way better than not measuring it.\n\nQUALITY\nMurphy's Law / Sod's Law\n\nAnything that can go wrong will go wrong.\n\nQUALITY\nPostel's Law\n\nBe conservative in what you do, be liberal in what you accept from others.\n\nQUALITY\nBroken Windows Theory\n\nDon't leave broken windows (bad designs, wrong decisions, or poor code) unrepaired.\n\n$\n%\nQUALITY\nTechnical Debt\n\nTechnical Debt is everything that slows us down when developing software.\n\nQUALITY\nLinus's Law\n\nGiven enough eyeballs, all bugs are shallow.\n\nQUALITY\nKernighan's Law\n\nDebugging is twice as hard as writing the code in the first place.\n\nQUALITY\nTesting Pyramid\n\nA project should have many fast unit tests, fewer integration tests, and only a small number of UI tests.\n\nQUALITY\nPesticide Paradox\n\nRepeatedly running the same tests becomes less effective over time.\n\nQUALITY\nLehman's Laws of Software Evolution\n\nSoftware that reflects the real world must evolve, and that evolution has predictable limits.\n\nQUALITY\nSturgeon's Law\n\n90% of everything is crap.\n\nSCALE\nAmdahl's Law\n\nThe speedup from parallelization is limited by the fraction of work that cannot be parallelized.\n\nSCALE\nGustafson's Law\n\nIt is possible to achieve significant speedup in parallel processing by increasing the problem size.\n\nSCALE\nMetcalfe's Law\n\nThe value of a network is proportional to the square of the number of users.\n\n1\nDESIGN\nDRY (Don't Repeat Yourself)\n\nEvery piece of knowledge must have a single, unambiguous, authoritative representation.\n\nDESIGN\nKISS (Keep It Simple, Stupid)\n\nDesigns and systems should be as simple as possible.\n\nDESIGN\nSOLID Principles\n\nFive main guidelines that enhance software design, making code more maintainable and scalable.\n\nA\nB\nC\nDESIGN\nLaw of Demeter\n\nAn object should only interact with its immediate friends, not strangers.\n\nDESIGN\nPrinciple of Least Astonishment\n\nSoftware and interfaces should behave in a way that least surprises users and other developers.\n\nDECISIONS\nDunning-Kruger Effect\n\nThe less you know about something, the more confident you tend to be.\n\nDECISIONS\nHanlon's Razor\n\nNever attribute to malice that which is adequately explained by stupidity or carelessness.\n\nDECISIONS\nOccam's Razor\n\nThe simplest explanation is often the most accurate one.\n\nDECISIONS\nSunk Cost Fallacy\n\nSticking with a choice because you've invested time or energy in it, even when walking away helps you.\n\n≠\nMAP\nREAL\nDECISIONS\nThe Map Is Not the Territory\n\nOur representations of reality are not the same as reality itself.\n\nDECISIONS\nConfirmation Bias\n\nA tendency to favor information that supports our existing beliefs or ideas.\n\nDECISIONS\nThe Hype Cycle & Amara's Law\n\nWe tend to overestimate the effect of a technology in the short run and underestimate the impact in the long run.\n\n+\nDECISIONS\nThe Lindy Effect\n\nThe longer something has been in use, the more likely it is to continue being used.\n\n?\nDECISIONS\nFirst Principles Thinking\n\nBreaking a complex problem into its most basic blocks and then building up from there.\n\nDECISIONS\nInversion\n\nSolving a problem by considering the opposite outcome and working backward from it.\n\n80%\n20%\nDECISIONS\nPareto Principle (80/20 Rule)\n\n80% of the problems result from 20% of the causes.\n\n✗\nDECISIONS\nCunningham's Law\n\nThe best way to get the correct answer on the Internet is not to ask a question, it's to post the wrong answer.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

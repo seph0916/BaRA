@@ -1,0 +1,85 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/rails-7-2-to-8-2_hu174675eee2300c9c008dccf4efa9a415_315590_1500x0_resize_q75_h2_box_2.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 18,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "upgrades",
+            "href": "https://piechowski.io/tags/upgrades"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "activerecord",
+            "href": "https://piechowski.io/tags/activerecord"
+        },
+        {
+            "text": "here’s how I approach the Gemfile",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "I wrote a full migration guide",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/"
+        },
+        {
+            "text": "next_rails",
+            "href": "https://github.com/fastruby/next_rails"
+        },
+        {
+            "text": "get in touch",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/#footer"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Migrating from Sprockets to Propshaft: Is It Worth It?",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        }
+    ],
+    "text_length": 11911,
+    "text_full": "Work With Me\nGithub\nBlog\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\n\nEverything that breaks upgrading Rails 7.2 to 8.1, and how to fix it: enum syntax, the Solid trifecta, Propshaft, params.expect, and every silent regression.\n\nAlly Piechowski · Mar 31, 2026 · 8 min read\nrails\nruby\nupgrades\nlegacy\nactiverecord\n\nRails 8 wants you to drop Redis, drop Sprockets, drop Sidekiq, and adopt a full stack of database-backed infrastructure. None of that is mandatory yet. The gap widens with every minor release.\n\nThe Rails 7.2 to 8.1 upgrade itself is one of the smoother major version jumps in recent Rails history. Fewer hard removals, fewer gotchas that prevent the app from booting. The ecosystem migration is where teams get stuck.\n\nTL;DR: Breaking: enum syntax, to_time behavior, schema column reordering | New: Solid trifecta, params.expect, auth generator | Strategy: dual boot on main, not a branch\n\nBefore You Touch the Gemfile\nUpgrade Ruby First\n\nRails 8.0 requires Ruby 3.2 minimum, and 3.4 is recommended for 8.1.\n\nRails Version\tMinimum Ruby\tRecommended\n7.2\t3.1\t3.2+\n8.0\t3.2\t3.3+\n8.1\t3.2\t3.4+\n\nIf you’re going to Ruby 3.4, two things to watch:\n\ncsv was removed from Ruby’s standard library. If anything in your app or gems uses CSV parsing, add gem \"csv\" to your Gemfile explicitly. This surfaces as a confusing LoadError that doesn’t mention the Ruby version change.\n\nit is now the default block parameter in Ruby 3.4 (like _1 but named). Any code using it as a block-local variable name will silently change behavior. RSpec’s it method is fine since it’s a method call, not a variable, but custom helpers or code inside spec blocks that use it as a local variable will bite you.\n\nFix Your Deprecation Warnings\n\nOn your Rails 7.2 app:\n\n# config/environments/test.rb\nRails.application.deprecators.behavior = :raise\n\n\nRun your full test suite. The common ones you’ll hit:\n\nenum defined with keyword arguments → use positional hash syntax\nActiveRecord::ConnectionAdapters::ConnectionPool#connection → use #with_connection or #lease_connection\nconfig.active_record.commit_transaction_on_non_local_return → removed in 8.0, decide your behavior now\nActiveSupport::ProxyObject → gone, use BasicObject directly\nPassing nil to form_with model: → use an explicit empty object or omit the argument\n\nThese were warnings in 7.2. They’re NoMethodError or ArgumentError in 8.0.\n\nCheck Gem Compatibility\nbundle outdated\nbundle exec bundle_report compatibility --rails-version=8.1\nbundle exec bundle-audit check --update  # security vulnerabilities\n\n\nIf you’re doing a broader codebase audit alongside the upgrade, here’s how I approach the Gemfile.\n\nGems that might break:\n\nDevise: check their Rails 8.1 compatibility status. Version 5.x is current; older versions have known issues. Watch for status: :unprocessable_entity becoming status: :unprocessable_content.\nActiveAdmin: still catching up. Check their Rails 8 compatibility issues before committing.\nacts-as-taggable-on: version 12.x supports Rails 8.0, but watch for mb_chars deprecation warnings on 8.2. Check their issues page for the latest compatibility status.\nSimpleCov: older versions throw REXML::ParseException on Rails 8. Update to latest.\nWebMock: older versions emit Net::HTTPSession is deprecated warnings on Ruby 3.4. Update.\nWhat Breaks in the Rails 7.2 to 8.1 Upgrade\nThe Enum Syntax Change\n\nThis is the one that bites the most codebases. Rails 8 removes the deprecated keyword argument syntax for enums:\n\n# Before (removed in Rails 8):\nenum status: { active: 0, archived: 1 }\nenum status: { active: 0, archived: 1 }, _prefix: true\n\n# After:\nenum :status, { active: 0, archived: 1 }\nenum :status, { active: 0, archived: 1 }, prefix: true\n\n\nThe first positional argument is now the enum name. The second is the mapping. Options like _prefix, _suffix, and _default drop their underscores.\n\nIf you have a lot of enums, this is the busywork of the upgrade. A find-and-replace gets you 90% of the way:\n\ngrep -rn \"enum.*:\" app/models/\n\nRegexp.timeout Default\n\nRails 8 sets Regexp.timeout to 1 second by default for ReDoS protection. Most apps won’t hit this, but if you do complex regex matching against user input, test your edge cases; they’ll raise Regexp::TimeoutError instead of hanging.\n\nRemovals\nbin/rake stats: gone, use bin/rails stats\nBenchmark.ms: deprecated without an official replacement. Ruby’s Benchmark.realtime is the closest alternative\nAzure storage service for Active Storage: removed\nSemicolons as query string separators: removed\nSQLite3 adapter :retries option: deprecated in favor of :timeout\nRails Console Customizations\n\nrails/console/app, rails/console/helpers, and extending the console via Rails::ConsoleMethods are all removed in Rails 8.0. If you have console helpers in an initializer or a custom console setup, they’ll silently stop loading.\n\nMove any console helpers to a plain Ruby module and include it manually, or use the console block in config/environments/development.rb:\n\nconsole do\n  include MyConsoleHelpers\nend\n\nto_time Now Always Preserves Timezone\n\nconfig.active_support.to_time_preserves_timezone is deprecated in Rails 8.1. The legacy false option is removed, and TimeWithZone#to_time now always preserves the receiver’s named timezone:\n\n# Old behavior (to_time_preserves_timezone = false):\ntime_with_zone.to_time\n# => converted to system local time\n\n# New enforced behavior:\ntime_with_zone.to_time\n# => preserves the named timezone\n\n\nIf your app has config.active_support.to_time_preserves_timezone = false, remove it and test any .to_time calls on TimeWithZone objects.\n\nLeading Brackets in Parameter Names\n\n[foo]=bar in a query string used to parse as {\"foo\" => \"bar\"}. In Rails 8.1 it parses as {\"[foo]\" => \"bar\"}. If any API clients or forms submit parameter names starting with [, they’ll silently break: params just won’t match what the controller expects.\n\nWhat’s New in Rails 8.1\nparams.expect\n\nRails 8 introduces params.expect as the preferred replacement for params.require(:foo).permit(:bar). The old syntax still works (it’s not removed), but new Rails generators use expect, and it’s stricter about parameter structure.\n\n# Before:\nparams.require(:post).permit(:title, :body, comments: [:message])\n\n# After:\nparams.expect(post: [:title, :body, comments: [[:message]]])\n\n\nparams.expect validates the shape of the parameters, not just their presence. If someone sends post=123 instead of post[title]=foo, require would raise but expect handles this more consistently.\n\nThe double-array on comments isn’t a typo. [:message] means “a hash with a message key.” [[:message]] means “an array of hashes each with a message key.” params.expect requires you to be explicit about which you expect. Get it wrong and you’ll silently permit nothing.\n\nparams.expect returns an ActionController::Parameters object, same as permit. It’s designed to replace the full require(...).permit(...) chain, not be chained onto.\n\nFor new controllers, use expect. No need to migrate old ones all at once.\n\nPropshaft Is the Default Asset Pipeline\n\nNew Rails 8 apps get Propshaft instead of Sprockets. Existing apps keep Sprockets.\n\nIf you want to move to Propshaft, I wrote a full migration guide.\n\nIf your pipeline is stable, keep it. Add gem \"sprockets-rails\" to your Gemfile and move on.\n\nThe Solid Trifecta\n\nRails 8’s headline feature is database-backed replacements for Redis:\n\nSolid Queue: background jobs, replaces Sidekiq/Resque\nSolid Cache: fragment caching, replaces Redis/Memcached\nSolid Cable: Action Cable pub/sub, replaces Redis\n\nIn most apps I audit, Redis exists solely to back Sidekiq and the cache store. Removing that dependency simplifies ops without sacrificing anything.\n\nYour Sidekiq and Redis setups still work; none of this is forced.\n\nWhen to adopt: If your app doesn’t need Redis-level throughput (most don’t), the Solid stack removes an entire infrastructure dependency. Basecamp and HEY run this in production.\n\nWhen to wait: If you’re processing 100k+ jobs per minute or need sub-millisecond cache reads, stick with Redis. SSDs are fast, RAM is faster.\n\nMigration strategy: Don’t switch everything at once. Start with Solid Queue for non-critical jobs, monitor, then move cache. Cable last, if at all.\n\nThe Authentication Generator\n\nbin/rails generate authentication scaffolds session-based auth with password resets for new apps. If you already have Devise, ignore it.\n\nSchema Column Reordering\n\nActive Record now sorts table columns alphabetically in schema.rb. Your first db:migrate after upgrading will produce a massive diff: every table’s columns get reordered.\n\nThis is purely cosmetic (it won’t change your database), but it will bloat your upgrade PR’s diff, cause merge conflicts with in-flight branches that touch migrations, and confuse reviewers.\n\nFix: Commit the schema.rb rewrite as its own isolated commit. Warn your team. In GitHub PR review, mark the schema.rb file as “Viewed” so reviewers can skip it. If you use structure.sql, column order is preserved; this only affects schema.rb.\n\nActive Job Continuations\n\nLong-running jobs can now break into resumable steps, so they pick up where they left off after a deploy instead of restarting from scratch. Additive; doesn’t break existing jobs.\n\nDeprecated Associations\n\nYou can now mark associations as deprecated: true with :warn, :raise, or :notify modes. Useful for large codebases migrating off legacy associations.\n\nDeprecations to Watch\n\nOrder-dependent finders (.first without .order), String#mb_chars, and the built-in Sidekiq adapter are all deprecated and will be removed in a future version.\n\nRails 8.1 Upgrade Strategy\nPhase 1: Preparation (on Rails 7.2)\nUpgrade Ruby to 3.2 minimum; 3.4 recommended.\nSet Rails.application.deprecators.behavior = :raise in config/environments/test.rb and fix every warning.\nFix all enum definitions to use the new positional syntax.\nAdd gem \"sprockets-rails\" to your Gemfile explicitly if you use Sprockets.\nAdd gem \"csv\" to your Gemfile.\nPhase 2: Dual Boot\n\nThe next_rails gem provides the next? helper for dual booting:\n\n# Gemfile\nif next?\n  gem \"rails\", \"~> 8.1\"\nelse\n  gem \"rails\", \"~> 7.2\"\nend\n\n\nRun CI against both. Merge fixes to main continuously. The upgrade happens on main, not on a branch.\n\nPhase 3: The Cutover\nSwitch to Rails 8.1 as primary.\nKeep config.load_defaults \"7.2\".\nRun bin/rails db:schema:dump immediately. This triggers the schema column reordering before any real migrations run, so you can commit it in isolation. Do this before anyone on the team runs a migration.\nDeploy. Monitor.\nPhase 4: Default Migration\n\nUncomment defaults from new_framework_defaults_8_1.rb one at a time. Each gets its own PR and deploy.\n\nPhase 5: Infrastructure Migration (Optional, Separate)\n\nMigrate from Redis to Solid Queue/Cache/Cable. Migrate from Sprockets to Propshaft. Don’t mix them with the framework upgrade.\n\nQuick Reference\n# Pre-upgrade checks (run on Rails 7.2)\nbundle exec bundle_report compatibility --rails-version=8.1\nbundle exec bundle-audit check --update\n# railsdiff.org: diff framework defaults between 7.2 and 8.1\ngrep -rn \"enum.*:\" app/models/        # find old enum syntax\ngrep -rn \"ProxyObject\" app/            # removed in 8.0\ngrep -rn \"read_encrypted_secrets\" config/  # removed\n\n# Post-upgrade essentials\nbundle update rails\nbin/rails app:update\nbin/rails db:migrate\nbin/rails test  # or: bundle exec rspec\n\n# Check for Regexp timeout issues\ngrep -rEn \"Regexp\\.(new|compile)\" app/ lib/\n\n\nIf that branch has been sitting untouched for months, get in touch. This is what I do.\n\nRelated Articles\nRuby 3.2 Is EOL: What You Actually Need to Do\nHow I Audit a Legacy Rails Codebase in the First Week\nMigrating from Sprockets to Propshaft: Is It Worth It?\nRails default_scope: Why You Should Never Use It\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nLet's talk about your codebase.\nEmail\nMessage"
+}

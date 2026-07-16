@@ -1,0 +1,453 @@
+{
+    "image_count": 37,
+    "images": [
+        "https://addyosmani.com/assets/images/bio/gemini-addy.jpg",
+        "https://addyosmani.com/assets/images/bio/sundar.jpg",
+        "https://addyosmani.com/assets/images/bio/gemini-team-2.jpg",
+        "https://addyosmani.com/assets/images/bio/demis.jpg",
+        "https://addyosmani.com/assets/images/bio/at-computer.jpg",
+        "https://addyosmani.com/assets/images/bio/with-award.jpg",
+        "https://addyosmani.com/assets/images/bio/with-award-2.jpg",
+        "https://addyosmani.com/assets/images/bio/microsoftaddy.jpg",
+        "https://addyosmani.com/assets/images/bio/jquery-3.jpg",
+        "https://addyosmani.com/assets/images/bio/jquery-team.jpg",
+        "https://addyosmani.com/assets/images/bio/jquery-team-2.jpg",
+        "https://addyosmani.com/assets/images/bio/aol.jpg",
+        "https://addyosmani.com/assets/images/bio/todomvc.jpg",
+        "https://addyosmani.com/assets/images/bio/yeoman.jpg",
+        "https://addyosmani.com/assets/images/bio/chrome-1.jpg",
+        "https://addyosmani.com/assets/images/bio/devx-1.jpg",
+        "https://addyosmani.com/assets/images/bio/devx-2.jpg",
+        "https://addyosmani.com/assets/images/bio/frameworks-1.jpeg",
+        "https://addyosmani.com/assets/images/bio/vercel-1.JPG",
+        "https://addyosmani.com/assets/images/bio/vercel-2.jpg",
+        "https://addyosmani.com/assets/images/bio/cwv-team.jpg",
+        "https://addyosmani.com/assets/images/bio/chrome-speed.jpg",
+        "https://addyosmani.com/assets/images/bio/chrome-js.jpg",
+        "https://addyosmani.com/assets/images/bio/jsconf-2.jpg",
+        "https://addyosmani.com/assets/images/bio/jsconf-3.jpg",
+        "https://addyosmani.com/assets/images/bio/twitter-team.jpg",
+        "https://addyosmani.com/assets/images/bio/twitter-slide.jpg",
+        "https://addyosmani.com/assets/images/bio/twitter-stats.jpg",
+        "https://addyosmani.com/assets/images/bio/devtools-io25.jpg",
+        "https://addyosmani.com/assets/images/bio/devtools-io25-2.jpeg",
+        "https://addyosmani.com/assets/images/bio/devtools-23.jpeg",
+        "https://addyosmani.com/assets/images/bio/psi-team.jpg",
+        "https://addyosmani.com/assets/images/bio/psi-team-2.jpg",
+        "https://addyosmani.com/assets/images/bio/polymer.jpg",
+        "https://addyosmani.com/assets/images/bio/pwa-1.jpg",
+        "https://addyosmani.com/assets/images/bio/pwa-2.jpg",
+        "https://addyosmani.com/assets/images/bio/totally.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 101,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "[1]",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/#:~:text=MULLINGAR%2C%20Ireland%20,browsing%20times%20by%20600%20percent"
+        },
+        {
+            "text": "[2]",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/#:~:text=Adnan%20Osmani%2C%20a%20shy%20but,Scientist%20of%20the%20Year%20competition"
+        },
+        {
+            "text": "[2]",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/#:~:text=Adnan%20Osmani%2C%20a%20shy%20but,Scientist%20of%20the%20Year%20competition"
+        },
+        {
+            "text": "[3]",
+            "href": "https://www.irishexaminer.com/news/arid-10086949.html#:~:text=The%20software%20on%20his%20XWebs,translates%20foreign%20websites%20into%20English"
+        },
+        {
+            "text": "[1]",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/#:~:text=MULLINGAR%2C%20Ireland%20,browsing%20times%20by%20600%20percent"
+        },
+        {
+            "text": "[4]",
+            "href": "https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c#:~:text=One%20idea%20download%20managers%20had,just%20that%20little%20bit%20faster"
+        },
+        {
+            "text": "[4]",
+            "href": "https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c#:~:text=One%20idea%20download%20managers%20had,just%20that%20little%20bit%20faster"
+        },
+        {
+            "text": "[5]",
+            "href": "https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c#:~:text=could%20help%2C%20but%20it%20had,was%20young%20and%20learning"
+        },
+        {
+            "text": "[6]",
+            "href": "https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c#:~:text=I%20wanted%20to%20experiment%20with,was%20young%20and%20learning"
+        },
+        {
+            "text": "[7]",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/#:~:text=Larry%20Taylor%2C%20a%20judge%20from,be%20given%20the%20highest%20marks"
+        },
+        {
+            "text": "[8]",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/#:~:text=One%20judge%2C%20Intel%20Ireland%27s%20head,technique%20he%20invented%20seems%20unique"
+        },
+        {
+            "text": "[9]",
+            "href": "https://www.thinkbusiness.ie/articles/young-scientist-winners/#:~:text="
+        },
+        {
+            "text": "[7]",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/#:~:text=Larry%20Taylor%2C%20a%20judge%20from,be%20given%20the%20highest%20marks"
+        },
+        {
+            "text": "[10]",
+            "href": "https://www.irishexaminer.com/news/arid-10086949.html#:~:text=Adnan%20Osmani%2C%20who%20was%2017,gets%20the%20chance%20to%20vote"
+        },
+        {
+            "text": "[11]",
+            "href": "https://www.irishexaminer.com/news/arid-10086949.html#:~:text=%E2%80%9CI%E2%80%99ve%20had%20interest%20from%20different,his%20Leaving%20Certificate%20this%20summer"
+        },
+        {
+            "text": "[12]",
+            "href": "https://www.irishexaminer.com/news/arid-10086949.html#:~:text=He%20now%20has%20a%20legal,patenting%20for%20his%20revolutionary%20work"
+        },
+        {
+            "text": "[13]",
+            "href": "https://www.irishexaminer.com/news/arid-10086949.html#:~:text=websites%20into%20English"
+        },
+        {
+            "text": "[9]",
+            "href": "https://www.thinkbusiness.ie/articles/young-scientist-winners/#:~:text="
+        },
+        {
+            "text": "[14]",
+            "href": "https://www.codepolitan.com/blog/addy-osmani-creator-of-yeoman-aurajs-basketjs-tastejs-polymer/#:~:text=Profile%20Addy%20Osmani"
+        },
+        {
+            "text": "[15]",
+            "href": "https://theorg.com/org/google/org-chart/addy-osmani#:~:text=Involvement%20in%20the%20jQuery%20Project,at%20the%20University%20of%20Oxford"
+        },
+        {
+            "text": "[16]",
+            "href": "https://theorg.com/org/google/org-chart/addy-osmani#:~:text=Staff%20Developer%20Platform%20Software%20Engineer,at%20the%20University%20of%20Oxford"
+        },
+        {
+            "text": "[17]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Before%20joining%20Google%2C%20Addy%20was,6"
+        },
+        {
+            "text": "[18]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Osmani%20created%20TodoMVC"
+        },
+        {
+            "text": "[18]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Osmani%20created%20TodoMVC"
+        },
+        {
+            "text": "[18]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Osmani%20created%20TodoMVC"
+        },
+        {
+            "text": "[19]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Osmani%20was%20among%20the%20Google,17"
+        },
+        {
+            "text": "[20]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Addy%20joined%20Google%20in%202012%2C,development%20tools%20to%20improve%20user"
+        },
+        {
+            "text": "[21]",
+            "href": "https://theorg.com/org/google/org-chart/addy-osmani#:~:text=Addy%20Osmani%20serves%20as%20the,at%20the%20University%20of%20Oxford"
+        },
+        {
+            "text": "[22]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20Osmani%20is%20a%20software,Aurora"
+        },
+        {
+            "text": "[23]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20Osmani%20is%20a%20software,Aurora"
+        },
+        {
+            "text": "[24]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%E2%80%99s%20efforts%20to%20make%20the,in%20V8%20and%20Chrome%20Loading"
+        },
+        {
+            "text": "[24]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%E2%80%99s%20efforts%20to%20make%20the,in%20V8%20and%20Chrome%20Loading"
+        },
+        {
+            "text": "[24]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%E2%80%99s%20efforts%20to%20make%20the,in%20V8%20and%20Chrome%20Loading"
+        },
+        {
+            "text": "[25]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%E2%80%99s%20work%20has%20included%20aligning,browser%20to%20score%20a%20300"
+        },
+        {
+            "text": "[26]",
+            "href": "https://addyosmani.com/bio/#:~:text=%28Speedometer%29%20for%20real,browser%20to%20score%20a%20300"
+        },
+        {
+            "text": "[27]",
+            "href": "https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154#:~:text=core%20business%20metrics"
+        },
+        {
+            "text": "[28]",
+            "href": "https://web.dev/case-studies/twitter#:~:text=service%20workers%20and%20parts%20of,interactive%20latency"
+        },
+        {
+            "text": "[29]",
+            "href": "https://addyosmani.com/bio/#:~:text=As%20part%20of%20his%20role,Cocchi%2C%20another%20web%20performance%20expert"
+        },
+        {
+            "text": "[29]",
+            "href": "https://addyosmani.com/bio/#:~:text=As%20part%20of%20his%20role,Cocchi%2C%20another%20web%20performance%20expert"
+        },
+        {
+            "text": "[22]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20Osmani%20is%20a%20software,Aurora"
+        },
+        {
+            "text": "[30]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20enjoys%20writing%20and%20public,I%2FO%20and%20Chrome%20Developer%20Summit"
+        },
+        {
+            "text": "[31]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=In%202015%2C%20Osmani%20announced%20the,18"
+        },
+        {
+            "text": "[32]",
+            "href": "https://addyosmani.com/bio/#:~:text=Some%20of%20the%20other%20projects,saw%2032%2C000%20stars%20on%20GitHub"
+        },
+        {
+            "text": "[33]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=library."
+        },
+        {
+            "text": "Speculative Loading",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Speculative_loading"
+        },
+        {
+            "text": "[34]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20is%20known%20for%20leading,TodoMVC%2C%20Yeoman%2C%20Critical%20and%20others"
+        },
+        {
+            "text": "[34]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20is%20known%20for%20leading,TodoMVC%2C%20Yeoman%2C%20Critical%20and%20others"
+        },
+        {
+            "text": "Beyond Vibe Coding",
+            "href": "http://beyond.addy.ie/"
+        },
+        {
+            "text": "Building web apps with Bolt",
+            "href": "https://www.oreilly.com/library/view/building-web-apps/9798341639751/"
+        },
+        {
+            "text": "Leading Effective Engineering Teams",
+            "href": "http://leet.addy.ie/"
+        },
+        {
+            "text": "[30]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20enjoys%20writing%20and%20public,I%2FO%20and%20Chrome%20Developer%20Summit"
+        },
+        {
+            "text": "[35]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Bibliography"
+        },
+        {
+            "text": "[36]",
+            "href": "https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering#:~:text=2.%20The%2070,%E2%80%9D"
+        },
+        {
+            "text": "tax you impose on your users",
+            "href": "https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e"
+        },
+        {
+            "text": "[37]",
+            "href": "https://addyosmani.com/bio/#:~:text=Essential%20Image%20Optimization%2C%20Learning%20Patterns,I%2FO%20and%20Chrome%20Developer%20Summit"
+        },
+        {
+            "text": "[38]",
+            "href": "https://www.thinkbusiness.ie/articles/young-scientist-winners/#:~:text=Mullingar,follow%20him%20on%20Twitter%20%40addyosmani"
+        },
+        {
+            "text": "[39]",
+            "href": "https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering#:~:text=Addy%20summarized%20his%20observations%20and,This%20issue%20covers"
+        },
+        {
+            "text": "[36]",
+            "href": "https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering#:~:text=2.%20The%2070,%E2%80%9D"
+        },
+        {
+            "text": "[36]",
+            "href": "https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering#:~:text=2.%20The%2070,%E2%80%9D"
+        },
+        {
+            "text": "[40]",
+            "href": "https://stoic.im/#:~:text=Discover%20the%20timeless%20wisdom%20of,by%20GoLimitless%20and%20Addy%20Osmani"
+        },
+        {
+            "text": "shaping",
+            "href": "http://gemini.addy.ie/"
+        },
+        {
+            "text": "[41]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20has%20also%20contributed%20significantly,of%20understanding%2C%20reasoning%2C%20and%20performing"
+        },
+        {
+            "text": "[41]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20has%20also%20contributed%20significantly,of%20understanding%2C%20reasoning%2C%20and%20performing"
+        },
+        {
+            "text": "[41]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20has%20also%20contributed%20significantly,of%20understanding%2C%20reasoning%2C%20and%20performing"
+        },
+        {
+            "text": "[41]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%20has%20also%20contributed%20significantly,of%20understanding%2C%20reasoning%2C%20and%20performing"
+        },
+        {
+            "text": "[42]",
+            "href": "https://github.com/addyosmani/chatty#:~:text=Chatty%20is%20your%20private%20AI,browser%20AI%20experience"
+        },
+        {
+            "text": "[43]",
+            "href": "https://github.com/addyosmani/chatty#:~:text=Features%20%E2%9C%A8"
+        },
+        {
+            "text": "[44]",
+            "href": "https://github.com/addyosmani/chatty#:~:text=as%20Gemma%2C%20Llama2%20%26%203,even"
+        },
+        {
+            "text": "[45]",
+            "href": "https://github.com/addyosmani/chatty#:~:text=%2A%20In,you%27ll%20be%20able%20to%20use"
+        },
+        {
+            "text": "[46]",
+            "href": "https://github.com/addyosmani/say#:~:text=Say%20is%20a%20modern%20voice,and%20managing%20your%20spoken%20notes"
+        },
+        {
+            "text": "[47]",
+            "href": "https://github.com/addyosmani/say#:~:text=%E2%9C%A8%20Features"
+        },
+        {
+            "text": "[48]",
+            "href": "https://github.com/addyosmani/bg-remove#:~:text=Image%20Background%20Remover%20in%20the,browser"
+        },
+        {
+            "text": "[49]",
+            "href": "https://github.com/addyosmani/bg-remove#:~:text=,WebGPU%20acceleration%20for%20supported%20browsers"
+        },
+        {
+            "text": "[50]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Awards"
+        },
+        {
+            "text": "[50]",
+            "href": "https://wikitia.com/wiki/Addy_Osmani#:~:text=Awards"
+        },
+        {
+            "text": "[24]",
+            "href": "https://addyosmani.com/bio/#:~:text=Addy%E2%80%99s%20efforts%20to%20make%20the,in%20V8%20and%20Chrome%20Loading"
+        },
+        {
+            "text": "[29]",
+            "href": "https://addyosmani.com/bio/#:~:text=As%20part%20of%20his%20role,Cocchi%2C%20another%20web%20performance%20expert"
+        },
+        {
+            "text": "[26]",
+            "href": "https://addyosmani.com/bio/#:~:text=%28Speedometer%29%20for%20real,browser%20to%20score%20a%20300"
+        },
+        {
+            "text": "",
+            "href": "https://www.wired.com/2003/01/teens-web-browser-wows-top-geeks/"
+        },
+        {
+            "text": "",
+            "href": "https://www.irishexaminer.com/news/arid-10086949.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.thinkbusiness.ie/articles/young-scientist-winners/"
+        },
+        {
+            "text": "",
+            "href": "https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c"
+        },
+        {
+            "text": "",
+            "href": "https://theorg.com/org/google/org-chart/addy-osmani"
+        },
+        {
+            "text": "",
+            "href": "https://wikitia.com/wiki/Addy_Osmani"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/bio/"
+        },
+        {
+            "text": "",
+            "href": "https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154"
+        },
+        {
+            "text": "",
+            "href": "https://web.dev/case-studies/twitter"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/addyosmani/chatty"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/addyosmani/say"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/addyosmani/bg-remove"
+        },
+        {
+            "text": "",
+            "href": "https://www.codepolitan.com/blog/addy-osmani-creator-of-yeoman-aurajs-basketjs-tastejs-polymer/"
+        },
+        {
+            "text": "",
+            "href": "https://stoic.im/"
+        }
+    ],
+    "text_length": 38434,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nProfile of a curious engineer\n\nAddy Osmani is an accomplished engineering leader at Google. He is a director at Google Cloud AI, focused on helping developers and businesses succeed with Gemini, Vertex AI, and the Agent Development Kit. After nearly 14 years leading Chrome’s Developer Experience, he now bridges Google DeepMind, engineering, product, and developer relations teams. He is pictured below with Jeff Dean and the Gemini team, Sundar Pichai and Demis Hassabis.\n\n   \n\nEarly Spark – A teenage browser engineer\n\nAt age 16, Addy Osmani surprised the tech world by creating an ambitious web browser from scratch[1][2]. As a sixth-year student at St. Finian’s College in Mullingar, Ireland, he spent two years coding what he called “XWebs”, a self-described “megabrowser” written in hundreds of thousands of lines of C++[2]. XWebs wasn’t a simple school project but was packed with advanced features, including support for download management, built-in media players, a a web page editor, and even an animated assistant that could read web pages aloud[3]. Osmani’s browser claimed meaningful speed improvements, potentially loading pages significantly faster than competitors, thanks to a novel “chunking” technique that fetched different parts of a webpage in parallel over multiple HTTP connections[1][4]. This idea of opening multiple simultaneous connections to download a file or webpage – conceived in Ireland’s dial-up era – sometimes allowed content to download “just that little bit faster” and foreshadowed the multi-connection loading optimizations browsers use today[4][5]. It was a bold experiment in web performance that Osmani later joked made for a “fun science project” during his youth[6].\n\nIn January 2003, Osmani entered XWebs into the prestigious Esat BT Young Scientist of the Year competition. The judges were impressed. One judge from Intel Ireland remarked that “the capability is there” in Osmani’s unique approach, and that the project demonstrated “the science of the Web” at a level far beyond typical schoolwork[7][8]. XWebs won First Prize in the national competition, earning Osmani €3,000 and the chance to represent Ireland at the EU Young Scientist contest[9]. The Irish Computer Society later honored him with an Excellence Award for this achievement, recognizing the teenage inventor of a browser that was “of the level of a final-year [university] project”[7].\n\nWith this recognition came intense media attention: the Irish Examiner dubbed him “the world’s fastest internet browser” inventor and reported that tech giants like Microsoft and Intel had expressed interest in his work[10][11]. Osmani was inundated with interviews by CNN, BBC, The Wall Street Journal and other international outlets in the months after his win[12]. He even began exploring patents for XWebs’ innovations[13][9]. This whirlwind of accomplishment at 16 not only set the course for Osmani’s career but also cemented a personal ethos: performance matters – an idea that would underpin his future projects.\n\nEducation and Open-Source Beginnings\n\nAfter his early brush with fame, Osmani chose to focus on expanding his knowledge. He pursued formal education in computer science, obtaining a Bachelor’s degree from Sheffield Hallam University and then a Master’s in Computer Science by Research from the University of Warwick[14]. He further completed a post-graduate certification in Design for Security at the University of Oxford, underscoring his desire to build not just fast but also secure web applications[15]. Addy participated in Microsoft’s MVP and Imagine Cup with a Sheffield team, making it to the finals.\n\nDuring his university years in the mid-2000s, Osmani remained deeply involved in coding projects and the nascent open-source community.\n\nHe contributed to the popular JavaScript library jQuery, where he served on the Bug Triage, API Documentation, and Core Teams, helping improve one of the era’s most important web development tools[16]. This early open-source work honed his skills in collaborative software development and community engagement.\n\nOsmani’s professional career began in London’s startup scene. One of his first roles was at a company called Pixsta, where he worked on image and video search technology – notably, tackling visual search before services like Google Images were widespread.\n\nHe then moved to AOL (America Online) as a Senior JavaScript Engineer, working on user interface engineering for AOL’s web products and advertising systems[17]. At AOL, Osmani became known for pushing the boundaries of what browsers could do, a continuation of the performance obsession from his youth. He once even hotfixed the AOL.com homepage live in production on a day off – an anecdote he recalls with a laugh – emblematic of his hands-on, high-impact approach. By the time he left AOL, he had built a reputation as a talented problem-solver in large-scale web applications and a thought leader in front-end performance.\n\nThis blend of strong academic foundations and real-world coding experience set the stage for Osmani’s next chapter. In 2011, he created TodoMVC, an open-source project that implements the same simple to-do list app in multiple JavaScript frameworks[18].\n\nTodoMVC was a stroke of practical genius: it provided a comparative reference for developers to see the differences between frameworks like Backbone, Angular, React, and others in a straightforward way. The project became immensely popular on GitHub (garnering tens of thousands of stars) and essentially inaugurated the idea of using a todo app as the canonical demo for new frameworks[18].\n\nAround the same time, Osmani co-founded the Yeoman project – a robust scaffolding tool for modern web apps that he and a team at Google released in 2012[18]. Yeoman combined a package manager, build tool, and generator ecosystem, making it easier to kickstart projects with best-practice setups.\n\nIt offered over 9,000 generator templates for React, Angular, and more, significantly streamlining the build process for countless developers[19]. These early open-source projects showcased Osmani’s knack for identifying pain points in web development and solving them with elegant, community-driven tools. By his mid-20s, he was not just consuming the state-of-the-art in web technology – he was helping create it.\n\nJoining Google and Leading Chrome’s Developer Experience\n\nIn 2012, Addy Osmani joined Google, drawn by the opportunity to work on Chrome – the world’s most popular web browser – and to tackle performance at a global scale[20]. His work has spanned consumer and developer-facing improvements, leading to $350M of value generated through profit and cost saving measures.\n\nOver nearly 14 years, his role evolved from an individual engineer to a high-impact leader. During his time leading Chrome Developer Experience (DevEx) at Google, he served as a Senior Staff Engineering Manager overseeing Chrome’s suite of developer tools and web frameworks initiatives[21].\n\n \n\nIn this capacity, he led a large organization responsible for projects used by millions of developers and billions of end-users. His purview included Chrome DevTools, the built-in debugging and profiling toolkit in Chrome; Lighthouse, an automated website auditing tool; PageSpeed Insights, a service for measuring site performance; Puppeteer, a popular browser automation library; Chrome Headless; and contributions to web frameworks via Project Aurora (collaborations with React, Angular, Next.js, and others)[22]. In short, if you’re a web developer using Chrome’s ecosystem, you’ve almost certainly benefited from something Osmani’s teams built.\n\nFrom the outset at Google, Osmani championed making the web “fast and low-friction” for both users and developers[23]. One of his signature achievements has been turning web performance into a first-class priority across the industry. Notably, he co-led the effort to establish Core Web Vitals – a set of user-centric performance metrics that Google’s Search now uses to help rank pages. Working with colleagues like Annie Sullivan, Rick Byers, Bryan McQuade and Ilya Grigorik, Osmani helped define metrics like Largest Contentful Paint (LCP), which measures loading speed, and Cumulative Layout Shift (CLS), which measures visual stability[24].\n\nIn 2020, Google announced that these Core Web Vitals would directly influence search rankings, sending a clear signal that sites must be fast and stable to compete[24]. Osmani was instrumental in this initiative, not only in guiding the technical development of the metrics but also in evangelizing their importance. Thanks in part to his efforts, performance budgeting and user-experience monitoring became mainstream concerns for webmasters globally – a major cultural shift in web development[24].\n\nInside the Chrome team, Osmani has driven countless performance improvements in the browser itself. He worked closely with Chrome’s Loading and V8 JavaScript engine teams and others on optimizations ranging from faster JavaScript parsing to smarter resource scheduling.\n\n \n\nHe also spearheaded cross-browser collaborations: for example, he partnered with engineers from Apple’s WebKit/Safari team to create a unified benchmark called Speedometer for measuring real-world web app responsiveness[25]. Osmani led Chrome’s engineering effort on Speedometer 2.0 and supported future versions, ensuring that the benchmark reflected modern JS frameworks and usage patterns. The results fueled a healthy “performance race” among browsers. In a 2022 Chromium conference keynote, Osmani announced that Chrome had become the first browser to score 300 on Speedometer, and later that year it reached 360, solidifying Chrome’s reputation as the fastest browser in the wild[26]. These milestones were more than bragging rights – they encapsulated dozens of low-level enhancements (from faster DOM rendering to improved caching) that made the user experience tangibly better. Osmani’s role here was equal parts technical strategist and cheerleader, aligning teams toward a singular goal: make the web fast.\n\nBeyond the browser itself, Osmani’s team works directly with external web properties to improve their performance. He has led engineering outreach projects where Chrome engineers embed with product teams of high-traffic sites to help them squeeze out more speed.\n\n \n\nOsmani has published case studies detailing huge wins: for instance, partnering with Pinterest on their Progressive Web App led to a 40% increase in time spent on site and a 44% boost in ad revenue after the PWA launch[27]. In another collaboration, Twitter was able to cut their Time To Interactive by 50% on slow devices by adopting best practices like code-splitting and service worker caching[28].\n\n  \n\nSimilarly, he documented how Netflix achieved a 30% improvement in TTI by using predictive prefetching for their videos and assets. And in 2022, Osmani shared that Chrome had worked with YouTube to dramatically improve YouTube’s Core Web Vitals, resulting in hundreds of millions of pages meeting Google’s performance targets where previously they did not[29]. Each of these efforts not only improved a single site, but also yielded learnings and tools that Osmani fed back into Chrome’s DevTools and guides (for example, creating checklists for responsive web design or contributing improvements to frameworks those companies used). It’s a virtuous cycle he often emphasizes: real-world insights lead to better tools, which lead to better real-world outcomes[29].\n\nInventing Tools and Frameworks for a Faster Web\n\nOne of Osmani’s greatest strengths is his ability to create tools that address common developer needs – often before developers even realize the need. He has been working on browser developer tools since 2012, the largest being Chrome DevTools with over 40 million users.\n\nAddy has consistently shaped Chrome DevTools to keep pace with an evolving web platform - often ensuring robust debugging support for new CSS and UI features from day one. His guidance was instrumental in the early implementation and maturation of core panels such as Device Mode, Application, Memory, and Animations, all of which empowered developers to inspect, debug, and optimize complex behaviors on real devices, delve deep into resource management, and fine‑tune page interactions. Over the past seven years, this foundation has expanded into tools like Performance Insights, DevTools Recorder, Console Insights, and the AI Assistance panel - features that reflect a continued emphasis on clarity, efficiency, and anticipating developer needs as the web grows increasingly dynamic ￼.\n\nIs time went on, Addy transitioned into a leadership role, overseeing the DevTools project through his stewardship of Chrome’s developer organization and guiding international efforts like Yang Guo’s DevTools team based in Europe. This global collaboration has amplified the pace and breadth of innovation, allowing DevTools to stay aligned with emerging standards - like container queries and layout tooling - and to ship AI‑powered debugging features that help developers resolve CSS and DOM issues more intuitively than ever before.\n\n \n\nEarly in his Google tenure, he was also a founding member of the team that built Lighthouse, an open-source tool which audits web pages for performance, accessibility, SEO, and more. He credits Paul Lewis and Paul Irish with laying the key groundwork for this tool. Launched in 2016, Lighthouse quickly became the gold standard for automated web quality checks. It’s now integrated directly into Chrome (in the DevTools “Audits” panel) and powers Google’s public PageSpeed Insights service, influencing how millions of websites are built and maintained[22][30].\n\n \n\nThe vision for Lighthouse was to give developers a “ measuring stick” for user experience – something Osmani wished for back when he was manually benchmarking his own projects. Today, when a developer improves their site’s Lighthouse score, they are tangibly improving the experience for users, closing the gap between lab metrics and human perception.\n\nIn addition to Lighthouse, Osmani has created or led numerous other open-source projects that have become staples in web development. A notable example was the most popular Material Design library for the web at the time - Material Design Lite (MDL), which he announced in 2015 as a lightweight front-end framework bringing Google’s Material Design components to websites without needing heavy JavaScript frameworks[31]. MDL was wildly successful, gaining over 32,000 stars on GitHub, and allowed developers to easily add modern, material-styled UI elements to plain HTML/CSS pages[32] - it later graduated into Material Design Components for Web.\n\nDuring the same period, Osmani was heavily active in contributing to Polymer and Web Components, which aimed to bring more opinionated primitives for building web applications to the Web Platform.\n\nAnother creation was Quicklink, a clever library he built in 2018. Quicklink uses the browser’s idle time to prefetch the pages that a user is likely to click next, based on links in the viewport[33]. This means that if you’re reading an article and there are links on the screen, Quicklink quietly fetches those in the background, so if you do click one, the next page loads almost instantly. This simple yet powerful idea earned over 11,000 GitHub stars and is used on many high-traffic sites to boost perceived speed. Osmani would later go on to heavily consulting on bringing the ideas in Quicklink to web browsers, providing input regularly into Speculative Loading. Osmani also developed Critical, a tool that extracts above-the-fold CSS and inlines it into HTML, thereby eliminating render-blocking stylesheets on initial load. This technique can dramatically improve first paint times, and Critical helped popularize “critical CSS” as a performance optimization strategy. From scaffolding tools (Yeoman) to build optimizers (Critical) to clever runtime libraries (Quicklink), Osmani’s projects have spanned the full spectrum of development needs – unified by the common theme of making web apps faster and easier to build.\n\n \n\nProgressive Web Apps (PWAs) and offline-first experiences have been another focus area. Osmani’s team created Workbox, a set of libraries for generating service worker scripts that handle caching and offline functionality with minimal fuss. Workbox simplified what used to be a complex task of writing low-level code to intercept network requests. With Workbox, developers can add offline support, precache assets, or enable runtime caching with just a few lines of configuration. Companies like Google, Pinterest, and Lyft have used Workbox to power their PWAs, and it has over 10,000 stars on GitHub. Osmani also championed frameworks and patterns for improved loading, such as the PRPL pattern (Push, Render, Pre-Cache, Lazy-load) which he helped push as a guideline for structuring PWA delivery for maximum speed. Through blog posts and demos, he showed how techniques like code-splitting, lazy loading of non-critical resources, and leveraging the browser cache could combine to achieve near-instant loading after the first visit. Many of these ideas have since been integrated into popular frameworks (for example, Next.js now automatically code-splits and prefetches routes, reflecting patterns Osmani advocated years earlier).\n\nBeyond creating his own tools, Osmani has been a catalyst for improving existing open-source projects. He has led Chrome’s open-source stewardship program – an initiative to financially support and contribute to projects that the web platform relies on[34]. Under his guidance, Google Chrome has funded key tools like Webpack (the module bundler that underpins most modern build processes), Rollup and Vite (next-gen bundlers), and frameworks such as Vue.js, Nuxt, Svelte, and Astro[34]. By investing in these projects, Osmani ensures they remain healthy and incorporate the latest web capabilities. It’s an approach somewhat unusual for a big company: rather than building everything in-house, he recognizes the strength of the ecosystem and works to uplift it. In a 2022 Open Collective post, he described this as “open-source philanthropy” – giving back to the community that in turn makes the web better for everyone. Thanks to these efforts, when Chrome introduces a new feature like a faster image format or an updated JavaScript API, those improvements quickly make their way into the tools and frameworks used by developers, closing the loop between browser innovation and developer adoption.\n\nAuthor, Educator, and Advocate for Best Practices\n\nParallel to his engineering work, Addy Osmani has made a significant mark as an educator and author, translating complex technical concepts into accessible learning materials.\n\nIn 2025, his books will include O’Reilly’s AI titles such as “Beyond Vibe Coding” and “Building web apps with Bolt”. In 2022, Osmani also wrote the O’Reilly title Leading Effective Engineering Teams, a book born of his experience guiding teams at Google, which offers advice to technical leaders on everything from hiring to project management.\n\nA number of his books and guides have been available for free online at times, reflecting his belief in democratizing knowledge - his patterns.dev site, for example, hosts entire books worth of content at no cost to the reader which was viewed by over 5 million unique users since launch.\n\nIn 2012, he published Learning JavaScript Design Patterns (O’Reilly Media), a comprehensive guide applying classical software design patterns to JavaScript development. The book became a must-read for frontend developers and is often credited with elevating the community’s understanding of structured, maintainable code in JavaScript’s flexible environment. A decade later, in 2021, Osmani released a second edition of Learning JavaScript Design Patterns, updated with ES2015+ and modern frameworks, ensuring its continued relevance[30].\n\nHe has authored other influential works as well: Developing Backbone.js Applications (2013) distilled best practices for one of the first popular JS MVC frameworks; Essential Image Optimization (2016) was a free web book in partnership with Smashing Magazine that taught developers how to deliver images that are both high-quality and performant[35]; and Learning Patterns (2023), co-authored with Lydia Hallie, which revisited software patterns for the age of React and serverless.\n\nOsmani’s writing extends to high-impact articles and blog posts that have shaped industry best practices. His “The Cost of JavaScript” series is a prime example. In these articles (published around 2018–2020), he gathered data to show how large JavaScript bundles translate to slow load times, especially on lower-end mobile devices. He famously demonstrated that 1MB of JS could take 14 seconds to parse and execute on a typical mid-range Android phone, even though the same took only a few seconds on a high-end desktop[36].\n\nBy highlighting this disparity, Osmani sounded an alarm about the hidden performance tax of heavy client-side apps. His phrase “every byte of JS is a tax you impose on your users” became a rallying cry for developers to trim their code and adopt techniques like tree-shaking and code-splitting. Likewise, Osmani wrote and spoke about image optimization, CSS efficiency, and performance budgeting. He introduced concepts like performance budgets (setting strict limits on page weight to prevent bloat) and popularized techniques such as adaptive loading, where a website serves lighter content to users on slow networks or devices. His ability to combine empirical data with clear, actionable guidance has influenced web development practices at companies worldwide.\n\nIn the realm of public speaking and community engagement, Osmani has few equals in the web dev world. He has delivered over 175 talks across dozens of countries[37]. He’s a regular speaker at Google’s own events like Google I/O and Chrome Dev Summit, where his talks often introduce new Chrome features or share performance research with tens of thousands of viewers. But he’s also been on stage at independent conferences like JSConf, Smashing Conference, QCon, and LeadDev, reflecting both technical and leadership facets of his expertise. Known for an approachable speaking style, Osmani often includes live demos – for example, showing a before-and-after of a site that improved its load time, or walking through code of an optimization – which make abstract concepts concrete.\n\nHis presentations are frequently cited and shared. In addition, Osmani co-created content for YouTube: notably a series called “Totally Tooling Tips” in 2014–2016, where he and fellow Googler Matt Gaunt shared short tips on using DevTools and modern libraries. This casual, humorous series further amplified his reach, proving that developers were eager to learn directly from those building the tools.\n\nOsmani is also an active online presence with over 20 million developers reading his content throughout his career. On Twitter (now X), he has over 350,000 followers[38], and he uses the platform to share quick tips, project updates, and uplifting messages for the community. His articles on Medium have amassed hundreds of thousands of reads, and he had over 86,000 followers on the platform at one point, reflecting the trust developers place in his insights. More recently, he started a Substack newsletter called Elevate, focusing on engineering leadership and the intersection of AI and development. This newsletter quickly gained tens of thousands of subscribers. One particularly impactful piece he wrote there in late 2024 was “The 70% Problem: Hard truths about AI-assisted coding.” In this widely discussed article, Osmani argued that current AI coding tools (like Copilot) can often handle ~70% of routine coding tasks but struggle with the last 30% that requires deeper understanding, debugging, or architectural insight[39][36]. He highlighted phenomena like the “two steps back” paradox (where AI-generated fixes introduce new bugs) and the “AI speed tax” (where any time saved by AI may be offset by the time to review and refactor its output)[36]. By openly addressing these limitations, while still championing the value of AI for productivity, Osmani struck a chord with engineers trying to make sense of the AI coding revolution. His balanced perspective – acknowledging AI’s power without succumbing to hype – has made him a thought leader in how to effectively integrate these tools into development workflows.\n\nOutside of work, Osmani has leveraged his platform for community and social good. He has been a mentor to many budding developers, often answering questions in forums or offering career advice. He’s a supporter of organizations like Vets Who Code, which helps military veterans retrain as software developers, and he has helped raise funds for various causes (from educational initiatives to disaster relief) by rallying the tech community. In interviews, he’s spoken about the importance of mental health and maintaining a “stoic mindset” in the high-pressure world of tech – a philosophy he even explored by co-authoring a visual guide called “The Stoic Mind,” connecting ancient Stoic philosophy to the challenges of modern life[40]. All these activities underscore that Osmani sees engineering not just as building code, but as building community and supporting people.\n\nPioneering AI Coding Models and Developer Tools\n\nIn recent years, as artificial intelligence has swept through the software industry, Addy Osmani has been at the forefront of bringing AI into the realm of web development and browsers. His role uniquely bridges Google Chrome (with billions of users) and Google’s AI research (via the DeepMind team), allowing him to infuse advanced AI capabilities directly into the tools that developers use.\n\nAddy Osmani has played a pivotal role in shaping the developer-facing journey of Google’s Gemini models. In 2025, his team are collaborating with DeepMind on improving Gemini’s coding capabilities to enable stronger fullstack web development. This will enable developers to build more production-ready applications with the model.\n\nSince the debut of Gemini 1.0 in late 2023, he has been at the forefront of ensuring that developers not only had access to state-of-the-art AI, but could also use it in ways that felt natural in their day-to-day workflows. From championing early multimodal capabilities in Gemini 1.5 to driving clear developer documentation and hands-on demos, Addy has consistently helped make cutting-edge AI accessible to a global developer audience.\n\nAddy most recently supported the launches of Nano Banana - Google’s improved native image generation model and Gemini CLI, an open-source agent that lets developers work conversationally from their terminals. By demonstrating how to build production-ready apps entirely from natural language prompts, he highlighted both the power and pragmatism of Gemini 2.5 Pro. Alongside this, he has showcased Firebase Studio, Gemini Canvas, and Project Mariner - each pointing to a future where AI is not a bolt-on tool but a deeply integrated collaborator in software creation. Together, these milestones underscore Addy’s enduring impact: bringing Gemini’s intelligence into the hands of millions of developers, while helping define what agentic AI means for the web.\n\nJoining Google Cloud AI\n\nIn December 2024, after nearly 14 years leading Chrome’s Developer Experience organization, Osmani transitioned to a new role as Director at Google Cloud AI. This move reflects both his deep expertise in AI-assisted development and the natural evolution of his work bridging Chrome and Gemini teams over recent years.\n\nIn his new capacity, Osmani focuses on helping developers and businesses succeed with Gemini, Vertex AI, and the Agent Development Kit (ADK) within Google Cloud’s enterprise AI platform. He bridges Google DeepMind, engineering, product, go-to-market, and developer relations teams with a clear goal: ensuring developers have the tools, documentation, APIs, and patterns needed to build confidently with Gemini at scale.\n\nThis role sits at the intersection of developer experience, technical depth, community building, and enterprise impact – combining his passion for making powerful technology accessible with the high-stakes challenges of enterprise AI deployment. As Cloud AI represents where Gemini meets real business needs, Osmani’s transition positions him to influence how millions of developers and businesses leverage AI in production systems.\n\nIn 2023–2025, Osmani and his team led the integration of Google’s Gemini AI model (a next-generation large language model) into Chrome’s DevTools[41]. The result is a suite of AI-assisted features that has transformed how developers debug and build web applications.\n\nFor example, in late 2024 Chrome introduced an “AI Assistant” panel in DevTools, a project overseen by Osmani. This panel can analyze a webpage’s DOM and CSS and answer natural-language questions about it, or even suggest fixes. If a developer is wondering “Why is there extra whitespace on the right side of my page?”, the AI Assistant can examine the live page structure and reply with something like, “It looks like an element is set to width 100vw causing overflow; consider removing that or using 100% width instead.” It can even generate the code to fix the issue. This kind of context-aware help – essentially an AI pair programmer inside the browser – is a breakthrough in developer productivity. Osmani’s team ensured that the assistant is grounded in the actual page content (using a technique Google calls ReAct: Reason+Act to combine language reasoning with browser actions)[41]. By I/O 2025, he demoed how the AI Assistant could also improve performance: for instance, identifying that a page is loading a large image and suggesting a smaller, optimized format, complete with an HTML snippet to swap in. These features were met with excitement from developers, many of whom reported that DevTools felt “like magic” with an AI genie at their fingertips.\n\nOsmani didn’t stop at one-off features – he helped conceive a broader vision of the browser as an AI agent. In collaboration with Google DeepMind, he has been a key contributor to Project Mariner, a research initiative to develop autonomous AI agents that can surf and manipulate the web on a user’s behalf[41]. In late 2024, Project Mariner achieved a milestone: using the Gemini 2.0 model, the team built an agent that could complete about 83.5% of tasks on a challenging benchmark called WebVoyager (which involves real websites and tasks like booking tickets or gathering information)[41]. Osmani’s role was to enable Mariner’s capabilities to function in Chrome, essentially giving the AI the ability to click, scroll, and type just like a human user would, but at machine speed. The implications of this are vast – from automated testing (imagine an AI agent crawling your site and finding bugs or accessibility issues automatically) to personal assistants that can perform multi-step web tasks for users. In one internal demo, Osmani showed an AI agent booking a reservation on a restaurant’s website: it navigated through the site’s menus, selected a date, filled in the form, and confirmed the booking, all without human intervention. While still experimental, these “browser agents” hint at a future where repetitive web tasks could be offloaded to AI. Osmani has been careful to frame this technology responsibly, noting that such agents must respect privacy, security, and web ethics. Still, he’s openly enthusiastic about the potential to “make the web more accessible and useful” through agentic AI, and he’s shepherding Chrome to be ready for that future.\n\nOn the open-source front, Osmani has personally developed AI-focused web tools that emphasize user privacy and local processing. In 2023, he built ChattyUI, a fully client-side AI chat application that runs entirely in the browser using WebGPU (the new web graphics API)[42]. ChattyUI allows users to load large language models (like Llama 2 or Mistral) directly into their browser and chat with them, without any data leaving their machine[43][44]. This was a tour de force of web engineering – essentially turning Chrome into a self-contained AI runtime. The project demonstrates Osmani’s commitment to privacy-preserving AI: once the model is downloaded, you can use ChattyUI offline and all inference happens on your device, ensuring no conversation data is sent to a server[45].\n\nHe also released “Say”, a voice transcription and notes app that runs Whisper (an automatic speech recognition model) in the browser to transcribe speech to text in real-time[46][47]. For image processing, he created a Background Removal tool that uses advanced models (RMBG and MODNet) via Transformers.js to delete image backgrounds locally in the browser[48][49]. These tools, each open-sourced on GitHub, exemplify Osmani’s belief that powerful AI tasks can be done client-side with the right optimizations – empowering users with AI features without sacrificing privacy. They also serve as reference implementations for web developers, showcasing how to use technologies like WebAssembly and WebGPU to achieve what was once thought impossible in a browser. By pushing the envelope of in-browser AI, Osmani is effectively turning Chrome into a platform not just for documents and apps, but for intelligent agents and processing tasks that traditionally required native apps or cloud services.\n\nRecognition and Lasting Impact\n\nOver his 25+ year journey from teenage prodigy to Google engineering leader, Addy Osmani has received numerous accolades – and achieved something far rarer: the deep respect of the global developer community. In 2014, O’Reilly Media honored him with a Web Platform Award, recognizing his outstanding contributions to the advancement of the open web[50]. In 2020, he won a React Open Source Award in the “Most Exciting Use of Technology” category for his innovative React Adaptive Hooks project, which showcased novel ways to adapt UI components based on device capabilities (an early foray into adaptive loading patterns)[50]. These awards, while meaningful, only tell a small part of the story. Osmani’s true impact is evident in the everyday tools and practices of web developers. The fact that site speed is now boardroom conversation can be traced back to benchmarks and metrics that Osmani helped introduce. The performance gains he’s helped popularize are measurable: as of mid-2020s, Google reported that a majority of sites worldwide had improved their Core Web Vitals, and interventions championed by Osmani (like native lazy-loading for images) were saving users collectively millions of hours in waiting time on the web[24][29]. Chrome itself is a faster, more capable browser in part due to his leadership in performance engineering – hitting Speedometer scores that seemed unattainable just a few years prior[26].\n\nThe open-source projects Osmani has created have become foundational. Lighthouse is run tens of millions of times each month across various CI systems and by individual developers – effectively setting the baseline for what is considered a “good” website. TodoMVC became a universal yardstick for comparing frameworks. Yeoman’s influence is seen in today’s generator tools and CLIs for frameworks (like Create React App or Vue CLI), which took inspiration from the idea of a standard scaffolding tool. Workbox and the concept of easy offline caching helped accelerate the adoption of Progressive Web Apps, which have connected users in areas with shaky internet to reliable web experiences. And countless developers have learned through his tutorials and books – whether it was understanding prototypal inheritance in JavaScript via Learning JS Design Patterns or figuring out how to shave off 100KB from a webpage by reading his Image Optimization guide.\n\nColleagues often remark on Osmani’s humility and generosity despite his fame in the field. He continues to mentor interns and junior engineers at Google, and he’s known for amplifying the work of others – often using his platform to shine light on up-and-coming developers, interesting open-source projects, or research papers. This has fostered a sense of goodwill that’s increasingly valuable in the sometimes fragmented world of web development. His personal mantra of “keep the web fast and approachable” manifests not just in code, but in culture. Teams across Chrome and Google have adopted user-centric performance goals, documentation has been enriched under his guidance, and the notion of Developer Experience (DevEx) itself gained stature in Chrome to the point of having a dedicated team led by him.\n\nAs the web heads into an era of ubiquitous AI and ever-more interactive experiences, Osmani stands as a bridge between the old and the new – ensuring that the core values of performance, openness, and user focus carry forward. He often notes that the web is the only platform that is truly universal, and thus we have a responsibility to make it accessible, inclusive, and fast for everyone. His work on AI integration is making sure that web developers won’t be left behind in the AI revolution, but rather will have first-class tools to harness it. Meanwhile, his performance work ensures that even as websites potentially do more, they can remain efficient.\n\nIn sum, Addy Osmani’s career is a testament to the impact one engineer can have by combining technical excellence with education and community leadership. From a teenage boy in rural Ireland tinkering with browser code, to a globally recognized tech leader influencing products used by billions, Osmani’s journey reflects the evolution of the web itself - ever faster, smarter, and more empowering for those who use it. His story isn’t just about writing code, but about inspiring a community to strive for a better web. And perhaps the most exciting chapter is still being written, as he helps shape how AI and the web will intersect in the coming decade. Few individuals have done as much to push the web forward while uplifting its developers, and that legacy will be felt for a long time to come.\n\nSources"
+}

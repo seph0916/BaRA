@@ -1,0 +1,665 @@
+{
+    "image_count": 9,
+    "images": [
+        "https://www.eff.org/sites/all/themes/phoenix/images/logo-monogram-white.svg",
+        "https://www.eff.org/files/2026-membership-sitebanner-desktop-3_0.png",
+        "https://www.eff.org/files/2026-membership-sitebanner-mobile.png",
+        "https://www.eff.org/files/2018/07/10/eff-logo-lockup-black.png",
+        "https://www.eff.org/files/2017/09/07/meatball.png",
+        "https://www.eff.org/files/2017/09/07/certbot.png",
+        "https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg",
+        "https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/pages/trademark-and-brand-usage-policy&action_name=Trademark%20and%20Brand%20Usage%20Policy%20%7C%20Electronic%20Frontier%20Foundation&urlref=&dimension2=page&dimension3=96886",
+        ""
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 161,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#main-content"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Join EFF Lists",
+            "href": "https://eff.org/signup"
+        },
+        {
+            "text": "Copyright (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "Trademark",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "Thanks",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--m"
+        },
+        {
+            "text": "DONATE TODAY",
+            "href": "https://supporters.eff.org/donate/spring--wssn"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SD"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SM"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "on",
+            "href": "https://www.eff.org/deeplinks/2014/06/eff-jones-day-dont-be-trademark-bully"
+        },
+        {
+            "text": "many",
+            "href": "https://www.eff.org/deeplinks/2014/05/dear-google-parody-not-trademark-infringement"
+        },
+        {
+            "text": "occasions",
+            "href": "https://www.eff.org/deeplinks/2014/10/eff-court-trademark-not-censorship-tool"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#main-content"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "instagram",
+            "href": "https://www.instagram.com/efforg/"
+        },
+        {
+            "text": "Blue Sky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "youtube",
+            "href": "https://www.youtube.com/efforg"
+        },
+        {
+            "text": "flicker",
+            "href": "https://www.flickr.com/photos/electronicfrontierfoundation"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/EFF"
+        },
+        {
+            "text": "tiktok",
+            "href": "https://www.tiktok.com/@efforg"
+        },
+        {
+            "text": "threads",
+            "href": "https://www.threads.net/@efforg"
+        },
+        {
+            "text": "Charity Navigator",
+            "href": "https://www.charitynavigator.org/ein/043091431"
+        },
+        {
+            "text": "General",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Legal",
+            "href": "https://www.eff.org/pages/legal-assistance"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/security"
+        },
+        {
+            "text": "Membership",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Calendar",
+            "href": "https://www.eff.org/event"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Victories",
+            "href": "https://www.eff.org/victories"
+        },
+        {
+            "text": "History",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Jobs",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Staff",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Diversity & Inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity & Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.eff.org/deeplinks?type=blog"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/updates?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "EFFector Newsletter",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "Press Contact",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Join or Renew Membership Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "One-Time Donation Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Corporate Giving and Sponsorship",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/helpout"
+        },
+        {
+            "text": "COPYRIGHT (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "TRADEMARK",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "THANKS",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "JavaScript license information",
+            "href": "https://www.eff.org/librejs/jslicense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy#"
+        }
+    ],
+    "text_length": 17054,
+    "text_full": "Skip to main content\nIf you use technology, this fight is yours.\nDONATE TODAY\nElectronic Frontier Foundation\nAbout\nIssues\nOur Work\nTake Action\nTools\nDonate\nTrademark and Brand Usage Policy\n\nWelcome to the Electronic Frontier Foundation (“EFF”) Trademark and Brand Usage Policy. This policy is designed to answer the most common questions we receive regarding use of our EFF trademarks, to provide our community with clear guidance, and to enable you to make certain uses of our EFF trademarks without the need to seek our individual, written permission in each instance.\n\nEFF has, on many occasions, demanded that companies and other organizations tolerate legal, fair uses of their trademarks, including those uses that parody or criticize the organization in question. Nothing in this Policy is intended to limit any right you may have to use EFF’s trademarks in a manner that is otherwise allowed by law, including to criticize EFF or to parody our organization or our work.\n\nWhat are Trademarks?\n\nTrademarks are best thought of as a type of consumer protection law: they help those seeking goods and services efficiently differentiate one supplier from another. The term “trademark” includes any word, name, symbol, or device – or any combination of those – that is used by a person or entity to identify and distinguish their goods and services from those offered by others, and to indicate the source or origin of their goods and services. So, for example, you can tell if your computer operating system originated in Redmond or in Cupertino by referencing the operating system’s trademark and branding; and neither Microsoft nor Apple can adopt the brands of the other, because such use would typically cause confusion among consumers. In the U.S., and in many other jurisdictions, it is not required to register a trademark with the government before claiming rights in the mark.\n\nWhat are EFF Trademarks?\n\nThe EFF trademarks (collectively, the “EFF Marks”) are all trademarks owned or used by EFF, including but not limited to:\n\nour ELECTRONIC FRONTIER FOUNDATION® trademark\nour EFF® trademark\nour PRIVACY BADGER® trademark\nour CERTBOT® trademark\nour \"EFF Logo\" Design trademark\n\n\n\nour “EFF Meatball” Design® trademark\n            \n\n\nour “Certbot” Design trademark\n        \n\nThis list may be updated as other trademarks are created or registered.\n\nIn Which Situations May I Use the EFF Marks?\n\nTo Truthfully Identify EFF and Our Products and Services\n\nConsistent with our position favoring the free exchange of ideas and information, and favoring limitations on the ability of trademark owners to stifle speech with which they disagree, nothing in this Policy is intended to limit any rights you may have to use EFF’s Marks in a manner that is otherwise allowed by law.\n\nFor example, trademark law (including pursuant to the “nominative fair use” doctrine) allows you to make non-trademark use of the EFF Marks to truthfully refer to or identify the EFF and its products and services. So, you don’t need our permission to write about why you love (or hate) our advocacy work, to inform others of the origin of our Certbot software, or the like.\n\nYour intended use may be a nominative fair use if:\n\n it’s not easy to identify the product or company without using a mark (e.g., using the term “Chicago Bulls” instead of “the basketball team that plays in Chicago” is acceptable);\nonly so much is used as is necessary to identify the product or company and to accomplish your purpose; and\nyou do nothing to suggest the mark-owner has endorsed or sponsored your use.\n\nPersonal, Non-Commercial Uses on Affinity Products\n\nYou may use the EFF Marks without asking our permission on products like t-shirts and stickers that express your affinity for our organization, provided that: (1) your use is non-commercial in nature and you give the products away for free; (2) your use is not misleading and not likely to cause confusion as to whether EFF sponsored, endorsed, or was otherwise involved in creating or offering your products; and (3) if you are offering more than 50 units, you do not advertise or offer the products online.\n\nIf you want to sell affinity products (even if you’re just charging a nominal fee to cover your costs), want to give away more than 50 units online, or want to make any other uses not specifically permitted here, you must obtain our written permission first.\n\nIn Which Situations May I NOT Use the EFF Marks?\n\nIn any situation not specifically listed above, and where you are not otherwise legally permitted to do so, you must ask us for permission before using our trademarks. For example, you may not use our EFF Marks in the following situations:\n\nUses that are Confusing, False, or Misleading\n\nYou may not use any EFF Mark in a manner that is false or misleading, or in a manner likely to confuse consumers or the public about the source or origin of your products or services. Confusing uses include uses that may cause people to think your products or services are EFF’s products or services, or vice versa, or that may imply a formal affiliation between you and EFF where none exists. Unless we have done so in writing, EFF has not officially sponsored or endorsed your product or service, and you should not imply that we have.\n\nYou may not use the EFF Marks in, or as a part of, any trade name, trademark, domain name, or internet account name that is likely to cause confusion. So, the business name or trademark “EFF Activist Tool,” or the Twitter handle “@EFFActivistTool,” are not permitted, because folks who see those uses are likely to assume that they are official EFF services or accounts, or to assume that their owner is officially sponsored or endorsed by EFF. By the same token, the domain name “EFF-Activist-Tools.com,” or the Facebook group “EFF Activist Tools,” would also be likely to cause confusion.\n\nThat said, the purpose of trademark law is to address confusion, and uses that misleadingly suggest affiliation where none exists: not to silence legitimate criticism, commentary, or parody. For example, if you were to use an @EFF_sucks Twitter account to voice criticism of our organization, that is probably not something the public would view as an official EFF account, and no permission would be required for a use of that nature.\n\nUses of EFF Marks in Connection with Derivative Software\n\nEFF offers a few software products to the community on a free and open source basis (our “Open Source Products”), which means that you can alter and modify the source code of e.g., our Certbot project to better suit your needs. We encourage you to do so! And, nothing in this policy is intended to limit your ability to tinker with, improve, and modify our open source software in any manner.\n\nHowever, from a trademark point of view, software that you have modified is different from the software that originates from EFF, and you may not brand any derivative software with an EFF Mark, even if you make only minor changes to it, except as provided below (repackaging). For example, if you modify our Certbot software, you are free to distribute that modification broadly, but you may not distribute the Derivative Software under the Certbot brand, or under any brand that is confusingly similar to “Certbot” or to any other EFF Mark, unless your modification constitutes a repackaging as defined below. For example, use of “Certbot for Plan 9” or “EFF Certbot Fork” as trademarks or in advertising your Derivative Software is otherwise expressly prohibited.\n\nYou can, however, use the EFF Marks to truthfully describe your own products or services in a descriptive, non-trademark sense. For example, if you offer a software product that adds features to one of our Open Source Products, you may use an EFF trademark like “Certbot” to describe the fact that your software is based on Certbot. So, statements like “based on Certbot,” “forked from Certbot,” or “derived from Certbot,” would be permitted to the extent they’re accurate. However, using EFF’s logos or designs, or otherwise making a trademark-type use of the EFF Marks would not be permitted.\n\nIf you produce a plugin that is compatible with one of our Open Source Products, you may use the Open Source Product’s trademark as part of the filename for your plugin, though we ask that you also include your own name in the filename (for example, “certbot-yournamehere-s3front”), to avoid confusion with official EFF plugins. We also ask that you provide appropriate attribution to EFF as the source of the original Open Source Product in any NOTICE, README, LICENSE, or similar file in your distribution, and as appropriate elsewhere in your source code.\n\nUses of EFF Marks in Connection with New Software Packages\n\n“Packaging” software, or creating a new software package, refers to the process of modifying the original source code of software solely for the purpose of enabling that software to function in a different operating system environment (e.g., modifying its libraries, dependencies, etc.), made without modifying the functionality and/or objectives of the original software product. As noted above, you are generally not permitted to use our EFF Marks in connection with software derived from our Open Source Products. But, if you are only creating a new package of an Open Source Product, like Certbot or Privacy Badger, for use on a particular operating system, we grant you permission to use the Marks, provided that you do each of the following:\n\nYou may use the mark only when packaging the particular Open Source Product it refers to. For example, if you are creating a Certbot package for a new operating system, you may use only the Certbot trademark in connection with that package; nothing in this section is intended to give you additional rights or licenses to use the EFF word mark or the “EFF Meatball” Design. \nYou may only use the word mark (e.g., Certbot) and not any design marks, logos, or the like, that may be associated with the Open Source Product you are packaging. For example, you may not use our Certbot Design trademark, shown above, in connection with packaging Certbot software.\nYou may use the mark only in connection with packaging an Open Source Product for use with the particular operating system specified in your request (as explained below), and only where you are making no significant or functional change to the software. If you’d like to make significant or functional changes to the software, and would like to offer your software under an EFF Mark, please contact us, as described below (see What If I Want Permission For A Use Not Allowed By This Policy?). This process allows us to work with developers who are planning new features and ensures we can catch any quality, security or compatibility issues that may arise from planned functional changes.\nAny package you create using an EFF Mark must be of high quality, and in particular must meet any standards of quality that we establish, and as we may change from time to time. We reserve the right to request changes if your software deviates from our quality standards, and your continued use of all EFF Marks is expressly conditioned on your prompt implementation of such changes.\nEFF has the right to audit any software whose trademark you use pursuant to the permission granted in this section. In particular, upon EFF’s request you must provide us with a link to the project source code e.g., at GitHub, and/or any advertising associated with the product, so that we can audit it periodically to ensure its quality, compatibility with the upstream version, etc. If you decide to cease active development of your package, you agree to let us know about that too. Please keep us updated on the status of your package going forward, and let us know if the person maintaining the project changes.\nConsistent with the other elements of this policy, please don’t do anything to imply a greater level of sponsorship by or affiliation with EFF than actually exists.\nBefore using any EFF Mark in connection with any package, we ask that you please first contact EFF at packaging[@]eff.org to provide (1) the name of the software you are packaging, and the operating system(s) you are packaging it for; (2) your contact information; (3) a link to your project’s source code and, if you have one, project website; and (4) a description of how you intend to use the EFF Marks in connection with your package. This is requested, but not required if you are simply using the EFF software as is, or if you are using your own name for your software project, and only using the EFF Mark to to truthfully describe your own products or services in a descriptive, non-trademark sense (i.e. statements like “based on Certbot” or “forked from Certbot”).  Even when we require advance notice, you need not wait for a response from us before starting to use the EFF Mark in connection with your project, but as noted above we reserve the right to control the quality of projects that use an EFF Mark, so we may follow up with specific requests.  To be clear, this policy is simply about ensuring that software named with an EFF Mark meets high quality standards, it does not require you to do anything to take advantage of our open software licenses under your own branding. \n\nRepackagers help us get our products out to as many people as possible, and we value your service to the community. Thank you!\n\nWhat If I Want Permission For A Use Not Allowed By This Policy?\n\nIf you wish to use any of the EFF Marks in a manner that is not expressly permitted by this policy, or otherwise permitted by a trademark law exception such as fair use, please contact us directly at info[at]eff.org. We will be happy to consider your request. For most efficient processing of your request, your email should:\n\nprovide plenty of detail regarding the requested use (e.g., “I’d like to sell 100 hoodies at an upcoming technology meetup occurring on April 5, 2063”);\ncontain a mockup of the use you plan to make, so that we can review it (e.g., “enclosed is a .png version of the design that I’d like to use on the back of the hoodies I plan to offer”);\nbe clear as to timing and when you require approval (e.g., “I need to order the garments no later than February 5, 2063”); and\n let us know whether the goods you plan to produce will be given away for free, or how you anticipate pricing them, if applicable.\n\nWe ask that you submit any such requests to us at least four (4) weeks before you require approval.\n\nIf you plan to make a profit on your use – for example, if you’ll be charging more for your hoodies than they cost to produce – we’ll likely ask you to agree to donate any profits you end up with (if any) to EFF.\n\nIf I Have Permission to Use an EFF Mark, What Are the Usage Restrictions for That Trademark?\n\nUse the Exact Mark. EFF’s trademarks should be used in their exact, most up-to-date form. They should neither be abbreviated nor combined with other words.\n\nMark the Mark. The first or most prominent use of an EFF Mark should be accompanied by a “tm” symbol (“™”), to indicate that it is a trademark; you may also use the “r in a circle” symbol (“®”), if the trademark in question is a registered trademark. If you aren’t sure, using the “tm” symbol (“™”) is fine. The first or most prominent mention of an EFF Mark should also be set apart from surrounding text, either by capitalizing, italicizing, bolding, or underlining it.\n\nCredit the Mark. The following notice text should appear somewhere nearby your first or most prominent mention of an EFF Mark (for example in a footer). If that’s not practical, you may include it in a reasonable alternate location:\n\n        [mark] is a trademark of the Electronic Frontier Foundation.\n\nAny goodwill generated by use of the EFF Marks shall inure solely to the benefit of EFF.\n\nHow Do I Report Trademark Abuse?\n\nPlease report any misuse of the EFF Marks to info[at]eff.org, and provide us with as much information as you can about the use you think might be infringing. We’ll investigate the use, and take appropriate action, if warranted.\n\nQuestions?\n\nIf you’d like to use the EFF Marks in a way that’s not covered by this policy, or if you have any questions regarding this policy or the use of our trademarks overall, please contact us at info[at]eff.org. Please note that it may take four (4) weeks for such requests to be processed.\n\nFOLLOW EFF:\nmastodon\nfacebook\ninstagram\nBlue Sky\nyoutube\nflicker\nlinkedin\ntiktok\nthreads\n\nCheck out our 4-star rating on Charity Navigator.\n\nCONTACT\nGeneral\nLegal\nSecurity\nMembership\nPress\nABOUT\nCalendar\nVolunteer\nVictories\nHistory\nInternships\nJobs\nStaff\nDiversity & Inclusion\nISSUES\nFree Speech\nPrivacy\nCreativity & Innovation\nTransparency\nInternational\nSecurity\nUPDATES\nBlog\nPress Releases\nEvents\nLegal Cases\nWhitepapers\nEFFector Newsletter\nPRESS\nPress Contact\nDONATE\nJoin or Renew Membership Online\nOne-Time Donation Online\nGiving Societies\nCorporate Giving and Sponsorship\nShop\nOther Ways to Give\nCOPYRIGHT (CC BY)\nTRADEMARK\nPRIVACY POLICY\nTHANKS"
+}

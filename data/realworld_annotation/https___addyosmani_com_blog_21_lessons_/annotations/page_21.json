@@ -1,0 +1,63 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "Tokens",
+            "href": "https://addyosmani.com/agentic-engineering/tokens/"
+        },
+        {
+            "text": "Context Collapse",
+            "href": "https://addyosmani.com/agentic-engineering/context-collapse/"
+        },
+        {
+            "text": "RAG",
+            "href": "https://addyosmani.com/agentic-engineering/rag/"
+        },
+        {
+            "text": "AGENTS.md",
+            "href": "https://addyosmani.com/blog/agents-md/"
+        },
+        {
+            "text": "← Back to Glossary",
+            "href": "https://addyosmani.com/agentic-engineering/"
+        }
+    ],
+    "text_length": 2426,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nContext Window\n\nThe AI's working memory - how much code and conversation it can \"see\" at once.\n\nThe simple explanation\n\nImagine reading a book, but you can only keep a certain number of pages in front of you at any time. Once you exceed that limit, the earliest pages get pushed off the table. That's essentially what a context window is for an AI model.\n\nThe context window is measured in tokens (roughly ¾ of a word each). A model with a 200K token context window can process around 150,000 words at once - enough for a significant chunk of a codebase. But for large projects, it's still a constraint. You can't dump your entire monorepo into the window and expect good results.\n\nContext windows have grown dramatically - from 4K tokens in early GPT models to 200K+ in current models like Claude. But bigger isn't always better. Models tend to pay less attention to information in the middle of very long contexts (sometimes called \"lost in the middle\"), so strategic context management still matters.\n\nWhy it matters for agentic engineering\n\nContext window size directly affects what an agent can accomplish. A small context window means the agent can only work with a few files at a time - it might make changes that conflict with code it can't see. A larger context window lets the agent understand more of the system at once, leading to more coherent changes.\n\nThis is why good agentic engineering practices like keeping files focused, writing clear AGENTS.md documentation, and using spec-driven development are so valuable. They help the agent get maximum value from its limited context instead of wasting tokens on irrelevant information.\n\nIn practice\nContext management: Good agents automatically decide which files to read based on relevance, rather than loading everything\nChunking: Breaking large tasks into smaller scoped subtasks so each fits comfortably in the context window\nContext collapse: When the window fills up and the agent starts \"forgetting\" earlier constraints - a common failure mode\nCost implications: Larger context windows mean more tokens processed, which means higher API costs. A 200K token request is expensive\nRetrieval strategies: Using RAG or code search to selectively pull in relevant context rather than brute-forcing everything into the window\nRELATED TERMS\n\nTokens · Context Collapse · RAG · AGENTS.md\n\n← Back to Glossary"
+}

@@ -1,0 +1,122 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://benholmen.com/assets/images/defrag/phpunit-default-output.gif",
+        "https://benholmen.com/assets/images/defrag/output.gif"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 27,
+    "links": [
+        {
+            "text": "just so satisfying to watch",
+            "href": "https://www.youtube.com/watch?v=Nidwz3BzFCM"
+        },
+        {
+            "text": "install benholmen/defrag",
+            "href": "https://github.com/benholmen/defrag#installation"
+        },
+        {
+            "text": "PHPUnit is the defacto test library",
+            "href": "https://phpunit.de/"
+        },
+        {
+            "text": "create an extension",
+            "href": "https://docs.phpunit.de/en/10.3/extending-phpunit.html#extending-the-test-runner"
+        },
+        {
+            "text": "registers Subscribers",
+            "href": "https://github.com/benholmen/defrag/blob/main/src/Extension.php#L37"
+        },
+        {
+            "text": "Jess Archer's Laravel Prompts",
+            "href": "https://www.youtube.com/watch?v=PW-2_-KxF-8"
+        },
+        {
+            "text": "Prompts package",
+            "href": "https://github.com/laravel/prompts"
+        },
+        {
+            "text": "ANSI escape codes",
+            "href": "https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit"
+        },
+        {
+            "text": "Paratest",
+            "href": "https://github.com/paratestphp/paratest"
+        },
+        {
+            "text": "Pest",
+            "href": "https://pestphp.com/"
+        },
+        {
+            "text": "Joe",
+            "href": "https://twitter.com/joetannenbaum/status/1709200565274579333"
+        },
+        {
+            "text": "wired up Charm Wish (a Go SSH package) with his experiments",
+            "href": "https://blog.joe.codes/creating-ssh-apps-with-charm-wish-and-laravel-prompts"
+        },
+        {
+            "text": "",
+            "href": "https://benholmen.com/"
+        },
+        {
+            "text": "The Kilopixel recap - season one",
+            "href": "https://benholmen.com/blog/kilopixel-season-1/"
+        },
+        {
+            "text": "I spent 6 years building a ridiculous wooden pixel display",
+            "href": "https://benholmen.com/blog/kilopixel/"
+        },
+        {
+            "text": "Pairing with Strangers (the Pair-amid Scheme)",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "Mapping a Hyper key on MacOS with Karabiner Elements (the easy way)",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "Defragment your PHPUnit tests",
+            "href": "https://benholmen.com/blog/defragment-your-phpunit-tests/"
+        },
+        {
+            "text": "A photo a day for 30 days",
+            "href": "https://benholmen.com/blog/a-photo-a-day/"
+        },
+        {
+            "text": "Building howtall.is",
+            "href": "https://benholmen.com/blog/howtall.is/"
+        },
+        {
+            "text": "The Art of Pairing with Strangers - Over Engineered Podcast",
+            "href": "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/"
+        },
+        {
+            "text": "Just how old is a 45 year old soup (and would you eat it)",
+            "href": "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/"
+        },
+        {
+            "text": "Growing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "VIEW ALL ⇢",
+            "href": "https://benholmen.com/blog/"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/benholmen.com"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/benholmen/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/benholmen"
+        }
+    ],
+    "text_length": 5649,
+    "text_full": " \nDefragment your PHPUnit tests\n\nJanuary 24, 2024\n\nLet's mash up two concepts: automated tests and disk defragmentation.\n\nMS-DOS 6.x included a defrag utility that honestly was just so satisfying to watch. The 90s were a different time, folks. Disk defragmentation took about an hour and physically rearranged the data on your hard drive so it was more efficient to read off the disk.\n\nWhen coding, we spend a lot of time looking at test output, and it occurred to me that someone should figure out how to make our test output look more like a defragmenter to keep things interesting. I didn't get any takers on Twitter, so I decided to do it myself. The results:\n\nStandard PHPUnit output: meh.\n\nDisk defragmenter output: ❤️‍🔥\n\nGive it a shot\n\nGo ahead and install benholmen/defrag in your PHP project.\n\nHow does this work?\n\nPHPUnit is the defacto test library in the PHP ecosystem and it's had a few flavors of \"printers\" and event systems. The current version is 10, and it uses event subscribers that allow you to register classes that can handle events that PHPUnit fires throughout the execution of the test suite.\n\nCreating a PHPUnit extension\n\nYou create an extension that registers Subscribers for a variety of events, such as TestSuiteExecutionStarted and TestFailed. Each of these Subscribers calls a method on a DefragPrinter class that updates the UI depending on the outcome of the event. To properly draw the UI, I needed to know how many tests would be executed in the suite, and the outcome of each test (passed, failed, skipped, error, failed, etc) as they completed. The extension can also replace the standard progress output that PHPUnit provides by calling Facade@replaceProgressOutput. Finally, we can skip our fun defrag output under some conditions - user has requested quiet mode, TeamCity output, etc.\n\nDrawing the UI: get ready to \\e\n\nI was very impressed with Jess Archer's Laravel Prompts package at Laracon US 2023, and chatted with her to see how I could leverage her work in this extension. I pulled in the Prompts package as a dependency so I could use a variety of methods to hide the cursor, move the cursor, and format text. I found the Prompts source code to be very readable and informative!\n\nDrawing a terminal application is simple, and a little tedious. If you want to do more than write basic unformatted text, you'll need to look up a variety of ANSI escape codes and mark up your text with them. For example:\n\n1\\e[40m\\e[31mE\\e[39;49m\n\nwill write out an E with a red background and black text, then revert to the default formatting.\n\nCode\tPurpose\n\\e[40m\\e[31m\tSwitch to red background, black foreground\nE\tPrint the E\n\\e[39;49m\tRevert to default background, default foreground\n\nIf you want to redraw over the same area, you have to move the cursor and print over it. You might be familiar with \\r which will return the cursor to the beginning of the same line so you can continue updating a single line - it's useful for progress bars. In addition to that character, you can use control characters to move the cursor up and down lines or left and right within a single line, so you can update the entire screen.\n\nI used this cursor movement to redraw lines that needed to change as the tests completed. There is a restriction to printing to the terminal - it's not instant - and I found that redrawing the entire display each time I needed to update a few characters resulted in a jumpy and flickering output. Theoretically you could update a single character, which would be fast, but with control sequences it's difficult to do a meaningful diff. I compromised and identified which lines had changed and only updated those lines. This saves about 70% of the redraw.\n\nLimitations / wishlist\n\nFirst, PHPUnit doesn't currently allow you to enable or disable an extension at runtime - it has to be enabled in phpunit.xml. I think that's clunky, and I really wanted to expose a vendor/bin/defrag command that you could run when you wanted fun output, and default to the boring output for editor integrations, CI/CD pipelines, etc.\n\nSecond, test suites can be run much faster with Paratest, a test package that spins up a number of PHPUnit processes to execute your test suite in parallel. Paratest wraps up PHPUnit and creates its own output, and does not expose an event system. I use Paratest regularly, so don't tell anyone, but I can't use my own package in most of my day to day coding.\n\nFinally, Pest (which extends PHPUnit!) is rapidly growing in popularity and doesn't have a way to transform the output. For better and for worse, it's opinionated about what it prints out. I'd love to support Pest.\n\nSee also: the madman Joe Tannenbaum\n\nAbout the time I was experimenting with this extension, Joe was cooking up some weird CLI experiments using Prompts. He's gone much further than I have, and best of all, wired up Charm Wish (a Go SSH package) with his experiments. Which means you can SSH into his experiments directly, like a BBS. It's incredible.\n\nTo view his resume, open up a terminal:\n\n1ssh ssh.resume.joe.codes\n\nOr view his experiments:\n\n1ssh cli.lab.joe.codes\nPopular Posts\nThe Kilopixel recap - season one\nI spent 6 years building a ridiculous wooden pixel display\nPairing with Strangers (the Pair-amid Scheme)\nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\nDefragment your PHPUnit tests\nRecent Posts\nA photo a day for 30 days\nBuilding howtall.is\nThe Art of Pairing with Strangers - Over Engineered Podcast\nJust how old is a 45 year old soup (and would you eat it)\nGrowing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast\nVIEW ALL ⇢"
+}

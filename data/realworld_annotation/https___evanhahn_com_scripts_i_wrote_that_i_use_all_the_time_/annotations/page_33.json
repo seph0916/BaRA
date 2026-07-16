@@ -1,0 +1,101 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 22,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#unicode",
+            "href": "https://evanhahn.com/tags/unicode/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "a demo I was working on",
+            "href": "https://evanhahn.com/utf-21/"
+        },
+        {
+            "text": "TextEncoder",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder"
+        },
+        {
+            "text": "TextDecoder",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder"
+        },
+        {
+            "text": "UTF-16",
+            "href": "https://evanhahn.com/getting-the-utf16-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "UTF-32",
+            "href": "https://evanhahn.com/getting-the-utf32-bytes-of-javascript-strings/"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 998,
+    "text_full": "Working with the UTF-8 bytes of JavaScript strings\nby Evan Hahn, posted Jun 10, 2023, tagged #unicode #javascript #guide\n\nThis post assumes you understand UTF-8.\n\nRecently, I wanted to get the UTF-8 bytes of a JavaScript string for a demo I was working on.\n\nI took advantage of JavaScript’s built-in TextEncoder, which turns a string into a Uint8Array of the string’s bytes.\n\nnew TextEncoder().encode(\"hi 🌍\");\n\n// => Uint8Array(7) [104, 105, 32, 240, 159, 140, 141]\n\n\nYou can use TextDecoder to reverse the process.\n\nconst bytes = new Uint8Array([240, 159, 145, 139, 32, 104, 105]);\n\n\n\nnew TextDecoder().decode(bytes);\n\n// => \"👋 hi\"\n\n\nThat’s it!\n\nIf you’re curious, I also wrote up how to do this for UTF-16 and UTF-32, which are more complicated.\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

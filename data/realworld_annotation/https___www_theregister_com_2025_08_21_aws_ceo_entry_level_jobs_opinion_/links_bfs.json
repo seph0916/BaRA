@@ -1,0 +1,79 @@
+{
+  "start_url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion",
+    "https://www.theregister.com/software/2025/08/21/aws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea/1182438",
+    "https://www.theregister.com/security",
+    "https://www.theregister.com/cyber_crime",
+    "https://www.theregister.com/patches",
+    "https://www.theregister.com/research",
+    "https://www.theregister.com/cso",
+    "https://www.theregister.com/off_prem",
+    "https://www.theregister.com/edge_iot",
+    "https://www.theregister.com/channel"
+  ],
+  "by_depth": {
+    "0": [
+      "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion"
+    ],
+    "1": [
+      "https://www.theregister.com/software/2025/08/21/aws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea/1182438",
+      "https://www.theregister.com/security",
+      "https://www.theregister.com/cyber_crime",
+      "https://www.theregister.com/patches",
+      "https://www.theregister.com/research"
+    ],
+    "2": [
+      "https://www.theregister.com/cso",
+      "https://www.theregister.com/off_prem",
+      "https://www.theregister.com/edge_iot",
+      "https://www.theregister.com/channel",
+      "https://www.theregister.com/paas_iaas",
+      "https://www.theregister.com/saas",
+      "https://www.theregister.com/on_prem",
+      "https://www.theregister.com/systems",
+      "https://www.theregister.com/storage",
+      "https://www.theregister.com/networks",
+      "https://www.theregister.com/hpc",
+      "https://www.theregister.com/personal_tech",
+      "https://www.theregister.com/cxo",
+      "https://www.theregister.com/public-sector",
+      "https://www.theregister.com/software",
+      "https://www.theregister.com/ai_ml",
+      "https://www.theregister.com/applications",
+      "https://www.theregister.com/databases",
+      "https://www.theregister.com/devops",
+      "https://www.theregister.com/oses",
+      "https://www.theregister.com/virtualization",
+      "https://www.theregister.com/offbeat",
+      "https://www.theregister.com/columnists",
+      "https://www.theregister.com/science",
+      "https://www.theregister.com/bofh"
+    ],
+    "3": [
+      "https://www.theregister.com/legal",
+      "https://www.theregister.com/bootnotes",
+      "https://www.theregister.com/site_news",
+      "https://www.theregister.com/about_us",
+      "https://www.theregister.com/tag/special_features",
+      "https://www.theregister.com/explainer/ai-explainer",
+      "https://www.theregister.com/special_features/rsa",
+      "https://www.theregister.com/special_features/agentic_ai",
+      "https://www.theregister.com/special_features/future_of_the_datacenter",
+      "https://www.theregister.com/special_features/aws_reinvent",
+      "https://www.theregister.com/special_features/nvidia_gtc",
+      "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing",
+      "https://www.theregister.com/special_features/2025_11_supercomputing_month",
+      "https://vendorvoice.theregister.com/",
+      "https://vendorvoice.theregister.com/infinidat/",
+      "https://vendorvoice.theregister.com/everpure/",
+      "https://vendorvoice.theregister.com/rubrik/",
+      "https://vendorvoice.theregister.com/aws_capgemini/aerospace_and_defense/",
+      "https://vendorvoice.theregister.com/aws_fis/"
+    ]
+  },
+  "dead_links": []
+}

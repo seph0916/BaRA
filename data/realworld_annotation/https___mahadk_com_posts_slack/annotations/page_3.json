@@ -1,0 +1,114 @@
+{
+    "image_count": 10,
+    "images": [
+        "https://mahadk.com/_astro/ai.CBXvq1RO_ZNhLvK.webp",
+        "https://mahadk.com/_astro/archimedes.Sm-v4rGV_6Sm15.svg",
+        "https://mahadk.com/_astro/high-seas-monitor.DvG9h3_n_Z2ry7NV.webp",
+        "https://mahadk.com/_astro/high-seas-v2.Bd9b9hKU_1dTLkO.webp",
+        "https://mahadk.com/_astro/phantom.LhCsAd_N_Nz4yL.webp",
+        "https://mahadk.com/_astro/pocketbrain.FtCGHv-t_Z198r46.webp",
+        "https://mahadk.com/_astro/slack-mass-leave.BpppJMsG_ZALRDL.webp",
+        "https://mahadk.com/_astro/vortex-email.CUWn3v6L_23RBhL.webp",
+        "https://mahadk.com/_astro/small-tile.mGXmI6QL_Z3KQUW.webp",
+        "https://mahadk.com/_astro/hc-icon.DZgRWiaK_1X3xi2.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 23,
+    "links": [
+        {
+            "text": "Mahad Kalam",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Projects",
+            "href": "https://mahadk.com/projects"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "Contact",
+            "href": "https://mahadk.com/contact"
+        },
+        {
+            "text": "Hack Club AI\n\nOpenRouter/OpenAI Moderations proxy, with logging, coding agent blocking, built-in dashboard, and more.",
+            "href": "https://github.com/hackclub/ai"
+        },
+        {
+            "text": "Archimedes\n\nA helpful newspaper bot for Hack Club - handles story writing, editor approvals, and auto-generation of both Slack messages and newsletter emails",
+            "href": "https://go.skyfall.dev/archimedes"
+        },
+        {
+            "text": "High Seas Monitor\n\nReal-time inventory and price alerts for Hack Club's High Seas Shop",
+            "href": "https://go.skyfall.dev/monitor"
+        },
+        {
+            "text": "High Seas v2\n\nA faster, more optimised version of the High Seas website. Scaled to 600+ users across 2 days. Also includes High Seas Wrapped, a Spotify Wrapped clone for High Seas (used over 500 times)",
+            "href": "https://highseas.skyfall.dev/"
+        },
+        {
+            "text": "Phantom\n\nA fantasy OS for the web - includes a persisted filesystem, terminal history, Python support and more!",
+            "href": "https://phantom.skyfall.dev/"
+        },
+        {
+            "text": "Pocketbrain\n\nA fast Brainf**k interpreter, with tests and full language support",
+            "href": "https://github.com/SkyfallWasTaken/pocketbrain"
+        },
+        {
+            "text": "Slack Mass Leave\n\nA tool for mass leaving Slack channels, featuring last read sorting, multi-token support, and channel search.",
+            "href": "https://github.com/SkyfallWasTaken/slack-mass-leave"
+        },
+        {
+            "text": "Vortex Email\n\nAd-free temporary email service with 10+ (sub)domains for maximum flexibility",
+            "href": "https://vortex.skyfall.dev/"
+        },
+        {
+            "text": "WakaTime for Figma\n\nBrowser extension that brings WakaTime's time-tracking capabilities to Figma",
+            "href": "https://go.skyfall.dev/waka"
+        },
+        {
+            "text": "Subscribe on RSS",
+            "href": "https://mahadk.com/rss.xml"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/skyfall_ggs"
+        },
+        {
+            "text": "Update image link for Spaces admin panel screenshot\n(8f92858)",
+            "href": "https://github.com/SkyfallWasTaken/skyfall-site/commit/8f92858"
+        },
+        {
+            "text": "512KB Club\nTeam Blue",
+            "href": "https://512kb.club/"
+        },
+        {
+            "text": "‹",
+            "href": "https://saleh.hackclub.com/"
+        },
+        {
+            "text": "",
+            "href": "https://webring.hackclub.com/"
+        },
+        {
+            "text": "›",
+            "href": "https://doruk.dino.icu/"
+        }
+    ],
+    "text_length": 1407,
+    "text_full": "Mahad Kalam\nHome /\nBlog /\nProjects /\nGitHub /\nContact\nProjects\n\nHere are some of the projects I've worked on! This isn't an exhaustive list; these are the projects I'm actually willing to show off.\n\nHack Club AI\n\nOpenRouter/OpenAI Moderations proxy, with logging, coding agent blocking, built-in dashboard, and more.\n\nArchimedes\n\nA helpful newspaper bot for Hack Club - handles story writing, editor approvals, and auto-generation of both Slack messages and newsletter emails\n\nHigh Seas Monitor\n\nReal-time inventory and price alerts for Hack Club's High Seas Shop\n\nHigh Seas v2\n\nA faster, more optimised version of the High Seas website. Scaled to 600+ users across 2 days. Also includes High Seas Wrapped, a Spotify Wrapped clone for High Seas (used over 500 times)\n\nPhantom\n\nA fantasy OS for the web - includes a persisted filesystem, terminal history, Python support and more!\n\nPocketbrain\n\nA fast Brainf**k interpreter, with tests and full language support\n\nSlack Mass Leave\n\nA tool for mass leaving Slack channels, featuring last read sorting, multi-token support, and channel search.\n\nVortex Email\n\nAd-free temporary email service with 10+ (sub)domains for maximum flexibility\n\nWakaTime for Figma\n\nBrowser extension that brings WakaTime's time-tracking capabilities to Figma\n\nSubscribe on RSS\n\n© 2026 Mahad Kalam.\n\nUpdate image link for Spaces admin panel screenshot\n(8f92858)\n512KB Club\nTeam Blue\n‹\n›"
+}

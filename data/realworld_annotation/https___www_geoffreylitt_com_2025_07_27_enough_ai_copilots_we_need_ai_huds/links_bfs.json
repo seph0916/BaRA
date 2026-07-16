@@ -1,0 +1,53 @@
+{
+  "start_url": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
+    "https://www.geoffreylitt.com/",
+    "https://www.geoffreylitt.com/inspirations",
+    "https://www.geoffreylitt.com/feed.xml",
+    "https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger",
+    "https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue",
+    "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming",
+    "https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms",
+    "https://www.geoffreylitt.com/wildcard/",
+    "https://www.geoffreylitt.com/margin-notes/",
+    "https://www.geoffreylitt.com/projects/todomvc-vis",
+    "https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain",
+    "https://www.geoffreylitt.com/2022/11/23/dynamic-documents",
+    "https://www.geoffreylitt.com/wildcard/salon2020/",
+    "https://www.geoffreylitt.com/2019/07/29/browser-extensions",
+    "https://www.geoffreylitt.com/projects/json-sheets",
+    "https://www.geoffreylitt.com/2020/07/19/tools-over-apps-for-personal-notetaking"
+  ],
+  "by_depth": {
+    "0": [
+      "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds"
+    ],
+    "1": [
+      "https://www.geoffreylitt.com/",
+      "https://www.geoffreylitt.com/inspirations",
+      "https://www.geoffreylitt.com/feed.xml",
+      "https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger",
+      "https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue"
+    ],
+    "2": [
+      "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming",
+      "https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms",
+      "https://www.geoffreylitt.com/wildcard/",
+      "https://www.geoffreylitt.com/margin-notes/",
+      "https://www.geoffreylitt.com/projects/todomvc-vis"
+    ],
+    "3": [
+      "https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain",
+      "https://www.geoffreylitt.com/2022/11/23/dynamic-documents",
+      "https://www.geoffreylitt.com/wildcard/salon2020/",
+      "https://www.geoffreylitt.com/2019/07/29/browser-extensions",
+      "https://www.geoffreylitt.com/projects/json-sheets",
+      "https://www.geoffreylitt.com/2020/07/19/tools-over-apps-for-personal-notetaking"
+    ]
+  },
+  "dead_links": []
+}

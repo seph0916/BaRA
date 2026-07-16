@@ -1,0 +1,79 @@
+{
+  "start_url": "https://blueink.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://blueink.com/",
+    "https://help.blueink.com/en",
+    "https://www.blueink.com/",
+    "https://www.blueink.com/contact-us",
+    "https://www.blueink.com/feature-overview",
+    "https://www.blueink.com/features/auto-detect-fields",
+    "https://help.blueink.com/en/collections/3915569-template-library",
+    "https://help.blueink.com/en/collections/3886446-getting-started-with-blueink",
+    "https://help.blueink.com/en/collections/3886453-getting-started-as-a-blueink-admin",
+    "https://help.blueink.com/en/collections/3886457-blueink-signer-guide"
+  ],
+  "by_depth": {
+    "0": [
+      "https://blueink.com/"
+    ],
+    "1": [
+      "https://help.blueink.com/en",
+      "https://www.blueink.com/",
+      "https://www.blueink.com/contact-us",
+      "https://www.blueink.com/feature-overview",
+      "https://www.blueink.com/features/auto-detect-fields"
+    ],
+    "2": [
+      "https://help.blueink.com/en/collections/3915569-template-library",
+      "https://help.blueink.com/en/collections/3886446-getting-started-with-blueink",
+      "https://help.blueink.com/en/collections/3886453-getting-started-as-a-blueink-admin",
+      "https://help.blueink.com/en/collections/3886457-blueink-signer-guide",
+      "https://help.blueink.com/en/collections/3915573-notifications",
+      "https://www.blueink.com/features/bulk-send",
+      "https://www.blueink.com/features/blueink-payments",
+      "https://www.blueink.com/features/certificate-of-evidence",
+      "https://www.blueink.com/features/sms-delivery",
+      "https://www.blueink.com/features/custom-branding",
+      "https://www.blueink.com/features/teams",
+      "https://www.blueink.com/features/in-person-signing",
+      "https://www.blueink.com/features/smart-link-forms",
+      "https://www.blueink.com/features/real-time-dashboard",
+      "https://www.blueink.com/integrations",
+      "https://www.blueink.com/integrations/airtable",
+      "https://www.blueink.com/integrations/click-up",
+      "https://www.blueink.com/integrations/google-drive",
+      "https://www.blueink.com/integrations/salesforce",
+      "https://www.blueink.com/integrations/servicedesk",
+      "https://www.blueink.com/integrations/slack",
+      "https://www.blueink.com/blog/blueink-best-docusign-alternative",
+      "https://www.blueink.com/use-cases",
+      "https://www.blueink.com/use-cases/admissions",
+      "https://www.blueink.com/use-cases/contracts"
+    ],
+    "3": [
+      "https://help.blueink.com/en/articles/3930005-how-to-resend-an-envelope-in-blueink",
+      "https://help.blueink.com/en/articles/3966123-creating-and-managing-draft-envelopes-in-blueink",
+      "https://help.blueink.com/en/articles/4999443-deleting-and-replacing-documents-in-blueink-after-upload",
+      "https://help.blueink.com/en/articles/3961228-editing-a-template-in-blueink",
+      "https://help.blueink.com/en/articles/5614370-how-to-add-an-envelope-label-in-blueink",
+      "https://help.blueink.com/en/articles/7049031-blueink-glossary-understanding-key-features-and-terms",
+      "https://help.blueink.com/en/articles/7049067-finding-an-envelope-sent-to-a-specific-signer-in-blueink",
+      "https://help.blueink.com/en/articles/3955826-blueink-privacy-security",
+      "https://help.blueink.com/en/articles/2687195-how-to-upload-and-send-an-envelope-in-blueink",
+      "https://help.blueink.com/en/articles/3952131-understanding-the-archive-library-in-blueink",
+      "https://help.blueink.com/en/articles/7049100-managing-envelope-settings-and-defaults-in-blueink",
+      "https://help.blueink.com/en/articles/3963353-adding-and-removing-users-in-blueink",
+      "https://help.blueink.com/en/articles/8425647-granting-and-revoking-admin-privileges-for-a-blueink-user",
+      "https://help.blueink.com/en/articles/8428745-adding-and-editing-signer-information-in-blueink",
+      "https://help.blueink.com/en/articles/8428755-how-to-manage-signers-in-blueink",
+      "https://help.blueink.com/en/articles/7049609-how-to-sign-a-document-in-blueink",
+      "https://help.blueink.com/en/articles/7049676-downloading-documents-before-signing-in-blueink-a-step-by-step-guide",
+      "https://help.blueink.com/en/articles/8230521-navigating-through-multiple-envelope-emails-a-gmail-user-s-manual",
+      "https://help.blueink.com/en/articles/8425638-how-to-change-language-in-blueink-during-the-signing-experience"
+    ]
+  },
+  "dead_links": []
+}

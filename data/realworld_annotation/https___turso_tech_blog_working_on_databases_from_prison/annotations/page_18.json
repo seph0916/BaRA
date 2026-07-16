@@ -1,0 +1,184 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-light.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=089d09358d8f5a3e3815861a7419a616",
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-dark.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=2946b82b1620bb2c7839f85d7e2e113b",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=40ce3567-559f-44c2-b35a-1c852244409a&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=5a5bdda4-550f-43b2-a19f-fadabdeb6a92&pt=AgentFS%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fagentfs%2Fintroduction&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342617376.48513386363080066&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=40ce3567-559f-44c2-b35a-1c852244409a&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=5a5bdda4-550f-43b2-a19f-fadabdeb6a92&pt=AgentFS%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fagentfs%2Fintroduction&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342617376.48513386363080066&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 42,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://docs.turso.tech/agentfs/introduction#content-area"
+        },
+        {
+            "text": "Turso home page",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://turso.tech/app"
+        },
+        {
+            "text": "tursodatabase/turso18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "tursodatabase/turso\n18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Turso Database (beta)",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Turso Cloud",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "AgentFS (beta)",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Turso Homepage",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Overview",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Installation",
+            "href": "https://docs.turso.tech/agentfs/installation"
+        },
+        {
+            "text": "Agentic Coding",
+            "href": "https://docs.turso.tech/agentfs/guides/sandbox"
+        },
+        {
+            "text": "Shared Agent Sessions",
+            "href": "https://docs.turso.tech/agentfs/guides/sessions"
+        },
+        {
+            "text": "Audit Filesystem Changes",
+            "href": "https://docs.turso.tech/agentfs/guides/auditing"
+        },
+        {
+            "text": "Copy-on-Write Overlays",
+            "href": "https://docs.turso.tech/agentfs/guides/overlay"
+        },
+        {
+            "text": "MCP Server Integration",
+            "href": "https://docs.turso.tech/agentfs/guides/mcp"
+        },
+        {
+            "text": "Sync with Turso Cloud",
+            "href": "https://docs.turso.tech/agentfs/guides/sync"
+        },
+        {
+            "text": "NFS Server Access",
+            "href": "https://docs.turso.tech/agentfs/guides/nfs"
+        },
+        {
+            "text": "TypeScript SDK",
+            "href": "https://docs.turso.tech/agentfs/sdk/typescript"
+        },
+        {
+            "text": "Python SDK",
+            "href": "https://docs.turso.tech/agentfs/sdk/python"
+        },
+        {
+            "text": "Rust SDK",
+            "href": "https://docs.turso.tech/agentfs/sdk/rust"
+        },
+        {
+            "text": "CLI",
+            "href": "https://docs.turso.tech/agentfs/reference/cli"
+        },
+        {
+            "text": "Key Features",
+            "href": "https://docs.turso.tech/agentfs/introduction#key-features"
+        },
+        {
+            "text": "Quick Start",
+            "href": "https://docs.turso.tech/agentfs/introduction#quick-start"
+        },
+        {
+            "text": "Next Steps",
+            "href": "https://docs.turso.tech/agentfs/introduction#next-steps"
+        },
+        {
+            "text": "https://docs.turso.tech/llms.txt",
+            "href": "https://docs.turso.tech/llms.txt"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/agentfs/introduction#key-features"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/agentfs/introduction#quick-start"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/agentfs/introduction#next-steps"
+        },
+        {
+            "text": "Installation\nInstall the AgentFS CLI",
+            "href": "https://docs.turso.tech/agentfs/installation"
+        },
+        {
+            "text": "Agentic Coding\nRun AI coding agents safely",
+            "href": "https://docs.turso.tech/agentfs/guides/sandbox"
+        },
+        {
+            "text": "AgentFS SDKs\nBuild custom agents with the AgentFS SDKs",
+            "href": "https://docs.turso.tech/agentfs/sdk"
+        },
+        {
+            "text": "Suggest edits",
+            "href": "https://github.com/tursodatabase/turso-docs/edit/main/agentfs/introduction.mdx"
+        },
+        {
+            "text": "Raise issue",
+            "href": "https://github.com/tursodatabase/turso-docs/issues/new?title=Issue%20on%20docs&body=Path:%20/agentfs/introduction"
+        },
+        {
+            "text": "Installation",
+            "href": "https://docs.turso.tech/agentfs/installation"
+        },
+        {
+            "text": "discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "github",
+            "href": "https://github.com/tursodatabase"
+        },
+        {
+            "text": "twitter",
+            "href": "https://twitter.com/tursodatabase"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "Powered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform",
+            "href": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=turso"
+        }
+    ],
+    "text_length": 2073,
+    "text_full": "Skip to main content\nTurso home page\nSearch...\nCtrl K\nDashboard\ntursodatabase/turso\n18,893\nTurso Database (beta)\nTurso Cloud\nAgentFS (beta)\nTurso Homepage\nDiscord\nGitHub\nAgentFS\nOverview\nInstallation\nGuides\nAgentic Coding\nShared Agent Sessions\nAudit Filesystem Changes\nCopy-on-Write Overlays\nMCP Server Integration\nSync with Turso Cloud\nNFS Server Access\nSDKs\nTypeScript SDK\nPython SDK\nRust SDK\nReference\nCLI\nOn this page\nKey Features\nQuick Start\nNext Steps\nAgentFS\nAgentFS\n\nA filesystem for AI agents, built on Turso\n\nCopy page\nDocumentation Index\n\nFetch the complete documentation index at: https://docs.turso.tech/llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nAgentFS is a filesystem for AI agents. It provides copy-on-write isolation, letting agents safely modify files while keeping your original data untouched. It is available both as a CLI, that wraps an existing program in a sandboxed session, and an SDK that allows you to build custom agents with a filesystem abstraction.\n​\nKey Features\nCopy-on-Write Isolation — Run agents in sandboxed environments where changes are isolated from your source tree\nSingle File Storage — Everything stored in one portable SQLite database for easy sharing and snapshotting\nBuilt-in Auditing — Every file operation is recorded and queryable\nCloud Sync — Optionally sync agent state to Turso Cloud\n​\nQuick Start\n# Install\ncurl -fsSL https://agentfs.ai/install | bash\n\n# Run a shell in an isolated environment\ncd /path/to/project\nagentfs run bash\n\n# Any changes are isolated - your original files are safe\n\n​\nNext Steps\nInstallation\nInstall the AgentFS CLI\nAgentic Coding\nRun AI coding agents safely\nAgentFS SDKs\nBuild custom agents with the AgentFS SDKs\nThis software is in BETA. It may still contain bugs and unexpected behavior. Use caution with production data and ensure you have backups.\n\nWas this page helpful?\n\nYes\nNo\nSuggest edits\nRaise issue\nInstallation\ndiscord\ngithub\ntwitter\nlinkedin\nPowered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform"
+}

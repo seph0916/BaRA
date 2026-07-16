@@ -1,0 +1,43 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 8,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "More about how I work →",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Tell me about it →",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Ruby on Rails Slack",
+            "href": "https://rubyonrails.link/"
+        },
+        {
+            "text": "Work with me →",
+            "href": "https://piechowski.io/work-with-me"
+        }
+    ],
+    "text_length": 4157,
+    "text_full": "Work With Me\nGithub\nBlog\nYour codebase is the bottleneck. I fix that.\n\nI’m a principal software engineer who specializes in the codebases nobody else wants to touch: the ones blocking every feature, the ones where deploys are a coin flip, the ones your team has quietly given up on. I come in, figure out what’s actually wrong, and do the hands-on work to fix it.\n\nI’ve spent my career doing this across legacy Rails apps, inherited codebases from departed teams, offshore handoffs gone wrong, and increasingly, AI-generated codebases that shipped fast and fell apart faster. The pattern is always the same: velocity has cratered, engineers are frustrated, and leadership needs it fixed.\n\nI join your Slack, attend the meetings that matter, and get to work. Your team usually barely notices I’m there until things start working again.\n\nHow I work\n\nCodebase Audit: Find out what’s actually wrong. I read the code, the pipeline, the deploy process, and give you a prioritized, specific report. Not “you have tech debt,” but specific files, patterns, and recommendations. 1–2 weeks, fixed price.\n\nCodebase Rescue: I go in and fix it. Framework upgrades, god model decomposition, CI/CD, test coverage, deploy reliability. I work incrementally on main. You see progress in days, not months. 4–12 weeks.\n\nEmbedded Engineering: For teams that need a senior engineer who can operate independently. I pick up the work your team can’t get to, mentor along the way, and leave the codebase better than I found it. Ongoing, weekly rate.\n\nMore about how I work →\n\nWhat this looks like in practice\n\nA Rails 4 app blocking enterprise sales. Two previous upgrade attempts had failed. I upgraded incrementally on main, one minor version at a time, merged daily, never diverging. Running Rails 7.1 in production in 7 weeks. Passed the security review that had been blocking six-figure deals.\n\nA codebase with near-zero velocity. The team was stuck. Shipping had ground to a halt, deploys were unreliable, and nobody wanted to touch core parts of the app. I worked quietly alongside them, restructured the worst of the code, fixed the deploy pipeline, and introduced process changes that got them shipping daily. They kept working normally the whole time.\n\nA post-acquisition app with no surviving engineers. The acquired company’s only senior dev had left. Nobody understood the codebase. I mapped the data model, documented the implicit business rules, fixed the most dangerous patterns, and got the acquiring team from “we can’t touch this” to confidently shipping patches within a month.\n\nDealing with something similar? Tell me about it →\n\n“An extraordinary thing happened when Ally joined our team: everyone got more productive. Her thoughtful code reviews and kind guidance were a force multiplier. Her in-depth knowledge of Postgres, Ruby, Rails, and AWS were on display as she confidently led multiple successful platform transitions without disrupting customer activity.”\n\n— Aaron Gerdes, Lead Engineer, Rosh Review\n\nAbout me\n\nI’m Ally Piechowski. I work remotely from Southeast Asia (US citizen). I’ve been building and rescuing software professionally for over a decade, primarily in Rails, but also in Node, Django, and Elixir. I’m a polyglot who went deep on Rails because that’s where the hardest legacy problems have lived. Good architecture and engineering judgment aren’t language-specific.\n\nIn the era of AI-assisted development, knowing how to be a good engineer matters more than language syntax. I’ve been rescuing codebases created by offshore teams since 2015. The AI-generated codebase that shipped fast and can’t be maintained is the same pattern with a new origin story, and it’s already showing up.\n\nMy blog posts rank on the first page for Rails upgrade and deployment topics. I’m active in the Ruby on Rails Slack and various engineering communities. Most of my clients find me through referrals.\n\nI’m not a firm. I’m a single senior engineer who does the work myself. That’s the point: you get the person you talked to, not a junior associate.\n\nCurrently available for contract work.\n\nWork with me →\n\nLet's talk about your codebase.\nEmail\nMessage"
+}

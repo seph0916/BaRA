@@ -1,0 +1,311 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 75,
+    "links": [
+        {
+            "text": "Welcome",
+            "href": "https://plainvanillaweb.com/index.html"
+        },
+        {
+            "text": "Components",
+            "href": "https://plainvanillaweb.com/pages/components.html"
+        },
+        {
+            "text": "Styling",
+            "href": "https://plainvanillaweb.com/pages/styling.html"
+        },
+        {
+            "text": "Sites",
+            "href": "https://plainvanillaweb.com/pages/sites.html#"
+        },
+        {
+            "text": "Applications",
+            "href": "https://plainvanillaweb.com/pages/applications.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#pages"
+        },
+        {
+            "text": "HTML landmarks",
+            "href": "https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/"
+        },
+        {
+            "text": "Landmarks",
+            "href": "https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/"
+        },
+        {
+            "text": "Elements",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"
+        },
+        {
+            "text": "popover",
+            "href": "https://web.dev/learn/css/popover-and-dialog"
+        },
+        {
+            "text": "dialog",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog"
+        },
+        {
+            "text": "details",
+            "href": "https://developer.mozilla.org/en-US/blog/html-details-exclusive-accordions/"
+        },
+        {
+            "text": "Forms",
+            "href": "https://developer.mozilla.org/en-US/docs/Learn/Forms"
+        },
+        {
+            "text": "rich input types",
+            "href": "https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types"
+        },
+        {
+            "text": "client-side validation",
+            "href": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation"
+        },
+        {
+            "text": "UI pseudo classes",
+            "href": "https://developer.mozilla.org/en-US/docs/Learn/Forms/UI_pseudo-classes"
+        },
+        {
+            "text": "form-associated custom elements",
+            "href": "https://web.dev/articles/more-capable-form-controls"
+        },
+        {
+            "text": "making a new form control",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-05-09-form-control/"
+        },
+        {
+            "text": "SVG favicons",
+            "href": "https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df"
+        },
+        {
+            "text": "Embed dark mode",
+            "href": "https://css-tricks.com/svg-favicons-in-action/"
+        },
+        {
+            "text": "RealFaviconGenerator",
+            "href": "https://realfavicongenerator.net/"
+        },
+        {
+            "text": "de facto standard",
+            "href": "https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#project"
+        },
+        {
+            "text": "Visual Studio Code setup",
+            "href": "https://plainvanillaweb.com/blog/articles/2024-10-20-editing-plain-vanilla/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#routing"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#dependencies"
+        },
+        {
+            "text": "unpkg.com/microlight/",
+            "href": "https://unpkg.com/microlight/"
+        },
+        {
+            "text": "UMD module format",
+            "href": "https://jameshfisher.com/2020/10/04/what-are-umd-modules/"
+        },
+        {
+            "text": "ESM module format",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules"
+        },
+        {
+            "text": "Day.js",
+            "href": "https://day.js.org/"
+        },
+        {
+            "text": "web-vitals",
+            "href": "https://github.com/GoogleChrome/web-vitals"
+        },
+        {
+            "text": "import maps",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/importmap"
+        },
+        {
+            "text": "not yet supported",
+            "href": "https://github.com/WICG/import-maps/issues/235"
+        },
+        {
+            "text": "JSPM generator",
+            "href": "https://generator.jspm.io/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#browser-support"
+        },
+        {
+            "text": "caniuse.com",
+            "href": "https://caniuse.com/"
+        },
+        {
+            "text": "Popover",
+            "href": "https://caniuse.com/wf-popover"
+        },
+        {
+            "text": "mutually-exclusive details",
+            "href": "https://caniuse.com/wf-details-name"
+        },
+        {
+            "text": "CSS Nesting",
+            "href": "https://caniuse.com/css-nesting"
+        },
+        {
+            "text": "HTTP/2",
+            "href": "https://caniuse.com/http2"
+        },
+        {
+            "text": "HTML5 semantic elements",
+            "href": "https://caniuse.com/html5semantic"
+        },
+        {
+            "text": "Custom Elements",
+            "href": "https://caniuse.com/custom-elementsv1"
+        },
+        {
+            "text": "Templates",
+            "href": "https://caniuse.com/template"
+        },
+        {
+            "text": "Shadow DOM",
+            "href": "https://caniuse.com/shadowdomv1"
+        },
+        {
+            "text": "MutationObserver",
+            "href": "https://caniuse.com/mdn-api_mutationobserver"
+        },
+        {
+            "text": "CustomEvent",
+            "href": "https://caniuse.com/customevent"
+        },
+        {
+            "text": "FormData",
+            "href": "https://caniuse.com/mdn-api_formdata"
+        },
+        {
+            "text": "Element.closest",
+            "href": "https://caniuse.com/element-closest"
+        },
+        {
+            "text": "JavaScript Modules",
+            "href": "https://caniuse.com/es6-module"
+        },
+        {
+            "text": "ECMAScript 6 / 2015",
+            "href": "https://caniuse.com/es6"
+        },
+        {
+            "text": "ECMAScript 8 / 2017",
+            "href": "https://caniuse.com/async-functions,object-values,object-entries,mdn-javascript_builtins_object_getownpropertydescriptors,pad-start-end,mdn-javascript_grammar_trailing_commas_trailing_commas_in_functions"
+        },
+        {
+            "text": "ECMAScript 11 / 2020",
+            "href": "https://caniuse.com/?feats=mdn-javascript_operators_optional_chaining,mdn-javascript_operators_nullish_coalescing,mdn-javascript_builtins_globalthis,es6-module-dynamic-import,bigint,mdn-javascript_builtins_promise_allsettled,mdn-javascript_builtins_string_matchall,mdn-javascript_statements_export_namespace,mdn-javascript_operators_import_meta"
+        },
+        {
+            "text": "@import",
+            "href": "https://caniuse.com/mdn-css_at-rules_import"
+        },
+        {
+            "text": "variables",
+            "href": "https://caniuse.com/css-variables"
+        },
+        {
+            "text": "calc()",
+            "href": "https://caniuse.com/calc"
+        },
+        {
+            "text": "flexbox",
+            "href": "https://caniuse.com/flexbox"
+        },
+        {
+            "text": "grid",
+            "href": "https://caniuse.com/css-grid"
+        },
+        {
+            "text": "display: contents",
+            "href": "https://caniuse.com/css-display-contents"
+        },
+        {
+            "text": "Baseline",
+            "href": "https://web.dev/baseline"
+        },
+        {
+            "text": "Interop",
+            "href": "https://web.dev/blog/interop-2026"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#deploying"
+        },
+        {
+            "text": "GitHub Pages",
+            "href": "https://pages.github.com/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#testing"
+        },
+        {
+            "text": "Mocha",
+            "href": "https://mochajs.org/"
+        },
+        {
+            "text": "Chai",
+            "href": "https://www.chaijs.com/"
+        },
+        {
+            "text": "DOM Testing Library",
+            "href": "https://testing-library.com/"
+        },
+        {
+            "text": "cannot query inside shadow roots",
+            "href": "https://github.com/testing-library/dom-testing-library/issues/413"
+        },
+        {
+            "text": "async methods",
+            "href": "https://testing-library.com/docs/dom-testing-library/api-async"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/sites.html#example"
+        },
+        {
+            "text": "project on GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla/"
+        },
+        {
+            "text": "Make Applications",
+            "href": "https://plainvanillaweb.com/pages/applications.html"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/pages/sites.html#top"
+        }
+    ],
+    "text_length": 17184,
+    "text_full": "Sites\nWelcome\nComponents\nStyling\nSites\nApplications\nBlog\nPages\n\nFor content-driven websites with low interactivity a multi-page approach is best suited.\n\nAbandoning the use of frameworks means writing out those HTML pages from scratch. For this it is important to understand what a good minimal HTML page should look like.\n\nexample.html\n<!doctype html>\n<html lang=\"en\">\n    <head>\n        <title>Example</title>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width\" />\n        <link rel=\"stylesheet\" href=\"index.css\">\n        <script type=\"module\" src=\"index.js\" defer></script>\n    </head>\n    <body>\n        <noscript><strong>Please enable JavaScript to view this page correctly.</strong></noscript>\n        <header>\n            title and navigation ...\n        </header>\n        <main>\n            main content ...\n        </main>\n        <footer>\n            byline and copyright ...\n        </footer>    \n    </body>\n</html>\n\nAn explanation of each element:\n\n<!doctype html>\nThe doctype is required to have the HTML parsed as HTML5 instead of an older version.\n<html lang=\"en\">\nThe lang attribute is recommended to make sure browsers don't misdetect the language used in the page.\n<head><title>\nThe title will be used for the browser tab and when bookmarking, making it effectively non-optional.\n<head><meta charset=\"utf-8\">\nThis is borderline unnecessary, but just to make sure a page is properly interpreted as UTF-8 this line should be included. Obviously the editor used to make the page should equally be set to UTF-8.\n<head><meta name=\"viewport\">\nThe viewport meta is necessary to have mobile-friendly layout.\n<head><link rel=\"stylesheet\" href=\"index.css\">\nBy convention the stylesheet is loaded from <head> in a blocking way to ensure the page's markup does not have a flash of unstyled content.\n<head><script type=\"module\" src=\"index.js\" defer>\nThe main JavaScript file is in the <head>, and will bootstrap the web components as explained on the components page. The use of defer allows it to download while the rest of the page is loading and get executed at the end.\n<body><noscript>\nBecause web components don't work without JavaScript it is good practice to include a noscript warning to users that have JavaScript disabled. This warning only needs to be on pages with web components. If you don't want to show anything except the warning, see the template pattern below.\n<body><header/main/footer>\nThe page's markup should be organized using HTML landmarks. Landmarks when used properly help organize the page into logical blocks and make the page's structure accessible. Because they are standards-based, compatibility with present and future accessibility products is more likely.\n\nPages that should only show their contents if JavaScript is enabled can use this template pattern:\n\nindex.htmlindex.js\n<!doctype html>\n<html lang=\"en\">\n    <head>\n        <title>Example</title>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width\" />\n        <link rel=\"stylesheet\" href=\"index.css\">\n        <script type=\"module\" src=\"index.js\" defer></script>\n    </head>\n    <body>\n        <noscript><strong>Please enable JavaScript to view this page.</strong></noscript>\n        <template id=\"page\">\n            <header>\n                title and navigation ...\n            </header>\n            <main>\n                main content ...\n            </main>\n            <footer>\n                byline and copyright ...\n            </footer>    \n        </template>\n    </body>\n</html>\nSemantics matter\n\nThe markup in the page should default to using semantic HTML, to improve accessibility and SEO. Web components should only be used in those cases where the level of complexity and interaction exceeds the capabilities of plain HTML markup.\n\nFamiliarize yourself with these aspects of semantic HTML:\n\nLandmarks\nAs mentioned above, landmarks are the backbone of a page's structure and deliver good structure and accessibility by default.\nElements\nBeing familiar with HTML's set of built-in elements saves time, both in avoiding the need for custom elements and in easing implementation of the custom elements that are needed. When properly used HTML elements are accessible by default. Pay special attention to the newly baseline features that enable complex UI patterns with minimal JavaScript, like how popover and dialog can be used to implement HTML-native tooltips, dialogs and menus, and how the details element can be used to implement accordions.\nForms\nHTML's built-in forms can implement many interactivity use cases when used to their full extent. Be aware of capabilities like rich input types, client-side validation and UI pseudo classes. When a suitable form input type for a use case cannot be found, consider using form-associated custom elements. To dive into this topic read the article on making a new form control.\nFavicons\n\nThere is one thing that you will probably want to add to the HTML that is not standards-based and that is a reference to a favicon:\n\nTo keep it really simple, put a favicon.ico in the root path of the site and link to it from your HTML: <link rel=\"icon\" href=\"favicon.ico\">\nConsider SVG favicons, but know that Safari does not support them. Embed dark mode in the favicon SVG itself or use a generator like RealFaviconGenerator for more convience.\nBe aware that because favicons are not based on published web standards it is cumbersome to implement the de facto standard fully.\nProject\n\nA suggested project layout for a vanilla multi-page website:\n\n/\nThe project root contains the files that will not be published, such as README.md, LICENSE or .gitignore.\n/public\nThe public folder is published as-is, without build steps. It is the whole website.\n/public/index.html\nThe main landing page of the website, not particularly different from the other pages, except for its path.\n/public/index.[js/css]\nThe main stylesheet and javascript. These contain the shared styles and code for all pages. index.js loads and registers the web components used on all pages. By sharing these across multiple HTML pages unnecessary duplication and inconsistencies between pages can be avoided.\n/public/pages/[name].html\nAll of the site's other pages, each including the same index.js and index.css, and ofcourse containing the content directly as markup in the HTML, leveraging the web components.\n/public/components/[name]/\nOne folder per web component, containing a [name].js and [name].css file. The .js file is imported into the index.js file to register the web component. The .css file is imported into the global index.css or in the shadow DOM, as explained on the styling page.\n/public/lib/\nFor all external libraries used as dependencies. See below for how to add and use these dependencies.\n/public/styles/\nThe global styles referenced from index.css, as explained on the styling page.\n\nConfiguration files for a smoother workflow in programmer's editors also belong in the project's root. Most of the development experience of a framework-based project is possible without a build step through editor extensions. See the Visual Studio Code setup for this site for an example.\n\nRouting\n\nThe old-school routing approach of standard HTML pages and <a> tags to link them together has the advantages of being easily indexed by search engines and fully supporting browser history and bookmarking functionality out of the box. 😉\n\nDependencies\n\nAt some point you may want to pull in third-party libraries. Without npm and a bundler this is still possible.\n\nUnpkg\n\nTo use libraries without a bundler they need to be prebuilt in either ESM or UMD format. These libraries can be obtained from unpkg.com:\n\nBrowse to unpkg.com/[library]/ (trailing slash matters), for example unpkg.com/microlight/\nLook for and download the library js file, which may be in a subfolder, like dist, esm or umd\nPlace the library file in the lib/ folder\n\nAlternatively, the library may be loaded directly from CDN.\n\nUMD\n\nThe UMD module format is an older format for libraries loaded from script tag, and it is the most widely supported, especially among older libraries. It can be recognized by having typeof define === 'function' && define.amd somewhere in the library JS.\n\nTo include it in your project:\n\nInclude it in a script tag: <script src=\"lib/microlight.js\"></script>\nObtain it off the window: const { microlight } = window;\nESM\n\nThe ESM module format (also known as JavaScript modules) is the format specified by the ECMAScript standard, and newer or well-behaved libraries will typically provide an ESM build. It can be recognized by the use of the export keyword.\n\nTo include it in your project:\n\nLoad it from CDN:\nimport('https://unpkg.com/web-vitals@4.2.2/dist/web-vitals.js').then((webVitals) => ...)\nOr load it from a local copy:\nimport webVitals from 'lib/web-vitals.js'\nimports.js\n\nTo neatly organize libraries and separate them from the rest of the codebase, they can be loaded and exported from an imports.js file. For example, here is a page that uses a UMD build of Day.js and an ESM build of web-vitals:\n\nThe text is rendered by the <x-metrics> component:\n\ncomponents/metrics.js\nimport { dayjs, webVitals } from '../lib/imports.js';\n\nclass MetricsComponent extends HTMLElement {\n    #now = dayjs();\n    #ttfb;\n    #interval;\n\n    connectedCallback() {\n        webVitals.onTTFB(_ => this.#ttfb = Math.round(_.value));\n        this.#interval = setInterval(() => this.update(), 500);\n    }\n\n    disconnectedCallback() {\n        clearInterval(this.#interval);\n        this.#interval = null;\n    }\n\n    update() {\n        this.innerHTML = `\n            <p>Page loaded ${this.#now.fromNow()}, TTFB ${this.#ttfb} milliseconds</p>\n        `;\n    }\n}\n\nexport const registerMetricsComponent = () => {\n    customElements.define('x-metrics', MetricsComponent);\n}\n\nIn the /lib folder we find these files:\n\nweb-vitals.js - the ESM build of web-vitals\ndayjs/\ndayjs.min.js - the UMD build of Day.js\nrelativeTime.js - the UMD build of this Day.js plugin\nimports.js\n\nDigging deeper into this last file we see how it bundles loading of third-party dependencies:\n\nlib/imports.js\n// UMD version of dayjs, from https://unpkg.com/dayjs/\nconst dayjs = window.dayjs;\nconst dayjsRelativeTime = window.dayjs_plugin_relativeTime;\ndayjs.extend(dayjsRelativeTime);\n\n// ESM version of web-vitals, from https://unpkg.com/web-vitals/dist/web-vitals.js\nimport * as webVitals from './web-vitals.js';\n\nexport { dayjs, webVitals };\n\n\nIt imports the ESM library directly, but it pulls the UMD libraries off the Window object. These are loaded in the HTML.\n\nHere is the combined example:\n\nindex.htmlindex.cssindex.jsmetrics.jsimports.js\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <link rel=\"stylesheet\" href=\"index.css\">\n    <script src=\"./lib/dayjs/dayjs.min.js\" defer></script>\n    <script src=\"./lib/dayjs/relativeTime.js\" defer></script>\n    \n    <script type=\"module\" src=\"index.js\" defer></script>\n</head>\n<body>\n    <x-metrics></x-metrics>\n</body>\n</html>\n\nRegrettably not all libraries have a UMD or ESM build, but more and more do.\n\nImport Maps\n\nAn alternative to the imports.js approach are import maps. These define a unique mapping between importable module name and corresponding library file in a special script tag in the HTML head. This allows a more traditional module-based import syntax in the rest of the codebase.\n\nThe previous example adapted to use import maps:\n\nindex.htmlmodule.jsmetrics.js\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <link rel=\"stylesheet\" href=\"index.css\">\n    <script src=\"./lib/dayjs/dayjs.min.js\" defer></script>\n    <script src=\"./lib/dayjs/relativeTime.js\" defer></script>\n    <script type=\"importmap\">\n        {\n            \"imports\": {\n                \"dayjs\": \"./lib/dayjs/module.js\",\n                \"web-vitals\": \"./lib/web-vitals.js\"\n            }\n        }\n    </script>\n    <script type=\"module\" src=\"index.js\" defer></script>\n</head>\n<body>\n    <x-metrics></x-metrics>\n</body>\n</html>\n\nSome things to take into account when using import maps:\n\nImport maps can only map to ESM modules, so for UMD libraries a wrapper must be provided, as with the module.js wrapper for dayjs in this example.\nExternal import maps of the form <script type=\"importmap\" src=\"importmap.json\"> are not yet supported in all browsers. This means the import map must be duplicated in every HTML page.\nThe import map must be defined before the index.js script is loaded, preferably from the <head> section.\nImport maps can be used to more easily load libraries from a node_modules folder or from a CDN. JSPM generator can be used to quickly create an import map for CDN dependencies. Use this with caution, as adding such external dependencies makes a vanilla codebase rely on the continued availability of that service.\nBrowser support\n\nVanilla web sites are supported in all modern browsers. But what does that mean?\n\nEverything on this site works in current versions of Safari, Chrome, Edge and Firefox.\nEverything on this site has 95% support or more on caniuse.com, with the exception of Popover (91%), mutually-exclusive details (91%), and CSS Nesting (92%), and it won't be long before those catch up.\nThat in turn means you can safely rely on HTTP/2, HTML5 semantic elements, Custom Elements, Templates, Shadow DOM, MutationObserver, CustomEvent, FormData, and the Element.closest API.\nIt's also safe to use JavaScript Modules, ECMAScript 6 / 2015, ECMAScript 8 / 2017 and ECMAScript 11 / 2020.\nIn CSS you can rely on @import, variables, calc(), flexbox, grid, display: contents and so much more.\n\nTo keep up with new web standards, keep an eye on these projects:\n\nBaseline keeps track of which features are widely available in browsers and lets you know when they are safe to use.\nInterop is a yearly initiative between browser makers to bring new web platform features to all browsers, or fix compatibility of existing ones. Consider it a preview of what will become baseline.\nDeploying\n\nAny provider that can host static websites can be used for deployment.\n\nAn example using GitHub Pages:\n\nUpload the project as a repository on GitHub\nGo to Settings, Pages\nSource: GitHub Actions\nStatic Website, Configure\nScroll down to path, and change it to ./public\nCommit changes...\nGo to the Actions page for the repository, wait for the site to deploy\nTesting\n\nPopular testing frameworks are all designed to run in build pipelines. However, a plain vanilla web site has no build. To test web components an old-fashioned approach can be used: testing in the browser using the Mocha framework.\n\nFor example, these are the live unit tests for the <x-tab-panel> component used to present tabbed source code panels on this site:\n\nAnd for ultimate coding inception, here is that tabpanel component showing the testing source code:\n\nindex.htmlindex.jstabpanel.test.jsimports-test.js\ntests/index.html\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <title>Plain Vanilla - Tests</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\" />\n    <link rel=\"icon\" href=\"../favicon.ico\">\n    <link rel=\"stylesheet\" href=\"../index.css\">\n    <!-- https://unpkg.com/mocha@9.2.2/mocha.css -->\n    <link rel=\"stylesheet\" href=\"./lib/mocha/mocha.css\" />\n    <!-- https://unpkg.com/chai@4.3.6/chai.js -->\n    <script src=\"./lib/mocha/chai.js\" defer></script>\n    <!-- https://unpkg.com/mocha@9.2.2/mocha.js -->\n    <script src=\"./lib/mocha/mocha.js\" defer></script>\n    <!-- https://unpkg.com/@testing-library/dom@8.17.1/dist/@testing-library/dom.umd.js -->\n    <script src=\"./lib/@testing-library/dom.umd.js\" defer></script>\n    \n    <script type=\"module\" class=\"mocha-init\" defer>\n        mocha.setup('bdd');\n        mocha.checkLeaks();\n    </script>\n    \n    <script type=\"module\" src=\"./tabpanel.test.js\" defer></script>\n    \n    <!-- include more tests here -->\n    \n    <script type=\"module\" class=\"mocha-exec\" src=\"./index.js\" defer></script>\n</head>\n<body>\n    <div id=\"mocha\"></div>\n</body>\n</html>\n\n\nSome working notes for how this is set up:\n\nThe entire code for the unit tests, including the testing libraries, is isolated to a public/tests/ subfolder. The tests will therefore be available live by adding /tests to the deployed site's URL. If you don't want to deploy the tests on the live website, exclude the tests folder during the deploy step.\nMocha and Chai are used as test and assertion frameworks, because they work in-browser without a build step.\nDOM Testing Library is used to more easily query the DOM. The imports-test.js file configures it for vanilla use.\nAn important limitation is that DOM Testing Library cannot query inside shadow roots. To test something inside a shadow root it is necessary to first query for the containing web component, get a handle to its shadowRoot property, and then query inside of that.\nWeb Components initialize asynchronously, which can make them tricky to test. Use the async methods of DOM Testing Library.\nExample\n\nThis website is the example. Check out the project on GitHub.\n\nUp next\n\nLearn how to build single-page applications using vanilla techniques.\n\nMake Applications\n\nContact GitHub\n\nBack to top"
+}

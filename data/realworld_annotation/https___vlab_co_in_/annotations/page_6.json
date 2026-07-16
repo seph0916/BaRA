@@ -1,0 +1,374 @@
+{
+    "image_count": 10,
+    "images": [
+        "https://www.vlab.co.in/images/fb-icon.png",
+        "https://www.vlab.co.in/images/logo.jpg",
+        "https://www.vlab.co.in/images/click-here.png",
+        "https://www.vlab.co.in/images/new.gif",
+        "https://www.vlab.co.in/images/inner_slider/image1.gif",
+        "https://www.vlab.co.in/images/inner_slider/image2.gif",
+        "https://www.vlab.co.in/images/inner_slider/image3.gif",
+        "https://www.vlab.co.in/images/inner_slider/image4.gif",
+        "https://www.vlab.co.in/images/inner_slider/image5.gif",
+        "https://www.vlab.co.in/images/qr-code-mob6.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 88,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.facebook.com/VLabsIITDelhi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "ABOUT US",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "OUTREACH PORTAL",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "PARTICIPATING INSTITUTES",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "CONTACT US",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Outreach Portal",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/index.php"
+        },
+        {
+            "text": "Analog and Digital Electronics Lab I (New)",
+            "href": "https://ade-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://ade-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Analog and Digital Electronics Lab II (New)",
+            "href": "https://ade2-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://ade2-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Analog Electronics Circuits Virtual Lab",
+            "href": "https://aec-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://aec-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Analog Electronics Lab",
+            "href": "https://ae-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://ae-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Basic Electronics Lab",
+            "href": "https://be-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://be-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Biomedical Signal Processing Lab (New)",
+            "href": "https://bsp-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://bsp-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Computer Network Virtual Lab (New)",
+            "href": "http://cn-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "http://cn-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Applications Lab",
+            "href": "https://da-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT BOMBAY",
+            "href": "https://da-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Electronic Circuits Lab",
+            "href": "https://dec-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://dec-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Electronics Lab-I",
+            "href": "https://de-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://de-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Electronics Lab-II",
+            "href": "https://de-iitg.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT GUWAHATI",
+            "href": "https://de-iitg.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Logic Design Lab (Logic Gates & Mux-Demux)",
+            "href": "https://dld-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT BOMBAY",
+            "href": "https://dld-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Logic Design Virtual Lab (New)",
+            "href": "https://cse15-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse15-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Signal Processing Virtual Laboratory",
+            "href": "https://dsp-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://dsp-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "DLD with Verilog Virtual Laboratory (New)",
+            "href": "https://dldv-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://dldv-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Embedded System Design with 8051 and PIC Microcontrollers (New)",
+            "href": "https://esd-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://esd-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Embedded System Design with 8051 and PIC Microcontrollers (New)",
+            "href": "https://esd-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://esd-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Error Correcting Codes Virtual Lab (New)",
+            "href": "https://ecc-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ecc-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Foundations in Semiconductor Physics Lab I (New)",
+            "href": "https://fsp1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://fsp1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Foundations in Semiconductor Physics Lab II (New)",
+            "href": "https://fsp2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://fsp2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Hybrid Electronics Lab",
+            "href": "https://he-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://he-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Internet of Things Virtual Laboratory (New)",
+            "href": "https://iot-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://iot-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Machine Learning Virtual Lab (New)",
+            "href": "https://ml-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://ml-iitr.vlabs.ac.in/"
+        },
+        {
+            "text": "Microelectronics and VLSI Engineering Laboratory",
+            "href": "https://mevlsi-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://mevlsi-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Modern Coding Theory Virtual Lab (New)",
+            "href": "https://mct-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://mct-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Probability and Random Processes Virtual Lab (New)",
+            "href": "http://prp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "http://prp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Signals and Systems Virtual Lab (New)",
+            "href": "https://ss-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ss-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "VLSI Design Testing Laboratory (New)",
+            "href": "https://vlsi-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://vlsi-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "VLSI Virtual Laboratory (New)",
+            "href": "https://cse14-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse14-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "VLSI with SPICE Code Virtual Laboratory (New)",
+            "href": "http://vlsis-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "http://vlsis-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Wireless Communications Virtual Lab (New)",
+            "href": "https://wc-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://wc-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Click here for related NPTEL video lectures",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-electronics-and-communications"
+        },
+        {
+            "text": "* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.",
+            "href": "https://www.education.gov.in/hi/ict-initiatives"
+        },
+        {
+            "text": "* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.",
+            "href": "https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8/edit#"
+        },
+        {
+            "text": "Find the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute.",
+            "href": "https://drive.google.com/file/d/1U8z6RerrNA-IeBtCmQj8jDsYCAiu3_EY/view?usp=drive_link"
+        },
+        {
+            "text": "Lab Feedback Form",
+            "href": "http://38.100.110.143/feedback/feedback.html"
+        },
+        {
+            "text": "Lab Assessment Form",
+            "href": "http://38.100.110.143/labassessment/assessmentform.html"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.vlab.co.in/faq"
+        },
+        {
+            "text": "Shakshat Portal",
+            "href": "http://www.sakshat.ac.in/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        }
+    ],
+    "text_length": 3769,
+    "text_full": "21 May, 2026 | 06:08:27 AM\nVisitors  51333507\nAn Initiative of\nMinistry of Education\nUnder the National Mission on Education through ICT\nHOME\nABOUT US\nOUTREACH PORTAL\nPARTICIPATING INSTITUTES\nNMEICT\nCONTACT US\nElectronics & Communications\nHome » Broad Areas of Virtual Labs\nAnalog and Digital Electronics Lab I (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nAnalog and Digital Electronics Lab II (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nAnalog Electronics Circuits Virtual Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nAnalog Electronics Lab\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nBasic Electronics Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nBiomedical Signal Processing Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nComputer Network Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nDigital Applications Lab\nReference Books \nSyllabus Mapping \nIIT BOMBAY\nDigital Electronic Circuits Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nDigital Electronics Lab-I\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nDigital Electronics Lab-II\nReference Books \nSyllabus Mapping \nIIT GUWAHATI\nDigital Logic Design Lab (Logic Gates & Mux-Demux)\nReference Books \nSyllabus Mapping \nIIT BOMBAY\nDigital Logic Design Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nDigital Signal Processing Virtual Laboratory\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nDLD with Verilog Virtual Laboratory (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nEmbedded System Design with 8051 and PIC Microcontrollers (New)\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nEmbedded System Design with 8051 and PIC Microcontrollers (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nError Correcting Codes Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nFoundations in Semiconductor Physics Lab I (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nFoundations in Semiconductor Physics Lab II (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nHybrid Electronics Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nInternet of Things Virtual Laboratory (New)\nReference Books \nSyllabus Mapping \nDAYALBAGH\nMachine Learning Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIT ROORKEE\nMicroelectronics and VLSI Engineering Laboratory\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nModern Coding Theory Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nProbability and Random Processes Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nSignals and Systems Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nVLSI Design Testing Laboratory (New)\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nVLSI Virtual Laboratory (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nVLSI with SPICE Code Virtual Laboratory (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nWireless Communications Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\n  Click here for related NPTEL video lectures\nAnnouncements\n\n* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.\n\n* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.\n\nFind the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute. \n\nQuick Links\n\nLab Feedback Form\nLab Assessment Form\nFAQ\nShakshat Portal\n\nAbout VLAB\n\nHome\nAbout us\nContact Us\n\nGet In Touch With Us\n\n  support@vlab.co.in\n   Phone(O) - +91-9211460624\n  Wireless Research Lab\nRoom No - 206/IIA\nBharti School of Telecom\nIndian Institute of Technology Delhi\nHauz Khas, New Delhi-110016"
+}

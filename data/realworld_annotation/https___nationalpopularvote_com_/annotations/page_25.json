@@ -1,0 +1,784 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://www.nationalpopularvote.com/sites/all/themes/npv/logo.png",
+        "https://www.nationalpopularvote.com/sites/default/files/az_house_screenshot01.jpg",
+        "https://www.nationalpopularvote.com/sites/default/files/az-j-d-mesnard.gif",
+        "https://www.nationalpopularvote.com/sites/default/files/az-don-shooter.gif"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 192,
+    "links": [
+        {
+            "text": "Search",
+            "href": "https://www.nationalpopularvote.com/search"
+        },
+        {
+            "text": "",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "DONATE",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/az#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/az#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "About",
+            "href": "https://www.nationalpopularvote.com/state/az#"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.nationalpopularvote.com/about"
+        },
+        {
+            "text": "Advisory Board",
+            "href": "https://www.nationalpopularvote.com/advisory-board"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Answering Myths",
+            "href": "https://www.nationalpopularvote.com/answering-myths"
+        },
+        {
+            "text": "Books",
+            "href": "https://www.nationalpopularvote.com/books"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.nationalpopularvote.com/contact"
+        },
+        {
+            "text": "Donate",
+            "href": "https://www.nationalpopularvote.com/donate"
+        },
+        {
+            "text": "Electoral College",
+            "href": "https://www.nationalpopularvote.com/electoral-college"
+        },
+        {
+            "text": "Email Your Legislator",
+            "href": "https://www.nationalpopularvote.com/write"
+        },
+        {
+            "text": "Events",
+            "href": "https://gdoc.pub/doc/e/2PACX-1vTSTXdJCYB7romfvfCyYSvSCDW2AmAmEYsC8F5gCbKAlDzcoNwsRuTVSfCSJr6vJnVJlcIjnBGK3DTO"
+        },
+        {
+            "text": "Explanation",
+            "href": "https://www.nationalpopularvote.com/written-explanation"
+        },
+        {
+            "text": "Get Email Updates",
+            "href": "https://www.nationalpopularvote.com/get-email-updates"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.nationalpopularvote.com/"
+        },
+        {
+            "text": "Map",
+            "href": "https://www.nationalpopularvote.com/state-status"
+        },
+        {
+            "text": "Media",
+            "href": "https://www.nationalpopularvote.com/state/az#"
+        },
+        {
+            "text": "Media Inquiries",
+            "href": "https://www.nationalpopularvote.com/media-inquiries"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "News History",
+            "href": "https://www.nationalpopularvote.com/news-history"
+        },
+        {
+            "text": "News Stories",
+            "href": "https://www.nationalpopularvote.com/news"
+        },
+        {
+            "text": "Newsletters",
+            "href": "https://www.nationalpopularvote.com/newsletters"
+        },
+        {
+            "text": "Polls",
+            "href": "https://www.nationalpopularvote.com/polls"
+        },
+        {
+            "text": "Store",
+            "href": "https://www.zazzle.com/store/nationalpopularvote"
+        },
+        {
+            "text": "Text and Explanation of Bill",
+            "href": "https://www.nationalpopularvote.com/bill-text"
+        },
+        {
+            "text": "Videos",
+            "href": "https://www.nationalpopularvote.com/state/az#"
+        },
+        {
+            "text": "Introduction: What It Is - Why It's Needed",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-1"
+        },
+        {
+            "text": "Myths About Big Cities",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-2"
+        },
+        {
+            "text": "Myths About Small States",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-3"
+        },
+        {
+            "text": "Myths About Fraud",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-4"
+        },
+        {
+            "text": "Myths About Constitutionality",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-5"
+        },
+        {
+            "text": "Myths About Big States and Big Counties",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-6"
+        },
+        {
+            "text": "Myths About Post Election Rule Changes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-7"
+        },
+        {
+            "text": "Myths About Interstate Compacts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-8"
+        },
+        {
+            "text": "Myths About Faithless Electors",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-9"
+        },
+        {
+            "text": "Myths About 15% Presidents",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-10"
+        },
+        {
+            "text": "Myths about Missing Votes and Hurricanes",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-11"
+        },
+        {
+            "text": "Myths About Single-State Veto (Achilles’ Heel)",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-12"
+        },
+        {
+            "text": "Myths About Recounts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-13"
+        },
+        {
+            "text": "Myths About Missing Vote Counts",
+            "href": "https://www.nationalpopularvote.com/answering-myths#video-14"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.nationalpopularvote.com/volunteer"
+        },
+        {
+            "text": "Write Letter-to-Editor",
+            "href": "https://www.nationalpopularvote.com/send-letter-editor-newspapers-your-state"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        },
+        {
+            "text": "Ask your Arizona state legislators",
+            "href": "http://www.national-popular-vote.com/Campaign/AZ/AZ0"
+        },
+        {
+            "text": "Send a letter-to-the-editor to an Arizona newspaper",
+            "href": "https://www.nationalpopularvote.com/writing-letter-editor-arizona"
+        },
+        {
+            "text": "Submit an op-ed column to an Arizona newspaper",
+            "href": "https://www.nationalpopularvote.com/submitting-op-ed-arizona-newspapers"
+        },
+        {
+            "text": "National Popular Vote’s Facebook",
+            "href": "https://www.facebook.com/nationalpopularvoteinc"
+        },
+        {
+            "text": "National Popular Vote’s Twitter",
+            "href": "https://twitter.com/natlpopularvote"
+        },
+        {
+            "text": "Senator Rosanna Gabaldón",
+            "href": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956"
+        },
+        {
+            "text": "SB1300",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/84834"
+        },
+        {
+            "text": "Representative Quanta Crews",
+            "href": "https://ballotpedia.org/Quant%C3%A1_Crews"
+        },
+        {
+            "text": "HB4013",
+            "href": "https://legiscan.com/AZ/research/HB4013/2026"
+        },
+        {
+            "text": "Senator Rosanna Gabaldón",
+            "href": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956"
+        },
+        {
+            "text": "status of SB1338",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/82736"
+        },
+        {
+            "text": "Representative Quanta Crews",
+            "href": "https://ballotpedia.org/Quant%C3%A1_Crews"
+        },
+        {
+            "text": "status of HB2806",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/83275"
+        },
+        {
+            "text": "status of SB1485",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/79156"
+        },
+        {
+            "text": "status of SB1697",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/75838"
+        },
+        {
+            "text": "status of HB2780",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/75970"
+        },
+        {
+            "text": "Status of HB2277",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/68795"
+        },
+        {
+            "text": "Status of HB 2456",
+            "href": "http://www.azleg.gov/DocumentsForBill.asp?Bill_Number=HB2456&Session_ID=115"
+        },
+        {
+            "text": "Oklahoma Senate",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "New York Senate",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "Status of HB 2456",
+            "href": "http://www.azleg.gov/DocumentsForBill.asp?Bill_Number=HB2456&Session_ID=115"
+        },
+        {
+            "text": "Arizona Capitol Times article",
+            "href": "http://azcapitoltimes.com/news/2016/01/22/arizona-vs-the-electoral-college/"
+        },
+        {
+            "text": "Status of HB 2456",
+            "href": "http://www.azleg.gov/DocumentsForBill.asp?Bill_Number=HB2456&Session_ID=115"
+        },
+        {
+            "text": "Status of SB 1218",
+            "href": "http://www.azleg.gov/DocumentsForBill.asp?Bill_Number=SB1218&Session_ID=115"
+        },
+        {
+            "text": "Details of Arizona poll",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/arizona-poll-results-july-2015.pdf"
+        },
+        {
+            "text": "HB 2663",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/az-hb2663-2011.pdf"
+        },
+        {
+            "text": "Radio interview (April 27, 2011) with Ray Haynes, former California Republican Senator and former national chair of ALEC and Pam Wilmot, President of Massachusetts Common Cause",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/kjzz_hn_popularvote_20110427.mp3"
+        },
+        {
+            "text": "SB 1370",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/archive/AZ-SB-1370-of-2008.pdf"
+        },
+        {
+            "text": "HB2297",
+            "href": "https://www.nationalpopularvote.com/sites/default/files/az-hb-2297-of-2007.pdf"
+        },
+        {
+            "text": "S1451",
+            "href": "https://apps.azleg.gov/BillStatus/BillOverview/23682"
+        },
+        {
+            "text": "Arizona Daily Star article",
+            "href": "http://archive.nationalpopularvote.com/pages/articles/arizondailystar_20080306.php"
+        },
+        {
+            "text": "AK",
+            "href": "https://www.nationalpopularvote.com/state/ak"
+        },
+        {
+            "text": "AL",
+            "href": "https://www.nationalpopularvote.com/state/al"
+        },
+        {
+            "text": "AR",
+            "href": "https://www.nationalpopularvote.com/state/ar"
+        },
+        {
+            "text": "AZ",
+            "href": "https://www.nationalpopularvote.com/state/az"
+        },
+        {
+            "text": "CA",
+            "href": "https://www.nationalpopularvote.com/state/ca"
+        },
+        {
+            "text": "CO",
+            "href": "https://www.nationalpopularvote.com/state/co"
+        },
+        {
+            "text": "CT",
+            "href": "https://www.nationalpopularvote.com/state/ct"
+        },
+        {
+            "text": "DC",
+            "href": "https://www.nationalpopularvote.com/state/dc"
+        },
+        {
+            "text": "DE",
+            "href": "https://www.nationalpopularvote.com/state/de"
+        },
+        {
+            "text": "FL",
+            "href": "https://www.nationalpopularvote.com/state/fl"
+        },
+        {
+            "text": "GA",
+            "href": "https://www.nationalpopularvote.com/state/ga"
+        },
+        {
+            "text": "HI",
+            "href": "https://www.nationalpopularvote.com/state/hi"
+        },
+        {
+            "text": "IA",
+            "href": "https://www.nationalpopularvote.com/state/ia"
+        },
+        {
+            "text": "ID",
+            "href": "https://www.nationalpopularvote.com/state/id"
+        },
+        {
+            "text": "IL",
+            "href": "https://www.nationalpopularvote.com/state/il"
+        },
+        {
+            "text": "IN",
+            "href": "https://www.nationalpopularvote.com/state/in"
+        },
+        {
+            "text": "KS",
+            "href": "https://www.nationalpopularvote.com/state/ks"
+        },
+        {
+            "text": "KY",
+            "href": "https://www.nationalpopularvote.com/state/ky"
+        },
+        {
+            "text": "LA",
+            "href": "https://www.nationalpopularvote.com/state/la"
+        },
+        {
+            "text": "MA",
+            "href": "https://www.nationalpopularvote.com/state/ma"
+        },
+        {
+            "text": "MD",
+            "href": "https://www.nationalpopularvote.com/state/md"
+        },
+        {
+            "text": "ME",
+            "href": "https://www.nationalpopularvote.com/state/me"
+        },
+        {
+            "text": "MI",
+            "href": "https://www.nationalpopularvote.com/state/mi"
+        },
+        {
+            "text": "MN",
+            "href": "https://www.nationalpopularvote.com/state/mn"
+        },
+        {
+            "text": "MO",
+            "href": "https://www.nationalpopularvote.com/state/mo"
+        },
+        {
+            "text": "MS",
+            "href": "https://www.nationalpopularvote.com/state/ms"
+        },
+        {
+            "text": "MT",
+            "href": "https://www.nationalpopularvote.com/state/mt"
+        },
+        {
+            "text": "NC",
+            "href": "https://www.nationalpopularvote.com/state/nc"
+        },
+        {
+            "text": "ND",
+            "href": "https://www.nationalpopularvote.com/state/nd"
+        },
+        {
+            "text": "NE",
+            "href": "https://www.nationalpopularvote.com/state/ne"
+        },
+        {
+            "text": "NH",
+            "href": "https://www.nationalpopularvote.com/state/nh"
+        },
+        {
+            "text": "NJ",
+            "href": "https://www.nationalpopularvote.com/state/nj"
+        },
+        {
+            "text": "NM",
+            "href": "https://www.nationalpopularvote.com/state/nm"
+        },
+        {
+            "text": "NV",
+            "href": "https://www.nationalpopularvote.com/state/nv"
+        },
+        {
+            "text": "NY",
+            "href": "https://www.nationalpopularvote.com/state/ny"
+        },
+        {
+            "text": "OH",
+            "href": "https://www.nationalpopularvote.com/state/oh"
+        },
+        {
+            "text": "OK",
+            "href": "https://www.nationalpopularvote.com/state/ok"
+        },
+        {
+            "text": "OR",
+            "href": "https://www.nationalpopularvote.com/state/or"
+        },
+        {
+            "text": "PA",
+            "href": "https://www.nationalpopularvote.com/state/pa"
+        },
+        {
+            "text": "RI",
+            "href": "https://www.nationalpopularvote.com/state/ri"
+        },
+        {
+            "text": "SC",
+            "href": "https://www.nationalpopularvote.com/state/sc"
+        },
+        {
+            "text": "SD",
+            "href": "https://www.nationalpopularvote.com/state/sd"
+        },
+        {
+            "text": "TN",
+            "href": "https://www.nationalpopularvote.com/state/tn"
+        },
+        {
+            "text": "TX",
+            "href": "https://www.nationalpopularvote.com/state/tx"
+        },
+        {
+            "text": "UT",
+            "href": "https://www.nationalpopularvote.com/state/ut"
+        },
+        {
+            "text": "VA",
+            "href": "https://www.nationalpopularvote.com/state/va"
+        },
+        {
+            "text": "VT",
+            "href": "https://www.nationalpopularvote.com/state/vt"
+        },
+        {
+            "text": "WA",
+            "href": "https://www.nationalpopularvote.com/state/wa"
+        },
+        {
+            "text": "WI",
+            "href": "https://www.nationalpopularvote.com/state/wi"
+        },
+        {
+            "text": "WV",
+            "href": "https://www.nationalpopularvote.com/state/wv"
+        },
+        {
+            "text": "WY",
+            "href": "https://www.nationalpopularvote.com/state/wy"
+        }
+    ],
+    "text_length": 6726,
+    "text_full": "Toggle navigation\nSearch\nDONATE\nHome\n \nExplanation\n \nAnswering Myths\n \nVideos\n \nEmail Your Legislator\n \nLetter-to-Editor\n \nVolunteer\n \nMedia\n \nAbout\n \nEvents\n\nState status: AK AL AR AZ CA CO CT DC DE FL GA HI IA ID IL IN KS KY LA MA MD ME MI MN MO MS MT NC ND NE NH NJ NM NV NY OH OK OR PA RI SC SD TN TX UT VA VT WA WI WV WY\n\nArizona\nAsk your Arizona state legislators to pass the National Popular Vote bill\nSend a letter-to-the-editor to an Arizona newspaper\nSubmit an op-ed column to an Arizona newspaper\nNational Popular Vote’s Facebook page\nNational Popular Vote’s Twitter page\n\nIn January 2026, Senator Rosanna Gabaldón introduced the National Popular Vote bill in the Senate (status of SB1300). Arizona Representative Quanta Crews introduced the bill in the House (status of HB4013).\n\nIn 2025, Arizona Senator Rosanna Gabaldón introduced the National Popular Vote bill in the Senate (status of SB1338). Arizona Representative Quanta Crews introduced the bill in the House (status of HB2806). \n\nIn Janaury 2023, the National Popular Vote bill was introduced by Senators Juan Mendez, Rosanna Gabaldon, Raquel Teran, Catherine Miranda, and Priya Sundareshan and Representative Athena Salman (status of SB1485).\n\nIn January 2021, the National Popular Vote bill was introduced by Senators Juan Mendez, Lela Alston, Sean Bowie, Lupe Contreras, Sally Gonzales, Christine Marsh, Martin Quezada, Rebecca Rios, and Victoria Steele, as well as Representative Richard Andrade (status of SB1697) .  In the House, Representatives Pamela Powers Hannley, Richard Andrade, Diego Rodriguez, Athena Salman, Stephanie Stahl Hamilton, and Raquel Terán introduced the bill (status of HB2780)\n\nIn January 2019, Representatives Powers-Hannley, Andrade, Blanc, Gabaldón, Jermaine, Peten, Rodriguez, Salman, Teller, Terán and Senator Gonzales inroduced the National Popular Vote bill (status of HB2414). \n\nIn January 2017, Representatives Salman, Alston, Andrade, Benally, Blanc, Bolding, Cardenas, Chávez, Clark, Engel, Espinoza, Fernandez, Gabaldón, Hernandez, Martinez, Navarrete, Powers Hannley, Rios, Rubalcava, Saldate, Senators Contreras, and Mendez introduced the National Popular Vote bill (Status of HB2277).\n\nOn February 4, 2016, the Arizona House of Representatives passed the National Popular Vote bill, with two-thirds of the members voting in favor of the legislation. The vote was 40 Yes, 16 No, and 4 absences or abstentions (Status of HB 2456). The Arizona House is the third Republican-controlled state legislative chamber to pass the bill (the Oklahoma Senate and New York Senate being the other two).\n\nRepresentative J. D. Mesnard (R) speaking on HB 2456\n\nOn February 4, 2016, the House Committee of the Whole approved the National Popular Vote bill (Status of HB 2456).\n\nOn February 2, 2016, the House Elections Committee gave the National Popular Vote bill a “do pass” recommendation with a 5-1 vote, and the House Rules Committee approved the bill 7-0. Arizona Capitol Times article.\n\nIn January 2016, two-thirds of the Republicans and two-thirds of the Democrats in the Arizona House of Representatives sponsored the National Popular Vote bill (Status of HB 2456). The bill was sponsored by Representative J. D. Mesnard and 39 other Representatives.\n\nRepresentative J. D. Mesnard\n\nIn January 2016, two-thirds of the Arizona Senate sponsored the National Popular Vote bill (Status of SB 1218). The bill was sponsored by Senator Don Shooter and 19 other Senators.\n\nSenator Don Shooter\n\nIn July 2–3, 2015, a survey of 833 Arizona voters was conducted showing 78% overall support for the idea that the President of the United States should be the candidate who receives the most popular votes in all 50 states. Voters were asked:\n\n\"How do you think we should elect the President: Should it be the candidate who gets the most votes in all 50 states, or the current electoral college system?\"\n\nBy political affiliation, support for a national popular vote for President was 76% among Republicans, 82% among Democrats, and 75% among independents/others.  By gender, support was 85% among women and 70% among men.  By age, support was 95% among 18-29 year olds, 73% among 30-45 year olds, 78% among 46-65 year olds, and 77% for those older than 65.  By race, support was 79% among whites, 73% among Hispanics, 67% among African-Americans (representing 3% of all respondents), and 78% among others (representing 5% of all respondents).  In a second question, Arizona voters were asked:\n\n\"Do you think you will probably vote for the Democratic nominee for President in 2016, the Republican nominee, or some other party's nominee?\"\n\nIn this July 2015 poll, 46% said the Republican nominee, 38% said the Democratic nominee, and 17% said some other party's nominee.\n\nIn a third question, Arizona voters were asked:\n\n\"Do you prefer a system where the candidate who gets the most votes in all 50 states on a nationwide basis is elected President, or one like the one used in Nebraska and Maine where electoral voters are dispensed by Congressional district, or one in which all of the state's electoral votes would be given to the statewide winner?\n\nIn this third question, 73% preferred the candidate who gets the most votes in all 50 states; 14% preferred that electoral votes be dispensed by congressional district; and 13% preferred that all of the state's electoral votes go to the statewide winner (the existing \"winner-take-all\" rule).\n\nThe survey was conducted by Public Policy Polling, and has a margin of error of plus or minus 3 1/2%. Details of Arizona poll\n\nIn February 2011, Representatives Cecil Ash (R) and Judy M. Burges (R) introduced the National Popular Vote bill (HB 2663) in the House, and Senator Scott Bundgaard (R) introduced the same bill in the Senate.\n\nRadio interview (April 27, 2011) with Ray Haynes, former California Republican Senator and former national chair of ALEC and Pam Wilmot, President of Massachusetts Common Cause\n\nOn February 4, 2008, Senators Paula Aboud, Albert Hale, Richard Miranda, Charlene Pesquiera, Landrum Taylor, Rebecca Rios, Soltero and Representative Jack A. Brown introduced the National Popular Vote bill in the Arizona Legislature (SB 1370).\n\nIn 2007, Arizona State Representatives Bill Konopnicki, Jack A. Brown, and Lucy Mason have introduced the National Popular Vote bill (HB2297) into the Arizona House of Representatives for the 2007 session. Senators Aboud, Allen: Cheuvront, Soltero; Representatives Ableser, Kirkpatrick, Meza, Prezelski, and Schapira introduced the bill into the Senate (S1451). Arizona Daily Star article\n\n \n\nThe national popular vote winner should become President\nOne-person, one-vote\nCandidates should have a reason to campaign in all 50 states"
+}

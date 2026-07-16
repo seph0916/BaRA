@@ -1,0 +1,73 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://mahadk.com/_astro/hc-icon.DZgRWiaK_1X3xi2.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 15,
+    "links": [
+        {
+            "text": "Mahad Kalam",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Projects",
+            "href": "https://mahadk.com/projects"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "Contact",
+            "href": "https://mahadk.com/contact"
+        },
+        {
+            "text": "Back to all blog posts",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Subscribe on RSS",
+            "href": "https://mahadk.com/rss.xml"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/skyfall_ggs"
+        },
+        {
+            "text": "Update image link for Spaces admin panel screenshot\n(8f92858)",
+            "href": "https://github.com/SkyfallWasTaken/skyfall-site/commit/8f92858"
+        },
+        {
+            "text": "512KB Club\nTeam Blue",
+            "href": "https://512kb.club/"
+        },
+        {
+            "text": "‹",
+            "href": "https://saleh.hackclub.com/"
+        },
+        {
+            "text": "",
+            "href": "https://webring.hackclub.com/"
+        },
+        {
+            "text": "›",
+            "href": "https://doruk.dino.icu/"
+        }
+    ],
+    "text_length": 3099,
+    "text_full": "Mahad Kalam\nHome /\nBlog /\nProjects /\nGitHub /\nContact\nGetting Rails' ActiveStorage blob IDs from file URLs\n\nWhen working with Rails’ ActiveStorage, you might encounter situations where you need to extract the blob ID from an expiring ActiveStorage URL. In my case, it was because I was scraping images from a Rails application that used ActiveStorage, but I wanted to be polite about it and not download hundreds of images every few minutes unnecessarily.\n\nI ran into a problem though, where the URLs I was getting were expiring URLs that looked like this:\n\nhttps://theapp.gg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwLCJwdXIiOiJibG9iX2lkIn19--8c59415975dbced2130a99575689db332f57b019/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMzYwLG51bGxdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6NzV9fSwicHVyIjoidmFyaWF0aW9uIn19--d6a39ad4705dc76c8821affe402d334558212c92/image.png\n\nThe expiring URLs meant that I couldn’t just check equality with just the previous URL. That URL is a bit of a mess, right? However, hidden within that long string is a base64-encoded JSON object that contains a consistent blob ID we can use to identify the image and check inequalities with a previous URL.\n\nuse base64::prelude::*;\nuse color_eyre::{Result, eyre::eyre};\nuse reqwest::Url;\nuse serde::Deserialize;\n\n\n#[derive(Deserialize, Debug)]\nstruct BlobInfo {\n    #[serde(rename = \"_rails\")]\n    rails: RailsData,\n}\n\n\n#[derive(Deserialize, Debug)]\nstruct RailsData {\n    #[serde(rename = \"data\")]\n    blob_id: usize,\n}\n\n\npub fn get_rails_blob_id(url: &Url) -> Result<usize> {\n    let s3_info = url\n        .path()\n        .split('/')\n        .rev()\n        .nth(2) // Get the third element from the end (see the rev() above)\n        .ok_or_else(|| eyre!(\"can't find raw s3\"))?;\n    let blob_info_b64 = s3_info\n        .split(\"--\")\n        .next()\n        .ok_or_else(|| eyre!(\"can't find the blob info\"))?;\n    let blob_info_bytes = BASE64_STANDARD.decode(blob_info_b64)?;\n    let blob_info_string = String::from_utf8(blob_info_bytes)?;\n    let blob_info: BlobInfo = serde_json::from_str(&blob_info_string)?;\n    Ok(blob_info.rails.blob_id)\n}\n\nIn this example, get_rails_blob_id will spit out the blob ID (340 in this case) from the provided ActiveStorage URL.\n\nIn case you’re curious, here’s a quick breakdown of how it works:\n\nWe split the URL path by / and extract the third segment from the end, which contains the base64-encoded JSON.\nWe split that segment by -- to isolate the base64 string. (in this case, eyJfcmFpbHMiOnsiZGF0YSI6MzQwLCJwdXIiOiJibG9iX2lkIn19)\nWe decode the base64 string to get the JSON representation.\nAnd finally, we read _rails.data from the JSON to get the blob ID.\n\nSince ActiveStorage won’t reuse blob IDs, you can use this method to uniquely identify files even if the URLs change due to expiration. Bit of a niche use case, but hopefully this helps someone out there!\n\nDecember 12th 2025\nBack to all blog posts\nSubscribe on RSS\n\n© 2026 Mahad Kalam.\n\nUpdate image link for Spaces admin panel screenshot\n(8f92858)\n512KB Club\nTeam Blue\n‹\n›"
+}

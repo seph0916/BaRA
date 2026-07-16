@@ -1,0 +1,1891 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://developers.openai.com/OpenAI_Developers.svg",
+        "https://developers.openai.com/images/api/models/icons/gpt-5.4.png",
+        "https://developers.openai.com/images/api/models/icons/gpt-5.4.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 469,
+    "links": [
+        {
+            "text": "",
+            "href": "https://developers.openai.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://developers.openai.com/"
+        },
+        {
+            "text": "API",
+            "href": "https://developers.openai.com/api"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/reference/overview"
+        },
+        {
+            "text": "Codex",
+            "href": "https://developers.openai.com/codex"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/codex"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/codex/use-cases"
+        },
+        {
+            "text": "ChatGPT",
+            "href": "https://developers.openai.com/chatgpt"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/apps-sdk"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/commerce"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/ads"
+        },
+        {
+            "text": "Resources",
+            "href": "https://developers.openai.com/learn"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/showcase"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/blog"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/cookbook"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/learn"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/community"
+        },
+        {
+            "text": "API Dashboard",
+            "href": "https://platform.openai.com/login"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://developers.openai.com/api/docs/quickstart"
+        },
+        {
+            "text": "Models",
+            "href": "https://developers.openai.com/api/docs/models"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://developers.openai.com/api/docs/pricing"
+        },
+        {
+            "text": "SDKs and CLI",
+            "href": "https://developers.openai.com/api/docs/libraries"
+        },
+        {
+            "text": "OpenAI SDK",
+            "href": "https://developers.openai.com/api/docs/libraries"
+        },
+        {
+            "text": "Agents SDK",
+            "href": "https://developers.openai.com/api/docs/guides/agents"
+        },
+        {
+            "text": "OpenAI CLI",
+            "href": "https://developers.openai.com/api/docs/libraries/openai-cli"
+        },
+        {
+            "text": "Latest: GPT-5.5",
+            "href": "https://developers.openai.com/api/docs/guides/latest-model"
+        },
+        {
+            "text": "Prompt guidance",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-guidance"
+        },
+        {
+            "text": "Text generation",
+            "href": "https://developers.openai.com/api/docs/guides/text"
+        },
+        {
+            "text": "Code generation",
+            "href": "https://developers.openai.com/api/docs/guides/code-generation"
+        },
+        {
+            "text": "Images and vision",
+            "href": "https://developers.openai.com/api/docs/guides/images-vision"
+        },
+        {
+            "text": "Audio and speech",
+            "href": "https://developers.openai.com/api/docs/guides/audio"
+        },
+        {
+            "text": "Structured output",
+            "href": "https://developers.openai.com/api/docs/guides/structured-outputs"
+        },
+        {
+            "text": "Function calling",
+            "href": "https://developers.openai.com/api/docs/guides/function-calling"
+        },
+        {
+            "text": "Responses API",
+            "href": "https://developers.openai.com/api/docs/guides/migrate-to-responses"
+        },
+        {
+            "text": "Using tools",
+            "href": "https://developers.openai.com/api/docs/guides/tools"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/agents"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://developers.openai.com/api/docs/guides/agents/quickstart"
+        },
+        {
+            "text": "Agent definitions",
+            "href": "https://developers.openai.com/api/docs/guides/agents/define-agents"
+        },
+        {
+            "text": "Models and providers",
+            "href": "https://developers.openai.com/api/docs/guides/agents/models"
+        },
+        {
+            "text": "Running agents",
+            "href": "https://developers.openai.com/api/docs/guides/agents/running-agents"
+        },
+        {
+            "text": "Sandbox agents",
+            "href": "https://developers.openai.com/api/docs/guides/agents/sandboxes"
+        },
+        {
+            "text": "Orchestration",
+            "href": "https://developers.openai.com/api/docs/guides/agents/orchestration"
+        },
+        {
+            "text": "Guardrails",
+            "href": "https://developers.openai.com/api/docs/guides/agents/guardrails-approvals"
+        },
+        {
+            "text": "Results and state",
+            "href": "https://developers.openai.com/api/docs/guides/agents/results"
+        },
+        {
+            "text": "Integrations and observability",
+            "href": "https://developers.openai.com/api/docs/guides/agents/integrations-observability"
+        },
+        {
+            "text": "Evaluate agent workflows",
+            "href": "https://developers.openai.com/api/docs/guides/agent-evals"
+        },
+        {
+            "text": "Voice agents",
+            "href": "https://developers.openai.com/api/docs/guides/voice-agents"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/agent-builder"
+        },
+        {
+            "text": "Node reference",
+            "href": "https://developers.openai.com/api/docs/guides/node-reference"
+        },
+        {
+            "text": "Safety in building agents",
+            "href": "https://developers.openai.com/api/docs/guides/agent-builder-safety"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit"
+        },
+        {
+            "text": "Customize",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit-themes"
+        },
+        {
+            "text": "Widgets",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit-widgets"
+        },
+        {
+            "text": "Actions",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit-actions"
+        },
+        {
+            "text": "Advanced integrations",
+            "href": "https://developers.openai.com/api/docs/guides/custom-chatkit"
+        },
+        {
+            "text": "Web search",
+            "href": "https://developers.openai.com/api/docs/guides/tools-web-search"
+        },
+        {
+            "text": "MCP and Connectors",
+            "href": "https://developers.openai.com/api/docs/guides/tools-connectors-mcp"
+        },
+        {
+            "text": "Secure MCP Tunnel",
+            "href": "https://developers.openai.com/api/docs/guides/secure-mcp-tunnels"
+        },
+        {
+            "text": "Skills",
+            "href": "https://developers.openai.com/api/docs/guides/tools-skills"
+        },
+        {
+            "text": "Shell",
+            "href": "https://developers.openai.com/api/docs/guides/tools-shell"
+        },
+        {
+            "text": "Computer use",
+            "href": "https://developers.openai.com/api/docs/guides/tools-computer-use"
+        },
+        {
+            "text": "File search",
+            "href": "https://developers.openai.com/api/docs/guides/tools-file-search"
+        },
+        {
+            "text": "Retrieval",
+            "href": "https://developers.openai.com/api/docs/guides/retrieval"
+        },
+        {
+            "text": "Tool search",
+            "href": "https://developers.openai.com/api/docs/guides/tools-tool-search"
+        },
+        {
+            "text": "Apply Patch",
+            "href": "https://developers.openai.com/api/docs/guides/tools-apply-patch"
+        },
+        {
+            "text": "Local shell",
+            "href": "https://developers.openai.com/api/docs/guides/tools-local-shell"
+        },
+        {
+            "text": "Image generation",
+            "href": "https://developers.openai.com/api/docs/guides/tools-image-generation"
+        },
+        {
+            "text": "Code interpreter",
+            "href": "https://developers.openai.com/api/docs/guides/tools-code-interpreter"
+        },
+        {
+            "text": "Conversation state",
+            "href": "https://developers.openai.com/api/docs/guides/conversation-state"
+        },
+        {
+            "text": "Background mode",
+            "href": "https://developers.openai.com/api/docs/guides/background"
+        },
+        {
+            "text": "Streaming",
+            "href": "https://developers.openai.com/api/docs/guides/streaming-responses"
+        },
+        {
+            "text": "WebSocket mode",
+            "href": "https://developers.openai.com/api/docs/guides/websocket-mode"
+        },
+        {
+            "text": "Webhooks",
+            "href": "https://developers.openai.com/api/docs/guides/webhooks"
+        },
+        {
+            "text": "File inputs",
+            "href": "https://developers.openai.com/api/docs/guides/file-inputs"
+        },
+        {
+            "text": "Compaction",
+            "href": "https://developers.openai.com/api/docs/guides/compaction"
+        },
+        {
+            "text": "Counting tokens",
+            "href": "https://developers.openai.com/api/docs/guides/token-counting"
+        },
+        {
+            "text": "Prompt caching",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/prompting"
+        },
+        {
+            "text": "Prompt engineering",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-engineering"
+        },
+        {
+            "text": "Citation formatting",
+            "href": "https://developers.openai.com/api/docs/guides/citation-formatting"
+        },
+        {
+            "text": "Reasoning models",
+            "href": "https://developers.openai.com/api/docs/guides/reasoning"
+        },
+        {
+            "text": "Reasoning best practices",
+            "href": "https://developers.openai.com/api/docs/guides/reasoning-best-practices"
+        },
+        {
+            "text": "Getting started",
+            "href": "https://developers.openai.com/api/docs/guides/evaluation-getting-started"
+        },
+        {
+            "text": "Working with evals",
+            "href": "https://developers.openai.com/api/docs/guides/evals"
+        },
+        {
+            "text": "Prompt optimizer",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-optimizer"
+        },
+        {
+            "text": "External models",
+            "href": "https://developers.openai.com/api/docs/guides/external-models"
+        },
+        {
+            "text": "Best practices",
+            "href": "https://developers.openai.com/api/docs/guides/evaluation-best-practices"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+            "text": "Voice agents",
+            "href": "https://developers.openai.com/api/docs/guides/voice-agents"
+        },
+        {
+            "text": "Live translation",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-translation"
+        },
+        {
+            "text": "Realtime transcription",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-transcription"
+        },
+        {
+            "text": "Speech to text",
+            "href": "https://developers.openai.com/api/docs/guides/speech-to-text"
+        },
+        {
+            "text": "Speech generation",
+            "href": "https://developers.openai.com/api/docs/guides/text-to-speech"
+        },
+        {
+            "text": "Realtime prompting guide",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-models-prompting"
+        },
+        {
+            "text": "WebRTC",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-webrtc"
+        },
+        {
+            "text": "WebSocket",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-websocket"
+        },
+        {
+            "text": "SIP",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-sip"
+        },
+        {
+            "text": "Managing conversations",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-conversations"
+        },
+        {
+            "text": "Voice activity detection",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-vad"
+        },
+        {
+            "text": "Realtime with tools",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-mcp"
+        },
+        {
+            "text": "Webhooks and server-side controls",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-server-controls"
+        },
+        {
+            "text": "Managing costs",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-costs"
+        },
+        {
+            "text": "Optimization cycle",
+            "href": "https://developers.openai.com/api/docs/guides/model-optimization"
+        },
+        {
+            "text": "Supervised fine-tuning",
+            "href": "https://developers.openai.com/api/docs/guides/supervised-fine-tuning"
+        },
+        {
+            "text": "Vision fine-tuning",
+            "href": "https://developers.openai.com/api/docs/guides/vision-fine-tuning"
+        },
+        {
+            "text": "Direct preference optimization",
+            "href": "https://developers.openai.com/api/docs/guides/direct-preference-optimization"
+        },
+        {
+            "text": "Reinforcement fine-tuning",
+            "href": "https://developers.openai.com/api/docs/guides/reinforcement-fine-tuning"
+        },
+        {
+            "text": "RFT use cases",
+            "href": "https://developers.openai.com/api/docs/guides/rft-use-cases"
+        },
+        {
+            "text": "Best practices",
+            "href": "https://developers.openai.com/api/docs/guides/fine-tuning-best-practices"
+        },
+        {
+            "text": "Graders",
+            "href": "https://developers.openai.com/api/docs/guides/graders"
+        },
+        {
+            "text": "Image generation",
+            "href": "https://developers.openai.com/api/docs/guides/image-generation"
+        },
+        {
+            "text": "Video generation",
+            "href": "https://developers.openai.com/api/docs/guides/video-generation"
+        },
+        {
+            "text": "Deep research",
+            "href": "https://developers.openai.com/api/docs/guides/deep-research"
+        },
+        {
+            "text": "Embeddings",
+            "href": "https://developers.openai.com/api/docs/guides/embeddings"
+        },
+        {
+            "text": "Moderation",
+            "href": "https://developers.openai.com/api/docs/guides/moderation"
+        },
+        {
+            "text": "Production best practices",
+            "href": "https://developers.openai.com/api/docs/guides/production-best-practices"
+        },
+        {
+            "text": "Deployment checklist",
+            "href": "https://developers.openai.com/api/docs/guides/deployment-checklist"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/latency-optimization"
+        },
+        {
+            "text": "Predicted Outputs",
+            "href": "https://developers.openai.com/api/docs/guides/predicted-outputs"
+        },
+        {
+            "text": "Priority processing",
+            "href": "https://developers.openai.com/api/docs/guides/priority-processing"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/cost-optimization"
+        },
+        {
+            "text": "Batch",
+            "href": "https://developers.openai.com/api/docs/guides/batch"
+        },
+        {
+            "text": "Flex processing",
+            "href": "https://developers.openai.com/api/docs/guides/flex-processing"
+        },
+        {
+            "text": "Accuracy optimization",
+            "href": "https://developers.openai.com/api/docs/guides/optimizing-llm-accuracy"
+        },
+        {
+            "text": "Safety best practices",
+            "href": "https://developers.openai.com/api/docs/guides/safety-best-practices"
+        },
+        {
+            "text": "Safety checks",
+            "href": "https://developers.openai.com/api/docs/guides/safety-checks"
+        },
+        {
+            "text": "Cybersecurity checks",
+            "href": "https://developers.openai.com/api/docs/guides/safety-checks/cybersecurity"
+        },
+        {
+            "text": "Under 18 API Guidance",
+            "href": "https://developers.openai.com/api/docs/guides/safety-checks/under-18-api-guidance"
+        },
+        {
+            "text": "Migration guide",
+            "href": "https://developers.openai.com/api/docs/assistants/migration"
+        },
+        {
+            "text": "Deep dive",
+            "href": "https://developers.openai.com/api/docs/assistants/deep-dive"
+        },
+        {
+            "text": "Tools",
+            "href": "https://developers.openai.com/api/docs/assistants/tools"
+        },
+        {
+            "text": "Terms and policies",
+            "href": "https://openai.com/policies"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://developers.openai.com/api/docs/changelog"
+        },
+        {
+            "text": "Your data",
+            "href": "https://developers.openai.com/api/docs/guides/your-data"
+        },
+        {
+            "text": "Permissions",
+            "href": "https://developers.openai.com/api/docs/guides/rbac"
+        },
+        {
+            "text": "Rate limits",
+            "href": "https://developers.openai.com/api/docs/guides/rate-limits"
+        },
+        {
+            "text": "Admin APIs",
+            "href": "https://developers.openai.com/api/docs/guides/admin-apis"
+        },
+        {
+            "text": "Deprecations",
+            "href": "https://developers.openai.com/api/docs/deprecations"
+        },
+        {
+            "text": "MCP for deep research",
+            "href": "https://developers.openai.com/api/docs/mcp"
+        },
+        {
+            "text": "Developer mode",
+            "href": "https://developers.openai.com/api/docs/guides/developer-mode"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://developers.openai.com/api/docs/actions/introduction"
+        },
+        {
+            "text": "Getting started",
+            "href": "https://developers.openai.com/api/docs/actions/getting-started"
+        },
+        {
+            "text": "Actions library",
+            "href": "https://developers.openai.com/api/docs/actions/actions-library"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://developers.openai.com/api/docs/actions/authentication"
+        },
+        {
+            "text": "Production",
+            "href": "https://developers.openai.com/api/docs/actions/production"
+        },
+        {
+            "text": "Data retrieval",
+            "href": "https://developers.openai.com/api/docs/actions/data-retrieval"
+        },
+        {
+            "text": "Sending files",
+            "href": "https://developers.openai.com/api/docs/actions/sending-files"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://developers.openai.com/codex/quickstart"
+        },
+        {
+            "text": "Explore use cases",
+            "href": "https://developers.openai.com/codex/use-cases"
+        },
+        {
+            "text": "Migrate",
+            "href": "https://developers.openai.com/codex/migrate"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://developers.openai.com/codex/pricing"
+        },
+        {
+            "text": "Prompting",
+            "href": "https://developers.openai.com/codex/prompting"
+        },
+        {
+            "text": "Customization",
+            "href": "https://developers.openai.com/codex/concepts/customization"
+        },
+        {
+            "text": "Memories",
+            "href": "https://developers.openai.com/codex/memories"
+        },
+        {
+            "text": "Chronicle",
+            "href": "https://developers.openai.com/codex/memories/chronicle"
+        },
+        {
+            "text": "Sandboxing",
+            "href": "https://developers.openai.com/codex/concepts/sandboxing"
+        },
+        {
+            "text": "Auto-review",
+            "href": "https://developers.openai.com/codex/concepts/sandboxing/auto-review"
+        },
+        {
+            "text": "Subagents",
+            "href": "https://developers.openai.com/codex/concepts/subagents"
+        },
+        {
+            "text": "Workflows",
+            "href": "https://developers.openai.com/codex/workflows"
+        },
+        {
+            "text": "Models",
+            "href": "https://developers.openai.com/codex/models"
+        },
+        {
+            "text": "Cyber Safety",
+            "href": "https://developers.openai.com/codex/concepts/cyber-safety"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex/app"
+        },
+        {
+            "text": "Features",
+            "href": "https://developers.openai.com/codex/app/features"
+        },
+        {
+            "text": "Settings",
+            "href": "https://developers.openai.com/codex/app/settings"
+        },
+        {
+            "text": "Review",
+            "href": "https://developers.openai.com/codex/app/review"
+        },
+        {
+            "text": "Automations",
+            "href": "https://developers.openai.com/codex/app/automations"
+        },
+        {
+            "text": "Worktrees",
+            "href": "https://developers.openai.com/codex/app/worktrees"
+        },
+        {
+            "text": "Local Environments",
+            "href": "https://developers.openai.com/codex/app/local-environments"
+        },
+        {
+            "text": "In-app browser",
+            "href": "https://developers.openai.com/codex/app/browser"
+        },
+        {
+            "text": "Chrome extension",
+            "href": "https://developers.openai.com/codex/app/chrome-extension"
+        },
+        {
+            "text": "Computer Use",
+            "href": "https://developers.openai.com/codex/app/computer-use"
+        },
+        {
+            "text": "Commands",
+            "href": "https://developers.openai.com/codex/app/commands"
+        },
+        {
+            "text": "Windows",
+            "href": "https://developers.openai.com/codex/app/windows"
+        },
+        {
+            "text": "Troubleshooting",
+            "href": "https://developers.openai.com/codex/app/troubleshooting"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex/ide"
+        },
+        {
+            "text": "Features",
+            "href": "https://developers.openai.com/codex/ide/features"
+        },
+        {
+            "text": "Settings",
+            "href": "https://developers.openai.com/codex/ide/settings"
+        },
+        {
+            "text": "IDE Commands",
+            "href": "https://developers.openai.com/codex/ide/commands"
+        },
+        {
+            "text": "Slash commands",
+            "href": "https://developers.openai.com/codex/ide/slash-commands"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex/cli"
+        },
+        {
+            "text": "Features",
+            "href": "https://developers.openai.com/codex/cli/features"
+        },
+        {
+            "text": "Command Line Options",
+            "href": "https://developers.openai.com/codex/cli/reference"
+        },
+        {
+            "text": "Slash commands",
+            "href": "https://developers.openai.com/codex/cli/slash-commands"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex/cloud"
+        },
+        {
+            "text": "Environments",
+            "href": "https://developers.openai.com/codex/cloud/environments"
+        },
+        {
+            "text": "Internet Access",
+            "href": "https://developers.openai.com/codex/cloud/internet-access"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://developers.openai.com/codex/integrations/github"
+        },
+        {
+            "text": "Slack",
+            "href": "https://developers.openai.com/codex/integrations/slack"
+        },
+        {
+            "text": "Linear",
+            "href": "https://developers.openai.com/codex/integrations/linear"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex/security"
+        },
+        {
+            "text": "Setup",
+            "href": "https://developers.openai.com/codex/security/setup"
+        },
+        {
+            "text": "Improving the threat model",
+            "href": "https://developers.openai.com/codex/security/threat-model"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://developers.openai.com/codex/security/faq"
+        },
+        {
+            "text": "Config Basics",
+            "href": "https://developers.openai.com/codex/config-basic"
+        },
+        {
+            "text": "Advanced Config",
+            "href": "https://developers.openai.com/codex/config-advanced"
+        },
+        {
+            "text": "Config Reference",
+            "href": "https://developers.openai.com/codex/config-reference"
+        },
+        {
+            "text": "Sample Config",
+            "href": "https://developers.openai.com/codex/config-sample"
+        },
+        {
+            "text": "Permissions",
+            "href": "https://developers.openai.com/codex/permissions"
+        },
+        {
+            "text": "Speed",
+            "href": "https://developers.openai.com/codex/speed"
+        },
+        {
+            "text": "Rules",
+            "href": "https://developers.openai.com/codex/rules"
+        },
+        {
+            "text": "Hooks",
+            "href": "https://developers.openai.com/codex/hooks"
+        },
+        {
+            "text": "AGENTS.md",
+            "href": "https://developers.openai.com/codex/guides/agents-md"
+        },
+        {
+            "text": "MCP",
+            "href": "https://developers.openai.com/codex/mcp"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex/plugins"
+        },
+        {
+            "text": "Build plugins",
+            "href": "https://developers.openai.com/codex/plugins/build"
+        },
+        {
+            "text": "Skills",
+            "href": "https://developers.openai.com/codex/skills"
+        },
+        {
+            "text": "Subagents",
+            "href": "https://developers.openai.com/codex/subagents"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/codex/auth"
+        },
+        {
+            "text": "Access tokens",
+            "href": "https://developers.openai.com/codex/enterprise/access-tokens"
+        },
+        {
+            "text": "Agent approvals & security",
+            "href": "https://developers.openai.com/codex/agent-approvals-security"
+        },
+        {
+            "text": "Remote connections",
+            "href": "https://developers.openai.com/codex/remote-connections"
+        },
+        {
+            "text": "Admin Setup",
+            "href": "https://developers.openai.com/codex/enterprise/admin-setup"
+        },
+        {
+            "text": "Governance",
+            "href": "https://developers.openai.com/codex/enterprise/governance"
+        },
+        {
+            "text": "Managed configuration",
+            "href": "https://developers.openai.com/codex/enterprise/managed-configuration"
+        },
+        {
+            "text": "Windows",
+            "href": "https://developers.openai.com/codex/windows"
+        },
+        {
+            "text": "Non-interactive Mode",
+            "href": "https://developers.openai.com/codex/noninteractive"
+        },
+        {
+            "text": "Codex SDK",
+            "href": "https://developers.openai.com/codex/sdk"
+        },
+        {
+            "text": "App Server",
+            "href": "https://developers.openai.com/codex/app-server"
+        },
+        {
+            "text": "MCP Server",
+            "href": "https://developers.openai.com/codex/guides/agents-sdk"
+        },
+        {
+            "text": "GitHub Action",
+            "href": "https://developers.openai.com/codex/github-action"
+        },
+        {
+            "text": "Best practices",
+            "href": "https://developers.openai.com/codex/learn/best-practices"
+        },
+        {
+            "text": "Videos",
+            "href": "https://developers.openai.com/codex/videos"
+        },
+        {
+            "text": "Community",
+            "href": "https://developers.openai.com/community"
+        },
+        {
+            "text": "Using skills to accelerate OSS maintenance",
+            "href": "https://developers.openai.com/blog/skills-agents-sdk"
+        },
+        {
+            "text": "Building frontend UIs with Codex and Figma",
+            "href": "https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma"
+        },
+        {
+            "text": "View all",
+            "href": "https://developers.openai.com/blog/topic/codex"
+        },
+        {
+            "text": "Build an Agent Improvement Loop with Traces, Evals, and Codex",
+            "href": "https://developers.openai.com/cookbook/examples/agents_sdk/agent_improvement_loop"
+        },
+        {
+            "text": "Build iterative repair loops with Codex",
+            "href": "https://developers.openai.com/cookbook/examples/codex/build_iterative_repair_loops_with_codex"
+        },
+        {
+            "text": "View all",
+            "href": "https://developers.openai.com/cookbook/topic/codex"
+        },
+        {
+            "text": "Building AI Teams",
+            "href": "https://developers.openai.com/codex/guides/build-ai-native-engineering-team"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://developers.openai.com/codex/changelog"
+        },
+        {
+            "text": "Feature Maturity",
+            "href": "https://developers.openai.com/codex/feature-maturity"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://developers.openai.com/codex/open-source"
+        },
+        {
+            "text": "Home",
+            "href": "https://developers.openai.com/codex/use-cases"
+        },
+        {
+            "text": "Collections",
+            "href": "https://developers.openai.com/codex/use-cases/collections"
+        },
+        {
+            "text": "Home",
+            "href": "https://developers.openai.com/apps-sdk"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://developers.openai.com/apps-sdk/quickstart"
+        },
+        {
+            "text": "MCP Apps in ChatGPT",
+            "href": "https://developers.openai.com/apps-sdk/mcp-apps-in-chatgpt"
+        },
+        {
+            "text": "MCP Server",
+            "href": "https://developers.openai.com/apps-sdk/concepts/mcp-server"
+        },
+        {
+            "text": "UX principles",
+            "href": "https://developers.openai.com/apps-sdk/concepts/ux-principles"
+        },
+        {
+            "text": "UI guidelines",
+            "href": "https://developers.openai.com/apps-sdk/concepts/ui-guidelines"
+        },
+        {
+            "text": "Research use cases",
+            "href": "https://developers.openai.com/apps-sdk/plan/use-case"
+        },
+        {
+            "text": "Define tools",
+            "href": "https://developers.openai.com/apps-sdk/plan/tools"
+        },
+        {
+            "text": "Design components",
+            "href": "https://developers.openai.com/apps-sdk/plan/components"
+        },
+        {
+            "text": "Set up your server",
+            "href": "https://developers.openai.com/apps-sdk/build/mcp-server"
+        },
+        {
+            "text": "Build your ChatGPT UI",
+            "href": "https://developers.openai.com/apps-sdk/build/chatgpt-ui"
+        },
+        {
+            "text": "Authenticate users",
+            "href": "https://developers.openai.com/apps-sdk/build/auth"
+        },
+        {
+            "text": "Manage state",
+            "href": "https://developers.openai.com/apps-sdk/build/state-management"
+        },
+        {
+            "text": "Monetize your app",
+            "href": "https://developers.openai.com/apps-sdk/build/monetization"
+        },
+        {
+            "text": "Examples",
+            "href": "https://developers.openai.com/apps-sdk/build/examples"
+        },
+        {
+            "text": "Deploy your app",
+            "href": "https://developers.openai.com/apps-sdk/deploy"
+        },
+        {
+            "text": "Connect from ChatGPT",
+            "href": "https://developers.openai.com/apps-sdk/deploy/connect-chatgpt"
+        },
+        {
+            "text": "Test your integration",
+            "href": "https://developers.openai.com/apps-sdk/deploy/testing"
+        },
+        {
+            "text": "Submit your app",
+            "href": "https://developers.openai.com/apps-sdk/deploy/submission"
+        },
+        {
+            "text": "Restaurant reservation spec",
+            "href": "https://developers.openai.com/apps-sdk/guides/restaurant-reservation-conversion-spec"
+        },
+        {
+            "text": "Product checkout spec",
+            "href": "https://developers.openai.com/apps-sdk/guides/product-checkout-conversion-spec"
+        },
+        {
+            "text": "Optimize Metadata",
+            "href": "https://developers.openai.com/apps-sdk/guides/optimize-metadata"
+        },
+        {
+            "text": "Security & Privacy",
+            "href": "https://developers.openai.com/apps-sdk/guides/security-privacy"
+        },
+        {
+            "text": "Troubleshooting",
+            "href": "https://developers.openai.com/apps-sdk/deploy/troubleshooting"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://developers.openai.com/apps-sdk/changelog"
+        },
+        {
+            "text": "App submission guidelines",
+            "href": "https://developers.openai.com/apps-sdk/app-submission-guidelines"
+        },
+        {
+            "text": "Reference",
+            "href": "https://developers.openai.com/apps-sdk/reference"
+        },
+        {
+            "text": "Home",
+            "href": "https://developers.openai.com/commerce"
+        },
+        {
+            "text": "Get started",
+            "href": "https://developers.openai.com/commerce/guides/get-started"
+        },
+        {
+            "text": "Best practices",
+            "href": "https://developers.openai.com/commerce/guides/best-practices"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/commerce/specs/file-upload/overview"
+        },
+        {
+            "text": "Products",
+            "href": "https://developers.openai.com/commerce/specs/file-upload/products"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/commerce/specs/api/overview"
+        },
+        {
+            "text": "Feeds",
+            "href": "https://developers.openai.com/commerce/specs/api/feeds"
+        },
+        {
+            "text": "Products",
+            "href": "https://developers.openai.com/commerce/specs/api/products"
+        },
+        {
+            "text": "Promotions",
+            "href": "https://developers.openai.com/commerce/specs/api/promotions"
+        },
+        {
+            "text": "Ads Overview",
+            "href": "https://developers.openai.com/ads"
+        },
+        {
+            "text": "JavaScript Pixel",
+            "href": "https://developers.openai.com/ads/measurement-pixel"
+        },
+        {
+            "text": "Conversions API",
+            "href": "https://developers.openai.com/ads/conversions-api"
+        },
+        {
+            "text": "Supported events",
+            "href": "https://developers.openai.com/ads/supported-events"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/ads/api-overview"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://developers.openai.com/ads/api-quickstart"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://developers.openai.com/ads/api-reference/authentication"
+        },
+        {
+            "text": "Campaigns",
+            "href": "https://developers.openai.com/ads/api-reference/campaigns"
+        },
+        {
+            "text": "Ad Groups",
+            "href": "https://developers.openai.com/ads/api-reference/ad-groups"
+        },
+        {
+            "text": "Ads",
+            "href": "https://developers.openai.com/ads/api-reference/ads"
+        },
+        {
+            "text": "Ad Account",
+            "href": "https://developers.openai.com/ads/api-reference/ad-account"
+        },
+        {
+            "text": "Insights",
+            "href": "https://developers.openai.com/ads/api-reference/insights"
+        },
+        {
+            "text": "Files",
+            "href": "https://developers.openai.com/ads/api-reference/files"
+        },
+        {
+            "text": "Home",
+            "href": "https://developers.openai.com/showcase"
+        },
+        {
+            "text": "API examples",
+            "href": "https://developers.openai.com/showcase/api-examples"
+        },
+        {
+            "text": "All posts",
+            "href": "https://developers.openai.com/blog"
+        },
+        {
+            "text": "How Perplexity Brought Voice Search to Millions Using the Realtime API",
+            "href": "https://developers.openai.com/blog/realtime-perplexity-computer"
+        },
+        {
+            "text": "Designing delightful frontends with GPT-5.4",
+            "href": "https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4"
+        },
+        {
+            "text": "From prompts to products: One year of Responses",
+            "href": "https://developers.openai.com/blog/one-year-of-responses"
+        },
+        {
+            "text": "Using skills to accelerate OSS maintenance",
+            "href": "https://developers.openai.com/blog/skills-agents-sdk"
+        },
+        {
+            "text": "Building frontend UIs with Codex and Figma",
+            "href": "https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma"
+        },
+        {
+            "text": "General",
+            "href": "https://developers.openai.com/blog/topic/general"
+        },
+        {
+            "text": "API",
+            "href": "https://developers.openai.com/blog/topic/api"
+        },
+        {
+            "text": "Apps SDK",
+            "href": "https://developers.openai.com/blog/topic/apps-sdk"
+        },
+        {
+            "text": "Audio",
+            "href": "https://developers.openai.com/blog/topic/audio"
+        },
+        {
+            "text": "Codex",
+            "href": "https://developers.openai.com/blog/topic/codex"
+        },
+        {
+            "text": "Home",
+            "href": "https://developers.openai.com/cookbook"
+        },
+        {
+            "text": "Agents",
+            "href": "https://developers.openai.com/cookbook/topic/agents"
+        },
+        {
+            "text": "Evals",
+            "href": "https://developers.openai.com/cookbook/topic/evals"
+        },
+        {
+            "text": "Multimodal",
+            "href": "https://developers.openai.com/cookbook/topic/multimodal"
+        },
+        {
+            "text": "Text",
+            "href": "https://developers.openai.com/cookbook/topic/text"
+        },
+        {
+            "text": "Guardrails",
+            "href": "https://developers.openai.com/cookbook/topic/guardrails"
+        },
+        {
+            "text": "Optimization",
+            "href": "https://developers.openai.com/cookbook/topic/optimization"
+        },
+        {
+            "text": "ChatGPT",
+            "href": "https://developers.openai.com/cookbook/topic/chatgpt"
+        },
+        {
+            "text": "Codex",
+            "href": "https://developers.openai.com/cookbook/topic/codex"
+        },
+        {
+            "text": "gpt-oss",
+            "href": "https://developers.openai.com/cookbook/topic/gpt-oss"
+        },
+        {
+            "text": "Cookbook on GitHub",
+            "href": "https://github.com/openai/openai-cookbook"
+        },
+        {
+            "text": "Home",
+            "href": "https://developers.openai.com/learn"
+        },
+        {
+            "text": "OpenAI Developers plugin",
+            "href": "https://developers.openai.com/learn/developers-codex-plugin"
+        },
+        {
+            "text": "Docs MCP",
+            "href": "https://developers.openai.com/learn/docs-mcp"
+        },
+        {
+            "text": "Demo apps",
+            "href": "https://developers.openai.com/learn/code"
+        },
+        {
+            "text": "Videos",
+            "href": "https://developers.openai.com/learn/videos"
+        },
+        {
+            "text": "Agents",
+            "href": "https://developers.openai.com/learn/agents"
+        },
+        {
+            "text": "Audio & Voice",
+            "href": "https://developers.openai.com/learn/audio"
+        },
+        {
+            "text": "Computer Use",
+            "href": "https://developers.openai.com/learn/cua"
+        },
+        {
+            "text": "Codex",
+            "href": "https://developers.openai.com/learn/codex"
+        },
+        {
+            "text": "Evals",
+            "href": "https://developers.openai.com/learn/evals"
+        },
+        {
+            "text": "gpt-oss",
+            "href": "https://developers.openai.com/learn/gpt-oss"
+        },
+        {
+            "text": "Fine-tuning",
+            "href": "https://developers.openai.com/learn/fine-tuning"
+        },
+        {
+            "text": "Image generation",
+            "href": "https://developers.openai.com/learn/imagegen"
+        },
+        {
+            "text": "Scaling",
+            "href": "https://developers.openai.com/learn/scaling"
+        },
+        {
+            "text": "Tools",
+            "href": "https://developers.openai.com/learn/tools"
+        },
+        {
+            "text": "Video generation",
+            "href": "https://developers.openai.com/learn/videogen"
+        },
+        {
+            "text": "Community",
+            "href": "https://developers.openai.com/community"
+        },
+        {
+            "text": "Codex Ambassadors",
+            "href": "https://developers.openai.com/community/codex-ambassadors"
+        },
+        {
+            "text": "Codex for Students",
+            "href": "https://developers.openai.com/community/students"
+        },
+        {
+            "text": "Codex for Open Source",
+            "href": "https://developers.openai.com/community/codex-for-oss"
+        },
+        {
+            "text": "Meetups",
+            "href": "https://developers.openai.com/community/meetups"
+        },
+        {
+            "text": "Hackathon Support",
+            "href": "https://developers.openai.com/community/hackathons"
+        },
+        {
+            "text": "Forum",
+            "href": "https://community.openai.com/"
+        },
+        {
+            "text": "Discord",
+            "href": "https://discord.com/invite/openai"
+        },
+        {
+            "text": "API Dashboard",
+            "href": "https://platform.openai.com/login"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://developers.openai.com/api/docs/quickstart"
+        },
+        {
+            "text": "Models",
+            "href": "https://developers.openai.com/api/docs/models"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://developers.openai.com/api/docs/pricing"
+        },
+        {
+            "text": "SDKs and CLI",
+            "href": "https://developers.openai.com/api/docs/libraries"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/libraries"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/agents"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/libraries/openai-cli"
+        },
+        {
+            "text": "Latest: GPT-5.5",
+            "href": "https://developers.openai.com/api/docs/guides/latest-model"
+        },
+        {
+            "text": "Prompt guidance",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-guidance"
+        },
+        {
+            "text": "Text generation",
+            "href": "https://developers.openai.com/api/docs/guides/text"
+        },
+        {
+            "text": "Code generation",
+            "href": "https://developers.openai.com/api/docs/guides/code-generation"
+        },
+        {
+            "text": "Images and vision",
+            "href": "https://developers.openai.com/api/docs/guides/images-vision"
+        },
+        {
+            "text": "Audio and speech",
+            "href": "https://developers.openai.com/api/docs/guides/audio"
+        },
+        {
+            "text": "Structured output",
+            "href": "https://developers.openai.com/api/docs/guides/structured-outputs"
+        },
+        {
+            "text": "Function calling",
+            "href": "https://developers.openai.com/api/docs/guides/function-calling"
+        },
+        {
+            "text": "Responses API",
+            "href": "https://developers.openai.com/api/docs/guides/migrate-to-responses"
+        },
+        {
+            "text": "Using tools",
+            "href": "https://developers.openai.com/api/docs/guides/tools"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/agents"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://developers.openai.com/api/docs/guides/agents/quickstart"
+        },
+        {
+            "text": "Agent definitions",
+            "href": "https://developers.openai.com/api/docs/guides/agents/define-agents"
+        },
+        {
+            "text": "Models and providers",
+            "href": "https://developers.openai.com/api/docs/guides/agents/models"
+        },
+        {
+            "text": "Running agents",
+            "href": "https://developers.openai.com/api/docs/guides/agents/running-agents"
+        },
+        {
+            "text": "Sandbox agents",
+            "href": "https://developers.openai.com/api/docs/guides/agents/sandboxes"
+        },
+        {
+            "text": "Orchestration",
+            "href": "https://developers.openai.com/api/docs/guides/agents/orchestration"
+        },
+        {
+            "text": "Guardrails",
+            "href": "https://developers.openai.com/api/docs/guides/agents/guardrails-approvals"
+        },
+        {
+            "text": "Results and state",
+            "href": "https://developers.openai.com/api/docs/guides/agents/results"
+        },
+        {
+            "text": "Integrations and observability",
+            "href": "https://developers.openai.com/api/docs/guides/agents/integrations-observability"
+        },
+        {
+            "text": "Evaluate agent workflows",
+            "href": "https://developers.openai.com/api/docs/guides/agent-evals"
+        },
+        {
+            "text": "Voice agents",
+            "href": "https://developers.openai.com/api/docs/guides/voice-agents"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/agent-builder"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/node-reference"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/agent-builder-safety"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit-themes"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit-widgets"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/chatkit-actions"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/custom-chatkit"
+        },
+        {
+            "text": "Web search",
+            "href": "https://developers.openai.com/api/docs/guides/tools-web-search"
+        },
+        {
+            "text": "MCP and Connectors",
+            "href": "https://developers.openai.com/api/docs/guides/tools-connectors-mcp"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/secure-mcp-tunnels"
+        },
+        {
+            "text": "Skills",
+            "href": "https://developers.openai.com/api/docs/guides/tools-skills"
+        },
+        {
+            "text": "Shell",
+            "href": "https://developers.openai.com/api/docs/guides/tools-shell"
+        },
+        {
+            "text": "Computer use",
+            "href": "https://developers.openai.com/api/docs/guides/tools-computer-use"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/tools-file-search"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/retrieval"
+        },
+        {
+            "text": "Tool search",
+            "href": "https://developers.openai.com/api/docs/guides/tools-tool-search"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/tools-apply-patch"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/tools-local-shell"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/tools-image-generation"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/tools-code-interpreter"
+        },
+        {
+            "text": "Conversation state",
+            "href": "https://developers.openai.com/api/docs/guides/conversation-state"
+        },
+        {
+            "text": "Background mode",
+            "href": "https://developers.openai.com/api/docs/guides/background"
+        },
+        {
+            "text": "Streaming",
+            "href": "https://developers.openai.com/api/docs/guides/streaming-responses"
+        },
+        {
+            "text": "WebSocket mode",
+            "href": "https://developers.openai.com/api/docs/guides/websocket-mode"
+        },
+        {
+            "text": "Webhooks",
+            "href": "https://developers.openai.com/api/docs/guides/webhooks"
+        },
+        {
+            "text": "File inputs",
+            "href": "https://developers.openai.com/api/docs/guides/file-inputs"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/compaction"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/token-counting"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/prompting"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-engineering"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/citation-formatting"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/reasoning"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/reasoning-best-practices"
+        },
+        {
+            "text": "Getting started",
+            "href": "https://developers.openai.com/api/docs/guides/evaluation-getting-started"
+        },
+        {
+            "text": "Working with evals",
+            "href": "https://developers.openai.com/api/docs/guides/evals"
+        },
+        {
+            "text": "Prompt optimizer",
+            "href": "https://developers.openai.com/api/docs/guides/prompt-optimizer"
+        },
+        {
+            "text": "External models",
+            "href": "https://developers.openai.com/api/docs/guides/external-models"
+        },
+        {
+            "text": "Best practices",
+            "href": "https://developers.openai.com/api/docs/guides/evaluation-best-practices"
+        },
+        {
+            "text": "Overview",
+            "href": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+            "text": "Voice agents",
+            "href": "https://developers.openai.com/api/docs/guides/voice-agents"
+        },
+        {
+            "text": "Live translation",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-translation"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-transcription"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/speech-to-text"
+        },
+        {
+            "text": "Speech generation",
+            "href": "https://developers.openai.com/api/docs/guides/text-to-speech"
+        },
+        {
+            "text": "Realtime prompting guide",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-models-prompting"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-webrtc"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-websocket"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-sip"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-conversations"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-vad"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-mcp"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-server-controls"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/realtime-costs"
+        },
+        {
+            "text": "Optimization cycle",
+            "href": "https://developers.openai.com/api/docs/guides/model-optimization"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/supervised-fine-tuning"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/vision-fine-tuning"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/direct-preference-optimization"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/reinforcement-fine-tuning"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/rft-use-cases"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/fine-tuning-best-practices"
+        },
+        {
+            "text": "Graders",
+            "href": "https://developers.openai.com/api/docs/guides/graders"
+        },
+        {
+            "text": "Image generation",
+            "href": "https://developers.openai.com/api/docs/guides/image-generation"
+        },
+        {
+            "text": "Video generation",
+            "href": "https://developers.openai.com/api/docs/guides/video-generation"
+        },
+        {
+            "text": "Deep research",
+            "href": "https://developers.openai.com/api/docs/guides/deep-research"
+        },
+        {
+            "text": "Embeddings",
+            "href": "https://developers.openai.com/api/docs/guides/embeddings"
+        },
+        {
+            "text": "Moderation",
+            "href": "https://developers.openai.com/api/docs/guides/moderation"
+        },
+        {
+            "text": "Production best practices",
+            "href": "https://developers.openai.com/api/docs/guides/production-best-practices"
+        },
+        {
+            "text": "Deployment checklist",
+            "href": "https://developers.openai.com/api/docs/guides/deployment-checklist"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/latency-optimization"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/predicted-outputs"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/priority-processing"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/cost-optimization"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/batch"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/flex-processing"
+        },
+        {
+            "text": "Accuracy optimization",
+            "href": "https://developers.openai.com/api/docs/guides/optimizing-llm-accuracy"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/safety-best-practices"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/safety-checks"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/safety-checks/cybersecurity"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/guides/safety-checks/under-18-api-guidance"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/assistants/migration"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/assistants/deep-dive"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/assistants/tools"
+        },
+        {
+            "text": "Terms and policies",
+            "href": "https://openai.com/policies"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://developers.openai.com/api/docs/changelog"
+        },
+        {
+            "text": "Your data",
+            "href": "https://developers.openai.com/api/docs/guides/your-data"
+        },
+        {
+            "text": "Permissions",
+            "href": "https://developers.openai.com/api/docs/guides/rbac"
+        },
+        {
+            "text": "Rate limits",
+            "href": "https://developers.openai.com/api/docs/guides/rate-limits"
+        },
+        {
+            "text": "Admin APIs",
+            "href": "https://developers.openai.com/api/docs/guides/admin-apis"
+        },
+        {
+            "text": "Deprecations",
+            "href": "https://developers.openai.com/api/docs/deprecations"
+        },
+        {
+            "text": "MCP for deep research",
+            "href": "https://developers.openai.com/api/docs/mcp"
+        },
+        {
+            "text": "Developer mode",
+            "href": "https://developers.openai.com/api/docs/guides/developer-mode"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/actions/introduction"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/actions/getting-started"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/actions/actions-library"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/actions/authentication"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/actions/production"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/actions/data-retrieval"
+        },
+        {
+            "text": "",
+            "href": "https://developers.openai.com/api/docs/actions/sending-files"
+        },
+        {
+            "text": "Models",
+            "href": "https://developers.openai.com/api/docs/models"
+        },
+        {
+            "text": "latest model guide",
+            "href": "https://developers.openai.com/api/docs/guides/latest-model"
+        },
+        {
+            "text": "pricing page",
+            "href": "https://developers.openai.com/api/docs/pricing"
+        }
+    ],
+    "text_length": 4431,
+    "text_full": "Home\nAPI\nCodex\nChatGPT\nResources\nStart searching\nAPI Dashboard\nGet started\nOverview\nQuickstart\nModels\nPricing\nSDKs and CLI\nLatest: GPT-5.5\nPrompt guidance\nCore concepts\nText generation\nCode generation\nImages and vision\nAudio and speech\nStructured output\nFunction calling\nResponses API\nUsing tools\nAgents SDK\nOverview\nQuickstart\nAgent definitions\nModels and providers\nRunning agents\nSandbox agents\nOrchestration\nGuardrails\nResults and state\nIntegrations and observability\nEvaluate agent workflows\nVoice agents\nAgent Builder\nTools\nWeb search\nMCP and Connectors\nSkills\nShell\nComputer use\nFile search and retrieval\nTool search\nMore tools\nRun and scale\nConversation state\nBackground mode\nStreaming\nWebSocket mode\nWebhooks\nFile inputs\nContext management\nPrompting\nReasoning\nEvaluation\nGetting started\nWorking with evals\nPrompt optimizer\nExternal models\nBest practices\nRealtime and audio\nOverview\nVoice agents\nLive translation\nTranscription\nSpeech generation\nRealtime prompting guide\nConnection methods\nRealtime sessions\nModel optimization\nOptimization cycle\nFine-tuning\nGraders\nSpecialized models\nImage generation\nVideo generation\nDeep research\nEmbeddings\nModeration\nGoing live\nProduction best practices\nDeployment checklist\nLatency optimization\nCost optimization\nAccuracy optimization\nSafety\nLegacy APIs\nAssistants API\nResources\nTerms and policies\nChangelog\nYour data\nPermissions\nRate limits\nAdmin APIs\nDeprecations\nMCP for deep research\nDeveloper mode\nChatGPT Actions\nModels\nGPT-5.4\nDefault\nA more affordable model for coding and professional work.\nCompare\nTry in Playground\nREASONING\nHighest\nSPEED\nMedium\nPRICE\n$2.5\n•\n$15\nInput\n•\nOutput\nINPUT\nText, image\nOUTPUT\nText\n\nGPT-5.4 is our frontier model for complex professional work. Learn more in our latest model guide. Reasoning.effort supports: none (default), low, medium, high and xhigh.\n\n1,050,000 context window\n128,000 max output tokens\nAug 31, 2025 knowledge cutoff\nReasoning token support\nPricing\nPricing is based on the number of tokens used, or other metrics based on the model type. For tool-specific models, like search and computer use, there’s a fee per tool call. See details in the pricing page.\nText tokens\nPer 1M tokens\n∙\nBatch API price\nInput\n$2.50\nCached input\n$0.25\nOutput\n$15.00\nQuick comparison\nInput\nCached input\nOutput\nGPT-5.4\n$2.50\nGPT-5.2\n$1.75\nGPT-5.4 mini\n$0.75\n\nFor models with a 1.05M context window (GPT-5.4 and GPT-5.4 pro), prompts with >272K input tokens are priced at 2x input and 1.5x output for the full session for standard, batch, and flex.\n\nRegional processing (data residency) endpoints are charged a 10% uplift for GPT-5.4 and GPT-5.4 pro.\n\nModalities\nText\nInput and output\nImage\nInput only\nAudio\nNot supported\nVideo\nNot supported\nEndpoints\nChat Completions\nv1/chat/completions\nResponses\nv1/responses\nRealtime\nv1/realtime\nRealtime translation\nv1/realtime/translations\nRealtime transcription\nv1/realtime/transcription_sessions\nAssistants\nv1/assistants\nBatch\nv1/batch\nFine-tuning\nv1/fine-tuning\nEmbeddings\nv1/embeddings\nImage generation\nv1/images/generations\nVideos\nv1/videos\nImage edit\nv1/images/edits\nSpeech generation\nv1/audio/speech\nTranscription\nv1/audio/transcriptions\nTranslation\nv1/audio/translations\nModeration\nv1/moderations\nCompletions (legacy)\nv1/completions\nFeatures\nStreaming\nSupported\nFunction calling\nSupported\nStructured outputs\nSupported\nFine-tuning\nNot supported\nTools\nTools supported by this model when using the Responses API.\nWeb search\nSupported\nFile search\nSupported\nImage generation\nSupported\nCode interpreter\nSupported\nHosted shell\nSupported\nApply patch\nSupported\nSkills\nSupported\nComputer use\nSupported\nMCP\nSupported\nTool search\nSupported\nSnapshots\nSnapshots let you lock in a specific version of the model so that performance and behavior remain consistent. Below is a list of all available snapshots and aliases for GPT-5.4.\ngpt-5.4\ngpt-5.4-2026-03-05\ngpt-5.4-2026-03-05\nRate limits\nRate limits ensure fair and reliable access to the API by placing specific caps on requests, tokens, audio duration, or other usage within a given time period. Your usage tier determines how high these limits are set and automatically increases as you send more requests and spend more on the API.\nLong Context\nTIER\tRPM\tTPM\tBATCH QUEUE LIMIT\nFree\tNot supported\nTier 1\t500\t500,000\t1,500,000\nTier 2\t5,000\t1,000,000\t3,000,000\nTier 3\t5,000\t2,000,000\t100,000,000\nTier 4\t10,000\t4,000,000\t200,000,000\nTier 5\t15,000\t40,000,000\t15,000,000,000"
+}

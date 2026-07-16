@@ -1,0 +1,184 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/conways-law.png",
+        "https://lawsofsoftwareengineering.com/images/laws/spotify-model.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 42,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=Conway%27s+Law%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fconways-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fconways-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fconways-law%2F&title=Conway%27s+Law%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/conways-law/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/#sidenote"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/#further-reading"
+        },
+        {
+            "text": "How Do Committees Invent?\nMelvin Conway's original 1968 paper",
+            "href": "https://www.melconway.com/Home/Committees_Paper.html"
+        },
+        {
+            "text": "Conway's Law\nMartin Fowler's explanation of Conway's Law",
+            "href": "https://martinfowler.com/bliki/ConwaysLaw.html"
+        },
+        {
+            "text": "Spotify Engineering Culture\nThe original Spotify Model blog post",
+            "href": "https://engineering.atspotify.com/2014/3/spotify-engineering-culture-part-1"
+        },
+        {
+            "text": "Team Topologies\nModern application of Conway's Law to organizational design",
+            "href": "https://amzn.to/4jgRZ6V"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "TEAMS\nBrooks's Law\n\nAdding manpower to a late software project makes it later.",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/"
+        },
+        {
+            "text": "ARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.",
+            "href": "https://lawsofsoftwareengineering.com/laws/galls-law/"
+        },
+        {
+            "text": "ARCHITECTURE\nThe Law of Leaky Abstractions\n\nAll non-trivial abstractions, to some degree, are leaky.",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/"
+        },
+        {
+            "text": "ARCHITECTURE\nHyrum's Law\n\nWith a sufficient number of API users, all observable behaviors of your system will be depended on by somebody.",
+            "href": "https://lawsofsoftwareengineering.com/laws/hyrums-law/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 4201,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nConway's Law\nConway's Law\nTEAMS\nSENIOR\n2 min read\n\nOrganizations design systems that mirror their own communication structure.\n\nTakeaways\nThe architecture of software systems often mirrors the organization’s org chart or team structure.\nIf your company is organized in silos, you might end up with siloed software modules that don’t communicate well, reflecting those barriers.\nTo achieve a desired software architecture (e.g., microservices), you might need to restructure teams accordingly, because teams build software aligned with their communication paths.\nWhen starting a project, realize that how you split teams or departments will likely lead to software boundaries at the same places.\nOverview\n\nConway’s Law states that software systems reflect the communication structure of the organization that builds them. A company with separate frontend, backend, and database departments will likely produce a three-tier architecture. Small, distributed teams tend to produce modular service architectures, while large, collocated teams tend to build monoliths.\n\nTo mitigate this, teams can use the Inverse Conway Maneuver: intentionally structuring the organization to match the desired software architecture.\n\nConway’s Law\n\nExamples\n\nA company had separate departments for frontend, backend, and database. The software they built had a three-tier architecture, with each tier independently designed by its respective department. Integration between tiers was painful because the teams had misaligned goals.\n\nAmazon famously organized “two-pizza teams”, each owning a specific service. Conway’s Law suggests that’s why Amazon’s architecture is service-oriented, with clear API contracts between services.\n\nOrigins\n\nMelvin Conway introduced the idea in his 1967 paper “How Do Committees Invent?” After Harvard Business Review rejected it for lacking formal proof, Datamation published it in 1968.\n\nFred Brooks later named it “Conway’s Law” in The Mythical Man-Month, which established the concept as foundational in software engineering.\n\nThe Spotify Model\nThe Spotify Model organizes teams around features rather than technologies. Cross-functional Squads (6-12 people) own end-to-end features, grouped into Tribes by business area. Chapters and Guilds provide skill-sharing across squads. It works when it solves real coordination problems, but fails when copied blindly.\n\nThe Spotify Model\n\nFurther Reading\nHow Do Committees Invent?\nMelvin Conway's original 1968 paper\nConway's Law\nMartin Fowler's explanation of Conway's Law\nSpotify Engineering Culture\nThe original Spotify Model blog post\nTeam Topologies\nModern application of Conway's Law to organizational design\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). Conway's Law. Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/conways-law/\n\nPlain text: \"Conway's Law\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/conways-law/\n\nBibTeX: @misc{milanovic_conways-law_2026, author = {Dr. Milan Milanović}, title = {Conway's Law}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/conways-law/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nTEAMS\nBrooks's Law\n\nAdding manpower to a late software project makes it later.\n\nARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.\n\nARCHITECTURE\nThe Law of Leaky Abstractions\n\nAll non-trivial abstractions, to some degree, are leaky.\n\nARCHITECTURE\nHyrum's Law\n\nWith a sufficient number of API users, all observable behaviors of your system will be depended on by somebody.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

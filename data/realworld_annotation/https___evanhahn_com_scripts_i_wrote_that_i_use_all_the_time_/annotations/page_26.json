@@ -1,0 +1,233 @@
+{
+    "image_count": 5,
+    "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQAAAAA3bvkkAAAACklEQVR4AWNgAAAAAgABc3UBGAAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQAAAAA3bvkkAAAACklEQVR4AWNgAAAAAgABc3UBGAAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAABAQAAAADLe9LuAAAACklEQVR4AWNgAAAAAgABc3UBGAAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAAAAAA6fptVAAAACklEQVR4AWOwBQAAPwA+Eq7IEAAAAABJRU5ErkJggg==",
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 54,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#png",
+            "href": "https://evanhahn.com/tags/png/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "PNG signature",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#5PNG-file-signature"
+        },
+        {
+            "text": "1",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fn:1"
+        },
+        {
+            "text": "four fields",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#5Chunk-layout"
+        },
+        {
+            "text": "2",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fn:2"
+        },
+        {
+            "text": "“image header”",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#11IHDR"
+        },
+        {
+            "text": "The capitalization of each letter is significant.",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#5Chunk-naming-conventions"
+        },
+        {
+            "text": "bit depth",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#3bitDepth"
+        },
+        {
+            "text": "color type",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#6Colour-values"
+        },
+        {
+            "text": "read more about them in the PNG specification",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#4Concepts.PNGImage"
+        },
+        {
+            "text": "compression method",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#10CompressionCM0"
+        },
+        {
+            "text": "filter method",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#3filter"
+        },
+        {
+            "text": "interlace method",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#8InterlaceMethods"
+        },
+        {
+            "text": "a common checksum function",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#5CRC-algorithm"
+        },
+        {
+            "text": "“image data”",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#11IDAT"
+        },
+        {
+            "text": "“scanlines”",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#3scanline"
+        },
+        {
+            "text": "filter type",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#9Filter-types"
+        },
+        {
+            "text": "3",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fn:3"
+        },
+        {
+            "text": "the zlib format",
+            "href": "https://www.rfc-editor.org/rfc/rfc1950"
+        },
+        {
+            "text": "Deflate compression algorithm",
+            "href": "https://zlib.net/feldspar.html"
+        },
+        {
+            "text": "gzip",
+            "href": "https://en.wikipedia.org/wiki/Gzip"
+        },
+        {
+            "text": "ZIP",
+            "href": "https://en.wikipedia.org/wiki/ZIP_(file_format)"
+        },
+        {
+            "text": "4",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fn:4"
+        },
+        {
+            "text": "5",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fn:5"
+        },
+        {
+            "text": "“An Explanation of the Deflate Algorithm”",
+            "href": "https://zlib.net/feldspar.html"
+        },
+        {
+            "text": "infgen",
+            "href": "https://github.com/madler/infgen/"
+        },
+        {
+            "text": "“image trailer”",
+            "href": "https://www.w3.org/TR/2022/WD-png-3-20221025/#11IEND"
+        },
+        {
+            "text": "“The Biggest Smallest PNG”",
+            "href": "https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/"
+        },
+        {
+            "text": "PNG Chunk Explorer",
+            "href": "https://evanhahn.gitlab.io/png-explorer/"
+        },
+        {
+            "text": "Single Color Image",
+            "href": "https://singlecolorimage.com/"
+        },
+        {
+            "text": "largest possible PNG",
+            "href": "https://evanhahn.com/largest-possible-png/"
+        },
+        {
+            "text": "let me know",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "MIME Sniffing specification",
+            "href": "https://mimesniff.spec.whatwg.org/#matching-an-image-type-pattern"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fnref:1"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fnref:2"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fnref:3"
+        },
+        {
+            "text": "contact me",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fnref:4"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://evanhahn.com/worlds-smallest-png/#fnref:5"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 14523,
+    "text_full": "The world's smallest PNG\nby Evan Hahn, updated Mar 3, 2025 (originally posted Jan 4, 2024), tagged #png #guide\n\nThe smallest PNG file is 67 bytes. It’s a single black pixel. Here’s what it looks like, zoomed in 200×:\n\nWow, what a beauty.\n\nThis file has four sections:\n\nThe PNG signature, the same for every PNG: 8 bytes\nThe image’s metadata, which includes its dimensions: 25 bytes\nThe image’s pixel data: 22 bytes\nAn “end of image” marker: 12 bytes\n\nThe rest of this post describes this file in more detail and tries to explain how PNGs work along the way.\n\nThere’s a big twist at the end, if that excites you. But I hope you’re just excited to learn about PNGs.\n\nPart 1: the PNG signature\n\nEvery single PNG, including this one, starts with the same 8 bytes. Encoded in hex, those bytes are:\n\n89 50 4E 47 0D 0A 1A 0A\n\n\nThis is called the PNG signature. Try doing a hex dump on any PNG and you’ll see that it starts with these bytes.\n\nPNG decoders use the signature to ensure that they’re reading a PNG image. Typically, they reject the file if it doesn’t start with the signature. Data can get corrupted in various ways (ever had a file with the wrong extension?) and this helps address that.1\n\nFun fact: if you decode these bytes as ASCII, you’ll see the letters “PNG” in there:\n\n.PNG....\n\n\nSo that’s the first 8 bytes. One part done! Here’s our “checklist”:\n\nPNG signature\nImage metadata chunk\nPixel data chunk\n“End of image” chunk\n\nWhat about the rest?\n\nPart 2: image metadata\n\nThe next part of the PNG is the image metadata, which is one of several chunks. What’s a chunk?\n\nQuick intro to chunks\n\nOther than the PNG signature at the start, PNGs are made up of chunks.\n\nChunks have two logical pieces: a type and some data bytes. Types are things like “image header” or “text metadata”. The data depends on the type—the text metadata chunk is encoded differently from the image header chunk.\n\nThese logical pieces are encoded with four fields. These fields are always in the same order for every chunk. They are:\n\nLength: the number of bytes in the chunk’s data field (field #3 below). Encoded as a 4-byte integer.2\nChunk type: the type of chunk this is. There are lots of different chunk types. Encoded as a 4-byte ASCII string, such as “IHDR” for “image header” or “tEXt” for “text metadata”.\nData: the data for the chunk. See the “length” field for how many bytes there will be. Varies based on the chunk type. For example, the IHDR chunk encodes the image’s dimensions. May be empty, but usually isn’t.\nChecksum: a checksum for the rest of the chunk, to make sure no data was corrupted. 4 bytes.\n\nAs you can see, each chunk is a minimum of 12 bytes long (4 for the length, 4 for the type, and 4 for the checksum).\n\nNote that the “length” field is the size of the “data” field, not the entire chunk. If you want to know the whole size of the chunk, just add 12—4 bytes for the length, 4 bytes for the type, and 4 bytes for the checksum.\n\nYou have some wiggle room but chunks have a specific order. For example, the image metadata chunk must appear before the pixel data chunk. Once you reach the “image is done” chunk, the PNG is done.\n\nOur tiny PNG will have just three of these chunks.\n\nThe image header chunk\n\nThe first chunk of every PNG, including ours, is of type IHDR, short for “image header”.\n\nEach chunk starts with the length of the data in that chunk.\n\nThe IHDR chunk always has 13 bytes of associated data, as we’ll see in a moment. 13 is 0D in hex, which gets encoded like this:\n\n00 00 00 0D\n\n\nThe chunk type is next. This is another four bytes. “IHDR” is encoded as:\n\n49 48 44 52\n\n\nThis is just ASCII encoding. Chunk types are made up of ASCII letters. The capitalization of each letter is significant. For example, the first letter is capitalized which means it’s a required chunk.\n\nNext, the chunk’s data. IHDR’s data happens to be 13 total bytes, arranged as follows:\n\nThe first eight bytes encode the image’s width and height. Because this is a 1×1 image, that’s encoded as 00 00 00 01 00 00 00 01.\n\nThe next two bytes are the bit depth and color type.\n\nThese two values are probably the most complicated part of this PNG.\n\nThere are five possible color types. Our image is black-and-white so we use the “greyscale” color type (encoded as 00). If our image had color, we might use the “truecolor” type (encoded with 02). There are three other color types which we don’t need today, but you can read more about them in the PNG specification.\n\nOnce you’ve picked a color type, you need to pick a bit depth. The bit depth depends on the color type, but usually means the number of bits per color channel in an image. For example, hex colors like #FE9802 have a bit depth of eight—eight bits for red, eight bits for green, and eight bits for blue. Our all-black image doesn’t need all that…we only need one bit! The pixel is either completely black (0) or completely white (1)—in our case, it’s completely black.\n\nIf we picked a more “expressive” color type and bit depth, we could make the same 1×1 image visually, but the file could be bigger because there could be more bits per pixel that we don’t actually need. For example, if we used the “truecolor” type and 16 bits per channel, each pixel would require 48 bits instead of just one—not necessary to encode “completely black”.\n\nWith bit depth of 1 and a color type of 0, we encode these two values with 01 00.\n\nThe next byte is the compression method. All PNGs set this to 00 for now. This is here just in case they want to add another compression method later. As far as I know, nobody has.\n\nSame story for the filter method. It’s always 00.\n\nThe last part of the chunk’s data is the interlace method. PNGs support progressive decoding which allows images to be partly rendered as they download. We aren’t going to use that feature so we set this to 00.\n\nFinally, every chunk ends with a four-byte checksum. It uses a common checksum function called CRC32, and uses the rest of the chunk as an input. Computing that checksum gives us the following bytes:\n\n37 6E F9 24\n\n\nAll together, here’s the whole IHDR chunk:\n\nBytes\tWhat?\n00 00 00 0D\tdata length of 13 bytes\n49 48 44 52\t“IHDR” as ASCII\n00 00 00 01\twidth\n00 00 00 01\theight\n01\tbit depth\n00\tcolor type\n00\tcompression method\n00\tfilter method\n00\tinterlace method\n37 6E F9 24\tchecksum\n\nSo that’s our first chunk! Let’s take another look at our checklist:\n\nPNG signature\nImage metadata chunk\nPixel data chunk\n“End of image” chunk\n\nTwo more chunks to go—pixel data is next.\n\nPart 3: pixel data chunk\n\nOur next chunk is IDAT, short for “image data”. This is where the actual pixels are encoded…or just one pixel, in our case.\n\nRemember that each chunk has four parts: the data’s length, the chunk type, the data, and a checksum.\n\nThis chunk will have 10 bytes of data. We’ll talk about what that data is shortly, but I promise it’s 10 bytes. Let’s encode that length:\n\n00 00 00 0A\n\n\nNext, let’s encode “IDAT” for the chunk type:\n\n49 44 41 54\n\n\nAgain, this is just ASCII, and I’m showing the hex-encoded values.\n\nNow for the interesting part: the image data.\n\nFirst step: uncompressed pixels\n\nImage data is encoded in a series of “scanlines”, and then compressed.\n\nA scanline represents a horizontal line of pixels. For example, a 123×456 image has 456 scanlines. In our case, we have just one scanline, because our image is just one pixel tall.\n\nScanlines start with something called a filter type which can improve compression, depending on your image. Our image is so small that this is irrelevant, so we use filter type 0, or “None”.3\n\nAfter the filter type, each pixel is encoded with one or more bits, depending on the bit depth. In our case, we just need one bit per pixel—recall that we have a bit depth of 1; all black or all white.\n\nIf your pixel data doesn’t line up with a byte boundary—in other words, if it’s not a multiple of 8 bits—you pad the end of your scanline with zeroes. That’s true in our case, so we add seven padding bits to fill out a byte.\n\nPutting that together (a zero byte to start the scanline, the single zero bit, and seven zero padding bits), our single scanline is:\n\n00 00\n\n\nNow it’s time to “compress” the data.\n\nSecond step: “compression”\n\nNext, we compress the scanline data…well, not quite.\n\nMore accurately, we run it through a compression algorithm. Most of the time, compression algorithms produce smaller outputs—that’s the whole point! But sometimes, “compressing” tiny inputs actually produces bigger outputs because of some small overhead. Unfortunately for us, that’s what happens here. But the PNG file format makes us do it.\n\nPNG image data is encoded in the zlib format using the Deflate compression algorithm. Deflate is also used with gzip and ZIP, two very popular compression formats.\n\nI won’t go in depth on Deflate here (in part because I am not an expert4), but here’s what our chunk’s data contains:\n\nThe zlib header: 2 bytes\nOne compressed Deflate block that encodes two literal zeroes5: 4 bytes\nThe zlib checksum (separate from the PNG chunk checksum!): 4 bytes\n\nFor more on how Deflate works, check out “An Explanation of the Deflate Algorithm”. I also recommend infgen, a useful tool for inspecting Deflate streams.\n\nAll together, here are the ten data bytes:\n\n78 01 63 60 00 00 00 02 00 01\n\n\nAgain, unfortunate that we had to run our two-byte scanline through an algorithm that made it five times bigger, but PNG makes us do it!\n\nWith that, we can compute the PNG’s checksum field and finish off the chunk.\n\nBytes\tWhat?\n00 00 00 0A\tdata length of 10 bytes\n49 44 41 54\t“IDAT” as ASCII\n78 01\tzlib header\n63 60 00 00\t“compressed” Deflate block\n00 02 00 01\tzlib checksum\n73 75 01 18\tchunk checksum\n\nJust one more chunk to go! Taking a final look at our checklist before everything is crossed off:\n\nPNG signature\nImage metadata chunk\nPixel data chunk\n“End of image” chunk\n\nLet’s finish this up.\n\nPart 4: the end\n\nPoetically, PNGs end like they begin: with a small number of constant bytes.\n\nIEND is the final chunk, short for “image trailer”.\n\nThe zero length is encoded with 4 zeroes:\n\n00 00 00 00\n\n\n“IEND” is then encoded:\n\n49 45 4E 44\n\n\nThere’s no data in IEND chunks, so we just move onto the checksum. Because everything else in the chunk is constant, this checksum is always the same:\n\nAE 42 60 82\n\n\nHere’s the whole trailer chunk:\n\nBytes\tWhat?\n00 00 00 00\tdata length of 0\n49 45 4E 44\t“IEND” as ASCII\nAE 42 60 82\tchecksum\n\nAnd our PNG is done!\n\nAdmiring our work\n\nHere it is one more time, scaled up 200×:\n\nBeautiful. It starts with the classic PNG signature, follows up with a bit of metadata, “compresses” the pixel data, and signs off with an empty chunk.\n\nAnd that’s the world’s smallest PNG!\n\n\n\n\n\n…or is it?\n\nThe twist: there are lots of champions\n\nThroughout this post, I’ve said that this is the world’s smallest PNG. But that’s not quite true: it’s tied for first. There are several “world’s smallest PNGs”!\n\nAs long as we encode all pixel data in a single byte, we can tie for the world’s smallest PNG.\n\nFor example, you could encode this 8×1 black image, which is also 67 bytes:\n\nThis works because we use all eight bits are used to encode pixel data.\n\nWith our 1×1 image, recall that seven bits were effectively “wasted” on padding. Here’s basically what happened:\n\nBits\tWhat?\n0\ta black pixel\n0000000\tpadding\n\nAn 8×1 image can encode eight black pixels like so:\n\nBits\tWhat?\n00000000\teight black pixels\n\nInstead of adding more pixels, you could also add more color resolution. Many grey colors can be encoded in a single byte, letting us tie for first. For example, this 1×1 grey pixel is also 67 bytes:\n\nAgain, this “uses up” the whole byte we have available, unlike our 1×1 image.\n\nFor more on this, my former coworker Jordan Rose published “The Biggest Smallest PNG” in response to this post. It shows the biggest 67-byte PNG: a 1×2064 black line.\n\nSummary\n\nPNGs start with a “signature”. The rest of the file is made up of chunks. Each chunk has a length, type, data, and checksum. Some chunks are always required, like the image header (IHDR) chunk.\n\nThe smallest PNGs use the minimum number of chunks and the smallest possible data.\n\nOur PNGs are made up of four parts:\n\nThe constant PNG signature (8 bytes)\nThe IHDR chunk, containing metadata (25 bytes)\nThe IDAT chunk, image pixel data (22 bytes)\nThe IEND chunk, an image trailer (12 bytes)\n\nIf you’re interested in learning more about PNGs interactively, I built PNG Chunk Explorer, which lets you analyze PNGs. Try uploading your own images to see what they’re made of! (It doesn’t work well on mobile, apologies.)\n\nI also built Single Color Image, which generates monochromatic PNGs of arbitrary sizes. For example, you could generate a 12×34 purple rectangle. The images should be small but I haven’t yet implemented the most sophisticated compression, so you might need to run its results through a PNG compressor to achieve the smallest sizes.\n\nFinally, I also wrote about the largest possible PNG. There’s no theoretical file size limit, but there is a maximum number of pixels, and many decoders impose various limits.\n\nI hope this long post has given you a good understanding of the PNG file format. If you read this far and have anything to say, let me know!\n\nIf you have some data and don’t know what it is, you can look at the first 8 bytes. If you see the PNG signature, it’s probably a PNG. See the MIME Sniffing specification. ↩︎\n\nSpecifically, the length is encoded as a 4-byte unsigned big-endian integer. PNGs also impose an additional restriction: the most significant bit is unused, so the range is 0 to 231−1. According to the spec, this helps “accommodate languages that have difficulty with unsigned four-byte values.” ↩︎\n\nTo be pedantic, filter type 0 is technically a filter type. It’s just a very boring one. ↩︎\n\nIf you are an expert, please contact me. I want to learn! ↩︎\n\nThe Deflate block is made up of 4 bytes, or 32 bits. The first bit signifies that this is the final Deflate block. The next 2 say that this is block that uses hard-coded Huffman codes; no “dictionary” is included in the payload. The next 8 bits encode a literal zero, and then another 8 bits encode the same. The next 7 bits are the “end of block” marker, and the final 6 pad the data so that it’s byte-aligned. ↩︎\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

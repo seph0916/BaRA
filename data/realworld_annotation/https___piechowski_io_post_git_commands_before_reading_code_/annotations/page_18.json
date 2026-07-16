@@ -1,0 +1,105 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/propshaft-pipeline_hu7d4db72a845225789fb232f4c18d063e_37826_1500x0_resize_q75_h2_box_2.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 23,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "upgrades",
+            "href": "https://piechowski.io/tags/upgrades"
+        },
+        {
+            "text": "What Propshaft Actually Is",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#what-propshaft-actually-is"
+        },
+        {
+            "text": "Should You Switch?",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#should-you-switch"
+        },
+        {
+            "text": "When Propshaft Is the Right Call",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#when-propshaft-is-the-right-call"
+        },
+        {
+            "text": "When to Stay on Sprockets",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#when-to-stay-on-sprockets"
+        },
+        {
+            "text": "How to Migrate from Sprockets to Propshaft",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#how-to-migrate-from-sprockets-to-propshaft"
+        },
+        {
+            "text": "Common Propshaft Migration Gotchas",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#common-propshaft-migration-gotchas"
+        },
+        {
+            "text": "Quick Reference",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#quick-reference"
+        },
+        {
+            "text": "Propshaft README",
+            "href": "https://github.com/rails/propshaft"
+        },
+        {
+            "text": "upgrade Rails first",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "Rails upgrade",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "get in touch",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/#footer"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        }
+    ],
+    "text_length": 14604,
+    "text_full": "Work With Me\nGithub\nBlog\nMigrating from Sprockets to Propshaft: Is It Worth It?\n\nRails 8 ships Propshaft by default, but migrating from Sprockets isn't always the right call. How to decide, and a step-by-step migration guide for when it is.\n\nAlly Piechowski · Mar 17, 2026 · 10 min read\nrails\nruby\nupgrades\n\nRails 8 ships with Propshaft as the default asset pipeline for new applications. If you just upgraded an existing app to Rails 8, nothing changed. Propshaft is opt-in for existing apps, full stop.\n\nThe answer to whether migrating from Sprockets to Propshaft is worth it depends almost entirely on what your asset pipeline actually does today.\n\nTable of Contents\n\nWhat Propshaft Actually Is\nShould You Switch?\nWhen Propshaft Is the Right Call\nWhen to Stay on Sprockets\nHow to Migrate from Sprockets to Propshaft\nCommon Propshaft Migration Gotchas\nQuick Reference\nWhat Propshaft Actually Is\n\nPropshaft is deliberately minimal. It does four things:\n\nDigest stamping: adds a content hash to filenames for cache busting (application-abc123.css)\nConfigurable load paths: register directories and reference assets uniformly\nDev server: serves assets in development without precompilation\nBasic CSS URL rewriting: rewrites url() paths in CSS files to account for digest-stamped filenames\n\nThat’s it. Propshaft does not compile Sass. It does not transpile CoffeeScript. It does not process ERB in your asset files. It does not bundle JavaScript. It does not handle Sprockets manifest directives (//= require, //= require_tree).\n\nThe Propshaft README captures the spirit: JavaScript and CSS are either compiled by dedicated Node.js bundlers or served directly to the browser.\n\nIf you need transpilation or bundling, Propshaft assumes you’re handling that with a Node-based tool and it just needs to digest and serve the output. If that’s true for your app, the migration is straightforward.\n\nShould You Switch?\n\nProbably not, if your current setup is stable.\n\nA Propshaft maintainer said it plainly in a Rails discussion thread: “If your existing project and workflow works fine with Sprockets? It’s fine to stay on it.” It’s still actively maintained, and there is no deprecation timeline.\n\nThe case for switching is simplicity, not fixing a problem you have today. Propshaft is faster, has a smaller footprint, and produces more predictable behavior in exchange for doing less. If your asset pipeline is already the source of confusion or friction, the migration can help. If it’s invisible and working, this is just churn.\n\nWhen Propshaft Is the Right Call\n\nYou’re using Import Maps with vanilla CSS. This is the sweet spot Propshaft was built for. Import Maps handle JS module resolution in the browser, so there’s nothing to bundle. If you’re writing plain CSS without Sass, Propshaft digests and serves it with zero friction. The migration is mostly just removing Sprockets.\n\nYou’re already using a Node bundler for JS and CSS. If you’ve got jsbundling-rails and cssbundling-rails, Sprockets is just sitting between your bundler output and the browser. Most of the migrations I’ve done for clients fall into this category: Sprockets was vestigial and removing it simplified the deploy pipeline immediately.\n\nYou’re setting up Kamal or containerized deploys and want a simpler asset step. Propshaft’s precompile step is fast and produces straightforward output.\n\nNew Rails apps get Propshaft. Community tooling, gems, and documentation will increasingly assume it.\n\nWhen to Stay on Sprockets\n\nYou’re using Sass through Sprockets without a Node build step. If sass-rails is handling your Sass compilation and you haven’t set up cssbundling-rails, you’ll need to wire up a Node-based Sass pipeline before you can switch. That’s a real project on its own, and probably not worth doing just to enable a Propshaft migration.\n\nYou have ERB in your asset files. Propshaft doesn’t process ERB. If you’re doing things like <%= asset_path 'image.png' %> inside CSS or JS files, you’ll need to rethink that before you can switch.\n\nYou have gems that depend on Sprockets. This is the big one. Some gems register assets through Sprockets internals. ActiveAdmin is the most common: it ships its own CSS and JS as Sprockets engine assets and requires Sprockets to be present. If a gem’s documentation says it “requires the Sprockets asset pipeline,” treat that as a hard blocker, not a warning to work around.\n\nRun grep sprockets Gemfile.lock to see every gem in your dependency tree that pulls it in. Then check config/initializers/assets.rb for any lines like:\n\nRails.application.config.assets.precompile += [\"admin.css\", \"admin.js\"]\n\n\nThose are Sprockets-specific. In Propshaft, there’s no precompile list; everything in the load path is served. You’ll need to either move those files into a path Propshaft already watches, or add the path explicitly via config.assets.paths.\n\nIf you’ve got years of custom initializers, asset loading logic, and preprocessor configuration that works (and nobody on the team really understands all of it), migrating is a high-risk low-reward project. I’ve seen teams spend a full sprint migrating a stable Sprockets setup for no measurable benefit. If the quarter is full, this waits.\n\nHow to Migrate from Sprockets to Propshaft\n\nThis assumes you’re starting from a Rails 7+ app on Sprockets. If you’re on Rails 6 or earlier, upgrade Rails first.\n\nStep 1: Handle Sass and transpiled assets\n\nBefore you remove Sprockets, you need to make sure any transpilation it was doing is handled elsewhere. If you’re already using jsbundling-rails and cssbundling-rails, skip ahead.\n\nIf you use Sass:\n\n./bin/rails css:install:sass\n\n\nThis installs cssbundling-rails with Dart Sass, adds a build:css script to your package.json, and updates Procfile.dev so bin/dev watches and rebuilds on change.\n\nThe generated build command targets your entry point file directly:\n\n\"build:css\": \"sass ./app/assets/stylesheets/application.scss:./app/assets/builds/application.css --no-source-map --load-path=node_modules\"\n\n\nSource files live in app/assets/stylesheets/, compiled output lands in app/assets/builds/. Make sure app/assets/builds/* is in your .gitignore. Rails adds it for new apps but it’s a common gap during manual migrations.\n\nIf you have multiple stylesheet entry points, list each input/output pair explicitly:\n\n\"build:css\": \"sass ./app/assets/stylesheets/application.scss:./app/assets/builds/application.css ./app/assets/stylesheets/admin.scss:./app/assets/builds/admin.css --no-source-map --load-path=node_modules\"\n\n\nIf you use CoffeeScript: There’s no clean path. Your options are to rewrite the CoffeeScript as plain JS, or stay on Sprockets. Most teams choose to rewrite. CoffeeScript is effectively unmaintained.\n\nStep 2: Swap the gems\n# Remove from Gemfile:\n- gem \"sprockets\"\n- gem \"sprockets-rails\"\n- gem \"sass-rails\"\n\n# Add to Gemfile:\n+ gem \"propshaft\"\n\n\nRun:\n\nbundle install\n\n\nCheck bundle info sprockets. If any other gem still lists it as a dependency, that gem may break. Common culprits: ActiveAdmin, Administrate, older versions of devise-bootstrap-views.\n\nStep 3: Remove Sprockets configuration files\n\nBefore deleting anything, open config/initializers/assets.rb if it exists and check for lines like:\n\nRails.application.config.assets.precompile += [\"admin.css\", \"admin.js\"]\n\n\nNote every file listed; you’ll need to include them explicitly in your layout (Step 6). Then delete the file:\n\nrm config/initializers/assets.rb   # if it exists\nrm app/assets/config/manifest.js   # the Sprockets manifest\n\n\nIn config/application.rb, remove any lines like:\n\nconfig.assets.paths << Rails.root.join('app', 'assets')\n\n\nPropshaft auto-loads subdirectories of app/assets, lib/assets, and vendor/assets. Files placed directly in app/assets/ itself won’t be found; they need to be in a subdirectory. Only add to config.assets.paths for paths outside these standard trees.\n\nIf you have require \"sprockets/railtie\" anywhere, remove it.\n\nStep 4: Remove Sprockets directives\n\nSprockets manifest syntax (//= directives) is meaningless to Propshaft. Find them:\n\ngrep -rn \"//= require\" app/assets/\n\n\nAssets are served from the load path directly. Replace //= require_tree with native ES module imports or Import Map <script> tags. Replace //= directives in CSS with native @import statements.\n\nBefore (Sprockets):\n\n// app/assets/javascripts/application.js\n//= require rails-ujs\n//= require_tree .\n\n\nAfter (Propshaft + Import Maps):\n\n<!-- handled via importmap-rails config/importmap.rb -->\n\n\nBefore (Sprockets):\n\n/* app/assets/stylesheets/application.css */\n/*\n *= require_tree .\n *= require_self\n */\n\n\nAfter (Propshaft + plain CSS):\n\n/* app/assets/stylesheets/application.css */\n@import \"variables.css\";\n@import \"components.css\";\n@import \"layout.css\";\n\n\nAfter (Propshaft + Sass from Step 1, rename the file to .scss):\n\n// app/assets/stylesheets/application.scss\n@import \"variables\";\n@import \"components\";\n@import \"layout\";\n\nStep 5: Replace Sprockets CSS helpers with standard url()\n\nSprockets provides helper functions like image-url() and asset-url() for use inside CSS files. Propshaft doesn’t. Instead, it rewrites standard url() calls. The path you pass is the asset’s logical path, relative to the load path root, not the filesystem.\n\nBefore:\n\nbackground: image-url('hero.jpg');\n\n\nAfter:\n\nbackground: url('/hero.jpg');\n\n\nIf your image is at app/assets/images/backgrounds/hero.jpg, reference it as url('/backgrounds/hero.jpg').\n\nTwo common mistakes:\n\nurl('hero.jpg') without a leading / is treated as relative to the CSS file’s directory, not the load path root. It won’t find files in images/ from inside stylesheets/.\nurl('/assets/images/hero.jpg') won’t work. /assets/ is the public URL prefix added at serve time, not part of the source path.\n\nIf you’re unsure of a file’s logical path, bin/rails assets:reveal is the source of truth.\n\nRails view helpers (image_tag, asset_path, asset_url) work unchanged.\n\nStep 6: Update your layout\n\nFor most apps, stylesheet_link_tag barely changes. \"application\" now refers to the compiled file Propshaft serves directly instead of a Sprockets manifest:\n\n<%= stylesheet_link_tag \"application\", \"data-turbo-track\": \"reload\" %>\n\n\nFiles from config.assets.precompile. If you found any extra files listed in config/initializers/assets.rb back in Step 3, those need to be included in your layout explicitly. Propshaft has no precompile list (everything in the load path is served), but you still need to link them:\n\n<%= stylesheet_link_tag \"application\", \"admin\", \"checkout\", \"data-turbo-track\": \"reload\" %>\n\n\nA note on :all and :app. :all includes every CSS file in the entire load path (including gems). :app includes only files from app/assets, the right default for most migrated apps:\n\n<%= stylesheet_link_tag :app, \"data-turbo-track\": \"reload\" %>\n\n\nUse explicit names only when you need to control load order or include files from outside app/assets.\n\nStep 7: Audit ActionText and third-party gem assets\n\nAfter switching to Propshaft, Trix editor styles from ActionText may stop loading. Check whether you’re using action_text/style or similar:\n\ngrep -rn \"action_text\" app/views/ app/assets/\n\n\nWith Propshaft, ActionText assets are accessible from the load path, but they won’t load automatically. If Trix styles are missing after the migration, add these imports to your stylesheet:\n\n@import url('/actiontext.css');\n@import url('/trix.css');\n\n\nIf you’re on an older ActionText version, update rails first.\n\nIf you need to read a gem asset’s content directly in Ruby (common for inline SVGs), use:\n\nRails.application.assets.load_path.find('logo.svg').content.html_safe\n\nStep 8: Verify in development\n\nStart your dev server:\n\nbin/dev\n\n\nCheck that:\n\nStylesheets load\nImages resolve\nJavaScript works\nAny fonts or icon sets are accessible\n\nIf something you expect is missing, run bin/rails assets:reveal, which lists every file and logical path Propshaft can see. If a file doesn’t appear there, its directory isn’t in the load path; add it via config.assets.paths.\n\nCommon Propshaft Migration Gotchas\n\nRunning assets:precompile in development kills dynamic resolution. Propshaft decides between static and dynamic resolution at boot time based on whether public/assets/.manifest.json exists. Running assets:precompile writes that manifest, and on the next boot Propshaft switches to static mode, serving only what’s in the manifest and ignoring any source changes. Fix it:\n\nbin/rails assets:clobber\n\n\nThis deletes public/assets/ including the manifest.\n\nSass partial files compiled as entry points. Dart Sass compiles any non-underscore .scss file it finds as an entry point. If you have partials not prefixed with _, rename them (_variables.scss). Don’t reach for a directory restructure.\n\nHaving both Propshaft and Sprockets active will cause conflicts. Treat them as mutually exclusive. Remove Sprockets fully before adding Propshaft, including transitive gem dependencies.\n\nGems that register assets through Sprockets. Some gems use initializer blocks that call config.assets.paths or register with Sprockets::Railtie. These will silently fail or raise after switching. Check the gem’s source or issues page for Propshaft compatibility.\n\njavascript_include_tag vs Import Maps. The tag still works. What changed is where the file comes from. If it was a Sprockets-bundled file, it now needs to be served directly by Propshaft (pre-compiled by esbuild or similar) or loaded via Import Maps.\n\nQuick Reference\nFeature\tSprockets\tPropshaft\nJS compilation\tCoffeeScript, Babel (via gems)\tNone: external bundler only\nCSS compilation\tSass, Less (via gems)\tNone: external bundler only\nERB in assets\tYes (.css.erb, .js.erb)\tNo\nFingerprinting\tManifest-based digest hashing\tLoad-path based digest hashing\nManifests\tmanifest.js directives\tNone: everything in load path is served automatically\nCSS URL helpers\timage-url('path')\tStandard url('path')\nPrecompile list\tconfig.assets.precompile\tNo list: load path is the list\nTL;DR\n\nDon’t migrate because Rails 8 ships Propshaft by default. Migrate because your app would genuinely benefit from a simpler pipeline. Those are different reasons, and only the second one is a good one.\n\nIf you’re weighing whether this fits into a broader Rails upgrade, get in touch.\n\nRelated Articles\nRuby 3.2 Is EOL: What You Actually Need to Do\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nHow I Audit a Legacy Rails Codebase in the First Week\nRails default_scope: Why You Should Never Use It\nLet's talk about your codebase.\nEmail\nMessage"
+}

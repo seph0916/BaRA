@@ -1,0 +1,81 @@
+{
+  "start_url": "https://balenchy.in/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://balenchy.in/",
+    "https://balenchy.in/search",
+    "https://balenchy.in/login?from=%2Forders",
+    "https://balenchy.in/bag",
+    "https://balenchy.in/HANDBAG/collection/fFGa-z4q",
+    "https://balenchy.in/collection/J0eLRQA0",
+    "https://balenchy.in/collection/2Zr9QQ02",
+    "https://balenchy.in/collection/XnKQkfmN",
+    "https://balenchy.in/BEST-SELLERS/collection/TVHvZ1Bu",
+    "https://balenchy.in/Green-Vegan-Leather-Satchel-For-Women-%7C-Casual-Embossed-Shoulder/catalogue/DrMsX-0Q/QO78DyUP",
+    "https://balenchy.in/Premium-Vegan-Leather-Satchel-Bag-with-Artistic-Car-Embossed-Design/catalogue/0eM8Ivy_/cCPgIvpU",
+    "https://balenchy.in/Green-Vegan-Leather-Satchel-For-Women-Casual-Embossed-Shoulder-Bag/catalogue/ydBzO9NT/H-AfZEJ7"
+  ],
+  "by_depth": {
+    "0": [
+      "https://balenchy.in/"
+    ],
+    "1": [
+      "https://balenchy.in/search",
+      "https://balenchy.in/login?from=%2Forders",
+      "https://balenchy.in/bag",
+      "https://balenchy.in/HANDBAG/collection/fFGa-z4q",
+      "https://balenchy.in/collection/J0eLRQA0"
+    ],
+    "2": [
+      "https://balenchy.in/collection/2Zr9QQ02",
+      "https://balenchy.in/collection/XnKQkfmN",
+      "https://balenchy.in/BEST-SELLERS/collection/TVHvZ1Bu",
+      "https://balenchy.in/Green-Vegan-Leather-Satchel-For-Women-%7C-Casual-Embossed-Shoulder/catalogue/DrMsX-0Q/QO78DyUP",
+      "https://balenchy.in/Premium-Vegan-Leather-Satchel-Bag-with-Artistic-Car-Embossed-Design/catalogue/0eM8Ivy_/cCPgIvpU",
+      "https://balenchy.in/Green-Vegan-Leather-Satchel-For-Women-Casual-Embossed-Shoulder-Bag/catalogue/ydBzO9NT/H-AfZEJ7",
+      "https://balenchy.in/Green-Vegan-Leather-Satchel-For-Women--Casual-Embossed-Shoulder/catalogue/6V53e8i3/hsYHr74E",
+      "https://balenchy.in/Brown--Vegan-Leather-Satchel-For-Women--Casual-Embossed/catalogue/qjB89CeK/XTzQuWeQ",
+      "https://balenchy.in/Black-Vegan-Leather-Satchel-For-Women-Casual-Embossed-Shoulder-Bag/catalogue/NuMsd2eR/MoKfsj89",
+      "https://balenchy.in/Black-Vegan-Leather-Satchel-For-Women-Casual-Embossed-Shoulder-Bag/catalogue/GzJds988/c8wyjoch",
+      "https://balenchy.in/Black-Vegan-Leather-Satchel-Bag-with-Artistic-Deer-Embossed-Design/catalogue/o_tdqbmK/zpCHaWma",
+      "https://balenchy.in/Black-Vegan-Leather-Satchel-Bag-with-Embossed-Elephant-and-Deer/catalogue/ZaegBuzp/74QxHbMk",
+      "https://balenchy.in/Brown-Vegan-Leather-Satchel-Bag-with-Artistic-Unicorn--/catalogue/XlfK-s2b/WrYwuNlC",
+      "https://balenchy.in/Green-Vega-Leather-Satchel-For-Women---Casual-Embossed/catalogue/S_X8Ahai/w7mOgfJo",
+      "https://balenchy.in/Brown-Vegan-Leather-Satchel-Bag-with-Artistic-Unicorn-Embossed-Design/catalogue/8fMqQq46/BoFZG1U8"
+    ],
+    "3": [
+      "https://balenchy.in/Designer-Tote-Bag-for-women--Premium-Vegan-Leather-Handbag/catalogue/kdi0hu6_/EB_cG6vZ",
+      "https://balenchy.in/Designer-tote-Bag--Luxury-Vegan-Leather-Handbag-with-Spacious/catalogue/xJcwc8IL/VnVrJFtn",
+      "https://balenchy.in/Handcrafted-Balenchy-Tote-Premium-Vegan-Leather-Fashion-Bag-for-Daily/catalogue/_p-DjTJp/ERkIg6Q1",
+      "https://balenchy.in/Designer-Tote-Bag-Premium-Brown-Vegan-Leather-with-Embossed-Deer/catalogue/j-aP2hl3/xAfzXwN4",
+      "https://balenchy.in/Brown-Vegan-Leather-Tote-Bag-with-Loving-Pigeons-Artwork-Luxury/catalogue/DKHQteTk/l2oJvPCH",
+      "https://balenchy.in/Balenchy-Womens-Blush-Pink-Premium-Vegan-Leather-Shoulder-Bag-with/catalogue/wTStZBce/8RJK9Ou1",
+      "https://balenchy.in/Balenchy-Womens-Maroon-Premium-Vegan-Leather-Shoulder-Bag-with-women/catalogue/9vBvse-i/QAqIo-u4",
+      "https://balenchy.in/SLING/catalogue/Vm2Cd_gB/9__GwCyF",
+      "https://balenchy.in/Balenchy-Womens-Blush-Pink-Premium-Vegan-Leather-Shoulder-Bag-with/catalogue/UzfPLpZb/ZpuSQAbJ",
+      "https://balenchy.in/Balenchy-Womens-Blush-Pink-Premium-Vegan-Leather-Shoulder-Bag-with/catalogue/xyZrGcRE/gIy0fNUd",
+      "https://balenchy.in/Balenchy-Premium-Vegan-Leather-Handbag-for-Women---Designer/catalogue/VBAldqbC/ZBOfNGYn",
+      "https://balenchy.in/Brown-Vegan-Leather-Satchel-For-Women---Casual-Embossed/catalogue/qs0KNUh3/w_GMddAj",
+      "https://balenchy.in/Vegan-Leather-Satchel-Bag-with-Embossed-Swan-Pair-Artwork-Luxury/catalogue/B7dn_abK/cq2p5pfR",
+      "https://balenchy.in/Vegan-Leather-Satchel-Bag-with-Embossed-Deer-Artwork-Luxury-Designer/catalogue/Vl96weBP/pNgG8n_j",
+      "https://balenchy.in/Black-Vegan-Leather-Satchel-Bag-with-Embossed-Cat-Artwork-Luxury/catalogue/LLkRcXz2/w4pr-h-D",
+      "https://balenchy.in/Balenchy-Premium-Vegan-Leather-Handbag-for-Women---Designer/catalogue/O9m-68cZ/A4Fq92th",
+      "https://balenchy.in/Balenchy-Nude-Blush-Designer-Handbag-%E2%80%93-Premium-Structured-Satchel/catalogue/oMNlDmkb/Vr6jwAoX",
+      "https://balenchy.in/Brown-%F0%9D%90%95%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB-Satchel-For-Women--Casual-%F0%9D%90%84%F0%9D%90%A6%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9D-Shoulder/catalogue/rtbfCjQX/IgEoD5Sa",
+      "https://balenchy.in/Green-Vegan-Leather-Satchel-For-Women---Casual-Embossed/catalogue/DrMsX-0Q/QO78DyUP",
+      "https://balenchy.in/Brown-Vegan-Leather-Satchel-For-Women---Casual-Embossed/catalogue/hut77kD5/xRz5oYC2",
+      "https://balenchy.in/about-us",
+      "https://balenchy.in/return-policy",
+      "https://balenchy.in/shipping-policy",
+      "https://balenchy.in/TOTE-BAG/collection/2Zr9QQ02",
+      "https://balenchy.in/SATCHEL-BAG/collection/J0eLRQA0",
+      "https://balenchy.in/Tan-Vegan-Leather-Satchel-For-Women-Casual-Embossed-Shoulder-Bag/catalogue/rfQlQ38V/cGt_ebv-",
+      "https://balenchy.in/Green-Vegan-Leather-Satchel-For-Women-Casual-Embossed-Shoulder-Bag/catalogue/9PG4PAKk/czVxheTH",
+      "https://balenchy.in/SLING-BAG/collection/XnKQkfmN",
+      "https://balenchy.in/NEW-ARRIVALS/collection/axKZxNXE"
+    ]
+  },
+  "dead_links": []
+}

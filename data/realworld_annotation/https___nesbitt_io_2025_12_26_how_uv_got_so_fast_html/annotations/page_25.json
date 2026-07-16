@@ -1,0 +1,299 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 72,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "git",
+            "href": "https://nesbitt.io/search#git"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "Bastien Guerry",
+            "href": "https://bzg.fr/"
+        },
+        {
+            "text": "Software Heritage",
+            "href": "https://www.softwareheritage.org/"
+        },
+        {
+            "text": "an idea",
+            "href": "https://nanodash.knowledgepixels.com/explore?id=https://w3id.org/np/RAJIQOw50gSAqzKUJoFSbNQghA_b72Y3-ImjTRN4YOF9s&label=Idea:+git+clone+from+SoftWare+Hash+IDentifiers&forward-to-part=true"
+        },
+        {
+            "text": "SWHID",
+            "href": "https://www.swhid.org/"
+        },
+        {
+            "text": "gitremote-helpers docs",
+            "href": "https://git-scm.com/docs/gitremote-helpers"
+        },
+        {
+            "text": "extending git functionality",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html"
+        },
+        {
+            "text": "import it",
+            "href": "https://archive.softwareheritage.org/save/"
+        },
+        {
+            "text": "API",
+            "href": "https://archive.softwareheritage.org/api/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#built-in"
+        },
+        {
+            "text": "smart HTTP protocol",
+            "href": "https://git-scm.com/docs/http-protocol"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#cloud-and-object-storage"
+        },
+        {
+            "text": "git-remote-dropbox",
+            "href": "https://github.com/anishathalye/git-remote-dropbox"
+        },
+        {
+            "text": "git-remote-s3",
+            "href": "https://github.com/awslabs/git-remote-s3"
+        },
+        {
+            "text": "git-remote-codecommit",
+            "href": "https://github.com/aws/git-remote-codecommit"
+        },
+        {
+            "text": "git-remote-rclone",
+            "href": "https://github.com/datalad/git-remote-rclone"
+        },
+        {
+            "text": "rclone",
+            "href": "https://rclone.org/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#encryption"
+        },
+        {
+            "text": "git-remote-gcrypt",
+            "href": "https://github.com/spwhitton/git-remote-gcrypt"
+        },
+        {
+            "text": "git-remote-encrypted",
+            "href": "https://github.com/GenerousLabs/git-remote-encrypted"
+        },
+        {
+            "text": "Keybase client",
+            "href": "https://github.com/keybase/client"
+        },
+        {
+            "text": "acquired by Zoom in 2020",
+            "href": "https://keybase.io/blog/keybase-joins-zoom"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#content-addressed-storage"
+        },
+        {
+            "text": "git-remote-ipfs",
+            "href": "https://github.com/cryptix/git-remote-ipfs"
+        },
+        {
+            "text": "dhappy/git-remote-ipfs",
+            "href": "https://github.com/dhappy/git-remote-ipfs"
+        },
+        {
+            "text": "git-remote-ipld",
+            "href": "https://github.com/ipfs-shipyard/git-remote-ipld"
+        },
+        {
+            "text": "Git-IPFS-Remote-Bridge",
+            "href": "https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#vcs-bridges"
+        },
+        {
+            "text": "git-remote-hg",
+            "href": "https://github.com/felipec/git-remote-hg"
+        },
+        {
+            "text": "git-remote-bzr",
+            "href": "https://github.com/felipec/git-remote-bzr"
+        },
+        {
+            "text": "git-remote-mediawiki",
+            "href": "https://github.com/Git-Mediawiki/Git-Mediawiki"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#p2p-and-decentralised"
+        },
+        {
+            "text": "git-remote-gittorrent",
+            "href": "https://github.com/cjb/GitTorrent"
+        },
+        {
+            "text": "git-remote-nostr",
+            "href": "https://github.com/gugabfigueiredo/git-remote-nostr"
+        },
+        {
+            "text": "Nostr",
+            "href": "https://nostr.com/"
+        },
+        {
+            "text": "git-remote-blossom",
+            "href": "https://github.com/lez/git-remote-blossom"
+        },
+        {
+            "text": "Blossom protocol",
+            "href": "https://github.com/hzrd149/blossom"
+        },
+        {
+            "text": "git-remote-ssb",
+            "href": "https://github.com/clehner/git-remote-ssb"
+        },
+        {
+            "text": "Secure Scuttlebutt",
+            "href": "https://scuttlebutt.nz/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#transport-wrappers"
+        },
+        {
+            "text": "git-remote-tor",
+            "href": "https://github.com/agentofuser/git-remote-tor"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#blockchain"
+        },
+        {
+            "text": "git-remote-gitopia",
+            "href": "https://github.com/harry-hov/git-remote-gitopia"
+        },
+        {
+            "text": "Gitopia",
+            "href": "https://gitopia.com/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html#other-storage-backends"
+        },
+        {
+            "text": "git-remote-sqlite",
+            "href": "https://github.com/chrislloyd/git-remote-sqlite"
+        },
+        {
+            "text": "Litestream",
+            "href": "https://litestream.io/"
+        },
+        {
+            "text": "git-remote-restic",
+            "href": "https://github.com/CGamesPlay/git-remote-restic"
+        },
+        {
+            "text": "restic",
+            "href": "https://restic.net/"
+        },
+        {
+            "text": "git-remote-couch",
+            "href": "https://github.com/peritus/git-remote-couch"
+        },
+        {
+            "text": "git-remote-grave",
+            "href": "https://github.com/rovaughn/git-remote-grave"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2026-03-18-git-remote-helpers.md"
+        },
+        {
+            "text": "Git Diff Drivers",
+            "href": "https://nesbitt.io/2026/03/30/git-diff-drivers.html"
+        },
+        {
+            "text": "Forge-Specific Repository Folders",
+            "href": "https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html"
+        },
+        {
+            "text": "Git's Magic Files",
+            "href": "https://nesbitt.io/2026/02/05/git-magic-files.html"
+        },
+        {
+            "text": "Extending Git Functionality",
+            "href": "https://nesbitt.io/2025/11/26/extending-git-functionality.html"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2026/03/18/git-remote-helpers.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2026-03-18-git-remote-helpers.md"
+        }
+    ],
+    "text_length": 8733,
+    "text_full": "Andrew Nesbitt\n      \nGit Remote Helpers\ngitreference\n\nMar 18, 2026\n\nBastien Guerry from Software Heritage recently nerd-sniped me with an idea for a git-remote-swh that would let you git clone from a SWHID, pulling source code directly from Software Heritage’s archive by content hash rather than by URL. Building that means writing a git remote helper, which sent me back to the gitremote-helpers docs and down the rabbit hole of how many of these things already exist. I covered remote helpers briefly in my earlier post on extending git functionality, but the protocol deserves a closer look.\n\nA git-remote-swh would need to be an executable on your $PATH so that git invokes it when it sees a URL like swh://. The helper and git talk over stdin/stdout using a text-based line protocol. For git-remote-swh the end goal would be something like:\n\ngit clone swh://swh:1:rev:676fe44740a14c4f0e09ef4a6dc335864e1727ca;origin=https://github.com/wikimedia/mediawiki\n\n\nOr using the double-colon form, which reads a bit cleaner when adding a remote:\n\ngit remote add archive swh::swh:1:rev:676fe44740a14c4f0e09ef4a6dc335864e1727ca;origin=https://github.com/wikimedia/mediawiki\n\n\nThe SWHID identifies a specific revision by content hash, and the origin qualifier tells the helper where to fall back if that revision isn’t in the archive yet. The helper would resolve the SWHID against Software Heritage’s archive, and if the revision isn’t archived yet, use the origin qualifier to ask Software Heritage to import it first, so the clone always comes through the archive and can be verified against the content hash. You’d end up with git clone as a content-addressed fetch primitive rather than just a URL fetch, which is an interesting building block for reproducible builds and supply chain verification.\n\nGit opens by sending capabilities and the helper responds with what it can do: fetch, push, import, export, connect, or some combination. A SWHID helper would only need import and list since Software Heritage is a read-only archive and its API returns objects individually rather than as packfiles. import lets the helper pull snapshots, revisions, trees, and blobs via the REST API and stream them into git’s fast-import format, which is easier to implement than fetch where you’d have to reconstruct packfiles yourself for not much gain on a read-only helper. connect establishes a bidirectional pipe where git speaks its native pack protocol as if it were talking to a real git server, but that only makes sense when the remote actually speaks git’s wire protocol.\n\nAfter capability negotiation, git sends list to get the remote’s refs, then issues import commands in batches. For a SWHID helper, list would resolve the SWHID against Software Heritage’s API, translate the archive’s snapshot into a ref listing, and then import would stream the objects through as fast-import data. Each batch ends with a blank line, and the helper responds with status lines like ok refs/heads/main or error refs/heads/main <reason>.\n\nWriting a remote helper from scratch is more work than writing a git subcommand but less work than building a full git server. Most implementations are a few hundred to a few thousand lines of code, and the hardest part is mapping git’s object model onto whatever storage backend you’re targeting. Software Heritage already stores git objects natively, so a SWHID helper might be one of the easier ones to build.\n\nBuilt-in#\n\nGit ships with remote helpers for its standard network transports, and they follow the same protocol as everything else below.\n\ngit-remote-http / git-remote-https implement the smart HTTP protocol that most hosted git services use\ngit-remote-ftp / git-remote-ftps fetch over FTP, though this is rarely used in practice\ngit-remote-ext pipes git’s protocol through an arbitrary command, which makes it a building block for custom transports without writing a full remote helper\nCloud and object storage#\ngit-remote-dropbox stores git repos in Dropbox using the Dropbox API, and is one of the better documented remote helpers if you’re looking for implementation examples.\ngit-remote-s3 from AWS Labs uses S3 as a serverless git server with LFS support. Written in Rust. There are several other S3-backed helpers floating around but this is the most complete.\ngit-remote-codecommit provides authenticated access to AWS CodeCommit repositories without needing to configure SSH keys or manage HTTPS credentials manually.\ngit-remote-rclone pushes and fetches through rclone, so it gets rclone’s 70+ cloud storage providers for free: Google Drive, Azure Blob Storage, Backblaze B2, and the rest.\nEncryption#\ngit-remote-gcrypt encrypts an entire git repository with GPG before pushing it to any standard git remote. The remote stores only encrypted data, so you can use an untrusted host as a private git server with multiple participants sharing access through GPG’s key infrastructure.\ngit-remote-encrypted takes a different approach where each git object is individually encrypted before being stored as a file in a separate git repository. The remote looks like a normal git repo full of encrypted blobs.\ngit-remote-keybase was part of the Keybase client and stored encrypted git repos on Keybase’s infrastructure using the Keybase identity and key management system. Keybase was acquired by Zoom in 2020 and the service has been winding down since.\nContent-addressed storage#\ngit-remote-ipfs maps git objects onto IPFS, storing repositories in a content-addressed merkle DAG. Written in Go using the IPFS API. Several other IPFS-based remote helpers exist (dhappy/git-remote-ipfs, git-remote-ipld, Git-IPFS-Remote-Bridge) taking slightly different approaches to the same problem.\nVCS bridges#\ngit-remote-hg lets you clone and push to Mercurial repositories transparently using git commands, converting between the two object models on the fly using the fast-import/fast-export capabilities.\ngit-remote-bzr does the same for Bazaar repositories, also by Felipe Contreras.\ngit-remote-mediawiki treats a MediaWiki instance as a git remote where each wiki page becomes a file. You can clone a wiki, edit pages locally with your text editor, and push changes back. Written in Perl.\nP2P and decentralised#\ngit-remote-gittorrent distributed git over BitTorrent, using a DHT for peer discovery and Bitcoin’s blockchain for user identity. A research prototype from 2015 that demonstrated the concept but never saw wide adoption.\ngit-remote-nostr publishes git objects as Nostr events, using the relay network for distribution.\ngit-remote-blossom builds on the Blossom protocol, a Nostr-adjacent system for content-addressed blob storage.\ngit-remote-ssb stored repositories on Secure Scuttlebutt, a gossip-based peer-to-peer protocol where data replicates through social connections rather than central servers. Dormant since the SSB ecosystem contracted.\nTransport wrappers#\n\nThese don’t provide their own storage or collaboration model, they wrap existing git remotes with a different transport layer, closer in spirit to the built-in git-remote-ext than to the storage-backed helpers above.\n\ngit-remote-tor routes git traffic through Tor hidden services, written in Rust.\nBlockchain#\ngit-remote-gitopia pushes repositories to Gitopia, a code collaboration platform built on the Cosmos blockchain where repository metadata and access control live on-chain.\nOther storage backends#\ngit-remote-sqlite stores git objects as rows in a SQLite database, which can then be replicated using tools like Litestream.\ngit-remote-restic bridges git and restic backup repositories, inheriting restic’s encryption and support for dozens of storage backends.\ngit-remote-couch stores git repos in CouchDB, gaining CouchDB’s replication and conflict resolution for free.\ngit-remote-grave pushes repositories into a content-addressable store that deduplicates across multiple repos.\n\nIf I’ve missed one, reach out on Mastodon or submit a pull request on GitHub.\n\nRelated posts\nGit Diff Drivers Mar 30, 2026\n\nWhat git's diff drivers can do, from built-in language support to custom textconv filters.\n\nForge-Specific Repository Folders Feb 22, 2026\n\nMagic folders in git forges: what .github/, .gitlab/, .gitea/, .forgejo/ and .bitbucket/ do.\n\nGit's Magic Files Feb 5, 2026\n\nMagic files and where to find them: .gitignore, .gitattributes, .mailmap, .git-blame-ignore-revs, .lfsconfig, and more.\n\nExtending Git Functionality Nov 26, 2025\n\nA practical guide to the different ways you can extend git: subcommands, filters, hooks, remote helpers, and more.\n\nPackage Security Problems for AI Agents Apr 8, 2026\n\nPackages all the way down, agents all the way up.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

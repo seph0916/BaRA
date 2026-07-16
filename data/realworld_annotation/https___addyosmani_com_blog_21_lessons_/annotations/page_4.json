@@ -1,0 +1,227 @@
+{
+    "image_count": 19,
+    "images": [
+        "https://addyosmani.com/assets/images/dont-outsource-learning.jpg",
+        "https://addyosmani.com/assets/images/cognitive-surrender.jpg",
+        "https://addyosmani.com/assets/images/addys-agent-skills.jpg",
+        "https://addyosmani.com/assets/images/long-running.jpg",
+        "https://addyosmani.com/assets/images/agent-harness.jpg",
+        "https://addyosmani.com/assets/images/aeo.jpg",
+        "https://addyosmani.com/assets/images/parallel.jpg",
+        "https://addyosmani.com/assets/images/orchestra.jpg",
+        "https://addyosmani.com/assets/images/comprehension.jpg",
+        "https://addyosmani.com/assets/images/factory-model.jpg",
+        "https://addyosmani.com/assets/images/agents-md.jpg",
+        "https://addyosmani.com/assets/images/bias.jpg",
+        "https://substackcdn.com/image/fetch/w_400,h_264,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92e68469-3507-45d0-8655-6acf0ee6c9fb_2214x1350.jpeg",
+        "https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e49ab22-0fac-4959-afa6-b6e226056db4_6072x6072.jpeg",
+        "https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d283126-d408-4ff8-89f6-f58875463ab0_6072x6072.jpeg",
+        "https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb81bb65e-89ee-426a-8e6b-fe263a1e8b7d_6072x6072.jpeg",
+        "https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d099969-2182-41e9-9a68-0c8ba4603a7a_6072x6072.jpeg",
+        "https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf8b5750-c1fd-4549-a956-e59eb6980289_6072x6072.png",
+        "https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce78670-de84-4adb-a854-4b3e84e32e2b_6072x6072.jpeg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 49,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "Substack",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "LeadDev",
+            "href": "https://leaddev.com/community/addy-osmani"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/dont-outsource-learning/"
+        },
+        {
+            "text": "Don't Outsource the Learning",
+            "href": "https://addyosmani.com/blog/dont-outsource-learning/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/cognitive-surrender/"
+        },
+        {
+            "text": "Cognitive Surrender",
+            "href": "https://addyosmani.com/blog/cognitive-surrender/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/agent-skills/"
+        },
+        {
+            "text": "Agent Skills",
+            "href": "https://addyosmani.com/blog/agent-skills/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/long-running-agents/"
+        },
+        {
+            "text": "Long-running Agents",
+            "href": "https://addyosmani.com/blog/long-running-agents/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/agent-harness-engineering/"
+        },
+        {
+            "text": "Agent Harness Engineering",
+            "href": "https://addyosmani.com/blog/agent-harness-engineering/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/agentic-engine-optimization/"
+        },
+        {
+            "text": "Agentic Engine Optimization (AEO)",
+            "href": "https://addyosmani.com/blog/agentic-engine-optimization/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/cognitive-parallel-agents/"
+        },
+        {
+            "text": "Your parallel Agent limit",
+            "href": "https://addyosmani.com/blog/cognitive-parallel-agents/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/code-agent-orchestra/"
+        },
+        {
+            "text": "The Code Agent Orchestra - what makes multi-agent coding work",
+            "href": "https://addyosmani.com/blog/code-agent-orchestra/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/comprehension-debt/"
+        },
+        {
+            "text": "Comprehension Debt - the hidden cost of AI generated code.",
+            "href": "https://addyosmani.com/blog/comprehension-debt/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/factory-model/"
+        },
+        {
+            "text": "The Factory Model: How Coding Agents Changed Software Engineering",
+            "href": "https://addyosmani.com/blog/factory-model/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/agents-md/"
+        },
+        {
+            "text": "Stop Using /init for AGENTS.md",
+            "href": "https://addyosmani.com/blog/agents-md/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/blog/bias-towards-action/"
+        },
+        {
+            "text": "Bias Toward Action",
+            "href": "https://addyosmani.com/blog/bias-towards-action/"
+        },
+        {
+            "text": "Older Posts →",
+            "href": "https://addyosmani.com/blog/page2/"
+        },
+        {
+            "text": "Future-proofing your Software Engineering career",
+            "href": "https://addyo.substack.com/p/future-proofing-your-software-engineering"
+        },
+        {
+            "text": "The 70% problem: Hard truths about AI-assisted coding",
+            "href": "https://addyo.substack.com/p/the-70-problem-hard-truths-about"
+        },
+        {
+            "text": "User-centric engineering",
+            "href": "https://addyo.substack.com/p/user-centric-engineering"
+        },
+        {
+            "text": "There is no right time. Just time and what you do with it.",
+            "href": "https://addyo.substack.com/p/there-is-no-right-time-just-time"
+        },
+        {
+            "text": "Comparison is the thief of joy",
+            "href": "https://addyo.substack.com/p/comparison-is-the-thief-of-joy"
+        },
+        {
+            "text": "Focus on what you can control",
+            "href": "https://addyo.substack.com/p/focus-on-what-you-can-control"
+        },
+        {
+            "text": "10 lessons from 12 years at Google",
+            "href": "https://addyo.substack.com/p/10-lessons-from-12-years-at-google"
+        },
+        {
+            "text": "Grow your influence like a leader, not a boss",
+            "href": "https://leaddev.com/leadership/grow-your-influence-like-a-leader-not-a-boss"
+        },
+        {
+            "text": "How to build an effective technical strategy",
+            "href": "https://leaddev.com/technical-direction/how-build-effective-technical-strategy"
+        },
+        {
+            "text": "How to keep up with tech trends and upskill sustainably",
+            "href": "https://leaddev.com/career-development/how-keep-tech-trends-and-upskill-sustainably"
+        },
+        {
+            "text": "Navigating competing priorities as an engineer",
+            "href": "https://leaddev.com/career-development/navigating-competing-priorities-engineer"
+        },
+        {
+            "text": "Managing the chaos of context switching",
+            "href": "https://leaddev.com/velocity/managing-chaos-context-switching"
+        },
+        {
+            "text": "Focus on outcomes over outputs",
+            "href": "https://leaddev.com/velocity/focus-outcomes-over-outputs"
+        },
+        {
+            "text": "What makes an effective software engineer?",
+            "href": "https://leaddev.com/career-development/what-makes-effective-software-engineer"
+        }
+    ],
+    "text_length": 2816,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nYou can find my latest AI engineing articles on Substack, leadership on LeadDev and my personal blog posts below.\nPersonal Blog\nMay 16 2026\nDon't Outsource the Learning\n\nMay 05 2026\nCognitive Surrender\n\nMay 03 2026\nAgent Skills\n\nApr 28 2026\nLong-running Agents\n\nApr 19 2026\nAgent Harness Engineering\n\nApr 11 2026\nAgentic Engine Optimization (AEO)\n\nApr 07 2026\nYour parallel Agent limit\n\nMar 26 2026\nThe Code Agent Orchestra - what makes multi-agent coding work\n\nMar 14 2026\nComprehension Debt - the hidden cost of AI generated code.\n\nFeb 25 2026\nThe Factory Model: How Coding Agents Changed Software Engineering\n\nFeb 23 2026\nStop Using /init for AGENTS.md\n\nFeb 15 2026\nBias Toward Action\n\nOlder Posts →\nSubstack\nFuture-proofing your Software Engineering career\n\nPractical strategies for engineering careers in the future\n\nAddy Osmani\n8 min read\nThe 70% problem: Hard truths about AI-assisted coding\n\nA field guide and why we need to rethink our expectations\n\nDec 4\n❤️ 235\nUser-centric engineering\n\nEngineering with user empathy is the foundation of great products\n\nNov 14\n❤️ 31\nThere is no right time. Just time and what you do with it.\n\nHow to thrive in imperfect conditions\n\nAug 22\n❤️ 74\nComparison is the thief of joy\n\nNavigating comparison with mindfulness\n\nAug 14\n❤️ 46\nFocus on what you can control\n\nActionable advice for empowerment\n\nJun 23\n❤️ 50\n10 lessons from 12 years at Google\n\nMy lessons learned along the way.\n\nMay 13\n❤️ 130\nLeadDev\nGrow your influence like a leader, not a boss\n\nExtending your influence past your immediate circle isn't as straightforward as you'd like to hope. But there are a few strategies you can employ to help.\n\nHow to build an effective technical strategy\n\nBuilding a tech strategy requires a lot of moving parts. Learn about what routes to take and whether decisions should be top-down.\n\nHow to keep up with tech trends and upskill sustainably\n\nWith so many developments in the tech world it's difficult to keep up. Here are some strategies to stay on top of your upskilling.\n\nNavigating competing priorities as an engineer\n\nHow can you prioritize when everyone's ask is an urgency and you don't have time to fit it all in?\n\nManaging the chaos of context switching\n\nIt's time to examine the good, the bad, and the very ugly elements of context switching. Even better, we'll take a look at some strategies for managing it.\n\nFocus on outcomes over outputs\n\nSoftware engineering teams should focus on outcomes over outputs to deliver the best user and business value.\n\nWhat makes an effective software engineer?\n\nBeing a good software engineer is not necessarily the same as being an effective one. Here, Google's Addy Osmani identifies the ten key traits of effective software engineers.\n\n© Copyright 2026 Addy Osmani"
+}

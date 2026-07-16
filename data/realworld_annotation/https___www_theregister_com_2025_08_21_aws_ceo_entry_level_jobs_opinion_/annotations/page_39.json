@@ -1,0 +1,580 @@
+{
+    "image_count": 32,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://beta.theregister.com/files/2025/12/01/hpe_logo_full_clr_pos_rgb.png",
+        "https://image.theregister.com/223706.jpg?imageId=223706&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684448.jpg?imageId=1684448&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/260522.jpg?imageId=260522&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258824.jpg?imageId=258824&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245663.jpg?imageId=245663&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225317.jpg?imageId=225317&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228521.jpg?imageId=228521&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/239766.jpg?imageId=239766&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247568.jpg?imageId=247568&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227457.jpg?imageId=227457&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/240702.jpg?imageId=240702&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252407.jpg?imageId=252407&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243610.jpg?imageId=243610&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225878.jpg?imageId=225878&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227408.jpg?imageId=227408&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684361.jpg?imageId=1684361&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228315.jpg?imageId=228315&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684063.jpg?imageId=1684063&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256057.jpg?imageId=256057&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252646.jpg?imageId=252646&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684446.jpg?imageId=1684446&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228636.jpg?imageId=228636&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226722.jpg?imageId=226722&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261856.jpg?imageId=261856&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/152946.jpg?imageId=152946&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245224.jpg?imageId=245224&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 134,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "AI is rewriting how power flows through the datacenter\n\nRising rack densities are driving changes from grid connection to chip-level delivery",
+            "href": "https://www.theregister.com/special-features/2025/12/22/ai-is-rewriting-how-power-flows-through-the-datacenter/2878979"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2025/12/22/ai_power_datacenter/"
+        },
+        {
+            "text": "All aglow about DCs, investors launch $300M at microreactor startup\n\nStartup expects its first Kaleidos reactor to power on at Idaho National Lab next year",
+            "href": "https://www.theregister.com/special-features/2025/12/17/radiant-bags-300m-plus-to-commercialize-its-microreactors/2737986"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2025/12/17/smr_investment/"
+        },
+        {
+            "text": "Why do bit barns keep bumping up our bills, Senators ask DC operators\n\nAmazon, meanwhile, claims its datacenters are helping ratepayers despite tons of evidence to the contrary",
+            "href": "https://www.theregister.com/special-features/2025/12/16/senate-trio-questions-dc-operators-over-rising-energy-costs/2022453"
+        },
+        {
+            "text": "21",
+            "href": "https://forums.theregister.com/forum/all/2025/12/16/datacenters_energy_bills_dc/"
+        },
+        {
+            "text": "From Georgia to Essex, AI datacenters are testing public goodwill\n\nCommunities on both sides of the Atlantic push back against rapid build-outs",
+            "href": "https://www.theregister.com/special-features/2025/12/16/from-georgia-to-essex-datacenters-test-public-goodwill/1855407"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2025/12/16/datacenter_development_controversy/"
+        },
+        {
+            "text": "Building the AI factory datacenter\n\nPractical lessons on power, modular build, networking and AIOps from HPE's Dave Strong",
+            "href": "https://www.theregister.com/special-features/2025/12/16/building-the-ai-factory-datacenter/2565820"
+        },
+        {
+            "text": "Delays? What delays? Oracle insists its $300B cloud contract with OpenAI is on track\n\nAnd don't sweat the debt either, we've got plenty of capital at our disposal",
+            "href": "https://www.theregister.com/special-features/2025/12/15/oracle-insists-its-300b-contract-with-openai-is-on-schedule/2014362"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2025/12/15/oracle_denies_openai_delays/"
+        },
+        {
+            "text": "Hyperscalers fuel $112B server spending spree in Q3\n\nIDC's latest tracker numbers were brought to you by the letters A and I",
+            "href": "https://www.theregister.com/special-features/2025/12/15/hyperscalers-fuel-112b-server-spending-spree-in-q3/2393592"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/12/15/idc_server_storage_q3/"
+        },
+        {
+            "text": "AI datacenter boom could end badly, Goldman Sachs warns\n\nBank sketches four scenarios in which monetization falters or demand swamps supply by 2030",
+            "href": "https://www.theregister.com/special-features/2025/12/12/ai-datacenter-boom-could-end-badly-goldman-sachs-warns/2565049"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2025/12/12/ai_datacenter_investments_goldman/"
+        },
+        {
+            "text": "Qualcomm takes RISC on Arm alternative with Ventana acquisition\n\nCalifornia chipset giant says it’ll develop Arm and RISC-V CPU cores in parallel",
+            "href": "https://www.theregister.com/special-features/2025/12/10/qualcomm-takes-risc-on-arm-alternative-with-ventana-buy/2292187"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/12/10/qualcomm_riscv_arm_ventana/"
+        },
+        {
+            "text": "Galactic Brain space datacenter coming in 2027, pledges startup Aetherflux\n\nGetting inferencing infrastructure into orbit may soon be cheaper than building it down here",
+            "href": "https://www.theregister.com/special-features/2025/12/10/galactic-brain-space-datacenter-promised-in-2027/2410190"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2025/12/10/aetherflux_space_datacenter_2027/"
+        },
+        {
+            "text": "Activist groups urge Congress to pause US datacenter buildouts\n\nBad for consumers, bad for the environment, 230+ groups say",
+            "href": "https://www.theregister.com/special-features/2025/12/09/activist-groups-urge-congress-to-pause-datacenter-buildouts/2285638"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2025/12/09/datacenter_pause_congress_help/"
+        },
+        {
+            "text": "AI mania to swell datacenter capex to $1.6T by 2030 – if the bubble doesn't pop first\n\nAnalysts say demand keeps rising despite constraints, shaky returns, and mounting investor nerves",
+            "href": "https://www.theregister.com/special-features/2025/12/09/omdia-expects-datacenter-capex-to-hit-16t-by-2030/2244808"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2025/12/09/omdia_datacenter_capex/"
+        },
+        {
+            "text": "Bezos-backed Unconventional AI aims to make datacenter power problems go away\n\nStartup wagers the path to sustainable AI might be found in nature’s most amazing design - the brain",
+            "href": "https://www.theregister.com/special-features/2025/12/08/bezos-backed-unconventional-ai-addresses-datacenter-power/2006862"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2025/12/08/unconventional_ai/"
+        },
+        {
+            "text": "Meta and Google turn to NextEra to feed insatiable datacenter power hunger\n\nThe Chocolate Factory will also put its AI to work inside one of America’s biggest utilities",
+            "href": "https://www.theregister.com/special-features/2025/12/08/meta-and-google-tap-nextera-to-feed-their-hungry-datacenters/2461346"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2025/12/08/nextera_meta_google_datacenter_power/"
+        },
+        {
+            "text": "Datacenters are hoarding grid power just in case, says Uptime Institute\n\nWarning that over-reserved capacity is blocking new connections",
+            "href": "https://www.theregister.com/special-features/2025/12/08/datacenters-accused-of-hoarding-grid-capacity/2133134"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2025/12/08/uptime_institute_datacenter_grid/"
+        },
+        {
+            "text": "Amazon’s Trainium3 is the latest to conform to Nvidia’s mold\n\nFrom Amazon to AMD, everything looks like an NVL72 now",
+            "href": "https://www.theregister.com/special-features/2025/12/07/amazons-trainium3-is-the-latest-to-conform-to-nvidias-mold/2618312"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2025/12/07/trainium3_all_nvidia_nvl72_mold/"
+        },
+        {
+            "text": "Palantir wants to set the juice loose with new AI power initiative\n\nNvidia is along for the ride with chips to offer, naturally",
+            "href": "https://www.theregister.com/special-features/2025/12/04/palantir-aims-to-help-energy-companies-meet-ai-power-crunch/2369920"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2025/12/04/palantir_chain_reaction/"
+        },
+        {
+            "text": "Datacenters planned for Scotland could end up draining a loch of power\n\n3 GW is roughly three quarters of the country's peak demand, says Foxglove",
+            "href": "https://www.theregister.com/special-features/2025/12/04/datacenters-planned-for-scotland-could-drain-a-loch-of-power/1944565"
+        },
+        {
+            "text": "147",
+            "href": "https://forums.theregister.com/forum/all/2025/12/04/scottish_datacenter_power/"
+        },
+        {
+            "text": "Datacenters that don't have their own power supplies will fail\n\nIt's time to ask your bit barn provider how they'll keep the lights on, and what their plans mean for prices",
+            "href": "https://www.theregister.com/special-features/2025/12/04/datacenters-must-generate-their-own-power-or-fail/2354924"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2025/12/04/gartner_datacenter_power_emerging_technologies/"
+        },
+        {
+            "text": "HPE backs AMD's Helios AI rack with Juniper's scale-up switch\n\nHardware bundle ties next-gen accelerators to an Ethernet fabric arriving in 2026",
+            "href": "https://www.theregister.com/special-features/2025/12/02/hpe-to-ship-rack-scale-ai-system-using-amds-helios-in-2026/2254787"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2025/12/02/hpe_amd_helios_racks/"
+        },
+        {
+            "text": "London grid crunch delays new housing amid datacenter boom\n\nAssembly report urges clearer planning as soaring AI power demands strain capital's network",
+            "href": "https://www.theregister.com/special-features/2025/12/02/london-grid-crunch-delays-new-housing-amid-datacenter-boom/2396873"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2025/12/02/london_datacenter_new_homes/"
+        },
+        {
+            "text": "Britain plots atomic reboot as datacenter demand surges\n\nTaskforce calls UK the priciest place on Earth to build nuclear projects and urges radical regulatory reset",
+            "href": "https://www.theregister.com/special-features/2025/11/25/britain-plots-atomic-reboot-as-datacenter-demand-surges/2218297"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2025/11/25/uk_nuclear_power_reform/"
+        },
+        {
+            "text": "Open Compute Project figuring out how to get quantum computers into classical datacenters\n\nIt’s an ethereal and weighty problem, not a powerful conundrum",
+            "href": "https://www.theregister.com/special-features/2025/11/21/ocp-learning-how-to-get-quantum-computers-into-existing-dcs/1892666"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2025/11/21/ocp_hpc_quantum_datacenter_integration/"
+        },
+        {
+            "text": "AMD taking AI fight to Nvidia with Helios rack-scale system\n\nCEO Lisa Su says next-gen MI400 GPUs and architecture gaining traction with hyperscalers",
+            "href": "https://www.theregister.com/special-features/2025/11/05/amd-taking-ai-fight-to-nvidia-with-helios-rack-scale-system/1208044"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2025/11/05/amd_pins_its_hopes_on/"
+        },
+        {
+            "text": "Nvidia pitches Omniverse DSX as model for gigawatt-scale AI factories\n\nGPU giant teams with partners to create digital twin blueprint for next-gen datacenters",
+            "href": "https://www.theregister.com/special-features/2025/10/29/nvidias-ai-factory-dream-gets-the-omniverse-treatment/566763"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2025/10/29/nvidia_omniverse_dsx/"
+        },
+        {
+            "text": "Qualcomm announces AI accelerators and mysterious racks they’ll run in\n\nHouse of the Snapdragon promises – without much detail – this kit will enable coolly efficient inferencing",
+            "href": "https://www.theregister.com/special-features/2025/10/28/qualcomm-announces-ai-accelerators-and-racks-theyll-run-in/446065"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2025/10/28/qualcom_ai_accelerators/"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 5319,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nThe Future of the Datacenter | The Register\nSponsored By\nTHE FUTURE OF THE DATACENTER\n\nThe Register embarks on a deep technical exploration into the next generation of datacenter design and infrastructure as the massive AI-driven buildout gets underway. We'll dig into the technicalities of photonic computing, liquid cooling systems, and the implementation of advanced neural network processors within datacenter environments. We'll also look at the energy necessary to power the buildout, including advances in clean energy and concerns about the grid.\n\nAI is rewriting how power flows through the datacenter\n\nRising rack densities are driving changes from grid connection to chip-level delivery\n\n5 months|9\nAll aglow about DCs, investors launch $300M at microreactor startup\n\nStartup expects its first Kaleidos reactor to power on at Idaho National Lab next year\n\n5 months|12\nWhy do bit barns keep bumping up our bills, Senators ask DC operators\n\nAmazon, meanwhile, claims its datacenters are helping ratepayers despite tons of evidence to the contrary\n\n5 months|21\nFrom Georgia to Essex, AI datacenters are testing public goodwill\n\nCommunities on both sides of the Atlantic push back against rapid build-outs\n\n5 months|24\nBuilding the AI factory datacenter\n\nPractical lessons on power, modular build, networking and AIOps from HPE's Dave Strong\n\n5 months\nDelays? What delays? Oracle insists its $300B cloud contract with OpenAI is on track\n\nAnd don't sweat the debt either, we've got plenty of capital at our disposal\n\n5 months|7\nHyperscalers fuel $112B server spending spree in Q3\n\nIDC's latest tracker numbers were brought to you by the letters A and I\n\n5 months|6\nAI datacenter boom could end badly, Goldman Sachs warns\n\nBank sketches four scenarios in which monetization falters or demand swamps supply by 2030\n\n5 months|32\nQualcomm takes RISC on Arm alternative with Ventana acquisition\n\nCalifornia chipset giant says it’ll develop Arm and RISC-V CPU cores in parallel\n\n5 months|4\nGalactic Brain space datacenter coming in 2027, pledges startup Aetherflux\n\nGetting inferencing infrastructure into orbit may soon be cheaper than building it down here\n\n5 months|27\nActivist groups urge Congress to pause US datacenter buildouts\n\nBad for consumers, bad for the environment, 230+ groups say\n\n5 months|9\nAI mania to swell datacenter capex to $1.6T by 2030 – if the bubble doesn't pop first\n\nAnalysts say demand keeps rising despite constraints, shaky returns, and mounting investor nerves\n\n5 months|10\nBezos-backed Unconventional AI aims to make datacenter power problems go away\n\nStartup wagers the path to sustainable AI might be found in nature’s most amazing design - the brain\n\n5 months|27\nMeta and Google turn to NextEra to feed insatiable datacenter power hunger\n\nThe Chocolate Factory will also put its AI to work inside one of America’s biggest utilities\n\n5 months|0\nDatacenters are hoarding grid power just in case, says Uptime Institute\n\nWarning that over-reserved capacity is blocking new connections\n\n5 months|31\nAmazon’s Trainium3 is the latest to conform to Nvidia’s mold\n\nFrom Amazon to AMD, everything looks like an NVL72 now\n\n5 months|8\nPalantir wants to set the juice loose with new AI power initiative\n\nNvidia is along for the ride with chips to offer, naturally\n\n6 months|8\nDatacenters planned for Scotland could end up draining a loch of power\n\n3 GW is roughly three quarters of the country's peak demand, says Foxglove\n\n6 months|147\nDatacenters that don't have their own power supplies will fail\n\nIt's time to ask your bit barn provider how they'll keep the lights on, and what their plans mean for prices\n\n6 months|9\nHPE backs AMD's Helios AI rack with Juniper's scale-up switch\n\nHardware bundle ties next-gen accelerators to an Ethernet fabric arriving in 2026\n\n6 months|0\nLondon grid crunch delays new housing amid datacenter boom\n\nAssembly report urges clearer planning as soaring AI power demands strain capital's network\n\n6 months|32\nBritain plots atomic reboot as datacenter demand surges\n\nTaskforce calls UK the priciest place on Earth to build nuclear projects and urges radical regulatory reset\n\n6 months|28\nOpen Compute Project figuring out how to get quantum computers into classical datacenters\n\nIt’s an ethereal and weighty problem, not a powerful conundrum\n\n6 months|10\nAMD taking AI fight to Nvidia with Helios rack-scale system\n\nCEO Lisa Su says next-gen MI400 GPUs and architecture gaining traction with hyperscalers\n\n6 months|4\nNvidia pitches Omniverse DSX as model for gigawatt-scale AI factories\n\nGPU giant teams with partners to create digital twin blueprint for next-gen datacenters\n\n7 months|1\nQualcomm announces AI accelerators and mysterious racks they’ll run in\n\nHouse of the Snapdragon promises – without much detail – this kit will enable coolly efficient inferencing\n\n7 months|1\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

@@ -1,0 +1,107 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 24,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "leadership",
+            "href": "https://piechowski.io/tags/leadership"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "technical-debt",
+            "href": "https://piechowski.io/tags/technical-debt"
+        },
+        {
+            "text": "engineering-management",
+            "href": "https://piechowski.io/tags/engineering-management"
+        },
+        {
+            "text": "Skip to the audit",
+            "href": "https://piechowski.io/post/codebase-drag-audit/#the-codebase-drag-audit-a-diagnostic-you-can-run-this-week"
+        },
+        {
+            "text": "default scopes",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "DORA",
+            "href": "https://dora.dev/research/"
+        },
+        {
+            "text": "run five git commands",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        },
+        {
+            "text": "make a metric look good",
+            "href": "https://martinfowler.com/bliki/TestCoverage.html"
+        },
+        {
+            "text": "Preventing setup rot",
+            "href": "https://rietta.com/blog/prevent-an-outdated-and-broken-bin-setup-with-this-simple-trick/"
+        },
+        {
+            "text": "2025 METR study",
+            "href": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
+        },
+        {
+            "text": "version upgrade",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "one-week codebase audit",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Happy to talk through it",
+            "href": "https://piechowski.io/post/codebase-drag-audit/#footer"
+        },
+        {
+            "text": "The Git Commands I Run Before Reading Any Code",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "How to Close a Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabclose/"
+        }
+    ],
+    "text_length": 11103,
+    "text_full": "Work With Me\nGithub\nBlog\nWhy Your Engineering Team Is Slow (It's the Codebase, Not the People)\n\nA two-minute interactive audit to score whether technical debt is dragging your engineering team. Five signals that separate people problems from code problems.\n\nAlly Piechowski · Mar 31, 2026 · 10 min read\nlegacy\nleadership\ndevelopment\ntechnical-debt\nengineering-management\n\nA client’s team spent a full week adding a CSV export to their admin panel. Two engineers, clear requirements, maybe a day of actual work. The rest of the time went to understanding existing code well enough to change it safely. That’s what I call codebase drag: when the codebase makes every task take longer than it should. It doesn’t show up in any dashboard or sprint report.\n\nThe team slows down. Every time, leadership decides it’s a people problem. Maybe the seniors got complacent, maybe the new hires need more support. So they reorganize, add process, sometimes let people go. Then the next team hits the same wall.\n\nBecause it was never the people. It was the codebase.\n\nNot bugs, not missing features. Not even what most teams mean when they say “technical debt.” Technical debt is what’s wrong with the code. Codebase drag is what it costs your team to work in it anyway.\n\nAfter years of codebase audits, the same five signals keep showing up, so I finally put them into a scoring rubric: The Codebase Drag Audit. Five signals, scored 0 to 2. If you hit 4 or above, the code needs direct investment before anything else will help. (Skip to the audit)\n\n5 Signs Your Codebase Is Punishing Your Team\n1. The Apology Estimate\n\n“Knowing this codebase, it’ll probably take about two weeks.” I hear some version of this on every engagement. The feature should take three days. The engineer says two weeks. Leadership assumes they’re padding. Or just slow.\n\nThey’re pricing in drag.\n\nThey know that changing the billing module means touching the notification system, because somewhere along the way those two got coupled through a shared service object that nobody remembers writing. They know the last person who modified that module broke checkout for three hours. Hidden patterns like default scopes or deeply nested callbacks mean the blast radius of a change is impossible to predict without reading half the codebase. The estimate isn’t padded. It’s honest. The codebase just costs that much to work in.\n\nWhen estimates consistently run 2-3x what the work “should” take, it’s not an estimation problem. Your engineers know what the codebase costs. They’ve just stopped trying to explain it.\n\n2. Deploy Fear\n\nWhen’s the last time your team deployed on a Friday? If that question gets a laugh, you have deploy fear.\n\nDeploy fear shows up as batching. Instead of shipping as they go, the team groups releases into big, infrequent deploys.\n\nOne client’s team had an unofficial rule: no deploys after Wednesday. Nobody wrote it down. It just became the rule after three Thursday deploys in a row caused weekend incidents. No rollback strategy, tests you couldn’t trust, and a deploy pipeline that took 45 minutes. Of course they stopped deploying on Thursdays. What else would you do? DORA defines elite teams as deploying on demand with change failure rates under 5%. This team was doing one deploy a week and holding their breath.\n\n3. The “Don’t Touch That” File\n\n“Don’t touch that file.” I hear it on almost every engagement. Usually within the first two days, always casual. Like it’s just how things work around here.\n\nA billing controller with 30 before_actions. A model that tops git log every time but nobody’s touched structurally in years. I run five git commands on every new codebase to see which files have been touched repeatedly. The file at the top is almost always the one people warned me about. And if it’s all small patches with no structural work, that tells you everything: people are treating the symptoms and leaving the disease alone.\n\nThe real cost isn’t the file. It’s that features which should live in that module get built somewhere else instead. New engineers figure out to stay away within their first week. Over time the codebase grows around the dead zone like a tree growing around a fence post.\n\nAsk your tech leads which files they’d be nervous to refactor. You’ll learn more from that conversation than from any metrics dashboard.\n\n4. The Coverage Lie\n\n80% test coverage. The dashboard looks healthy. But the three models that handle money have zero tests, and the coverage number is carried by hundreds of tests on serializers, helpers, and utility methods that rarely break.\n\nI’ve started calling this the coverage lie: when a test suite exists to make a metric look good rather than to catch regressions. Tests pass, production breaks anyway. Engineers stop trusting the suite and start manual-testing critical paths before deploys, which feeds deploy fear.\n\nCI takes 40 minutes, so developers stop running tests locally. Now the coverage number is lying twice: the tests don’t cover what matters, and the ones that exist aren’t even being run. Bugs surface later. By the time someone notices, the engineer who wrote that code is three tickets deep into something else.\n\nForget the coverage number. The real question: when’s the last time a test actually caught a bug before production? If your team has to think about it, the suite isn’t doing its job.\n\n5. Time to First Commit\n\nHand a new engineer a laptop. How long until they open a pull request with a real change? Not a README fix. An actual bug fix or small feature.\n\nIn a healthy codebase, this takes a day or two. The README has setup instructions that actually work and the test suite runs locally. In a dragging codebase, I’ve seen this take two weeks or more. One client’s dev environment setup took weeks before I got involved. After I fixed it, a new dev was up and running in 15 to 20 minutes.\n\nThe thing that mattered more: devs could reset to a clean slate at any time. Before, if your dev environment broke, you were manually rebuilding and reinstalling everything from scratch. So people were afraid to experiment. They’d tiptoe around their own setup the same way they tiptoed around the code.\n\nThe culprit is usually setup rot. The bin/setup script hasn’t been updated since the last developer environment change. Seed data references tables or columns that no longer exist. There are three undocumented environment variables that you only learn about when the app crashes on boot. Preventing setup rot is cheap, but nobody owns it, so it decays quietly.\n\nTime to first commit matters because it’s the one signal you can’t work around. Your existing engineers have already internalized all the undocumented steps. A new hire exposes exactly how much accumulated knowledge the codebase demands before anyone can be productive in it.\n\nWhy Good Engineers Look Slow in Bad Codebases\n\nThese five signals compound. Every task carries overhead that nobody can point to in a standup. An engineer who shipped features in two days at their last job takes a week here. When they try to explain why, it sounds like excuses even to them.\n\nA 2025 METR study found experienced developers were 19% slower with AI tools. Typing was never the bottleneck.\n\nYour best engineers slow down the most. They see the risk. They know that changing this file might break that flow. So they move carefully, write defensive code, pad their estimates. A less experienced engineer might ship faster by not seeing the danger, then cause the production incident that makes everyone even more cautious next sprint.\n\nOne client cycled through six engineering teams in ten years, including two full acquisitions. The pattern repeated every time: leadership pushes for features, debt remediation gets skipped, the code starts to feel unrecoverable. Someone proposes a rewrite or a microservices extraction. That makes things worse, because now you have two systems instead of one and the original is still there. The next team inherits all of it.\n\nWhen leadership reads slowness as a people problem, they make it worse. They add process on top of friction the team is already struggling under. The only intervention that actually helps is fixing the paths.\n\nThe Codebase Drag Audit: A Diagnostic You Can Run This Week\n\nScore each signal from 0 to 2. Click the cell that best describes your team.\n\nCodebase Drag Audit scoring rubric. Click a cell in each row to score.\nSignal\t0\t1\t2\nApology Estimate\t\nEstimates are usually accurate\n\t\nSome tasks consistently run over\n\t\nEngineers pad every estimate because “this codebase”\n\nDeploy Fear\t\nTeam deploys daily without stress\n\t\nDeploys happen but require extra coordination or caution\n\t\nDeploys are batched, avoided, or require a “deploy captain”\n\n“Don’t Touch That” File\t\nMost of the codebase is approachable\n\t\nA few files are avoided but understood\n\t\nParts of the codebase have become dead zones the team builds around instead of fixing\n\nCoverage Lie\t\nTests regularly catch real regressions\n\t\nTests exist but engineers still manually verify critical paths before deploying\n\t\nTests pass but production still breaks regularly\n\nTime to First Commit\t\nNew hires commit meaningful code in days\n\t\nSetup takes a week with hand-holding\n\t\nNew hires need 2+ weeks before they can contribute\nScore: 0 / 10\nSelect your scores above.\nWhat to Do About Codebase Drag\n\nThe audit gives the developer productivity problem a name and a number. Something you can put in front of a stakeholder who controls the roadmap.\n\nStart with the highest-scoring signal. Don’t try to fix everything. If deploy fear scored a 2, the first investment is CI speed, rollback automation, and smaller deploy units. If the apology estimate is highest, start by decoupling the modules with the widest blast radius. If the codebase is also several Rails versions behind, the version upgrade is often the forcing function that justifies the investment. If time to first commit scored a 2, a single day fixing bin/setup and documenting the environment will pay for itself with every future hire.\n\nGive it two weeks. Pick the top signal, run a focused sprint, and measure something concrete. Deploy frequency is the easiest one to track, but estimate accuracy or time-to-first-PR work too depending on which signal you’re targeting. Not a rewrite. One targeted investment the team can feel.\n\nThe hardest part is getting the investment approved, because the cost of not doing it is invisible. That’s where the audit earns its keep. “Every feature takes roughly twice as long because of coupling in these three modules” is a different conversation than “we have tech debt.”\n\nIf you scored 7 or above, that’s the range where most of my client engagements start. I usually begin with a one-week codebase audit and work from there. Happy to talk through it.\n\nRelated Articles\nThe Git Commands I Run Before Reading Any Code\nHow I Audit a Legacy Rails Codebase in the First Week\nRuby 3.2 Is EOL: What You Actually Need to Do\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nHow to Close a Tab in Vim\nLet's talk about your codebase.\nEmail\nMessage"
+}

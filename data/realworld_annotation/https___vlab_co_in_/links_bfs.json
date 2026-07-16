@@ -1,0 +1,67 @@
+{
+  "start_url": "https://vlab.co.in/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://vlab.co.in/",
+    "https://www.vlab.co.in/",
+    "https://www.vlab.co.in/about-us",
+    "https://centraloutreach.vlabs.co.in/",
+    "https://www.vlab.co.in/participating-institutes",
+    "https://www.vlab.co.in/contact-us",
+    "https://www.vlab.co.in/broad-area-electronics-and-communications",
+    "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "https://www.vlab.co.in/broad-area-chemical-engineering",
+    "https://www.vlab.co.in/faq",
+    "https://centraloutreach.vlabs.co.in/dashboard/",
+    "https://www.vlab.co.in/index.php",
+    "https://www.vlab.co.in/ba-nptel-labs-electronics-and-communications",
+    "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering",
+    "https://www.vlab.co.in/ba-nptel-labs-electrical-engineering",
+    "https://www.vlab.co.in/ba-nptel-labs-mechanical-engineering",
+    "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering",
+    "https://www.vlab.co.in/participating-institute-iit-delhi",
+    "https://www.vlab.co.in/participating-institute-iit-kanpur",
+    "https://www.vlab.co.in/participating-institute-iit-bombay",
+    "https://www.vlab.co.in/participating-institute-iit-kharagpur",
+    "https://www.vlab.co.in/participating-institute-iit-roorkee"
+  ],
+  "by_depth": {
+    "0": [
+      "https://vlab.co.in/"
+    ],
+    "1": [
+      "https://www.vlab.co.in/",
+      "https://www.vlab.co.in/about-us",
+      "https://centraloutreach.vlabs.co.in/",
+      "https://www.vlab.co.in/participating-institutes",
+      "https://www.vlab.co.in/contact-us"
+    ],
+    "2": [
+      "https://www.vlab.co.in/broad-area-electronics-and-communications",
+      "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+      "https://www.vlab.co.in/broad-area-electrical-engineering",
+      "https://www.vlab.co.in/broad-area-mechanical-engineering",
+      "https://www.vlab.co.in/broad-area-chemical-engineering",
+      "https://www.vlab.co.in/faq",
+      "https://centraloutreach.vlabs.co.in/dashboard/"
+    ],
+    "3": [
+      "https://www.vlab.co.in/index.php",
+      "https://www.vlab.co.in/ba-nptel-labs-electronics-and-communications",
+      "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering",
+      "https://www.vlab.co.in/ba-nptel-labs-electrical-engineering",
+      "https://www.vlab.co.in/ba-nptel-labs-mechanical-engineering",
+      "https://www.vlab.co.in/ba-nptel-labs-chemical-engineering",
+      "https://www.vlab.co.in/participating-institute-iit-delhi",
+      "https://www.vlab.co.in/participating-institute-iit-kanpur",
+      "https://www.vlab.co.in/participating-institute-iit-bombay",
+      "https://www.vlab.co.in/participating-institute-iit-kharagpur",
+      "https://www.vlab.co.in/participating-institute-iit-roorkee"
+    ]
+  },
+  "dead_links": []
+}

@@ -1,0 +1,499 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://www.vlab.co.in/images/fb-icon.png",
+        "https://www.vlab.co.in/images/logo.jpg",
+        "https://www.vlab.co.in/images/qr-code-mob6.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 121,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.facebook.com/VLabsIITDelhi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "ABOUT US",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "OUTREACH PORTAL",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "PARTICIPATING INSTITUTES",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "CONTACT US",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Outreach Portal",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "Python Programming Lab",
+            "href": "https://python-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Soft Computing Tools in Engineering Lab",
+            "href": "https://scte-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Software Engineering Lab",
+            "href": "https://se-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Digital Logic Circuit Design Virtual Lab (New)",
+            "href": "https://dlcd-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Creative Design, Prototyping & Experiential Lab",
+            "href": "https://cpe-iitg.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Problem Solving Lab",
+            "href": "https://ps-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Python Programming Lab: Advanced Topics (New)",
+            "href": "https://python-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Artificial Intelligence II Lab (New)",
+            "href": "https://ai2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Data Structures - I",
+            "href": "https://ds1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Data Structures - II",
+            "href": "https://ds2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Artificial Intelligence I Lab (New)",
+            "href": "https://ai1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Computer Graphics Lab (New)",
+            "href": "https://cse18-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Discrete Mathematics Virtual Lab I (New)",
+            "href": "https://dm1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Discrete Mathematics Virtual Lab II (New)",
+            "href": "https://dm2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Automata and Formal Languages Virtual Lab I (New)",
+            "href": "https://afl1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Automata and Formal Languages Virtual Lab II (New)",
+            "href": "https://afl2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Distributed Systems Virtual Lab I (New)",
+            "href": "https://dsys1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Distributed Systems Virtual Lab II (New)",
+            "href": "https://dsys2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Computer Networks Lab (New)",
+            "href": "https://cn-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Advanced Computer Architecture Virtual Lab (New)",
+            "href": "https://aca-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Pattern Recognition Virtual Lab",
+            "href": "https://cse20-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Artificial Neural Networks Lab",
+            "href": "https://cse22-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/courses/105104131/",
+            "href": "http://nptel.ac.in/courses/105104131/"
+        },
+        {
+            "text": "Internet of Things (IoT) Virtual Lab (New)",
+            "href": "https://iot-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Formal Language Automata Virtual Lab (New)",
+            "href": "http://fla-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Introductory Cyber Security Virtual Lab (New)",
+            "href": "https://ics-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Computer Forensics Lab (New)",
+            "href": "https://cf-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Network Security Virtual Lab (New)",
+            "href": "https://ns-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Introductory Data Science Lab (New)",
+            "href": "https://ids-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Artificial Intelligence Virtual Lab (New)",
+            "href": "http://ai-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Blockchain Virtual Lab (New)",
+            "href": "https://bc-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Cryptography Virtual Lab (New)",
+            "href": "https://cpy-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Object Oriented Programming Virtual Lab II (New)",
+            "href": "https://oop-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Database Security Virtual Lab (New)",
+            "href": "https://ds-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Quantum Computing Virtual Lab (New)",
+            "href": "https://qc-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Machine Learning Virtual Laboratory (New)",
+            "href": "https://ml-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Design and Analysis of Algorithms Virtual Lab (New)",
+            "href": "https://daa-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Computer Organisation and Architecture Lab",
+            "href": "https://coa-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/courses/Webcourse-contents/IIT-%20Guwahati/comp_org_arc/web/",
+            "href": "http://nptel.ac.in/courses/Webcourse-contents/IIT-%20Guwahati/comp_org_arc/web/"
+        },
+        {
+            "text": "Computer Programming Lab",
+            "href": "https://cse02-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/courses/106105085/4",
+            "href": "http://nptel.ac.in/courses/106105085/4"
+        },
+        {
+            "text": "Computer Organization Lab",
+            "href": "https://cse11-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/video.php?subjectId=106106092",
+            "href": "http://nptel.ac.in/video.php?subjectId=106106092"
+        },
+        {
+            "text": "Speech Signal Processing Lab",
+            "href": "https://ssp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/syllabus/117104023/",
+            "href": "http://nptel.ac.in/syllabus/117104023/"
+        },
+        {
+            "text": "Image Processing Lab",
+            "href": "https://cse19-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/video.php?subjectId=117105079",
+            "href": "http://nptel.ac.in/video.php?subjectId=117105079"
+        },
+        {
+            "text": "Computational Linguistics Lab",
+            "href": "https://cl-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Natural Language Processing Lab",
+            "href": "https://nlp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "Cryptography Lab",
+            "href": "https://cse29-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "http://nptel.ac.in/courses/106105031/",
+            "href": "http://nptel.ac.in/courses/106105031/"
+        },
+        {
+            "text": "IIT DELHI",
+            "href": "https://www.vlab.co.in/participating-institute-iit-delhi"
+        },
+        {
+            "text": "IIT KANPUR",
+            "href": "https://www.vlab.co.in/participating-institute-iit-kanpur"
+        },
+        {
+            "text": "IIT BOMBAY",
+            "href": "https://www.vlab.co.in/participating-institute-iit-bombay"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://www.vlab.co.in/participating-institute-iit-kharagpur"
+        },
+        {
+            "text": "IIT ROORKEE",
+            "href": "https://www.vlab.co.in/participating-institute-iit-roorkee"
+        },
+        {
+            "text": "IIT GUWAHATI",
+            "href": "https://www.vlab.co.in/participating-institute-iit-guwahati"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://www.vlab.co.in/participating-institute-iiit-hyderabad"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://www.vlab.co.in/participating-institute-amrita-vishwa-vidyapeetham"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://www.vlab.co.in/participating-institute-dayalbagh"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://www.vlab.co.in/participating-institute-nitk-surathkal"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://www.vlab.co.in/participating-institute-coe-pune"
+        },
+        {
+            "text": "Lab Feedback Form",
+            "href": "http://38.100.110.143/feedback/feedback.html"
+        },
+        {
+            "text": "Lab Assessment Form",
+            "href": "http://38.100.110.143/labassessment/assessmentform.html"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.vlab.co.in/faq"
+        },
+        {
+            "text": "Shakshat Portal",
+            "href": "http://www.sakshat.ac.in/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        }
+    ],
+    "text_length": 3516,
+    "text_full": "21 May, 2026 | 06:12:07 AM\nVisitors  51333608\nAn Initiative of\nMinistry of Education\nUnder the National Mission on Education through ICT\nHOME\nABOUT US\nOUTREACH PORTAL\nPARTICIPATING INSTITUTES\nNMEICT\nCONTACT US\nComputer Science & Engineering - NPTEL Labs\nHome » NPTEL Labs Computer Science & Engineering\nComputer Science & Engineering\nPython Programming Lab\nIIT KANPUR\nSoft Computing Tools in Engineering Lab\nIIT KHARAGPUR\nSoftware Engineering Lab\nIIT KHARAGPUR\nDigital Logic Circuit Design Virtual Lab (New)\nIIT KHARAGPUR\nCreative Design, Prototyping & Experiential Lab\nIIT GUWAHATI\nProblem Solving Lab\nIIIT HYDERABAD\nPython Programming Lab: Advanced Topics (New)\nIIIT HYDERABAD\nArtificial Intelligence II Lab (New)\nIIIT HYDERABAD\nData Structures - I\nIIIT HYDERABAD\nData Structures - II\nIIIT HYDERABAD\nArtificial Intelligence I Lab (New)\nIIIT HYDERABAD\nComputer Graphics Lab (New)\nIIIT HYDERABAD\nDiscrete Mathematics Virtual Lab I (New)\nIIIT HYDERABAD\nDiscrete Mathematics Virtual Lab II (New)\nIIIT HYDERABAD\nAutomata and Formal Languages Virtual Lab I (New)\nIIIT HYDERABAD\nAutomata and Formal Languages Virtual Lab II (New)\nIIIT HYDERABAD\nDistributed Systems Virtual Lab I (New)\nIIIT HYDERABAD\nDistributed Systems Virtual Lab II (New)\nIIIT HYDERABAD\nComputer Networks Lab (New)\nIIIT HYDERABAD\nAdvanced Computer Architecture Virtual Lab (New)\nIIIT HYDERABAD\nPattern Recognition Virtual Lab\nIIIT HYDERABAD\nArtificial Neural Networks Lab\nIIIT HYDERABAD\nhttp://nptel.ac.in/courses/105104131/\nInternet of Things (IoT) Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nFormal Language Automata Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nIntroductory Cyber Security Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nComputer Forensics Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nNetwork Security Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nIntroductory Data Science Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nArtificial Intelligence Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nBlockchain Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nCryptography Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nObject Oriented Programming Virtual Lab II (New)\nAMRITA VISHWA VIDYAPEETHAM\nDatabase Security Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nQuantum Computing Virtual Lab (New)\nAMRITA VISHWA VIDYAPEETHAM\nMachine Learning Virtual Laboratory (New)\nDAYALBAGH\nDesign and Analysis of Algorithms Virtual Lab (New)\nDAYALBAGH\nComputer Organisation and Architecture Lab\nIIT KHARAGPUR\nhttp://nptel.ac.in/courses/Webcourse-contents/IIT-%20Guwahati/comp_org_arc/web/\nComputer Programming Lab\nIIIT HYDERABAD\nhttp://nptel.ac.in/courses/106105085/4\nComputer Organization Lab\nIIIT HYDERABAD\nhttp://nptel.ac.in/video.php?subjectId=106106092\nSpeech Signal Processing Lab\nIIIT HYDERABAD\nhttp://nptel.ac.in/syllabus/117104023/\nImage Processing Lab\nIIIT HYDERABAD\nhttp://nptel.ac.in/video.php?subjectId=117105079\nComputational Linguistics Lab\nIIIT HYDERABAD\nNatural Language Processing Lab\nIIIT HYDERABAD\nCryptography Lab\nIIIT HYDERABAD\nhttp://nptel.ac.in/courses/106105031/\nAbout VLAB\nIIT DELHI\nIIT KANPUR\nIIT BOMBAY\nIIT KHARAGPUR\nIIT ROORKEE\nIIT GUWAHATI\nIIIT HYDERABAD\nAMRITA VISHWA VIDYAPEETHAM\nDAYALBAGH\nNITK SURATHKAL\nCOEP Technological University Pune\n\nQuick Links\n\nLab Feedback Form\nLab Assessment Form\nFAQ\nShakshat Portal\n\nAbout VLAB\n\nHome\nAbout us\nContact Us\n\nGet In Touch With Us\n\n  support@vlab.co.in\n   Phone(O) - +91-9211460624\n  Wireless Research Lab\nRoom No - 206/IIA\nBharti School of Telecom\nIndian Institute of Technology Delhi\nHauz Khas, New Delhi-110016"
+}

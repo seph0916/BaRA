@@ -1,0 +1,171 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 40,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "More about consulting services",
+            "href": "https://nesbitt.io/consulting/"
+        },
+        {
+            "text": "coordination problem endlessly interesting",
+            "href": "https://nesbitt.io/2025/12/09/why-im-fascinated-by-package-management"
+        },
+        {
+            "text": "reference materials and deep dives on package managers",
+            "href": "https://nesbitt.io/package-managers/"
+        },
+        {
+            "text": "Ecosyste.ms",
+            "href": "https://ecosyste.ms/"
+        },
+        {
+            "text": "git-pkgs",
+            "href": "https://github.com/andrew/git-pkgs"
+        },
+        {
+            "text": "dependency history searchable",
+            "href": "https://nesbitt.io/2026/01/01/git-pkgs-explore-your-dependency-history"
+        },
+        {
+            "text": "supply chain security tooling",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby"
+        },
+        {
+            "text": "purl",
+            "href": "https://github.com/andrew/purl"
+        },
+        {
+            "text": "vers",
+            "href": "https://github.com/andrew/vers"
+        },
+        {
+            "text": "sbom",
+            "href": "https://github.com/andrew/sbom"
+        },
+        {
+            "text": "swhid",
+            "href": "https://github.com/andrew/swhid"
+        },
+        {
+            "text": "changelog-parser",
+            "href": "https://github.com/andrew/changelog-parser"
+        },
+        {
+            "text": "diffoscope",
+            "href": "https://github.com/andrew/diffoscope"
+        },
+        {
+            "text": "Libraries.io",
+            "href": "https://libraries.io/"
+        },
+        {
+            "text": "The Manifest",
+            "href": "https://manifest.fm/"
+        },
+        {
+            "text": "Package Management devroom",
+            "href": "https://fosdem.org/2026/schedule/track/package-management/"
+        },
+        {
+            "text": "CHAOSS Package Metadata Working Group",
+            "href": "https://github.com/chaoss/wg-package-metadata"
+        },
+        {
+            "text": "documenting how package managers work",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data"
+        },
+        {
+            "text": "node-sass",
+            "href": "https://www.npmjs.com/package/node-sass"
+        },
+        {
+            "text": "Split",
+            "href": "https://github.com/splitrb/split"
+        },
+        {
+            "text": "Octobox",
+            "href": "https://octobox.io/"
+        },
+        {
+            "text": "Homebrew Bundle",
+            "href": "https://github.com/Homebrew/homebrew-bundle"
+        },
+        {
+            "text": "24 Pull Requests",
+            "href": "https://24pullrequests.com/"
+        },
+        {
+            "text": "turbocharged Subaru BRZ",
+            "href": "https://www.instagram.com/wj68rzx"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "Bluesky",
+            "href": "https://bsky.app/profile/andrewnez.bsky.social"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/teabass"
+        },
+        {
+            "text": "CV",
+            "href": "https://nesbitt.io/cv/"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        }
+    ],
+    "text_length": 4130,
+    "text_full": "Andrew Nesbitt\n      \nAbout\n\nI’m Andrew Nesbitt. I’ve spent the last decade thinking about package management.\n\nI’m available for consulting on package management, software supply chain security, and open source infrastructure. I’ve worked at GitHub and Tidelift, and contributed to working groups at Alpha-Omega, OpenSSF, CycloneDX, and CHAOSS. More about consulting services.\n\nPackage managers are the invisible plumbing of modern software. Millions of developers share code through these systems, trusting that dependencies will resolve, versions will be compatible, and the packages they install are what they claim to be. Most of the time it works. When it doesn’t, things break in ways that ripple across the entire ecosystem. I find this coordination problem endlessly interesting.\n\nI’ve been putting together a collection of reference materials and deep dives on package managers, covering how dependency resolution works, the tradeoffs different ecosystems make, and the people who build these systems.\n\nMy main project is Ecosyste.ms, a set of open APIs and datasets tracking over 11 million packages, 260 million repositories, and 22 billion dependencies. I built it because understanding software supply chains requires data that didn’t exist in one place. Now researchers use it to study ecosystem health, funders use it to find critical projects that need support, and security teams use it to understand blast radius when vulnerabilities appear.\n\nI’m also developing git-pkgs, a git subcommand that makes your dependency history searchable. It traces who added each package and when, across 30+ ecosystems.\n\nI’ve also published Ruby implementations of the specs that supply chain security tooling depends on: purl, vers, sbom, swhid, changelog-parser, and diffoscope.\n\nBefore Ecosyste.ms I built Libraries.io, which ran for about seven years. It started as a discovery tool for finding libraries, but over time I realized the more interesting problem was the dependency graph underneath. Tracking how packages depend on each other across ecosystems taught me how different package managers solve the same problems in different ways, and how much hidden complexity exists in the systems developers take for granted. Ecosyste.ms is what I built once I understood what I actually wanted to know.\n\nI co-hosted The Manifest, a podcast where we interviewed the people who build and maintain package managers. It’s been on hiatus for a while, but across fifty-plus episodes we talked to maintainers from npm, RubyGems, Cargo, pip, Homebrew, and plenty of others. Those conversations shaped how I think about the tradeoffs these systems make and why different ecosystems evolved the way they did.\n\nI co-organize the Package Management devroom at FOSDEM, where package manager maintainers from across ecosystems present their work and compare notes. I’m also part of the CHAOSS Package Metadata Working Group, where we’re documenting how package managers work: commands, manifest formats, APIs, and the metadata they expose.\n\nSome of my other notable open source projects:\n\nnode-sass - Node.js bindings to libsass, now deprecated. Over 1.3 billion downloads.\nSplit - A/B testing framework for Ruby. Nearly 9 million gem downloads.\nOctobox - A better way to manage GitHub notifications. Almost 2 million Docker pulls.\nHomebrew Bundle - Bundler-style dependency management for Homebrew, now part of Homebrew core.\n24 Pull Requests - An advent calendar for open source contributions, running every December since 2012. One of the first projects of its kind, with 239 contributors.\n\nI’m based in the UK and have been part of the Ruby community here for years, speaking at Brighton Ruby, Bath Ruby, and meetups around Bristol. When I’m not thinking about dependencies, I’m usually at a track day in my turbocharged Subaru BRZ.\n\nYou can find me on GitHub and Mastodon. I’m also on Bluesky and Twitter but rarely check either. There’s also my CV.\n\nIf you want to chat about package management, open source sustainability, or have me on your podcast, email me at andrew@ecosyste.ms.\n\nMastodon · GitHub · RSS · Stats · Search · About"
+}

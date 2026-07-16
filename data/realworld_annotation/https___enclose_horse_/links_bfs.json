@@ -1,0 +1,33 @@
+{
+  "start_url": "https://enclose.horse/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://enclose.horse/",
+    "https://enclose.horse/edit",
+    "https://enclose.horse/levels",
+    "https://enclose.horse/about-us",
+    "https://enclose.horse/about",
+    "https://enclose.horse/strategy",
+    "https://enclose.horse/contact",
+    "https://enclose.horse/tutorial"
+  ],
+  "by_depth": {
+    "0": [
+      "https://enclose.horse/"
+    ],
+    "1": [
+      "https://enclose.horse/edit",
+      "https://enclose.horse/levels",
+      "https://enclose.horse/about-us",
+      "https://enclose.horse/about",
+      "https://enclose.horse/strategy"
+    ],
+    "2": [
+      "https://enclose.horse/contact",
+      "https://enclose.horse/tutorial"
+    ]
+  },
+  "dead_links": []
+}

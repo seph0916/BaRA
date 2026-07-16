@@ -1,0 +1,91 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://mahadk.com/_astro/og-example.CpMB1Div_Z2w8gTs.webp",
+        "https://mahadk.com/posts/astro-og-with-satori/og.png",
+        "https://mahadk.com/_astro/hc-icon.DZgRWiaK_1X3xi2.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "Mahad Kalam",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Projects",
+            "href": "https://mahadk.com/projects"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "Contact",
+            "href": "https://mahadk.com/contact"
+        },
+        {
+            "text": "my blog post on using Satori with your project’s Tailwind config.",
+            "href": "https://mahadk.com/posts/satori-with-tailwind-config"
+        },
+        {
+            "text": "Outfit",
+            "href": "https://fonts.google.com/specimen/Outfit"
+        },
+        {
+            "text": "Google Fonts.",
+            "href": "https://fonts.google.com/"
+        },
+        {
+            "text": "a bug in Satori",
+            "href": "https://github.com/vercel/satori/issues/162"
+        },
+        {
+            "text": "Back to all blog posts",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Subscribe on RSS",
+            "href": "https://mahadk.com/rss.xml"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/skyfall_ggs"
+        },
+        {
+            "text": "Update image link for Spaces admin panel screenshot\n(8f92858)",
+            "href": "https://github.com/SkyfallWasTaken/skyfall-site/commit/8f92858"
+        },
+        {
+            "text": "512KB Club\nTeam Blue",
+            "href": "https://512kb.club/"
+        },
+        {
+            "text": "‹",
+            "href": "https://saleh.hackclub.com/"
+        },
+        {
+            "text": "",
+            "href": "https://webring.hackclub.com/"
+        },
+        {
+            "text": "›",
+            "href": "https://doruk.dino.icu/"
+        }
+    ],
+    "text_length": 8371,
+    "text_full": "Mahad Kalam\nHome /\nBlog /\nProjects /\nGitHub /\nContact\nHow to generate OpenGraph images with Astro and Satori\n\nWhen you share a link on social media, you want it to stand out. That’s where OpenGraph (OG) images come in - they’re the eye-catching previews that automatically appear when your content is shared on platforms like Twitter/X, Facebook, or Discord.\n\nOG images aren’t just for show however - they’re incredibly powerful for boosting engagement. Research have shown that content with custom OpenGraph images attracts 2.3x more clicks compared to plain links, making them a great way to increase engagement and drive traffic to your site.\n\nThe problem is that making these images manually can be tedious, especially for sites with lots of content. In this post, I’ll show you how to automatically create beautiful OpenGraph images for your Astro site using Satori, a library that makes it easy to generate images using React or Preact components. By the end of this tutorial, you’ll have:\n\nAutomatic OG image generation for all your blog posts\nA reusable template that maintains your brand identity\nBetter-looking link previews across all social platforms\nInstalling dependencies\n\nWe’ll first need to download the dependencies we need. I’ll be using Preact in this tutorial, but React works too (albeit with a few minor changes in the imports and types). We’ll also need to install Satori.\n\nTerminal window\nnpm install preact # or `npm install react`\nnpm install satori\n\nIf you’re going to use Tailwind to make your OG images, and want to use the same Tailwind config, you’ll also want to use the tw-to-css library. I talk more about this in my blog post on using Satori with your project’s Tailwind config.\n\nTerminal window\nnpm install tw-to-css\n\nSatori outputs SVGs, which are unfortunately not supported by OpenGraph, so we’ll also need to install the sharp library to convert SVGs to PNGs.\n\nTerminal window\nnpm install sharp\nGenerating the image\nCreating an OG image component\n\nFirst, let’s create an OpenGraphImage component, which will be responsible for rendering the actual content of the OG image. Here’s an example:\n\nsrc/components/og/image.tsx\n// e.g. src/components/og/image.tsx\nimport { type CollectionEntry } from \"astro:content\";\n\n\nexport default function (props: CollectionEntry<\"blog\">) {\n  return (\n    <div tw=\"flex flex-col w-full h-full p-12 items-center text-center justify-center text-white bg-indigo-500\">\n      <h1 tw=\"flex font-bold text-8xl mb-4\">{props.data.title}</h1>\n      <p tw=\"flex text-5xl mb-12\">{props.data.description}</p>\n    </div>\n  );\n}\n\nNote that the above code assumes that you have a blog collection, with each post having a title and description field. If you’re using a different collection, you’ll need to adjust the code accordingly.\n\nSetting up the API endpoint\n\nAssuming that your file structure looks something like this:\n\n/\n├── src/\n│   ├── blog/\n│   │   └── [id].astro\n\nYou’ll want to move the [id].astro file to a new [id] folder, rename it to index.astro, then add a new og.png.ts file in that new folder. Here’s how it should look:\n\n/\n├── src/\n│   ├── blog/\n│   │   └── [id]/\n│   │       ├── index.astro\n│   │       └── og.png.ts\n\nThis will create a new endpoint at /blog/[id]/og.png. Now, let’s set it up:\n\nsrc/blog/[id]/og.png.ts\nimport fs from \"fs/promises\";\nimport satori from \"satori\";\nimport sharp from \"sharp\";\nimport { getCollection } from \"astro:content\";\nimport type { InferGetStaticParamsType } from \"astro\";\n\n\nimport OpenGraphImage from \"path/to/your/og/image/component\";\n\n\nconst posts = await getCollection(\"blog\");\ntype Params = InferGetStaticParamsType<typeof getStaticPaths>;\n\n\nexport async function GET({ params }: { params: Params }) {\n  const post = posts.find((post) => post.id === params.id); // Find the specific post by ID\n  if (!post) {\n    return new Response(\"Post not found\", { status: 404 });\n  }\n\n\n  const element = OpenGraphImage(post);\n  const png = await PNG(element);\n  return new Response(png, {\n    headers: {\n      \"Content-Type\": \"image/png\",\n    },\n  });\n}\n\n\nexport async function getStaticPaths() {\n  return posts.map((post) => ({\n    params: { id: post.id },\n    props: post,\n  }));\n}\n\nHere, we’re adding a GET API endpoint at /blog/[id]/og.png, which will return the image for the post with the ID of [id]. We’re also importing the OpenGraphImage component from the path you provided, and the posts from the blog collection.\n\nNow, let’s define the PNG and SVG functions, which will generate the PNG and SVG images respectively:\n\nsrc/blog/[id]/og.png.ts\nexport async function SVG(component: h.JSX.Element) {\n  return await satori(component as any, {\n    width: 1200,\n    height: 630,\n    fonts: [\n      {\n        name: \"Outfit\",\n        data: await fs.readFile(\"./src/assets/fonts/og/Outfit-Regular.ttf\"),\n        weight: 400,\n      },\n    ],\n  });\n}\n\n\nexport async function PNG(component: h.JSX.Element) {\n  return await sharp(Buffer.from(await SVG(component)))\n    .png()\n    .toBuffer();\n}\n\nNOTE\n\nIf your route param isn’t called id, you’ll need to change the references to id to match your route param.\n\nWe’re setting the image size to 1200x630, which is the recommended size for OG images, and ensures your images look good on most platforms, like Twitter/X, Facebook, and Discord.\n\nYou probably also noticed the fonts array we’re passing to satori, which, well, defines the fonts you’re going to be using in your image! I’ve used the Outfit font here, but feel free to pick your own from places like Google Fonts. Note that the relative paths are relative to the root directory of your project.\n\nWARNING\n\nYou might run into issues with variable font weights. This is due to a bug in Satori, which causes errors when using variable font weights. To fix this, you’ll need to use a fixed font weight instead.\n\nUsing the OG images\n\nPhew, that’s the hard part done! Finally, let’s add the OG image to our posts.\n\nHere’s an example. First, let’s pass a ogImage prop to our BlogPost layout, which will use our new API endpoint to generate the image for the post.\n\nsrc/blog/[id]/index.astro\n---\nimport { type CollectionEntry, getCollection, render } from \"astro:content\";\n\n\nimport BlogPost from \"@layouts/blogpost.astro\";\n\n\nexport async function getStaticPaths() {\n  const posts = await getCollection(\"blog\");\n  return posts.map((post) => ({\n    params: { id: post.id },\n    props: post,\n  }));\n}\n\n\ntype Props = CollectionEntry<\"blog\">;\n\n\nconst post = Astro.props;\nconst { Content } = await render(post);\n---\n\n\n<BlogPost {...post.data} ogImage=`${Astro.site}/posts/${post.id}/og.png`>\n  <Content />\n</BlogPost>\n\nNote the usage of Astro.site here - the OG image URL needs to be an absolute URL, so we’re using the Astro.site variable to get the base URL of our site.\n\nNow, let’s use the ogImage prop in our BlogPost layout, which will pass in the image URL to the root Layout.\n\nsrc/layouts/blogpost.astro\n---\nimport type { CollectionEntry } from \"astro:content\";\n\n\nimport Layout from \"./layout.astro\";\n\n\ntype Props = CollectionEntry<\"blog\">[\"data\"] & {\n  ogImage: string;\n};\nconst { title, description, ogImage } = Astro.props;\n---\n\n\n<Layout title={title} description={description} ogImage={ogImage}>\n  <div>\n    <h1>{title}</h1>\n    <p>{description}</p>\n  </div>\n\n\n  <slot />\n</Layout>\n\nAnd finally, let’s use the ogImage prop in our main layout, by adding a meta tag to the <head> with the image URL. We’ll also set the twitter:card properties to summary_large_image, so our image can be shown in full size.\n\nsrc/layouts/layout.astro\n---\ninterface Props {\n  title: string;\n  description?: string;\n  ogImage?: string;\n}\n\n\nconst { title, description, ogImage } = Astro.props;\n---\n\n\n<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>{title}</title>\n    {ogImage && <meta property=\"og:image\" content={ogImage} />}\n    <meta\n      property=\"twitter:card\"\n      content={ogImage ? \"summary_large_image\" : \"summary\"}\n    />\n  </head>\n  <body>\n    <slot />\n  </body>\n</html>\n\nAnd that’s it! You should now have an OG image for your blog posts! Here’s an example of what my blog’s OG images look like:\n\nJanuary 5th 2025\nBack to all blog posts\nSubscribe on RSS\n\n© 2026 Mahad Kalam.\n\nUpdate image link for Spaces admin panel screenshot\n(8f92858)\n512KB Club\nTeam Blue\n‹\n›"
+}

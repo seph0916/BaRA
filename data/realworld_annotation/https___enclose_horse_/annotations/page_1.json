@@ -1,0 +1,87 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "enclose.horse",
+            "href": "https://enclose.horse/"
+        },
+        {
+            "text": "Home",
+            "href": "https://enclose.horse/"
+        },
+        {
+            "text": "Create Level",
+            "href": "https://enclose.horse/edit"
+        },
+        {
+            "text": "Browse Levels",
+            "href": "https://enclose.horse/levels"
+        },
+        {
+            "text": "About",
+            "href": "https://enclose.horse/about-us"
+        },
+        {
+            "text": "Updates",
+            "href": "https://enclose.horse/about"
+        },
+        {
+            "text": "Strategy Guide",
+            "href": "https://enclose.horse/strategy"
+        },
+        {
+            "text": "Contact",
+            "href": "https://enclose.horse/contact"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://enclose.horse/privacy"
+        },
+        {
+            "text": "Terms of Service",
+            "href": "https://enclose.horse/terms"
+        },
+        {
+            "text": "Tutorial",
+            "href": "https://enclose.horse/tutorial"
+        },
+        {
+            "text": "Support",
+            "href": "https://enclose.horse/support"
+        },
+        {
+            "text": "get in touch",
+            "href": "https://forms.gle/wma4DYGcKrWUbgYy6"
+        },
+        {
+            "text": "community levels",
+            "href": "https://enclose.horse/levels"
+        },
+        {
+            "text": "About",
+            "href": "https://enclose.horse/about-us"
+        },
+        {
+            "text": "Updates",
+            "href": "https://enclose.horse/about"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://enclose.horse/privacy"
+        },
+        {
+            "text": "Terms",
+            "href": "https://enclose.horse/terms"
+        },
+        {
+            "text": "Contact",
+            "href": "https://enclose.horse/contact"
+        }
+    ],
+    "text_length": 4274,
+    "text_full": "?\nenclose.horse\n--\n--\n--\nHome Create Level Browse Levels About Updates Strategy Guide Contact Privacy Policy Terms of Service Tutorial Support\n|\n|\nx\n|\n|\nHow to Create Your Own Level on enclose.horse\nThe Level Editor\n\nenclose.horse includes a free, browser-based level editor that lets you design your own puzzles from scratch. Place terrain, set a wall budget, and challenge your friends to find the best solution — or publish your creation for the entire community to play.\n\nNo account is needed to start building. Just open the editor above and start placing tiles.\n\nGetting Started\nSet the grid size — use the W and H inputs in the toolbar to choose the width and height of your puzzle (from 8×8 up to 30×30).\nPlace water — select the water tool from the toolbar and click or drag on the grid to paint tiles. Water tiles act as natural barriers the horse can't cross.\nPosition the horse — use the horse tool to place the starting position. The horse is what players will try to enclose.\nSet the wall budget — this is the number of walls players get to work with. Fewer walls means a harder puzzle.\nAdd special tiles — you can add cherries, golden apples and bees to the level to make things more interesting. You can also add portals!\nFind optimal solutions — The very last button in the toolbar will run the solver and find the optimal solution for your level.\nTip: Start with a 12×12 grid and 10–15 walls while you learn the editor. You can always resize later.\nTerrain Tools\n\nThe toolbar along the bottom of the editor gives you everything you need to build your level:\n\nWater — impassable terrain that blocks the horse. Use water to create channels, islands, and chokepoints that make the puzzle interesting.\nCherries — bonus items worth +3 points each when enclosed. Great for rewarding clever solutions.\nGolden Apples — high-value bonus items worth +10 points each. Place them strategically to create interesting trade-offs.\nBees — hazards that cost −5 points each when enclosed. Force players to think about what not to enclose.\nPortals — the horse teleports between paired portals. They add a layer of complexity and can make wandering paths much harder to block.\n\nGrass is the default tile — players place walls on grass, and enclosed grass tiles count toward their score. Use the horse tool to set the starting position (every level needs exactly one).\n\nTesting Your Level\n\nClick the \"Play\" button in the editor to switch to test mode. This lets you play your own level exactly as other players would — placing walls and trying to enclose the horse with the wall budget you set.\n\nWhile testing, you'll see your score and wall count in real time. Use this to check the difficulty: if you can easily get a high score, the puzzle might be too easy. If it's frustrating even for you, consider widening corridors or adding a few more walls to the budget.\n\nTip: A good puzzle has an obvious way to enclose the horse, but an optimal solution that requires creative wall placement. Test multiple approaches before publishing.\nPublishing & Sharing\n\nWhen you're happy with your level, click \"Enclose to Publish\" to share it. You'll need to enclose the horse first to prove the level is solvable — then you'll get a shareable link that anyone can use to play your puzzle.\n\nPublished levels appear in the community levels section where other players can discover, play, and vote on your creation. You can also share the link directly with friends.\n\nLevel Design Tips\nUse water to create structure — water tiles form the skeleton of your puzzle. Channels and islands make for interesting decisions.\nKeep the grid manageable — levels between 12×12 and 17×17 tend to play best, especially on mobile devices.\nBalance the wall budget — too many walls makes the puzzle trivial; too few makes it frustrating. Aim for a budget where several solutions are possible but the optimal one requires insight.\nCreate \"aha!\" moments — the best puzzles have an obvious strategy and a surprising optimal solution that players discover with a flash of insight.\nMix up bonus items — cherries and golden apples reward smart enclosures, while bees force players to think about exclusion. Combining both creates richer puzzles.\nAbout · Updates · Privacy · Terms · Contact\n© 2025–2026 enclose.horse"
+}

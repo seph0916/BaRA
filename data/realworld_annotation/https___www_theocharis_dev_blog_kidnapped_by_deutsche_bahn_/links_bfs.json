@@ -1,0 +1,55 @@
+{
+  "start_url": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn",
+    "https://www.theocharis.dev/",
+    "https://www.theocharis.dev/beliefs/",
+    "https://www.theocharis.dev/blog/",
+    "https://www.theocharis.dev/talks/",
+    "https://www.theocharis.dev/tools/",
+    "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
+    "https://www.theocharis.dev/blog/things-a-veterinarian-told-me-on-a-hike/",
+    "https://www.theocharis.dev/blog/mr-meeseeks-box/",
+    "https://www.theocharis.dev/data-security/",
+    "https://www.theocharis.dev/imprint/",
+    "https://www.theocharis.dev/blog/algorithmic-framework-for-writing-technical-articles/",
+    "https://www.theocharis.dev/blog/loops-are-all-you-need/",
+    "https://www.theocharis.dev/blog/what-we-do-at-umh/",
+    "https://www.theocharis.dev/blog/we-built-what-we-wished-existed-5m-to-double-down/",
+    "https://www.theocharis.dev/blog/writing-style-guide/",
+    "https://www.theocharis.dev/blog/downsampling-in-industrial-iot-from-dead-band-to-swinging-door-trending/",
+    "https://www.theocharis.dev/blog/ai-in-manufacturing-is-a-dumpster-fire/",
+    "https://www.theocharis.dev/tools/time/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn"
+    ],
+    "1": [
+      "https://www.theocharis.dev/",
+      "https://www.theocharis.dev/beliefs/",
+      "https://www.theocharis.dev/blog/",
+      "https://www.theocharis.dev/talks/",
+      "https://www.theocharis.dev/tools/"
+    ],
+    "2": [
+      "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
+      "https://www.theocharis.dev/blog/things-a-veterinarian-told-me-on-a-hike/",
+      "https://www.theocharis.dev/blog/mr-meeseeks-box/",
+      "https://www.theocharis.dev/data-security/",
+      "https://www.theocharis.dev/imprint/",
+      "https://www.theocharis.dev/blog/algorithmic-framework-for-writing-technical-articles/",
+      "https://www.theocharis.dev/blog/loops-are-all-you-need/",
+      "https://www.theocharis.dev/blog/what-we-do-at-umh/",
+      "https://www.theocharis.dev/blog/we-built-what-we-wished-existed-5m-to-double-down/",
+      "https://www.theocharis.dev/blog/writing-style-guide/",
+      "https://www.theocharis.dev/blog/downsampling-in-industrial-iot-from-dead-band-to-swinging-door-trending/",
+      "https://www.theocharis.dev/blog/ai-in-manufacturing-is-a-dumpster-fire/",
+      "https://www.theocharis.dev/tools/time/"
+    ]
+  },
+  "dead_links": []
+}

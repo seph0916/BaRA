@@ -1,0 +1,316 @@
+{
+    "image_count": 8,
+    "images": [
+        "https://turso.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmike-soylu.1a04aea9.jpeg&w=1080&q=75",
+        "https://turso.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsimon-henriksen.339debfa.jpeg&w=1920&q=75",
+        "https://turso.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fluke-kim.bba1c5c1.png&w=1080&q=75",
+        "https://turso.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpierre-antoine-urvoy.ee1d202a.png&w=1080&q=75",
+        "https://turso.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteve.35d9f909.jpg&w=828&q=75",
+        "https://turso.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fguillermo-rauch.0cc33a80.jpg&w=828&q=75",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=349447aa-489b-4101-adbc-e6a7655ea893&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=ebbcfbca-2888-40ca-87ef-af4005da2984&pt=Turso%20-%20Databases%20Everywhere&tw_document_href=https%3A%2F%2Fturso.tech%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342016027.88846173916818912&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=349447aa-489b-4101-adbc-e6a7655ea893&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=ebbcfbca-2888-40ca-87ef-af4005da2984&pt=Turso%20-%20Databases%20Everywhere&tw_document_href=https%3A%2F%2Fturso.tech%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342016027.88846173916818912&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 74,
+    "links": [
+        {
+            "text": "Join the waitlist",
+            "href": "https://turso.tech/private-beta"
+        },
+        {
+            "text": "Turso",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Docs",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Cloud Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Follow us on GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Follow us on X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Join us on Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "Login",
+            "href": "https://turso.tech/signin"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Case study: how Adaptive.ai runs millions of databases on Turso →",
+            "href": "https://turso.tech/blog/turso-cloud-powers-adaptive-ai"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "247Contributors",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "COMPAT.md",
+            "href": "https://github.com/tursodatabase/turso/blob/main/COMPAT.md"
+        },
+        {
+            "text": "Join\n247\nothers",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Create Database",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Read testimonial",
+            "href": "https://turso.tech/blog/turso-cloud-powers-adaptive-ai"
+        },
+        {
+            "text": "Read testimonial",
+            "href": "https://turso.tech/blog/local-first-ai-assistant-kin-leverages-tursos-libsql-for-on-device-native-vector-search"
+        },
+        {
+            "text": "Read testimonial",
+            "href": "https://turso.tech/blog/why-prisma-chose-turso-to-power-prisma-optimize"
+        },
+        {
+            "text": "Read testimonial",
+            "href": "https://turso.tech/blog/turso-radically-increases-the-amount-of-databases-available-on-their-starter-and-scaler-plans-10a69ad94055"
+        },
+        {
+            "text": "Read testimonial",
+            "href": "https://x.com/rauchg/status/1969515038512926823"
+        },
+        {
+            "text": "Build a retrieval system for agents →",
+            "href": "https://turso.tech/blog/how-to-build-a-retrieval-system-for-agents"
+        },
+        {
+            "text": "See the React Native bindings →",
+            "href": "https://turso.tech/blog/react-native-bindings-for-turso"
+        },
+        {
+            "text": "The many-database architecture →",
+            "href": "https://turso.tech/blog/turso-for-startups-the-many-database-architecture"
+        },
+        {
+            "text": "Read Manual",
+            "href": "https://github.com/tursodatabase/turso/blob/main/docs/manual.md"
+        },
+        {
+            "text": "Rust",
+            "href": "https://github.com/tursodatabase/turso/tree/main/bindings/rust"
+        },
+        {
+            "text": "JavaScript",
+            "href": "https://github.com/tursodatabase/turso/tree/main/bindings/javascript"
+        },
+        {
+            "text": "Python",
+            "href": "https://github.com/tursodatabase/turso/tree/main/bindings/python"
+        },
+        {
+            "text": "Go",
+            "href": "https://github.com/tursodatabase/turso-go"
+        },
+        {
+            "text": "Java",
+            "href": "https://github.com/tursodatabase/turso/tree/main/bindings/java"
+        },
+        {
+            "text": "Wasm",
+            "href": "https://github.com/tursodatabase/turso/tree/main/bindings/javascript/sync/packages/browser"
+        },
+        {
+            "text": "Docs & Quickstarts",
+            "href": "https://docs.turso.tech/sdk"
+        },
+        {
+            "text": "Go",
+            "href": "https://docs.turso.tech/sdk/go"
+        },
+        {
+            "text": "Rust",
+            "href": "https://docs.turso.tech/sdk/rust"
+        },
+        {
+            "text": "TypeScript",
+            "href": "https://docs.turso.tech/sdk/ts"
+        },
+        {
+            "text": "Python",
+            "href": "https://docs.turso.tech/sdk/python"
+        },
+        {
+            "text": "Ruby",
+            "href": "https://docs.turso.tech/sdk/ruby"
+        },
+        {
+            "text": "Rails",
+            "href": "https://docs.turso.tech/sdk/activerecord/quickstart"
+        },
+        {
+            "text": "PHP",
+            "href": "https://docs.turso.tech/sdk/php"
+        },
+        {
+            "text": "Laravel",
+            "href": "https://docs.turso.tech/sdk/php/guides/laravel"
+        },
+        {
+            "text": "Swift",
+            "href": "https://docs.turso.tech/sdk/swift/quickstart"
+        },
+        {
+            "text": "Android",
+            "href": "https://docs.turso.tech/sdk/kotlin/quickstart"
+        },
+        {
+            "text": "Flutter",
+            "href": "https://docs.turso.tech/sdk/flutter/quickstart"
+        },
+        {
+            "text": "React Native",
+            "href": "https://op-engineering.github.io/op-sqlite/docs/installation"
+        },
+        {
+            "text": ".NET",
+            "href": "https://github.com/tvandinther/libsql-client-dotnet"
+        },
+        {
+            "text": "Fork Repository",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Join Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/quickstart"
+        },
+        {
+            "text": "Documentation",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "API Status",
+            "href": "https://status.turso.tech/"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://turso.tech/terms-of-use"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://turso.tech/privacy-policy"
+        },
+        {
+            "text": "Embedded Replicas",
+            "href": "https://docs.turso.tech/features/embedded-replicas"
+        },
+        {
+            "text": "Database Branching",
+            "href": "https://docs.turso.tech/features/branching"
+        },
+        {
+            "text": "Backups & Recovery",
+            "href": "https://docs.turso.tech/features/point-in-time-recovery"
+        },
+        {
+            "text": "Platform API",
+            "href": "https://docs.turso.tech/features/platform-api"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Releases",
+            "href": "https://github.com/tursodatabase/turso/releases"
+        },
+        {
+            "text": "About",
+            "href": "https://turso.tech/about"
+        },
+        {
+            "text": "Support",
+            "href": "https://docs.turso.tech/support"
+        },
+        {
+            "text": "Trust",
+            "href": "https://trust.turso.tech/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Brand",
+            "href": "https://turso.tech/brand"
+        },
+        {
+            "text": "RSS",
+            "href": "https://turso.tech/blog/feed.xml"
+        },
+        {
+            "text": "YouTube",
+            "href": "https://www.youtube.com/@tursodatabase"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase"
+        }
+    ],
+    "text_length": 6726,
+    "text_full": "Register now for early access to concurrent writes in the Turso Cloud. Join the waitlist\n\nTurso\nDocs\nCloud Pricing\nBlog\nChangelog\nFollow us on GitHub\nFollow us on X\nJoin us on Discord\nLogin\nStart for free now\nThe Database for the Age of AI Agents\nMillions of Databases.\nOne Architecture.\n\nBuilt on SQLite. Lightweight enough to multiply, fast enough to run anywhere. Spin a database for every user, agent, and tenant.\n\nStart for free now\nWhy Agents Need a New Database\n\nAgents will exist by the trillions and run everywhere. LLMs are wild, so compute gets sandboxed. The data pairing of this is giving each agent its own database to track files and assets, store memories, and coordinate tasks.\n\nTraditional databases were designed around a single, shared instance. Turso is designed for the many-database architecture. Every agent, user, or tenant gets their own database. This is only possible because Turso databases are files, not processes: always on, instantly available, with no cold start and no wake-up penalty. A ground-up rewrite of SQLite that adds concurrent writes, vector search, cloud-native access and replication, and much more.\n\nCase study: how Adaptive.ai runs millions of databases on Turso →\n\nBETA\nTurso\n\nAn embedded database engine that goes anywhere. Offline, in the browser, or on-device.\n\ncurl -sSL tur.so/install | sh\nVector Search\n\nNative similarity search for AI apps and RAG workflows, no extensions required.\n\nAsync Design\n\nModern async primitives such as Linux io_uring to keep your apps responsive.\n\nConcurrent Writes\n\nMultiple writers, zero conflicts, without locking.\n\nBrowser + Persistence\n\nTurso runs in the browser with WebAssembly & OPFS.\n\nSQLite Compatible\n\nFully backwards compatible SQLite, but built for the next generation of agents.\n\nCOMPAT.md\nOpen Contribution\n\nTake your seat at the table and contribute to the next evolution of SQLite.\n\nJoin\n247\nothers\nPRODUCTION READY\nTurso Cloud\n\nUnlimited SQLite databases that never sleep. Access them over the network or sync to your own devices.\n\nCreate Database\nVector Search\n\nNative similarity search for AI apps and RAG workflows, no extensions required.\n\nReplication & Sync\n\nKeep devices in sync with each other on demand with Turso Cloud.\n\nBranching\n\nCreate isolated Copy-on-Write branches super fast.\n\nAnalytics\n\nMonitor performance and usage across databases.\n\nAlways On\n\nDatabases are files, not processes. No cold starts, no scale-to-zero, no wake-up penalty.\n\nUnlimited Databases\n\nAn idle database costs only storage. Give every user, tenant, or agent their own database.\n\nDon't just take our word for it\n\nCompanies are building the next generation apps with SQLite in the cloud, and on-device.\n\n“We use Turso Cloud to generate a large amount of ephemeral databases to power our AI agents going, doing things and being fault tolerant. Because we can branch and rollback databases quickly with just an API call, we can really scale our AI agents.”\nMike Soylu\nFounder / Adaptive\nRead testimonial\n“We use Turso Cloud to power Kin's on-device AI with full privacy. With Turso' built-in vector search, all data stays local, so users get fast, private search without anything leaving their device.”\nSimon Henrikson\nFounder / Kin\nRead testimonial\n“Turso’s Rust-based rewrite of SQLite brings cloud-native, concurrent performance to AI apps and agents. As workloads shift to fast, lightweight databases like SQLite and DuckDB, Turso takes SQLite beyond its concurrency limits, strengthening the ecosystem for scalable, data-driven apps.”\nLuke Kim\nFounder & CEO / Spice AI\n“Multi-tenancy with Turso Cloud has been amazing, super easy to implement. It's made permissions & token management for Prisma Optimize, our new AI query optimizer, really simple.”\nPierre-Antoine Urvoy\nEngineer / Prisma\nRead testimonial\n“Turso lets us spin up thousands of databases, even for free users. With full API control, integration took less than a day — and it became one of our most popular launches!”\nSteve Krouse\nCEO / Val Town\nRead testimonial\n“Turso is an incredible technical feat. A Rust rewrite of sqlite, with an async-first architecture, incoming support for concurrent writes, vector search, and browser / wasm support out of the box. I think this has a very good chance of being a foundational piece of infrastructure of the vibe-coding age.”\nGuillermo Rauch\nCEO / Vercel\nRead testimonial\nTurso is the Database for Modern Applications\n\nPower your next-generation apps with Turso, a database that scales with your needs.\n\nAI Agents\n\nScale to millions of agents with unlimited databases and built-in vector search for LLMs.\n\nLocal Vector Search\nZero Network Latency\nOn Device RAG\nOffline Ready\nBuild a retrieval system for agents →\nMobile & IoT\n\nWrite offline, sync later. Build on-device local-first apps without network connectivity.\n\nSDKs for Mobile\nConflict Resolution\nSOON\nOffline First\nWASM & OPFS\nSee the React Native bindings →\nPrivate by Design\n\nScale to billions of databases with Turso's massive multi-tenant architecture.\n\nData Isolation\nPer-Database Encryption\nInfinite Scalability\nPrivate by Design\nThe many-database architecture →\nBETA\nTurso SDKs\n\nReplace SQLite with the in-process SDKs for Turso.\n\nRead Manual\nRust\nJavaScript\nPython\nGo\nJava\nWasm\nPRODUCTION READY\nCloud SDKs\n\nGet started with SQLite in the cloud.\n\nDocs & Quickstarts\nGo\nRust\nTypeScript\nPython\nRuby\nRails\nPHP\nLaravel\nSwift\nAndroid\nFlutter\nReact Native\n.NET\nJoin the Community\n\nConnect with developers, contribute to open source, and help shape the next evolution of SQLite.\n\nOPEN SOURCE\nContribute\n\nFork the repository, contribute to the codebase, report issues, and join hundreds of others to help build the future of SQLite.\n\nFork Repository\nContribute Code\n\nSubmit pull requests and improve Turso for everyone.\n\nReport Issues\n\nHelp us identify and fix bugs to make Turso more reliable.\n\nDocumentation\n\nImprove docs, write tutorials, and help others learn.\n\nShow Support\n\nStar the repository and help spread the word about Turso.\n\nJOIN COMMUNITY\nDiscord\n\nConnect with the Turso community, get help from experts, share your projects, and stay updated on the latest features.\n\nJoin Discord\nCommunity Support\n\nGet help from experienced developers and Turso.\n\nShare Ideas\n\nDiscuss new features, share feedback, and collaborate.\n\nShow Your Work\n\nShare your projects and get feedback from others.\n\nStay Updated\n\nBe the first to know about new releases and features.\n\nTurso Cloud\nQuickstart\nDocumentation\nPricing\nAPI Status\nTerms of Use\nPrivacy Policy\n \nEmbedded Replicas\nDatabase Branching\nBackups & Recovery\nPlatform API\nTurso Database\nQuickstart\nChangelog\nReleases\nCompany\nAbout\nContact Us\nSupport\nTrust\nBlog\nBrand\nRSS\nYouTube\nDiscord\nX\nLinkedin\nGitHub\n© Turso 2026"
+}

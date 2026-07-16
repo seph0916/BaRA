@@ -1,0 +1,923 @@
+{
+    "image_count": 23,
+    "images": [
+        "https://www.eff.org/sites/all/themes/phoenix/images/logo-monogram-white.svg",
+        "https://www.eff.org/files/2026-membership-sitebanner-desktop-3_0.png",
+        "https://www.eff.org/files/2026-membership-sitebanner-mobile.png",
+        "https://www.eff.org/files/issues/htfi-2024-hero-1200.jpg",
+        "https://www.eff.org/sites/all/modules/custom/mytube/play.png",
+        "https://www.eff.org/files/2021/11/01/applebadge2.png",
+        "https://www.eff.org/files/2021/11/01/spotify-podcast-badge-blk-wht-330x80.png",
+        "https://www.eff.org/files/styles/kittens_types_wysiwyg_small/public/2024/02/15/us_listenon_amazonmusic_button_charcoal.png?itok=YFXPE4Ii",
+        "https://www.eff.org/files/2021/11/01/subscriberss.png",
+        "https://www.eff.org/files/anthem_awards.png",
+        "https://www.eff.org/files/2024_signal_awards.png",
+        "https://www.eff.org/files/w3-2024-badges-03.webp",
+        "https://www.eff.org/files/award_of_excellence.jpg",
+        "https://i.creativecommons.org/l/by/4.0/88x31.png",
+        "https://www.eff.org/sites/all/themes/frontier/images/button-donate.png",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/htfi-2024-hero-1200.jpg?itok=gZGkXc4h",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/yearinreview_1200x600px_banner_2025.jpg?itok=dNY869qb",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/2025-htfi-brewster-blog.jpg?itok=nF-wWlSS",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/2025-htfi-neuro-blog.jpg?itok=QkVjsY1s",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/2025-htfi-arvind-blog.jpg?itok=UiFDmpv7",
+        "https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg",
+        "https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/how-to-fix-the-internet-podcast&action_name=How%20to%20Fix%20the%20Internet%3A%20Podcast%20%7C%20Electronic%20Frontier%20Foundation&urlref=",
+        ""
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 222,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#main-content"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Join EFF Lists",
+            "href": "https://eff.org/signup"
+        },
+        {
+            "text": "Copyright (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "Trademark",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "Thanks",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--m"
+        },
+        {
+            "text": "DONATE TODAY",
+            "href": "https://supporters.eff.org/donate/spring--wssn"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SD"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SM"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Privacy info.",
+            "href": "https://www.eff.org/deeplinks/2008/02/embedded-video-and-your-privacy"
+        },
+        {
+            "text": "simplecast.com",
+            "href": "https://player.simplecast.com/1c515ea8-cb6d-4f72-8d17-bc9b7a566869?dark=false&show=true"
+        },
+        {
+            "text": "",
+            "href": "https://podcasts.apple.com/us/podcast/effs-how-to-fix-the-internet/id1539719568"
+        },
+        {
+            "text": "",
+            "href": "https://open.spotify.com/show/4UAplFpPDqE4hWlwsjplgt"
+        },
+        {
+            "text": "",
+            "href": "https://music.amazon.ca/podcasts/bf81f00f-11e1-431f-918d-374ab6ad07cc/how-to-fix-the-internet?ref=dmm_art_us_HTFTI"
+        },
+        {
+            "text": "",
+            "href": "https://feeds.eff.org/howtofixtheinternet"
+        },
+        {
+            "text": "our YouTube playlist",
+            "href": "https://youtube.com/playlist?list=PLIj2gbMyP1RV9hRzlZ6kohghXkrio4V6R&si=S6TfjhsYbK6G2gha"
+        },
+        {
+            "text": "on the Internet Archive",
+            "href": "https://archive.org/search?query=creator%3A%22Electronic+Frontier+Foundation%22+podcast&sort=-date"
+        },
+        {
+            "text": "SHARE YOUR LISTENER FEEDBACK HERE!",
+            "href": "https://forms.office.com/pages/responsepage.aspx?id=qalRy_Njp0iTdV3Gz61yuZZXWhXf9ZdMjzPzrVjvr6VUNUlHSUtLM1lLMUNLWE42QzBWWDhXU1ZEQy4u&web=1&wdLOR=c90ABD667-F98F-9748-BAA4-CA50122F0423"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast/rss"
+        },
+        {
+            "text": "Stitcher",
+            "href": "https://www.stitcher.com/show/effs-how-to-fix-the-internet"
+        },
+        {
+            "text": "TuneIn",
+            "href": "https://tunein.com/podcasts/Technology-Podcasts/EFFs-How-to-Fix-the-Internet-p1382036/?topicId=158650544"
+        },
+        {
+            "text": "Apple Podcasts",
+            "href": "https://podcasts.apple.com/us/podcast/effs-how-to-fix-the-internet/id1539719568"
+        },
+        {
+            "text": "Spotify",
+            "href": "https://open.spotify.com/show/4UAplFpPDqE4hWlwsjplgt?si=zaQa9o-OTmuwE5EoJS5lGw"
+        },
+        {
+            "text": "Internet Archive",
+            "href": "https://archive.org/search.php?query=creator%3A%22Electronic%20Frontier%20Foundation%22%20subject%3A%22how%20to%20fix%20the%20internet%22"
+        },
+        {
+            "text": "Stuga Studios",
+            "href": "https://www.stugastudios.com/"
+        },
+        {
+            "text": "Pacific Content",
+            "href": "https://pacific-content.com/"
+        },
+        {
+            "text": "a Bronze Award",
+            "href": "https://www.anthemawards.com/winners/list/entry/#responsible-technology/awareness-categories/how-to-fix-the-internet-podcast-by-electronic-frontier-foundation/533988"
+        },
+        {
+            "text": "International Academy of Digital Arts & Sciences",
+            "href": "https://www.iadas.net/"
+        },
+        {
+            "text": "a Silver Award",
+            "href": "https://www.anthemawards.com/winners/list/entry/#responsible-technology/awareness-media-categories/electronic-frontier-foundations-how-to-fix-the-internet-podcast/458892"
+        },
+        {
+            "text": "2024 Signal Awards",
+            "href": "https://www.signalaward.com/winners/details/#electronic-frontier-foundation/how-to-fix-the-internet/0/530197"
+        },
+        {
+            "text": "w3 Awards",
+            "href": "https://www.w3award.com/winners/gallery/?event=1080&award=2&type=1956&pg=2&id=315757"
+        },
+        {
+            "text": "30th Annual Communicator Awards",
+            "href": "https://www.communicatorawards.com/winners/winners-gallery/?event=1077&type=1919&pg=2&id=464253"
+        },
+        {
+            "text": "",
+            "href": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+            "text": "Creative Commons Attribution 4.0 International License",
+            "href": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+            "text": "Protect digital privacy and free expression. EFF's public interest legal work, activism, and software development preserve fundamental rights.",
+            "href": "https://www.eff.org/pod"
+        },
+        {
+            "text": "DONATE TO EFF",
+            "href": "https://www.eff.org/pod"
+        },
+        {
+            "text": "HOW TO FIX THE INTERNET: PODCAST",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/03/bonus-podcast-episode-privacys-defender-cindy-cohn-conversation-cory-doctorow"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JOSH RICHMAN",
+            "href": "https://www.eff.org/about/staff/josh-richman-0"
+        },
+        {
+            "text": "Bonus Podcast Episode: Privacy’s Defender - Cindy Cohn with Cory Doctorow",
+            "href": "https://www.eff.org/deeplinks/2026/03/bonus-podcast-episode-privacys-defender-cindy-cohn-conversation-cory-doctorow"
+        },
+        {
+            "text": "Read more about Bonus Podcast Episode: Privacy’s Defender - Cindy Cohn with Cory Doctorow",
+            "href": "https://www.eff.org/deeplinks/2026/03/bonus-podcast-episode-privacys-defender-cindy-cohn-conversation-cory-doctorow"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/10/effs-how-fix-internet-podcast-2025-review"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JOSH RICHMAN",
+            "href": "https://www.eff.org/about/staff/josh-richman-0"
+        },
+        {
+            "text": "EFF’s ‘How to Fix the Internet’ Podcast: 2025 in Review",
+            "href": "https://www.eff.org/deeplinks/2025/10/effs-how-fix-internet-podcast-2025-review"
+        },
+        {
+            "text": "How to Fix the Internet",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Read more about EFF’s ‘How to Fix the Internet’ Podcast: 2025 in Review",
+            "href": "https://www.eff.org/deeplinks/2025/10/effs-how-fix-internet-podcast-2025-review"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/09/podcast-episode-building-and-preserving-library-everything"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JOSH RICHMAN",
+            "href": "https://www.eff.org/about/staff/josh-richman-0"
+        },
+        {
+            "text": "Podcast Episode: Building and Preserving the Library of Everything",
+            "href": "https://www.eff.org/deeplinks/2025/09/podcast-episode-building-and-preserving-library-everything"
+        },
+        {
+            "text": "Read more about Podcast Episode: Building and Preserving the Library of Everything",
+            "href": "https://www.eff.org/deeplinks/2025/09/podcast-episode-building-and-preserving-library-everything"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/08/podcast-episode-protecting-privacy-your-brain"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JOSH RICHMAN",
+            "href": "https://www.eff.org/about/staff/josh-richman-0"
+        },
+        {
+            "text": "Podcast Episode: Protecting Privacy in Your Brain",
+            "href": "https://www.eff.org/deeplinks/2025/08/podcast-episode-protecting-privacy-your-brain"
+        },
+        {
+            "text": "Read more about Podcast Episode: Protecting Privacy in Your Brain",
+            "href": "https://www.eff.org/deeplinks/2025/08/podcast-episode-protecting-privacy-your-brain"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/08/podcast-episode-separating-ai-hope-ai-hype"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JOSH RICHMAN",
+            "href": "https://www.eff.org/about/staff/josh-richman-0"
+        },
+        {
+            "text": "Podcast Episode: Separating AI Hope from AI Hype",
+            "href": "https://www.eff.org/deeplinks/2025/08/podcast-episode-separating-ai-hope-ai-hype"
+        },
+        {
+            "text": "Read more about Podcast Episode: Separating AI Hope from AI Hype",
+            "href": "https://www.eff.org/deeplinks/2025/08/podcast-episode-separating-ai-hope-ai-hype"
+        },
+        {
+            "text": "2",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=1"
+        },
+        {
+            "text": "3",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=2"
+        },
+        {
+            "text": "4",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=3"
+        },
+        {
+            "text": "5",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=4"
+        },
+        {
+            "text": "6",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=5"
+        },
+        {
+            "text": "7",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=6"
+        },
+        {
+            "text": "8",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=7"
+        },
+        {
+            "text": "9",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=8"
+        },
+        {
+            "text": "NEXT ›",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=1"
+        },
+        {
+            "text": "LAST »",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast?page=13"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#main-content"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "instagram",
+            "href": "https://www.instagram.com/efforg/"
+        },
+        {
+            "text": "Blue Sky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "youtube",
+            "href": "https://www.youtube.com/efforg"
+        },
+        {
+            "text": "flicker",
+            "href": "https://www.flickr.com/photos/electronicfrontierfoundation"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/EFF"
+        },
+        {
+            "text": "tiktok",
+            "href": "https://www.tiktok.com/@efforg"
+        },
+        {
+            "text": "threads",
+            "href": "https://www.threads.net/@efforg"
+        },
+        {
+            "text": "Charity Navigator",
+            "href": "https://www.charitynavigator.org/ein/043091431"
+        },
+        {
+            "text": "General",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Legal",
+            "href": "https://www.eff.org/pages/legal-assistance"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/security"
+        },
+        {
+            "text": "Membership",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Calendar",
+            "href": "https://www.eff.org/event"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Victories",
+            "href": "https://www.eff.org/victories"
+        },
+        {
+            "text": "History",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Jobs",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Staff",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Diversity & Inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity & Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.eff.org/deeplinks?type=blog"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/updates?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "EFFector Newsletter",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "Press Contact",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Join or Renew Membership Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "One-Time Donation Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Corporate Giving and Sponsorship",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/helpout"
+        },
+        {
+            "text": "COPYRIGHT (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "TRADEMARK",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "THANKS",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "JavaScript license information",
+            "href": "https://www.eff.org/librejs/jslicense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast#"
+        }
+    ],
+    "text_length": 7117,
+    "text_full": "Skip to main content\nIf you use technology, this fight is yours.\nDONATE TODAY\nElectronic Frontier Foundation\nAbout\nIssues\nOur Work\nTake Action\nTools\nDonate\nHow to Fix the Internet: Podcast\n\nIt seems like everywhere we turn we see dystopian stories about technology’s impact on our lives and our futures — from tracking-based surveillance capitalism to street level government surveillance to the dominance of a few large platforms choking innovation to the growing pressure by authoritarian governments to control what we see and say — the landscape can feel bleak. Exposing and articulating these problems is important, but so is envisioning and then building a better future. That’s where our podcast comes in.\n\nClick below to listen to the show now, or choose your podcast player:\n\nPrivacy info. This embed will serve content from simplecast.com\n\n\n   \n\nOr get our YouTube playlist! Or, listen to the episodes on the Internet Archive!\n\nEFF's How to Fix the Internet podcast offers a better way forward. Through curious conversations with some of the leading minds in law and technology, we explore creative solutions to some of today’s biggest tech challenges. Listen today to become deeply informed on vital technology issues and join the movement working to build a better technological future.\n\n\nSHARE YOUR LISTENER FEEDBACK HERE!\n\nFind the podcast via RSS, Stitcher, TuneIn, Apple Podcasts, and Spotify. You can find an MP3 archive of all our episodes at the Internet Archive. The pilot season (episodes 1-6) of \"How to Fix the Internet\" was produced by EFF with help from Stuga Studios; the following seasons were produced by EFF in collaboration with Pacific Content. Theme music by Nat Keefe of BeatMower.\n\nEFF is deeply grateful for the support of the Alfred P. Sloan Foundation's Program in Public Understanding of Science and Technology, without whom this podcast would not be possible.\n\n\"How to Fix the Internet\" was honored in November 2024 with a Bronze Award in the Responsible Technology/Podcast or Audio category of the 4th annual Anthem Awards, presented by the International Academy of Digital Arts & Sciences. By amplifying the voices that spark global change, the Anthem Awards seek to inspire others to take action in their own community. Our podcast won a Silver Award in the same category a year earlier.\n\n\"How to Fix the Internet\" was honored in October 2024 with both a Gold Award and a Listener’s Choice Award in the Technology Shows category of the 2024 Signal Awards, which set a standard for editorial excellence by honoring the organizations, artists, mavericks and brands who shape the podcast industry and the storytelling medium. Each year, The Signal Awards present Gold, Silver and Bronze Award Winners – as determined by The Signal Awards Judging Academy, an esteemed collective made up of the architects, instigators and trailblazers of the medium – while the listening public votes for their favorite finalists to take home the additional honor of Listener’s Choice Award in each category. Garnering more than 170,000 public votes in just two weeks from nearly 75,000 fans around the world, the 2024 Listener’s Choice Awards drew the largest voting body in The Signal Awards’ three-history.\n\n“How to Fix the Internet” was honored in October 2024 with a Silver Award in the General Series-Science & Technology category of the w3 Awards. The w3 Awards celebrate the best digital experiences, content, and creativity in websites, online marketing, web video, mobile sites and apps, social media, podcasts, and emerging tech from companies, agencies, and nonprofits of all sizes.\n\n\"How to Fix the Internet\" was honored in May 2024 with an Award of Excellence in the Technology Podcast Series category of the 30th Annual Communicator Awards. The Communicator Awards is dedicated to recognizing excellence, effectiveness, and innovation across all areas of communication; the Award of Excellence is given to those entrants whose ability to communicate positions them as the best in the field.\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n\nPROTECT DIGITAL PRIVACY AND FREE EXPRESSION. EFF'S PUBLIC INTEREST LEGAL WORK, ACTIVISM, AND SOFTWARE DEVELOPMENT PRESERVE FUNDAMENTAL RIGHTS.\nDONATE TO EFF\nEFF RELATED CONTENT: HOW TO FIX THE INTERNET: PODCAST\nFILTER BY TYPE\n- ANY -\nDEEPLINKS BLOG BY JOSH RICHMAN | MARCH 17, 2026\nBonus Podcast Episode: Privacy’s Defender - Cindy Cohn with Cory Doctorow\n\nWhile How to Fix the Internet is on hiatus, we wanted to share a great conversation with you from last week. EFF Executive Director Cindy Cohn spoke with bestselling novelist, journalist, and EFF Special Advisor Cory Doctorow about Cindy’s new book, “Privacy’s Defender: My Thirty-Year Fight Against Digital Surveillance” (...\n\nDEEPLINKS BLOG BY JOSH RICHMAN | DECEMBER 24, 2025\nEFF’s ‘How to Fix the Internet’ Podcast: 2025 in Review\n\n2025 was a stellar year for EFF’s award-winning podcast, “How to Fix the Internet,” as our sixth season focused on the tools and technology of freedom. It seems like everywhere we turn we see dystopian stories about technology’s impact on our lives and our futures—from tracking-based surveillance capitalism, to...\n\nDEEPLINKS BLOG BY JOSH RICHMAN | SEPTEMBER 10, 2025\nPodcast Episode: Building and Preserving the Library of Everything\n\nAll this season, “How to Fix the Internet” has been focusing on the tools and technology of freedom – and one of the most important tools of freedom is a library. Access to knowledge not only creates an informed populace that democracy requires, but also gives people the tools they...\n\nDEEPLINKS BLOG BY JOSH RICHMAN | AUGUST 27, 2025\nPodcast Episode: Protecting Privacy in Your Brain\n\nThe human brain might be the grandest computer of all, but in this episode, we talk to two experts who confirm that the ability for tech to decipher thoughts, and perhaps even manipulate them, isn't just around the corner – it's already here. Rapidly advancing \"neurotechnology\" could offer new ways...\n\nDEEPLINKS BLOG BY JOSH RICHMAN | AUGUST 13, 2025\nPodcast Episode: Separating AI Hope from AI Hype\n\nIf you believe the hype, artificial intelligence will soon take all our jobs, or solve all our problems, or destroy all boundaries between reality and lies, or help us live forever, or take over the world and exterminate humanity. That’s a pretty wide spectrum, and leaves a lot of people...\n\nPAGES\n1 2 3 4 5 6 7 8 9 NEXT › LAST »\nFOLLOW EFF:\nmastodon\nfacebook\ninstagram\nBlue Sky\nyoutube\nflicker\nlinkedin\ntiktok\nthreads\n\nCheck out our 4-star rating on Charity Navigator.\n\nCONTACT\nGeneral\nLegal\nSecurity\nMembership\nPress\nABOUT\nCalendar\nVolunteer\nVictories\nHistory\nInternships\nJobs\nStaff\nDiversity & Inclusion\nISSUES\nFree Speech\nPrivacy\nCreativity & Innovation\nTransparency\nInternational\nSecurity\nUPDATES\nBlog\nPress Releases\nEvents\nLegal Cases\nWhitepapers\nEFFector Newsletter\nPRESS\nPress Contact\nDONATE\nJoin or Renew Membership Online\nOne-Time Donation Online\nGiving Societies\nCorporate Giving and Sponsorship\nShop\nOther Ways to Give\nCOPYRIGHT (CC BY)\nTRADEMARK\nPRIVACY POLICY\nTHANKS"
+}

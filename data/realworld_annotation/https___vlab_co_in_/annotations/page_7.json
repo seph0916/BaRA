@@ -1,0 +1,478 @@
+{
+    "image_count": 10,
+    "images": [
+        "https://www.vlab.co.in/images/fb-icon.png",
+        "https://www.vlab.co.in/images/logo.jpg",
+        "https://www.vlab.co.in/images/click-here.png",
+        "https://www.vlab.co.in/images/new.gif",
+        "https://www.vlab.co.in/images/inner_slider/image1.gif",
+        "https://www.vlab.co.in/images/inner_slider/image2.gif",
+        "https://www.vlab.co.in/images/inner_slider/image3.gif",
+        "https://www.vlab.co.in/images/inner_slider/image4.gif",
+        "https://www.vlab.co.in/images/inner_slider/image5.gif",
+        "https://www.vlab.co.in/images/qr-code-mob6.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 114,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.facebook.com/VLabsIITDelhi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "ABOUT US",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "OUTREACH PORTAL",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "PARTICIPATING INSTITUTES",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "CONTACT US",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Outreach Portal",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/index.php"
+        },
+        {
+            "text": "Advanced Computer Architecture Virtual Lab (New)",
+            "href": "https://aca-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://aca-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Artificial Intelligence I Lab (New)",
+            "href": "https://ai1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ai1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Artificial Intelligence II Lab (New)",
+            "href": "https://ai2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ai2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Artificial Intelligence Virtual Lab (New)",
+            "href": "http://ai-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "http://ai-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Artificial Neural Networks Lab",
+            "href": "https://cse22-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse22-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Automata and Formal Languages Virtual Lab I (New)",
+            "href": "https://afl1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://afl1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Automata and Formal Languages Virtual Lab II (New)",
+            "href": "https://afl2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://afl2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Blockchain Virtual Lab (New)",
+            "href": "https://bc-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://bc-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Computational Linguistics Lab",
+            "href": "https://cl-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cl-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Computer Forensics Lab (New)",
+            "href": "https://cf-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://cf-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Computer Graphics Lab (New)",
+            "href": "https://cse18-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse18-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Computer Networks Lab (New)",
+            "href": "https://cn-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cn-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Computer Organisation and Architecture Lab",
+            "href": "https://coa-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://coa-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Computer Organization Lab",
+            "href": "https://cse11-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse11-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Computer Programming Lab",
+            "href": "https://cse02-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse02-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Creative Design, Prototyping & Experiential Lab",
+            "href": "https://cpe-iitg.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT GUWAHATI",
+            "href": "https://cpe-iitg.vlabs.ac.in/"
+        },
+        {
+            "text": "Cryptography Lab",
+            "href": "https://cse29-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse29-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Cryptography Virtual Lab (New)",
+            "href": "https://cpy-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://cpy-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Data Structures - I",
+            "href": "https://ds1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ds1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Data Structures - II",
+            "href": "https://ds2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ds2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Database Security Virtual Lab (New)",
+            "href": "https://ds-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://ds-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Design and Analysis of Algorithms Virtual Lab (New)",
+            "href": "https://daa-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://daa-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Logic Circuit Design Virtual Lab (New)",
+            "href": "https://dlcd-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://dlcd-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Discrete Mathematics Virtual Lab I (New)",
+            "href": "https://dm1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://dm1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Discrete Mathematics Virtual Lab II (New)",
+            "href": "https://dm2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://dm2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Distributed Systems Virtual Lab I (New)",
+            "href": "https://dsys1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://dsys1-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Distributed Systems Virtual Lab II (New)",
+            "href": "https://dsys2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://dsys2-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Formal Language Automata Virtual Lab (New)",
+            "href": "http://fla-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "http://fla-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Image Processing Lab",
+            "href": "https://cse19-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse19-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Internet of Things (IoT) Virtual Lab (New)",
+            "href": "https://iot-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://iot-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Introductory Cyber Security Virtual Lab (New)",
+            "href": "https://ics-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://ics-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Introductory Data Science Lab (New)",
+            "href": "https://ids-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://ids-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Machine Learning Virtual Laboratory (New)",
+            "href": "https://ml-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://ml-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Natural Language Processing Lab",
+            "href": "https://nlp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://nlp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Network Security Virtual Lab (New)",
+            "href": "https://ns-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://ns-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Object Oriented Programming Virtual Lab II (New)",
+            "href": "https://oop-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://oop-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Pattern Recognition Virtual Lab",
+            "href": "https://cse20-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://cse20-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Problem Solving Lab",
+            "href": "https://ps-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ps-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Python Programming Lab",
+            "href": "https://python-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KANPUR",
+            "href": "https://python-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Python Programming Lab: Advanced Topics (New)",
+            "href": "https://python-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://python-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Quantum Computing Virtual Lab (New)",
+            "href": "https://qc-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "AMRITA VISHWA VIDYAPEETHAM",
+            "href": "https://qc-amrt.vlabs.ac.in/"
+        },
+        {
+            "text": "Soft Computing Tools in Engineering Lab",
+            "href": "https://scte-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://scte-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Software Engineering Lab",
+            "href": "https://se-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://se-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Speech Signal Processing Lab",
+            "href": "https://ssp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "IIIT HYDERABAD",
+            "href": "https://ssp-iiith.vlabs.ac.in/"
+        },
+        {
+            "text": "Click here for related NPTEL video lectures",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-computer-science-and-engineering"
+        },
+        {
+            "text": "* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.",
+            "href": "https://www.education.gov.in/hi/ict-initiatives"
+        },
+        {
+            "text": "* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.",
+            "href": "https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8/edit#"
+        },
+        {
+            "text": "Find the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute.",
+            "href": "https://drive.google.com/file/d/1U8z6RerrNA-IeBtCmQj8jDsYCAiu3_EY/view?usp=drive_link"
+        },
+        {
+            "text": "Lab Feedback Form",
+            "href": "http://38.100.110.143/feedback/feedback.html"
+        },
+        {
+            "text": "Lab Assessment Form",
+            "href": "http://38.100.110.143/labassessment/assessmentform.html"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.vlab.co.in/faq"
+        },
+        {
+            "text": "Shakshat Portal",
+            "href": "http://www.sakshat.ac.in/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        }
+    ],
+    "text_length": 4882,
+    "text_full": "21 May, 2026 | 06:08:37 AM\nVisitors  51333515\nAn Initiative of\nMinistry of Education\nUnder the National Mission on Education through ICT\nHOME\nABOUT US\nOUTREACH PORTAL\nPARTICIPATING INSTITUTES\nNMEICT\nCONTACT US\nComputer Science & Engineering\nHome » Broad Areas of Virtual Labs\nAdvanced Computer Architecture Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nArtificial Intelligence I Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nArtificial Intelligence II Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nArtificial Intelligence Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nArtificial Neural Networks Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nAutomata and Formal Languages Virtual Lab I (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nAutomata and Formal Languages Virtual Lab II (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nBlockchain Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nComputational Linguistics Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nComputer Forensics Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nComputer Graphics Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nComputer Networks Lab (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nComputer Organisation and Architecture Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nComputer Organization Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nComputer Programming Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nCreative Design, Prototyping & Experiential Lab\nReference Books \nSyllabus Mapping \nIIT GUWAHATI\nCryptography Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nCryptography Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nData Structures - I\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nData Structures - II\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nDatabase Security Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nDesign and Analysis of Algorithms Virtual Lab (New)\nReference Books \nSyllabus Mapping \nDAYALBAGH\nDigital Logic Circuit Design Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nDiscrete Mathematics Virtual Lab I (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nDiscrete Mathematics Virtual Lab II (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nDistributed Systems Virtual Lab I (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nDistributed Systems Virtual Lab II (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nFormal Language Automata Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nImage Processing Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nInternet of Things (IoT) Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nIntroductory Cyber Security Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nIntroductory Data Science Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nMachine Learning Virtual Laboratory (New)\nReference Books \nSyllabus Mapping \nDAYALBAGH\nNatural Language Processing Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nNetwork Security Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nObject Oriented Programming Virtual Lab II (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nPattern Recognition Virtual Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nProblem Solving Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nPython Programming Lab\nReference Books \nSyllabus Mapping \nIIT KANPUR\nPython Programming Lab: Advanced Topics (New)\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\nQuantum Computing Virtual Lab (New)\nReference Books \nSyllabus Mapping \nAMRITA VISHWA VIDYAPEETHAM\nSoft Computing Tools in Engineering Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nSoftware Engineering Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nSpeech Signal Processing Lab\nReference Books \nSyllabus Mapping \nIIIT HYDERABAD\n  Click here for related NPTEL video lectures\nAnnouncements\n\n* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.\n\n* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.\n\nFind the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute. \n\nQuick Links\n\nLab Feedback Form\nLab Assessment Form\nFAQ\nShakshat Portal\n\nAbout VLAB\n\nHome\nAbout us\nContact Us\n\nGet In Touch With Us\n\n  support@vlab.co.in\n   Phone(O) - +91-9211460624\n  Wireless Research Lab\nRoom No - 206/IIA\nBharti School of Telecom\nIndian Institute of Technology Delhi\nHauz Khas, New Delhi-110016"
+}

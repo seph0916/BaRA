@@ -1,0 +1,211 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 50,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "ruby",
+            "href": "https://nesbitt.io/search#ruby"
+        },
+        {
+            "text": "sbom",
+            "href": "https://nesbitt.io/search#sbom"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "tools",
+            "href": "https://nesbitt.io/search#tools"
+        },
+        {
+            "text": "purl",
+            "href": "https://github.com/andrew/purl"
+        },
+        {
+            "text": "vers",
+            "href": "https://github.com/andrew/vers"
+        },
+        {
+            "text": "sbom",
+            "href": "https://github.com/andrew/sbom"
+        },
+        {
+            "text": "swhid",
+            "href": "https://github.com/andrew/swhid"
+        },
+        {
+            "text": "sarif",
+            "href": "https://github.com/andrew/sarif"
+        },
+        {
+            "text": "Ecosyste.ms",
+            "href": "https://ecosyste.ms/"
+        },
+        {
+            "text": "purl",
+            "href": "https://github.com/andrew/purl"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby#purl"
+        },
+        {
+            "text": "ECMA-427",
+            "href": "https://ecma-international.org/publications-and-standards/standards/ecma-427/"
+        },
+        {
+            "text": "vers",
+            "href": "https://github.com/andrew/vers"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby#vers"
+        },
+        {
+            "text": "VERS",
+            "href": "https://github.com/package-url/vers-spec"
+        },
+        {
+            "text": "presentation from Open Source Summit NA 2025",
+            "href": "https://www.youtube.com/watch?v=EU-TodN27rM"
+        },
+        {
+            "text": "slides",
+            "href": "https://static.sched.com/hosted_files/ossna2025/74/We%20need%20a%20standard%20for%20open%20source%20package%20requirements.pdf"
+        },
+        {
+            "text": "semantic_range",
+            "href": "https://github.com/librariesio/semantic_range"
+        },
+        {
+            "text": "sbom",
+            "href": "https://github.com/andrew/sbom"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby#sbom"
+        },
+        {
+            "text": "Of course there are two",
+            "href": "https://xkcd.com/927/"
+        },
+        {
+            "text": "swhid",
+            "href": "https://github.com/andrew/swhid"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby#swhid"
+        },
+        {
+            "text": "Software Heritage",
+            "href": "https://www.softwareheritage.org/"
+        },
+        {
+            "text": "changelog-parser",
+            "href": "https://github.com/andrew/changelog-parser"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby#changelog-parser"
+        },
+        {
+            "text": "diffoscope",
+            "href": "https://github.com/andrew/diffoscope"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby#diffoscope"
+        },
+        {
+            "text": "diffoscope",
+            "href": "https://diffoscope.org/"
+        },
+        {
+            "text": "sarif",
+            "href": "https://github.com/andrew/sarif"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby#sarif"
+        },
+        {
+            "text": "Go Modules for Package Management Tooling",
+            "href": "https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html"
+        },
+        {
+            "text": "proxy",
+            "href": "https://nesbitt.io/2026/05/11/proxy.html"
+        },
+        {
+            "text": "Common Package Specification",
+            "href": "https://nesbitt.io/2026/04/13/common-package-specification.html"
+        },
+        {
+            "text": "Sandwich Bill of Materials",
+            "href": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html"
+        },
+        {
+            "text": "Package Management at FOSDEM 2026",
+            "href": "https://nesbitt.io/2026/02/04/package-management-at-fosdem-2026.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-12-14-supply-chain-security-tools-for-ruby.md"
+        }
+    ],
+    "text_length": 8652,
+    "text_full": "Andrew Nesbitt\n      \nSupply Chain Security Tools for Ruby\nrubysbompackage-managerstools\n\nDec 14, 2025\n\nI’ve published several Ruby gems that work together to help people build supply chain security tools: purl, vers, sbom, swhid, and sarif. They handle the specs that security tooling depends on.\n\nI built these for Ecosyste.ms, which tracks dependencies across package registries. We deal with a lot of cross-ecosystem data: vulnerability reports that reference packages by PURL, version ranges from security advisories, SBOMs from various sources. If you’re building security scanners, registry tooling, or compliance pipelines in Ruby, these might be useful.\n\npurl#\n\nPackage URL is a standardized format for identifying software packages across ecosystems. Instead of saying “the requests package version 2.28.0 from PyPI,” you write pkg:pypi/requests@2.28.0. The format handles the variations between registries:\n\npkg:npm/%40babel/core@7.24.0 (npm scoped package)\npkg:maven/org.apache.logging.log4j/log4j-core@2.17.1 (Maven with group ID)\npkg:docker/library/nginx@1.25.0 (Docker image)\npkg:gem/rails@7.1.0 (RubyGems)\npkg:github/rails/rails@v7.1.0 (GitHub repo at a tag)\n\nIt’s used in SPDX, CycloneDX, and most security tooling. PURL recently became ECMA-427.\n\nThe gem parses and generates these identifiers, with type-specific validation for ecosystems like conan, cran, and swift. Use it as a library:\n\npurl = Purl.parse(\"pkg:gem/rails@7.0.0\")\npurl.type    # => \"gem\"\npurl.name    # => \"rails\"\npurl.version # => \"7.0.0\"\n\n\nOr from the command line. The CLI integrates with Ecosyste.ms for looking up package metadata and security advisories:\n\n$ purl advisories pkg:npm/lodash@4.17.19\n\n\nIt also generates registry URLs for most package ecosystems.\n\nvers#\n\nVERS is the version range specification that accompanies PURL. Vulnerability databases need to express “this CVE affects versions 1.0 through 1.4.2, and also 2.0.0-beta.” Different ecosystems have incompatible range syntaxes: npm uses >=1.0.0 <1.4.3, Ruby uses >= 1.0, < 1.4.3, Python uses >=1.0,<1.4.3. If you’re building cross-ecosystem tooling, you need one syntax to normalize everything to. VERS provides that:\n\nvers:gem/>=2.0.0|<2.7.2 (Ruby versions 2.0.0 up to but not including 2.7.2)\nvers:npm/>=1.0.0|<1.4.3|>=2.0.0|<2.1.0 (two separate ranges)\nvers:pypi/>=0|<1.2.3 (all versions before 1.2.3)\nvers:maven/>=1.0|<=1.5|!=1.3 (1.0 through 1.5, excluding 1.3)\nrange = Vers.parse(\"vers:npm/>=1.2.3|<2.0.0\")\nrange.contains?(\"1.5.0\") # => true\nrange.contains?(\"2.1.0\") # => false\n\n\nThe gem parses these ranges and checks whether a given version falls within them. Internally it uses a mathematical interval model inspired by a presentation from Open Source Summit NA 2025 (slides) by Eve Martin-Jones and Elitsa Bankova. It’s also a redo of semantic_range, a library I wrote 10 years ago for Libraries.io that handled version ranges across multiple ecosystems.\n\nsbom#\n\nThere are two main Software Bill of Materials formats: SPDX and CycloneDX. Of course there are two. SPDX comes from the Linux Foundation and started as a license compliance format. CycloneDX comes from OWASP and started as a security format. Both now try to do everything.\n\nThe gem parses, generates, and validates both. SPDX 2.2 and 2.3 in JSON, YAML, XML, RDF, and tag-value. CycloneDX 1.4 through 1.7 in JSON and XML. It auto-detects formats when parsing and validates against the official schemas.\n\nsbom = Sbom.parse_file(\"example.spdx.json\")\nsbom.packages.each do |pkg|\n  puts \"#{pkg.name} @ #{pkg.version}\"\nend\n\n\nThe CLI handles parsing, validation, format conversion, and enrichment:\n\n$ sbom validate example.cdx.json\n$ sbom convert example.cdx.json --type spdx --output example.spdx.json\n$ sbom enrich example.cdx.json\n\n\nThe enrich command pulls metadata from Ecosyste.ms: descriptions, homepages, licenses, repository URLs, and security advisories.\n\nswhid#\n\nSoftWare Hash IDentifiers are content-based hashes for software artifacts: files, directories, commits, releases, and snapshots. They originated from Software Heritage, the archive that’s preserving all publicly available source code. They’re intrinsic identifiers, meaning the same content always produces the same SWHID regardless of where it lives. The spec is now ISO/IEC 18670:2025.\n\nswhid = Swhid.parse(\"swh:1:cnt:94a9ed024d3859793618152ea559a168bbcbb5e2\")\nswhid.object_type # => \"cnt\"\n\nSwhid.from_content(File.read(\"file.txt\"))\n\n\nThe CLI generates SWHIDs from files, directories, or git objects:\n\n$ swhid content < file.txt\n$ swhid directory /path/to/project\n$ swhid revision /path/to/repo HEAD\n\nchangelog-parser#\n\nChangelogs are one of the most useful pieces of metadata a package can have, but they come in dozens of formats. Some projects use CHANGELOG.md, others use HISTORY.txt or NEWS. Some follow Keep a Changelog, others use their own conventions.\n\nThis gem parses changelogs and extracts structured release notes:\n\nresult = Changelog::Parser.parse_file(\"CHANGELOG.md\")\n# => { \"1.0.0\" => { date: #<Date: 2024-01-15>, content: \"### Added\\n- Initial release\" } }\n\nparser = Changelog::Parser.new(changelog)\nparser.versions        # => [\"Unreleased\", \"1.0.0\"]\nparser[\"1.0.0\"]        # => { date: #<Date>, content: \"...\" }\nparser.between(\"1.0.0\", \"2.0.0\")  # content between versions, like Dependabot uses\n\n\nThe CLI handles parsing, listing versions, and extracting content between versions:\n\n$ changelog-parser parse CHANGELOG.md\n$ changelog-parser list CHANGELOG.md\n$ changelog-parser between 1.0.0 2.0.0 CHANGELOG.md\n\ndiffoscope#\n\nWhen a new version of a package is released, what actually changed? The version number and changelog tell you what the maintainer thinks changed, but sometimes you want to verify. This is particularly useful when investigating supply chain attacks or checking for unexpected modifications.\n\nThis gem provides Ruby bindings for diffoscope, a tool for in-depth comparison of files, archives, and directories:\n\nresult = Diffoscope.compare(\"old.tar.gz\", \"new.tar.gz\")\nresult.identical?        # => true/false\nresult.to_unified_diff   # => git-style diff string\nresult.sha256_1          # => SHA256 of first file\n\n# Compare package URLs directly\nresult = Diffoscope.compare(\"pkg:gem/rails@7.0.0\", \"pkg:gem/rails@7.1.0\")\n\n\nThe CLI wraps diffoscope with PURL support:\n\n$ diffoscope old.tar.gz new.tar.gz\n$ diffoscope pkg:gem/rails@7.0.0 pkg:gem/rails@7.1.0\n\nsarif#\n\nStatic analysis tools produce findings: “line 42 has a SQL injection vulnerability.” SARIF (Static Analysis Results Interchange Format) is the OASIS standard for representing these results. GitHub code scanning uses it. Most security scanners can output it.\n\nThe gem provides Ruby classes for the complete SARIF 2.1.0 specification:\n\nlog = Sarif::Log.new(\n  runs: [\n    Sarif::Run.new(\n      tool: Sarif::Tool.new(driver: Sarif::ToolComponent.new(name: \"my-scanner\")),\n      results: [\n        Sarif::Result.new(\n          rule_id: \"SQL001\",\n          level: \"error\",\n          message: Sarif::Message.new(text: \"SQL injection vulnerability\")\n        )\n      ]\n    )\n  ]\n)\n\nSarif.dump(\"output.sarif\", log)\n\n\nReading existing SARIF files:\n\nlog = Sarif.load(\"scanner-output.sarif\")\nlog.runs.each do |run|\n  run.results.each do |result|\n    puts \"#{result.rule_id}: #{result.message.text}\"\n  end\nend\n\n\nThese gems provide Ruby implementations of specs that show up repeatedly in supply chain security work: package identifiers, version ranges, SBOM formats, content hashes, changelogs, package diffs, and static analysis results. They’re designed to be used as libraries or CLI tools, and to behave predictably across ecosystems.\n\nThey were built to support Ecosyste.ms and are used there in production. If you’re working with dependency metadata in Ruby, they handle the spec compliance so you don’t have to. With the CRA coming into full effect in 2027, you’ll probably hear more about SBOMs and supply chain security in the coming years.\n\nRelated posts\nGo Modules for Package Management Tooling Feb 19, 2026\n\nThe Go modules behind git-pkgs, rebuilt from my Ruby supply chain libraries.\n\nproxy May 11, 2026\n\nA lightweight multi-ecosystem caching package proxy\n\nCommon Package Specification Apr 13, 2026\n\nNot the cross-ecosystem format the name suggests.\n\nSandwich Bill of Materials Feb 8, 2026\n\nSBOM 1.0: A specification for sandwich supply chain transparency.\n\nPackage Management at FOSDEM 2026 Feb 4, 2026\n\nSummary of package management talks from FOSDEM 2026, covering supply chain security, attestations, SBOMs, dependency resolution, and distribution packaging across multiple devrooms.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

@@ -1,0 +1,811 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 200,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "design tradeoffs",
+            "href": "https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html"
+        },
+        {
+            "text": "ecosyste.ms documentation repositories",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data.html"
+        },
+        {
+            "text": "package manager clients",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html"
+        },
+        {
+            "text": "CSV",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/data/package-registries.csv"
+        },
+        {
+            "text": "Architecture",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#registry-architecture"
+        },
+        {
+            "text": "Review model",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#reviewed--unreviewed"
+        },
+        {
+            "text": "Namespacing",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#namespacing"
+        },
+        {
+            "text": "Distribution model",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#distribution-model"
+        },
+        {
+            "text": "Governance",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#registry-governance"
+        },
+        {
+            "text": "Ecosystem scope",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#ecosystem-scope"
+        },
+        {
+            "text": "Version retention",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#version-retention"
+        },
+        {
+            "text": "Size",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#registry-size"
+        },
+        {
+            "text": "Mirroring",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#mirroring--proxying"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#registry-architecture"
+        },
+        {
+            "text": "1",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:cargo-index"
+        },
+        {
+            "text": "sparse index",
+            "href": "https://nesbitt.io/2025/12/28/the-compact-index.html"
+        },
+        {
+            "text": "2",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:juliahub-git"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nix-guix-spack-hashing"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nix-guix-spack-hashing"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nix-guix-spack-hashing"
+        },
+        {
+            "text": "the compact index",
+            "href": "https://nesbitt.io/2025/12/28/the-compact-index.html"
+        },
+        {
+            "text": "4",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:racket-filesystem"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nix-guix-spack-hashing"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nix-guix-spack-hashing"
+        },
+        {
+            "text": "5",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:spack-content-addressing"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nix-guix-spack-hashing"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#reviewed--unreviewed"
+        },
+        {
+            "text": "6",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:arch-aur"
+        },
+        {
+            "text": "7",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:maven-verification"
+        },
+        {
+            "text": "8",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:elm-semver"
+        },
+        {
+            "text": "9",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:chocolatey-moderation"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#namespacing"
+        },
+        {
+            "text": "10",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:spack-namespaces"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#distribution-model"
+        },
+        {
+            "text": "11",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:clojars-bytecode"
+        },
+        {
+            "text": "12",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:homebrew-bottles"
+        },
+        {
+            "text": "13",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nix-substitutes"
+        },
+        {
+            "text": "14",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:spack-binaries"
+        },
+        {
+            "text": "15",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nuget-rids"
+        },
+        {
+            "text": "14",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:spack-binaries"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#registry-governance"
+        },
+        {
+            "text": "16",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:pypi-psf"
+        },
+        {
+            "text": "17",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:crates-rust"
+        },
+        {
+            "text": "18",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:rubygems-central"
+        },
+        {
+            "text": "19",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:maven-lf"
+        },
+        {
+            "text": "20",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:packagist-funding"
+        },
+        {
+            "text": "21",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:cpan-perl"
+        },
+        {
+            "text": "22",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:hex-funding"
+        },
+        {
+            "text": "23",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:clojars-funding"
+        },
+        {
+            "text": "24",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:hackage-org"
+        },
+        {
+            "text": "25",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:cran-r"
+        },
+        {
+            "text": "26",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:homebrew-osc"
+        },
+        {
+            "text": "27",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:openvsx-eclipse"
+        },
+        {
+            "text": "28",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:helm-cncf"
+        },
+        {
+            "text": "29",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:npm-microsoft"
+        },
+        {
+            "text": "30",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:nuget-microsoft"
+        },
+        {
+            "text": "31",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:pubdev-google"
+        },
+        {
+            "text": "32",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:conda-anaconda"
+        },
+        {
+            "text": "33",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:juliahub-computing"
+        },
+        {
+            "text": "34",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:puppet-perforce"
+        },
+        {
+            "text": "35",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:ansible-redhat"
+        },
+        {
+            "text": "36",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:chocolatey-company"
+        },
+        {
+            "text": "37",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:winget-microsoft"
+        },
+        {
+            "text": "38",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:go-google"
+        },
+        {
+            "text": "39",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:deno-company"
+        },
+        {
+            "text": "39",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:deno-company"
+        },
+        {
+            "text": "40",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:fedora-redhat"
+        },
+        {
+            "text": "41",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:ubuntu-canonical"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#ecosystem-scope"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#version-retention"
+        },
+        {
+            "text": "42",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:maven-permanent"
+        },
+        {
+            "text": "43",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:go-cache-permanent"
+        },
+        {
+            "text": "44",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:spack-versions"
+        },
+        {
+            "text": "45",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:npm-unpublish"
+        },
+        {
+            "text": "46",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:pypi-deletion"
+        },
+        {
+            "text": "47",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:crates-deletion"
+        },
+        {
+            "text": "48",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:homebrew-latest"
+        },
+        {
+            "text": "49",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:apt-releases"
+        },
+        {
+            "text": "50",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:arch-rolling"
+        },
+        {
+            "text": "51",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:alpine-releases"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#registry-size"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#mirroring--proxying"
+        },
+        {
+            "text": "52",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:npm-verdaccio"
+        },
+        {
+            "text": "53",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:pypi-devpi"
+        },
+        {
+            "text": "54",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:maven-nexus"
+        },
+        {
+            "text": "55",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:hex-mirrors"
+        },
+        {
+            "text": "56",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:luarocks-servers"
+        },
+        {
+            "text": "57",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fn:clojars-mirrors"
+        },
+        {
+            "text": "sparse index",
+            "href": "https://rust-lang.github.io/rfcs/2789-sparse-index.html"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:cargo-index"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:juliahub-git"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nix-guix-spack-hashing"
+        },
+        {
+            "text": "↩2",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nix-guix-spack-hashing:1"
+        },
+        {
+            "text": "↩3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nix-guix-spack-hashing:2"
+        },
+        {
+            "text": "↩4",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nix-guix-spack-hashing:3"
+        },
+        {
+            "text": "↩5",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nix-guix-spack-hashing:4"
+        },
+        {
+            "text": "↩6",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nix-guix-spack-hashing:5"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:racket-filesystem"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:spack-content-addressing"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:arch-aur"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:maven-verification"
+        },
+        {
+            "text": "enforces semantic versioning",
+            "href": "https://package.elm-lang.org/help/design-guidelines"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:elm-semver"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:chocolatey-moderation"
+        },
+        {
+            "text": "default one",
+            "href": "https://github.com/spack/spack-packages"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:spack-namespaces"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:clojars-bytecode"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:homebrew-bottles"
+        },
+        {
+            "text": "cache.nixos.org",
+            "href": "https://cache.nixos.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nix-substitutes"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:spack-binaries"
+        },
+        {
+            "text": "↩2",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:spack-binaries:1"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nuget-rids"
+        },
+        {
+            "text": "Python Software Foundation",
+            "href": "https://www.python.org/psf-landing/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:pypi-psf"
+        },
+        {
+            "text": "Rust Foundation",
+            "href": "https://rustfoundation.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:crates-rust"
+        },
+        {
+            "text": "Ruby Central",
+            "href": "https://rubycentral.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:rubygems-central"
+        },
+        {
+            "text": "Sonatype",
+            "href": "https://www.sonatype.com/"
+        },
+        {
+            "text": "Linux Foundation",
+            "href": "https://www.linuxfoundation.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:maven-lf"
+        },
+        {
+            "text": "Private Packagist",
+            "href": "https://packagist.com/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:packagist-funding"
+        },
+        {
+            "text": "Perl Foundation",
+            "href": "https://perlfoundation.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:cpan-perl"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:hex-funding"
+        },
+        {
+            "text": "Clojurists Together",
+            "href": "https://www.clojuriststogether.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:clojars-funding"
+        },
+        {
+            "text": "Haskell.org",
+            "href": "https://www.haskell.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:hackage-org"
+        },
+        {
+            "text": "R Foundation",
+            "href": "https://www.r-project.org/foundation/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:cran-r"
+        },
+        {
+            "text": "Open Source Collective",
+            "href": "https://opencollective.com/opensource"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:homebrew-osc"
+        },
+        {
+            "text": "Eclipse Foundation",
+            "href": "https://www.eclipse.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:openvsx-eclipse"
+        },
+        {
+            "text": "Cloud Native Computing Foundation",
+            "href": "https://www.cncf.io/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:helm-cncf"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:npm-microsoft"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:nuget-microsoft"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:pubdev-google"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:conda-anaconda"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:juliahub-computing"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:puppet-perforce"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:ansible-redhat"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:chocolatey-company"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:winget-microsoft"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:go-google"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:deno-company"
+        },
+        {
+            "text": "↩2",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:deno-company:1"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:fedora-redhat"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:ubuntu-canonical"
+        },
+        {
+            "text": "does not allow deletion",
+            "href": "https://central.sonatype.org/faq/can-i-change-a-component/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:maven-permanent"
+        },
+        {
+            "text": "proxy.golang.org",
+            "href": "https://proxy.golang.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:go-cache-permanent"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:spack-versions"
+        },
+        {
+            "text": "72-hour window",
+            "href": "https://docs.npmjs.com/policies/unpublish/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:npm-unpublish"
+        },
+        {
+            "text": "PEP 763",
+            "href": "https://peps.python.org/pep-0763/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:pypi-deletion"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:crates-deletion"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:homebrew-latest"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:apt-releases"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:arch-rolling"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:alpine-releases"
+        },
+        {
+            "text": "Verdaccio",
+            "href": "https://www.verdaccio.org/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:npm-verdaccio"
+        },
+        {
+            "text": "devpi",
+            "href": "https://github.com/devpi/devpi"
+        },
+        {
+            "text": "Artifactory",
+            "href": "https://jfrog.com/artifactory/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:pypi-devpi"
+        },
+        {
+            "text": "Nexus",
+            "href": "https://www.sonatype.com/products/sonatype-nexus-repository"
+        },
+        {
+            "text": "Artifactory",
+            "href": "https://jfrog.com/artifactory/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:maven-nexus"
+        },
+        {
+            "text": "mirror documentation",
+            "href": "https://hex.pm/docs/mirrors"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:hex-mirrors"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:luarocks-servers"
+        },
+        {
+            "text": "Mirror documentation",
+            "href": "https://github.com/clojars/clojars-web/wiki/Mirrors"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html#fnref:clojars-mirrors"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "Package Manager Easter Eggs",
+            "href": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
+        },
+        {
+            "text": "Package Manager Mirroring",
+            "href": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html"
+        },
+        {
+            "text": "Package Manager Magic Files",
+            "href": "https://nesbitt.io/2026/03/05/package-manager-magic-files.html"
+        },
+        {
+            "text": "Package Manager Podcast Episodes",
+            "href": "https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-12-29-categorizing-package-registries.md"
+        }
+    ],
+    "text_length": 13824,
+    "text_full": "Andrew Nesbitt\n      \nCategorizing Package Registries\npackage-managersreference\n\nDec 29, 2025\n\nPackage registries differ in dozens of ways, but most of those differences cluster into a few structural categories. Looking at them through the lens of design tradeoffs helps explain why they ended up where they did. The ecosyste.ms documentation repositories contain detailed data on over 70 registries; here I’m trying to draw out the shapes.\n\nThe categories below are roughly orthogonal dimensions. No registry is “just” one thing; each is a particular combination of choices. npmjs.com is database-backed, unreviewed, has flat-plus-scoped names, ships mostly source, and is run by a for-profit company. Debian’s repositories are filesystem-based, curated by maintainers, use distro-managed names, ship binaries, and are run by a foundation. Those combinations matter more than any single axis.\n\nA companion post covers package manager clients: resolution algorithms, lockfiles, build hooks, and manifest formats. The data is also available as CSV. There are gaps; contributions welcome.\n\nContents: Architecture · Review model · Namespacing · Distribution model · Governance · Ecosystem scope · Version retention · Size · Mirroring\n\nRegistry architecture#\n\nHow does the registry store and serve package metadata?\n\nDatabase-backed web services are uploaded via API, with metadata in Postgres or similar. This model scales well and supports rich features like download counts and vulnerability reporting.\n\nnpmjs.com\npypi.org\nrubygems.org\nnuget.org\ncrates.io1\npackagist.org\nhex.pm\npub.dev\nclojars.org\nforge.puppet.com\nanaconda.org\nluarocks.org\ncommunity.chocolatey.org\nopen-vsx.org\ngalaxy.ansible.com\njsr.io\n\nGit repositories as indexes use version control as the storage layer on the critical path. If you removed git, you’d need to replace it with a database. The git model provides history, is trivially mirrorable, and works offline once cloned. But it doesn’t scale indefinitely; Cargo had to add a sparse index to avoid downloading the entire registry on first use.\n\nhomebrew-core\ncocoapods.org\nvcpkg\nconan.io\nswiftpackageindex.com\nJulia General registry\njuliahub.com2\nwinget-pkgs\nspack3\nnix3\nguix3\n\nFilesystem-based repositories serve generated index files statically from HTTP mirrors. The server does work only when the repository is updated, not when clients fetch. This is the pattern that the compact index brought to RubyGems.\n\napt/dpkg\nyum/dnf\npacman\napk\nzypper\nPortage\ncran.r-project.org\nbioconductor.org\nmetacpan.org\nhackage.haskell.org\npkgs.racket-lang.org4\nFreeBSD ports\npkgsrc\nHelm\npostmarketOS\nAdélie Linux\n\nSource host as registry means no central registry. Packages are fetched directly from git hosts using URLs as identifiers.\n\nGo modules\nDeno\nCarthage\n\nContent-addressed stores identify packages by hash of inputs. Binary caches provide pre-built artifacts.\n\nNix3\nGuix3\nspack53\nReviewed / Unreviewed#\n\nDoes someone look at packages before they’re available?\n\nUnreviewed means anyone can publish immediately. You create an account, run a publish command, and your package is live within seconds. This enables growth but creates attack surface.\n\nnpmjs.com\npypi.org\ncrates.io\nrubygems.org\npackagist.org\nnuget.org\nhex.pm\npub.dev\nclojars.org\njuliahub.com\nhackage.haskell.org\nmetacpan.org\nforge.puppet.com\nanaconda.org\nluarocks.org\nopen-vsx.org\ngalaxy.ansible.com\njsr.io\n\nReviewed registries have maintainers review packages before they appear. These registries grow more slowly but catch problems earlier. In practice, “review” ranges from packaging QA and policy checks to security vetting; very few projects do systematic source code review.\n\nDebian\nFedora\nUbuntu\nhomebrew-core\nAlpine\nArch6\nnixpkgs\nF-Droid\ncran.r-project.org\nbioconductor.org\nconda-forge\npostmarketOS\nAdélie Linux\nspack\nFreeBSD ports\npkgsrc\nwinget-pkgs\ncentral.sonatype.com7\n\nModerated upload accepts uploads but has moderation layers or automated semantic checks.\n\npackage.elm-lang.org8\ncommunity.chocolatey.org9\nNamespacing#\n\nHow are packages named?\n\nFlat namespaces give each package a single global name.\n\nrubygems.org\npypi.org\ncrates.io\nhex.pm\nhackage.haskell.org\ncran.r-project.org\njuliahub.com\npackage.elm-lang.org\nluarocks.org\ncommunity.chocolatey.org\n\nScoped namespaces add organizational prefixes like @babel/core or symfony/console.\n\nnpmjs.com\npackagist.org\nforge.puppet.com\nopen-vsx.org\ngalaxy.ansible.com\nwinget-pkgs\nartifacthub.io\nanaconda.org\njsr.io\n\nHierarchical namespaces use structured naming like org.apache.commons:commons-lang3 or DateTime::Format::Strptime.\n\ncentral.sonatype.com\nmetacpan.org\nclojars.org\nspack10\n\nURL-based identifiers like github.com/user/repo use domain ownership as the claim. No registration step.\n\nproxy.golang.org\ndeno.land\nSwift Package Manager\nCarthage\n\nDistro-managed names are controlled by distribution maintainers, often differing from upstream project names.\n\nDebian\nFedora\nArch\nAlpine\nhomebrew-core\nnixpkgs\nspack\nconda-forge\nFreeBSD ports\npkgsrc\npostmarketOS\nDistribution model#\n\nWhat gets distributed?\n\nSource only ships code that gets compiled or interpreted on the client. One artifact supports any platform.\n\nnpmjs.com\ncrates.io\nproxy.golang.org\nmetacpan.org\nhex.pm\nhackage.haskell.org\ncran.r-project.org\npackage.elm-lang.org\npkgs.racket-lang.org\nclojars.org11\nluarocks.org\ngalaxy.ansible.com\nartifacthub.io\njsr.io\n\nBinary only ships precompiled artifacts.\n\ncentral.sonatype.com\nnuget.org\napt/dpkg\nyum/dnf\npacman\napk\ncommunity.chocolatey.org\nwinget-pkgs\n\nMixed source and binary provides source distributions plus prebuilt wheels/binaries. Native code gets platform-specific builds.\n\npypi.org\nrubygems.org\ncocoapods.org\nanaconda.org\nhomebrew-core12\ncache.nixos.org13\nspack14\nFreeBSD ports\npkgsrc\n\nPlatform matrices publish multiple artifacts per release: cp39-manylinux_x86_64, cp310-macosx_arm64, etc.\n\npypi.org\nrubygems.org\nanaconda.org\ncache.nixos.org\nnuget.org15\nhomebrew-core\nspack14\nRegistry governance#\n\nWho runs the registry?\n\nNon-profit foundations operate registries as community infrastructure.\n\npypi.org16\ncrates.io17\nrubygems.org18\ncentral.sonatype.com19\npackagist.org20\nmetacpan.org21\nhex.pm22\nclojars.org23\nhackage.haskell.org24\ncran.r-project.org25\nhomebrew-core26\nopen-vsx.org27\nartifacthub.io28\n\nFor-profit companies run registries as products or strategic infrastructure.\n\nnpmjs.com29\nnuget.org30\npub.dev31\nanaconda.org32\njuliahub.com33\nforge.puppet.com34\ngalaxy.ansible.com35\ncommunity.chocolatey.org36\nwinget-pkgs37\nproxy.golang.org38\ndeno.land39\njsr.io39\n\nCommunity projects run registries as volunteer efforts, often with fiscal sponsors.\n\ncocoapods.org\nconda-forge\nswiftpackageindex.com\nluarocks.org\nCarthage\nnixpkgs\n\nDistribution projects maintain repositories as part of their distro.\n\nDebian\nFedora40\nUbuntu41\nArch\nAlpine\npostmarketOS\nAdélie Linux\nspack\nFreeBSD\npkgsrc\nEcosystem scope#\n\nWhat kind of software does this package manager handle?\n\nLanguage-specific registries serve a single programming language ecosystem.\n\nnpmjs.com\npypi.org\nrubygems.org\ncrates.io\nhex.pm\nhackage.haskell.org\nmetacpan.org\nclojars.org\npub.dev\ncran.r-project.org\njuliahub.com\npackage.elm-lang.org\npkgs.racket-lang.org\npackagist.org\nproxy.golang.org\ncentral.sonatype.com\nluarocks.org\njsr.io\n\nSystem-level registries install operating system components and applications.\n\napt/dpkg\nyum/dnf\npacman\napk\nhomebrew-core\nnixpkgs\nGuix\nzypper\nPortage\nFreeBSD ports\npkgsrc\ncommunity.chocolatey.org\nwinget-pkgs\n\nDomain-specific registries serve particular use cases or industries.\n\nbioconductor.org\nconda-forge\nspack\nROS\nforge.puppet.com\nregistry.terraform.io\ngalaxy.ansible.com\nartifacthub.io\nopen-vsx.org\nVersion retention#\n\nDoes the registry keep old versions available? What happens when a published version needs to be removed?\n\nKeeps all versions indefinitely. You can install any historical version.\n\ncentral.sonatype.com42\nproxy.golang.org43\nspack44\n\nYanking marks a version as unavailable for new installs but keeps it accessible for existing lockfiles.\n\ncrates.io\nrubygems.org\nhex.pm\n\nTime-limited deletion allows removal within a window, then versions become permanent.\n\nnpmjs.com45\npypi.org46\ncrates.io47\nnuget.org\npackagist.org\nclojars.org\nhackage.haskell.org\nmetacpan.org\npub.dev\n\nLatest only or limited retention. Old versions disappear when new ones are published.\n\nhomebrew-core48\napt/dpkg49\nArch50\nAlpine51\nRegistry size#\n\nHow many packages? Grouped by order of magnitude.\n\n10⁶+ (millions)\n\nnpmjs.com\nproxy.golang.org\npypi.org\n\n10⁵ (hundreds of thousands)\n\ncentral.sonatype.com\nnuget.org\npackagist.org\nrubygems.org\ncrates.io\ncocoapods.org\nanaconda.org\nnixpkgs\nArch AUR\nFedora\nDebian\nUbuntu\n\n10⁴ (tens of thousands)\n\npub.dev\nclojars.org\nhex.pm\nhackage.haskell.org\ncran.r-project.org\nFreeBSD ports\nAlpine\n\n10³ (thousands)\n\nhomebrew-core\nluarocks.org\npackage.elm-lang.org\nMirroring / Proxying#\n\nHow hard is it to run your own registry or mirror?\n\nTrivial means filesystem-based repos or source-host registries that need no special infrastructure.\n\napt/dpkg\nyum/dnf\nproxy.golang.org\nmetacpan.org\ncran.r-project.org\n\nSupported means official tooling or documented processes exist for running mirrors or private registries.\n\nnpmjs.com52\npypi.org53\ncentral.sonatype.com54\nnuget.org\nrubygems.org\ncrates.io\npackagist.org\nhex.pm55\nluarocks.org56\nclojars.org57\n\nCargo originally required cloning the full crates.io-index git repo; the sparse index now allows fetching only needed entries. ↩\n\nJuliaHub has a database-backed front end but the underlying Julia General registry is a git repository. ↩\n\nNix, Guix, and Spack use git repositories as registries of build recipes and package metadata, but they also use content-addressed stores for binary packages and for their installation layout. In Spack’s case, there is also an index in every install tree and in every binary cache, so that the solve can attempt to use as many prebuilt packages as possible. ↩ ↩2 ↩3 ↩4 ↩5 ↩6\n\npkgs.racket-lang.org stores packages as files, generates a JSON index, and serves via S3. It polls git sources for updates but doesn’t use git as its storage layer. ↩\n\nSpack binary caches are content-addressed by hashes of inputs but also provide an index so that the solver can consider binaries. ↩\n\nThe AUR (Arch User Repository) is unreviewed; official repos are curated. ↩\n\nRequires proving domain ownership via DNS or hosting a file at the domain. ↩\n\nElm enforces semantic versioning by diffing package APIs and rejecting publishes that break compatibility without a major version bump. ↩\n\nThree-stage automated review (validator, verifier, VirusTotal scan) plus human moderation. ↩\n\nEvery spack package repository has a namespace; the default one is called builtin. Custom and/or private repositories have their own namespace but can layer on top of builtin. ↩\n\nPublishes JVM bytecode in JAR files, but these are built from source during the publish process. ↩\n\nBottles are prebuilt binaries for common macOS versions. ↩\n\nBinary substitutes from cache.nixos.org avoid rebuilding from source. ↩\n\nSpack supports binary caches but defaults to building from source. Spack publishes multiple builds of each package on each release. ↩ ↩2\n\nRuntime Identifiers (RIDs) specify platform-specific assets. ↩\n\nPython Software Foundation ↩\n\nRust Foundation ↩\n\nRuby Central ↩\n\nOriginally Sonatype, now Linux Foundation ↩\n\nFunded by Private Packagist ↩\n\nPerl Foundation ↩\n\nSix Colors AB, community-funded ↩\n\nClojurists Together ↩\n\nHaskell.org ↩\n\nR Foundation ↩\n\nFiscally sponsored by Open Source Collective ↩\n\nEclipse Foundation ↩\n\nCloud Native Computing Foundation ↩\n\nGitHub/Microsoft ↩\n\nMicrosoft ↩\n\nGoogle ↩\n\nAnaconda Inc ↩\n\nJulia Computing ↩\n\nPerforce ↩\n\nRed Hat. ↩\n\nChocolatey Software. ↩\n\nMicrosoft. ↩\n\nGoogle. ↩\n\nDeno Company. ↩ ↩2\n\nRed Hat ↩\n\nCanonical ↩\n\nMaven Central does not allow deletion or modification of published artifacts. ↩\n\nOnce cached by proxy.golang.org, modules remain available indefinitely. ↩\n\nSpack packages can specify many versions, all of which stay in the registry until deleted by a maintainer. Old versions can be removed, but it depends on the package how frequently this is done. Users can go back to old versions of the repo to install removed versions. ↩\n\n72-hour window for unpublishing, with exceptions for security issues. ↩\n\nCan delete files and releases; PEP 763 proposes limiting this to 72 hours. ↩\n\nVersions can be yanked indefinitely; entire crates can be deleted within 72 hours of first publish. ↩\n\nFormulas point to the latest version; older versions require tapping homebrew-core history. ↩\n\nEach Debian/Ubuntu release has its own repository snapshot. ↩\n\nRolling release model; only current versions are available. ↩\n\nEach Alpine release has its own repository. ↩\n\nVerdaccio is the most popular private npm registry. ↩\n\ndevpi and Artifactory provide PyPI-compatible private registries. ↩\n\nNexus and Artifactory are widely used for hosting private Maven repositories. ↩\n\nOfficial mirror documentation with geographic mirrors available. ↩\n\nCustom rock servers can be configured via rocks_servers in the config file. ↩\n\nMirror documentation with instructions for running your own. ↩\n\nRelated posts\nPackage Security Problems for AI Agents Apr 8, 2026\n\nPackages all the way down, agents all the way up.\n\nPackage Manager Easter Eggs Apr 3, 2026\n\nA tour of the easter eggs hiding inside package managers.\n\nPackage Manager Mirroring Mar 20, 2026\n\nEvery mirroring tool I could find, and the protocols underneath them.\n\nPackage Manager Magic Files Mar 5, 2026\n\nPackage manager magic files and where to find them: .npmrc, MANIFEST.in, Directory.Packages.props, .pnpmfile.cjs, and more.\n\nPackage Manager Podcast Episodes Feb 9, 2026\n\nA reference list of podcast episodes about package managers, grouped by ecosystem.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

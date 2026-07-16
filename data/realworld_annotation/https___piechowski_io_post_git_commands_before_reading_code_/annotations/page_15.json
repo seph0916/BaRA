@@ -1,0 +1,105 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/bundle-audit_hubdfe0f1032e5e0f6888e3c8791c14ae7_147924_1500x0_resize_q75_h2_box_2.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 23,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "career",
+            "href": "https://piechowski.io/tags/career"
+        },
+        {
+            "text": "security",
+            "href": "https://piechowski.io/tags/security"
+        },
+        {
+            "text": "activerecord",
+            "href": "https://piechowski.io/tags/activerecord"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "what breaks in each version jump",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "dangerous default_scope usage",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "run five git commands",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        },
+        {
+            "text": "Claude Code skill",
+            "href": "https://github.com/thoughtbot/rails-audit-thoughtbot"
+        },
+        {
+            "text": "legacy JS layer with Sprockets",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/"
+        },
+        {
+            "text": "codebase drag audit",
+            "href": "https://piechowski.io/post/codebase-drag-audit/"
+        },
+        {
+            "text": "this is what I do for a living",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "Rails: How to Use Greater Than/Less Than in Active Record where Statements",
+            "href": "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        }
+    ],
+    "text_length": 13780,
+    "text_full": "Work With Me\nGithub\nBlog\nHow I Audit a Legacy Rails Codebase in the First Week\n\nMy Rails codebase audit process: stakeholder interviews before code, Gemfile and schema before any tools, and a single-page triage as the deliverable.\n\nAlly Piechowski · Mar 5, 2026 · Updated Mar 28, 2026 · 10 min read\nrails\nruby\nlegacy\ncareer\nsecurity\nactiverecord\ndevelopment\n\nAfter doing this enough times, I’ve learned the first week isn’t about reading the code. It’s about reading the signals.\n\nThe client already has opinions about what’s wrong. They’re usually partially right and almost always wrong about why. Your job in week one is to separate what looks bad from what’s actually dangerous.\n\nTL;DR: Start with people, not code. The tools come after you know what you’re looking for.\n\nThe client bashfully frames everything as “technical debt”, but the codebase actually seems a bit healthy at face value. The test suite runs, even if it’s a bit slow. Deploys happen automatically and regularly, even if they sometimes need a babysitter. But the real issue is that the engineer that gave notice last month wrote the entire checkout flow. They never documented it, and now the team is terrified to contribute to the flow. It’s good code, but it’s complex and underdocumented. The lack of knowledge sharing is the real problem, not the code itself.\n\nBefore You Clone the Repo: The Stakeholder Interview\n\nThe most diagnostic tool you have isn’t a gem.\n\nYou ask when the last time they deployed on a Friday was. They laugh. That laugh tells you more than any code metric could show you. It shows you that deploys are high stakes and that the team is living in fear of breaking production. On further investigation, you learn that there is no safe rollback procedure for deployment. If a deploy goes wrong, the team has to scramble to fix it in production. This is something static analysis won’t show you, but it’s also a critical signal of the codebase’s health.\n\nQuestions for developers:\n\n“What’s the one area you’re afraid to touch?”\n“When’s the last time you deployed on a Friday?”\n“What broke in production in the last 90 days that wasn’t caught by tests?”\n\nQuestions for the CTO/EM:\n\n“What feature has been blocked for over a year?”\n“Do you have real-time error visibility right now?”\n“What was the last feature that took significantly longer than estimated?”\n\nQuestions for business stakeholders:\n\n“Are there features that got quietly turned off and never came back?”\n“Are there things you’ve stopped promising customers?”\nReading the Gemfile, Schema, and Routes\n\nYou can form a working thesis in 30 minutes without running a single tool.\n\nThe transactions table had 122 columns. That number alone is a signal, but it starts to make a grim kind of sense when you see what’s in there. stripe_charge_id, wire_transfer_reference, ach_routing_number, paypal_transaction_id, every payment processor the company had ever integrated with, each with their own set of nullable columns, all crammed into one table. A wire transfer doesn’t need a stripe_charge_id. A Stripe charge doesn’t need an ach_routing_number. Most rows are mostly null.\n\nThe separation of concerns problem is bad, but fixable. The integer primary key is not. The table had been around since the company’s founding. They processed a healthy volume of transactions every day. I didn’t need to run a query to know they were probably sitting somewhere north of a billion rows. The maximum for a signed integer is about 2.1 billion. Nobody had thought about it because the app had always worked. I asked the CTO when they expected to hit that limit. He had no idea the limit existed.\n\nGemfile: count the gems, look for duplicated responsibilities (two auth systems, two file upload gems), note anything you can’t explain.\n\ndb/schema.rb: god tables with 30+ columns, missing indexes on obvious foreign key columns, dead tables with no model counterpart, integer primary keys in an old high-volume app (a quiet ID exhaustion timebomb).\n\nconfig/routes.rb: total count and ratio of RESTful resources to custom one-off routes. 500 custom routes isn’t a style problem. It’s an architecture one.\n\nTools I Actually Run\n\nSimpleCov reports 81% coverage. Looks healthy, right? Then you check which files have zero coverage: order.rb, payment.rb, subscription.rb. Three models that touch money have zero test coverage. The 81% was carried by hundreds of tests on utilities, views, mailers, and controllers.\n\nSecurity: Run First, Non-Negotiable\nbundle audit check --update\nbundle exec brakeman --format html -o brakeman_report.html\n\n\nSeverity matters more than count. One critical CVE in an auth gem is a different problem than 20 low-severity advisories. With Brakeman, focus on confidence level and whether warnings are in high-traffic code paths.\n\nDependency Health\nbundle outdated\nbundle exec bundle_report compatibility --rails-version=7.2  # via next_rails gem\n\n\nName the EOL date. Rails 6.1 went EOL October 2024. In regulated industries, running an EOL version isn’t just tech debt, it’s a compliance liability. If the app is multiple versions behind, I map out what breaks in each version jump before estimating the work.\n\nSLOC and Complexity\n\nHonestly, cloc is mostly a gut check. I’m not looking for a specific number. I’m looking at where the lines are. If 80% of the codebase lives in app/models, that tells me something. Models doing all the heavy lifting usually means business logic tightly coupled to ActiveRecord, which makes it hard to test in isolation and even harder to change safely. High test coverage numbers don’t fix that. You can have 80% coverage and still have every important decision buried in a callback on a 900-line model.\n\nOn the other hand, if I see a healthy app/services or a lot of plain Ruby objects scattered around, that’s a good sign. It means someone at some point made a deliberate choice to pull logic out of the models. The code isn’t necessarily cleaner, but the instinct was right.\n\ncloc app/\nbundle exec rubycritic app/\n\n\nRaw SLOC sets the scale of what you’re dealing with. RubyCritic’s churn-vs-complexity visualization is where it gets useful: files in the upper-right quadrant (high churn, high complexity) are actively hurting the team every sprint.\n\nModel Structure\n\nThis is the pass I always do manually, not just with tools. Walk the models directory deliberately: what are the god models, where are the callbacks concentrated, what does the association graph look like?\n\n# active_record_doctor — run the full suite\nbundle exec rails active_record_doctor:run\n\n\nWhat to look for: missing unique indexes (race condition risk), wrong dependent: options (silent data corruption risk), integer PKs in old apps, and dangerous default_scope usage that quietly filters queries application-wide.\n\nThen enable Bullet in development and browse the app. Count the N+1s on core pages.\n\nGit History\n\nBefore I open any code, I run five git commands: churn hotspots, bus factor, bug clusters, commit velocity, and crisis patterns. Takes a few minutes and tells me which files to read first.\n\nTest Suite\ntime bundle exec rspec\nCOVERAGE=true bundle exec rspec  # with simplecov configured\n\n\nOver 30 minutes is a crisis. Developers won’t run it locally, which breaks the feedback loop entirely. SimpleCov zero-coverage files are your fear map. Commented-out tests are the most honest signal in the codebase.\n\nUsing AI During the Audit\n\nOnce I have a read on the structure, I’ve started using AI to accelerate specific parts of the audit. I’ve been using thoughtbot’s rails-audit patterns recently. They have a Claude Code skill that automates the initial pass. A good starting point before you dig into the specifics. Feed it a god model and ask it to identify the distinct responsibilities. Useful for planning a decomposition. Use it to spot patterns across multiple models you’d take longer to see manually.\n\nHere are a few prompts I’ve found useful:\n\nGod model decomposition:\n\nThis is a Rails model. List every distinct responsibility you can identify.\nGroup related methods together and suggest what each group might be extracted into.\n\n\nCallback mapping:\n\nList every callback in this file, what it does, and what other models or side\neffects it might touch. Flag anything that looks like it could cause unexpected\nbehavior.\n\n\nTest coverage gap analysis:\n\nWhat are the ten most important things to test in this file, in priority order?\n\n\nOne caveat: AI doesn’t know what the business does. It can’t tell you whether the complexity in Order is accidental or load-bearing. That judgment is still yours.\n\nFor newer apps, I also look at whether they’ve picked up Hotwire/Turbo or are still running a legacy JS layer with Sprockets, and whether there’s a Dockerfile or Kamal config. Both ship with Rails 8 by default, so if they’re missing, that’s a signal.\n\nQuick-Reference Command Sequence\n# Security\nbundle audit update && bundle audit check\nbundle exec brakeman --format html -o brakeman_report.html\n\n# Dependency age\nbundle outdated\nbundle exec bundle_report compatibility --rails-version=7.2\n\n# SLOC + complexity\ncloc app/\nbundle exec rubycritic app/\n\n# Routes — quick count before you open the file\nbundle exec rails routes | wc -l\n\n# Dead routes and orphaned actions\nbundle exec traceroute\n\n# Database\nbundle exec rails active_record_doctor:run\n\n# Memory\nbundle exec derailed bundle:mem\n\n# Test suite\ntime bundle exec rspec\nCOVERAGE=true bundle exec rspec\n\n# When was the test suite last touched?\ngit log --oneline -1 -- spec/\n\nRecoverable vs. In Trouble\n\nThe team is scared but they can still name what they’re scared of. Specific fear means they understand the system well enough to know where the bodies are buried. Deploys still happen, even if they’re painful. A team that ships, even reluctantly, is recoverable. There’s a test suite, even a bad one. Something is better than nothing. The god models are big but you can trace the logic. Messy doesn’t mean incomprehensible.\n\nThe harder conversation looks different. Nobody can explain how a core flow works without reading the code line by line. That’s not complexity. That’s lost knowledge. Deploys have stopped entirely because it’s too unpredictable. There are parts of the system with an unofficial “do not touch” status: not because they’re complex, but because nobody remembers why they work. The test suite takes 90 minutes and fails intermittently, so nobody runs it.\n\nSometimes the codebase isn’t the problem at all. The business has outgrown the architecture and no amount of cleanup will fix that. The rewrite question isn’t really about the code. It’s whether working around the problems costs more than starting over. Usually the answer is no, but when it’s yes, you feel it.\n\nSigns you’re actually in trouble:\n\nDeploy frequency has dropped toward zero because “it’s too risky”\nFeatures quietly disabled, never re-enabled\nMultiple developers independently describe different parts as “nobody touches that”\nNo APM, no error tracking, no alerting in production\n“I changed one thing and something completely different broke” is a regular occurrence\n\nThis rewrite-vs-refactor evaluation is the core of technical due diligence for acquisitions or investment rounds. It’s the question a buyer or investor most needs answered before committing. If you want a lighter-weight version of this assessment, try running a codebase drag audit first.\n\nWhat the First Week Should Produce\n\nNot a list of everything wrong. That just overwhelms people.\n\nEarly on, I wrote long reports. Exhaustive findings documents with every RuboCop violation, every outdated gem, every missing index. Color-coded spreadsheets. Clients would nod, say “very thorough,” and file it away. I realized I was putting the burden of prioritization back on them, which is exactly what they hired me to avoid.\n\nWhat works better is a single page with three sections: fix this week, fix this quarter, don’t worry about it. I also call out a fourth category: things I can fix without touching your team’s current output. Dependency upgrades, security patches, dead code removal, and rewriting parts of the codebase that nobody owns and nobody wants to touch. Work that can happen in parallel without interrupting a sprint or stealing engineering time. Clients love knowing there’s a bucket of real progress that costs them nothing in team bandwidth.\n\nA short verbal debrief before anything written, because the conversation matters more than the document. And leading with the one thing that surprised me most: not the longest list, the most important finding.\n\nThe thing that changed how I think about deliverables: I started asking myself “if this team could only fix one thing this year, what should it be?” It forces you to have an opinion, not just a list of observations. Clients hire you for the opinion.\n\nSeverity triage: security/compliance risks that need immediate action, architectural problems slowing development, cosmetic issues that can be addressed over time\nThe five highest-churn, lowest-coverage files: the specific things hurting the team right now\nBus factor assessment: who are the single points of failure?\nVersion upgrade path: what it would take, and what it’s costing them not to do it\nOne honest conversation: the thing the team suspected but hadn’t said out loud\n\nIf you’re staring at a codebase like this and want a second opinion, this is what I do for a living.\n\nRelated Articles\nRails default_scope: Why You Should Never Use It\nRuby 3.2 Is EOL: What You Actually Need to Do\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nRails: How to Use Greater Than/Less Than in Active Record where Statements\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nLet's talk about your codebase.\nEmail\nMessage"
+}

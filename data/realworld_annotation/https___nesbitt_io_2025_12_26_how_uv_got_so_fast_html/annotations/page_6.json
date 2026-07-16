@@ -1,0 +1,507 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 124,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/package-managers/#reference"
+        },
+        {
+            "text": "Categorizing Package Manager Clients",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html"
+        },
+        {
+            "text": "Categorizing Package Registries",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html"
+        },
+        {
+            "text": "Dependency Resolution Methods",
+            "href": "https://nesbitt.io/2026/02/06/dependency-resolution-methods.html"
+        },
+        {
+            "text": "Documenting Package Manager Data",
+            "href": "https://nesbitt.io/2025/11/30/documenting-package-manager-data.html"
+        },
+        {
+            "text": "From ZeroVer to SemVer: A List of Versioning Schemes in Open Source",
+            "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html"
+        },
+        {
+            "text": "Package Management Blog Posts",
+            "href": "https://nesbitt.io/2026/01/09/package-management-blog-posts.html"
+        },
+        {
+            "text": "Package Management Papers",
+            "href": "https://nesbitt.io/2025/11/13/package-management-papers.html"
+        },
+        {
+            "text": "Package Manager Design Tradeoffs",
+            "href": "https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html"
+        },
+        {
+            "text": "Package Manager Easter Eggs",
+            "href": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
+        },
+        {
+            "text": "Package Manager Glossary",
+            "href": "https://nesbitt.io/2026/01/13/package-manager-glossary.html"
+        },
+        {
+            "text": "Package Manager Magic Files",
+            "href": "https://nesbitt.io/2026/03/05/package-manager-magic-files.html"
+        },
+        {
+            "text": "Package Manager Mirroring",
+            "href": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html"
+        },
+        {
+            "text": "Package Manager People",
+            "href": "https://nesbitt.io/2026/01/14/package-manager-people.html"
+        },
+        {
+            "text": "Package Manager Podcast Episodes",
+            "href": "https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html"
+        },
+        {
+            "text": "Package Manager Timeline",
+            "href": "https://nesbitt.io/2025/11/15/package-manager-timeline.html"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "The Package Management Landscape",
+            "href": "https://nesbitt.io/2026/01/03/the-package-management-landscape.html"
+        },
+        {
+            "text": "What is a Package Manager?",
+            "href": "https://nesbitt.io/2025/12/02/what-is-a-package-manager.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/package-managers/#ideas"
+        },
+        {
+            "text": "A Jepsen Test for Package Managers",
+            "href": "https://nesbitt.io/2026/01/19/a-jepsen-test-for-package-managers.html"
+        },
+        {
+            "text": "A Protocol for Package Management",
+            "href": "https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html"
+        },
+        {
+            "text": "Could lockfiles just be SBOMs?",
+            "href": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html"
+        },
+        {
+            "text": "Cursed Bundler: Using go get to install Ruby Gems",
+            "href": "https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html"
+        },
+        {
+            "text": "Package Management is a Wicked Problem",
+            "href": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html"
+        },
+        {
+            "text": "PkgFed: ActivityPub for Package Releases",
+            "href": "https://nesbitt.io/2026/01/25/pkgfed-activitypub-for-package-releases.html"
+        },
+        {
+            "text": "Separating Download from Install in Docker Builds",
+            "href": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html"
+        },
+        {
+            "text": "The Dependency Layer in Digital Sovereignty",
+            "href": "https://nesbitt.io/2026/01/28/the-dependency-layer-in-digital-sovereignty.html"
+        },
+        {
+            "text": "Zig and the M×N Supply Chain Problem",
+            "href": "https://nesbitt.io/2026/01/29/zig-and-the-mxn-supply-chain-problem.html"
+        },
+        {
+            "text": "importmap.lock: a lockfile for the web",
+            "href": "https://nesbitt.io/2026/01/19/importmap-lock.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/package-managers/#deep-dives"
+        },
+        {
+            "text": "Common Package Specification",
+            "href": "https://nesbitt.io/2026/04/13/common-package-specification.html"
+        },
+        {
+            "text": "Crates.io's Freaky Friday",
+            "href": "https://nesbitt.io/2026/02/06/cratesio-freaky-friday.html"
+        },
+        {
+            "text": "Docker is the Lockfile for System Packages",
+            "href": "https://nesbitt.io/2025/12/18/docker-is-the-lockfile-for-system-packages.html"
+        },
+        {
+            "text": "Federated Package Management and the Zooko Triangle",
+            "href": "https://nesbitt.io/2025/12/21/federated-package-management.html"
+        },
+        {
+            "text": "How Dependabot Actually Works",
+            "href": "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html"
+        },
+        {
+            "text": "How uv got so fast",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
+        },
+        {
+            "text": "If It Quacks Like a Package Manager",
+            "href": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+        },
+        {
+            "text": "Lockfile Format Design and Tradeoffs",
+            "href": "https://nesbitt.io/2026/01/17/lockfile-format-design-and-tradeoffs.html"
+        },
+        {
+            "text": "Lockfiles Killed Vendoring",
+            "href": "https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html"
+        },
+        {
+            "text": "Package Management Namespaces",
+            "href": "https://nesbitt.io/2026/02/14/package-management-namespaces.html"
+        },
+        {
+            "text": "Package Management is Naming All the Way Down",
+            "href": "https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html"
+        },
+        {
+            "text": "Package Managers Need to Cool Down",
+            "href": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
+        },
+        {
+            "text": "Package Registries Are Governance Providers",
+            "href": "https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html"
+        },
+        {
+            "text": "Package managers keep using git as a database, it never works out",
+            "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
+        },
+        {
+            "text": "Platform Strings",
+            "href": "https://nesbitt.io/2026/02/17/platform-strings.html"
+        },
+        {
+            "text": "The C-Shaped Hole in Package Management",
+            "href": "https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html"
+        },
+        {
+            "text": "The Compact Index: How Bundler Scales Dependency Resolution",
+            "href": "https://nesbitt.io/2025/12/28/the-compact-index.html"
+        },
+        {
+            "text": "The Roles of Packages",
+            "href": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html"
+        },
+        {
+            "text": "What Package Registries Could Borrow from OCI",
+            "href": "https://nesbitt.io/2026/02/18/what-package-registries-could-borrow-from-oci.html"
+        },
+        {
+            "text": "What's Going On with FAIR Package Manager",
+            "href": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html"
+        },
+        {
+            "text": "Where Do Specifications Fit in the Dependency Tree?",
+            "href": "https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html"
+        },
+        {
+            "text": "Why JavaScript Needed Docker",
+            "href": "https://nesbitt.io/2025/12/19/why-javascript-needed-docker.html"
+        },
+        {
+            "text": "Will AI Make Package Managers Redundant?",
+            "href": "https://nesbitt.io/2026/01/30/will-ai-make-package-managers-redundant.html"
+        },
+        {
+            "text": "Workspaces and Monorepos in Package Managers",
+            "href": "https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/package-managers/#tools"
+        },
+        {
+            "text": "An AI Skill for Skeptical Dependency Management",
+            "href": "https://nesbitt.io/2026/01/21/an-ai-skill-for-skeptical-dependency-management.html"
+        },
+        {
+            "text": "Community Tools Bring Lockfile Support to GitHub Actions",
+            "href": "https://nesbitt.io/2025/12/30/community-tools-bring-lockfile-support-to-github-actions.html"
+        },
+        {
+            "text": "Go Modules for Package Management Tooling",
+            "href": "https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html"
+        },
+        {
+            "text": "Making git-pkgs feel like Git",
+            "href": "https://nesbitt.io/2026/01/04/making-git-pkgs-feel-like-git.html"
+        },
+        {
+            "text": "Revisiting Gitballs",
+            "href": "https://nesbitt.io/2025/11/28/revisiting-gitballs.html"
+        },
+        {
+            "text": "Rewriting git-pkgs in Go",
+            "href": "https://nesbitt.io/2026/01/24/rewriting-git-pkgs-in-go.html"
+        },
+        {
+            "text": "Supply Chain Security Tools for Ruby",
+            "href": "https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby.html"
+        },
+        {
+            "text": "brew-vulns: CVE scanning for Homebrew",
+            "href": "https://nesbitt.io/2026/01/08/brew-vulns-cve-scanning-for-homebrew.html"
+        },
+        {
+            "text": "git-pkgs: explore your dependency history",
+            "href": "https://nesbitt.io/2026/01/01/git-pkgs-explore-your-dependency-history.html"
+        },
+        {
+            "text": "proxy",
+            "href": "https://nesbitt.io/2026/05/11/proxy.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/package-managers/#security"
+        },
+        {
+            "text": "GitHub Actions is the weakest link",
+            "href": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"
+        },
+        {
+            "text": "How to Ruin All of Package Management",
+            "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html"
+        },
+        {
+            "text": "If It Quacks Like a Package Manager",
+            "href": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+        },
+        {
+            "text": "Incident Report: CVE-2024-YIKES",
+            "href": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html"
+        },
+        {
+            "text": "Language Registries Are Unstable by Default",
+            "href": "https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html"
+        },
+        {
+            "text": "Package Management at FOSDEM 2026",
+            "href": "https://nesbitt.io/2026/02/04/package-management-at-fosdem-2026.html"
+        },
+        {
+            "text": "Package Manager CWEs",
+            "href": "https://nesbitt.io/2026/05/04/package-manager-cwes.html"
+        },
+        {
+            "text": "Package Manager Threat Models",
+            "href": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html"
+        },
+        {
+            "text": "Package Managers Need to Cool Down",
+            "href": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
+        },
+        {
+            "text": "Package Security Defenses for AI Agents",
+            "href": "https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "Patching and forking in package managers",
+            "href": "https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html"
+        },
+        {
+            "text": "Reproducible Builds in Language Package Managers",
+            "href": "https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html"
+        },
+        {
+            "text": "Reviewing ENISA's Package Manager Advisory",
+            "href": "https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html"
+        },
+        {
+            "text": "Slopsquatting meets Dependency Confusion",
+            "href": "https://nesbitt.io/2025/12/10/slopsquatting-meets-dependency-confusion.html"
+        },
+        {
+            "text": "The Tuesday Test",
+            "href": "https://nesbitt.io/2026/04/15/the-tuesday-test.html"
+        },
+        {
+            "text": "The stages of package installation",
+            "href": "https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html"
+        },
+        {
+            "text": "Transitive Trust",
+            "href": "https://nesbitt.io/2026/03/02/transitive-trust.html"
+        },
+        {
+            "text": "Typosquatting in Package Managers",
+            "href": "https://nesbitt.io/2025/12/17/typosquatting-in-package-managers.html"
+        },
+        {
+            "text": "Who Built This?",
+            "href": "https://nesbitt.io/2026/04/07/who-built-this.html"
+        },
+        {
+            "text": "npm's Defaults Are Bad",
+            "href": "https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html"
+        },
+        {
+            "text": "proxy",
+            "href": "https://nesbitt.io/2026/05/11/proxy.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/package-managers/#satire"
+        },
+        {
+            "text": "16 Best Practices for Reducing Dependabot Noise",
+            "href": "https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html"
+        },
+        {
+            "text": "CHANGELOG.md",
+            "href": "https://nesbitt.io/2026/02/16/changelog.html"
+        },
+        {
+            "text": "Guided Meditation for Developers",
+            "href": "https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html"
+        },
+        {
+            "text": "Incident Report: CVE-2024-YIKES",
+            "href": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html"
+        },
+        {
+            "text": "Introducing Package Chaos Monkey",
+            "href": "https://nesbitt.io/2026/01/26/introducing-package-chaos-monkey.html"
+        },
+        {
+            "text": "Madame Semver Will See You Now",
+            "href": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html"
+        },
+        {
+            "text": "PromptVer",
+            "href": "https://nesbitt.io/2025/12/01/promptver.html"
+        },
+        {
+            "text": "Sandwich Bill of Materials",
+            "href": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html"
+        },
+        {
+            "text": "The Lesser Evil of Compliance: Enterprise SBOM Strategy for CRA Readiness",
+            "href": "https://nesbitt.io/2026/01/20/the-lesser-evil-of-compliance.html"
+        },
+        {
+            "text": "The Nine Levels of JavaScript Dependency Hell",
+            "href": "https://nesbitt.io/2026/01/05/the-nine-levels-of-javascript-dependency-hell.html"
+        },
+        {
+            "text": "npm Data Subject Access Request",
+            "href": "https://nesbitt.io/2026/02/28/npm-data-subject-access-request.html"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/package-managers/#everything-else"
+        },
+        {
+            "text": "A GitHub for maintainers",
+            "href": "https://nesbitt.io/2026/05/02/a-github-for-maintainers.html"
+        },
+        {
+            "text": "Downstream Testing",
+            "href": "https://nesbitt.io/2026/03/01/downstream-testing.html"
+        },
+        {
+            "text": "Features everyone should steal from npmx",
+            "href": "https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html"
+        },
+        {
+            "text": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
+            "href": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html"
+        },
+        {
+            "text": "How I Assess Open Source Libraries",
+            "href": "https://nesbitt.io/2025/12/15/how-i-assess-open-source-libraries.html"
+        },
+        {
+            "text": "Package Management Consulting",
+            "href": "https://nesbitt.io/2026/02/11/package-management-consulting.html"
+        },
+        {
+            "text": "Package Managers Devroom at FOSDEM 2026: Schedule Announced",
+            "href": "https://nesbitt.io/2025/12/20/fosdem-2026-package-managers-devroom-schedule.html"
+        },
+        {
+            "text": "Package Registries and Pagination",
+            "href": "https://nesbitt.io/2026/04/10/package-registries-and-pagination.html"
+        },
+        {
+            "text": "Standing on the shoulders of Homebrew",
+            "href": "https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html"
+        },
+        {
+            "text": "The Fragmented World of Dependency Policy",
+            "href": "https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html"
+        },
+        {
+            "text": "Why I'm Fascinated by Package Management",
+            "href": "https://nesbitt.io/2025/12/09/why-im-fascinated-by-package-management.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        }
+    ],
+    "text_length": 12772,
+    "text_full": "Andrew Nesbitt\n      \nPackage Managers\n\nEverything I've written about package managers, organized by type.\n\nReference#\nCategorizing Package Manager Clients — Sorting package manager clients by resolution algorithms, lockfile strategies, build hooks, and manifest formats.\nCategorizing Package Registries — Sorting package registries by architecture, review model, namespacing, governance, and other structural differences.\nDependency Resolution Methods — A reference on how package managers solve the version constraint satisfaction problem, from SAT solvers to content-addressed stores.\nDocumenting Package Manager Data — Six repositories documenting how package managers work: commands, manifests, APIs, hooks, and more.\nFrom ZeroVer to SemVer: A List of Versioning Schemes in Open Source — A curated catalogue of versioning schemes used in open source software—from the conventional to the creative.\nPackage Management Blog Posts — Blog posts, talks, and essays that changed how people think about dependency management.\nPackage Management Papers — A collection of academic research papers on package management systems, dependency resolution, supply chain security, and software ecosystems.\nPackage Manager Design Tradeoffs — Design tradeoffs in package managers\nPackage Manager Easter Eggs — A tour of the easter eggs hiding inside package managers.\nPackage Manager Glossary — A cross-ecosystem glossary of package management terms.\nPackage Manager Magic Files — Package manager magic files and where to find them: .npmrc, MANIFEST.in, Directory.Packages.props, .pnpmfile.cjs, and more.\nPackage Manager Mirroring — Every mirroring tool I could find, and the protocols underneath them.\nPackage Manager People — People who built, maintain, or research package managers.\nPackage Manager Podcast Episodes — A reference list of podcast episodes about package managers, grouped by ecosystem.\nPackage Manager Timeline — A chronological timeline of package manager releases, major milestones, and significant events in the history of software dependency management.\nPackage Security Problems for AI Agents — Packages all the way down, agents all the way up.\nThe Package Management Landscape — A directory of tools, systems, and services that relate to package management.\nWhat is a Package Manager? — What is a package manager? Perhaps quite a few more components than you might think\nIdeas#\nA Jepsen Test for Package Managers — Applying Jepsen-style adversarial testing to package managers.\nA Protocol for Package Management — A shared vocabulary for resolution, publishing, and governance across ecosystems.\nCould lockfiles just be SBOMs? — Lockfiles and SBOMs record the same information in different formats. What if package managers used SBOMs directly, instead of converting later?\nCursed Bundler: Using go get to install Ruby Gems — Go's module system accidentally created a universal, content-addressed, transparency-logged package CDN. You could abuse this for any language.\nPackage Management is a Wicked Problem — Why fixing package managers is harder than it looks.\nPkgFed: ActivityPub for Package Releases — Follow serde@crates.io from your Mastodon account\nSeparating Download from Install in Docker Builds — Most package managers could separate download from install for better Docker layer caching.\nThe Dependency Layer in Digital Sovereignty — Where package management fits in the digital sovereignty discussion.\nZig and the M×N Supply Chain Problem — Zig's long road to supply chain security.\nimportmap.lock: a lockfile for the web — Extending import maps with package metadata to improve dependency management and security for browser-native JavaScript.\nDeep dives#\nCommon Package Specification — Not the cross-ecosystem format the name suggests.\nCrates.io's Freaky Friday — What happens when Rust's package registry wakes up with Debian's design choices?\nDocker is the Lockfile for System Packages — Why Docker filled the reproducibility gap that system package managers left open\nFederated Package Management and the Zooko Triangle — The trade-offs that make decentralized package management impractical\nHow Dependabot Actually Works — Inside dependabot-core's architecture, its reliance on proprietary GitHub infrastructure, and open source alternatives\nHow uv got so fast — uv's speed comes from engineering decisions, not just Rust. Static metadata, dropping legacy formats, and standards that didn't exist five years ago.\nIf It Quacks Like a Package Manager — Some tools waddle like package managers without learning to swim.\nLockfile Format Design and Tradeoffs — Lockfile format tradeoffs, best practices, and a survey of existing formats across package managers.\nLockfiles Killed Vendoring — Why almost nobody vendors their dependencies anymore.\nPackage Management Namespaces — Comparing namespace models across npm, Maven, Go, Swift, and crates.io.\nPackage Management is Naming All the Way Down — There are two hard problems in computer science, and package managers found at least eight of them.\nPackage Managers Need to Cool Down — A survey of dependency cooldown support across package managers and update tools.\nPackage Registries Are Governance Providers — Registries host files, but they also decide who owns names, how disputes resolve, and what gets removed. That second job is governance.\nPackage managers keep using git as a database, it never works out — Git repositories seem like an elegant solution for package registry data. Pull requests for governance, version history for free, distributed by design. But as registries grow, the cracks appear.\nPlatform Strings — An M1 Mac is aarch64-apple-darwin, arm64-darwin, darwin/arm64, or macosx_11_0_arm64 depending on which tool you ask.\nThe C-Shaped Hole in Package Management — System package managers and language package managers are solving different problems that happen to overlap in the middle.\nThe Compact Index: How Bundler Scales Dependency Resolution — The append-only index format that saved RubyGems.org, inspired Cargo's sparse index, and could speed up npm and PyPI too.\nThe Roles of Packages — Applying Sajaniemi's roles of variables to packages across every kind of package manager.\nWhat Package Registries Could Borrow from OCI — OCI's storage primitives applied to package management.\nWhat's Going On with FAIR Package Manager — Federated FAIR pivots from WordPress to TYPO3\nWhere Do Specifications Fit in the Dependency Tree? — RFC 9110 is a phantom dependency with thousands of transitive dependents.\nWhy JavaScript Needed Docker — How Docker became JavaScript's real lockfile\nWill AI Make Package Managers Redundant? — Following the prompt registry idea to its logical conclusion.\nWorkspaces and Monorepos in Package Managers — How various package managers implement workspaces and their relationship with monorepos.\nTools#\nAn AI Skill for Skeptical Dependency Management — A skill that makes Claude Code evaluate packages before suggesting them.\nCommunity Tools Bring Lockfile Support to GitHub Actions — Community projects gh-actions-lockfile and ghasum address GitHub's missing lockfile support with SHA pinning and integrity verification\nGo Modules for Package Management Tooling — The Go modules behind git-pkgs, rebuilt from my Ruby supply chain libraries.\nMaking git-pkgs feel like Git — What it takes to make a git subcommand feel native.\nRevisiting Gitballs — Nine years ago I experimented with storing package tarballs as git objects. A visit to Software Heritage got me thinking about it again.\nRewriting git-pkgs in Go — The dependency history tool is now a single Go binary.\nSupply Chain Security Tools for Ruby — Ruby implementations of PURL, VERS, SBOM, SWHID, and SARIF specs.\nbrew-vulns: CVE scanning for Homebrew — A new Homebrew subcommand that scans your installed packages for known vulnerabilities using the OSV database.\ngit-pkgs: explore your dependency history — A git subcommand to explore the dependency history of your repositories.\nproxy — A lightweight multi-ecosystem caching package proxy\nSecurity#\nGitHub Actions is the weakest link — Anne Robinson would like a word with .github/workflows\nHow to Ruin All of Package Management — Attach financial incentives to open source metrics and watch the spam flood in.\nIf It Quacks Like a Package Manager — Some tools waddle like package managers without learning to swim.\nIncident Report: CVE-2024-YIKES — A series of unfortunate events.\nLanguage Registries Are Unstable by Default — apt install -t unstable, but make it your whole personality\nPackage Management at FOSDEM 2026 — Summary of package management talks from FOSDEM 2026, covering supply chain security, attestations, SBOMs, dependency resolution, and distribution packaging across multiple devrooms.\nPackage Manager CWEs — Recurring weakness classes in package managers\nPackage Manager Threat Models — The non-CVE half of package manager security\nPackage Managers Need to Cool Down — A survey of dependency cooldown support across package managers and update tools.\nPackage Security Defenses for AI Agents — Lockfiles, sandboxes, and cooldown timers.\nPackage Security Problems for AI Agents — Packages all the way down, agents all the way up.\nPatching and forking in package managers — What to do when upstream ghosts you\nReproducible Builds in Language Package Managers — Verifying that a published package was actually built from the source it claims.\nReviewing ENISA's Package Manager Advisory — Notes on ENISA's Technical Advisory for Secure Use of Package Managers.\nSlopsquatting meets Dependency Confusion — LLMs can leak internal package names, making dependency confusion attacks easier to scale.\nThe Tuesday Test — Like the Turing test but with more tacos.\nThe stages of package installation — Denial, anger, bargaining, depression, acceptance, postinstall.\nTransitive Trust — You trust your maintainers, who trust their maintainers, but do they trust their maintainers' maintainers?\nTyposquatting in Package Managers — A reference guide to typosquatting techniques, real-world examples, and detection tools.\nWho Built This? — Tracing a dependency back to its source commit.\nnpm's Defaults Are Bad — The npm client's default settings are a root cause of JavaScript's recurring supply chain security problems.\nproxy — A lightweight multi-ecosystem caching package proxy\nSatire#\n16 Best Practices for Reducing Dependabot Noise — A practical guide to ignoring security updates responsibly\nCHANGELOG.md — All notable changes to the math module will be documented in this file.\nGuided Meditation for Developers — A practice for finding peace in your dependency tree.\nIncident Report: CVE-2024-YIKES — A series of unfortunate events.\nIntroducing Package Chaos Monkey — Resilience engineering for your software supply chain.\nMadame Semver Will See You Now — The cards do not lie.\nPromptVer — A semver-compatible versioning scheme for the age of LLMs.\nSandwich Bill of Materials — SBOM 1.0: A specification for sandwich supply chain transparency.\nThe Lesser Evil of Compliance: Enterprise SBOM Strategy for CRA Readiness — You are not paid to find good options. You are paid to choose.\nThe Nine Levels of JavaScript Dependency Hell — Come, I will show you what I have seen.\nnpm Data Subject Access Request — A response to a GDPR data subject access request.\nEverything else#\nA GitHub for maintainers — Giving dependencies the same treatment the fork got\nDownstream Testing — Most library maintainers have no way to test against their dependents before releasing.\nFeatures everyone should steal from npmx — What happens when users design their own package registry frontend\nGitHub Actions Has a Package Manager, and It Might Be the Worst — GitHub Actions has a package manager that ignores decades of supply chain security best practices: no lockfile, no integrity verification, no transitive pinning\nHow I Assess Open Source Libraries — What I actually look at when deciding whether to adopt a dependency.\nPackage Management Consulting — I'm now available for consulting on package management, software supply chain security, and open source infrastructure.\nPackage Managers Devroom at FOSDEM 2026: Schedule Announced — Nine talks on supply chain security, dependency resolution, and registry economics\nPackage Registries and Pagination — 100MB of metadata for 10,451 versions.\nStanding on the shoulders of Homebrew — Rewriting the easy parts of Homebrew.\nThe Fragmented World of Dependency Policy — Every tool that makes automated decisions about dependencies invented its own policy format. There are standards for describing software components but none for writing rules about them.\nWhy I'm Fascinated by Package Management — From gaming magazine CDs to dependency graphs\nMastodon · GitHub · RSS · Stats · Search · About"
+}

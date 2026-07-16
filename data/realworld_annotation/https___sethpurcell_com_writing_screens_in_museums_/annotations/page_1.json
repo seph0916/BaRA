@@ -1,0 +1,59 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 12,
+    "links": [
+        {
+            "text": "Purcell's Posts",
+            "href": "https://sethpurcell.com/"
+        },
+        {
+            "text": "RSS Feed",
+            "href": "https://sethpurcell.com/rss.xml"
+        },
+        {
+            "text": "I Didn't Bring My Son to a Museum to Look at Screens",
+            "href": "https://sethpurcell.com/writing/screens-in-museums"
+        },
+        {
+            "text": "Observations From Twenty Years of Dev Management",
+            "href": "https://sethpurcell.com/writing/observations-from-twenty-years-of-dev-management"
+        },
+        {
+            "text": "Notes on Marc Wortman's “Admiral Hyman Rickover”",
+            "href": "https://sethpurcell.com/writing/notes-on-admiral-hyman-rickover"
+        },
+        {
+            "text": "Leadership is Just Three Things",
+            "href": "https://sethpurcell.com/writing/leadership-is-just-three-things"
+        },
+        {
+            "text": "My Top 0x10 Tips for Hiring Great Developers",
+            "href": "https://sethpurcell.com/writing/tips-for-hiring-great-engineers"
+        },
+        {
+            "text": "My Take on Development Best Practices",
+            "href": "https://sethpurcell.com/writing/development-best-practices"
+        },
+        {
+            "text": "Amplifying Expertise and Accelerating Learning Through Apprenticeship",
+            "href": "https://sethpurcell.com/writing/apprenticeship"
+        },
+        {
+            "text": "What Does it Mean to be a Dev Team Lead?",
+            "href": "https://sethpurcell.com/writing/dev-team-lead"
+        },
+        {
+            "text": "How to add NAT to an existing EC2 instance in an AWS VPC",
+            "href": "https://sethpurcell.com/writing/how-to-add-NAT-to-an-existing-EC2-instance"
+        },
+        {
+            "text": "How the Relay Got Its Name",
+            "href": "https://sethpurcell.com/writing/how-the-relay-got-its-name"
+        }
+    ],
+    "text_length": 1998,
+    "text_full": "Purcell's Posts\nSend an email to Purcell's Posts\nRSS Feed\n\nHi, my name's Seth Purcell, and I sporadically write short essays and give talks on topics in the general vicinity of technology, management, leadership, ethics, and education. My motivation to write is usually just to challenge and clarify my own thinking, but sometimes I feel compelled to propound or refute a point of view.\n\nDisclaimer: my thoughts and opinions are mine alone and do not represent my employer in any way.\n\nI Didn't Bring My Son to a Museum to Look at Screens\n\nIf your museum's exhibits could be experienced just as well on an iPad at home, you're doing it wrong.\n\nSep 8, 2025\nObservations From Twenty Years of Dev Management\n\nHire great people, challenge and support them, and then stay the hell out of their way\n\nJul 18, 2025\nNotes on Marc Wortman's “Admiral Hyman Rickover”\n\nMarc Wortman's bio is worth reading for fans of Admiral Rickover.\n\nJan 5, 2025\nLeadership is Just Three Things\n\nA lot of people seem confused about what leadership is, but it's really very simple.\n\nOct 16, 2024\nMy Top 0x10 Tips for Hiring Great Developers\n\nPut in the effort, be very selective, and treat all of your candidates even better than you'd like to be treated.\n\nAug 11, 2015\nMy Take on Development Best Practices\n\nI was asked to contribute to a feature on best practices for software engineering. Here’s the full text I provided, a small excerpt of which was included in the piece.\n\nDec 8, 2013\nAmplifying Expertise and Accelerating Learning Through Apprenticeship\n\nCan software development benefit from an apprenticeship model? I think so.\n\nDec 8, 2013\nWhat Does it Mean to be a Dev Team Lead?\n\nMy idea of what a dev team lead should do — and not do.\n\nJan 21, 2013\nHow to add NAT to an existing EC2 instance in an AWS VPC\n\nA quick (and now obsolete) guide to setting up NAT on EC2\n\nDec 10, 2012\nHow the Relay Got Its Name\n\nA quick note for the curious.\n\nNov 16, 2012\nCopyright © 2026 by Seth Purcell\n | \nHosted on a Raspberry Pi 5"
+}

@@ -1,0 +1,143 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://www.geoffreylitt.com/images/headshot.jpg?1761416283"
+    ],
+    "video_count": 1,
+    "videos": [
+        "https://www.youtube.com/embed/SM26UoK8Ohw"
+    ],
+    "link_count": 32,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Geoffrey Litt",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://www.geoffreylitt.com/#projects"
+        },
+        {
+            "text": "Writing",
+            "href": "https://www.geoffreylitt.com/#writing"
+        },
+        {
+            "text": "Inspirations",
+            "href": "https://www.geoffreylitt.com/inspirations"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@geoffreylitt"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/wildcard/#onward-2020-talk"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/wildcard/#academic-publications"
+        },
+        {
+            "text": "Onward! Papers 2020",
+            "href": "https://2020.splashcon.org/track/splash-2020-Onward-papers?"
+        },
+        {
+            "text": "📜 PDF",
+            "href": "https://www.geoffreylitt.com/wildcard/Wildcard-Onward-2020.pdf"
+        },
+        {
+            "text": "🌍 DOI",
+            "href": "https://doi.org/10.1145/3426428.3426914"
+        },
+        {
+            "text": "🔗 Web (with videos!)",
+            "href": "https://www.geoffreylitt.com/wildcard/salon2020"
+        },
+        {
+            "text": "📜 PDF",
+            "href": "https://www.geoffreylitt.com/wildcard/salon2020/paper.pdf"
+        },
+        {
+            "text": "🌍 DOI",
+            "href": "https://doi.org/10.1145/3397537.3397541"
+        },
+        {
+            "text": "📜 PDF",
+            "href": "https://www.geoffreylitt.com/wildcard/Joker-PX-21.pdf"
+        },
+        {
+            "text": "🌍 DOI",
+            "href": "https://doi.org/10.1145/3464432.3464437"
+        },
+        {
+            "text": "📜 PDF",
+            "href": "https://www.geoffreylitt.com/wildcard/Joker-LIVE-2022.pdf"
+        },
+        {
+            "text": "🎬 Talk video",
+            "href": "https://liveprog.org/live-2021/Joker-A-Unified-Interaction-Model-for-Web-Customization.mp4"
+        },
+        {
+            "text": "web version of the Convivial Computing Salon paper",
+            "href": "https://www.geoffreylitt.com/wildcard/salon2020"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/wildcard/#get-future-updates"
+        },
+        {
+            "text": "sign up for the mailing list",
+            "href": "https://tinyletter.com/wildcard-extension"
+        },
+        {
+            "text": "follow me on Twitter",
+            "href": "https://twitter.com/geoffreylitt"
+        },
+        {
+            "text": "installation instructions",
+            "href": "https://geoffreylitt.github.io/wildcard/#/quickstart"
+        },
+        {
+            "text": "Github source",
+            "href": "https://github.com/geoffreylitt/wildcard"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/wildcard/#contributors"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/wildcard/#related-projects"
+        },
+        {
+            "text": "thoughts on the power of browser extensions",
+            "href": "https://www.geoffreylitt.com/2019/07/29/browser-extensions"
+        },
+        {
+            "text": "explorations into extending the spreadsheet paradigm",
+            "href": "https://www.geoffreylitt.com/projects/json-sheets"
+        },
+        {
+            "text": "thoughts on curating personal software",
+            "href": "https://www.geoffreylitt.com/2020/07/19/tools-over-apps-for-personal-notetaking"
+        }
+    ],
+    "text_length": 2130,
+    "text_full": " Geoffrey Litt\nProjects\nWriting\nInspirations\nSubscribe:\nNewsletter \nTwitter \nMastodon \nRSS \nContact\nEmail me \nWildcard\n\nWildcard is a browser extension that empowers anyone to modify websites to meet their own specific needs, using a familiar spreadsheet view. It’s a research project as part of my PhD at MIT, with my advisor Daniel Jackson.\n\nHere’s a 60 second demo of adding read times to Hacker News using Wildcard:\n\nOnward! 2020 talk\n\nHere’s a short 15 minute talk from Onward! 2020, which shows a bunch of examples and explains some of the deeper ideas behind the project:\n\nAcademic Publications\n\nEnd-User Software Customization by Direct Manipulation of Tabular Data\n\nGeoffrey Litt, Daniel Jackson, Tyler Millis, and Jessica Quaye\n\nOnward! Papers 2020\n\n📜 PDF 🌍 DOI\n\nWildcard: Spreadsheet-Driven Customization of Web Applications\n\nGeoffrey Litt and Daniel Jackson\n\nConvivial Computing Salon, 2020\n\n🔗 Web (with videos!) 📜 PDF 🌍 DOI\n\nTowards End-User Web Scraping for Customization\n\nKapaya Katongo, Geoffrey Litt and Daniel Jackson\n\nPX Workshop, 2021\n\n📜 PDF 🌍 DOI\n\nJoker: A Unified Interaction Model For Web Customization\n\nKapaya Katongo, Geoffrey Litt, Kathryn Jin, and Daniel Jackson\n\nLIVE Workshop, 2021\n\n📜 PDF 🎬 Talk video\n\nThe best place to get a general sense of the project is the web version of the Convivial Computing Salon paper.\n\nGet Future Updates\nBeta list: To get notified when the beta is available, sign up for the mailing list.\nFollow along on Twitter: To get further updates about Wildcard and my other projects, follow me on Twitter.\nTry the current version: If you want to live on the edge, you can try installing the current dev build, although it’s not totally feature-complete or stable. Here are the installation instructions and the Github source. Let me know if you run into problems or questions.\nContributors\nProject leads: Geoffrey Litt, Daniel Jackson\nContributors: Tyler Millis, Jessica Quaye, Kapaya Katongo, Gloria Lin, Kathryn Jin\nRelated Projects\nthoughts on the power of browser extensions\nexplorations into extending the spreadsheet paradigm\nthoughts on curating personal software"
+}

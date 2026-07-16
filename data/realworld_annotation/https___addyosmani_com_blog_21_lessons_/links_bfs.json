@@ -1,0 +1,71 @@
+{
+  "start_url": "https://addyosmani.com/blog/21-lessons",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://addyosmani.com/blog/21-lessons",
+    "https://addyosmani.com/",
+    "https://addyosmani.com/press/",
+    "https://addyosmani.com/bio/",
+    "https://addyosmani.com/blog/",
+    "https://addyosmani.com/blog/ai-assisted-engineering-idea/",
+    "https://addyosmani.com/open-source/",
+    "https://addyosmani.com/blog/software-engineering-soft-parts/",
+    "https://addyosmani.com/blog/factory-model/",
+    "https://addyosmani.com/blog/agents-md/",
+    "https://addyosmani.com/blog/dont-outsource-learning/",
+    "https://addyosmani.com/blog/cognitive-surrender/",
+    "https://addyosmani.com/blog/agent-skills/",
+    "https://addyosmani.com/blog/long-running-agents/",
+    "https://addyosmani.com/blog/agent-harness-engineering/",
+    "https://addyosmani.com/blog/jquery-ui-bootstrap/",
+    "https://addyosmani.com/blog/better-image-lazy-loading-in-chrome/",
+    "https://addyosmani.com/blog/native-iframe-lazy-loading/",
+    "https://addyosmani.com/blog/agentic-engineering/",
+    "https://addyosmani.com/blog/self-improving-agents/",
+    "https://addyosmani.com/agentic-engineering/human-in-the-loop/",
+    "https://addyosmani.com/agentic-engineering/context-window/",
+    "https://addyosmani.com/agentic-engineering/guardrails/",
+    "https://addyosmani.com/agentic-engineering/ai-coding-agent/",
+    "https://addyosmani.com/agentic-engineering/prompt-engineering/",
+    "https://addyosmani.com/blog/comprehension-debt/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://addyosmani.com/blog/21-lessons"
+    ],
+    "1": [
+      "https://addyosmani.com/",
+      "https://addyosmani.com/press/",
+      "https://addyosmani.com/bio/",
+      "https://addyosmani.com/blog/"
+    ],
+    "2": [
+      "https://addyosmani.com/blog/ai-assisted-engineering-idea/",
+      "https://addyosmani.com/open-source/",
+      "https://addyosmani.com/blog/software-engineering-soft-parts/",
+      "https://addyosmani.com/blog/factory-model/",
+      "https://addyosmani.com/blog/agents-md/",
+      "https://addyosmani.com/blog/dont-outsource-learning/",
+      "https://addyosmani.com/blog/cognitive-surrender/",
+      "https://addyosmani.com/blog/agent-skills/",
+      "https://addyosmani.com/blog/long-running-agents/",
+      "https://addyosmani.com/blog/agent-harness-engineering/"
+    ],
+    "3": [
+      "https://addyosmani.com/blog/jquery-ui-bootstrap/",
+      "https://addyosmani.com/blog/better-image-lazy-loading-in-chrome/",
+      "https://addyosmani.com/blog/native-iframe-lazy-loading/",
+      "https://addyosmani.com/blog/agentic-engineering/",
+      "https://addyosmani.com/blog/self-improving-agents/",
+      "https://addyosmani.com/agentic-engineering/human-in-the-loop/",
+      "https://addyosmani.com/agentic-engineering/context-window/",
+      "https://addyosmani.com/agentic-engineering/guardrails/",
+      "https://addyosmani.com/agentic-engineering/ai-coding-agent/",
+      "https://addyosmani.com/agentic-engineering/prompt-engineering/",
+      "https://addyosmani.com/blog/comprehension-debt/"
+    ]
+  },
+  "dead_links": []
+}

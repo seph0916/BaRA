@@ -1,0 +1,69 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/last-arg-deprecated-screenshot_hu3cc3e391735eb1758c4dcdc05d067fa1_75862_1500x0_resize_q75_h2_box_3.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 14,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "debugging",
+            "href": "https://piechowski.io/tags/debugging"
+        },
+        {
+            "text": "upgrades",
+            "href": "https://piechowski.io/tags/upgrades"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "Migrating from Sprockets to Propshaft: Is It Worth It?",
+            "href": "https://piechowski.io/post/migrating-from-sprockets-to-propshaft/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        }
+    ],
+    "text_length": 2827,
+    "text_full": "Work With Me\nGithub\nBlog\nSolved: Warning: Using the last argument as keyword parameters is deprecated\n\nRuby 2.7 deprecated the use of hashes in the last argument of a method call. Fix this warning by removing the curly braces or adding a hash splat (**) to a variable argument.\n\nAlly Piechowski · Jan 2, 2020 · Updated May 20, 2020 · 2 min read\nrails\nruby\ndevelopment\ndebugging\nupgrades\nwarning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call\nwarning: The called method `test' is defined here\n\n\nRuby 2.7 deprecated the use of hashes in the last argument of a method call. Luckily, this can be resolved by removing the curly braces of a direct hash argument, or adding a hash splat ** to a variable argument\n\nFor these examples, we’ll be using the following sample function to demonstrate the warnings:\n\ndef hello(name: 'World')\n  \"Hello, #{name}!\"\nend\n\nPlain Hash Argument\n\nWhen a hash is the last argument in a method and the method expects keyword arguments, then Ruby automatically converts this argument into keyword arguments.\n\nhello({ name: 'Alex' })\n\nSolution\n\nTo remove the warning, we can simply remove the curly braces. This solution works for any number of keywords.\n\nhello(name: 'Alex')\n\nVariable Hash Argument\n\nLikewise, when a hash is passed as a variable in the final argument slot, it is also converted into keyword arguments. Since this hash could be coming from elsewhere in the application, it isn’t always as easy as moving the hash into the method parameters and removing curly braces…\n\ndetails = { name: 'Alex' }\nhello(details)\n\nSolution\n\nLuckily, Ruby has a feature called a “hash splat” (**). When a hash splat is applied on a hash, it expands the hash’s keys into multiple arguments, allowing this error to be dissipated as the method receives keyword arguments rather than receiving a hash.\n\ndetails = { name: 'Alex' }\nhello(**details)\n\nSuppress Warning without Fix (Not Recommended)\n\nIf we want to suppress this warning, we can do this via an environment variable.\n\nSolution: Export Environment Variable\n\nAfter executing export RUBYOPT='-W:no-deprecated', any Ruby command will ignore deprecation notices. This sets an environment variable telling Ruby to ignore deprecation notices.\n\nIf instead, you want to ignore notices per command, you must use the inline environment variable syntax, RUBYOPT='-W:no-deprecated' ruby file.rb.\n\nFor instance, for a Rails app, you would use RUBYOPT='-W:no-deprecated' rails server\n\nRelated Articles\nRuby 3.2 Is EOL: What You Actually Need to Do\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nMigrating from Sprockets to Propshaft: Is It Worth It?\nHow I Audit a Legacy Rails Codebase in the First Week\nRails default_scope: Why You Should Never Use It\nLet's talk about your codebase.\nEmail\nMessage"
+}

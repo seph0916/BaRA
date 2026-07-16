@@ -1,0 +1,81 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/git-commands-before-reading-code/cover_hu3f66e25b7571f7e32d40f355f31a2ca9_56928_1500x0_resize_q75_h2_box_2.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 17,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "git",
+            "href": "https://piechowski.io/tags/git"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "technical-debt",
+            "href": "https://piechowski.io/tags/technical-debt"
+        },
+        {
+            "text": "2005 Microsoft Research study",
+            "href": "https://www.microsoft.com/en-us/research/publication/use-of-relative-code-churn-measures-to-predict-system-defect-density/"
+        },
+        {
+            "text": "Your Code as a Crime Scene",
+            "href": "https://pragprog.com/titles/atcrime2/your-code-as-a-crime-scene-second-edition/"
+        },
+        {
+            "text": "deeper issue",
+            "href": "https://piechowski.io/post/codebase-drag-audit/#2-deploy-fear"
+        },
+        {
+            "text": "full codebase audit",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Why Your Engineering Team Is Slow (It's the Codebase, Not the People)",
+            "href": "https://piechowski.io/post/codebase-drag-audit/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "How to Close a Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabclose/"
+        }
+    ],
+    "text_length": 5167,
+    "text_full": "Work With Me\nGithub\nBlog\nThe Git Commands I Run Before Reading Any Code\n\nFive git log commands that diagnose a new codebase before you open a single file: code churn hotspots, bus factor, bug clusters, and crisis patterns.\n\nAlly Piechowski · Apr 8, 2026 · 4 min read\ndevelopment\ngit\nlegacy\ntechnical-debt\n\nThe first thing I usually do when I pick up a new codebase isn’t opening the code. It’s opening a terminal and running a handful of git commands. Before I look at a single file, the commit history gives me a diagnostic picture of the project: who built it, where the problems cluster, whether the team is shipping with confidence or tiptoeing around land mines.\n\nWhat Changes the Most\ngit log --format=format: --name-only --since=\"1 year ago\" | sort | uniq -c | sort -nr | head -20\n\n\nI run this from app/ or src/, not the repo root. Lockfiles, changelogs, and generated code will dominate the list otherwise.\n\nThe 20 most-changed files in the last year. The file at the top is almost always the one people warn me about. “Oh yeah, that file. Everyone’s afraid to touch it.”\n\nHigh churn on a file doesn’t mean it’s bad. Sometimes it’s just active development. But high churn on a file that nobody wants to own is the clearest signal of codebase drag I know. That’s the file where every change is a patch on a patch. The blast radius of a small edit is unpredictable. The team pads their estimates because they know it’s going to fight back.\n\nA 2005 Microsoft Research study found churn-based metrics predicted defects more reliably than complexity metrics alone. I take the top 5 files from this list and cross-reference them against the bug hotspot command below. A file that’s high-churn and high-bug is your single biggest risk. Adam Tornhill’s Your Code as a Crime Scene builds a full methodology around churn-based analysis, including complexity overlays that these raw commands don’t cover.\n\nWho Built This\ngit shortlog -sn --no-merges\n\n\nEvery contributor ranked by commit count. If one person accounts for 60% or more, that’s your bus factor. If they left six months ago, it’s a crisis. If the top contributor from the overall shortlog doesn’t appear in a 6-month window (git shortlog -sn --no-merges --since=\"6 months ago\"), I flag that to the client immediately.\n\nI also look at the tail. Thirty contributors but only three active in the last year. The people who built this system aren’t the people maintaining it.\n\nOne caveat: squash-merge workflows compress authorship. If the team squashes every PR into a single commit, this output reflects who merged, not who wrote. Worth asking about the merge strategy before drawing conclusions.\n\nWhere Do Bugs Cluster\ngit log -i -E --grep=\"fix|bug|broken\" --name-only --format='' | sort | uniq -c | sort -nr | head -20\n\n\nSame shape as the churn command, filtered to commits with bug-related keywords. Compare this list against the churn hotspots. Files that appear on both are your highest-risk code: they keep breaking and keep getting patched, but never get properly fixed.\n\nThis depends on commit message discipline. If the team writes “update stuff” for every commit, you’ll get nothing. But even a rough map of bug density is better than no map.\n\nIs This Project Accelerating or Dying\ngit log --format='%ad' --date=format:'%Y-%m' | sort | uniq -c\n\n\nCommit count by month, for the entire history of the repo. I scan the output looking for shapes. A steady rhythm is healthy. But what does it look like when the count drops by half in a single month? Usually someone left. A declining curve over 6 to 12 months tells you the team is losing momentum. Periodic spikes followed by quiet months means the team batches work into releases instead of shipping continuously.\n\nI once showed a CTO their commit velocity chart and they said “that’s when we lost our second senior engineer.” They hadn’t connected the timeline before. This is team data, not code data.\n\nHow Often Is the Team Firefighting\ngit log --oneline --since=\"1 year ago\" | grep -iE 'revert|hotfix|emergency|rollback'\n\n\nRevert and hotfix frequency. A handful over a year is normal. Reverts every couple of weeks means the team doesn’t trust its deploy process. They’re evidence of a deeper issue: unreliable tests, missing staging, or a deploy pipeline that makes rollbacks harder than they should be. Zero results is also a signal; either the team is stable, or nobody writes descriptive commit messages.\n\nCrisis patterns are easy to read. Either they’re there or they’re not.\n\nThese five commands take a couple minutes to run. They won’t tell you everything. But you’ll know which code to read first, and what to look for when you get there. That’s the difference between spending your first day reading the codebase methodically and spending it wandering.\n\nThis is the first hour of what I do in a full codebase audit.\n\nRelated Articles\nWhy Your Engineering Team Is Slow (It's the Codebase, Not the People)\nHow I Audit a Legacy Rails Codebase in the First Week\nRuby 3.2 Is EOL: What You Actually Need to Do\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nHow to Close a Tab in Vim\nLet's talk about your codebase.\nEmail\nMessage"
+}

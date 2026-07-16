@@ -1,0 +1,358 @@
+{
+    "image_count": 26,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/cover.png",
+        "https://lawsofsoftwareengineering.com/images/reviewers/rebecca-parsons.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/addy-osmani.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/adam-tornhill.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/maarten-dalmijn.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/matthias-patzak.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/vlad-khononov.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/jacqui-read.webp",
+        "https://lawsofsoftwareengineering.com/images/reviewers/thiago-ghisi.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/alex-rashkov.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/sean-goedecke.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/marvin-ferreira.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/luca-mezzalira.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/owain-lewis.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/ryan-murphy.png",
+        "https://lawsofsoftwareengineering.com/images/reviewers/romano-roth.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/annie-vella.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/david-pereira.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/jovan-cukalovic.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/fiodar-sazanavets.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/uros-popovic.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/tosho-trajanov.jpg",
+        "https://lawsofsoftwareengineering.com/images/reviewers/maciej-jedrzejewski.jpg",
+        "https://lawsofsoftwareengineering.com/images/Milan.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 80,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/book/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Buy the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/#buy"
+        },
+        {
+            "text": "Read Sample",
+            "href": "https://lawsofsoftwareengineering.com/files/Look%20Inside%20-%20Laws%20of%20Software%20Engineering.pdf"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/dr-rebecca-parsons/"
+        },
+        {
+            "text": "Dr. Rebecca Parsons",
+            "href": "https://www.linkedin.com/in/dr-rebecca-parsons/"
+        },
+        {
+            "text": "",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "Addy Osmani",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/adam-tornhill-71759b48/"
+        },
+        {
+            "text": "Adam Tornhill",
+            "href": "https://www.linkedin.com/in/adam-tornhill-71759b48/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/maarten-dalmijn/"
+        },
+        {
+            "text": "Maarten Dalmijn",
+            "href": "https://www.linkedin.com/in/maarten-dalmijn/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/matthias-patzak/"
+        },
+        {
+            "text": "Matthias Patzak",
+            "href": "https://www.linkedin.com/in/matthias-patzak/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/vladikk/"
+        },
+        {
+            "text": "Vlad Khononov",
+            "href": "https://www.linkedin.com/in/vladikk/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/jacquelineread/"
+        },
+        {
+            "text": "Jacqui Read",
+            "href": "https://www.linkedin.com/in/jacquelineread/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/thiagoghisi/"
+        },
+        {
+            "text": "Thiago Ghisi",
+            "href": "https://www.linkedin.com/in/thiagoghisi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/alexrashkov/"
+        },
+        {
+            "text": "Alex Rashkov",
+            "href": "https://www.linkedin.com/in/alexrashkov/"
+        },
+        {
+            "text": "",
+            "href": "https://au.linkedin.com/in/sean-goedecke-5495a7137"
+        },
+        {
+            "text": "Sean Goedecke",
+            "href": "https://au.linkedin.com/in/sean-goedecke-5495a7137"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/marvinferreira/"
+        },
+        {
+            "text": "Marvin Ferreira",
+            "href": "https://www.linkedin.com/in/marvinferreira/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/lucamezzalira/"
+        },
+        {
+            "text": "Luca Mezzalira",
+            "href": "https://www.linkedin.com/in/lucamezzalira/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/lewisowain/"
+        },
+        {
+            "text": "Owain Lewis",
+            "href": "https://www.linkedin.com/in/lewisowain/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/ryansmurphy1/"
+        },
+        {
+            "text": "Ryan Murphy",
+            "href": "https://www.linkedin.com/in/ryansmurphy1/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/romanoroth/"
+        },
+        {
+            "text": "Romano Roth",
+            "href": "https://www.linkedin.com/in/romanoroth/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/annievella/"
+        },
+        {
+            "text": "Annie Vella",
+            "href": "https://www.linkedin.com/in/annievella/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/davidavpereira/"
+        },
+        {
+            "text": "David Pereira",
+            "href": "https://www.linkedin.com/in/davidavpereira/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/cukalovic/"
+        },
+        {
+            "text": "Jovan Cukalovic",
+            "href": "https://www.linkedin.com/in/cukalovic/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/fiodar-sazanavets/"
+        },
+        {
+            "text": "Fiodar Sazanavets",
+            "href": "https://www.linkedin.com/in/fiodar-sazanavets/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/upopovic/"
+        },
+        {
+            "text": "Uros Popovic",
+            "href": "https://www.linkedin.com/in/upopovic/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/tstrv/"
+        },
+        {
+            "text": "Tosho Trajanov",
+            "href": "https://www.linkedin.com/in/tstrv/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/jedrzejewski-maciej/"
+        },
+        {
+            "text": "Maciej Jędrzejewski",
+            "href": "https://www.linkedin.com/in/jedrzejewski-maciej/"
+        },
+        {
+            "text": "Get it as ePUB and PDF",
+            "href": "https://techworldwithmilan.gumroad.com/l/lawsofsoftwareengineering"
+        },
+        {
+            "text": "Buy on Patreon",
+            "href": "https://www.patreon.com/posts/laws-of-software-155198996?source=storefront"
+        },
+        {
+            "text": "Get it on Kindle",
+            "href": "https://www.amazon.com/dp/B0GXH5JYVP"
+        },
+        {
+            "text": "Send to Kindle",
+            "href": "https://www.amazon.com/sendtokindle"
+        },
+        {
+            "text": "Paperback on Amazon",
+            "href": "https://www.amazon.com/dp/9699893680/?ref_=lse_bookpage"
+        },
+        {
+            "text": "Hardcover on Amazon",
+            "href": "https://www.amazon.com/dp/B0GXFCD1PT"
+        },
+        {
+            "text": "newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Website",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "X",
+            "href": "https://twitter.com/milan_milanovic"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 15670,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws of Software Engineering: The Book\n\nFor the first time, over 50 years of software engineering wisdom is collected in one place. This 300-page book brings together 63+ empirical laws and principles that experienced engineers know, but have never been organized until now.\n\nEach law is a standalone read with its origins, real-world examples, and connections to related principles. Some laws support each other, others contradict, and knowing when to apply which is what separates senior engineers from the rest.\n\nWhether you're a developer, tech lead, or engineering manager, these laws will help you make better calls and avoid repeating old mistakes.\n\nBuy the Book\nRead Sample\nFOREWORD BY\nDr. Rebecca Parsons\nCTO Emerita at Thoughtworks, Co-author of Building Evolutionary Architectures\nAddy Osmani\nEngineering Director at Google Cloud AI, Author of Leading Effective Engineering Teams\nWhat’s Inside\n\nThe book is organized into seven parts, each covering a different aspect of software engineering:\n\nPart I: Architecture & Complexity\nGall's Law\nLaw of Leaky Abstractions\n+ George Box's Law\nTesler's Law\nCAP Theorem\nHyrum's Law\nSecond-System Effect\nFallacies of Distributed Computing\nLaw of Unintended Consequences\nZawinski's Law\nPart II: People, Teams & Organizations\nConway's Law\n+ The Spotify Model\nBrooks's Law\n+ Little's Law\nDunbar's Number\nRingelmann Effect\n+ The Two-Pizza Rule\nPrice's Law\nPutt's Law\nPeter Principle\nBus Factor\n+ The Dead Sea Effect\nDilbert Principle\nPart III: Time, Estimation & Planning\nHofstadter's Law\nParkinson's Law\nThe Ninety-Ninety Rule\nGoodhart's Law\n+ The Cobra Effect\nGilb's Law\nKnuth's Optimization Principle\nPart IV: Quality, Maintenance & Evolution\nMurphy's / Sod's Law\nPostel's Law\nBroken Windows Theory\nThe Boy Scout Rule\nTechnical Debt\nLinus's Law\nKernighan's Law\nTesting Pyramid\n+ The Beyoncé Rule\nThe Pesticide Paradox\nLehman's Laws\nSturgeon's Law\nPart V: Scale, Performance & Growth\nAmdahl's Law\nGustafson's Law\nMetcalfe's Law\n+ Sarnoff's & Reed's Laws\nPart VI: Coding & Design Principles\nDRY Principle\nKISS Principle\nYAGNI\nSOLID Principles\nLaw of Demeter\nPrinciple of Least Astonishment\nPart VII: Decision-Making & Biases\nDunning-Kruger Effect\n+ Impostor Syndrome\nHanlon's Razor\nOccam's Razor\nSunk Cost Fallacy\nThe Map Is Not the Territory\nConfirmation Bias\nHype Cycle & Amara's Law\nLindy Effect\nFirst Principles Thinking\nInversion\nPareto Principle\nCunningham's Law\nHow to Read the Book\n\nThe book is organized into seven standalone parts, each tackling a different dimension of software engineering:\n\nPart I: Architecture & Complexity - the fundamental forces that shape how we design systems.\nPart II: People, Teams & Organizations - how humans work together (and why it’s often harder than the code).\nPart III: Time, Estimation & Planning - the art and science of predicting what we can’t predict.\nPart IV: Quality, Maintenance & Evolution - keeping software healthy as it grows and changes.\nPart V: Scale, Performance & Growth - what happens when things get big, fast, or both.\nPart VI: Coding & Design Principles - timeless guidance for writing code you won’t regret.\nPart VII: Decision-Making & Biases - thinking more clearly when the pressure is on.\n\nThis is a book you’ll come back to. Start with the laws you already recognize, then dig into the ones that matter most for what you’re working on next. It’s designed as a reference you reach for often, not something you read once and shelve.\n\nOf course, you can read this book from cover to cover, for a complete understanding, but you may find it more useful to go directly to the section that addresses your needs at the moment. Are you building a distributed system? Part I is where you need to begin. Is your team experiencing friction? Part II will assist you. Are you struggling with estimates? Part III has some advice.\n\nHere’s something worth knowing: these laws don’t live in isolation. Some back each other up, others pull in opposite directions. Learning when to reach for which one is often what sets experienced engineers apart. The “Related Laws” sections throughout the book show you how these ideas connect and sometimes clash.\n\nEven if you’ve been in the industry for years, you might find fresh angles on laws you thought you understood. A junior developer and a staff engineer will read Conway’s Law differently, and that’s the point. These principles reveal new layers as your perspective grows.\n\nOne more thing: how these laws show up in practice varies a lot depending on where you work. A scrappy startup and a large enterprise will feel Brooks’s Law in very different ways. The real skill isn’t memorizing these laws. It’s recognizing which one applies to your situation right now.\n\nReviews\n\nThe book was written with significant input and reviews from 20 experienced engineers, architects and managers. Thank you!\n\n❝\n\nLaws of Software Engineering collects the most profound and impactful observations on the dynamics of software and how it evolves in a single volume. Dr. Milan's book is more than a mere collection of wisdom. He also adds real-world industry cases that exemplify each law in practice. Laws of Software Engineering is an invaluable book that should be on the shelf of any technical leader, architect, or aspiring senior developer.\n\nAdam Tornhill\nFounder at CodeScene, Author of Your Code as a Crime Scene\n❝\n\nA delightfully compact book infused with hard-earned lessons of wisdom. You can either spend decades discovering these laws through the scars of experience, or allow Milan to unlock their secrets in a single weekend.\n\n\n\n\nChoose wisely.\n\nMaarten Dalmijn\nAuthor of Driving Value with Sprint Goals\n❝\n\nMilan has done the community an invaluable service by compiling these timeless laws into one accessible resource. What sets this book apart isn't just its comprehensiveness, it's that each law is presented with the clarity and context needed to actually apply it. I wish I'd had this compilation twenty years ago, it would have saved me from learning some of these lessons the hard way.\n\nMatthias Patzak\nCTO, Author of \"All Hands on Tech,\" Executive in Residence at AWS\n❝\n\nDomain-driven design teaches us that the most effective way to tackle complex systems is to work with multiple models, each fine-tuned to address a specific problem. This book takes the same approach at a higher level of abstraction: it provides a catalog of effective thinking models for system design, organizational dynamics, project management, and other aspects of software engineering. Laws of Software Engineering won't make decisions for you, but will provide the clarity to make them deliberately.\n\nVlad Khononov\nAuthor of Balancing Coupling in Software Design and Learning Domain-Driven Design\n❝\n\nI love a great reference book and this is one! A single place to learn and remind yourself about the 'laws' and patterns that help us steer software projects toward success. What makes this collection truly great is the inclusion of all the 'socio' patterns, as well as the technical ones. The humans who use and create software systems are the most important part. This book will become a well-thumbed reference on my shelf.\n\nJacqui Read\nLead Technical Architect, Author of Communication Patterns: A Guide for Developers and Architects\n❝\n\nI've been collecting mental models from tech for 20 years, Conway's Law here, Hyrum's Law from a Google talk, Tesler's Law from the guy at Xerox. They lived in different corners of my brain, never talking to each other. Milan put them in the same room. What struck me wasn't learning new laws, I'd heard most of them. It was seeing them together. That kind of clarity only comes when someone does the hard work of finding the original sources, tracing the connections, and putting them in a sequence that actually flows.\n\n\n\n\nIf you've been in tech long enough to learn these lessons the hard way, through failed projects and late-night debugging sessions, this book will feel like someone finally organized your messy notes. Useful whether you're a developer, a manager, or a co-founder. The laws don't care about your title.\n\nThiago Ghisi\nDirector of Engineering, ex-Nubank, Apple & American Express\n❝\n\nAuthor has produced something genuinely useful: a Rosetta Stone for the shared vocabulary of experienced software engineering. The book's greatest strength is its curation. Assembling laws that span systems architecture, organisational dynamics, cognitive biases, and coding principles under one roof, and organising them in a way that mirrors how real problems actually emerge in engineering work. As a \"shared language\" resource to hand to your team - especially one with mixed experience levels - it's hard to beat.\n\nAlex Rashkov\nEngineering Leader at Meta\n❝\n\nDr Milan Milanovic does an excellent job describing each law, with a good eye for concrete examples and for the places where multiple laws might relate to each other. This book is both a fun read cover-to-cover and a useful piece of reference material for professionals who are looking for guidance in their day-to-day work.\n\nSean Goedecke\nStaff Software Engineer, GitHub\n❝\n\nMilan's book is one of those rare \"long time no see\" reads. It took me back to my early days as a programmer, when I read every book I could find, not just to learn concepts, but to discover guidance grounded in real-world experience. This book captures exactly what I loved about my favorite technical reads from that time: practical wisdom delivered without unnecessary complexity.\n\nMarvin Ferreira\nEngineering Manager, Uber\n❝\n\nThis book is ideal for those early in their software careers or looking to strengthen their foundational knowledge, it offers a carefully structured and thoughtfully categorised introduction to core software engineering concepts, enriched with interesting references to established laws.\n\nLuca Mezzalira\nPrincipal Solutions Architect, Amazon\n❝\n\nThere's a career's worth of wisdom here. Milan is an experienced engineer who has encountered these patterns many times over, and it shows. If you want a practical reference for the forces that shape software systems and teams, this is it.\n\nOwain Lewis\nDirector of Software Engineering at Oracle\n❝\n\nLaws of Software Engineering does a great job of turning a broad set of familiar ideas into something practical and genuinely useful. What stood out to me is that it does not treat these laws as rigid rules, but as context-dependent mental models you can use when real engineering trade-offs show up, whether that is architecture, delivery, quality, or team design. It feels less like a book you read once and more like a reference you come back to when you are making decisions in the real world.\n\nRyan Murphy\nEngineering Manager at Yelp\n❝\n\nI enjoyed reading this book, because it distills decades of software engineering reality into a compact, structured reference. It is a practical catalog of laws and principles you return to when systems grow, coordination costs rise, and trade-offs become unavoidable.\n\nRomano Roth\nGlobal Chief of Cybernetic Transformation, Zühlke Group\n❝\n\nAs AI transforms the very nature of software engineering, this timely collection of enduring principles gives practitioners both the theoretical grounding and the practical toolkit they need to understand their systems and navigate what comes next.\n\nAnnie Vella\nDistinguished Engineer at Westpac New Zealand\n❝\n\nProduct teams inevitably fall into traps. Work becomes more complex than necessary, progress slows, and delivering real value starts to feel impossible. While proven practices exist to get teams unstuck, they are scattered and hard to apply in the moment. This book brings them together. It is a practical companion that helps teams break free from the maze and operate as true value maximisers.\n\nDavid Pereira\nProduct Leader, Author of Untrapping Product Teams\n❝\n\nReading the book felt like touring an almanac of software engineering history. It will help any tech leader formulate a useful abstraction of their viewpoint, while also giving beginners a roadmap to the set of assumptions that define our work today.\n\nJovan Cukalovic\nSenior Director of Engineering at Nutanix\n❝\n\nWhat makes this book good is that it captures those patterns clearly and without fluff. It's easy to read, easy to understand, and immediately applicable to real work. Each chapter gets to the point, explains why the law matters, and shows how it appears in modern software systems and teams. An absolute must-read for any tech professional, whether a manager or an engineer!\n\nFiodar Sazanavets\nSenior AI Engineer, ex-Microsoft\n❝\n\nHigh-performing teams are defined by a culture of shared practices. For those in an early growth phase, this book bridges that gap perfectly. It isn't just a manual on syntax, but a strategic compass for new tech leads and engineering managers. If you approach it with an open mind and consult it when things get \"sticky,\" you'll leverage a massive reservoir of industry experience to navigate your team toward success.\n\nUros Popovic\nStaff Software Engineer\n❝\n\nLaws of Software Engineering brings theory-heavy laws into practical context, helping readers understand the reasoning behind the decisions made when building software and teams. Milan brings together established principles and contextualizes them through years of real-world experience, translating abstract ideas into concrete examples drawn from delivery realities. The result is a grounded, credible perspective that resonates with engineers and leaders who operate under real constraints and trade-offs.\n\nTosho Trajanov\nCTO & Co-founder, Adeva\n❝\n\nThis book cuts through architectural theory to focus on laws that describe how systems actually behave. Milan presents them clearly, without unnecessary complexity. Having built dozens of systems over the last 15 years, I immediately recognized the value of this book: it belongs on your desk, ready for reference, not gathering dust on a shelf.\n\nMaciej Jędrzejewski\nSoftware Architect, Author of Master Software Architecture\nBuy the Book\nMOST POPULAR\neBook\n\nGet instant access in your preferred format\n\nPDF\nePub\nGet it as ePUB and PDF\n\nOn Patreon:\n\nBuy on Patreon\n\nOn Amazon:\n\nGet it on Kindle\n\nYou can send the ePub version to Kindle via Amazon's Send to Kindle tool.\n\nPrint\n\nPhysical copy shipped worldwide\n\nPaperback\nHardcover\nPaperback on Amazon\n\nor\n\nHardcover on Amazon\nAbout the Author\n\nI’m a software engineer and CTO with over 20 years of experience, from startups to large enterprises, including big tech as a contractor. I hold a Ph.D. in Computer Science, have authored over 20 scientific publications with 440+ citations, and am recognized as a Microsoft MVP for Developer Technologies.\n\nWith each new role, from developer to architect to CTO, I encountered the same patterns. The same struggles. The same failures. The same hard-won insights that engineers keep rediscovering, often at great cost.\n\nI started collecting these laws and principles for myself, then for my teams. When I started my newsletter, I shared them with the world. Today, my writing on software, architecture, and leadership reaches over 400,000 engineers.\n\nThis book represents everything I wish I’d had when I started. I hope it spares you some of the pain I went through.\n\nWebsite\nNewsletter\nLinkedIn\nX\nGitHub\n\n“Every senior engineer I know learned these laws the hard way. This book exists so you don’t have to.”\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

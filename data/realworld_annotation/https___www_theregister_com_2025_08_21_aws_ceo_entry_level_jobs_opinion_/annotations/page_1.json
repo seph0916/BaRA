@@ -1,0 +1,694 @@
+{
+    "image_count": 22,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5241136.jpg?imageId=5241136&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5241003.jpg?imageId=5241003&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234872.jpg?imageId=234872&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=70&height=60",
+        "https://image.theregister.com/5237766.jpg?imageId=5237766&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=70&height=60",
+        "https://image.theregister.com/5240227.jpg?imageId=5240227&x=0&y=13.49&cropw=100&croph=84.87&panox=0&panoy=13.49&panow=100&panoh=84.87&width=70&height=60",
+        "https://image.theregister.com/5242949.jpg?imageId=5242949&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=70&height=60",
+        "https://image.theregister.com/5222020.jpg?imageId=5222020&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=70&height=60",
+        "https://image.theregister.com/?imageId=5237766&panow=100&panoh=100&panoy=0&panox=0&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=5240833&panow=100&panoh=100&panoy=0&panox=0&heightx=0&heightw=100&heighth=100&heighty=0&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=5237381&panoy=0&panox=0&panow=100&panoh=100&heightw=100&heighth=100&heighty=0&heightx=0&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=5219524&panoh=71.67&panoy=12.5&panox=0&panow=100&heighty=0&heightx=40.45&heightw=41.43&heighth=100&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=232540&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=4094240&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=4094152&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=253705&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=246863&width=530&height=238&format=webp",
+        "https://image.theregister.com/?imageId=226970&width=530&height=238&format=webp",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 165,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/software/2025/08/21/aws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea/1182438#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Software",
+            "href": "https://www.theregister.com/tag/software"
+        },
+        {
+            "text": "Simon Sharwood",
+            "href": "https://www.theregister.com/author/simon-sharwood"
+        },
+        {
+            "text": "88",
+            "href": "https://forums.theregister.com/forum/all/2025/08/21/aws_ceo_entry_level_jobs_opinion/"
+        },
+        {
+            "text": "",
+            "href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/intent/compose?text=AWS%20CEO%20says%20AI%20replacing%20junior%20staff%20is%20%27dumbest%20idea%27%0Ahttps%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438&title=AWS%20CEO%20says%20AI%20replacing%20junior%20staff%20is%20%27dumbest%20idea%27"
+        },
+        {
+            "text": "",
+            "href": "https://api.whatsapp.com/send?text=AWS%20CEO%20says%20AI%20replacing%20junior%20staff%20is%20%27dumbest%20idea%27%0Ahttps%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "conversation",
+            "href": "https://www.youtube.com/watch?v=nfocTxMzOP4"
+        },
+        {
+            "text": "Kiro AI-assisted coding tool",
+            "href": "https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/"
+        },
+        {
+            "text": "Amazon quietly fixed Q Developer flaws that made AI agent vulnerable to prompt injection, RCE",
+            "href": "https://www.theregister.com/2025/08/20/amazon_quietly_fixed_q_developer_flaws/"
+        },
+        {
+            "text": "AWS still cares enough about Intel to order up a fresh batch of custom Xeons",
+            "href": "https://www.theregister.com/2025/08/20/aws_custom_xeons_r8_instances/"
+        },
+        {
+            "text": "AWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy'",
+            "href": "https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/"
+        },
+        {
+            "text": "IBM Cloud hit by Severity One incident with the same symptoms as other recent SNAFUs",
+            "href": "https://www.theregister.com/2025/08/12/ibm_cloud_severity_one_outage/"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "TECH JOBS",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "AI",
+            "href": "https://www.theregister.com/tag/ai"
+        },
+        {
+            "text": "SOFTWARE",
+            "href": "https://www.theregister.com/tag/software"
+        },
+        {
+            "text": "88",
+            "href": "https://forums.theregister.com/forum/all/2025/08/21/aws_ceo_entry_level_jobs_opinion/"
+        },
+        {
+            "text": "",
+            "href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/intent/compose?text=AWS%20CEO%20says%20AI%20replacing%20junior%20staff%20is%20%27dumbest%20idea%27%0Ahttps%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438&title=AWS%20CEO%20says%20AI%20replacing%20junior%20staff%20is%20%27dumbest%20idea%27"
+        },
+        {
+            "text": "",
+            "href": "https://api.whatsapp.com/send?text=AWS%20CEO%20says%20AI%20replacing%20junior%20staff%20is%20%27dumbest%20idea%27%0Ahttps%3A%2F%2Fwww.theregister.com%2Fsoftware%2F2025%2F08%2F21%2Faws-ceo-says-ai-replacing-junior-staff-is-dumbest-idea%2F1182438"
+        },
+        {
+            "text": "Systems\nSpaceX pitches itself as integrated interplanetary proto-monopolist in IPO filing\n\nAims for the stars while burning cash and blowing deadlines on Earth",
+            "href": "https://www.theregister.com/systems/2026/05/21/spacex-pitches-itself-as-integrated-interplanetary-proto-monopolist-in-ipo-filing/5243891"
+        },
+        {
+            "text": "Systems\nNvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year",
+            "href": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868"
+        },
+        {
+            "text": "ZTE releases Sustainability Report 2025: driving a new chapter in sustainable development through AI\n\nThrough its \"All in AI, AI for All\" vision, ZTE surpasses climate targets, bridges the global digital divide, and strengthens governance resilience",
+            "href": "https://www.theregister.com/networks/2026/05/20/zte-releases-sustainability-report-2025-driving-a-new-chapter-in-sustainable-development-through-ai/5243185"
+        },
+        {
+            "text": "Systems\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+            "href": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755"
+        },
+        {
+            "text": "Columnists\nUtah tells porn sites to take the P out of VPNs, and it's their fault that they can't\n\nGovernments can't touch VPNs technically or commercially. The mess they'll make if they try will be off the scale",
+            "href": "https://www.theregister.com/columnists/2026/05/18/utah-tells-porn-sites-to-take-the-p-out-of-vpns-and-its-their-fault-that-they-cant/5240978"
+        },
+        {
+            "text": "SaaS\nIntuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals",
+            "href": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633"
+        },
+        {
+            "text": "Security\nLinus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’",
+            "href": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"
+        },
+        {
+            "text": "Systems\nEurope built sovereign clouds to escape US control. Then forgot about the processors",
+            "href": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai-ml/2026/05/13/google-users-fight-for-refunds-as-unauthorized-api-usage-bills-soar/5239160"
+        },
+        {
+            "text": "AI + ML\nGoogle users fight for refunds as unauthorized API usage bills soar",
+            "href": "https://www.theregister.com/ai-ml/2026/05/13/google-users-fight-for-refunds-as-unauthorized-api-usage-bills-soar/5239160"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915"
+        },
+        {
+            "text": "Security\nAmerica's top cyber-defense agency left a GitHub repo open with passwords, keys, tokens – and incredibly obvious filenames",
+            "href": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150"
+        },
+        {
+            "text": "Off-Prem\nTencent admits GPUs only pay for themselves when powering personalized ads",
+            "href": "https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150"
+        },
+        {
+            "text": "The Hardware Crunch: How Supply Chain Turbulence Is Forcing a New IT Playbook\n\nInfrastructure teams are facing a perfect storm: extended hardware lead times, rising costs driven by AI demand, and accelerated platform timelines.",
+            "href": "https://intelligence.theregister.com/paper/view/20113"
+        },
+        {
+            "text": "Overcoming the trade-offs in data sovereignty\n\nWhat does data sovereignty actually mean for your network, which trade-offs are unavoidable? Learn more.",
+            "href": "https://intelligence.theregister.com/paper/view/20260"
+        },
+        {
+            "text": "From Prompt to Exploit: How LLMs Are Changing API Attacks\n\nModern applications are API-driven, interconnected, and often over-permissioned, making them an ideal target for AI-assisted attacks.",
+            "href": "https://intelligence.theregister.com/paper/view/20219"
+        },
+        {
+            "text": "How Agents are Reshaping AI Security\n\nAI adoption is accelerating and with it comes a new security challenge.",
+            "href": "https://intelligence.theregister.com/paper/view/20200"
+        },
+        {
+            "text": "How Agents are Reshaping AI Security\n\nAI adoption is accelerating and with it comes a new security challenge.",
+            "href": "https://intelligence.theregister.com/paper/view/20201"
+        },
+        {
+            "text": "AI Found the Problem. Now What?\n\nAI is transforming the software development lifecycle, helping teams identify and remediate vulnerabilities before they reach production.",
+            "href": "https://intelligence.theregister.com/paper/view/20158"
+        },
+        {
+            "text": "Virtual Cyber Recovery Sim\n\nStep into the chaos of a live ransomware breach, test your response skills, and team up with other IT and security pros to outsmart cybercriminals",
+            "href": "https://intelligence.theregister.com/paper/view/20261"
+        },
+        {
+            "text": "Virtual Cyber Recovery Sim\n\nRansomware attacks aren’t slowing down, and neither are we. Druva’s hit event, Escape Ransomware, is now fully virtual.",
+            "href": "https://intelligence.theregister.com/paper/view/20262"
+        },
+        {
+            "text": "Agentic AI at Scale: From Pilot to Production\n\nJoin us to learn how to unlock real ROI by driving adoption of AI at scale.",
+            "href": "https://intelligence.theregister.com/paper/view/20257"
+        },
+        {
+            "text": "EXPLORE ALL OF OUR EVENTS",
+            "href": "https://intelligence.theregister.com/events/list?_gl=1*8seb5h*_ga*NzgyNjE4NzEwLjE3NzExNzQ4MjA.*_ga_JXW44Y23NM*czE3NzY3NTY3MjIkbzEwNSRnMSR0MTc3Njc1Njg5NCRqOCRsMCRoMA.."
+        },
+        {
+            "text": "AI",
+            "href": "https://beta.theregister.com/tag/ai"
+        },
+        {
+            "text": "Systems\n\nNvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year",
+            "href": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868"
+        },
+        {
+            "text": "Systems\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+            "href": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755"
+        },
+        {
+            "text": "SaaS\n\nIntuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals",
+            "href": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807"
+        },
+        {
+            "text": "AI + ML\n\nAI code accelerates production failures and spending, study finds\n\nCloudBees survey exposes verification gap",
+            "href": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787"
+        },
+        {
+            "text": "Security\n\nEven Claude agrees: hole in its sandbox was real and dangerous\n\nAnother day, another AI bug silently fixed with no CVE and no public disclosure",
+            "href": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662"
+        },
+        {
+            "text": "Infosec",
+            "href": "https://beta.theregister.com/security"
+        },
+        {
+            "text": "Systems\n\nNvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year",
+            "href": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868"
+        },
+        {
+            "text": "Systems\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+            "href": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755"
+        },
+        {
+            "text": "SaaS\n\nIntuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals",
+            "href": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807"
+        },
+        {
+            "text": "AI + ML\n\nAI code accelerates production failures and spending, study finds\n\nCloudBees survey exposes verification gap",
+            "href": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787"
+        },
+        {
+            "text": "Security\n\nEven Claude agrees: hole in its sandbox was real and dangerous\n\nAnother day, another AI bug silently fixed with no CVE and no public disclosure",
+            "href": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662"
+        },
+        {
+            "text": "FOSS",
+            "href": "https://beta.theregister.com/tag/FOSS"
+        },
+        {
+            "text": "Nvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year",
+            "href": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868"
+        },
+        {
+            "text": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+            "href": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755"
+        },
+        {
+            "text": "Intuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals",
+            "href": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807"
+        },
+        {
+            "text": "AI code accelerates production failures and spending, study finds\n\nCloudBees survey exposes verification gap",
+            "href": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787"
+        },
+        {
+            "text": "Even Claude agrees: hole in its sandbox was real and dangerous\n\nAnother day, another AI bug silently fixed with no CVE and no public disclosure",
+            "href": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662"
+        },
+        {
+            "text": "Intel's CEO reveals early hiring challenges as bankruptcy concerns deterred top talent\n\nRecovering chipmaker looks beyond 14A to 10A and 7A process nodes in foundry comeback bid",
+            "href": "https://www.theregister.com/systems/2026/05/20/intels-ceo-reveals-early-hiring-challenges-as-bankruptcy-concerns-deterred-top-talent/5243546"
+        },
+        {
+            "text": "FEATURES",
+            "href": "https://www.theregister.com/tag/features?_gl=1*esekfm*_ga*NzgyNjE4NzEwLjE3NzExNzQ4MjA.*_ga_JXW44Y23NM*czE3NzY3NTY3MjIkbzEwNSRnMSR0MTc3Njc1Njg5NCRqOCRsMCRoMA.."
+        },
+        {
+            "text": "Europe built sovereign clouds to escape US control. Then forgot about the processors",
+            "href": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"
+        },
+        {
+            "text": "Nobody believes the 'criminals and scumbags' who hacked Canvas really deleted stolen student data",
+            "href": "https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799"
+        },
+        {
+            "text": "Europe wants out from under US tech – but first it has to find the exits",
+            "href": "https://www.theregister.com/public-sector/2026/05/11/europe-wants-out-from-under-us-tech-but-first-it-has-to-find-the-exits/5234898"
+        },
+        {
+            "text": "GNOME may rule Ubuntu Resolute Raccoon, but X.org isn't roadkill yet",
+            "href": "https://www.theregister.com/oses/2026/05/06/gnome-may-rule-ubuntu-resolute-raccoon-but-xorg-isnt-roadkill-yet/5219477"
+        },
+        {
+            "text": "OpenClaw, but in containers: Meet NanoClaw",
+            "href": "https://www.theregister.com/software/2026/03/01/openclaw-but-in-containers-meet-nanoclaw/4932592"
+        },
+        {
+            "text": "Open source registries don't have enough money to implement basic security",
+            "href": "https://www.theregister.com/security/2026/02/16/open-source-registries-underfunded-as-security-costs-rise/5168909"
+        },
+        {
+            "text": "Contain your Windows apps inside Linux Windows",
+            "href": "https://www.theregister.com/software/2026/02/14/contain-your-windows-apps-inside-linux-windows/4334445"
+        },
+        {
+            "text": "The Linux mid-life crisis that's an opportunity for Tux-led transformation",
+            "href": "https://www.theregister.com/software/2026/02/09/linux-mid-life-crisis-a-tux-led-transformation-chance/4856690"
+        },
+        {
+            "text": "Too much AI for some, too little for others: Why AMD can't win with investors",
+            "href": "https://www.theregister.com/on-prem/2026/02/04/why-amds-q1-outlook-is-giving-wall-street-jitters/4464981"
+        },
+        {
+            "text": "How agentic AI can strain modern memory hierarchies",
+            "href": "https://www.theregister.com/special-features/2026/01/28/how-agentic-ai-strains-modern-memory-hierarchies/4429527"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 9528,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\n\nSoftware\n\nAWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'\n\nThey're cheap and grew up with AI … so you're firing them why?\n\nSimon Sharwood\n88\nPublished Thu 21 Aug 2025 // 06:06 UTC\n\nAmazon Web Services CEO Matt Garman has suggested firing junior workers because AI can do their jobs is \"the dumbest thing I've ever heard.\"\n\nGarman made that remark in conversation with AI investor Matthew Berman, during which he talked up AWS’s Kiro AI-assisted coding tool and said he's encountered business leaders who think AI tools \"can replace all of our junior people in our company.\"\n\nThat notion led to the “dumbest thing I've ever heard” quote, followed by a justification that junior staff are “probably the least expensive employees you have” and also the most engaged with AI tools.\n\n“How's that going to work when ten years in the future you have no one that has learned anything,” he asked. “My view is you absolutely want to keep hiring kids out of college and teaching them the right ways to go build software and decompose problems and think about it, just as much as you ever have.”\n\nNaturally he thinks AI – and Kiro, natch – can help with that education.\n\nGarman is also not keen on another idea about AI – measuring its value by what percentage of code it contributes at an organization.\n\n“It’s a silly metric,” he said, because while organizations can use AI to write “infinitely more lines of code” it could be bad code.\n\n“Often times fewer lines of code is way better than more lines of code,” he observed. “So I'm never really sure why that's the exciting metric that people like to brag about.”\n\nThat said, he’s seen data that suggests over 80 percent of AWS’s developers use AI in some way.\n\n“Sometimes it's writing unit tests, sometimes it's helping write documentation, sometimes it's writing code, sometimes it's kind of an agentic workflow” in which developers collaborate with AI agents.\n\nGarman said usage of AI tools by AWS developers increases every week.\n\nMORE CONTEXT\nAmazon quietly fixed Q Developer flaws that made AI agent vulnerable to prompt injection, RCE\nAWS still cares enough about Intel to order up a fresh batch of custom Xeons\nAWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy'\nIBM Cloud hit by Severity One incident with the same symptoms as other recent SNAFUs\n\nThe CEO also offered some career advice for the AI age, suggesting that kids these days need to learn how to learn – and not just learn specific skills.\n\n“I think the skills that should be emphasized are how do you think for yourself? How do you develop critical reasoning for solving problems? How do you develop creativity? How do you develop a learning mindset that you're going to go learn to do the next thing?”\n\nGarman thinks that approach is necessary because technological development is now so rapid it’s no longer sensible to expect that studying narrow skills can sustain a career for 30 years. He wants educators to instead teach “how do you think and how do you decompose problems”, and thinks kids who acquire those skills will thrive. ®\n\nAWS TECH JOBS AI SOFTWARE\n88\nSystems\nSpaceX pitches itself as integrated interplanetary proto-monopolist in IPO filing\n\nAims for the stars while burning cash and blowing deadlines on Earth\n\nSystems\nNvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year\n\nZTE releases Sustainability Report 2025: driving a new chapter in sustainable development through AI\n\nThrough its \"All in AI, AI for All\" vision, ZTE surpasses climate targets, bridges the global digital divide, and strengthens governance resilience\n\nSystems\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nColumnists\nUtah tells porn sites to take the P out of VPNs, and it's their fault that they can't\n\nGovernments can't touch VPNs technically or commercially. The mess they'll make if they try will be off the scale\n\nSaaS\nIntuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals\n\nMOST POPULAR\nSecurity\nLinus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’\n\nSystems\nEurope built sovereign clouds to escape US control. Then forgot about the processors\n\nAI + ML\nGoogle users fight for refunds as unauthorized API usage bills soar\n\nSecurity\nAmerica's top cyber-defense agency left a GitHub repo open with passwords, keys, tokens – and incredibly obvious filenames\n\nOff-Prem\nTencent admits GPUs only pay for themselves when powering personalized ads\n\nEVENTS\nThe Hardware Crunch: How Supply Chain Turbulence Is Forcing a New IT Playbook\n\nInfrastructure teams are facing a perfect storm: extended hardware lead times, rising costs driven by AI demand, and accelerated platform timelines.\n\nOvercoming the trade-offs in data sovereignty\n\nWhat does data sovereignty actually mean for your network, which trade-offs are unavoidable? Learn more.\n\nFrom Prompt to Exploit: How LLMs Are Changing API Attacks\n\nModern applications are API-driven, interconnected, and often over-permissioned, making them an ideal target for AI-assisted attacks.\n\nHow Agents are Reshaping AI Security\n\nAI adoption is accelerating and with it comes a new security challenge.\n\nHow Agents are Reshaping AI Security\n\nAI adoption is accelerating and with it comes a new security challenge.\n\nAI Found the Problem. Now What?\n\nAI is transforming the software development lifecycle, helping teams identify and remediate vulnerabilities before they reach production.\n\nVirtual Cyber Recovery Sim\n\nStep into the chaos of a live ransomware breach, test your response skills, and team up with other IT and security pros to outsmart cybercriminals\n\nVirtual Cyber Recovery Sim\n\nRansomware attacks aren’t slowing down, and neither are we. Druva’s hit event, Escape Ransomware, is now fully virtual.\n\nAgentic AI at Scale: From Pilot to Production\n\nJoin us to learn how to unlock real ROI by driving adoption of AI at scale.\n\nEXPLORE ALL OF OUR EVENTS\nAI\n\nSystems\n\nNvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year\n\nSystems\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nSaaS\n\nIntuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals\n\nAI + ML\n\nAI code accelerates production failures and spending, study finds\n\nCloudBees survey exposes verification gap\n\nSecurity\n\nEven Claude agrees: hole in its sandbox was real and dangerous\n\nAnother day, another AI bug silently fixed with no CVE and no public disclosure\n\nInfosec\n\nSystems\n\nNvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year\n\nSystems\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nSaaS\n\nIntuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals\n\nAI + ML\n\nAI code accelerates production failures and spending, study finds\n\nCloudBees survey exposes verification gap\n\nSecurity\n\nEven Claude agrees: hole in its sandbox was real and dangerous\n\nAnother day, another AI bug silently fixed with no CVE and no public disclosure\n\nFOSS\n\nNvidia on track to be worlds leading CPU supplier claims CFO\n\nGPUzilla forecasts $20 billion in CPU revenues this year\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nAMD says its $4K Ryzen AI Halo workstation practically pays for itself\n\nIntuit axes 3,000 – without blaming AI\n\n'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals\n\nAI code accelerates production failures and spending, study finds\n\nCloudBees survey exposes verification gap\n\nEven Claude agrees: hole in its sandbox was real and dangerous\n\nAnother day, another AI bug silently fixed with no CVE and no public disclosure\n\nIntel's CEO reveals early hiring challenges as bankruptcy concerns deterred top talent\n\nRecovering chipmaker looks beyond 14A to 10A and 7A process nodes in foundry comeback bid\n\nFEATURES\nEurope built sovereign clouds to escape US control. Then forgot about the processors\nNobody believes the 'criminals and scumbags' who hacked Canvas really deleted stolen student data\nEurope wants out from under US tech – but first it has to find the exits\nGNOME may rule Ubuntu Resolute Raccoon, but X.org isn't roadkill yet\nOpenClaw, but in containers: Meet NanoClaw\nOpen source registries don't have enough money to implement basic security\nContain your Windows apps inside Linux Windows\nThe Linux mid-life crisis that's an opportunity for Tux-led transformation\nToo much AI for some, too little for others: Why AMD can't win with investors\nHow agentic AI can strain modern memory hierarchies\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

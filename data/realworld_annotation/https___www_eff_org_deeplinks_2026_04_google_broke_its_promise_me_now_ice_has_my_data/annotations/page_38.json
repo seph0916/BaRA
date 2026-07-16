@@ -1,0 +1,751 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://www.eff.org/sites/all/themes/phoenix/images/logo-monogram-white.svg",
+        "https://www.eff.org/files/2026-membership-sitebanner-desktop-3_0.png",
+        "https://www.eff.org/files/2026-membership-sitebanner-mobile.png",
+        "https://www.eff.org/files/banner_library/EFF-work-icons.png",
+        "https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg",
+        "https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/policy&action_name=Privacy%20Policy%20%7C%20Electronic%20Frontier%20Foundation&urlref=&dimension2=page&dimension3=79994",
+        ""
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 183,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.eff.org/policy#main-content"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Join EFF Lists",
+            "href": "https://eff.org/signup"
+        },
+        {
+            "text": "Copyright (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "Trademark",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "Thanks",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--m"
+        },
+        {
+            "text": "DONATE TODAY",
+            "href": "https://supporters.eff.org/donate/spring--wssn"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SD"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SM"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "ESPAÑOL",
+            "href": "https://www.eff.org/policy?language=es"
+        },
+        {
+            "text": "here",
+            "href": "https://www.eff.org/code/privacy/policy"
+        },
+        {
+            "text": "working",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "further below",
+            "href": "https://www.eff.org/policy#analytics"
+        },
+        {
+            "text": "Best Practices for Online Service Providers",
+            "href": "https://www.eff.org/pages/online-privacy-nonprofits"
+        },
+        {
+            "text": "Tor",
+            "href": "https://www.torproject.org/"
+        },
+        {
+            "text": "great swag",
+            "href": "https://supporters.eff.org/shop"
+        },
+        {
+            "text": "APIs",
+            "href": "https://en.wikipedia.org/wiki/Api"
+        },
+        {
+            "text": "subscription management page",
+            "href": "https://supporters.eff.org/account"
+        },
+        {
+            "text": "data protection supervisory authority",
+            "href": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+        },
+        {
+            "text": "HTTPS",
+            "href": "https://en.wikipedia.org/wiki/HTTP_Secure"
+        },
+        {
+            "text": "Cryptolog",
+            "href": "https://github.com/efforg/cryptolog"
+        },
+        {
+            "text": "Feb 26 2007 - Jan 4 2009",
+            "href": "https://www.eff.org/policy/2007/02/26"
+        },
+        {
+            "text": "Jan 5 2009 - Jan 25 2009",
+            "href": "https://www.eff.org/policy/2009/01/05"
+        },
+        {
+            "text": "Jan 26 2009 - Jun 21 2011",
+            "href": "https://www.eff.org/policy/2009/01/26"
+        },
+        {
+            "text": "Jun 22 2011 - Oct 18 2011",
+            "href": "https://www.eff.org/policy/2011/06/22"
+        },
+        {
+            "text": "Oct 19 2011 - Jul 23 2012",
+            "href": "https://www.eff.org/policy/2011/10/19"
+        },
+        {
+            "text": "Jul 24, 2012 - Apr 30, 2014",
+            "href": "https://www.eff.org/policy/2012/07/24"
+        },
+        {
+            "text": "Apr 31, 2014 – Jun 12, 2014",
+            "href": "https://www.eff.org/policy/2014/04/31"
+        },
+        {
+            "text": "Jun 13, 2014 – Apr 7, 2015",
+            "href": "https://www.eff.org/policy/2014/06/13"
+        },
+        {
+            "text": "Apr 8, 2015 – Jul 13, 2016",
+            "href": "https://www.eff.org/policy/2016/07/13"
+        },
+        {
+            "text": "Jul 14, 2016 to Feb 19, 2018",
+            "href": "https://www.eff.org/policy/2018/02/19"
+        },
+        {
+            "text": "Feb 20, 2018 to May 24, 2018",
+            "href": "https://www.eff.org/policy/2018/05/24"
+        },
+        {
+            "text": "May 25, 2018 to June 30, 2022",
+            "href": "https://www.eff.org/policy/2022/07/01"
+        },
+        {
+            "text": "June 30, 2022 to May 18, 2026",
+            "href": "https://www.eff.org/policy/2026/05/18"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://www.eff.org/policy#main-content"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "instagram",
+            "href": "https://www.instagram.com/efforg/"
+        },
+        {
+            "text": "Blue Sky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "youtube",
+            "href": "https://www.youtube.com/efforg"
+        },
+        {
+            "text": "flicker",
+            "href": "https://www.flickr.com/photos/electronicfrontierfoundation"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/EFF"
+        },
+        {
+            "text": "tiktok",
+            "href": "https://www.tiktok.com/@efforg"
+        },
+        {
+            "text": "threads",
+            "href": "https://www.threads.net/@efforg"
+        },
+        {
+            "text": "Charity Navigator",
+            "href": "https://www.charitynavigator.org/ein/043091431"
+        },
+        {
+            "text": "General",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Legal",
+            "href": "https://www.eff.org/pages/legal-assistance"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/security"
+        },
+        {
+            "text": "Membership",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Calendar",
+            "href": "https://www.eff.org/event"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Victories",
+            "href": "https://www.eff.org/victories"
+        },
+        {
+            "text": "History",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Jobs",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Staff",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Diversity & Inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity & Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.eff.org/deeplinks?type=blog"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/updates?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "EFFector Newsletter",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "Press Contact",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Join or Renew Membership Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "One-Time Donation Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Corporate Giving and Sponsorship",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/helpout"
+        },
+        {
+            "text": "COPYRIGHT (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "TRADEMARK",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "THANKS",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "JavaScript license information",
+            "href": "https://www.eff.org/librejs/jslicense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/policy#"
+        }
+    ],
+    "text_length": 20519,
+    "text_full": "Skip to main content\nIf you use technology, this fight is yours.\nDONATE TODAY\nElectronic Frontier Foundation\nAbout\nIssues\nOur Work\nTake Action\nTools\nDonate\nPrivacy Policy\nESPAÑOL\n\n(Note that EFF's Technology Projects, such as HTTPS Everywhere, Privacy Badger, and Certbot, have a different privacy policy, available here)\n\nThe Electronic Frontier Foundation (EFF) is committed to protecting the privacy and security of data shared with us by visitors to our websites, and by our members and volunteers, to the fullest extent possible while still ensuring our limited funds and resources can fully support our mission. EFF has established this Privacy Policy to explain what information we collect through our websites and how it is used, and what information is collected by third-party contractors and data processors, as well as protections for our members’ and donors’ personal information. \n\nIn this policy, \"EFF\" refers to EFF staff, board members, cooperating attorneys, interns, volunteers, and consultants, all of whom are bound by law or contract to keep confidential information they receive as part of their assistance to EFF. \n\nEFF does not sell or rent member, donor or website visitor information under any circumstances, and we do not share member, donor or visitor information with government entities except as compelled by law. This restriction applies to members and donors who join or donate both online and offline. (See discussion below.) \n\nEFF is located within the United States, and therefore will transfer, process, and store your information in the United States, which may not provide as much protection as your home country. (We’re working to make U.S. practices better.) \n\nInformation Gathered by EFF's Site\n\nLogging: For visitors to our website, we generally log only timestamps, URLs, and HTTP requests and do internal analytical logging, including additional technical information such as a single byte from IP addresses (described further below), for up to seven days from when the data was collected. \n\nCircumstances in which EFF may need to log and retain technical information for longer than seven days include when we believe it is reasonably necessary for EFF’s mission and functionality, including situations such as: \n\ndiagnosis of technical problems, \ndefending against attacks to the site, \nhandling a spike in traffic or other abnormal, short-term circumstances, or \nresearch projects (in anonymized form) that serve our overall mission to defend freedom online. \n\nIn these and similar situations, we will delete the information as soon as it is apparent that the information is no longer needed for the purpose for which it was retained. For more information on EFF's position on data logging and techniques we use to anonymize, obfuscate, aggregate and delete information, see our Best Practices for Online Service Providers. \n\nHow EFF Internal Analytics Works: EFF endeavors to gather sufficient information for analyzing our website and how visitors move within it without compromising the privacy of our visitors.  EFF’s internal analytical logging involves logging for up to seven days a single byte of the IP address, as well as the referrer page, time stamp, page requested, user agent, language header, website visited, and a hash of all this information. After seven days we keep only aggregate information from these logs. We also geolocate IP addresses before anonymizing them, but we store only country-level data. \n\nCookies: We do not use persistent ID cookies on the eff.org domain. We use session cookies on certain portions of the website. Some of the third-party apps we use for other websites (acteff.org, shopeff.org etc) have their own cookie policies (See the Third Party Service Providers section below). You can use Tor if you wish to keep your connection information anonymous, but please note that you can still be identified to EFF if you log in.\n\nVoluntarily Submitted Information: In addition, EFF collects and retains information you voluntarily submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member, use the EFF Shop, otherwise donate to EFF or use the Action Center. We may ask for identifying information such as your name, email address, mailing address and phone number and will retain that information. For online donors and shoppers, we also ask for your credit card number or other payment information.  \n\nWe may ask for additional personal information when you provide feedback or comments, or otherwise communicate with us. We are pleased to receive anonymous donations in the mail or in-person, but please note that your personal information may be required if you choose to donate using our online form, or if you choose to use a mobile payment processor for in-person donations (and the mobile payment processor will also receive your payment information, subject to their privacy policy.). \n\nFrom time to time, we may ask for personal information on other portions of the site, such as asking you to sign a petition, participate in a contest, or provide prior art for a patent busting project. \n\nEFFector and other Mailing Lists: If you choose to subscribe to EFFector, our free electronic newsletter, or any of our other mailing lists to receive email or text message updates, we collect your email address, and, if you choose to provide it, a zip or postal code and a phone number. We may occasionally ask you to opt-in to tracking your email actions to verify you’re still an active subscriber, so that we remain compliant with email service providers’ requirements.  \n\nSeparately, we may ask for your consent to opt-in to tracking your email interactions to help us understand the types of content and information that interest our supporters. These interactions would include whether you open emails sent by EFF and which links you click inside of those emails. If you consent to this tracking, you can later opt-out at any time by clicking an opt-out link in future emails or by contacting us at membership@eff.org. \n\nIf you provide your email address or phone number to receive email or text message updates, we will only use this information for messaging purposes as described in this policy. \n\nEFF's Use of Information\n\nIn general, EFF uses the information provided by you to further its mission, including to protect privacy, defend freedom and innovation, and to protect your rights in the digital world. \n\nMember and Donor Information: We use member and donor information for our legitimate interests in processing and managing your membership or contribution, including fundraising reminders and renewals. If you agree, we will use your email address  or phone number to send you updates and alerts on protecting your rights in the digital world, including on specific issues in which you have expressed an interest, so you may take action, such as contacting your representative in Congress or attending an event. If you choose to complete the \"Please tell us why you became a member of EFF\" field when donating, this information may be shared with the entire EFF staff and board, and select unattributed quotes may be used to promote our mission, such as including a relevant quote in a grant proposal. \n\nPublication by EFF: If you provide information for publication, we may use your name and contact information you have provided to us to provide you with attribution. \n\nOther activities: We may run surveys, contests, outreach, or similar activities through this site. Such information will be used for the purposes for which it was collected, and these purposes will be described on the webpage asking for data. We use the information provided through our online Shop to fulfill your order and to address any problems that might arise. We also look at technical information to diagnose problems with or consider improvements to our servers or related technologies and to administer eff.org and other websites we host or provide. \n\nThird-Party Service Providers to EFF\n\nSome EFF websites and portions of the EFF.org site, including the Action Center, and order processing for the EFF Shop, are operated by third parties. When necessary and appropriate, EFF uses the following categories of third-party services:\n\n\n\nContent delivery networks and cloud hosting providers (for example, hosting and handling traffic to our site).\n\n\nFinancial services and payment processors (for example, your credit card and online payments)\n\n\nCloud communications providers (for example, sending you email, like the EFFector newsletter)\n\n\nOnline shopping, shipping and fulfillment services (for example, shipping you our great swag)\n\n\nCampaign service providers (for example, services that allow you to contact your representatives).\n\nWe control our own data practices carefully, but some of our tools and payment processors operate under their own policies. Where possible, we take steps to limit the ability of third parties to retain data about our users. Some service providers may place session and tracking cookies on your computer. EFF’s service providers may also log standard technical information, such as the Internet Protocol (IP) address of the computer you are using; the browser you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. We recommend installing Privacy Badger to limit exposure to tracking from these services. Our service providers may also store and organize the personal information collected through this site on our behalf. EFF’s third party providers primarily process information in the United States but may process data in other jurisdictions. Where applicable, we have entered into General Data Protection Regulation (GDPR)- compliant Data Protection Addendums with third -parties who process data on our behalf.\n\nIn addition, for all of EFF's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from EFF users remains protected by the terms of our agreements with those providers and we will ensure that the information is kept confidential and disclosed only to employees who require such access in the course of their assigned duties. EFF also requires all of our third-party service providers to notify EFF if they receive legal process seeking information about visitors to EFF’s website.\n\nEFF may change the specific third-party providers from time to time and will transfer stored information to any new provider subject to similar restrictions and agreements. From time to time, EFF may work with third-party consultants or other service providers who may have access to personally identifiable information. In such cases, we will restrict their use of personally identifiable information in accordance with their assigned tasks.\n\nThird-Party Services and APIs\n\nEFF’s site also provides links to or interacts with a wide variety of third-party websites, including interactive links to sites like social media, telephone calling services, mapping services, or video hosting websites, often via application programming interfaces (APIs). EFF is not responsible for, and does not have any control over, the privacy practices or the content of such third parties. \n\nWe encourage users to read the privacy policies of any website visited via links from or interactions with the EFF website. Additionally, we recommend installing and using Privacy Badger to protect against tracking by these services. We turn off tracking where possible in third-party configurations, but not every service allows full control. Where appropriate, we will provide specific notice of these third-party services at the point of interaction. It is our policy not to include third-party resources when users initially load eff.org pages, such as video or document embeds, but we may dynamically include them later after giving the user a chance to choose to interact with them. If you believe a third-party resource is automatically loading, please let us know so we can address it. \n\nDisclosure of Your Information\n\nWhile EFF endeavors to provide the highest level of protection for your information, we may disclose personally identifiable information about you to third parties in limited circumstances, including: (1) with your consent; or (2) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other judicial or administrative order. \n\nIf we are required by law to disclose the information that you have submitted, we will attempt to provide you with prior notice (unless we are prohibited or it would be futile) that a request for your information has been made in order to give you an opportunity to object to the disclosure. We will attempt to provide this notice by email, if you have given us an email address, or by postal mail if you have entered a postal address. If you do not challenge the disclosure request, we may be legally required to turn over your information. \n\nIn addition, we will independently object to requests for access to information about users of our site that we believe to be improper, and we have done so. \n\nUpdating or Removing Your Information\n\nYou may choose to correct, update, access, or delete the membership information you have submitted to us by sending an email requesting changes to membership@eff.org.  \n\nYour consent to our use of your information is very important to us. If you would like to withdraw your consent to receive the EFFector newsletter, Action Alerts and other bulk emails or texts, you may use this subscription management page to unsubscribe. If you would like to otherwise withdraw your consent, restrict or object to EFF’s processing of your data, please email privacypolicy@eff.org.. \n\nGDPR Data Deletion Requests: Users in the European Union have the right to request deletion of personal data under GDPR. To make a request, please contact us at info@eff.org with the subject line \"GDPR Data Deletion Request\". We will respond within the time limits required by law. \n\nData Storage and Retention\n\nEFF’s server logs are stored and retained as explained above in the section on logging. \n\n Email and text subscription information is retained until you unsubscribe from the mailing list(s) or request we delete your information. \n\nSome records and communications are maintained according to EFF’s internal document retention period. This policy provides that EFF generally retains documents for the period of their immediate or current use, unless longer retention is necessary to comply with contractual or legal requirements. However, data storage periods are based on EFF's assessment of its needs and might include retaining some documents for historical reference and retaining some documents because EFF has insufficient organizational resources available to dedicate to their review and destruction, and/or other pertinent factors.  \n\nRecords and communications subject to EFF’s document retention policy include: \n\n\n\nCommunications with EFF, such as through info@eff.orgor individual staff members’ emails \n\n\nFinancial records of donations and other transactions (retained indefinitely)  \n\n\nPaper records of donations, such as event donation forms and signup sheets (typically destroyed soon after entry)  \n\n\nCheck copies and payment distribution details (normally kept up to seven years)  \n\n\nAccompanying donor information (kept indefinitely unless the individual requests that it be removed) \n\nIf we inadvertently collect more personal information than intended, we endeavor to delete the extraneous information. When we no longer need to retain information or when deleting information on request, we endeavor to remove all copies. However, please understand that deleted information may continue to persist on backup media. \n\nContacting EFF\n\nIf you have any questions about our privacy and data protection practices, you can reach EFF at: \n\nElectronic Frontier Foundation \n815 Eddy Street \nSan Francisco, CA 94109 USA \nPhone: +1-415-436-9333 \nFax: +1-415-436-9993 \nEmail: privacypolicy@eff.org. \n\nIf our processing of your personal data is covered by EU law, you may also lodge a complaint with the relevant data protection supervisory authority for your country of residence. \n\nSecurity\n\nEFF employs industry standard security measures to protect the loss, misuse, and alteration of the information under our control, including appropriate technical and organizational measures to ensure a level of security appropriate to the risk, such as the pseudonymization and encryption of personal data, data backup systems, and engaging security professionals to evaluate our systems effectiveness. EFF has turned on HTTPS by default. \n\nAlthough we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security. \n\nChanges to Our Policies\n\nEFF's Privacy Policy may change from time to time. However, any revised privacy policy will be consistent with EFF's mission. If we make any substantive changes to our policies, we will place notice in EFFector and post notice of changes on this page.\n\nUpdated May 18, 2026 to further clarify our use of third party tools especially in the cases where they operate under their on privacy policy, remove Action Center specific policies, and add opt-in email tracking provisions. We also added GDPR information and data retention guidelines. \n\nUpdated July 1, 2022 to reflect that EFF no longer uses Cryptolog, which allowed us to take the IP address portion of the request getting logged and encrypt it, as well as a chunk of random data (the salt), using a cryptographic hash function. Instead, as described above, we generally don’t log IP addresses at all.\n\nUpdated May 25, 2018 to provide more transparency about our privacy practices and more detailed information about how you can access, correct and remove personal data stored with EFF.\n\nUpdated February 20, 2018 to clarify how EFF works with third parties like content delivery networks and cloud service providers.\n\nUpdated July 14, 2016 to clarify the use of information in the EFF Action Center and protections for members who join EFF offline.\n\nUpdated April 7, 2015 to reflect: 1) changes to the types of third-party service providers which may be used by EFF websites; 2) that third-party service providers may be used by any EFF site, not just those on the eff.org domain; and 3) to fix some typographical errors.\n\nUpdated June 12, 2014 to reflect: 1) changes to reflect EFF’s new Action Center, including the consequences for logging in or clicking “remember me,” the identifying information we retain about logged in users and how to manage your account; 2) information use by purchasers in our Shop; 3) a specific section addressing EFF’s use of Third Party Services and API’s.\n\nAlso recently updated May 1, 2014 to reflect: 1) introduction of EFF's separate Technology Projects Privacy Policy; 2) specifying that we will try to give prior notice to users when someone seeks their data from us and that we have actually challenged requests for access to our user information; 3) clarifying that we will ensure that information we give to third parties is protected, even if that is not through a specific agreement (it may, for example, be because the third party does not engage in logging).\n\nPrevious Privacy Policies\n\nFeb 26 2007 - Jan 4 2009\n\nJan 5 2009 - Jan 25 2009\n\nJan 26 2009 - Jun 21 2011\n\nJun 22 2011 - Oct 18 2011\n\nOct 19 2011 - Jul 23 2012\n\nJul 24, 2012 - Apr 30, 2014\n\nApr 31, 2014 – Jun 12, 2014\n\nJun 13, 2014 – Apr 7, 2015\n\nApr 8, 2015 – Jul 13, 2016\n\nJul 14, 2016 to Feb 19, 2018\n\nFeb 20, 2018 to May 24, 2018\n\nMay 25, 2018 to June 30, 2022\n\n\nJune 30, 2022 to May 18, 2026\nFOLLOW EFF:\nmastodon\nfacebook\ninstagram\nBlue Sky\nyoutube\nflicker\nlinkedin\ntiktok\nthreads\n\nCheck out our 4-star rating on Charity Navigator.\n\nCONTACT\nGeneral\nLegal\nSecurity\nMembership\nPress\nABOUT\nCalendar\nVolunteer\nVictories\nHistory\nInternships\nJobs\nStaff\nDiversity & Inclusion\nISSUES\nFree Speech\nPrivacy\nCreativity & Innovation\nTransparency\nInternational\nSecurity\nUPDATES\nBlog\nPress Releases\nEvents\nLegal Cases\nWhitepapers\nEFFector Newsletter\nPRESS\nPress Contact\nDONATE\nJoin or Renew Membership Online\nOne-Time Donation Online\nGiving Societies\nCorporate Giving and Sponsorship\nShop\nOther Ways to Give\nCOPYRIGHT (CC BY)\nTRADEMARK\nPRIVACY POLICY\nTHANKS"
+}

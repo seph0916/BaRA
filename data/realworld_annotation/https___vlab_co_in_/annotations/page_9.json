@@ -1,0 +1,350 @@
+{
+    "image_count": 10,
+    "images": [
+        "https://www.vlab.co.in/images/fb-icon.png",
+        "https://www.vlab.co.in/images/logo.jpg",
+        "https://www.vlab.co.in/images/click-here.png",
+        "https://www.vlab.co.in/images/new.gif",
+        "https://www.vlab.co.in/images/inner_slider/image1.gif",
+        "https://www.vlab.co.in/images/inner_slider/image2.gif",
+        "https://www.vlab.co.in/images/inner_slider/image3.gif",
+        "https://www.vlab.co.in/images/inner_slider/image4.gif",
+        "https://www.vlab.co.in/images/inner_slider/image5.gif",
+        "https://www.vlab.co.in/images/qr-code-mob6.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 82,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.facebook.com/VLabsIITDelhi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "ABOUT US",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "OUTREACH PORTAL",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "PARTICIPATING INSTITUTES",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "CONTACT US",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Outreach Portal",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/index.php"
+        },
+        {
+            "text": "3D Printing Virtual Simulation Lab",
+            "href": "https://3dp-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://3dp-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Aerodynamics Virtual Lab (New)",
+            "href": "https://aero-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://aero-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Assorted Manufacturing Processes (Founding & Casting) Virtual Simulation Lab (New)",
+            "href": "https://mp-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://mp-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Dynamics of Machine Lab",
+            "href": "https://dom-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://dom-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Electron Microscopy for Beginners",
+            "href": "https://emb-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KANPUR",
+            "href": "https://emb-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Engineering Dynamics Virtual Lab (New)",
+            "href": "https://ed-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://ed-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Engineering Graphics & Design Lab (New)",
+            "href": "https://eg-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://eg-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Engineering Graphics Lab (New)",
+            "href": "https://eg-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://eg-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "FAB Lab",
+            "href": "https://fab-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://fab-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Fluid Mechanics Virtual Lab (New)",
+            "href": "https://fm-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KANPUR",
+            "href": "https://fm-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Heat Transfer Lab (New)",
+            "href": "https://ht-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://ht-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Instrumentation and Control Lab (New)",
+            "href": "https://ic-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://ic-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Kinematics and Dynamics of Mechanisms Lab",
+            "href": "https://kdm-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://kdm-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Machine Dynamics & Mechanical Vibration Lab",
+            "href": "https://mdmv-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://mdmv-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli Lab",
+            "href": "https://mrmsmtbs-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KANPUR",
+            "href": "https://mrmsmtbs-iitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Mechanics of Machine Lab I",
+            "href": "https://mm-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://mm-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Mechanics of Machines Lab 2",
+            "href": "https://mm2-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://mm2-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Mechanisms and Robotics Lab",
+            "href": "https://mr-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://mr-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Metal Forming Virtual Simulation Lab I",
+            "href": "https://msvs1-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://msvs1-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Metal Forming Virtual Simulation Lab II [Processes]",
+            "href": "https://msvs2-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://msvs2-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Metal Forming Virtual Simulation Lab III [Applications]",
+            "href": "https://msvs3-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://msvs3-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "Micromachining Lab",
+            "href": "https://mm-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://mm-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Mine Automation & Virtual Reality",
+            "href": "https://mv-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://mv-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Sensors and Instrumentation Lab (New)",
+            "href": "https://sil-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://sil-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Vibration and Acoustics Lab",
+            "href": "https://va-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "COEP Technological University Pune",
+            "href": "https://va-coep.vlabs.ac.in/"
+        },
+        {
+            "text": "Vibration Lab II (New)",
+            "href": "https://vibration2-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "NITK SURATHKAL",
+            "href": "https://vibration2-nitk.vlabs.ac.in/"
+        },
+        {
+            "text": "Welding Lab (New)",
+            "href": "https://wl-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "IIT KHARAGPUR",
+            "href": "https://wl-iitkgp.vlabs.ac.in/"
+        },
+        {
+            "text": "Click here for related NPTEL video lectures",
+            "href": "https://www.vlab.co.in/ba-nptel-labs-mechanical-engineering"
+        },
+        {
+            "text": "Metal Forming Virtual Simulation Lab",
+            "href": "https://msvs-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "DAYALBAGH",
+            "href": "https://msvs-dei.vlabs.ac.in/"
+        },
+        {
+            "text": "* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.",
+            "href": "https://www.education.gov.in/hi/ict-initiatives"
+        },
+        {
+            "text": "* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.",
+            "href": "https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8/edit#"
+        },
+        {
+            "text": "Find the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute.",
+            "href": "https://drive.google.com/file/d/1U8z6RerrNA-IeBtCmQj8jDsYCAiu3_EY/view?usp=drive_link"
+        },
+        {
+            "text": "Lab Feedback Form",
+            "href": "http://38.100.110.143/feedback/feedback.html"
+        },
+        {
+            "text": "Lab Assessment Form",
+            "href": "http://38.100.110.143/labassessment/assessmentform.html"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.vlab.co.in/faq"
+        },
+        {
+            "text": "Shakshat Portal",
+            "href": "http://www.sakshat.ac.in/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        }
+    ],
+    "text_length": 3423,
+    "text_full": "21 May, 2026 | 06:08:49 AM\nVisitors  51333518\nAn Initiative of\nMinistry of Education\nUnder the National Mission on Education through ICT\nHOME\nABOUT US\nOUTREACH PORTAL\nPARTICIPATING INSTITUTES\nNMEICT\nCONTACT US\nMechanical Engineering\nHome » Broad Areas of Virtual Labs\n3D Printing Virtual Simulation Lab\nReference Books \nSyllabus Mapping \nDAYALBAGH\nAerodynamics Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nAssorted Manufacturing Processes (Founding & Casting) Virtual Simulation Lab (New)\nReference Books \nSyllabus Mapping \nDAYALBAGH\nDynamics of Machine Lab\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nElectron Microscopy for Beginners\nReference Books \nSyllabus Mapping \nIIT KANPUR\nEngineering Dynamics Virtual Lab (New)\nReference Books \nSyllabus Mapping \nDAYALBAGH\nEngineering Graphics & Design Lab (New)\nReference Books \nSyllabus Mapping \nDAYALBAGH\nEngineering Graphics Lab (New)\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nFAB Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nFluid Mechanics Virtual Lab (New)\nReference Books \nSyllabus Mapping \nIIT KANPUR\nHeat Transfer Lab (New)\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nInstrumentation and Control Lab (New)\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nKinematics and Dynamics of Mechanisms Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nMachine Dynamics & Mechanical Vibration Lab\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nMaterial Response to Microstructural, Mechanical, Thermal and Biological Stimuli Lab\nReference Books \nSyllabus Mapping \nIIT KANPUR\nMechanics of Machine Lab I\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nMechanics of Machines Lab 2\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nMechanisms and Robotics Lab\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nMetal Forming Virtual Simulation Lab I\nReference Books \nSyllabus Mapping \nDAYALBAGH\nMetal Forming Virtual Simulation Lab II [Processes]\nReference Books \nSyllabus Mapping \nDAYALBAGH\nMetal Forming Virtual Simulation Lab III [Applications]\nReference Books \nSyllabus Mapping \nDAYALBAGH\nMicromachining Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nMine Automation & Virtual Reality\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\nSensors and Instrumentation Lab (New)\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nVibration and Acoustics Lab\nReference Books \nSyllabus Mapping \nCOEP Technological University Pune\nVibration Lab II (New)\nReference Books \nSyllabus Mapping \nNITK SURATHKAL\nWelding Lab (New)\nReference Books \nSyllabus Mapping \nIIT KHARAGPUR\n  Click here for related NPTEL video lectures\nUpcoming Labs\nMetal Forming Virtual Simulation Lab\nDAYALBAGH\nAnnouncements\n\n* Various projects/ICT initiatives of the Ministry of Education are available on the link given here. Please click here for more details.\n\n* Please click here to see the tutorial for using the Flash-based Labs through Virtual Box.\n\nFind the Expression of Interest (EoI) 2026 to enroll as the Virtual Labs' Nodal Center at your institute. \n\nQuick Links\n\nLab Feedback Form\nLab Assessment Form\nFAQ\nShakshat Portal\n\nAbout VLAB\n\nHome\nAbout us\nContact Us\n\nGet In Touch With Us\n\n  support@vlab.co.in\n   Phone(O) - +91-9211460624\n  Wireless Research Lab\nRoom No - 206/IIA\nBharti School of Telecom\nIndian Institute of Technology Delhi\nHauz Khas, New Delhi-110016"
+}

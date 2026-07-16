@@ -1,0 +1,51 @@
+{
+  "start_url": "https://altavillaspa.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://altavillaspa.com/",
+    "https://altavillaspa.com/skin-care/",
+    "https://altavillaspa.com/skin-care/waxing-tinting-bleaching/",
+    "https://altavillaspa.com/skin-care/makeup/",
+    "https://altavillaspa.com/hair-care/",
+    "https://altavillaspa.com/hair-care/ethnic-hair-care/",
+    "https://altavillaspa.com/nails/",
+    "https://altavillaspa.com/mens-services-2/",
+    "https://altavillaspa.com/massage/",
+    "https://altavillaspa.com/packages/",
+    "https://altavillaspa.com/specials/",
+    "https://altavillaspa.com/products/",
+    "https://altavillaspa.com/contact-us/",
+    "https://altavillaspa.com/salon-policies/",
+    "https://altavillaspa.com/gift-card-policy/",
+    "https://altavillaspa.com/employment-opportunities/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://altavillaspa.com/"
+    ],
+    "1": [
+      "https://altavillaspa.com/skin-care/",
+      "https://altavillaspa.com/skin-care/waxing-tinting-bleaching/",
+      "https://altavillaspa.com/skin-care/makeup/",
+      "https://altavillaspa.com/hair-care/",
+      "https://altavillaspa.com/hair-care/ethnic-hair-care/"
+    ],
+    "2": [
+      "https://altavillaspa.com/nails/",
+      "https://altavillaspa.com/mens-services-2/",
+      "https://altavillaspa.com/massage/",
+      "https://altavillaspa.com/packages/",
+      "https://altavillaspa.com/specials/",
+      "https://altavillaspa.com/products/",
+      "https://altavillaspa.com/contact-us/",
+      "https://altavillaspa.com/salon-policies/",
+      "https://altavillaspa.com/gift-card-policy/",
+      "https://altavillaspa.com/employment-opportunities/"
+    ]
+  },
+  "dead_links": [
+    "https://altavillaspa.com/employee-biographies"
+  ]
+}

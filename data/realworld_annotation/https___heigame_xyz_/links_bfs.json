@@ -1,0 +1,31 @@
+{
+  "start_url": "https://heigame.xyz/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://heigame.xyz/",
+    "https://www.heigame.xyz/",
+    "https://www.heigame.xyz/record.html",
+    "https://www.heigame.xyz/newGames.html",
+    "https://www.heigame.xyz/play.html",
+    "https://www.heigame.xyz/detail.html",
+    "https://www.heigame.xyz/category.html"
+  ],
+  "by_depth": {
+    "0": [
+      "https://heigame.xyz/"
+    ],
+    "1": [
+      "https://www.heigame.xyz/",
+      "https://www.heigame.xyz/record.html",
+      "https://www.heigame.xyz/newGames.html",
+      "https://www.heigame.xyz/play.html",
+      "https://www.heigame.xyz/detail.html"
+    ],
+    "2": [
+      "https://www.heigame.xyz/category.html"
+    ]
+  },
+  "dead_links": []
+}

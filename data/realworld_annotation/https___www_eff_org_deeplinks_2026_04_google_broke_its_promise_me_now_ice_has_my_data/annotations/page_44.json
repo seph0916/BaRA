@@ -1,0 +1,833 @@
+{
+    "image_count": 13,
+    "images": [
+        "https://www.eff.org/sites/all/themes/phoenix/images/logo-monogram-white.svg",
+        "https://www.eff.org/files/2026-membership-sitebanner-desktop-3_0.png",
+        "https://www.eff.org/files/2026-membership-sitebanner-mobile.png",
+        "https://www.eff.org/files/issues/icon-2019-freespeech.png",
+        "https://www.eff.org/sites/all/themes/frontier/images/button-donate.png",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/icon-2019-international.png?itok=0biGhGcx",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/arabspring-banner2.png?itok=cl48tvoJ",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/icon-2019-freespeech.png?itok=7S0j9sWo",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/04_stopcensoringabortion-banner1.png?itok=zmnxsfjz",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/04_stopcensoringabortion-banner1.png?itok=zmnxsfjz",
+        "https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg",
+        "https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/issues/content-blocking&action_name=Content%20Blocking%20%7C%20Electronic%20Frontier%20Foundation&urlref=",
+        ""
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 202,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.eff.org/issues/content-blocking#main-content"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Join EFF Lists",
+            "href": "https://eff.org/signup"
+        },
+        {
+            "text": "Copyright (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "Trademark",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "Thanks",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--m"
+        },
+        {
+            "text": "DONATE TODAY",
+            "href": "https://supporters.eff.org/donate/spring--wssn"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SD"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SM"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "redirected",
+            "href": "http://advocacy.globalvoicesonline.org/2008/09/24/tunisia-404-not-found/"
+        },
+        {
+            "text": "HTTP 404",
+            "href": "http://advocacy.globalvoicesonline.org/projects/blockpages/?pid=48"
+        },
+        {
+            "text": "Tor",
+            "href": "http://torproject.org/"
+        },
+        {
+            "text": "Protect digital privacy and free expression. EFF's public interest legal work, activism, and software development preserve fundamental rights.",
+            "href": "https://supporters.eff.org/donate/tbc--avhu"
+        },
+        {
+            "text": "DONATE TO EFF",
+            "href": "https://supporters.eff.org/donate/tbc--avhu"
+        },
+        {
+            "text": "CONTENT BLOCKING",
+            "href": "https://www.eff.org/issues/content-blocking"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JILLIAN C. YORK",
+            "href": "https://www.eff.org/about/staff/jillian-york"
+        },
+        {
+            "text": "War as a Pretext: Gulf States Are Tightening the Screws on Speech—Again",
+            "href": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again"
+        },
+        {
+            "text": "Read more about War as a Pretext: Gulf States Are Tightening the Screws on Speech—Again",
+            "href": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-revolution-regulation"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JILLIAN C. YORK",
+            "href": "https://www.eff.org/about/staff/jillian-york"
+        },
+        {
+            "text": "Digital Hopes, Real Power: From Revolution to Regulation",
+            "href": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-revolution-regulation"
+        },
+        {
+            "text": "العربية",
+            "href": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-revolution-regulation?language=ar"
+        },
+        {
+            "text": "Read more about Digital Hopes, Real Power: From Revolution to Regulation",
+            "href": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-revolution-regulation"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/01/eff-joins-47-internet-advocates-calling-iranian-government-restore-full-internet"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "PAIGE COLLINGS",
+            "href": "https://www.eff.org/about/staff/paige-collings"
+        },
+        {
+            "text": "EFF Joins Internet Advocates Calling on the Iranian Government to Restore Full Internet Connectivity",
+            "href": "https://www.eff.org/deeplinks/2026/01/eff-joins-47-internet-advocates-calling-iranian-government-restore-full-internet"
+        },
+        {
+            "text": "Read more about EFF Joins Internet Advocates Calling on the Iranian Government to Restore Full Internet Connectivity",
+            "href": "https://www.eff.org/deeplinks/2026/01/eff-joins-47-internet-advocates-calling-iranian-government-restore-full-internet"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/04/texass-war-abortion-now-war-free-speech"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JENNIFER PINSOF",
+            "href": "https://www.eff.org/about/staff/jennifer-pinsof"
+        },
+        {
+            "text": "Texas’s War on Abortion Is Now a War on Free Speech",
+            "href": "https://www.eff.org/deeplinks/2025/04/texass-war-abortion-now-war-free-speech"
+        },
+        {
+            "text": "SB 2880",
+            "href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2880"
+        },
+        {
+            "text": "Read more about Texas’s War on Abortion Is Now a War on Free Speech",
+            "href": "https://www.eff.org/deeplinks/2025/04/texass-war-abortion-now-war-free-speech"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/press/releases/eff-and-repro-uncensored-launch-stopcensoringabortion-campaign"
+        },
+        {
+            "text": "PRESS RELEASE",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "EFF and Repro Uncensored Launch #StopCensoringAbortion Campaign",
+            "href": "https://www.eff.org/press/releases/eff-and-repro-uncensored-launch-stopcensoringabortion-campaign"
+        },
+        {
+            "text": "Repro Uncensored",
+            "href": "https://www.reprouncensored.org/"
+        },
+        {
+            "text": "#StopCensoringAbortion",
+            "href": "https://www.eff.org/pages/stop-censoring-abortion"
+        },
+        {
+            "text": "Read more about EFF and Repro Uncensored Launch #StopCensoringAbortion Campaign",
+            "href": "https://www.eff.org/press/releases/eff-and-repro-uncensored-launch-stopcensoringabortion-campaign"
+        },
+        {
+            "text": "2",
+            "href": "https://www.eff.org/issues/content-blocking?page=1"
+        },
+        {
+            "text": "3",
+            "href": "https://www.eff.org/issues/content-blocking?page=2"
+        },
+        {
+            "text": "4",
+            "href": "https://www.eff.org/issues/content-blocking?page=3"
+        },
+        {
+            "text": "5",
+            "href": "https://www.eff.org/issues/content-blocking?page=4"
+        },
+        {
+            "text": "6",
+            "href": "https://www.eff.org/issues/content-blocking?page=5"
+        },
+        {
+            "text": "7",
+            "href": "https://www.eff.org/issues/content-blocking?page=6"
+        },
+        {
+            "text": "8",
+            "href": "https://www.eff.org/issues/content-blocking?page=7"
+        },
+        {
+            "text": "9",
+            "href": "https://www.eff.org/issues/content-blocking?page=8"
+        },
+        {
+            "text": "NEXT ›",
+            "href": "https://www.eff.org/issues/content-blocking?page=1"
+        },
+        {
+            "text": "LAST »",
+            "href": "https://www.eff.org/issues/content-blocking?page=36"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://www.eff.org/issues/content-blocking#main-content"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "instagram",
+            "href": "https://www.instagram.com/efforg/"
+        },
+        {
+            "text": "Blue Sky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "youtube",
+            "href": "https://www.youtube.com/efforg"
+        },
+        {
+            "text": "flicker",
+            "href": "https://www.flickr.com/photos/electronicfrontierfoundation"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/EFF"
+        },
+        {
+            "text": "tiktok",
+            "href": "https://www.tiktok.com/@efforg"
+        },
+        {
+            "text": "threads",
+            "href": "https://www.threads.net/@efforg"
+        },
+        {
+            "text": "Charity Navigator",
+            "href": "https://www.charitynavigator.org/ein/043091431"
+        },
+        {
+            "text": "General",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Legal",
+            "href": "https://www.eff.org/pages/legal-assistance"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/security"
+        },
+        {
+            "text": "Membership",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Calendar",
+            "href": "https://www.eff.org/event"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Victories",
+            "href": "https://www.eff.org/victories"
+        },
+        {
+            "text": "History",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Jobs",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Staff",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Diversity & Inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity & Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.eff.org/deeplinks?type=blog"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/updates?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "EFFector Newsletter",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "Press Contact",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Join or Renew Membership Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "One-Time Donation Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Corporate Giving and Sponsorship",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/helpout"
+        },
+        {
+            "text": "COPYRIGHT (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "TRADEMARK",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "THANKS",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "JavaScript license information",
+            "href": "https://www.eff.org/librejs/jslicense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/content-blocking#"
+        }
+    ],
+    "text_length": 7119,
+    "text_full": "Skip to main content\nIf you use technology, this fight is yours.\nDONATE TODAY\nElectronic Frontier Foundation\nAbout\nIssues\nOur Work\nTake Action\nTools\nDonate\nContent Blocking\n\nGovernments around the world block access to online content for a variety of reasons: to shield children from obscene content, to prevent access to copyright-infringing material or confusingly named domains, or to protect national security. From democratic nations such as India, the United Kingdom, and South Korea to states with authoritarian governments, states are implementing extensive filtering regimes with varying degrees of transparency and consistency.\n\nEFF believes that the blocking and filtering by nation states of the global Internet is a violation of Article 19 of the Universal Declaration of Human Rights, which grants everyone the right \"to seek, receive and impart information and ideas through any media and regardless of frontiers.\" Since our founding in 1990, we have fought to preserve the capacity of the Internet to allow everyone to speak without hindrance, and for everyone to freely choose who they communicate with, no matter who—or where—they may be.\n\nHow Countries Block Content\n\nThere are various methods used to block content online. Government actors can block or tamper with domain names, filter and block specific keywords, block a particular IP address, or urge online content providers to remove content or search results. Often, governments rely upon commercial software to do the job for them. Products readily available on the market for use in homes, schools, and libraries have been used in several countries. Though the export and sale of these tools is generally legal, it often raises questions of human rights and corporate social responsibility. Some countries, such as China, use a combination of the aforementioned techniques, by pervasively blocking keywords, foreign websites, and urging companies such as Google to remove certain content. Others, such as Morocco and Egypt, take a minimalist approach to content blocking, by filtering a certain selection of URLs. The level of transparency in content blocking also differs from country to country. Some offer block pages that explain to users that a site is blocked (as well as, sometimes, why it is blocked) and/or means of challenging a specific site block, while others re-direct the user to an error page; before the fall of the Ben Ali regime, for example, Tunisia famously redirected users to an HTTP 404 error page.\n\nWhy Countries Block Content\n\nCountries block online content for a variety of reasons, often based on national cultural norms or political considerations. India for example, uses the pretext of public safety to enact laws allowing certain websites to be blocked, while other countries, such as Qatar, primarily block websites for containing pornography or other content that they claim offends the sensibilities of their citizens. Russia blocks child pornography, as well as online content containing materials advocating drug abuse, suicide, or  “extremism.” Still others block websites or domains under the pretense of preventing copyright or trademark infringement. An increasing number of governments also block websites belonging to their political opposition, human rights organizations, and independent media.\n\nWhat EFF is Doing\n\nWhenever possible, EFF engages with policymakers to ensure that the Internet remains an open platform for free expression. We also support the efforts of organizations like Tor to empower Internet users residing in censored countries to protect their identities, circumvent firewalls, and access blocked content. Content blocking occurs in both autocratic and democratic countries. EFF seeks to amplify the voices of local grassroots organizations opposing censorship all over the world, and educate our members about those groups’  concerns. We frequently join international campaigns against censorship, and provide updates on content blocking and other censorship incidents on the Deeplinks blog.\n\nPROTECT DIGITAL PRIVACY AND FREE EXPRESSION. EFF'S PUBLIC INTEREST LEGAL WORK, ACTIVISM, AND SOFTWARE DEVELOPMENT PRESERVE FUNDAMENTAL RIGHTS.\nDONATE TO EFF\nEFF RELATED CONTENT: CONTENT BLOCKING\nFILTER BY TYPE\n- ANY -\nDEEPLINKS BLOG BY JILLIAN C. YORK | APRIL 13, 2026\nWar as a Pretext: Gulf States Are Tightening the Screws on Speech—Again\n\nWar does not only reshape borders. It also reshapes what can be seen, said, and remembered. When governments invoke “misinformation” during wartime, they often mean something simpler: speech they do not control. Since the escalation of conflict between the United States, Israel, Iran, and related spillover attacks in the Gulf,...\n\nDEEPLINKS BLOG BY JILLIAN C. YORK | APRIL 1, 2026\nDigital Hopes, Real Power: From Revolution to Regulation\nSixty-six percent of internet users live where political or social sites are blocked, and 78% live in countries where people have been arrested for online posts. This is the second installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings.\nDEEPLINKS BLOG BY PAIGE COLLINGS | JANUARY 20, 2026\nEFF Joins Internet Advocates Calling on the Iranian Government to Restore Full Internet Connectivity\nEFF has joined architects, operators, and stewards of the global internet infrastructure in calling upon authorities in Iran to immediately restore full and unfiltered internet access. We further call upon the international technical community to remain vigilant in monitoring connectivity and to support efforts that ensure the internet remains open...\nDEEPLINKS BLOG BY JENNIFER PINSOF | APRIL 28, 2025\nTexas’s War on Abortion Is Now a War on Free Speech\n\nUPDATE May 8, 2025: A committee substitute of SB 2880 passed the Texas Senate on April 30, 2025, with the provisions related to interactive computer services and providing information on how to obtain an abortion-inducing drug removed. These provisions, however, currently remain in the House version...\n\nPRESS RELEASE | FEBRUARY 19, 2025\nEFF and Repro Uncensored Launch #StopCensoringAbortion Campaign\n\nSAN FRANCISCO—The Electronic Frontier Foundation (EFF) and the Repro Uncensored coalition on Wednesday launched the #StopCensoringAbortion campaign to ensure that people who need reproductive health and abortion information can find and share it. Censorship of this information by social media companies appears...\n\nPAGES\n1 2 3 4 5 6 7 8 9 NEXT › LAST »\nFOLLOW EFF:\nmastodon\nfacebook\ninstagram\nBlue Sky\nyoutube\nflicker\nlinkedin\ntiktok\nthreads\n\nCheck out our 4-star rating on Charity Navigator.\n\nCONTACT\nGeneral\nLegal\nSecurity\nMembership\nPress\nABOUT\nCalendar\nVolunteer\nVictories\nHistory\nInternships\nJobs\nStaff\nDiversity & Inclusion\nISSUES\nFree Speech\nPrivacy\nCreativity & Innovation\nTransparency\nInternational\nSecurity\nUPDATES\nBlog\nPress Releases\nEvents\nLegal Cases\nWhitepapers\nEFFector Newsletter\nPRESS\nPress Contact\nDONATE\nJoin or Renew Membership Online\nOne-Time Donation Online\nGiving Societies\nCorporate Giving and Sponsorship\nShop\nOther Ways to Give\nCOPYRIGHT (CC BY)\nTRADEMARK\nPRIVACY POLICY\nTHANKS"
+}

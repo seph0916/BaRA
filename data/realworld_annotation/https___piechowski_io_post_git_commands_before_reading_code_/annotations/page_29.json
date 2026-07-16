@@ -1,0 +1,57 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/how-to-open-current-opened-file-in-new-tab-vim/vim-newtab-percent_hu491bfb808348f06e91e956cb16f01f7a_178575_1500x0_resize_q75_h2_box_3.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 11,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "vim",
+            "href": "https://piechowski.io/tags/vim"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "How to Close a Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabclose/"
+        },
+        {
+            "text": "How to Open a New Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabnew/"
+        },
+        {
+            "text": "The Git Commands I Run Before Reading Any Code",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        },
+        {
+            "text": "Why Your Engineering Team Is Slow (It's the Codebase, Not the People)",
+            "href": "https://piechowski.io/post/codebase-drag-audit/"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        }
+    ],
+    "text_length": 1202,
+    "text_full": "Work With Me\nGithub\nBlog\nVim: How to Open Current Opened File in New Tab\n\nIn vim, you can open the current file in a new tab by utilizing :tabnew %.\n\nAlly Piechowski · Dec 31, 2019 · 1 min read\nvim\ndevelopment\n\nIn vim, one of the largest challenges is learning how to create, open, and manage buffers.\n\nIn vim, how do you open the currently opened file in a new tab?\n\nThe Command\n\nIn order to open the current file in a new tab, utilize tabnew like so:\n\n:tabnew %\n\n\nThis utilizes the command :tabnew, in which opens a new tab with the argument %, which expands to the currently selected buffer’s file.\n\nThe Keybind\n\nYou can move the window, rather than opening the file, with the following keybind:\n\nctrl-w T\n\n\nIt should be noted that rather than opening another pane of the file, it moves the open file to a new tab.\n\nMore Reading\n\nEnter the following commands in vim to read more:\n\n:help tabnew\n:help registers\n\nRelated Articles\nHow to Close a Tab in Vim\nHow to Open a New Tab in Vim\nThe Git Commands I Run Before Reading Any Code\nWhy Your Engineering Team Is Slow (It's the Codebase, Not the People)\nHow I Audit a Legacy Rails Codebase in the First Week\nLet's talk about your codebase.\nEmail\nMessage"
+}

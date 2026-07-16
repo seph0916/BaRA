@@ -1,0 +1,79 @@
+{
+  "start_url": "https://wiley.law/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://wiley.law/",
+    "https://www.wiley.law/",
+    "https://www.wiley.law/people",
+    "https://www.wiley.law/practices",
+    "https://www.wiley.law/insights",
+    "https://www.wiley.law/insights-news",
+    "https://www.wiley.law/insights-pressreleases",
+    "https://www.wiley.law/insights-alerts",
+    "https://www.wiley.law/insights-articles",
+    "https://www.wiley.law/insights-blogs"
+  ],
+  "by_depth": {
+    "0": [
+      "https://wiley.law/"
+    ],
+    "1": [
+      "https://www.wiley.law/",
+      "https://www.wiley.law/people",
+      "https://www.wiley.law/practices",
+      "https://www.wiley.law/insights",
+      "https://www.wiley.law/insights-news"
+    ],
+    "2": [
+      "https://www.wiley.law/insights-pressreleases",
+      "https://www.wiley.law/insights-alerts",
+      "https://www.wiley.law/insights-articles",
+      "https://www.wiley.law/insights-blogs",
+      "https://www.wiley.law/insights-newsletters",
+      "https://www.wiley.law/insights-podcasts",
+      "https://www.wiley.law/insights-events",
+      "https://www.wiley.law/insights-handbooks",
+      "https://www.wiley.law/insights-webinars",
+      "https://www.wiley.law/about",
+      "https://www.wiley.law/about-executive",
+      "https://www.wiley.law/about-administration",
+      "https://www.wiley.law/about-business-professionals",
+      "https://www.wiley.law/about-probono",
+      "https://www.wiley.law/about-awards",
+      "https://www.wiley.law/about-contact",
+      "https://www.wiley.law/about-directions-new",
+      "https://www.wiley.law/subscribe",
+      "https://www.wiley.law/careers",
+      "https://www.wiley.law/inclusion",
+      "https://www.wiley.law/wrtag-about",
+      "https://www.wiley.law/wrtag-casestudies",
+      "https://www.wiley.law/wrtag-ourteam",
+      "https://www.wiley.law/practices-artificial-intelligence",
+      "https://www.wiley.law/practices-Federal-Infrastructure-Resource-Center"
+    ],
+    "3": [
+      "https://www.wiley.law/practices-Sanctions-and-Export-Controls-Resource-Center",
+      "https://www.wiley.law/practices-SCOTUS-Resource-Center",
+      "https://www.wiley.law/practices-Trump-Administration-Resource-Center",
+      "https://www.wiley.law/insights-podcast",
+      "https://www.wiley.law/insights-videos",
+      "https://www.wiley.law/insights-webinar",
+      "https://www.wiley.law/alert-Contractors-Should-Prepare-as-NIST-Finalizes-Enhanced-Security-Requirements-for-Protecting-Controlled-Unclassified-Information",
+      "https://www.wiley.law/people-MeganBrown",
+      "https://www.wiley.law/people-JonBurd",
+      "https://www.wiley.law/people-GaryWard",
+      "https://www.wiley.law/article-DOJs-FCA-Data-Miner-Focus-Raises-Compliance-Stakes",
+      "https://www.wiley.law/people-RodThomas",
+      "https://www.wiley.law/people-BrandonMoss",
+      "https://www.wiley.law/people-ElizabethDrill",
+      "https://www.wiley.law/people-MarkSweet",
+      "https://www.wileyconnect.com/",
+      "https://www.executivesummaryblog.com/",
+      "https://www.wileyconnect.com/the-fccs-expanding-role-in-national-security",
+      "https://www.executivesummaryblog.com/qui-tam-wage-and-hour-action-not-an-employment-claim-and-thus-no-duty-to-defend"
+    ]
+  },
+  "dead_links": []
+}

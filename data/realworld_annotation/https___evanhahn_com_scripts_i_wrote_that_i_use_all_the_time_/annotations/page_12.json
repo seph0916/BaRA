@@ -1,0 +1,85 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 18,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "#zsh",
+            "href": "https://evanhahn.com/tags/zsh/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "options associative array",
+            "href": "https://zsh.sourceforge.io/Doc/Release/Zsh-Modules.html#index-options-1"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 967,
+    "text_full": "How to set a Zsh option only if supported\nby Evan Hahn, posted Jun 4, 2024, tagged #dotfiles #zsh #guide\n\nI change a bunch of Zsh options. For example, I enable the clobber option:\n\nsetopt clobber\n\n\nHowever, on older versions of Zsh, I get an error because this is not supported:\n\nsetopt: no such option: clobber\n\nTo fix this, I wrote a simple function, setopt_if_exists, which only sets the option if it’s supported. Here’s what it looks like:\n\nsetopt_if_exists() {\n\n  if [[ \"${options[$1]+1}\" ]]; then\n\n    setopt \"$1\"\n\n  fi\n\n}\n\n\n\nsetopt_if_exists clobber\n\n\nThis takes advantage of Zsh’s options associative array, which has keys for supported options. If the key exists, we set the option. Otherwise, we do nothing.\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

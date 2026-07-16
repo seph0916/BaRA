@@ -1,0 +1,129 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/neuwied-station_hu924015653143594208.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 29,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#main"
+        },
+        {
+            "text": "Jeremy Theocharis",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Homepage",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Beliefs",
+            "href": "https://www.theocharis.dev/beliefs"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.theocharis.dev/blog"
+        },
+        {
+            "text": "Talks",
+            "href": "https://www.theocharis.dev/talks"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.theocharis.dev/tools"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.theocharis.dev/#contact"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "1",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fn:1"
+        },
+        {
+            "text": "2",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fn:2"
+        },
+        {
+            "text": "3",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fn:3"
+        },
+        {
+            "text": "4",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fn:4"
+        },
+        {
+            "text": "Frila",
+            "href": "https://commons.wikimedia.org/wiki/File:Bahnhof_Neuwied.jpg"
+        },
+        {
+            "text": "Deutsche Bahn Annual Report 2022: Punctuality",
+            "href": "https://ibir.deutschebahn.com/2022/en/punctuality/"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fnref:1"
+        },
+        {
+            "text": "Bundesrechnungshof Report 2022",
+            "href": "https://www.bundesrechnungshof.de/SharedDocs/Downloads/DE/Berichte/2022/fernverkehr-bahn-puentlichkeit-volltext.pdf"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fnref:2"
+        },
+        {
+            "text": "Llucalcari, Mallorca",
+            "href": "https://mapcarta.com/17382162"
+        },
+        {
+            "text": "Bus route 203",
+            "href": "https://www.tib.org/en/linies-i-horaris/autobus/-/linia/203"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fnref:3"
+        },
+        {
+            "text": "Deutsche Bahn: Deutschlandticket Verspätung Erstattung",
+            "href": "https://www.bahn.de/faq/deutschlandticket-verspaetung-erstattung"
+        },
+        {
+            "text": "↩︎",
+            "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/#fnref:4"
+        },
+        {
+            "text": "Data security",
+            "href": "https://www.theocharis.dev/data-security/"
+        },
+        {
+            "text": "Imprint",
+            "href": "https://www.theocharis.dev/imprint/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "I'm hiring product engineers in Germany.",
+            "href": "https://jobs.umh.app/"
+        }
+    ],
+    "text_length": 4761,
+    "text_full": "Skip to main content\n\nJeremy Theocharis\n\nBoring is Awesome | Co-Founder & CTO at UMH\n\nHomepage\nBeliefs\nBlog\nTalks\nTools\nContact\nGitHub\nLinkedIn\nI Was Kidnapped by Deutsche Bahn and All I Got Was 1.50 EUR\n\n2025-12-28\n\nIf you live in Germany, you have been treated like livestock by Deutsche Bahn (DB). Almost all of my friends have a story: they traveled with DB, got thrown out in the middle of the night in some cow village, and had to wait hours for the next train.\n\nI have something better. I was kidnapped.\n\nDecember 24th, 2025. 15:30. Cologne Main Station, Platform 9 D-G.\n\nI am taking the RE5 (ID 28521) to my grandmother’s house in Meckenheim. Scheduled departure: 15:32. Scheduled arrival in Bonn: 15:54. From there, the S23 to Meckenheim. A journey of 35 kilometers, or, in DB units, somewhere between forty-five minutes and the heat death of the universe.\n\nI wanted to arrive early to spend more time with her. My father, who lives near Troisdorf, was supposed to join us later.\n\nI board the train. It is twenty minutes late. I consider this early. At least the train showed up. In DB’s official statistics, a train counts as “on time” if it’s less than six minutes late.1 Cancelled trains are not counted at all.2 If a train doesn’t exist, it cannot be late.\n\nThe train starts moving. The driver announces there are “issues around Bonn.” He does not specify what kind. No one asks. We have learned not to ask. He suggests we exit at Cologne South and take the subway, or continue to Troisdorf and catch a bus from there.\n\nI decide to continue to Troisdorf. My father can just pick me up there and we drive together. The plan adapts.\n\nThe driver announces the full detour: from Cologne South to Troisdorf to Neuwied to Koblenz. The entire left bank of the Rhine is unavailable. Only then I notice: the driver has been speaking German only. If you were a tourist who got on in Cologne to visit Brühl, thirteen minutes away, you were about to have a very confusing Christmas in Troisdorf.\n\nA woman near me is holding chocolates and flowers. She is on the phone with her mother. “Sorry Mama, I’ll be late.” Pause. “Deutsche Bahn.” Pause. Her mother understood.\n\nTwenty minutes later. We are approaching Troisdorf. I stand up. I gather my things. My father texts me: he is at the station, waiting.\n\nThe driver comes back on: “Hello everyone. Apparently we were not registered at Troisdorf station, so we are on the wrong tracks. We cannot stop.”\n\nHe says this the way someone might say “the coffee machine is broken.”\n\nSilence. Laughter. Silence.\n\nI watch Troisdorf slide past the window. Somewhere in the parking lot outside the station, my father is sitting in his car, watching his son pass by as livestock.\n\nMy father calls.\n\n“The train couldn’t stop.”\n\n“What?”\n\n“Next stop is Neuwied.”\n\n“Neuwied?” Pause. “That’s in Rheinland-Pfalz.” Pause. “That’s a different federal state.”\n\n“Yup.”\n\nI was trying to travel 35 kilometers. I was now 63 kilometers from my grandmother’s house. Further away than when I started.\n\nThere are fifteen stations between Troisdorf and Neuwied. We pass all of them.\n\nAt some point you stop being a passenger and start being cargo. A cow transporter. Mooohhhhh. A cow transporter going to a cow village. (Germany has a word for this: Kuhdorf. The cows are metaphorical. Usually.) I reached this point around Oberkassel.\n\nDB once operated a bus to Llucalcari, a Mallorcan village of seventeen people.3 I wanted to take it home.\n\nAn English speaker near the doors is getting agitated. “What is happening? Why didn’t we stop?”\n\n“We are not registered for this track.”\n\n“But where will we stop?”\n\n“Neuwied. Fifty-five minutes.”\n\n“Fifty-five minutes.” He said it again, quieter. “I am being kidnapped.”\n\nMy seatmate, who had not looked up from his book in forty minutes, turned a page. “Deutsche Bahn.”\n\nI looked up my compensation.4 1.50 EUR. Minimum payout threshold: 4.00 EUR.\n\nI had been kidnapped at a loss.\n\nNeuwied station. My final destination. Photo: Frila, CC BY-SA 3.0\n\nDeutsche Bahn Annual Report 2022: Punctuality - “A stop is considered on time if the scheduled arrival time is exceeded by less than six minutes.” ↩︎\n\nBundesrechnungshof Report 2022 - “Komplett ausgefallene Züge werden bei der Pünktlichkeit nicht berücksichtigt.” (Completely cancelled trains are not considered in the punctuality metric.) ↩︎\n\nLlucalcari, Mallorca - Mallorca’s smallest village, population 17. Bus route 203 was operated by Autocares Mallorca, an Arriva company and Deutsche Bahn subsidiary, until 2021. ↩︎\n\nDeutsche Bahn: Deutschlandticket Verspätung Erstattung - Official compensation policy for Deutschlandticket delays. ↩︎\n\n© 2026 Jeremy Theocharis\n\nData security\nImprint\nGitHub\nLinkedIn\n\nI'm hiring product engineers in Germany."
+}

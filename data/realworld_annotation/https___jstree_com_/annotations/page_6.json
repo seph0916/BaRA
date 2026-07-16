@@ -1,0 +1,194 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://static.jstree.com/3.3.17/assets/images/browsers.png",
+        "https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 45,
+    "links": [
+        {
+            "text": "jsTree - jQuery tree plugin\n3.3.17",
+            "href": "https://jstree.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Demo",
+            "href": "https://www.jstree.com/demo"
+        },
+        {
+            "text": "API",
+            "href": "https://www.jstree.com/api"
+        },
+        {
+            "text": "Plugins",
+            "href": "https://www.jstree.com/plugins"
+        },
+        {
+            "text": "open source",
+            "href": "https://github.com/vakata/jstree/"
+        },
+        {
+            "text": "MIT license",
+            "href": "https://raw.githubusercontent.com/vakata/jstree/master/LICENSE-MIT"
+        },
+        {
+            "text": "Download",
+            "href": "https://github.com/vakata/jstree/zipball/3.3.17"
+        },
+        {
+            "text": "Discuss",
+            "href": "https://groups.google.com/forum/#!forum/jstree"
+        },
+        {
+            "text": "Report bugs",
+            "href": "https://github.com/vakata/jstree/issues?state=open"
+        },
+        {
+            "text": "Donate",
+            "href": "https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@vakata.com&currency_code=USD&amount=&return=//jstree.com/donation&item_name=Buy+me+a+coffee+for+jsTree"
+        },
+        {
+            "text": "Root node 1",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "initially selected",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "custom icon URL",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "initially open",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Another node",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Custom icon class (bootstrap)",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Same but with checkboxes",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "initially selected",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "custom icon URL",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "initially open",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Another node",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "custom icon class",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "And wholerow selection",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Overview",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Configuration",
+            "href": "https://www.jstree.com/docs/config"
+        },
+        {
+            "text": "HTML data",
+            "href": "https://www.jstree.com/docs/html"
+        },
+        {
+            "text": "JSON data",
+            "href": "https://www.jstree.com/docs/json"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.jstree.com/docs/events"
+        },
+        {
+            "text": "Interaction",
+            "href": "https://www.jstree.com/docs/interaction"
+        },
+        {
+            "text": "Root node 1",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Root node 1",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Root",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Child",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Root",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Child",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Child",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Child",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "$.jstree.defaults.core.data",
+            "href": "https://www.jstree.com/api/#/?f=$.jstree.defaults.core.data"
+        },
+        {
+            "text": "Node 1",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "Node 2",
+            "href": "https://www.jstree.com/docs/html/#"
+        },
+        {
+            "text": "click here for the old site (v.1)",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/vakata/jstree"
+        }
+    ],
+    "text_length": 4910,
+    "text_full": "jsTree - jQuery tree plugin\n3.3.17\n Home\n Demo\n API\n Plugins\n What is jsTree?\n\njsTree is jquery plugin, that provides interactive trees. It is absolutely free, open source and distributed under the MIT license. jsTree is easily extendable, themable and configurable, it supports HTML & JSON data sources and AJAX loading.\n\njsTree functions properly in either box-model (content-box or border-box), can be loaded as an AMD module, and has a built in mobile theme for responsive design, that can easily be customized. It uses jQuery's event system, so binding callbacks on various events in the tree is familiar and easy.\n\nJust a few of the features worth noting:\n\n drag & drop support  keyboard navigation  inline edit, create and delete  tri-state checkboxes  fuzzy searching  customizable node types\n\n\nChrome 14+, Firefox 3.5+, Opera 12+, Safari 4+, IE8+\nolder versions may work, but are not tested\n\n  Download   Discuss   Report bugs    Donate\n\nRoot node 1\ninitially selected\ncustom icon URL\ninitially open\nAnother node\nCustom icon class (bootstrap)\nRoot node 2\n \nSame but with checkboxes\n \ninitially selected\n \ncustom icon URL\n \ninitially open\n \nAnother node\n \ncustom icon class\n \nAnd wholerow selection\nOverview\nConfiguration\nHTML data\nJSON data\nEvents\nInteraction\n Populating a tree using HTML\nBasic markup\n\njsTree can turn a regular unordered list into a tree. The minimal required markup is a <ul> node with some nested <li> nodes with some text inside.\n\nYou should have a container wrapping the <ul> and create the instance on that container. Like so:\n$('#html1').jstree();.\n\n<div id=\"html1\">\n  <ul>\n    <li>Root node 1</li>\n    <li>Root node 2</li>\n  </ul>\n</div>\nRoot node 1\nRoot node 2\nNodes with children\n\nTo create a node with child nodes simpy nest an <ul>.\n\nInternally jstree converts the text to a link, so if there already is a link in the markup jstree won't mind. Like Child node 2.\nClicking on the link however will not direct the user to a new page, to do that - intercept the changed.jstree event and act accordingly.\n\nKeep reading for the section on handling events.\n\n<div id=\"html1\">\n  <ul>\n    <li>Root node 1\n      <ul>\n        <li>Child node 1</li>\n        <li><a href=\"#\">Child node 2</a></li>\n      </ul>\n    </li>\n  </ul>\n</div>\nRoot node 1\nSetting initial state with classes\n\nTo make a node initially selected you can set the jstree-clicked class on the <a> element.\n\nSimilarly you can set the jstree-open class on any <li> element to make it initially extended, so that its children are visible.\n\nIt is a good idea to give your nodes unique IDs by adding the id attribute to any <li> element. This will be useful if you need to sync with a backend as you will get the ID back in any events jstree triggers.\n\n…\n<li class=\"jstree-open\" id=\"node_1\">Root\n  <ul>\n    <li>\n      <a href=\"#\" class=\"jstree-clicked\">Child</a>\n    </li>\n  </ul>\n</li>\n…\nRoot\nChild\nSetting initial state with data attribute\n\nYou can also set the state on a node using a data-jstree attribute.\n\nYou can use any combination of the following: opened, selected, disabled, icon.\n\nSpecifying an address (anything containing a /) will display that image as the node icon. Using a string will apply that class to the <i> element that is used to represent the icon.\nFor example if you are using Twitter Bootstrap you can use \"icon\" : \"glyphicon glyphicon-leaf\" to display a leaf icon.\n\n<li data-jstree='{\"opened\":true,\"selected\":true}'>Root\n  <ul>\n    <li data-jstree='{\"disabled\":true}'>Child</li>\n    <li data-jstree='{\"icon\":\"//jstree.com/tree.png\"}'>\n      Child</li>\n    <li data-jstree='{\"icon\":\"glyphicon glyphicon-leaf\"}'>\n      Child</li>\n  </ul>\n</li>\nRoot\nChild\n Child\n Child\nLoading with AJAX\n\nYou can also use AJAX to populate the tree with HTML your server returns. The format remains the same as the above, the only difference is that the HTML is not inside the container, but returned from the server.\n\nTo take advantage of this option you need to use the $.jstree.defaults.core.data config option.\n\nJust use a standard jQuery-like AJAX config and jstree will automatically make an AJAX request populate the tree with the response.\n\nAdd a class of jstree-closed to any LI node you return and do not nest an UL node and jstree will make another AJAX call as soon as the user opens this node.\n\nIn addition to the standard jQuery ajax options here you can supply functions for data and url, the functions will be run in the current instance's scope and a param will be passed indicating which node is being loaded, the return value of those functions will be used as URL and data respectively.\n\n$('#tree').jstree({\n  'core' : {\n    'data' : {\n      'url' : 'ajax_nodes.html',\n      'data' : function (node) {\n        return { 'id' : node.id };\n      }\n    }\n  }\n});\n\n// Example response:\n<ul>\n<li>Node 1</li>\n<li class=\"jstree-closed\">Node 2</li>\n</ul>\nNode 1\nNode 2\n\nclick here for the old site (v.1)"
+}

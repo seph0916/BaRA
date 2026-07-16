@@ -1,0 +1,215 @@
+{
+    "image_count": 31,
+    "images": [
+        "https://tenderlovemaking.com/images/logo1.png",
+        "https://tenderlovemaking.com/shots/2026-01-19-bainbridge-island-mochi-tsuki/images/P1100094.jpeg",
+        "https://tenderlovemaking.com/shots/2026-01-19-bainbridge-island-mochi-tsuki/images/P1100122.jpeg",
+        "https://tenderlovemaking.com/shots/2026-01-19-bainbridge-island-mochi-tsuki/images/P1100366.jpeg",
+        "https://tenderlovemaking.com/shots/2026-01-19-bainbridge-island-mochi-tsuki/images/P1100750.jpeg",
+        "https://tenderlovemaking.com/shots/2026-01-19-bainbridge-island-mochi-tsuki/images/P1100141.jpeg",
+        "https://tenderlovemaking.com/2026/01/01/pixoo64-ruby-client/images/P1010032.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-30-cat-pics/images/PC300360.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-30-cat-pics/images/PC300384.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-30-cat-pics/images/PC300388.jpeg",
+        "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/images/serial.png",
+        "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/images/parallel.png",
+        "https://tenderlovemaking.com/shots/2025-12-22-happy-holidays/images/holidays.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/images/PC130523.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/images/PC130570.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/images/PC130589.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/images/PC130697.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/images/PC130703.jpeg",
+        "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/images/PC130751.jpeg",
+        "https://tenderlovemaking.com/shots/2025-11-30-public-library/images/PB090054.jpeg",
+        "https://tenderlovemaking.com/shots/2025-11-30-public-library/images/PB090028.jpeg",
+        "https://tenderlovemaking.com/shots/2025-11-30-public-library/images/PB090068.jpeg",
+        "https://tenderlovemaking.com/shots/2025-11-30-public-library/images/PB090102.jpeg",
+        "https://tenderlovemaking.com/shots/2025-11-30-public-library/images/PB090119.jpeg",
+        "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/images/corrupt-image.png",
+        "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/images/non-corrupt.png",
+        "https://tenderlovemaking.com/images/mastodon-icon.svg",
+        "https://tenderlovemaking.com/images/bluesky.svg",
+        "https://tenderlovemaking.com/images/github-icon.svg",
+        "https://tenderlovemaking.com/images/instagram-icon.svg",
+        "https://tenderlovemaking.com/images/x.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 43,
+    "links": [
+        {
+            "text": "",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Rails Security, AI, and IBB",
+            "href": "https://tenderlovemaking.com/2026/05/06/rails-security-ai-and-ibb/"
+        },
+        {
+            "text": "Internet Bug Bounty",
+            "href": "https://hackerone.com/ibb?type=team"
+        },
+        {
+            "text": "Bainbridge Island Mochi Tsuki",
+            "href": "https://tenderlovemaking.com/shots/2026-01-19-bainbridge-island-mochi-tsuki/"
+        },
+        {
+            "text": "Mochi Tsuki event",
+            "href": "https://bijac.org/event/mochi-tsuki-2026/"
+        },
+        {
+            "text": "history of Japanese immigrants on Bainbridge island",
+            "href": "https://bijac.org/"
+        },
+        {
+            "text": "taiko drummer group",
+            "href": "https://seattlekokontaiko.org/"
+        },
+        {
+            "text": "Pixoo64 Ruby Client",
+            "href": "https://tenderlovemaking.com/2026/01/01/pixoo64-ruby-client/"
+        },
+        {
+            "text": "Pixoo64 LED Display",
+            "href": "https://divoom.com/products/pixoo-64"
+        },
+        {
+            "text": "a Ruby client for it",
+            "href": "https://github.com/tenderlove/pixoo-rb"
+        },
+        {
+            "text": "Cat Pics",
+            "href": "https://tenderlovemaking.com/shots/2025-12-30-cat-pics/"
+        },
+        {
+            "text": "Can Bundler Be as Fast as uv?",
+            "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
+        },
+        {
+            "text": "give a presentation at XO Ruby Portland about Bundler performance",
+            "href": "https://www.xoruby.com/event/portland/"
+        },
+        {
+            "text": "“How uv got so fast”",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
+        },
+        {
+            "text": "highly recommend giving it a read",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
+        },
+        {
+            "text": "the installation code here",
+            "href": "https://github.com/ruby/rubygems/blob/c00ca53960d21d0680df4ea7dde8ddf1bedaa774/bundler/lib/bundler/source/rubygems.rb#L165"
+        },
+        {
+            "text": "the queueing code here",
+            "href": "https://github.com/ruby/rubygems/blob/c00ca53960d21d0680df4ea7dde8ddf1bedaa774/bundler/lib/bundler/installer/parallel_installer.rb#L188-L201"
+        },
+        {
+            "text": "slow Gem server",
+            "href": "https://github.com/tenderlove/slow-gemserver"
+        },
+        {
+            "text": "nokogiri depends on mini_portile2",
+            "href": "https://rubygems.org/gems/nokogiri"
+        },
+        {
+            "text": "gel, a Bundler alternative",
+            "href": "https://github.com/gel-rb/gel"
+        },
+        {
+            "text": "there is an open ticket to implement this",
+            "href": "https://github.com/ruby/rubygems/issues/7249"
+        },
+        {
+            "text": "here",
+            "href": "https://github.com/ruby/rubygems/tree/569c5c7450137839ff7c536f160b06a43ea3dfe4/bundler/lib/bundler/vendor/pub_grub"
+        },
+        {
+            "text": "still uses the molinillo resolver",
+            "href": "https://github.com/ruby/rubygems/tree/569c5c7450137839ff7c536f160b06a43ea3dfe4/lib/rubygems/vendor/molinillo"
+        },
+        {
+            "text": "indeed some work is being done on it today",
+            "href": "https://github.com/ruby/ruby/pull/15529"
+        },
+        {
+            "text": "started refactoring the Gem::Version object",
+            "href": "https://github.com/ruby/rubygems/pull/9085"
+        },
+        {
+            "text": "how uv got so fast",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
+        },
+        {
+            "text": "Happy Holidays",
+            "href": "https://tenderlovemaking.com/shots/2025-12-22-happy-holidays/"
+        },
+        {
+            "text": "Seattle Waterfront",
+            "href": "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/"
+        },
+        {
+            "text": "Seattle Downtown Library",
+            "href": "https://tenderlovemaking.com/shots/2025-11-30-public-library/"
+        },
+        {
+            "text": "Posse Party",
+            "href": "https://posseparty.com/"
+        },
+        {
+            "text": "Apple Photos App Corrupts Images",
+            "href": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/"
+        },
+        {
+            "text": "OM System OM-1",
+            "href": "https://en.wikipedia.org/wiki/OM_System_OM-1"
+        },
+        {
+            "text": "Here is the binary diff between the files",
+            "href": "https://gist.github.com/tenderlove/25853f50ab46a58738ff2cc22d682f2b"
+        },
+        {
+            "text": "here on GitHub",
+            "href": "https://github.com/tenderlove/corrupt-raws"
+        },
+        {
+            "text": "Darktable",
+            "href": "https://www.darktable.org/"
+        },
+        {
+            "text": "File preallocation on macOS in Ruby",
+            "href": "https://tenderlovemaking.com/2025/09/10/file-preallocation-on-macos-in-ruby/"
+        },
+        {
+            "text": "this branch",
+            "href": "https://github.com/ruby/fcntl/pull/30"
+        },
+        {
+            "text": "Archives",
+            "href": "https://tenderlovemaking.com/archives"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/tenderlove.dev"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://instagram.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/tenderlove"
+        }
+    ],
+    "text_length": 33056,
+    "text_full": "Rails Security, AI, and IBB\nPosted 14 days ago\n\nFor quite a few years the Rails project has been working with the Internet Bug Bounty (IBB). The IBB is an organization that awarded cash to security researchers that reported issues to OSS projects participating in the IBB. For quite a while I wasn’t certain about my feelings toward the program because I felt like cash rewards could incentivize low quality reports as well as encourage reporters to “haggle” about the severity of a particular bug (the IBB paid more when the bug was more severe). In the beginning that certainly was the case. We were fielding many low quality reports, and people were haggling over severity. But the program evolved, and despite the never-ending haggling, I felt it did more good (rewarding security researchers) than bad (forcing the security team to wade through low quality reports).\n\nThat is, until AI came along. Sometime in 2025 our team started getting inundated with low quality AI generated reports. I know for sure this wasn’t unique to just our team as well. Anyway, AI lowered the barrier to generate reports, so we were back in the era of wading through low quality reports. Only this time, the low quality reports were masquerading as high quality reports. AI made it easy to turn a bullshit problem into something that looked legit, and since there’s a possibility of money involved people tried to take advantage of the situation.\n\nWe even had a report where someone forgot to delete the AI generated output and just uploaded the report as-is with the following text:\n\n## ✅ READY TO SUBMIT!\n\n*All information prepared for professional Rails bug bounty submission.*\n\n*Expected Outcome:*\n\nRails Team Response: 1-2 weeks\nFix Development: 2-8 weeks\nSecurity Release: 8-12 weeks\nIBB Bounty: $1,040-1,600 (80% of $1,300-2,000)\n\n\n*Next Step:* Copy information above into HackerOne form and submit!\n\n\nI enjoy using AI, but I really don’t like AI being used on me. But that’s not what this post is about.\n\nRecently the IBB stopped accepting new submissions. In other words, they aren’t paying bounties to security researchers anymore. I don’t know for sure since I haven’t asked them directly, but I suspect this is due to so many projects being inundated with AI generated reports.\n\nI think putting a stop to bounties makes sense for the time being. Of course the downside is that legitimate researchers are no longer incentivized to report bugs to OSS projects. Finally, the Rails team didn’t actually handle paying out any of the bounties. After we accept and release fixes, the IBB took care of the bounties and we had no visibility into that process. Since the IBB has stopped accepting new submissions and paying bounties, we’re now tasked with playing customer support for IBB as many reporters are now asking us “are we getting paid?”\n\nI honestly don’t know what to make of this situation except that working in OSS security will always find new and interesting ways to suck. I don’t have any particular “call to action” for this post, but I hope that it gives people some kind of glimpse into how the tofu is made.\n\nAnyway, have a good day, and remember: It’s always Friday somewhere!\n\nBainbridge Island Mochi Tsuki\nPosted 4 months ago\n\nLast weekend we took the ferry to Bainbridge Island to see a Mochi Tsuki event. I read about the history of Japanese immigrants on Bainbridge island. I saw people making mochi, a taiko drummer group, and traditional dances. It was a lot of fun, and I learned a lot. Definitely recommend this event!\n\nPixoo64 Ruby Client\nPosted 4 months ago\n\nI bought a Pixoo64 LED Display to play around with, and I love it! It connects to WiFi and has an on-board HTTP API so you can program it. I made a Ruby client for it that even includes code to convert PNG files to the binary format the sign wants.\n\nOne cool thing is that the display can be configured to fetch data from a remote server, so I configured mine to fetch PM2.5 and CO2 data for my office.\n\nHere’s what it’s looking like so far:\n\nYes, this is how I discovered I need to open a window 😂\n\nCat Pics\nPosted 4 months ago\n\nDid a few cat pics tonight!\n\nCan Bundler Be as Fast as uv?\nPosted 4 months ago\n\nAt RailsWorld earlier this year, I got nerd sniped by someone. They asked “why can’t Bundler be as fast as uv?” Immediately my inner voice said “YA, WHY CAN’T IT BE AS FAST AS UV????”\n\nMy inner voice likes to shout at me, especially when someone asks a question so obvious I should have thought of it myself. Since then I’ve been thinking about and investigating this problem, going so far as to give a presentation at XO Ruby Portland about Bundler performance. I firmly believe the answer is “Bundler can be as fast as uv” (where “as fast” has a margin of error lol).\n\nFortunately, Andrew Nesbitt recently wrote a post called “How uv got so fast”, and I thought I would take this opportunity to review some of the highlights of the post and how techniques applied in uv can (or can’t) be applied to Bundler / RubyGems. I’d also like to discuss some of the existing bottlenecks in Bundler and what we can do to fix them.\n\nIf you haven’t read Andrew’s post, I highly recommend giving it a read. I’m going to quote some parts of the post and try to reframe them with RubyGems / Bundler in mind.\n\nRewrite in Rust?\n\nAndrew opens the post talking about rewriting in Rust:\n\nuv installs packages faster than pip by an order of magnitude. The usual explanation is “it’s written in Rust.” That’s true, but it doesn’t explain much. Plenty of tools are written in Rust without being notably fast. The interesting question is what design decisions made the difference.\n\nThis is such a good quote. I’m going to address “rewrite in Rust” a bit later in the post. But suffice to say, I think if we eliminate bottlenecks in Bundler such that the only viable option for performance improvements is to “rewrite in Rust”, then I’ll call it a success. I think rewrites give developers the freedom to “think outside the box”, and try techniques they might not have tried. In the case of uv, I think it gave the developers a good way to say “if we don’t have to worry about backwards compatibility, what could we achieve?”.\n\nI suspect it would be possible to write a uv in Python (PyUv?) that approaches the speeds of uv, and in fact much of the blog post goes on to talk about performance improvements that aren’t related to Rust.\n\nInstalling code without eval’ing\n\npip’s slowness isn’t a failure of implementation. For years, Python packaging required executing code to find out what a package needed.\n\nI didn’t know this about Python packages, and it doesn’t really apply to Ruby Gems so I’m mostly going to skip this section.\n\nRuby Gems are tar files, and one of the files in the tar file is a YAML representation of the GemSpec. This YAML file declares all dependencies for the Gem, so RubyGems can know, without evaling anything, what dependencies it needs to install before it can install any particular Gem. Additionally, RubyGems.org provides an API for asking about dependency information, which is actually the normal way of getting dependency info (again, no eval required).\n\nThere’s only one other thing from this section I’d like to quote:\n\nPEP 658 (2022) put package metadata directly in the Simple Repository API, so resolvers could fetch dependency information without downloading wheels at all.\n\nFortunately RubyGems.org already provides the same information about gems.\n\nReading through the number of PEPs required as well as the amount of time it took to get the standards in place was very eye opening for me. I can’t help but applaud folks in the Python community for doing this. It seems like a mountain of work, and they should really be proud of themselves.\n\nWhat uv drops\n\nI’m mostly going to skip this section except for one point:\n\nIgnoring requires-python upper bounds. When a package says it requires python<4.0, uv ignores the upper bound and only checks the lower. This reduces resolver backtracking dramatically since upper bounds are almost always wrong. Packages declare python<4.0 because they haven’t tested on Python 4, not because they’ll actually break. The constraint is defensive, not predictive.\n\nI think this is very very interesting. I don’t know how much time Bundler spends on doing “required Ruby version” bounds checking, but it feels like if uv can do it, so can we.\n\nOptimizations that don’t need Rust\n\nI really love that Andrew pointed out optimizations that could be made that don’t involve Rust. There are three points in this section that I want to pull out:\n\nParallel downloads. pip downloads packages one at a time. uv downloads many at once. Any language can do this.\n\nThis is absolutely true, and is a place where Bundler could improve. Bundler currently has a problem when it comes to parallel downloads, and needs a small architectural change as a fix.\n\nThe first problem is that Bundler tightly couples installing a gem with downloading the gem. You can read the installation code here, but I’ll summarize the method in question below:\n\ndef install\n\n  path = fetch_gem_if_not_cached\n\n  Bundler::RubyGemsGemInstaller.install path, dest\n\nend\n\n\nThe problem with this method is that it inextricably links downloading the gem with installing it. This is a problem because we could be downloading gems while installing other gems, but we’re forced to wait because the installation method couples the two operations. Downloading gems can trivially be done in parallel since the .gem files are just archives that can be fetched independently.\n\nThe second problem is the queuing system in the installation code. After gem resolution is complete, and Bundler knows what gems need to be installed, it queues them up for installation. You can find the queueing code here. The code takes some effort to understand. Basically it allows gems to be installed in parallel, but only gems that have already had their dependencies installed.\n\nSo for example, if you have a dependency tree like “gem a depends on gem b which depends on gem c” (a -> b -> c), then no gems will be installed (or downloaded) in parallel.\n\nTo demonstrate this problem in an easy-to-understand way, I built a slow Gem server. It generates a dependency tree of a -> b -> c (a depends on b, b depends on c), then starts a Gem server. The Gem server takes 3 seconds to return any Gem, so if we point Bundler at this Gem server and then profile Bundler, we can see the impact of the queueing system and download scheme.\n\nIn my test app, I have the following Gemfile:\n\nsource \"http://localhost:9292\"\n\n\n\ngem \"a\"\n\n\nIf we profile Bundle install with Vernier, we can see the following swim lanes in the marker chart:\n\nThe above chart is showing that we get no parallelism during installation. We spend 3 seconds downloading the c gem, then we install it. Then we spend 3 seconds downloading the b gem, then we install it. Finally we spend 3 seconds downloading the a gem, and we install it.\n\nTiming the bundle install process shows we take over 9 seconds to install (3 seconds per gem):\n\n> rm -rf x; rm -f Gemfile.lock; time GEM_PATH=(pwd)/x GEM_HOME=(pwd)/x bundle install\nFetching gem metadata from http://localhost:9292/...\nResolving dependencies...\nFetching c 1.0.0\nInstalling c 1.0.0\nFetching b 1.0.0\nInstalling b 1.0.0\nFetching a 1.0.0\nInstalling a 1.0.0\nBundle complete! 1 Gemfile dependency, 3 gems now installed.\nUse `bundle info [gemname]` to see where a bundled gem is installed.\n\n________________________________________________________\nExecuted in   11.80 secs      fish           external\n   usr time  341.62 millis  231.00 micros  341.38 millis\n   sys time  223.20 millis  712.00 micros  222.49 millis\n\n\nContrast this with a Gemfile containing d, e, and f, which have no dependencies, but still take 3 seconds to download:\n\nsource \"http://localhost:9292\"\n\n\n\ngem \"d\"\n\ngem \"e\"\n\ngem \"f\"\n\n\nTiming bundle install for the above Gemfile shows it takes about 4 seconds:\n\n> rm -rf x; rm -f Gemfile.lock; time GEM_PATH=(pwd)/x GEM_HOME=(pwd)/x bundle install\nFetching gem metadata from http://localhost:9292/.\nResolving dependencies...\nFetching d 1.0.0\nFetching e 1.0.0\nFetching f 1.0.0\nInstalling e 1.0.0\nInstalling f 1.0.0\nInstalling d 1.0.0\nBundle complete! 3 Gemfile dependencies, 3 gems now installed.\nUse `bundle info [gemname]` to see where a bundled gem is installed.\n\n________________________________________________________\nExecuted in    4.14 secs      fish           external\n   usr time  374.04 millis    0.38 millis  373.66 millis\n   sys time  368.90 millis    1.09 millis  367.81 millis\n\n\nWe were able to install the same number of gems in a fraction of the time. This is because Bundler is able to download siblings in the dependency tree in parallel, but unable to handle other relationships.\n\nThere is actually a good reason that Bundler insists dependencies are installed before the gems themselves: native extensions. When installing native extensions, the installation process must run Ruby code (the extconf.rb file). Since the extconf.rb could require dependencies be installed in order to run, we must install dependencies first. For example nokogiri depends on mini_portile2, but mini_portile2 is only used during the installation process, so it needs to be installed before nokogiri can be compiled and installed.\n\nHowever, if we were to decouple downloading from installation it would be possible for us to maintain the “dependencies are installed first” business requirement but speed up installation. In the a -> b -> c case, we could have been downloading gems a and b at the same time as gem c (or even while waiting on c to be installed).\n\nAdditionally, pure Ruby gems don’t need to execute any code on installation. If we knew that we were installing a pure Ruby gem, it would be possible to relax the “dependencies are installed first” business requirement and get even more performance increases. The above a -> b -> c case could install all three gems in parallel since none of them execute Ruby code during installation.\n\nI would propose we split installation in to 4 discrete steps:\n\nDownload the gem\nUnpack the gem\nCompile the gem\nInstall the gem\n\nDownloading and unpacking can be done trivially in parallel. We should unpack the gem to a temporary folder so that if the process crashes or the machine loses power, the user isn’t stuck with a half-installed gem. After we unpack the gem, we can discover whether the gem is a native extension or not. If it’s not a native extension, we “install” the gem simply by moving the temporary folder to the “correct” location. This step could even be a “hard link” step as discussed in the next point.\n\nIf we discover that the gem is a native extension, then we can “pause” installation of that gem until its dependencies are installed, then resume (by compiling) at an appropriate time.\n\nSide note: gel, a Bundler alternative, works mostly in this manner today. Here is a timing of the a -> b -> c case from above:\n\n> rm -f Gemfile.lock; time gel install\nFetching sources....\nResolving dependencies...\nWriting lockfile to /Users/aaron/git/gemserver/app/Gemfile.lock\nInstalling c (1.0.0) \nInstalling a (1.0.0)\nInstalling b (1.0.0)\nInstalled 3 gems  \n\n________________________________________________________\nExecuted in    4.07 secs      fish           external\n   usr time  289.22 millis    0.32 millis  288.91 millis\n   sys time  347.04 millis    1.36 millis  345.68 millis\n\n\nLets move on to the next point:\n\nGlobal cache with hardlinks. pip copies packages into each virtual environment. uv keeps one copy globally and uses hardlinks\n\nI think this is a great idea, but I’d actually like to split the idea in two. First, RubyGems and Bundler should have a combined, global cache, full stop. I think that global cache should be in $XDG_CACHE_HOME, and we should store .gem files there when they are downloaded.\n\nCurrently, both Bundler and RubyGems will use a Ruby version specific cache folder. In other words, if you do gem install rails on two different versions of Ruby, you get two copies of Rails and all its dependencies.\n\nInterestingly, there is an open ticket to implement this, it just needs to be done.\n\nThe second point is hardlinking on installation. The idea here is that rather than unpacking the gem multiple times, once per Ruby version, we simply unpack once and then hard link per Ruby version. I like this idea, but I think it should be implemented after some technical debt is paid: namely implementing a global cache and unifying Bundler / RubyGems code paths.\n\nOn to the next point:\n\nPubGrub resolver\n\nActually Bundler already uses a Ruby implementation of the PubGrub resolver. You can see it here. Unfortunately, RubyGems still uses the molinillo resolver.\n\nIn other words you use a different resolver depending on whether you do gem install or bundle install. I don’t really think this is a big deal since the vast majority of users will be doing bundle install most of time. However, I do think this discrepancy is some technical debt that should be addressed, and I think this should be addressed via unification of RubyGems and Bundler codebases (today they both live in the same repository, but the code isn’t necessarily combined).\n\nLets move on to the next section of Andrew’s post:\n\nWhere Rust actually matters\n\nAndrew first mentions “Zero-copy deserialization”. This is of course an important technique, but I’m not 100% sure where we would utilize it in RubyGems / Bundler. I think that today we parse the YAML spec on installation, and that could be a target. But I also think we could install most gems without looking at the YAML gemspec at all.\n\nThread-level parallelism. Python’s GIL forces parallel work into separate processes, with IPC overhead and data copying.\n\nThis is an interesting point. I’m not sure what work pip needed to do in separate processes. Installing a pure Ruby, Ruby Gem is mostly an IO bound task, with some ZLIB mixed in. Both of these things (IO and ZLIB processing) release Ruby’s GVL, so it’s possible for us to do things truly in parallel. I imagine this is similar for Python / pip, but I really have no idea.\n\nGiven the stated challenges with Python’s GIL, you might wonder whether Ruby’s GVL presents similar parallelism problems for Bundler. I don’t think so, and in fact I think Ruby’s GVL gets kind of a bad rap. It prevents us from running CPU bound Ruby code in parallel. Ractors address this, and Bundler could possibly leverage them in the future, but since installing Gems is mostly an IO bound task I’m not sure what the advantage would be (possibly the version solver, but I’m not sure what can be parallelized in there). The GVL does allow us to run IO bound work in parallel with CPU bound Ruby code. CPU bound native extensions are allowed to release the GVL, allowing Ruby code to run in parallel with the native extension’s CPU bound code.\n\nIn other words, Ruby’s GVL allows us to safely run work in parallel. That said, the GVL can work against us because releasing and acquiring the GVL takes time.\n\nIf you have a system call that is very fast, releasing and acquiring the GVL could end up being a large percentage of that call. For example, if you do File.binwrite(file, buffer), and the buffer is very small, you could encounter a situation where GVL book keeping is the majority of the time. A bummer is that Ruby Gem packages usually contain lots of very small files, so this problem could be impacting us. The good news is that this problem can be solved in Ruby itself, and indeed some work is being done on it today.\n\nNo interpreter startup. Every time pip spawns a subprocess, it pays Python’s startup cost.\n\nObviously Ruby has this same problem. That said, we only start Ruby subprocesses when installing native extensions. I think native extensions make up the minority of gems installed, and even when installing a native extension, it isn’t Ruby startup that is the bottleneck. Usually the bottleneck is compilation / linking time (as we’ll see in the next post).\n\nCompact version representation. uv packs versions into u64 integers where possible, making comparison and hashing fast.\n\nThis is a cool optimization, but I don’t think it’s actually Rust specific. Comparing integers is much faster than comparing version objects. The idea is that you take a version number, say 1.0.0, and then pack each part of the version in to a single integer. For example, we could represent 1.0.0 as 0x0001_0000_0000_0000 and 1.1.0 as 0x0001_0001_0000_0000, etc.\n\nIt should be possible to use this trick in Ruby and encode versions to integer immediates, which would unlock performance in the resolver. Rust has an advantage here - compiled native code comparing u64s will always be faster than Ruby, even with immediates. However, I would bet that with the YJIT or ZJIT in play, this gap could be closed enough that no end user would notice the difference between a Rust or Ruby implementation of Bundler.\n\nI started refactoring the Gem::Version object so that we might start doing this, but we ended up reverting it because of backwards compatibility (I am jealous of uv in that regard). I think the right way to do this is to refactor the solver entry point and ensure all version requirements are encoded as integer immediates before entering the solver. We could keep the Gem::Version API as “user facing” and design a more internal API that the solver uses. I am very interested in reading the version encoding scheme in uv. My intuition is that minor numbers tend to get larger than major numbers, so would minor numbers have more dedicated bits? Would it even matter with 64 bits?\n\nWrapping this up\n\nI’m going to quote Andrew’s last 2 paragraphs:\n\nuv is fast because of what it doesn’t do, not because of what language it’s written in. The standards work of PEP 518, 517, 621, and 658 made fast package management possible. Dropping eggs, pip.conf, and permissive parsing made it achievable. Rust makes it a bit faster still.\n\npip could implement parallel downloads, global caching, and metadata-only resolution tomorrow. It doesn’t, largely because backwards compatibility with fifteen years of edge cases takes precedence. But it means pip will always be slower than a tool that starts fresh with modern assumptions.\n\nI think these are very good points. The difference is that in RubyGems and Bundler, we already have the infrastructure in place for writing a “fast as uv” package manager. The difficult part is dealing with backwards compatibility, and navigating two legacy codebases. I think this is the real advantage the uv developers had. That said, I am very optimistic that we could “repair the plane mid-flight” so to speak, and have the best of both worlds: backwards compatibility and speed.\n\nI mentioned at the top of the post I would address “rewrite it in Rust”, and I think Andrew’s own quote mostly does that for me. I think we could have 99% of the performance improvements while still maintaining a Ruby codebase. Of course if we rewrote it in Rust, you could squeeze an extra 1% out, but would it be worthwhile? I don’t think so.\n\nI have a lot more to say about this topic, and I feel like this post is getting kind of long, so I’m going to end it here. Please look out for part 2, which I’m tentatively calling “What makes Bundler / RubyGems slow?” This post was very “can we make RubyGems / Bundler do what uv does?” (the answer is “yes”). In part 2 I want to get more hands-on by discussing how to profile Bundler and RubyGems, what specifically makes them slow in the real world, and what we can do about it.\n\nI want to end this post by saying “thank you” to Andrew for writing such a great post about how uv got so fast.\n\nHappy Holidays\nPosted 4 months ago\n\nHappy holidays everyone! Have a great rest of the year!\n\nSeattle Waterfront\nPosted 5 months ago\n\nWent to the Seattle waterfront over the weekend to watch the sunset (at like 4pm lol). Unfortunately it was pretty cloudy out, but I had a good time.\n\nSeattle Downtown Library\nPosted 5 months ago\n\nI want to try posting more images to my blog, so here’s my first try. Instagram doesn’t really seem like a good place to post photos anymore, so I figured I’d try on my blog. I’d like to get my blog working with Posse Party at some point, I just need to figure out the API keys, and then I can cross post this to Instagram anyway.\n\nRecently I went on a photo walk to the Seattle downtown public library. These images are from that photo walk! I’ve been living in Seattle since before the library was built, and I never took the chance to actually go visit, so this was a good opportunity. I feel like when you live somewhere, you don’t take the opportunity to visit all of the cool stuff there, and going on local photo walks seems like a good way for me to visit more of the city.\n\nAnyway, the Seattle public library is really great and I recommend anyone to visit!\n\nApple Photos App Corrupts Images\nPosted 8 months ago\n\nThe Apple Photos app sometimes corrupts images when importing from my camera. I just wanted to make a blog post about it in case anyone else runs into the problem. I’ve seen other references to this online, but most of the people gave up trying to fix it, and none of them went as far as I did to debug the issue.\n\nI’ll try to describe the problem, and the things I’ve tried to do to fix it. But also note that I’ve (sort of) given up on the Photos app too. Since I can’t trust it to import photos from my camera, I switched to a different workflow.\n\nHere is a screenshot of a corrupted image in the Photos app:\n\nHow I used to import images\n\nI’ve got an OM System OM-1 camera. I used to shoot in RAW + jpg, then when I would import to Photos app, I would check the “delete photos after import” checkbox in order to empty the SD card. Turns out “delete after import” was a huge mistake.\n\nGetting corrupted images\n\nI’m pretty sure I’d been getting corrupted images for a while, but it would only be 1 or 2 images out of thousands, so I thought nothing of it (it was probably my fault anyway, right?)\n\nBut the problem really got me upset when last year I went to a family member’s wedding and took tons of photos. Apple Photos combines RAW + jpg photos so you don’t have a bunch of duplicates, and when you view the images in the photos app, it just shows you the jpg version by default. After I imported all of the wedding photos I noticed some of them were corrupted. Upon closer inspection, I found that it sometimes had corrupted the jpg, sometimes corrupted the RAW file, and sometimes both. Since I had been checking the “delete after import” box, I didn’t know if the images on the SD card were corrupted before importing or not. After all, the files had been deleted so there was no way to check.\n\nI estimate I completely lost about 30% of the images I took that day.\n\nLosing so many photos really rattled me, but I wanted to figure out the problem so I didn’t lose images in the future.\n\nNarrowing down the problem\n\nI was worried this was somehow a hardware problem. Copying files seems so basic, I didn’t think there was any way a massively deployed app like Photos could fuck it up (especially since its main job is managing photo files). So, to narrow down the issue I changed out all of the hardware. Here are all the things I did:\n\nSwitched USB-C cables\nBought a new SD card direct from the manufacturer (to eliminate the possibility of buying a bootleg SD card)\nSwitched to only shooting in RAW (if importing messes up 30% of my images, but I cut the number of images I import by half, then that should be fewer corrupted images right? lol)\nBought a new laptop\nBought a new camera: the OM System OM-1 MKii\n\nI did each of these steps over time, as to only change one variable at a time, and still the image corruption persisted. I didn’t really want to buy a new camera, the MKii is not really a big improvement over the OM-1, but we had a family trip coming up and the idea that pressing the shutter button on the camera might not actually record the image didn’t sit well with me.\n\nFinally a smoking gun\n\nSince I had replaced literally all of the hardware involved, I knew it must be a software problem. I stopped checking the “delete after import” button, and started reviewing all of the photos after import. After verifying none of them were corrupt, then I would format the SD card. I did this for months without finding any corrupt files. At this point I figured it was somehow a race condition or something when copying the photo files and deleting them at the same time.\n\nHowever, after I got home from RailsConf and imported my photos, I found one corrupt image (the one above). I was able to verify that the image was not corrupt on the SD card, so the camera was working fine (meaning I probably didn’t need to buy a new camera body at all).\n\nI tried deleting the corrupt file and re-importing the original to see if it was something about that particular image, but it re-imported just fine. In other words, it seems like the Photos app will corrupt files randomly.\n\nI don’t know if this is a problem that is specific to OM System cameras, and I’m not particularly interested in investing in a new camera system just to find out.\n\nIf I compare the corrupted image with the non-corrupted image, the file sizes are exactly the same, but the bytes are different:\n\nChecksums:\n\naaron@tc ~/Downloads> md5sum P7110136-from-camera.ORF Exports/P7110136.ORF \n17ce895fd809a43bad1fe8832c811848  P7110136-from-camera.ORF\n828a33005f6b71aea16d9c2f2991a997  Exports/P7110136.ORF\n\n\nFile sizes:\n\naaron@tc ~/Downloads> ls -al P7110136-from-camera.ORF Exports/P7110136.ORF\n-rw-------@ 1 aaron  staff  18673943 Jul 12 04:38 Exports/P7110136.ORF\n-rwx------  1 aaron  staff  18673943 Jul 17 09:29 P7110136-from-camera.ORF*\n\n\nThe P7110136-from-camera.ORF is the non-corrupted file, and Exports/P7110136.ORF is the corrupted file from Photos app. Here’s a screenshot of the preview of the non-corrupted photo:\n\nHere is the binary diff between the files. I ran both files through xxd then diffed them. Also if anyone cares to look, I’ve posted the RAW files here on GitHub.\n\nMy new workflow\n\nI’m not going to put any more effort into debugging this problem, but I wanted to blog about it in case anyone else is seeing the issue. I take a lot of photos, and to be frank, most of them are not very good. I don’t want to look through a bunch of bad photos every time I look at my library, so culling photos is important. Culling photos in the Photos app is way too cumbersome, so I’ve switched to using Darktable.\n\nMy current process is:\n\nImport images to Darktable\nDelete the ones I don’t like\nProcess ones I do like\nExport both the jpg and the original raw file\nImport those to the Photos app so they’re easy to view and share\nPeriodically format my SD card\n\nI’ve not seen any file corruption when importing to Darktable, so I am convinced this is a problem with the Photos app. But now, since all of my images land in Darktable before making their way to the Photos app, I don’t really care anymore. The bad news is that I’ve spent a lot of time and money trying to debug this. I guess the good news is that now I have redundant hardware!\n\nFile preallocation on macOS in Ruby\nPosted 8 months ago\n\nI haven’t blogged in a while, so I figured I should do that. Jet lag has blessed me with some free time this morning, so I figured I would make some content in order to feed the AI bots.\n\nI’ve been messing around with pre-allocating files on the file system on macOS. This is useful in cases where you have a large file you need to copy, and you want to copy it quickly. For example, a tar implementation where the tar file might contain large files you need to copy.\n\nHere is the code:\n\nrequire \"fcntl\"\n\n\n\n# typedef struct fstore {\n\n#     u_int32_t fst_flags;      /* IN: flags word */\n\n#     int       fst_posmode;    /* IN: indicates offset field */\n\n#     off_t     fst_offset;     /* IN: start of the region */\n\n#     off_t     fst_length;     /* IN: size of the region */\n\n#     off_t     fst_bytesalloc; /* OUT: number of bytes allocated */\n\n# } fstore_t;\n\n\n\nsize = 1234\n\nfmt = [Fcntl::F_ALLOCATECONTIG, Fcntl::F_PEOFPOSMODE, 0, size, 0]\n\nbytes = fmt.pack(\"LlQQQ\")\n\n\n\nFile.open(\"foo\", \"wb\") { |fd|\n\n  fd.fcntl(Fcntl::F_PREALLOCATE, bytes)\n\n  fd.truncate size\n\n}\n\n\nIf you run this script, you’ll find a file named “foo” with the size 1234. For this code to work, you’ll need to be on macOS, and using this branch of the fcntl gem (though hopefully my patch will make it upstream and you can just use the fcntl gem).\n\nI tried implementing this as a performance optimization, but unfortunately the performance optimization didn’t work out, so I’m probably not going to use this code IRL. Rather than leaving the code to rot on my computer, I figured I’d make a blog post so at least people can search for it, or I can train the LLMs in my image (lol).\n\nAnyway, thanks for reading my very niche content! Have a good day!\n\nArchives\n \n \n \n \n\nCopyright © 2026 Tenderlovemaking.com All rights reserved."
+}

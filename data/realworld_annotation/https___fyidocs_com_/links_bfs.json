@@ -1,0 +1,83 @@
+{
+  "start_url": "https://fyidocs.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://fyidocs.com/",
+    "https://fyi.app/proven-roi/",
+    "https://fyi.app/security-and-reliability/",
+    "https://fyi.app/easy-onboarding/",
+    "https://fyi.app/integrations/",
+    "https://fyi.app/email-management/",
+    "https://fyi.app/document-management/",
+    "https://fyi.app/search-retrieval/",
+    "https://fyi.app/client-management/",
+    "https://fyi.app/task-management/",
+    "https://fyi.app/workflows/",
+    "https://fyi.app/collaborate/",
+    "https://fyi.app/process-automation/",
+    "https://fyi.app/onboarding-services/",
+    "https://fyi.app/migration/",
+    "https://fyi.app/support-services/",
+    "https://fyi.app/automation-library/",
+    "https://fyi.app/customer-stories/",
+    "https://fyi.app/events/",
+    "https://fyi.app/whats-new/",
+    "https://fyi.app/blog/",
+    "https://fyi.app/frequently-asked-questions/",
+    "https://status.fyi.app/",
+    "https://fyi.app/contact-us/",
+    "https://fyi.app/get-started/",
+    "https://fyi.app/integrations/microsoft-365/",
+    "https://support.fyi.app/hc/en-us",
+    "https://support.fyi.app/hc/en-us/articles/360036950192-What-data-is-migrated-into-FYI-",
+    "https://fyi.app/book_demo_fyi/",
+    "https://fyi.app/pricing/",
+    "https://support.fyi.app/hc/en-us/articles/4896883679129-Integration-with-Microsoft-Teams",
+    "https://support.fyi.app/hc/en-us/sections/360012800651-Microsoft-365"
+  ],
+  "by_depth": {
+    "0": [
+      "https://fyidocs.com/"
+    ],
+    "1": [
+      "https://fyi.app/proven-roi/",
+      "https://fyi.app/security-and-reliability/",
+      "https://fyi.app/easy-onboarding/",
+      "https://fyi.app/integrations/",
+      "https://fyi.app/email-management/"
+    ],
+    "2": [
+      "https://fyi.app/document-management/",
+      "https://fyi.app/search-retrieval/",
+      "https://fyi.app/client-management/",
+      "https://fyi.app/task-management/",
+      "https://fyi.app/workflows/",
+      "https://fyi.app/collaborate/",
+      "https://fyi.app/process-automation/",
+      "https://fyi.app/onboarding-services/",
+      "https://fyi.app/migration/",
+      "https://fyi.app/support-services/",
+      "https://fyi.app/automation-library/",
+      "https://fyi.app/customer-stories/",
+      "https://fyi.app/events/",
+      "https://fyi.app/whats-new/",
+      "https://fyi.app/blog/",
+      "https://fyi.app/frequently-asked-questions/",
+      "https://status.fyi.app/",
+      "https://fyi.app/contact-us/",
+      "https://fyi.app/get-started/",
+      "https://fyi.app/integrations/microsoft-365/",
+      "https://support.fyi.app/hc/en-us"
+    ],
+    "3": [
+      "https://support.fyi.app/hc/en-us/articles/360036950192-What-data-is-migrated-into-FYI-",
+      "https://fyi.app/book_demo_fyi/",
+      "https://fyi.app/pricing/",
+      "https://support.fyi.app/hc/en-us/articles/4896883679129-Integration-with-Microsoft-Teams",
+      "https://support.fyi.app/hc/en-us/sections/360012800651-Microsoft-365"
+    ]
+  },
+  "dead_links": []
+}

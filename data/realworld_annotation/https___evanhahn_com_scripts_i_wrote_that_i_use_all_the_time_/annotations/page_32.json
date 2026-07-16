@@ -1,0 +1,97 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 21,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#node",
+            "href": "https://evanhahn.com/tags/node/"
+        },
+        {
+            "text": "#security",
+            "href": "https://evanhahn.com/tags/security/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "Node’s crypto.timingSafeEqual",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/crypto.html#cryptotimingsafeequala-b"
+        },
+        {
+            "text": "encoding supported by Node",
+            "href": "https://nodejs.org/docs/latest-v20.x/api/buffer.html#buffers-and-character-encodings"
+        },
+        {
+            "text": "string-timing-safe-equal",
+            "href": "https://www.npmjs.com/package/string-timing-safe-equal"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 1835,
+    "text_full": "How to use crypto.timingSafeEqual with strings\nby Evan Hahn, updated Jan 15, 2025 (originally posted Feb 16, 2024), tagged #javascript #node #security #guide\n\nNode’s crypto.timingSafeEqual only works with buffers. To make it work with strings, you should convert the strings to UTF-16 buffers and then pass them to crypto.timingSafeEqual.\n\nHere’s the code:\n\nimport { Buffer } from \"node:buffer\";\n\nimport * as crypto from \"node:crypto\";\n\n\n\nfunction stringTimingSafeEqual(a, b) {\n\n  const bufferA = Buffer.from(a, \"utf16le\");\n\n  const bufferB = Buffer.from(b, \"utf16le\");\n\n  return crypto.timingSafeEqual(bufferA, bufferB);\n\n}\n\n\nIt’s important that you use UTF-16 because it’s the only encoding supported by Node that doesn’t lose some information along the way:\n\nutf8 encoding normalizes lone surrogates. For example, \"\\udc69\" and \"\\udc6a\" get normalized to the same buffer, which would mean that they’re considered equal (which is wrong).\nlatin1 encoding will truncate multi-byte code points. For example, the \"I\" (U+0049) and \"汉\" (U+6C49) would be considered equivalent.\nascii and binary are aliases for latin1 in this situation, so they have the same issue.\nbase64 and base64url drop whitespace, so \" \" and \"\\t\" would be considered equivalent.\nhex only works if the string is hex, so \"XX\" and \"YY\" would be considered equivalent.\n\nThe only one that doesn’t lose data is utf16le, which is why you should use it here. (You could also use its legacy alias, ucs2, but I think this is less clear.)\n\nIf you’d like a package that does this, check out string-timing-safe-equal (which I made).\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

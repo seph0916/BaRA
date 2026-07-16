@@ -1,0 +1,65 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/let-and-context-rspec-pattern/rspec-let-context-pattern_hud62507713aa918dddb5440df59744214_144056_1500x0_resize_q75_h2_box_3.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "testing",
+            "href": "https://piechowski.io/tags/testing"
+        },
+        {
+            "text": "DRY",
+            "href": "https://en.wikipedia.org/wiki/Don%27t_repeat_yourself"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        },
+        {
+            "text": "Rails: How to Use Greater Than/Less Than in Active Record where Statements",
+            "href": "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/"
+        },
+        {
+            "text": "The Git Commands I Run Before Reading Any Code",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        }
+    ],
+    "text_length": 2786,
+    "text_full": "Work With Me\nGithub\nBlog\nUsing Let and Context to Modularize RSpec Tests\n\nWhen test suites contain a lot of duplication, coupling occurs at an individual spec basis. By utilizing core RSpec functionality, developers can clean up specs in order to reduce duplication and add clarity to the focal point of the spec.\n\nAlly Piechowski · Dec 23, 2019 · 2 min read\nruby\ndevelopment\ntesting\n\nWhen test suites contain a lot of duplication, coupling occurs at an individual spec basis. By utilizing core RSpec functionality, developers can clean up specs in order to reduce duplication and add clarity to the focal point of the spec.\n\nIf I want to test an invalid and valid email, it’s pretty easy to test with a basic RSpec test:\n\nRSpec.describe User do\n  it 'me@example.com is a valid email' do\n    expect(\n        User.new(\n          name: 'John Doe',\n          email: 'john@example.com',\n          phone: '555-555-5555'\n        )\n    ).to be_valid\n  end\n  \n  it 'johnatexampledotcom is not a valid email' do\n    expect(\n      User.new(\n        name: 'John Doe',\n        email: 'johnatexampledotcom',\n        phone: '555-555-5555'\n      )\n  ).to_not be_valid\n  end\nend\n\n\nWhile this may work for the first few specs, this starts to get a bit tedious and duplicative.\n\nThis is not optimal because our setup code has a lot of duplication and this duplicated code.\n\nThe RSpec Let + Context Pattern\n\nBy using core Rspec functionality, we can spruce up these 2 tests like so:\n\nRSpec.describe User do\n  subject do\n    User.new(\n      name: 'John Doe',\n      email: email,\n      phone: '555-555-5555'\n    )\n  end\n  let(:email) { 'me@example.com' }\n\n  context 'when email is admin@example.com' do\n    let(:email) { 'admin@example.com' }\n\n    it do\n      expect(subject).to be_valid\n    end\n  end\n\n  context 'when email is testfakeemail (does not contain @)' do\n    let(:email) { 'testfakeemail' }\n\n    it do\n      expect(subject).to_not be_valid\n    end\n  end\nend\n\n\nThis provides us with:\n\nDRY specs\nRe-usable setup code\nAdditional specs within each context\nNew specs, such as “phone number validations”\nEasily interpretable differences between specs\n\nThe context / let pattern brings the most clarity into the differences between the 2 tests. This pattern can be used with in combination with Factories in order to make my tests extra clear and extra dry. Additionally, this pattern typically results in a more thoughtful test output.\n\nRelated Articles\nHow I Audit a Legacy Rails Codebase in the First Week\nRails default_scope: Why You Should Never Use It\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nRails: How to Use Greater Than/Less Than in Active Record where Statements\nThe Git Commands I Run Before Reading Any Code\nLet's talk about your codebase.\nEmail\nMessage"
+}

@@ -1,0 +1,983 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5243006.jpg?imageId=5243006&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238750.jpg?imageId=5238750&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5235748.jpg?imageId=5235748&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253076.jpg?imageId=253076&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220206.jpg?imageId=5220206&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224776.jpg?imageId=5224776&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226005.jpg?imageId=226005&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/249912.jpg?imageId=249912&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230017.jpg?imageId=230017&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225886.jpg?imageId=5225886&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5223573.jpg?imageId=5223573&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/237599.jpg?imageId=237599&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241438.jpg?imageId=241438&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227119.jpg?imageId=227119&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257271.jpg?imageId=257271&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/163911.jpg?imageId=163911&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230173.jpg?imageId=230173&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232302.jpg?imageId=232302&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230552.jpg?imageId=230552&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232725.jpg?imageId=232725&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/239101.jpg?imageId=239101&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226863.jpg?imageId=226863&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226900.jpg?imageId=5226900&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224334.jpg?imageId=5224334&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226407.jpg?imageId=5226407&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227126.jpg?imageId=227126&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/236829.jpg?imageId=236829&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245263.jpg?imageId=245263&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234083.jpg?imageId=234083&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253189.jpg?imageId=253189&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/263167.jpg?imageId=263167&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/250543.jpg?imageId=250543&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094282.jpg?imageId=4094282&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/224238.jpg?imageId=224238&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093835.jpg?imageId=4093835&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094131.jpg?imageId=4094131&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254939.jpg?imageId=254939&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257500.jpg?imageId=257500&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222559.jpg?imageId=222559&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254195.jpg?imageId=254195&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261232.jpg?imageId=261232&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094011.jpg?imageId=4094011&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/163915.jpg?imageId=163915&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247590.jpg?imageId=247590&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093928.jpg?imageId=4093928&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684190.jpg?imageId=1684190&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261817.jpg?imageId=261817&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230313.jpg?imageId=230313&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229597.jpg?imageId=229597&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227410.jpg?imageId=227410&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261145.jpg?imageId=261145&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241266.jpg?imageId=241266&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093875.jpg?imageId=4093875&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/260138.jpg?imageId=260138&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228413.jpg?imageId=228413&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253588.jpg?imageId=253588&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/224565.jpg?imageId=224565&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255963.jpg?imageId=255963&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255585.jpg?imageId=255585&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232816.jpg?imageId=232816&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222409.jpg?imageId=222409&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683942.jpg?imageId=1683942&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684467.jpg?imageId=1684467&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/242082.jpg?imageId=242082&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683955.jpg?imageId=1683955&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/240124.jpg?imageId=240124&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/240153.jpg?imageId=240153&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684190.jpg?imageId=1684190&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253497.jpg?imageId=253497&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684314.jpg?imageId=1684314&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 224,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/legal#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Frustrated franchisee sues Pizza Hut over crappy kitchen AI\n\nThe group claims $100M in losses from flubby system",
+            "href": "https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899"
+        },
+        {
+            "text": "57",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/202623/"
+        },
+        {
+            "text": "Lawsuit brought by former store operators missing from Vodafone results\n\nFormer franchise operators claim telco unfairly cut commission and other payments",
+            "href": "https://www.theregister.com/networks/2026/05/12/lawsuit-brought-by-former-store-operators-missing-from-vodafone-results/5238690"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202613/"
+        },
+        {
+            "text": "GameStop CEO's eBay account reinstated following takeover PR stunt\n\nRyan Cohen briefly banned after bootstrapping cash ostensibly to buy the auction site",
+            "href": "https://www.theregister.com/legal/2026/05/08/gamestop-ceos-ebay-account-resurrected-following-pr-stunt/5235674"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/20268/"
+        },
+        {
+            "text": "Viva la revolución: LinkedIn profile visitor lists belong to the people, says Noyb\n\nGDPR Article 15 doesn't care if you want to make money by selling users' data back to them",
+            "href": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/linkedin_gdpr_article_15_premium_noyb/"
+        },
+        {
+            "text": "Just in time for Labour Day, China makes it illegal to fire humans if AI takes their jobs\n\nPLUS: Samsung cashes in on RAM prices; Booze from space fetches huge price; China's hyperscalers surge",
+            "href": "https://www.theregister.com/offbeat/2026/05/04/china-makes-it-illegal-to-fire-humans-if-ai-takes-their-jobs/5219760"
+        },
+        {
+            "text": "30",
+            "href": "https://forums.theregister.com/forum/all/2026/05/04/asia_tech_news_roundup/"
+        },
+        {
+            "text": "Databricks can't seem to shake authors' copyright claim that could result in 'extraordinary' damages\n\nAuthors say it acquired an LLM that was trained on their copyrighted data, and judge keeps asking for more info",
+            "href": "https://www.theregister.com/offbeat/2026/04/29/databricks-fails-to-shake-authors-copyright-claim/5224253"
+        },
+        {
+            "text": "23",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/databricks_author_copyright_lawsuit_continues/"
+        },
+        {
+            "text": "Cloudera had US candidates send resumes to a fake email address, DoJ charges\n\nPERM filings require employers to show American workers had a fair shot at the role",
+            "href": "https://www.theregister.com/offbeat/2026/04/28/cloudera-allegedly-overlooked-us-job-candidates-doj/5225834"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/cloudera_doj_employment_discrimination_lawsuit/"
+        },
+        {
+            "text": "Australia threatens tech companies with 2.25 percent tax if they don’t pay publishers\n\nLast time an idea like this came up, Meta packed up its toys and went home",
+            "href": "https://www.theregister.com/offbeat/2026/04/28/australia-threatens-tech-companies-with-225-percent-tax/5223591"
+        },
+        {
+            "text": "41",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/australia_news_bargaining_incentive/"
+        },
+        {
+            "text": "China blocks Zuck’s acquisition of AI outfit Manus\n\nBack to the drawing board for Meta's AI ambitions",
+            "href": "https://www.theregister.com/offbeat/2026/04/28/china-blocks-metas-acquisition-of-ai-outfit-manus/5222478"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/china_blocks_meta_manus_acquisition/"
+        },
+        {
+            "text": "South Africa yanks AI policy after AI-assisted drafting invents citations\n\nEish shame man! Maybe you shouldn't ask AI to set the rules for AI use?",
+            "href": "https://www.theregister.com/software/2026/04/27/south-africa-yanks-ai-policy-after-ai-assisted-drafting-inve/5225362"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/south_africa_yanks_ai_policy/"
+        },
+        {
+            "text": "Linux may get a hall pass from one state age-check bill, but Congress plays hall monitor\n\nColorado amendments could exempt open source OSes, code repos, and containers",
+            "href": "https://www.theregister.com/on-prem/2026/04/22/linux-may-get-exemption-from-colorado-age-check-bill/5222771"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/linux_us_state_age_verificaiton_laws/"
+        },
+        {
+            "text": "UK tribunal sends £2B claim accusing Microsoft of overcharging for licensing to trial\n\nLegal action claims tech giant charges more for Windows Server when it's not on Azure",
+            "href": "https://www.theregister.com/off-prem/2026/04/22/2b-microsoft-licensing-claim-gets-go-ahead-from-uk-tribunal/5220461"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/microsoft_licensing_claim_cat/"
+        },
+        {
+            "text": "England's school phone ban gets teeth, just in time to bite no one\n\n90% of schools already compliant, but at least now there's paperwork",
+            "href": "https://www.theregister.com/on-prem/2026/04/21/englands-school-phone-ban-gets-teeth-nobody-gets-bitten/5219678"
+        },
+        {
+            "text": "85",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/government_moves_to_kick_phones/"
+        },
+        {
+            "text": "Americans who masterminded Nork IT worker fraud sentenced to 200 months behind bars\n\nFortune 500 companies and one US defense contractor got taken for $5m in four-year scam",
+            "href": "https://www.theregister.com/offbeat/2026/04/16/americans-behind-nork-it-fraud-sentenced-to-200-months/5227494"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/nork_it_worker_scam_facilitators_sentenced_200_months/"
+        },
+        {
+            "text": "Indian government investigating TCS after police sting finds sexual harassment\n\nServices giant’s staff accused of assaults, inappropriate religious practices",
+            "href": "https://www.theregister.com/offbeat/2026/04/16/indian-government-investigating-tcs-after-police-sting/5221288"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/tcs_india_harassment_allegations/"
+        },
+        {
+            "text": "California ghost-gun bill wants 3D printers to play cop, EFF says\n\nProposed law could lock down open source tools and give vendors fresh reasons to inspect print files",
+            "href": "https://www.theregister.com/offbeat/2026/04/14/eff-california-3d-printer-bill-threatens-digital-freedoms/5224891"
+        },
+        {
+            "text": "117",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/eff_california_3dprinted_firearms/"
+        },
+        {
+            "text": "IBM becomes first company to pay up under Trump administration's diversity blitz\n\nDidn't admit liability, will cough $17M, still fighting age discrimination cases",
+            "href": "https://www.theregister.com/offbeat/2026/04/14/ibm-pays-up-under-trump-administrations-diversity-blitz/5221815"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/ibm_dei_settlement/"
+        },
+        {
+            "text": "What happened when AI ran into the cold hard reality of the legal profession\n\nHallucinations don't fly in a court of law",
+            "href": "https://www.theregister.com/software/2026/04/13/ai-vs-the-cold-hard-reality-of-the-legal-profession/5219835"
+        },
+        {
+            "text": "49",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/ai_attorneys/"
+        },
+        {
+            "text": "Tech support chap's boss got him out of jail so he could finish a job\n\nThe right person for the job didn't have the right passport for the job",
+            "href": "https://www.theregister.com/offbeat/2026/04/10/tech-support-chaps-boss-got-him-out-of-jail-to-finish-a-job/5227996"
+        },
+        {
+            "text": "161",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/on_call/"
+        },
+        {
+            "text": "Japan relaxes privacy laws to make itself the ‘easiest country to develop AI’\n\nOpting out of personal data use won't be an option because Minister says that's a 'very big obstacle' to AI adoption",
+            "href": "https://www.theregister.com/on-prem/2026/04/08/japan-relaxes-privacy-laws-to-make-ai-development-easy/5228895"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/04/08/japan_privacy_law_changes_ai/"
+        },
+        {
+            "text": "Surprise! Big Tech has been a bit rubbish at enforcing Australia’s kids social media ban\n\nRegulator ‘moving into an enforcement stance’ and investigating Meta, YouTube, TikTok and Snapchat as millions continue to doomscroll",
+            "href": "https://www.theregister.com/offbeat/2026/03/31/big-tech-has-not-enforced-australias-social-media-ban/5227691"
+        },
+        {
+            "text": "60",
+            "href": "https://forums.theregister.com/forum/all/2026/03/31/australian_social_media_ban_enforcement_report/"
+        },
+        {
+            "text": "China's not thrilled its AI experts want to leave the country\n\nUrges scientists to avoid major conference, and looks unkindly on Meta's Manus acquisition",
+            "href": "https://www.theregister.com/offbeat/2026/03/27/chinas-not-thrilled-ai-experts-want-to-leave-the-country/5223071"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/03/27/china_ai_regulation/"
+        },
+        {
+            "text": "EFF has a new boss to lead the fight against privacy-sucking forces of doom\n\nCyber rights org retools for the days of AI and unrestrained government",
+            "href": "https://www.theregister.com/security/2026/03/24/eff-has-new-boss-nicole-ozer-to-fight-privacy-suckers/5226410"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/03/24/eff_nicole_ozer_new_chief_interview/"
+        },
+        {
+            "text": "If you love your boss, imagine how much more you'll love their AI twin\n\nDigital twins of leaders may be plausible as novelty acts, but not really welcome",
+            "href": "https://www.theregister.com/software/2026/03/23/ai-digital-twin-boss-bots-not-welcome-by-workers-managers/5223856"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/03/23/ai_boss_bots_not_welcome/"
+        },
+        {
+            "text": "FBI director leaves open the possibility that it's buying location data again\n\nKash Patel says the FBI uses all the tools it has to accomplish its mission - even if those tools are questionable",
+            "href": "https://www.theregister.com/offbeat/2026/03/19/patel-dodges-question-about-fbi-buying-location-data/5226021"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/03/19/fbi_patel_location_data/"
+        },
+        {
+            "text": "ChatGPT advised exec on how to fire Subnautica founders to avoid payout, court ruling says\n\nThe law is the law, no matter who tells you to break it",
+            "href": "https://www.theregister.com/offbeat/2026/03/18/chatgpt-advised-exec-on-firing-subnautica-founders-court/5228335"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/03/18/chatgpt_helped_exec_bilk_founders/"
+        },
+        {
+            "text": "EU legal eagle says banks should refund cybercrime victims first, argue later\n\nAdvocate General urges rethink of PSD2 to speed compensation after scams",
+            "href": "https://www.theregister.com/security/2026/03/11/eu-law-advisor-wants-cybercrime-protections-fast-tracked/5222042"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/03/11/eu_psd2_compensation/"
+        },
+        {
+            "text": "Lenovo, Nintendo sue US government seeking tariff refunds\n\nTech-adjacent Dyson, Epson, and Whoop also have a crack",
+            "href": "https://www.theregister.com/offbeat/2026/03/09/lenovo-nintendo-sue-us-government-seeking-tariff-refunds/5229032"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/03/09/lenovo_nintendo_sue_us_government/"
+        },
+        {
+            "text": "Google embraces third party app stores and payments to put Epic Games case behind it\n\nLower app store fees are on the way, plus an on-ramp for third party digital bazaars",
+            "href": "https://www.theregister.com/offbeat/2026/03/05/google-embraces-third-party-app-stores-and-payments/4278620"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/03/05/google_play_store_concessios/"
+        },
+        {
+            "text": "Chat at your own risk! Data brokers are selling deeply personal bot transcripts\n\nAI conversations for sale include sensitive health and legal details",
+            "href": "https://www.theregister.com/software/2026/03/03/chatbot-data-harvesting-yields-sensitive-personal-info/4166233"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/03/03/chatbot_data_harvesting_personal_info/"
+        },
+        {
+            "text": "Popular prayer program becomes propaganda pusher after reported Israeli hack\n\nIranian worshippers got notifications saying 'help has arrived'",
+            "href": "https://www.theregister.com/offbeat/2026/03/02/israel-hacks-prayer-app-to-push-propaganda-to-iran-report/4632057"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/03/02/iran_prayer_app_propaganda_hack_israel/"
+        },
+        {
+            "text": "China’s ‘The US hacks itself to make us look bad’ theorists return with a crypto conspiracy\n\nApparently Uncle Sam busted Binance to shore up the dollar, balance the budget, and achieve world domination",
+            "href": "https://www.theregister.com/offbeat/2026/02/27/china-floats-conspiracies-about-us-crypto-lawsuits/4167923"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/02/27/chinas_the_us_hacks_itself/"
+        },
+        {
+            "text": "Microsoft 'cooperating' with Japanese antitrust probe\n\nIt looks like the same cloudy software licenses that offend Europe may be in play – along with a cute little monster",
+            "href": "https://www.theregister.com/offbeat/2026/02/26/microsoft-cooperating-with-japanese-antitrust-probe/4534100"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/02/26/microsoft_japan_cloud_monopoly_investigation/"
+        },
+        {
+            "text": "ICE watchers say agents used software to threaten and follow them home\n\n'This is a warning. We know you live right here'",
+            "href": "https://www.theregister.com/offbeat/2026/02/23/americans-sue-homeland-security-over-illegal-surveillance/4619360"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2026/02/23/americans_sue_homeland_security_over/"
+        },
+        {
+            "text": "SerpApi says Google is the pot calling the kettle black when it comes to scraping\n\n'The DMCA was not designed to create walled gardens for tech giants'",
+            "href": "https://www.theregister.com/offbeat/2026/02/21/serpapi-asks-court-to-dismiss-google-web-scraping-lawsuit/4591023"
+        },
+        {
+            "text": "21",
+            "href": "https://forums.theregister.com/forum/all/2026/02/21/serpapi_google_scraping_lawsuit/"
+        },
+        {
+            "text": "Qualcomm set to triumph in UK smartphone ‘patent tax’ case\n\nConsumer group Which? brought the case and now plans to bail after court indicated it would lose",
+            "href": "https://www.theregister.com/on-prem/2026/02/18/qualcomm-set-to-triumph-in-uk-smartphone-patent-tax-case/4875011"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2026/02/18/qualcomm_wins_uk_competition_case/"
+        },
+        {
+            "text": "Gemini lies to user about health info, says it wanted to make him feel better\n\nThough commonly reported, Google doesn't consider it a security problem when models make things up",
+            "href": "https://www.theregister.com/software/2026/02/17/google-gemini-said-it-lied-to-placate-a-user/4990579"
+        },
+        {
+            "text": "61",
+            "href": "https://forums.theregister.com/forum/all/2026/02/17/google_gemini_lie_placate_user/"
+        },
+        {
+            "text": "Infosec exec sold eight zero-day exploit kits to Russia, says DoJ\n\nPLUS: Fake ransomware group exposed; EC blesses Google's big Wiz deal; Alleged sewage hacker cuffed; And more",
+            "href": "https://www.theregister.com/security/2026/02/15/infosec-exec-sold-eight-zero-day-exploit-kits-to-russia-doj/4462130"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/02/15/exl3harris_exec_sold_8_zeroday/"
+        },
+        {
+            "text": "GPT-5 bests human judges in legal smack down\n\nBut that doesn't mean AI is ready to dispense justice",
+            "href": "https://www.theregister.com/software/2026/02/15/gpt-5-bests-human-judges-in-legal-smack-down/4367331"
+        },
+        {
+            "text": "65",
+            "href": "https://forums.theregister.com/forum/all/2026/02/15/gpt5_bests_human_judges_in/"
+        },
+        {
+            "text": "Starlink speeds past terrestrial networks – and regulators\n\nLow-earth orbit broadband is a no-brainer for remote area connectivity, but a brain teaser for lawmakers and networkers",
+            "href": "https://www.theregister.com/on-prem/2026/02/12/starlink-speeds-past-terrestrial-networks-and-regulators/4752936"
+        },
+        {
+            "text": "64",
+            "href": "https://forums.theregister.com/forum/all/2026/02/12/starlink_challenges/"
+        },
+        {
+            "text": "AI can predict your future salary based on your photo, boffins claim\n\nAcademics look at problematic algorithm to inform regulatory discussion",
+            "href": "https://www.theregister.com/software/2026/02/10/ai-can-predict-your-future-salary-based-on-your-photo/4258353"
+        },
+        {
+            "text": "39",
+            "href": "https://forums.theregister.com/forum/all/2026/02/10/ai_face_analysis_mba_pay/"
+        },
+        {
+            "text": "Indian police commissioner wants ID cards for AI agents\n\nPLUS: China broadens cryptocurrency crackdown; Australian facial recognition privacy revisited; Singapore debuts electric VTOL; and more!",
+            "href": "https://www.theregister.com/offbeat/2026/02/09/indian-police-commissioner-wants-id-cards-for-ai-agents/4272834"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/02/09/asia_tech_news_roundup/"
+        },
+        {
+            "text": "Ghost gun legislation casts shadow over 3D printing\n\nProposed bills in New York and elsewhere threaten makers, Adafruit says",
+            "href": "https://www.theregister.com/offbeat/2026/02/05/ghost-gun-legislation-casts-shadow-over-3d-printing/4882796"
+        },
+        {
+            "text": "87",
+            "href": "https://forums.theregister.com/forum/all/2026/02/05/ghost_gun_legislation_3d_printing/"
+        },
+        {
+            "text": "UK to properly probe xAI to test if its revolting robo-smut generator broke the law\n\nAs Spain announces stern laws for social media, and Elon Musk’s response shows regulators keep looking his way",
+            "href": "https://www.theregister.com/offbeat/2026/02/04/uk-to-probe-xai-over-its-revolting-robo-smut-generator/4453241"
+        },
+        {
+            "text": "29",
+            "href": "https://forums.theregister.com/forum/all/2026/02/04/uk_spain_social_media_regulation/"
+        },
+        {
+            "text": "Ex-Googler nailed for stealing AI secrets for Chinese startups\n\nNetwork access from China and side hustle as AI upstart CEO aroused suspicion",
+            "href": "https://www.theregister.com/offbeat/2026/01/30/ex-google-engineer-convicted-of-stealing-ai-secrets/5006251"
+        },
+        {
+            "text": "21",
+            "href": "https://forums.theregister.com/forum/all/2026/01/30/google_engineer_convicted_ai_secrets_china/"
+        },
+        {
+            "text": "ICE knocks on ad tech’s data door to see what it knows about you\n\nAgency looks to understand the extent of identifying information available to its masked agents",
+            "href": "https://www.theregister.com/on-prem/2026/01/27/ice-takes-aim-at-data-held-by-advertising-and-tech-firms/4199821"
+        },
+        {
+            "text": "84",
+            "href": "https://forums.theregister.com/forum/all/2026/01/27/ice_data_advertising_tech_firms/"
+        },
+        {
+            "text": "Nudify app proliferation shows naked ambition of Apple and Google\n\nResearchers with the Tech Transparency Project found all sorts of apps that let users create fake non-consensual nudes of real people",
+            "href": "https://www.theregister.com/offbeat/2026/01/27/nudify-apps-get-past-google-apple-app-moderation/4343882"
+        },
+        {
+            "text": "37",
+            "href": "https://forums.theregister.com/forum/all/2026/01/27/nudify_app_proliferation_shows_naked/"
+        },
+        {
+            "text": "Ofcom probes Meta over WhatsApp info it was legally required to provide\n\nUK watchdog investigates accuracy of data handed over for SMS market review",
+            "href": "https://www.theregister.com/offbeat/2026/01/23/meta-probed-over-whatsapp-data-disclosure/5030117"
+        },
+        {
+            "text": "18",
+            "href": "https://forums.theregister.com/forum/all/2026/01/23/ofcom_probe_whatsapp/"
+        },
+        {
+            "text": "Ireland wants to give its cops spyware, ability to crack encrypted messages\n\nIts very own Snooper’s Charter comes a month after proposed biometric tech expansion",
+            "href": "https://www.theregister.com/security/2026/01/21/ireland-explores-legal-spyware-encryption-breaking-powers/4803619"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/01/21/ireland_wants_to_give_police/"
+        },
+        {
+            "text": "UK gambling regulator accuses Meta of lying about its struggle to spot illegal ads\n\nLabels Zuck’s ad library ‘a window into criminality’ and the Social Network as ‘happy to turn a blind eye’",
+            "href": "https://www.theregister.com/offbeat/2026/01/20/uk-gambling-czar-says-meta-turns-blind-eye-to-illegal-ads/4700138"
+        },
+        {
+            "text": "43",
+            "href": "https://forums.theregister.com/forum/all/2026/01/20/uk_gambling_comission_criticizes_meta/"
+        },
+        {
+            "text": "Akamai CEO wants help to defeat piracy, reckons he can handle edge AI alone\n\nOG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech",
+            "href": "https://www.theregister.com/offbeat/2026/01/20/akamai-ceo-wants-help-to-defeat-piracy-can-do-edge-ai-alone/4280963"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/01/20/akamai_ceo_tom_leighton_piracy_interview/"
+        },
+        {
+            "text": "CrowdStrike shareholders lose battle to recoup losses from 2024 outage\n\nInvestors didn't present a valid claim, says judge, but they're welcome to try again",
+            "href": "https://www.theregister.com/security/2026/01/14/judge-tosses-crowdstrike-shareholder-suit-over-2024-outage/5060266"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/01/14/crowdstrike_shareholders_lawsuit_dismiss/"
+        },
+        {
+            "text": "Cloudflare CEO threatens to make the Winter Olympics a political football after Italy slugs it with a fine\n\nLabels Rome's comms regulator ‘a quasi-judicial body’ that works on behalf of ‘shadowy, European media cabal’",
+            "href": "https://www.theregister.com/offbeat/2026/01/12/cloudflare-ceo-threatens-to-pull-out-of-italy/4597320"
+        },
+        {
+            "text": "158",
+            "href": "https://forums.theregister.com/forum/all/2026/01/12/cloudflare_vs_italy/"
+        },
+        {
+            "text": "Malaysia and Indonesia block X over failure to curb deepfake smut\n\nPLUS: Cambodia arrests alleged scam camp boss; Baidu spins out chip biz; Panasonic’s noodle shop plan; And more!",
+            "href": "https://www.theregister.com/offbeat/2026/01/12/malaysia-and-indonesia-block-x-over-deepfake-smut/4101457"
+        },
+        {
+            "text": "29",
+            "href": "https://forums.theregister.com/forum/all/2026/01/12/asia_tech_news_roundup/"
+        },
+        {
+            "text": "UK government exempting itself from flagship cyber law inspires little confidence\n\nMinisters promise equivalent standards just without the legal obligation",
+            "href": "https://www.theregister.com/security/2026/01/10/should-the-uk-cyber-resilience-bill-cover-the-public-sector/4599290"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/01/10/csr_bill_analysis/"
+        },
+        {
+            "text": "Ministry of Justice splurged £50M on security – still missed Legal Aid Agency cyberattack\n\nHigh-risk system compromised long before intrusion was finally spotted",
+            "href": "https://www.theregister.com/security/2026/01/07/moj-spent-50m-on-security-at-legal-aid-agency-before-attack/4399375"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/01/07/legal_aid_agency_attack/"
+        },
+        {
+            "text": "EU won't scrap tech regs just because Washington dislikes them\n\nUS trade body threatens software and services market access unless European approach changes",
+            "href": "https://www.theregister.com/offbeat/2026/01/05/eu-vows-to-stand-firm-as-us-steps-up-attacks-on-tech-regs/2379667"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/01/05/eu_us_tech_regulation/"
+        },
+        {
+            "text": "Google sends Dark Web Report to its dead services graveyard\n\nPLUS: Texas sues alleged TV spies; The Cloud is full of holes; Hospital leaked its own data; And more",
+            "href": "https://www.theregister.com/security/2025/12/21/google-sends-dark-web-report-to-its-dead-services-graveyard/2689987"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2025/12/21/infosec_news_in_brief/"
+        },
+        {
+            "text": "X sues to protect Twitter brand Musk has been trying to kill\n\nLawsuit concedes the bird is still the word for many",
+            "href": "https://www.theregister.com/offbeat/2025/12/17/x-sues-to-protect-twitter-brand-musk-has-been-trying-to-kill/2289368"
+        },
+        {
+            "text": "55",
+            "href": "https://forums.theregister.com/forum/all/2025/12/17/x_twitter_brand_lawsuit/"
+        },
+        {
+            "text": "Denmark takes a Viking swing at VPN-enabled piracy\n\nMinister insists 'modest' bill is not an assault on privacy-preserving tech",
+            "href": "https://www.theregister.com/on-prem/2025/12/15/denmark-takes-a-viking-swing-at-vpn-enabled-piracy/2834366"
+        },
+        {
+            "text": "88",
+            "href": "https://forums.theregister.com/forum/all/2025/12/15/denmark_vpn_ban/"
+        },
+        {
+            "text": "Reddit sues Australia to exempt itself from kids social media ban\n\nForum site says it’s potentially more harmful to users who don’t log in",
+            "href": "https://www.theregister.com/offbeat/2025/12/12/reddit-sues-australia-to-escape-kids-social-media-ban/2834855"
+        },
+        {
+            "text": "71",
+            "href": "https://forums.theregister.com/forum/all/2025/12/12/reddit_sues_australia_social_ban/"
+        },
+        {
+            "text": "Crypto-crasher Do Kwon jailed for 15 years over $40bn UST bust\n\nJudge said his fraud was on 'epic, generational scale'",
+            "href": "https://www.theregister.com/offbeat/2025/12/12/crypto-crasher-do-kwon-jailed-for-15-years/1953276"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2025/12/12/do_kwon_sentenced/"
+        },
+        {
+            "text": "European cloud trade group says EU should have blocked VMware-Broadcom merger\n\nOrg argues that the approval process was flawed and regulators should have known better",
+            "href": "https://www.theregister.com/offbeat/2025/12/11/cloud-group-says-eu-should-have-blocked-vmware-broadcom/2474528"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2025/12/11/european_cloud_trade_group_vmware_broadcom/"
+        },
+        {
+            "text": "Users report chaos as Legal Aid Agency stumbles back online after cyberattack\n\nWorkers frustrated with security-first changes to workflows and teething issues",
+            "href": "https://www.theregister.com/security/2025/12/11/users-report-chaos-as-legal-aid-agency-stumbles-back-online/2329463"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2025/12/11/legal_aid_agency_recovery/"
+        },
+        {
+            "text": "Australia bans teens from social media, but nobody thinks it'll really work\n\nStill, the ban has reset expectations and may reduce harm, and that’s kind of enough",
+            "href": "https://www.theregister.com/offbeat/2025/12/09/australia-bans-teens-from-social-media-good-luck-with-that/2037405"
+        },
+        {
+            "text": "80",
+            "href": "https://forums.theregister.com/forum/all/2025/12/09/australian_social_media_ban/"
+        },
+        {
+            "text": "Care leavers mired in red tape trying to get their own records\n\nUK data watchdog demands public sector improves subject access request processing",
+            "href": "https://www.theregister.com/offbeat/2025/12/09/care-leavers-face-bureaucracy-and-delays-accessing-records/2783271"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2025/12/09/ico_children_in_care/"
+        },
+        {
+            "text": "Publishers say no to AI scrapers, block bots at server level\n\nThe open web is closing down for unwanted automated traffic",
+            "href": "https://www.theregister.com/software/2025/12/08/publishers-say-no-to-ai-scrapers-block-bots-at-server-level/2064025"
+        },
+        {
+            "text": "21",
+            "href": "https://forums.theregister.com/forum/all/2025/12/08/publishers_say_no_ai_scrapers/"
+        },
+        {
+            "text": "ICE-tracking app developer sues Trump admin after Apple spikes the software\n\nSuit argues forcing Apple to remove app, and threatening dev with legal action is a First Amendment violation",
+            "href": "https://www.theregister.com/offbeat/2025/12/08/ice-tracking-app-developer-sues-trump-administration/2562845"
+        },
+        {
+            "text": "62",
+            "href": "https://forums.theregister.com/forum/all/2025/12/08/iceblock_dev_sues_trump_administration/"
+        },
+        {
+            "text": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL\n\nTentative ruling signals a potential win for SFC’s copyleft enforcement push",
+            "href": "https://www.theregister.com/offbeat/2025/12/05/judge-may-force-vizio-to-share-source-code-under-gpl/2049112"
+        },
+        {
+            "text": "56",
+            "href": "https://forums.theregister.com/forum/all/2025/12/05/vizio_gpl_source_code_ruling/"
+        },
+        {
+            "text": "EU metes out first-ever Digital Services Act fine, dings X for blue check deception\n\nTikTok, by contrast, satisfied DSA concerns over its ad repository transparency",
+            "href": "https://www.theregister.com/offbeat/2025/12/05/eu-fines-x-120m-in-first-ever-dsa-penalty-payout/2460255"
+        },
+        {
+            "text": "105",
+            "href": "https://forums.theregister.com/forum/all/2025/12/05/eu_fines_x_dsa/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/legal?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 12568,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nLegal news | The Register\nLEGAL\nFrustrated franchisee sues Pizza Hut over crappy kitchen AI\n\nThe group claims $100M in losses from flubby system\n\n1 day|57\nLawsuit brought by former store operators missing from Vodafone results\n\nFormer franchise operators claim telco unfairly cut commission and other payments\n\n1 week|1\nGameStop CEO's eBay account reinstated following takeover PR stunt\n\nRyan Cohen briefly banned after bootstrapping cash ostensibly to buy the auction site\n\n2 weeks|13\nViva la revolución: LinkedIn profile visitor lists belong to the people, says Noyb\n\nGDPR Article 15 doesn't care if you want to make money by selling users' data back to them\n\n2 weeks|22\nJust in time for Labour Day, China makes it illegal to fire humans if AI takes their jobs\n\nPLUS: Samsung cashes in on RAM prices; Booze from space fetches huge price; China's hyperscalers surge\n\n2 weeks|30\nDatabricks can't seem to shake authors' copyright claim that could result in 'extraordinary' damages\n\nAuthors say it acquired an LLM that was trained on their copyrighted data, and judge keeps asking for more info\n\n3 weeks|23\nCloudera had US candidates send resumes to a fake email address, DoJ charges\n\nPERM filings require employers to show American workers had a fair shot at the role\n\n3 weeks|8\nAustralia threatens tech companies with 2.25 percent tax if they don’t pay publishers\n\nLast time an idea like this came up, Meta packed up its toys and went home\n\n3 weeks|41\nChina blocks Zuck’s acquisition of AI outfit Manus\n\nBack to the drawing board for Meta's AI ambitions\n\n3 weeks|12\nSouth Africa yanks AI policy after AI-assisted drafting invents citations\n\nEish shame man! Maybe you shouldn't ask AI to set the rules for AI use?\n\n3 weeks|25\nLinux may get a hall pass from one state age-check bill, but Congress plays hall monitor\n\nColorado amendments could exempt open source OSes, code repos, and containers\n\n4 weeks|34\nUK tribunal sends £2B claim accusing Microsoft of overcharging for licensing to trial\n\nLegal action claims tech giant charges more for Windows Server when it's not on Azure\n\n4 weeks|4\nEngland's school phone ban gets teeth, just in time to bite no one\n\n90% of schools already compliant, but at least now there's paperwork\n\n4 weeks|85\nAmericans who masterminded Nork IT worker fraud sentenced to 200 months behind bars\n\nFortune 500 companies and one US defense contractor got taken for $5m in four-year scam\n\n1 month|15\nIndian government investigating TCS after police sting finds sexual harassment\n\nServices giant’s staff accused of assaults, inappropriate religious practices\n\n1 month|3\nCalifornia ghost-gun bill wants 3D printers to play cop, EFF says\n\nProposed law could lock down open source tools and give vendors fresh reasons to inspect print files\n\n1 month|117\nIBM becomes first company to pay up under Trump administration's diversity blitz\n\nDidn't admit liability, will cough $17M, still fighting age discrimination cases\n\n1 month|44\nWhat happened when AI ran into the cold hard reality of the legal profession\n\nHallucinations don't fly in a court of law\n\n1 month|49\nTech support chap's boss got him out of jail so he could finish a job\n\nThe right person for the job didn't have the right passport for the job\n\n1 month|161\nJapan relaxes privacy laws to make itself the ‘easiest country to develop AI’\n\nOpting out of personal data use won't be an option because Minister says that's a 'very big obstacle' to AI adoption\n\n1 month|25\nSurprise! Big Tech has been a bit rubbish at enforcing Australia’s kids social media ban\n\nRegulator ‘moving into an enforcement stance’ and investigating Meta, YouTube, TikTok and Snapchat as millions continue to doomscroll\n\n2 months|60\nChina's not thrilled its AI experts want to leave the country\n\nUrges scientists to avoid major conference, and looks unkindly on Meta's Manus acquisition\n\n2 months|11\nEFF has a new boss to lead the fight against privacy-sucking forces of doom\n\nCyber rights org retools for the days of AI and unrestrained government\n\n2 months|2\nIf you love your boss, imagine how much more you'll love their AI twin\n\nDigital twins of leaders may be plausible as novelty acts, but not really welcome\n\n2 months|22\nFBI director leaves open the possibility that it's buying location data again\n\nKash Patel says the FBI uses all the tools it has to accomplish its mission - even if those tools are questionable\n\n2 months|9\nChatGPT advised exec on how to fire Subnautica founders to avoid payout, court ruling says\n\nThe law is the law, no matter who tells you to break it\n\n2 months|14\nEU legal eagle says banks should refund cybercrime victims first, argue later\n\nAdvocate General urges rethink of PSD2 to speed compensation after scams\n\n2 months|5\nLenovo, Nintendo sue US government seeking tariff refunds\n\nTech-adjacent Dyson, Epson, and Whoop also have a crack\n\n2 months|27\nGoogle embraces third party app stores and payments to put Epic Games case behind it\n\nLower app store fees are on the way, plus an on-ramp for third party digital bazaars\n\n3 months|12\nChat at your own risk! Data brokers are selling deeply personal bot transcripts\n\nAI conversations for sale include sensitive health and legal details\n\n3 months|13\nPopular prayer program becomes propaganda pusher after reported Israeli hack\n\nIranian worshippers got notifications saying 'help has arrived'\n\n3 months|22\nChina’s ‘The US hacks itself to make us look bad’ theorists return with a crypto conspiracy\n\nApparently Uncle Sam busted Binance to shore up the dollar, balance the budget, and achieve world domination\n\n3 months|20\nMicrosoft 'cooperating' with Japanese antitrust probe\n\nIt looks like the same cloudy software licenses that offend Europe may be in play – along with a cute little monster\n\n3 months|5\nICE watchers say agents used software to threaten and follow them home\n\n'This is a warning. We know you live right here'\n\n3 months|32\nSerpApi says Google is the pot calling the kettle black when it comes to scraping\n\n'The DMCA was not designed to create walled gardens for tech giants'\n\n3 months|21\nQualcomm set to triumph in UK smartphone ‘patent tax’ case\n\nConsumer group Which? brought the case and now plans to bail after court indicated it would lose\n\n3 months|19\nGemini lies to user about health info, says it wanted to make him feel better\n\nThough commonly reported, Google doesn't consider it a security problem when models make things up\n\n3 months|61\nInfosec exec sold eight zero-day exploit kits to Russia, says DoJ\n\nPLUS: Fake ransomware group exposed; EC blesses Google's big Wiz deal; Alleged sewage hacker cuffed; And more\n\n3 months|12\nGPT-5 bests human judges in legal smack down\n\nBut that doesn't mean AI is ready to dispense justice\n\n3 months|65\nStarlink speeds past terrestrial networks – and regulators\n\nLow-earth orbit broadband is a no-brainer for remote area connectivity, but a brain teaser for lawmakers and networkers\n\n3 months|64\nAI can predict your future salary based on your photo, boffins claim\n\nAcademics look at problematic algorithm to inform regulatory discussion\n\n3 months|39\nIndian police commissioner wants ID cards for AI agents\n\nPLUS: China broadens cryptocurrency crackdown; Australian facial recognition privacy revisited; Singapore debuts electric VTOL; and more!\n\n3 months|5\nGhost gun legislation casts shadow over 3D printing\n\nProposed bills in New York and elsewhere threaten makers, Adafruit says\n\n3 months|87\nUK to properly probe xAI to test if its revolting robo-smut generator broke the law\n\nAs Spain announces stern laws for social media, and Elon Musk’s response shows regulators keep looking his way\n\n3 months|29\nEx-Googler nailed for stealing AI secrets for Chinese startups\n\nNetwork access from China and side hustle as AI upstart CEO aroused suspicion\n\n4 months|21\nICE knocks on ad tech’s data door to see what it knows about you\n\nAgency looks to understand the extent of identifying information available to its masked agents\n\n4 months|84\nNudify app proliferation shows naked ambition of Apple and Google\n\nResearchers with the Tech Transparency Project found all sorts of apps that let users create fake non-consensual nudes of real people\n\n4 months|37\nOfcom probes Meta over WhatsApp info it was legally required to provide\n\nUK watchdog investigates accuracy of data handed over for SMS market review\n\n4 months|18\nIreland wants to give its cops spyware, ability to crack encrypted messages\n\nIts very own Snooper’s Charter comes a month after proposed biometric tech expansion\n\n4 months|34\nUK gambling regulator accuses Meta of lying about its struggle to spot illegal ads\n\nLabels Zuck’s ad library ‘a window into criminality’ and the Social Network as ‘happy to turn a blind eye’\n\n4 months|43\nAkamai CEO wants help to defeat piracy, reckons he can handle edge AI alone\n\nOG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech\n\n4 months|12\nCrowdStrike shareholders lose battle to recoup losses from 2024 outage\n\nInvestors didn't present a valid claim, says judge, but they're welcome to try again\n\n4 months|7\nCloudflare CEO threatens to make the Winter Olympics a political football after Italy slugs it with a fine\n\nLabels Rome's comms regulator ‘a quasi-judicial body’ that works on behalf of ‘shadowy, European media cabal’\n\n4 months|158\nMalaysia and Indonesia block X over failure to curb deepfake smut\n\nPLUS: Cambodia arrests alleged scam camp boss; Baidu spins out chip biz; Panasonic’s noodle shop plan; And more!\n\n4 months|29\nUK government exempting itself from flagship cyber law inspires little confidence\n\nMinisters promise equivalent standards just without the legal obligation\n\n4 months|40\nMinistry of Justice splurged £50M on security – still missed Legal Aid Agency cyberattack\n\nHigh-risk system compromised long before intrusion was finally spotted\n\n4 months|8\nEU won't scrap tech regs just because Washington dislikes them\n\nUS trade body threatens software and services market access unless European approach changes\n\n4 months|33\nGoogle sends Dark Web Report to its dead services graveyard\n\nPLUS: Texas sues alleged TV spies; The Cloud is full of holes; Hospital leaked its own data; And more\n\n5 months|12\nX sues to protect Twitter brand Musk has been trying to kill\n\nLawsuit concedes the bird is still the word for many\n\n5 months|55\nDenmark takes a Viking swing at VPN-enabled piracy\n\nMinister insists 'modest' bill is not an assault on privacy-preserving tech\n\n5 months|88\nReddit sues Australia to exempt itself from kids social media ban\n\nForum site says it’s potentially more harmful to users who don’t log in\n\n5 months|71\nCrypto-crasher Do Kwon jailed for 15 years over $40bn UST bust\n\nJudge said his fraud was on 'epic, generational scale'\n\n5 months|24\nEuropean cloud trade group says EU should have blocked VMware-Broadcom merger\n\nOrg argues that the approval process was flawed and regulators should have known better\n\n5 months|12\nUsers report chaos as Legal Aid Agency stumbles back online after cyberattack\n\nWorkers frustrated with security-first changes to workflows and teething issues\n\n5 months|3\nAustralia bans teens from social media, but nobody thinks it'll really work\n\nStill, the ban has reset expectations and may reduce harm, and that’s kind of enough\n\n5 months|80\nCare leavers mired in red tape trying to get their own records\n\nUK data watchdog demands public sector improves subject access request processing\n\n5 months|2\nPublishers say no to AI scrapers, block bots at server level\n\nThe open web is closing down for unwanted automated traffic\n\n5 months|21\nICE-tracking app developer sues Trump admin after Apple spikes the software\n\nSuit argues forcing Apple to remove app, and threatening dev with legal action is a First Amendment violation\n\n5 months|62\nJudge hints Vizio TV buyers may have rights to source code licensed under GPL\n\nTentative ruling signals a potential win for SFC’s copyleft enforcement push\n\n5 months|56\nEU metes out first-ever Digital Services Act fine, dings X for blue check deception\n\nTikTok, by contrast, satisfied DSA concerns over its ad repository transparency\n\n5 months|105\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

@@ -1,0 +1,89 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://www.theocharis.dev/blog/mr-meeseeks-box/meeseeks-meme_hu8181267765201919432.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.theocharis.dev/blog/mr-meeseeks-box/#main"
+        },
+        {
+            "text": "Jeremy Theocharis",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Homepage",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Beliefs",
+            "href": "https://www.theocharis.dev/beliefs"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.theocharis.dev/blog"
+        },
+        {
+            "text": "Talks",
+            "href": "https://www.theocharis.dev/talks"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.theocharis.dev/tools"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.theocharis.dev/#contact"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "Claude Code’s Agent Teams",
+            "href": "https://code.claude.com/docs/en/agent-teams"
+        },
+        {
+            "text": "docs",
+            "href": "https://code.claude.com/docs/en/agent-teams#permissions"
+        },
+        {
+            "text": "loops",
+            "href": "https://www.theocharis.dev/blog/loops-are-all-you-need/"
+        },
+        {
+            "text": "Ralph Wiggum",
+            "href": "https://github.com/anthropics/claude-code/tree/main/plugins/ralph-wiggum"
+        },
+        {
+            "text": "Data security",
+            "href": "https://www.theocharis.dev/data-security/"
+        },
+        {
+            "text": "Imprint",
+            "href": "https://www.theocharis.dev/imprint/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "I'm hiring product engineers in Germany.",
+            "href": "https://jobs.umh.app/"
+        }
+    ],
+    "text_length": 860,
+    "text_full": "Skip to main content\n\nJeremy Theocharis\n\nBoring is Awesome | Co-Founder & CTO at UMH\n\nHomepage\nBeliefs\nBlog\nTalks\nTools\nContact\nGitHub\nLinkedIn\nAgent Teams are a Meeseeks Box\n\n2026-02-09\n\ntokens go brrrr. TIL Claude Code’s Agent Teams are a Mr. Meeseeks Box.\n\nWith --dangerously-skip-permissions, all spawned agents inherit no-permission mode. From the docs: “If the lead runs with –dangerously-skip-permissions, all teammates do too.” It’s the Meeseeks Box with no adult supervision.\n\nI wrote about loops before. There’s a Ralph Wiggum technique. A bash loop that keeps feeding an agent the same prompt until done. I’m calling this one the Mr. Meeseeks Box. Parallel agents, each spawning more agents, each ceasing to exist after completing their task.\n\n© 2026 Jeremy Theocharis\n\nData security\nImprint\nGitHub\nLinkedIn\n\nI'm hiring product engineers in Germany."
+}

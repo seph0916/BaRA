@@ -1,0 +1,596 @@
+{
+    "image_count": 44,
+    "images": [
+        "https://img.passforless.com/images/passforless/passforless-logo-w_138.png",
+        "https://img.passforless.com/images/passforless/passforless-logo-w_138.png",
+        "https://img.passforless.com/scenics_images/503/503-17_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2275/2275_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/377/377-2_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/scenics_images/503/503-17_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2275/2275_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/377/377-2_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2274/2274_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/503/503-17_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2275/2275_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/377/377-2_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2274/2274_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/503/503-17_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2275/2275_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/377/377-2_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2274/2274_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/images/poi/common/placeholder_all.jpg",
+        "https://img.passforless.com/scenics_images/503/503-4_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2273/2273_1-640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2947/2947-2_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2659/2659-1_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2660/2660-1_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2679/2679-1_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2659/2659-1_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2652/2652-1_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/scenics_images/2659/2659-1_640x480.jpg?x-oss-process=image/resize,m_fill,h_480,w_640,limit_0/format,webp/quality,q_38",
+        "https://img.passforless.com/images/poi/tripo/assets/resources/recommended.jpg",
+        "https://img.passforless.com/images/passforless/passforless-logo-w_138.png",
+        "https://img.passforless.com/images/passforless/passforless_logo.png",
+        "https://img.passforless.com/images/poi/tripo/assets/shapes/close-1-1.png?x-oss-process=image/format,webp/quality,q_38"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 135,
+    "links": [
+        {
+            "text": "Email Us",
+            "href": "https://www.passforless.com/contact.php"
+        },
+        {
+            "text": "Chat Now",
+            "href": "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html#"
+        },
+        {
+            "text": "Travel Blog",
+            "href": "https://www.passforless.com/article"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html#"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html#"
+        },
+        {
+            "text": "ALL",
+            "href": "https://www.passforless.com/all"
+        },
+        {
+            "text": "NEW YORK",
+            "href": "https://www.passforless.com/all/new-york"
+        },
+        {
+            "text": "LAS VEGAS",
+            "href": "https://www.passforless.com/all/las-vegas"
+        },
+        {
+            "text": "LOS ANGELES",
+            "href": "https://www.passforless.com/all/los-angeles"
+        },
+        {
+            "text": "ANTELOPE CANYON",
+            "href": "https://www.passforless.com/all/antelope-canyon"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html#"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/signin.php?redirect=/"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html#"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html#"
+        },
+        {
+            "text": "ALL",
+            "href": "https://www.passforless.com/all"
+        },
+        {
+            "text": "NEW YORK",
+            "href": "https://www.passforless.com/all/new-york"
+        },
+        {
+            "text": "LAS VEGAS",
+            "href": "https://www.passforless.com/all/las-vegas"
+        },
+        {
+            "text": "LOS ANGELES",
+            "href": "https://www.passforless.com/all/los-angeles"
+        },
+        {
+            "text": "ANTELOPE CANYON",
+            "href": "https://www.passforless.com/all/antelope-canyon"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html#"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/signin.php?redirect=/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.passforless.com/"
+        },
+        {
+            "text": "EXPERIENCES",
+            "href": "https://www.passforless.com/all"
+        },
+        {
+            "text": "CITY OF PAGE",
+            "href": "https://www.passforless.com/all/city-of-page"
+        },
+        {
+            "text": "(244 Reviews)",
+            "href": "https://www.passforless.com/reviews-11997"
+        },
+        {
+            "text": "[Notices] Please reconfirm the pickup point.",
+            "href": "https://www.google.com/maps?q=650%20Elm%20St,%20Page,%20AZ%2086040"
+        },
+        {
+            "text": "Safeway (Left of the main entrance)",
+            "href": "https://www.google.com/maps?q=650%20Elm%20St,%20Page,%20AZ%2086040"
+        },
+        {
+            "text": "Baymont by Wyndham Page Lake Powell",
+            "href": "https://www.google.com/maps?q=677%20Scenic%20View%20Rd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Best Western Plus at Lake Powell",
+            "href": "https://www.google.com/maps?q=208%20N%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Best Western View Of Lake Powell Hotel",
+            "href": "https://www.google.com/maps?q=716%20Rim%20View%20Dr,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Clarion Inn Page - Lake Powell",
+            "href": "https://www.google.com/maps?q=751%20S%20Navajo%20Dr,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Comfort Inn & Suites Page at Lake Powell",
+            "href": "https://www.google.com/maps?q=890%20Haul%20Rd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Courtyard by Marriott Page at Lake Powell",
+            "href": "https://www.google.com/maps?q=600%20Clubhouse%20Dr,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Days Inn & Suites by Wyndham Page Lake Powell",
+            "href": "https://www.google.com/maps?q=961%20US-89,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Hampton Inn & Suites Page - Lake Powell",
+            "href": "https://www.google.com/maps?q=294%20Sandhill%20Rd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Holiday Inn Express & Suites Page - Lake Powell Area",
+            "href": "https://www.google.com/maps?q=643%20S%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Home2 Suites by Hilton Page Lake Powell",
+            "href": "https://www.google.com/maps?q=681%20Scenic%20View%20Rd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Hyatt Place Page/Lake Powell",
+            "href": "https://www.google.com/maps?q=1126%20N%20Navajo%20Dr,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Knights Inn Page",
+            "href": "https://www.google.com/maps?q=121%20S%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "La Quinta Inn & Suites Page at Lake Powell",
+            "href": "https://www.google.com/maps?q=70%20Kaibab%20Rd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Motel 6 Page, AZ",
+            "href": "https://www.google.com/maps?q=637%20S%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Quality Inn View Of Lake Powell",
+            "href": "https://www.google.com/maps?q=287%20N%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Rodeway Inn at Lake Powell",
+            "href": "https://www.google.com/maps?q=107%20S%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Sleep Inn & Suites Page At Lake Powell",
+            "href": "https://www.google.com/maps?q=673%20Scenic%20View%20Rd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Super 8 by Wyndham Page/Lake Powell",
+            "href": "https://www.google.com/maps?q=649%20S%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Travel Lodge by Wyndham Page",
+            "href": "https://www.google.com/maps?q=207%20N%20Lake%20Powell%20Blvd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Wingate by Wyndham Page Lake Powell",
+            "href": "https://www.google.com/maps?q=671%20Scenic%20View%20Rd,%20Page,%20AZ%2086040,%20United%20States"
+        },
+        {
+            "text": "Country Inn Suites by Radisson in Page",
+            "href": "https://www.google.com/maps?q=880%20Haul%20Rd,%20Page,%20AZ%2086040"
+        },
+        {
+            "text": "Read all 244 reviews",
+            "href": "https://www.passforless.com/reviews-11997"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/las-vegas-antelope-horseshoe-bend-1-day-tour-6042.html"
+        },
+        {
+            "text": "Las Vegas: Upper or Lower Antelope Canyon, Horseshoe Bend Day Tour (14 People Small Tour & Lunch)",
+            "href": "https://www.passforless.com/las-vegas-antelope-horseshoe-bend-1-day-tour-6042.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/las-vegas-horseshoe-bend-antelope-canyon-lake-powell-1-day-tour-8649.html"
+        },
+        {
+            "text": "Las Vegas: Antelope Canyon (Upper or Lower or X), Horseshoe Bend Tour With Lunch",
+            "href": "https://www.passforless.com/las-vegas-horseshoe-bend-antelope-canyon-lake-powell-1-day-tour-8649.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/shiraito-waterfall-raizansennyoji-taihioin-sakurai-futamigaura-couple-stones-fukuoka-tower-tour-12544.html"
+        },
+        {
+            "text": "Shiraito Falls, Raizansennyoji & Fukuoka Tower Bus Tour from Fukuoka",
+            "href": "https://www.passforless.com/shiraito-waterfall-raizansennyoji-taihioin-sakurai-futamigaura-couple-stones-fukuoka-tower-tour-12544.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/tokyo-kawaguchiko-yamanakako-mount-fuji-tour-12517.html"
+        },
+        {
+            "text": "[Small Groups] Mt. Fuji Tours to Lake Kawaguchiko and Yamanakako Onsen English Guide",
+            "href": "https://www.passforless.com/tokyo-kawaguchiko-yamanakako-mount-fuji-tour-12517.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/tokyo-mount-fuji-internet-celebrity-one-day-tour-12518.html"
+        },
+        {
+            "text": "[Small Groups] Arakurayama Sengen Park, Oshino Hakkai and Lake Kawaguchiko Day Trip",
+            "href": "https://www.passforless.com/tokyo-mount-fuji-internet-celebrity-one-day-tour-12518.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/tokyo-to-kamakura-enoshima-hachimangu-shrine-tour-12519.html"
+        },
+        {
+            "text": "[Small Groups] Kamakura Full Day Tour: Kotoku-in & Enoshima & Hachimangu Shrine",
+            "href": "https://www.passforless.com/tokyo-to-kamakura-enoshima-hachimangu-shrine-tour-12519.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/tokyo-mount-fuji-owakudani-hakone-tour-12520.html"
+        },
+        {
+            "text": "[Small Groups]Tokyo Mt. Fuji Hakone Shrine, Owakudani, Lake Yamanakako Day Tour",
+            "href": "https://www.passforless.com/tokyo-mount-fuji-owakudani-hakone-tour-12520.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/kyoto-nara-cute-deer-tour-12513.html"
+        },
+        {
+            "text": "[Small Groups] Osaka/Kyoto: Kiyomizu-dera Temple,Fushimi-Inari Taisha Shrine, Nara Park Cute Deer 1 Day Trip",
+            "href": "https://www.passforless.com/kyoto-nara-cute-deer-tour-12513.html"
+        },
+        {
+            "text": "",
+            "href": "https://www.passforless.com/tokyo-mount-fuji-oshino-hakkai-small-group-tour-12516.html"
+        },
+        {
+            "text": "[Small Groups] Mt Fuji 5th Station/Arakurayama Sengen Park & Oshino Hakkai Tour",
+            "href": "https://www.passforless.com/tokyo-mount-fuji-oshino-hakkai-small-group-tour-12516.html"
+        },
+        {
+            "text": "More activities similar to Page: Upper or Lower Antelope Canyon &...",
+            "href": "https://www.passforless.com/all/city-of-page/product-11997"
+        },
+        {
+            "text": "About Us",
+            "href": "https://www.passforless.com/aboutus.php"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.passforless.com/faq.php"
+        },
+        {
+            "text": "How to Make Extra Payment",
+            "href": "https://www.passforless.com/extra-payment.php"
+        },
+        {
+            "text": "Traveller Reviews",
+            "href": "https://www.passforless.com/reviews"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.passforless.com/contact.php"
+        },
+        {
+            "text": "User Agreement",
+            "href": "https://www.passforless.com/user-agreement.php"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.passforless.com/privacy.php"
+        },
+        {
+            "text": "Google Connectivity Partner",
+            "href": "https://support.google.com/google-ads/answer/13189190?hl=en"
+        },
+        {
+            "text": "Travel USA",
+            "href": "https://www.reddit.com/r/BrandUSA/"
+        },
+        {
+            "text": "New York",
+            "href": "https://www.passforless.com/all/new-york"
+        },
+        {
+            "text": "Las Vegas",
+            "href": "https://www.passforless.com/all/las-vegas"
+        },
+        {
+            "text": "San Francisco",
+            "href": "https://www.passforless.com/all/san-francisco"
+        },
+        {
+            "text": "Orlando",
+            "href": "https://www.passforless.com/all/orlando"
+        },
+        {
+            "text": "San Diego",
+            "href": "https://www.passforless.com/all/san-diego"
+        },
+        {
+            "text": "Chicago",
+            "href": "https://www.passforless.com/all/chicago"
+        },
+        {
+            "text": "Miami",
+            "href": "https://www.passforless.com/all/miami"
+        },
+        {
+            "text": "Seattle",
+            "href": "https://www.passforless.com/all/seattle"
+        },
+        {
+            "text": "Philadelphia",
+            "href": "https://www.passforless.com/all/philadelphia"
+        },
+        {
+            "text": "London",
+            "href": "https://www.passforless.com/all/london"
+        },
+        {
+            "text": "Paris",
+            "href": "https://www.passforless.com/all/paris"
+        },
+        {
+            "text": "Barcelona",
+            "href": "https://www.passforless.com/all/barcelona"
+        },
+        {
+            "text": "Madrid",
+            "href": "https://www.passforless.com/all/madrid"
+        },
+        {
+            "text": "Amsterdam",
+            "href": "https://www.passforless.com/all/amsterdam"
+        },
+        {
+            "text": "Dubai",
+            "href": "https://www.passforless.com/all/dubai"
+        },
+        {
+            "text": "Cancun",
+            "href": "https://www.passforless.com/all/cancun"
+        },
+        {
+            "text": "Bankok",
+            "href": "https://www.passforless.com/all/bangkok"
+        },
+        {
+            "text": "Tokyo",
+            "href": "https://www.passforless.com/all/tokyo"
+        },
+        {
+            "text": "Osaka",
+            "href": "https://www.passforless.com/all/osaka"
+        },
+        {
+            "text": "Empire State Building",
+            "href": "https://www.passforless.com/empire-state-building-tickets-observatory-and-optional-skip-the-line-tickets-tour-322.html"
+        },
+        {
+            "text": "Edge Observation Deck",
+            "href": "https://www.passforless.com/new-york-edge-ticket-tour-11748.html"
+        },
+        {
+            "text": "One World Observatory",
+            "href": "https://www.passforless.com/one-world-observatory-admission-tour-7500.html"
+        },
+        {
+            "text": "Top of the Rock Observatory",
+            "href": "https://www.passforless.com/new-york-top-of-the-rock-observation-deck-ticket-tour-11950.html"
+        },
+        {
+            "text": "Las Vegas High Roller",
+            "href": "https://www.passforless.com/las-vegas-high-roller-ticket-tour-8970.html"
+        },
+        {
+            "text": "Capilano Suspension Bridge Park",
+            "href": "https://www.passforless.com/vancouver-capilano-suspension-bridge-admission-tour-1432.html"
+        },
+        {
+            "text": "SeaWorld San Diego",
+            "href": "https://www.passforless.com/san-diego-seaworld-admission-tour-7239.html"
+        },
+        {
+            "text": "California Academy of Sciences",
+            "href": "https://www.passforless.com/california-academy-of-sciences-night-life-tour-7444.html"
+        },
+        {
+            "text": "Burj Khalifa At the Top",
+            "href": "https://www.passforless.com/dubai-burj-khalifa-at-the-top-tickets-with-the-cafe-tour-12049.html"
+        },
+        {
+            "text": "New York City Attractions",
+            "href": "https://www.passforless.com/go/new-york"
+        },
+        {
+            "text": "NYC Observation Decks",
+            "href": "https://www.passforless.com/all/nyc-observation-decks"
+        },
+        {
+            "text": "Go City®",
+            "href": "https://www.passforless.com/all/go-city"
+        },
+        {
+            "text": "Universal Studio",
+            "href": "https://www.passforless.com/all/universal-studio"
+        },
+        {
+            "text": "Statue of Liberty Cruise",
+            "href": "https://www.passforless.com/go/statue-of-liberty"
+        },
+        {
+            "text": "Antelope Canyon Tours",
+            "href": "https://www.passforless.com/go/antelope-canyon"
+        },
+        {
+            "text": "Six Flags Amusement Park",
+            "href": "https://www.passforless.com/all/six-flags"
+        },
+        {
+            "text": "LEGOLAND",
+            "href": "https://www.passforless.com/all/legoland"
+        },
+        {
+            "text": "Broadway",
+            "href": "https://www.passforless.com/all/broadway"
+        },
+        {
+            "text": "United States",
+            "href": "https://www.passforless.com/all/usa"
+        },
+        {
+            "text": "Canada",
+            "href": "https://www.passforless.com/all/canada"
+        },
+        {
+            "text": "France",
+            "href": "https://www.passforless.com/all/france"
+        },
+        {
+            "text": "Spain",
+            "href": "https://www.passforless.com/all/spain"
+        },
+        {
+            "text": "Netherlands",
+            "href": "https://www.passforless.com/all/netherlands"
+        },
+        {
+            "text": "Japan",
+            "href": "https://www.passforless.com/all/japan"
+        },
+        {
+            "text": "The Middle East",
+            "href": "https://www.passforless.com/all/middle-east"
+        },
+        {
+            "text": "Thailand",
+            "href": "https://www.passforless.com/all/thailand"
+        },
+        {
+            "text": "Tickets, Attraction Pass, Airport Transportation, Bus Tours",
+            "href": "https://www.passforless.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.facebook.com/sharer.php?t=Passforless.com%3A+Find+and+book+tickets%2C+activities+%26+things+to+do%2C+sightseeing+tours%2C+day+trips%2C+museum+pass%2C+city+sightseeing+pass+and+more+for+hundreds+of+destinations+worldwide+at+the+best+online+price+guaranteed.&u=https://www.passforless.com"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/intent/post?text=Passforless.com%3A+Find+and+book+tickets%2C+activities+%26+things+to+do%2C+sightseeing+tours%2C+day+trips%2C+museum+pass%2C+city+sightseeing+pass+and+more+for+hundreds+of+destinations+worldwide+at+the+best+online+price+guaranteed.&url=https://www.passforless.com"
+        },
+        {
+            "text": "User Agreement",
+            "href": "https://www.passforless.com/user-agreement.php"
+        },
+        {
+            "text": "Privacy Notice",
+            "href": "https://www.passforless.com/privacy.php"
+        },
+        {
+            "text": "ALL",
+            "href": "https://www.passforless.com/all"
+        },
+        {
+            "text": "NEW YORK",
+            "href": "https://www.passforless.com/all/new-york"
+        },
+        {
+            "text": "LAS VEGAS",
+            "href": "https://www.passforless.com/all/las-vegas"
+        },
+        {
+            "text": "LOS ANGELES",
+            "href": "https://www.passforless.com/all/los-angeles"
+        },
+        {
+            "text": "ANTELOPE CANYON",
+            "href": "https://www.passforless.com/all/antelope-canyon"
+        },
+        {
+            "text": "SIGN IN",
+            "href": "https://www.passforless.com/signin.php"
+        }
+    ],
+    "text_length": 18118,
+    "text_full": "Email Us\nChat Now\nTickets, City Sightseeing Pass, Transportation, Bus Tours\nTravel Blog\nALL\nNEW YORK\nLAS VEGAS\nLOS ANGELES\nANTELOPE CANYON\nALL\nNEW YORK\nLAS VEGAS\nLOS ANGELES\nANTELOPE CANYON\nHOME\nEXPERIENCES\nCITY OF PAGE\nPAGE: UPPER OR LOWER ANTELOPE CANYON &...\nPage: Upper or Lower Antelope Canyon & Glen Canyon Dam and Horseshoe Bend Tour\n(244 Reviews)\n Code: PG-11997\n Day Tour\n Page\nWhat To Expect\nOverview\nAntelope Canyon tickets are included. One-stop tour, professional Navajo guide drive to visit the three major attractions in Page.\nProfessional guide and best travel planning. The most comfortable way to visit the Upper or Lower or Mountain Sheep Antelope Canyon, Glen Canyon Dam Overlook and Horseshoe Bend.\nPick up and drop off at major hotels in Page by air-conditioned vehicle. For customers arriving on the same day, choose to depart from the Safeway parking lot.\nThe Antelope Canyon in the morning has a better touring experience, due to fewer tourists. And the Prime Time tour to the Canyon will get better sunlight and take nice pictures.\nItinerary\n01\nAntelope Canyon(Upper or Lower or Mountain Sheep Slot Canyon) → Glen Canyon Dam Overlook → Horseshoe Bend\nHorseshoe Bend\nGlen Canyon Dam Overlook\nAntelope Canyon\nCity of Page\nUpper Antelope Canyon\nLower Antelope Canyon\nCanyon X\nHorseshoe Bend\nGlen Canyon Dam Overlook\nAntelope Canyon\nCity of Page\nUpper Antelope Canyon\nLower Antelope Canyon\n\nThis tour is a free shuttle from most hotels in downtown Page. It includes a comfortable air-conditioned Van, professional Navajo guide, bottled water, and warm service, which is the most important.\n\nFirst stop, Antelope Canyon\n\nFor this trip, there are three Antelope Canyons to choose from:\n\nOptional item: Upper Antelope Canyon\n\nThe Upper Antelope Canyon is called Ts bighnln, the place where water runs through rocks' by the Navajo People in that specific area. It is the most frequently visited by tourists because its entrance and entire length are at ground level. And because beams of direct sunlight radiating down from openings at the top of the canyon are much more common. Beams occur most often in summer, as they require the sun to be high in the sky.\n\nOptional item: Lower Antelope Canyon\n\nThe Lower Antelope Canyon, called Hazdistaz, or 'spiral rock arches' by the Navajo, is located several miles from the Upper Antelope Canyon. Prior to the installation of metal stairways, visiting the canyon required climbing pre-installed ladders in certain areas. The lower canyon is in the shape of a \"V\" and shallower than the Upper Antelope. Lighting is better in the early hours and late morning.\n\nOptional item: Mountain Sheep Slot Canyon\n\nOn this particular tour, we will focus on the Mountain Sheep Slot Canyon. This is an off the beaten path trail, lesser known gorge, with a slightly more strenuous hike - which leads to a more private experience than other Slot tours in the area. The canyons are known for their distinctive, undulating walls and its rich, varied colors. It is a popular destination for hikers and photographers, who come to explore its winding corridors and capture its beauty on camera.\n\nThe second stop is Horseshoe Bend.\n\nHorseshoe Bend is a superb example of an entrenched meander. Six million years ago, the region around Horseshoe Bend was much closer to sea level, and the Colorado River was a meandering river with a nearly level floodplain. Between six and five million years ago, the region began to be uplifted. This trapped the Colorado River in its bed, and the river rapidly cut downwards to produce Horseshoe Bend as we see it today.\n\nThe last stop: Glen Canyon Dam Overlook\n\nA short hike down a set of rock-carved stairs leads to this viewpoint on the rim of the river & dam. This short walk takes you to a viewpoint on the canyon rim high above the Colorado River. It affords an unparalleled view of the river, the canyon, and Glen Canyon Dam. This scenic view provides spectacular vistas of the Colorado River as it flows through Glen Canyon and of Glen Canyon Dam itself. From the parking area, follow the metal handrail down the uneven rock steps.\n\nFinally, we will drive you back to your hotel to finish this pleasant half day tour.\n\n Bottle of water\n Page hotel free shuttle\n Things to Know\nPlease note that the Upper Antelope, Lower Antelope, and Mountain Sheep Canyon, can only choose one of the three.\nPackages\nUpper Canyon Morning Tour\n8:15-8:30AM Pick up\nAdult\n$230\nChild\nSame as Adult\nCanyon X Morning Tour\n7.40AM-8.00AM Pick up\nAdult\n$190\nChild\nSame as Adult\nLower Canyon Morning Tour\n8:00AM-8:15AM Pick up\nAdult\n$190\nChild\nSame as Adult\nCanyon X Prime Time Tour\n10:15-10:30AM Pick up\nAdult\n$200\nChild\nSame as Adult\nUpper Canyon Prime Time Tour\n10:15AM-10:30AM Pick up\nAdult\n$230\nChild\nSame as Adult\nLower Canyon Prime Time Tour\n10:15AM-10:30AM Pick up\nAdult\n$200\nChild\nSame as Adult\nPick Up/Drop Off Information\nPick Up\nLocation\tTime\tAddress\n[Notices] Please reconfirm the pickup point.\nIt is recommended that you choose Safeway or a nearby hotel to pick up if your hotel is not on the list. Hotels that do not offer pick-up : Lake Powell Resort, Antelope Point RV Park, Antelope Canyon Inn\n\t\t650 Elm St, Page, AZ 86040\nSafeway (Left of the main entrance)\nPlease select this point, if you arrive on Page that day. Please wait to the left of the Safeway main entrance, not in your own car. Pick-up vehicles are marked with the RoamingNavajo logo.\n\t\t650 Elm St, Page, AZ 86040\nBaymont by Wyndham Page Lake Powell\t\t677 Scenic View Rd, Page, AZ 86040, United States\nBest Western Plus at Lake Powell\t\t208 N Lake Powell Blvd, Page, AZ 86040, United States\nBest Western View Of Lake Powell Hotel\t\t716 Rim View Dr, Page, AZ 86040, United States\nClarion Inn Page - Lake Powell\t\t751 S Navajo Dr, Page, AZ 86040, United States\n1\n2\n3\n4\nThings to Know\nIncluded/Exclude\nAntelope Canyon tickets based on your selected\nNavajo National Permit Fee and Tax\nProfessional Navajo guide\n15 seater air-conditioned shuttle pick up from Page hotel\nBottle of water\n\n\nTip suggested, $10 per person\nCar seat rental(Upper Antelope Canyon Mandatory Requirements) USD10/piece or bring your own\nBooking and Confirmation Process\nOperator: Roaming Navajo\nBooking normally confirmed within 5 minutes if available. In the unlikely event that the inventory runs out, we will send you a cancellation notice and a full refund will be issued shortly. Please check your email.\nYou will receive your booking information instantly via email. In the event that you do not receive our email, please check your spam folder, or log into your User Center to check your order status and download your voucher when available.\nHow To Use\nYour tour guide will contact you before 8pm the day before departure, to double confirm pickup location and time. If you don't receive a call or SMS, please contact us.\nThe time to enter Antelope Canyon may be adjusted in advance or delayed by 30 minutes, depending on the capacity of the day.\nPlease wait for the vehicle at the hotel/departure point 5 minutes in advance. The LOGO on the white vehicle is Roaming Navajo.\nHorseshoe Bend will be closed from November 3, 2025, to November 6, 2025. During this period, the half-day tours to Antelope Canyon will cancel the Horseshoe Bend stop. The full-day tours to Antelope Canyon will replace the original Horseshoe Bend itinerary with a visit to Glen Canyon Dam. The tour price will remain unchanged during this period.\nTerms & Conditions\nWhat is the cancellation policy?\nCancellation Period\nPolicy\n4 or more days prior to tour departure date\nRefund 95% payment\n3 days prior to tour departure date\nNon-refundable\nWhat if you miss the appointed time or departure date?\n\nOnce the booking is confirmed, an absence or failure to show up on the scheduled date or time is a no-show. No refunds or reschedules will be issued for no-shows and late arrivals.\n\nOther important information\nAntelope Canyon will abide by Park Management Department guidelines. Failure to adhere to guidelines set forth will result in forfeiting your Tour and removal from the premises. NO REFUNDS WILL BE GIVEN IN THIS SITUATION!\nAnimals of any kind (including service animals) are NOT allowed on the tour.\nDue to our location, we are unable to accommodate guests with wheelchairs and apologize for this inconvenience.\nNot recommended for pregnant travelers. Not recommended for travelers with back problems. No heart problems or other serious medical conditions.\nFor Upper Canyon. Visitors along with children/infants must bring own car seats and install on shuttle vehicles. 10 dollars per piece, if we provide.\nReviews Scores\n244\n\nReviews\n\n5\n\nKe********ck\nApr 13 2026\n\nExcellent tour guide and tour company! If you are on the fence and can’t decide if you want to take this tour TAKE IT! The canons are gorgeous and our tour guide Sonny was very informative even spent extra time showing us the process of how the canons transform by the weather with sand and water.\n\nKr***********ik\nFeb 6 2026\n\nBooking process was straight forward on the website. I did have one question and used the live chat and my question was quickly answered and direct link provided for what I wanted to book. Easy peasy... can't wait for my tour!!!\n\nAn*************ch\nNov 26 2025\n\nTruly breathtaking\n\nJa*********er\nNov 22 2025\n\nWe were blown away by the views Lower Antelope Canyon, Horsehoe Bend, and the Glen Canyon Dam had to offer us!! The only critique we have is that the overall tour of Lower Antelope Canyon could’ve been a little less rushed. We were in group 1 and we are a group of 3 girls who love photos, but we kept getting told to keep up with the group. Overall an amazing tour.\n\nTi*****la\nOct 18 2025\n\nRyan was amazing. Really appreciated learning about Navajo culture and history. He was very gracious in answering our questions. We appreciate him taking pictures of us I. The most photogenic spots. Will definitely recommend this tour.\n\nSt******ry\nJul 15 2025\n\nEasy process.\n\nIv**************es\nJun 26 2025\n\nIt was so good, we got to see some of the coolest spots here in Page, Horseshoe Bend, Glen Powel Dam, and the Anthelope Canyons, absolutely amazing The guide took some amazing picture of us, it was a very cool tour and would recommend to anyone, very kind tour guide as well and he know a lot!\n\nMe*********or\nJun 19 2025\n\nOur driver/guide Ryan was very friendly and knowledgeable. We had a great time touring Upper Antelope Canyon, Glen Canyon Dam, and Horseshoe bend.\n\nRi*******er\nApr 21 2025\n\nFantastic trip. Our guide Keanu was very well informed and taught us a lot. The transportation was well arranged. We had a great time!\n\nAm*********am\nApr 13 2025\n\nOur guide, Wyatt from Roaming Navajo tours was outstanding! Kind, considerate, and a talented photographer! Our photos were stunning!\n\nRead all 244 reviews\nKEEP PLANNING\nActivities You May Also Like\n\nThese nearby or similar experiences usually make the strongest next click after this product.\n\nLas Vegas: Upper or Lower Antelope Canyon, Horseshoe Bend Day Tour (14 People Small Tour & Lunch)\n\nfrom $179.55\n\nLas Vegas: Antelope Canyon (Upper or Lower or X), Horseshoe Bend Tour With Lunch\n\nfrom $209\n\nShiraito Falls, Raizansennyoji & Fukuoka Tower Bus Tour from Fukuoka\n\nfrom $67\n\n[Small Groups] Mt. Fuji Tours to Lake Kawaguchiko and Yamanakako Onsen English Guide\n\nfrom $59.2\n\n[Small Groups] Arakurayama Sengen Park, Oshino Hakkai and Lake Kawaguchiko Day Trip\n\nfrom $70.16\n\n[Small Groups] Kamakura Full Day Tour: Kotoku-in & Enoshima & Hachimangu Shrine\n\nfrom $57.65\n\n[Small Groups]Tokyo Mt. Fuji Hakone Shrine, Owakudani, Lake Yamanakako Day Tour\n\nfrom $74.88\n\n[Small Groups] Osaka/Kyoto: Kiyomizu-dera Temple,Fushimi-Inari Taisha Shrine, Nara Park Cute Deer 1 Day Trip\n\nfrom $59.12\n\n[Small Groups] Mt Fuji 5th Station/Arakurayama Sengen Park & Oshino Hakkai Tour\n\nfrom $59.2\n\nMore activities similar to Page: Upper or Lower Antelope Canyon &...\nIncl. Tax\n\nfrom $190\n\nBOOK NOW\nLatest Review\n\nKe********ck\nApr 13 2026\nWhen would you like to go?\ntoday\nMay 2026\nSun\tMon\tTue\tWed\tThu\tFri\tSat\n\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n1\n\t\n2\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n3\n\t\n4\n\t\n5\n\t\n6\n\t\n7\n\t\n8\n\t\n9\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n10\n\t\n11\n\t\n12\n\t\n13\n\t\n14\n\t\n15\n\t\n16\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n17\n\t\n18\n\t\n19\n\t\n20\n\t\n21\n\t\n22\n$230\n\t\n23\n$230\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n24\n$230\n\t\n25\n$230\n\t\n26\n$230\n\t\n27\n$230\n\t\n28\n$230\n\t\n29\n$230\n\t\n30\n$230\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n31\n$230\n\t\t\t\t\t\t\n\t\t\t\t\t\t\nNumber of Travelers\nAdult\nChild\nChildren of all ages are charged the same rate as adults\nPackages\nUpper Canyon Morning Tour\n8:15-8:30AM Pick up\nAdult\n$230.00\nChild\nSame as Adult\nCanyon X Morning Tour\n7.40AM-8.00AM Pick up\nAdult\n$190.00\nChild\nSame as Adult\nLower Canyon Morning Tour\n8:00AM-8:15AM Pick up\nAdult\n$190.00\nChild\nSame as Adult\nCanyon X Prime Time Tour\n10:15-10:30AM Pick up\nAdult\n$200.00\nChild\nSame as Adult\nUpper Canyon Prime Time Tour\n10:15AM-10:30AM Pick up\nAdult\n$230.00\nChild\nSame as Adult\nLower Canyon Prime Time Tour\n10:15AM-10:30AM Pick up\nAdult\n$200.00\nChild\nSame as Adult\nTraveler Details\nInformation we need to confirm your tour or activity\nPhone Number\nWe’ll contact you with key updates on your tour or activity\nArgentina (+54)\nAustralia (+61)\nAustria (+43)\nBangladesh (+880)\nBelgium (+32)\nCanada (+1)\nChina (+86)\nCzech Republic (+420)\nDenmark (+45)\nFinland (+358)\nFrance (+33)\nGermany (+49)\nGreece (+30)\nHong Kong (+852)\nHungary (+36)\nIndia (+91)\nIndonesia (+62)\nIreland (+353)\nIsrael (+972)\nItaly (+39)\nJapan (+81)\nKorea (+82)\nLuxembourg (+352)\nMacao (+853)\nMalaysia (+60)\nMexico (+52)\nNetherlands (+31)\nNew Zealand (+64)\nNorway (+47)\nPakistan (+92)\nPhilippines (+63)\nPoland (+48)\nPortugal (+351)\nRussia (+7)\nSingapore (+65)\nSpain (+34)\nSweden (+46)\nSwitzerland (+41)\nTaiwan (+886)\nThailand (+66)\nUK (+44)\nUSA (+1)\nOther\nChoose a Pickup Location\n[Notices] Please reconfirm the pickup point.\n 650 Elm St, Page, AZ 86040\nIt is recommended that you choose Safeway or a nearby hotel to pick up if your hotel is not on the list. Hotels that do not offer pick-up : Lake Powell Resort, Antelope Point RV Park, Antelope Canyon Inn\nSafeway (Left of the main entrance)\n 650 Elm St, Page, AZ 86040\nPlease select this point, if you arrive on Page that day. Please wait to the left of the Safeway main entrance, not in your own car. Pick-up vehicles are marked with the RoamingNavajo logo.\nBaymont by Wyndham Page Lake Powell\n 677 Scenic View Rd, Page, AZ 86040, United States\nBest Western Plus at Lake Powell\n 208 N Lake Powell Blvd, Page, AZ 86040, United States\nBest Western View Of Lake Powell Hotel\n 716 Rim View Dr, Page, AZ 86040, United States\nClarion Inn Page - Lake Powell\n 751 S Navajo Dr, Page, AZ 86040, United States\nComfort Inn & Suites Page at Lake Powell\n 890 Haul Rd, Page, AZ 86040, United States\nCourtyard by Marriott Page at Lake Powell\n 600 Clubhouse Dr, Page, AZ 86040, United States\nDays Inn & Suites by Wyndham Page Lake Powell\n 961 US-89, Page, AZ 86040, United States\nHampton Inn & Suites Page - Lake Powell\n 294 Sandhill Rd, Page, AZ 86040, United States\nHoliday Inn Express & Suites Page - Lake Powell Area\n 643 S Lake Powell Blvd, Page, AZ 86040, United States\nHome2 Suites by Hilton Page Lake Powell\n 681 Scenic View Rd, Page, AZ 86040, United States\nHyatt Place Page/Lake Powell\n 1126 N Navajo Dr, Page, AZ 86040, United States\nKnights Inn Page\n 121 S Lake Powell Blvd, Page, AZ 86040, United States\nLa Quinta Inn & Suites Page at Lake Powell\n 70 Kaibab Rd, Page, AZ 86040, United States\nMotel 6 Page, AZ\n 637 S Lake Powell Blvd, Page, AZ 86040, United States\nQuality Inn View Of Lake Powell\n 287 N Lake Powell Blvd, Page, AZ 86040, United States\nRodeway Inn at Lake Powell\n 107 S Lake Powell Blvd, Page, AZ 86040, United States\nSleep Inn & Suites Page At Lake Powell\n 673 Scenic View Rd, Page, AZ 86040, United States\nSuper 8 by Wyndham Page/Lake Powell\n 649 S Lake Powell Blvd, Page, AZ 86040, United States\nTravel Lodge by Wyndham Page\n 207 N Lake Powell Blvd, Page, AZ 86040, United States\nWingate by Wyndham Page Lake Powell\n 671 Scenic View Rd, Page, AZ 86040, United States\nCountry Inn Suites by Radisson in Page\n 880 Haul Rd, Page, AZ 86040\nSpecial Requirements\nBooking Review\nProduct\n[PG-11997] Page: Upper or Lower Antelope Canyon & Glen Canyon Dam and Horseshoe Bend Tour\nDeparture Date\nedit\nPackage\nedit\nPickup Location\nedit\nTravellers\nedit\nPhone Number\nedit\nSpecial Requirements\nedit\n$-.--\nEstimated Price (Incl. Tax)\nNext\n\nUnlock bucket-list adventures at unbeatable prices! With Passforless®, you gain access to the world’s most iconic attractions and experiences — all at incredible rates, delivered in seconds. We connect straight to the venues via API so you can book in moments and dive into your next adventure with ease. Discover more, spend smarter, and make every moment count.\n\nCompany\nAbout Us\nFAQ\nHow to Make Extra Payment\nTraveller Reviews\nContact Us\nPolicies\nUser Agreement\nPrivacy Policy\nPartners\nGoogle Connectivity Partner\nTravel USA\nTop destinations\nNew York     Las Vegas\nSan Francisco     Orlando\nSan Diego     Chicago\nMiami     Seattle\nPhiladelphia     London\nParis     Barcelona\nMadrid     Amsterdam\nDubai     Cancun\nBankok     Tokyo\nOsaka\nMost popular attractions\nEmpire State Building\nEdge Observation Deck\nOne World Observatory\nTop of the Rock Observatory\nLas Vegas High Roller\nCapilano Suspension Bridge Park\nSeaWorld San Diego\nCalifornia Academy of Sciences\nBurj Khalifa At the Top\nPopular on Passforless@\nNew York City Attractions\nNYC Observation Decks\nGo City®\nUniversal Studio\nStatue of Liberty Cruise\nAntelope Canyon Tours\nSix Flags Amusement Park\nLEGOLAND\nBroadway\nTop countries to visit\nUnited States\nCanada\nFrance\nSpain\nNetherlands\nJapan\nThe Middle East\nThailand\n\n@ All copyright 2026, Tickets, Attraction Pass, Airport Transportation, Bus Tours Reserved\n\nALL\nNEW YORK\nLAS VEGAS\nLOS ANGELES\nANTELOPE CANYON\nSIGN IN\n\nUnlock bucket-list adventures at unbeatable prices! With Passforless®, you gain access to the world’s most iconic attractions and experiences — all at incredible rates, delivered in seconds. We connect straight to the venues via API so you can book in moments and dive into your next adventure with ease. Discover more, spend smarter, and make every moment count.\n\nEmail Us\nChat Now"
+}

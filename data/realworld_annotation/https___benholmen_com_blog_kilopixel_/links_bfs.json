@@ -1,0 +1,47 @@
+{
+  "start_url": "https://benholmen.com/blog/kilopixel",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://benholmen.com/blog/kilopixel",
+    "https://benholmen.com/",
+    "https://benholmen.com/blog/kilopixel-season-1/",
+    "https://benholmen.com/blog/pairing-magic/",
+    "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/",
+    "https://benholmen.com/blog/defragment-your-phpunit-tests/",
+    "https://benholmen.com/blog/a-photo-a-day/",
+    "https://benholmen.com/blog/howtall.is/",
+    "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/",
+    "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/",
+    "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/",
+    "https://benholmen.com/blog/",
+    "https://benholmen.com/blog/building-kilopixel/",
+    "https://benholmen.com/blog/2/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://benholmen.com/blog/kilopixel"
+    ],
+    "1": [
+      "https://benholmen.com/",
+      "https://benholmen.com/blog/kilopixel-season-1/",
+      "https://benholmen.com/blog/pairing-magic/",
+      "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/",
+      "https://benholmen.com/blog/defragment-your-phpunit-tests/"
+    ],
+    "2": [
+      "https://benholmen.com/blog/a-photo-a-day/",
+      "https://benholmen.com/blog/howtall.is/",
+      "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/",
+      "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/",
+      "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/",
+      "https://benholmen.com/blog/"
+    ],
+    "3": [
+      "https://benholmen.com/blog/building-kilopixel/",
+      "https://benholmen.com/blog/2/"
+    ]
+  },
+  "dead_links": []
+}

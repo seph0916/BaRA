@@ -1,0 +1,82 @@
+{
+  "start_url": "https://news.ycombinator.com/newsguidelines.html",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://news.ycombinator.com/newsguidelines.html",
+    "http://www.ycombinator.com/",
+    "https://news.ycombinator.com/formatdoc",
+    "https://news.ycombinator.com/newsfaq.html",
+    "https://news.ycombinator.com/item",
+    "https://www.ycombinator.com/",
+    "https://www.ycombinator.com/about",
+    "https://www.ycombinator.com/apply",
+    "https://www.ycombinator.com/interviews",
+    "https://www.ycombinator.com/faq",
+    "https://news.ycombinator.com/newpoll",
+    "https://news.ycombinator.com/ask",
+    "https://news.ycombinator.com/show"
+  ],
+  "by_depth": {
+    "0": [
+      "https://news.ycombinator.com/newsguidelines.html"
+    ],
+    "1": [
+      "http://www.ycombinator.com/",
+      "https://news.ycombinator.com/formatdoc",
+      "https://news.ycombinator.com/newsfaq.html",
+      "https://news.ycombinator.com/item"
+    ],
+    "2": [
+      "https://www.ycombinator.com/",
+      "https://www.ycombinator.com/about",
+      "https://www.ycombinator.com/apply",
+      "https://www.ycombinator.com/interviews",
+      "https://www.ycombinator.com/faq",
+      "https://news.ycombinator.com/newpoll",
+      "https://news.ycombinator.com/ask",
+      "https://news.ycombinator.com/show",
+      "https://news.ycombinator.com/showhn.html",
+      "https://news.ycombinator.com/newest"
+    ],
+    "3": [
+      "https://www.ycombinator.com/people",
+      "https://www.ycombinator.com/blog",
+      "https://www.ycombinator.com/companies",
+      "https://www.ycombinator.com/founders",
+      "https://www.ycombinator.com/launches",
+      "https://www.ycombinator.com/library",
+      "https://www.ycombinator.com/partners",
+      "https://www.ycombinator.com/subscribe",
+      "https://www.ycombinator.com/rfs",
+      "https://www.ycombinator.com/investors",
+      "https://www.ycombinator.com/verify",
+      "https://news.ycombinator.com/",
+      "https://bookface.ycombinator.com/",
+      "https://www.ycombinator.com/documents",
+      "https://www.ycombinator.com/cofounder-matching",
+      "https://www.ycombinator.com/jobs",
+      "https://account.ycombinator.com/",
+      "https://www.ycombinator.com/blog/tips-for-yc-interviews",
+      "https://www.ycombinator.com/demoday",
+      "https://deals.ycombinator.com/",
+      "https://www.ycombinator.com/deal",
+      "https://www.ycombinator.com/early-decision",
+      "https://www.ycombinator.com/whynot",
+      "https://www.ycombinator.com/careers",
+      "https://account.ycombinator.com?continue=https%3A%2F%2Fapply.ycombinator.com%2Fapp%2Fedit",
+      "https://news.ycombinator.com/news",
+      "https://news.ycombinator.com/front",
+      "https://news.ycombinator.com/newcomments",
+      "https://news.ycombinator.com/jobs",
+      "https://news.ycombinator.com/submit",
+      "https://news.ycombinator.com/shownew",
+      "https://news.ycombinator.com/vote",
+      "https://news.ycombinator.com/from",
+      "https://news.ycombinator.com/user",
+      "https://news.ycombinator.com/show?p=2"
+    ]
+  },
+  "dead_links": []
+}

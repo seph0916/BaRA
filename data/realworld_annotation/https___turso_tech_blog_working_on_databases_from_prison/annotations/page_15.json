@@ -1,0 +1,332 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-light.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=089d09358d8f5a3e3815861a7419a616",
+        "https://mintcdn.com/turso/0gN7SecUGL1uVO9v/logo/turso-dark.svg?fit=max&auto=format&n=0gN7SecUGL1uVO9v&q=85&s=2946b82b1620bb2c7839f85d7e2e113b",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=165f61d1-5df3-409e-94d6-b4e931ec8b3e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=3f8a7af1-4628-4981-bd74-6642d54f0bbf&pt=Turso%20SDKs%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fsdk%2Fintroduction&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342496398.105195840374824462&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=165f61d1-5df3-409e-94d6-b4e931ec8b3e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=3f8a7af1-4628-4981-bd74-6642d54f0bbf&pt=Turso%20SDKs%20-%20Turso&tw_document_href=https%3A%2F%2Fdocs.turso.tech%2Fsdk%2Fintroduction&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342496398.105195840374824462&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 79,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://docs.turso.tech/sdk/introduction#content-area"
+        },
+        {
+            "text": "Turso home page",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://turso.tech/app"
+        },
+        {
+            "text": "tursodatabase/turso18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "tursodatabase/turso\n18,893",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Turso Database (beta)",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Turso Cloud",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "AgentFS (beta)",
+            "href": "https://docs.turso.tech/agentfs/introduction"
+        },
+        {
+            "text": "Turso Homepage",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/turso-cloud"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/quickstart"
+        },
+        {
+            "text": "Local Development",
+            "href": "https://docs.turso.tech/local-development"
+        },
+        {
+            "text": "libSQL",
+            "href": "https://docs.turso.tech/libsql"
+        },
+        {
+            "text": "Limitations",
+            "href": "https://docs.turso.tech/cloud/limitations"
+        },
+        {
+            "text": "Migrate to Turso",
+            "href": "https://docs.turso.tech/cloud/migrate-to-turso"
+        },
+        {
+            "text": "Durability Guarantees",
+            "href": "https://docs.turso.tech/cloud/durability"
+        },
+        {
+            "text": "Private Endpoints",
+            "href": "https://docs.turso.tech/cloud/private-endpoints"
+        },
+        {
+            "text": "BYOK Encryption",
+            "href": "https://docs.turso.tech/cloud/encryption"
+        },
+        {
+            "text": "Usage & Billing",
+            "href": "https://docs.turso.tech/help/usage-and-billing"
+        },
+        {
+            "text": "AI & Embeddings",
+            "href": "https://docs.turso.tech/features/ai-and-embeddings"
+        },
+        {
+            "text": "Branching",
+            "href": "https://docs.turso.tech/features/branching"
+        },
+        {
+            "text": "Point-in-Time Recovery",
+            "href": "https://docs.turso.tech/features/point-in-time-recovery"
+        },
+        {
+            "text": "SQLite Extensions",
+            "href": "https://docs.turso.tech/features/sqlite-extensions"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/sdk/introduction"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://docs.turso.tech/sdk/authentication"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/cli/introduction"
+        },
+        {
+            "text": "Installation",
+            "href": "https://docs.turso.tech/cli/installation"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://docs.turso.tech/cli/authentication"
+        },
+        {
+            "text": "Upgrading",
+            "href": "https://docs.turso.tech/cli/upgrading"
+        },
+        {
+            "text": "Help",
+            "href": "https://docs.turso.tech/cli/help"
+        },
+        {
+            "text": "Headless Mode",
+            "href": "https://docs.turso.tech/cli/headless-mode"
+        },
+        {
+            "text": "Introduction",
+            "href": "https://docs.turso.tech/api-reference/introduction"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/api-reference/quickstart"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://docs.turso.tech/api-reference/authentication"
+        },
+        {
+            "text": "Errors",
+            "href": "https://docs.turso.tech/api-reference/response-codes"
+        },
+        {
+            "text": "Vercel",
+            "href": "https://docs.turso.tech/integrations/vercel"
+        },
+        {
+            "text": "Which package should I use?",
+            "href": "https://docs.turso.tech/sdk/introduction#which-package-should-i-use"
+        },
+        {
+            "text": "Why multiple packages in TypeScript?",
+            "href": "https://docs.turso.tech/sdk/introduction#why-multiple-packages-in-typescript"
+        },
+        {
+            "text": "Official SDKs",
+            "href": "https://docs.turso.tech/sdk/introduction#official-sdks"
+        },
+        {
+            "text": "Community SDKs",
+            "href": "https://docs.turso.tech/sdk/introduction#community-sdks"
+        },
+        {
+            "text": "SQL over HTTP",
+            "href": "https://docs.turso.tech/sdk/introduction#sql-over-http"
+        },
+        {
+            "text": "https://docs.turso.tech/llms.txt",
+            "href": "https://docs.turso.tech/llms.txt"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/sdk/introduction#which-package-should-i-use"
+        },
+        {
+            "text": "Turso Sync",
+            "href": "https://docs.turso.tech/sync/usage"
+        },
+        {
+            "text": "libSQL",
+            "href": "https://github.com/tursodatabase/libsql"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/sdk/introduction#why-multiple-packages-in-typescript"
+        },
+        {
+            "text": "Turso Sync",
+            "href": "https://docs.turso.tech/sync/usage"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/sdk/introduction#official-sdks"
+        },
+        {
+            "text": "TypeScript",
+            "href": "https://docs.turso.tech/sdk/ts/quickstart"
+        },
+        {
+            "text": "Rust",
+            "href": "https://docs.turso.tech/sdk/rust/quickstart"
+        },
+        {
+            "text": "Go",
+            "href": "https://docs.turso.tech/sdk/go/quickstart"
+        },
+        {
+            "text": "Python",
+            "href": "https://docs.turso.tech/sdk/python/quickstart"
+        },
+        {
+            "text": "Android",
+            "href": "https://docs.turso.tech/sdk/kotlin/quickstart"
+        },
+        {
+            "text": "Swift",
+            "href": "https://docs.turso.tech/sdk/swift/quickstart"
+        },
+        {
+            "text": "PHP",
+            "href": "https://docs.turso.tech/sdk/php/quickstart"
+        },
+        {
+            "text": "Ruby",
+            "href": "https://docs.turso.tech/sdk/ruby/quickstart"
+        },
+        {
+            "text": "Ruby on Rails",
+            "href": "https://docs.turso.tech/sdk/activerecord/guides/rails"
+        },
+        {
+            "text": "C",
+            "href": "https://docs.turso.tech/sdk/c/quickstart"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/sdk/introduction#community-sdks"
+        },
+        {
+            "text": "Flutter / Dart",
+            "href": "https://docs.turso.tech/sdk/flutter/quickstart"
+        },
+        {
+            "text": "Capacitor",
+            "href": "https://capawesome.io/plugins/libsql"
+        },
+        {
+            "text": "React Native / OP-SQLite",
+            "href": "https://op-engineering.github.io/op-sqlite/"
+        },
+        {
+            "text": "Laravel",
+            "href": "https://github.com/richan-fongdasen/turso-laravel"
+        },
+        {
+            "text": ".NET",
+            "href": "https://github.com/tvandinther/libsql-client-dotnet"
+        },
+        {
+            "text": "Java",
+            "href": "https://github.com/dbeaver/dbeaver-jdbc-libsql"
+        },
+        {
+            "text": "Stateless libSQL",
+            "href": "https://github.com/DaBigBlob/libsql-stateless-easy"
+        },
+        {
+            "text": "​",
+            "href": "https://docs.turso.tech/sdk/introduction#sql-over-http"
+        },
+        {
+            "text": "SQL over HTTP",
+            "href": "https://docs.turso.tech/sdk/http/quickstart"
+        },
+        {
+            "text": "Suggest edits",
+            "href": "https://github.com/tursodatabase/turso-docs/edit/main/sdk/introduction.mdx"
+        },
+        {
+            "text": "Raise issue",
+            "href": "https://github.com/tursodatabase/turso-docs/issues/new?title=Issue%20on%20docs&body=Path:%20/sdk/introduction"
+        },
+        {
+            "text": "Data Edge (Deprecated)",
+            "href": "https://docs.turso.tech/features/data-edge"
+        },
+        {
+            "text": "Authentication",
+            "href": "https://docs.turso.tech/sdk/authentication"
+        },
+        {
+            "text": "discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "github",
+            "href": "https://github.com/tursodatabase"
+        },
+        {
+            "text": "twitter",
+            "href": "https://twitter.com/tursodatabase"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "Powered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform",
+            "href": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=turso"
+        }
+    ],
+    "text_length": 3617,
+    "text_full": "Skip to main content\nTurso home page\nSearch...\nCtrl K\nDashboard\ntursodatabase/turso\n18,893\nTurso Database (beta)\nTurso Cloud\nAgentFS (beta)\nTurso Homepage\nDiscord\nGitHub\nTurso Cloud\nIntroduction\nQuickstart\nLocal Development\nlibSQL\nLimitations\nMigrate to Turso\nDurability Guarantees\nPrivate Endpoints\nBYOK Encryption\nUsage & Billing\nAI & Embeddings\nEmbedded Replicas\nBranching\nPoint-in-Time Recovery\nSQLite Extensions\nDeprecated\nSDKs\nIntroduction\nAuthentication\nAuthorization\nSQL over HTTP\nOfficial SDKs\nCommunity SDKs\nCLI\nIntroduction\nInstallation\nAuthentication\nUpgrading\nHelp\nHeadless Mode\nCommands\nAPI Reference\nIntroduction\nQuickstart\nAuthentication\nErrors\nResources\nIntegrations\nVercel\nOn this page\nWhich package should I use?\nWhy multiple packages in TypeScript?\nOfficial SDKs\nCommunity SDKs\nSQL over HTTP\nSDKs\nTurso SDKs\nCopy page\nDocumentation Index\n\nFetch the complete documentation index at: https://docs.turso.tech/llms.txt\n\nUse this file to discover all available pages before exploring further.\n\n​\nWhich package should I use?\nUse case\tTypeScript\tPython\tGo\tRust\nLocal database (embedded, on-device, offline)\t@tursodatabase/database\tpyturso\ttursogo\tturso\nLocal database + cloud sync (push/pull)\t@tursodatabase/sync\tpyturso (with sync)\ttursogo (with sync)\tturso (with sync feature)\nRemote access (servers, Docker, serverless, edge — any over-the-wire)\t@tursodatabase/serverless\tlibsql\tlibsql-client-go\tlibsql (with remote feature)\nlibSQL — ORM support (Drizzle, Prisma), production-ready, battle-tested\t@libsql/client\tlibsql\tgo-libsql\tlibsql\nStarting a new project? Use @tursodatabase/database (TypeScript), pyturso (Python), tursogo (Go), or turso (Rust). These are built on the Turso Database engine — the ground-up rewrite of SQLite with concurrent writes, async I/O, and local-first sync.\nNeed sync? Use Turso Sync for local reads and writes with explicit push() / pull() to Turso Cloud.\nUsing an ORM (Drizzle, Prisma)? Use @libsql/client — it has production-ready support from all major ORMs in the ecosystem.\nMigrating from SQLite? Turso Database is a drop-in replacement. Your existing SQL, schema, and queries work unchanged.\nAlready using @libsql/client, libsql, or go-libsql? These packages are built on libSQL, the open-source fork of SQLite that powers Turso Cloud today. They are production-ready and battle-tested. If your workload needs concurrent writes, push/pull sync, or local-first writes (offline / multi-writer / bidirectional), the Turso Database packages are also a good choice — pick the one that fits your workload.\n​\nWhy multiple packages in TypeScript?\nKeeping @tursodatabase/database and @tursodatabase/serverless separate means minimal bundle size. @tursodatabase/serverless uses only fetch — zero native dependencies, so it works in Node.js, Docker containers, serverless functions, edge runtimes, and browsers.\nNeed sync? For new projects, use Turso Sync — it gives you local reads and writes with explicit push() / pull() to the cloud. The libSQL-based SDKs below also support Embedded Replicas, where reads are local and writes are sent to the cloud primary.\n​\nOfficial SDKs\nTypeScript\nRust\nGo\nPython\nAndroid\nSwift\nPHP\nRuby\nRuby on Rails\nC\n​\nCommunity SDKs\nThese SDKs are community-driven and don’t come with official Turso support.\nFlutter / Dart\nCapacitor\nReact Native / OP-SQLite\nLaravel\n.NET\nJava\nStateless libSQL\n​\nSQL over HTTP\nSQL over HTTP\n\nWas this page helpful?\n\nYes\nNo\nSuggest edits\nRaise issue\nData Edge (Deprecated)\nAuthentication\ndiscord\ngithub\ntwitter\nlinkedin\nPowered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform"
+}

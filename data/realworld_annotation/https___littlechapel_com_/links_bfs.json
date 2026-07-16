@@ -1,0 +1,15 @@
+{
+  "start_url": "https://littlechapel.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://littlechapel.com/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://littlechapel.com/"
+    ]
+  },
+  "dead_links": []
+}

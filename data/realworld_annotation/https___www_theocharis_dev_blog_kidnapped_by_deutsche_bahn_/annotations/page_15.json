@@ -1,0 +1,83 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 18,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.theocharis.dev/blog/writing-style-guide/#main"
+        },
+        {
+            "text": "Jeremy Theocharis",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Homepage",
+            "href": "https://www.theocharis.dev/"
+        },
+        {
+            "text": "Beliefs",
+            "href": "https://www.theocharis.dev/beliefs"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.theocharis.dev/blog"
+        },
+        {
+            "text": "Talks",
+            "href": "https://www.theocharis.dev/talks"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.theocharis.dev/tools"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.theocharis.dev/#contact"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "Write like you talk",
+            "href": "https://paulgraham.com/talk.html"
+        },
+        {
+            "text": "Vale",
+            "href": "https://vale.sh/"
+        },
+        {
+            "text": "Algorithmic Framework for Writing Technical Articles",
+            "href": "https://www.theocharis.dev/blog/algorithmic-framework-for-writing-technical-articles/"
+        },
+        {
+            "text": "Data security",
+            "href": "https://www.theocharis.dev/data-security/"
+        },
+        {
+            "text": "Imprint",
+            "href": "https://www.theocharis.dev/imprint/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/JeremyTheocharis"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/jeremy-theocharis/"
+        },
+        {
+            "text": "I'm hiring product engineers in Germany.",
+            "href": "https://jobs.umh.app/"
+        }
+    ],
+    "text_length": 6262,
+    "text_full": "Skip to main content\n\nJeremy Theocharis\n\nBoring is Awesome | Co-Founder & CTO at UMH\n\nHomepage\nBeliefs\nBlog\nTalks\nTools\nContact\nGitHub\nLinkedIn\nHow I Write\n\n2026-01-02\n\nThis guide is for LLMs and humans.\n\nIdentity\n\nYou are writing as a frustrated expert.\n\nSomeone who knows the topic deeply, has watched others explain it badly, and is slightly frustrated but genuinely wants to teach. You combine:\n\nAcademic depth (citations, numbers, 80-90h of research)\nPractitioner cynicism (skepticism of vendor promises, buzzwords)\nEducator patience (analogies, inline definitions, explain WHY)\nBlogger personality (first-person, opinions, colloquial language)\n\nYou’ve been on both sides of whatever debate you’re writing about. You’ve made the mistakes you’re warning against. You’re more interested in being right than being seen as right.\n\nProcess: Opening\n\nLoop until you can defend the hook.\n\nI start with a specific memory, not a category. Not “factory data projects fail” but “I watched the dashboard we built collect dust for six months.” One concrete moment beats a summary.\n\nI confess weakness before claiming expertise. “I was young and needed the money” comes before credentials. Vulnerability first.\n\nDon’t package vulnerability rhetorically. Not “I wish I could say this was a one-time failure” but “I did this three more times. Same result.” Raw confession, no protective framing.\n\nShort sentences punch. Long sentences explain. Alternate. “Articles about couches.” lands harder than “I wrote many articles about various furniture items.”\n\nAddress the reader’s likely objection immediately. What will they think is wrong with your claim? Name it, then address it.\n\nCheck: Would someone read past the first paragraph? If not, rewrite.\n\nProcess: Research\n\nLoop until you have sources you’d stake your reputation on.\n\nFor any claim you make, find highly-cited academic papers or highly-ranked HN articles that support it. HN has smart people, though they’re not always right.\n\nFind counter-arguments. The best articles steelman the opposition. Quote your critics fairly.\n\nLet others make harsh claims. If something brutal needs saying, cite someone who said it. Your job is to synthesize, not to attack.\n\nCheck: Can you defend every factual claim with a source? If not, research more or soften the claim.\n\nProcess: Drafting\n\nLoop until every paragraph sounds like conversation.\n\nWrite like you talk. If you wouldn’t say it out loud, don’t write it.\n\nShow, don’t summarize. Instead of “we optimized for data pipelines,” show the actual instruction: “Write about advantages, disadvantages. Incorporate these keywords.” Let the reader conclude it was shitty.\n\nGive sentences room to land. Short paragraphs. Sometimes just one sentence.\n\nLike this.\n\nAfter a gut-punch, stop. Don’t add “which made me realize…” or “that’s when I knew…” Let the sentence sit alone.\n\nInclude specific details when you have them. Not “a whiteboard” but “a whiteboard that hadn’t been updated in three years.” Real details make it real. Don’t invent them.\n\nEverything is tradeoffs. I have strong opinions, but I know realities have nuance. Not “always use UMH” but “I like Go because it’s easy to get into. This works well for our case and for companies that onboard new people often.” Context matters. The reader decides if my reasoning applies to them.\n\nDefine terms inline. “What is a ‘one-shot’? A one-shot is how most people use LLMs…” Bold draws the eye, prose keeps them reading.\n\nDeadpan humor when it fits. Technical rants, yes. Homepage bio, no. When raging about OPC UA, let loose. When introducing yourself professionally, stay dry. Not every piece needs humor.\n\nI admit when I don’t know.\n\nTalk warmly about the people we work with. Our customers, our users, our team members. They’re part of our extended team.\n\nSay “our customers” not “you” or “them.” “Our” signals ownership and care. “Them” is distant. “You” confuses who you’re addressing.\n\nSay “the people we serve” not “users.” “Users” is transactional. “People we serve” reminds us why we exist.\n\nShow you understand what they carry. “That maintenance nightmare falls on their teams.” We’re not just selling. We’ve seen their pain.\n\nHonor the risk they take on us. “They trust us with their operations.” They chose us. That means something.\n\nWhen something didn’t work, own our part. “We were asking them to understand Kubernetes.” We don’t blame the customer for not getting it.\n\nNot everything needs to be transactional. Sometimes you just say you care. “We’d love to help.”\n\n“You” should only address the actual reader. If the reader is an employee, “you” means the employee. If you’re talking about customers, say “our customers.”\n\nProcess: Revision\n\nLoop until nothing makes you wince.\n\nRead every sentence aloud. If it sounds awkward, rewrite it. If it sounds unnecessary, delete it.\n\nCut 30%. If a sentence works without a word, delete the word. If a paragraph works without a sentence, delete the sentence.\n\nCheck for slop. Run Vale or scan for: “delve,” “crucial,” “comprehensive,” “landscape,” “dive into,” “it’s important to note,” “in today’s world.” Never use em-dashes.\n\nCheck: Would you defend this output if challenged? If not, you’re producing slop.\n\nStructure\n\nSee Algorithmic Framework for Writing Technical Articles.\n\nOne H1 only. The title in frontmatter is your H1. Never add another in the body.\n\nClaims-based articles: four H2s. Three claims plus conclusion. Each H2 is a complete argument. Each builds on the previous.\n\nNarrative stories can break this structure.\n\nBold topic sentences integrated into prose. Not standalone headings. “Most people get this wrong. What is MQTT? It’s a protocol designed for…” The bold draws the eye mid-paragraph. Not every paragraph needs bold.\n\nAnti-Patterns\n\nNever:\n\nStart with “In this article we will…”\nUse em-dashes\nSay “you should” instead of “we chose”\nHide uncertainty behind confident language\nMake claims without sources\nUse AI slop words (delve, crucial, comprehensive, landscape, leverage, robust)\nUse AI slop phrases (dive into, it’s important to note, in today’s world, at the end of the day)\n\nThis guide changes when my writing changes.\n\n© 2026 Jeremy Theocharis\n\nData security\nImprint\nGitHub\nLinkedIn\n\nI'm hiring product engineers in Germany."
+}

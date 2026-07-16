@@ -1,0 +1,151 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 35,
+    "links": [
+        {
+            "text": "Skip to Content",
+            "href": "https://pageplay.com/help/site-statistics#area_content"
+        },
+        {
+            "text": "PagePlay",
+            "href": "https://pageplay.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://pageplay.com/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://pageplay.com/help"
+        },
+        {
+            "text": "What is a CMS?",
+            "href": "https://pageplay.com/help/what-is-a-cms"
+        },
+        {
+            "text": "Logging in",
+            "href": "https://pageplay.com/help/log-in"
+        },
+        {
+            "text": "Logging out",
+            "href": "https://pageplay.com/help/log-out"
+        },
+        {
+            "text": "Working with pages",
+            "href": "https://pageplay.com/help/managing-pages"
+        },
+        {
+            "text": "Working with paragraphs",
+            "href": "https://pageplay.com/help/working-with-paragraphs"
+        },
+        {
+            "text": "Working with photos",
+            "href": "https://pageplay.com/help/working-with-photos"
+        },
+        {
+            "text": "Add downloadable files",
+            "href": "https://pageplay.com/help/add-downloadable-files"
+        },
+        {
+            "text": "Working with your Photobanner",
+            "href": "https://pageplay.com/help/working-with-your-photobanner"
+        },
+        {
+            "text": "Site statistics (via Google Analytics)",
+            "href": "https://pageplay.com/help/site-statistics"
+        },
+        {
+            "text": "Your PagePlay email",
+            "href": "https://pageplay.com/help/your-pageplay-email"
+        },
+        {
+            "text": "Adding new email accounts",
+            "href": "https://pageplay.com/help/adding-new-email-accounts"
+        },
+        {
+            "text": "Email account limit",
+            "href": "https://pageplay.com/help/email-account-limit"
+        },
+        {
+            "text": "Setting up your email account",
+            "href": "https://pageplay.com/help/setting-up-your-email-account"
+        },
+        {
+            "text": "Archiving your old emails",
+            "href": "https://pageplay.com/help/archiving-your-old-emails"
+        },
+        {
+            "text": "Reset an email account password",
+            "href": "https://pageplay.com/help/reset-an-email-account-password"
+        },
+        {
+            "text": "Set an out of office message",
+            "href": "https://pageplay.com/help/set-an-out-of-office-message"
+        },
+        {
+            "text": "Buy a new domain",
+            "href": "https://pageplay.com/help/buy-a-new-domain"
+        },
+        {
+            "text": "Should you drop the www?",
+            "href": "https://pageplay.com/help/start-with-www"
+        },
+        {
+            "text": "Adding more users who can edit content",
+            "href": "https://pageplay.com/help/add-more-site-editors"
+        },
+        {
+            "text": "Supported browsers",
+            "href": "https://pageplay.com/help/supported-browsers"
+        },
+        {
+            "text": "Update your mail servers",
+            "href": "https://pageplay.com/help/update-your-mail-servers"
+        },
+        {
+            "text": "Search engines",
+            "href": "https://pageplay.com/help/search-engines"
+        },
+        {
+            "text": "Search Engine Optimisation tips",
+            "href": "https://pageplay.com/help/seo-tips"
+        },
+        {
+            "text": "Google Search console Verification",
+            "href": "https://pageplay.com/help/google-webmaster-tools-verification"
+        },
+        {
+            "text": "Facebook Like Box / Button",
+            "href": "https://pageplay.com/help/facebook-like-box-button"
+        },
+        {
+            "text": "Opening links in new tabs/windows",
+            "href": "https://pageplay.com/help/opening-links-in-new-tabswindows"
+        },
+        {
+            "text": "Referrer terms and conditions",
+            "href": "https://pageplay.com/help/referrer-terms-and-conditions"
+        },
+        {
+            "text": "Visit Google Analytics",
+            "href": "http://www.google.com/analytics/"
+        },
+        {
+            "text": "Simple Content Management",
+            "href": "https://pageplay.com/"
+        },
+        {
+            "text": "PagePlay",
+            "href": "https://pageplay.com/"
+        },
+        {
+            "text": "Cookie policy",
+            "href": "https://pageplay.com/_privacy"
+        }
+    ],
+    "text_length": 2560,
+    "text_full": "Skip to Content\n\nPagePlay\n\nGuides\nWhat is a CMS?\nLogging in\nLogging out\nWorking with pages\nWorking with paragraphs\nWorking with photos\nAdd downloadable files\nWorking with your Photobanner\nSite statistics (via Google Analytics)\nYour PagePlay email\nAdding new email accounts\nEmail account limit\nSetting up your email account\nArchiving your old emails\nReset an email account password\nSet an out of office message\nBuy a new domain\nShould you drop the www?\nAdding more users who can edit content\nSupported browsers\nUpdate your mail servers\nSearch engines\nSearch Engine Optimisation tips\nGoogle Search console Verification\nFacebook Like Box / Button\nOpening links in new tabs/windows\nReferrer terms and conditions\nHow do I monitor statistics for my PagePlay site?\n1. Sign up for Google Analytics and GA4\nVisit Google Analytics\n\nGoogle Analytics is a powerful, easy-to-use and freely available statistics package. You can monitor statistics for your PagePlay site using Google Analytics.\n\nIf you don't already have a Google Analytics account, you can get one easily and for free.\n\n* Visit Google Analytics\n* If you have a Google account, sign in. If you don't yet have a Google account, click 'create an account'.\n* Once you have signed in to your Google account, click Access Google Analytics.\n* Click Sign up.\n* Submit your Account Name (probably your company name), Website Name, Website URL, and select an Industry Category and Reporting Time Zone.\n* Open or create your property\n* Copy the tracking code, or tracking ID\n\n2. Get your code\n\nOnce you have set up your account, you will be able to access your sites Google Analytics code.\n\nIt will look something like:\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX\"></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-XXXXXXX');\n</script>\n\n3. Put the code into your site\n\nLogin to your PagePlay site, click on 'Site' in the Toolbar at the top of the page and then paste the code into the Google Analytics field.\n\n4. Give it a couple of days\n\nWithin 48 hours Google Analytics will start compiling reports which you can view. Whenever you want to review your statistics, simply login to the Google Analytics you have created.\n\nIf you have more then one website you can monitor all of their statistics using the same Google Analytics account - for your convenience.\n\nhelp@pageplay.com\n\n© PagePlay Limited, 2026 - Simple Content Management by PagePlay\n\nCookie policy"
+}

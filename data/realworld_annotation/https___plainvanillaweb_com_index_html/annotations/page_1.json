@@ -1,0 +1,155 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 36,
+    "links": [
+        {
+            "text": "Welcome",
+            "href": "https://plainvanillaweb.com/index.html"
+        },
+        {
+            "text": "Components",
+            "href": "https://plainvanillaweb.com/pages/components.html#"
+        },
+        {
+            "text": "Styling",
+            "href": "https://plainvanillaweb.com/pages/styling.html"
+        },
+        {
+            "text": "Sites",
+            "href": "https://plainvanillaweb.com/pages/sites.html"
+        },
+        {
+            "text": "Applications",
+            "href": "https://plainvanillaweb.com/pages/applications.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/components.html#what-are-they"
+        },
+        {
+            "text": "standard set of HTML elements",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"
+        },
+        {
+            "text": "Custom elements",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements"
+        },
+        {
+            "text": "Shadow DOM",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM"
+        },
+        {
+            "text": "HTML templates",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/components.html#simple-component"
+        },
+        {
+            "text": "doesn't work in Safari",
+            "href": "https://caniuse.com/mdn-api_customelementregistry_builtin_element_support"
+        },
+        {
+            "text": "HTMLElement",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement"
+        },
+        {
+            "text": "custom element tag naming rules",
+            "href": "https://html.spec.whatwg.org/multipage/custom-elements.html#valid-custom-element-name"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/components.html#advanced-component"
+        },
+        {
+            "text": "HeroUI Avatar component",
+            "href": "https://www.heroui.com/docs/components/avatar"
+        },
+        {
+            "text": "ES module syntax",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/components.html#adding-children"
+        },
+        {
+            "text": "MutationObserver",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/components.html#bells-and-whistles"
+        },
+        {
+            "text": "HTML template",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots"
+        },
+        {
+            "text": "import.meta.resolve",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import.meta/resolve"
+        },
+        {
+            "text": "declarative shadow DOM",
+            "href": "https://web.dev/articles/declarative-shadow-dom"
+        },
+        {
+            "text": "performance penalty",
+            "href": "https://plainvanillaweb.com/blog/articles/2024-09-06-how-fast-are-web-components/"
+        },
+        {
+            "text": "accessibility issues",
+            "href": "https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/"
+        },
+        {
+            "text": "other crawlers may have trouble",
+            "href": "https://help.siteimprove.com/support/solutions/articles/80001132321-shadow-dom-support"
+        },
+        {
+            "text": "constructable stylesheets",
+            "href": "https://web.dev/articles/constructable-stylesheets"
+        },
+        {
+            "text": "#",
+            "href": "https://plainvanillaweb.com/pages/components.html#passing-data"
+        },
+        {
+            "text": "The Attribute-Property Duality",
+            "href": "https://plainvanillaweb.com/blog/articles/2025-04-21-attribute-property-duality/"
+        },
+        {
+            "text": "entity encoding",
+            "href": "https://plainvanillaweb.com/pages/applications.html#entity-encoding"
+        },
+        {
+            "text": "the web component lifecycle",
+            "href": "https://plainvanillaweb.com/blog/articles/2024-09-16-life-and-times-of-a-custom-element/"
+        },
+        {
+            "text": "Add Styling",
+            "href": "https://plainvanillaweb.com/pages/styling.html"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/pages/components.html#top"
+        }
+    ],
+    "text_length": 24157,
+    "text_full": "Components\nWelcome\nComponents\nStyling\nSites\nApplications\nBlog\nWhat are they?\n\nWeb Components are a set of technologies that allow us to extend the standard set of HTML elements with additional elements.\n\nThe three main technologies are:\n\nCustom elements\nA way to extend HTML so that instead of having to build all our markup out of <div>, <input>, <span> and friends, we can build with higher-level primitives.\nShadow DOM\nExtending custom elements to have their own separate DOM, isolating complex behavior inside the element from the rest of the page.\nHTML templates\nExtending custom elements with reusable markup blocks using the <template> and <slot> tags, for quickly generating complex layouts.\n\nThose 3 bullets tell you everything and nothing at the same time. This probably isn't the first tutorial on Web Components you've seen, and you may find them a confusing topic. However, they're not that complicated as long as you build them up step by step ...\n\nA simple component\n\nLet's start with the most basic form, a custom element that says 'hello world!':\n\nhello-world.js\nclass HelloWorldComponent extends HTMLElement {\n    connectedCallback() {\n        this.textContent = 'hello world!';\n    }\n}\ncustomElements.define('x-hello-world', HelloWorldComponent);\n\n\nWe can use it in a page like this:\n\nindex.html\n<!doctype html>\n<html lang=\"en\">\n<body>\n    <script src=\"hello-world.js\"></script>\n    <p>I just want to say...</p>\n    <x-hello-world></x-hello-world>\n</body>\n</html>\n\nWhich outputs this page:\n\nSo what's happening here?\n\nWe created a new HTML element, registered as the x-hello-world tag, and used it on the page. When we did that, we got the following DOM structure:\n\nbody (node)\nx-hello-world (node)\n'hello world!' (textContent)\n\nExplaining the code of the custom element line by line:\n\nclass HelloWorldComponent extends HTMLElement {\nEvery custom element is a class extending HTMLElement. In theory it's possible to extend other classes – like HTMLButtonElement to extend a <button> – but in practice this doesn't work in Safari.\nconnectedCallback() {\nThis method is called when our element is added to the DOM, which means the element is ready to make DOM updates. Note that it may be called multiple times when the element or one of its ancestors is moved around the DOM.\nthis.textContent = 'hello world!';\nThe this in this case refers to our element, which has the full HTMLElement API, including its ancestors Element and Node, on which we can find the textContent property which is used to add the 'hello world!' string to the DOM.\ncustomElements.define('x-hello-world', HelloWorldComponent);\nFor every web component window.customElements.define must be called once to register the custom element's class and associate it with a tag. After this line is called the custom element becomes available for use in HTML markup, and existing uses of it in already rendered markup will have their constructors called.\nWhy is it named x-hello-world instead of hello-world?\n\nThere are custom element tag naming rules, in particular that the name must start with a lowercase letter and contain a dash. On top of that, all tags take part in a global namespace, where there is always a risk of conflicting naming. While hello-world would also be a valid name, in general it is best to start all custom element tag names with a unique prefix of your choice. On this site the placeholder prefix x- was chosen.\n\nAnother gotcha is that custom element tags cannot be self-closing. So <x-hello-world></x-hello-world> is ok, but <x-hello-world /> is not.\n\nAn advanced component\n\nWhile the simple version above works for a quick demo, you'll probably want to do more pretty quickly:\n\nAdding DOM elements as children to allow for richer content.\nPassing in attributes, and updating the DOM based on changes in those attributes.\nStyling the element, preferably in a way that's isolated and scales nicely.\nDefining all custom elements from a central place, instead of dumping random script tags in the middle of our markup.\n\nTo illustrate a way to do those things with custom elements, here's a custom element <x-avatar> that implements a simplified version of the HeroUI Avatar component (React):\n\ncomponents/avatar.js\n/**\n * Usage:\n * <x-avatar src=\"https://.../avatar.png\"></x-avatar>\n * <x-avatar src=\"https://.../avatar-large.png\" size=\"lg\"></x-avatar>\n */\nclass AvatarComponent extends HTMLElement {\n    connectedCallback() {\n        if (!this.querySelector('img')) {\n            this.append(document.createElement('img'));\n        }\n        this.update();\n    }\n\n    static get observedAttributes() {\n        return ['src', 'alt'];\n    }\n\n    attributeChangedCallback() {\n        this.update();\n    }\n\n    update() {\n        const img = this.querySelector('img');\n        if (img) {\n            img.src = this.getAttribute('src');\n            img.alt = this.getAttribute('alt') || 'avatar';    \n        }\n    }\n}\n\nexport const registerAvatarComponent = () => {\n    customElements.define('x-avatar', AvatarComponent);\n}\n\n\nSome key elements that have changed:\n\nThe observedAttributes getter returns the element's attributes that when changed cause attributeChangedCallback() to be called by the browser, allowing us to update the UI.\nThe connectedCallback method is written in the assumption that it will be called multiple times. This method is in fact called when the element is first added to the DOM, but also when it is moved around.\nThe update() method handles initial render as well as updates, centralizing the UI logic. Note that this method is written in a defensive way with the if statement, because it may be called from the attributeChangedCallback() method before connectedCallback() creates the <img> element.\nThe exported registerAvatarComponent function allows centralizing the logic that defines all custom elements in an application.\n\nOnce rendered this avatar component will have this DOM structure:\n\nbody (node)\nx-avatar (node)\nimg (node)\nsrc (attribute)\nalt (attribute)\n\nFor styling of our component we can use a separate css file:\n\ncomponents/avatar.css\nx-avatar {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 2.5rem;\n    height: 2.5rem;\n}\n\nx-avatar[size=lg] {\n    width: 3.5rem;\n    height: 3.5rem;\n}\n\nx-avatar img {\n    border-radius: 9999px;\n    width: 100%;\n    height: 100%;\n    vertical-align: middle;\n    object-fit: cover;\n}\n\n\nNotice that:\n\nBecause we know what the tag of our component is, we can easily scope the styles by prepending them with x-avatar, so they won't conflict with the rest of the page.\nBecause a custom element is just HTML, we can style based on the element's custom attributes in pure CSS, like the size attribute which resizes the component without any JavaScript.\n\nAn example that shows the two different sizes on a webpage:\n\nThe HTML for this example centralizes the JavaScript and CSS logic to two index files, to make it easier to scale out to more web components. This pattern, or a pattern like it, can keep things organized in a web application that is built out of dozens or hundreds of different web components.\n\nindex.htmlindex.jsindex.css\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <link rel=\"stylesheet\" href=\"index.css\">\n    <script type=\"module\" src=\"index.js\" defer></script>\n</head>\n<body>\n    <p>A basic avatar component in two sizes:</p>\n    <x-avatar src=\"https://i.pravatar.cc/150?u=a042581f4e29026024d\"></x-avatar>\n    <x-avatar src=\"https://i.pravatar.cc/150?u=a04258114e29026302d\" size=\"lg\"></x-avatar>\n</body>\n</html>\n\nThe <script> tag in this example has moved into the <head> and picked up a defer attribute. This will allow it to download in parallel with the rest of the page, and have it execute right when the page is loaded.\n\nIn index.css the use of the @import keyword may seem surprising as this keyword is often frowned upon for performance reasons. However, in modern browsers over HTTP/2 and in particular HTTP/3 the performance penalty of this keyword is not that severe, especially because files included with @import now download in parallel.\n\nDon't we need a bundler?\n\nIf you've paid close attention, you have seen that we're using the ES module syntax for import and export in our code, but we haven't set up any JavaScript bundler to transpile that syntax. The magic that makes this work is in index.html, where the <script> tag's type=\"module\" attribute enables ES module mode for all the included JavaScript. This is supported by all modern browsers.\n\nAdding Children\n\nAllowing children to be added to a web component is not hard. In fact, it is the default behavior. To see how this works, let's extend the avatar example by wrapping it with a badge:\n\nindex.htmlindex.jsindex.css\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <link rel=\"stylesheet\" href=\"index.css\">\n    <script type=\"module\" src=\"index.js\" defer></script>\n</head>\n<body>\n    <p>Avatar and badge, when their powers combine...</p>\n    <div>\n        <x-badge content=\"5\" id=\"live-badge\">\n            <x-avatar src=\"https://i.pravatar.cc/150?u=a042581f4e29026704d\"></x-avatar>\n        </x-badge>\n        &larr;\n        <input type=\"number\" value=\"5\" title=\"badge value\"\n               oninput=\"document.getElementById('live-badge').content = this.value\" />    \n    </div>\n</body>\n</html>\n\nTo clarify, this is the DOM structure that is created:\n\ndiv (node)\nx-badge (node)\ncontent (attribute)\nspan (node, showing content)\nx-avatar (node)\ninput (node)\n\nThe x-avatar component is identical to the previous example, but how does the x-badge work?\n\nbadge.jsbadge.css\ncomponents/badge.js\nclass BadgeComponent extends HTMLElement {\n    #span;\n\n    connectedCallback() {\n        if (!this.#span) {\n            this.#span = document.createElement('span');\n            this.#span.className = 'x-badge-label';                \n        }\n        this.insertBefore(this.#span, this.firstChild);\n        this.update();\n    }\n\n    update() {\n        if (this.#span) this.#span.textContent = this.getAttribute('content');\n    }\n\n    static get observedAttributes() {\n        return ['content'];\n    }\n\n    attributeChangedCallback() {\n        this.update();\n    }\n\n    set content(value) {\n        if (this.getAttribute('content') !== value) {\n            this.setAttribute('content', value);\n        }\n    }\n\n    get content() {\n        return this.getAttribute('content');\n    }\n}\n\nexport const registerBadgeComponent = () => customElements.define('x-badge', BadgeComponent);\n\n\nSome notes on what's happening here:\n\nthis.insertBefore\n\nCare must be taken to not overwrite the children already added in the markup, for example by assigning to innerHTML. In this case the span that shows the badge is inserted before the child elements.\n\nThis also means that for custom elements that should not have children, this can be enforced by calling this.innerHTML = '' from connectedCallback().\n\nset content(value) {\nCustom element attributes can only be accessed from JavaScript through the setAttribute() and getAttribute() methods. To have a cleaner JavaScript API a setter and getter must be created for a class property that wraps the custom element's content attribute. See the index.html above for where this is called.\nDetecting children\n\nKnowing when children are added or removed to a web component is possible with a MutationObserver, by calling its observe method with observer.observe(this, { childList: true }). Creating it in the constructor will observe a mutation of type childList when the child elements are first added, and also when later on elements are added or removed.\n\nBells and whistles\n\nHaving seen what regular web components look like, we're now ready to jump up to the final difficulty level of web components, leveraging the more advanced features of Shadow DOM and HTML templates.\n\nThis can all be brought together in this page layout example, that defines a new <x-header> component:\n\nindex.html\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <link rel=\"stylesheet\" href=\"index.css\">\n    <script type=\"module\" src=\"index.js\" defer></script>\n</head>\n<body>\n    <x-header title=\"Welcome\">\n        <x-badge content=\"2\">\n            <x-avatar src=\"https://i.pravatar.cc/150?u=a042581f4e29026704d\"></x-avatar>\n        </x-badge>\n    </x-header>\n    <main>\n        <p>Hello, shadow DOM!</p>\n    </main>\n</body>\n</html>\n\nThis is the code for the newly added <x-header> component:\n\ncomponents/header.js\nconst template = document.createElement('template');\ntemplate.innerHTML = `\n    <link rel=\"stylesheet\" href=\"${import.meta.resolve('./header.css')}\">\n    <header>\n        <h1></h1>\n        <slot></slot>\n    </header>\n`;\n\nclass HeaderComponent extends HTMLElement {\n    constructor() {\n        super();\n        if (!this.shadowRoot) {\n            this.attachShadow({ mode: 'open' });\n            this.shadowRoot.append(template.content.cloneNode(true));\n        }\n        this.update();\n    }\n\n    update() {\n        this.shadowRoot.querySelector('h1').textContent = this.getAttribute('title');\n    }\n\n    static get observedAttributes() {\n        return ['title'];\n    }\n\n    attributeChangedCallback() {\n        this.update();\n    }\n}\n\nexport const registerHeaderComponent = () => customElements.define('x-header', HeaderComponent);\n\n\nThere's a lot happening in header.js, so let's unpack.\n\nconst template = document.createElement('template');\nThe header code starts out by creating an HTML template. Templates are fragments of HTML that can be easily cloned and appended to a DOM. For complex web components that have a lot of markup, the use of a template is often convenient. By instantiating the template outside the class, it can be reused across all instances of the <x-header> component.\n<link rel=\"stylesheet\" href=\"${import.meta.resolve('./header.css')}\">\nBecause this component uses a shadow DOM, it is isolated from the styles of the containing page and starts out unstyled. The header.css needs to be imported into the shadow DOM using the <link> tag. The special import.meta.resolve trick imports the CSS file from the same path as the header.js file.\n<slot></slot>\nThe <slot> element is where the child elements will go (like the <x-badge> child of <x-header>). Putting child elements in a slot is similar to using a children prop in a React component. The use of slots is only possible in web components that have a shadow DOM.\nconstructor() {\n\nThis is the first example that uses a constructor. The constructor is called when the element is first created, but before it's ready for DOM interaction. The default behavior of a constructor is to call the parent class's constructor super(). So if all that is needed is the default HTMLElement constructor behavior then no constructor needs to be specified.\n\nThe reason it is specified here is because the constructor is guaranteed to be called exactly once, which makes it the ideal place to attach a shadow DOM.\n\nif (!this.shadowRoot) { this.attachShadow({ mode: 'open' });\n\nattachShadow attaches a shadow DOM to the current element, an isolated part of the DOM structure with CSS separated from the containing page, and optionally with the shadow content hidden away from the parent page's JavaScript context (if mode: 'closed' is set). For web components that are used in a known codebase, it is usually more convenient to use them in open mode, as is done here.\n\nif (!this.shadowRoot) { is not strictly necessary, but allows for server-side generated HTML, by making use of declarative shadow DOM.\n\nthis.shadowRoot.append(template.content.cloneNode(true));\n\nThe shadowRoot property is the root element of the attached shadow DOM, and is rendered into the page as the <x-header> element's content. The HTML template is cloned and appended into it.\n\nThe shadow DOM becomes immediately available as soon as attachShadow is called, which is why the template can be appended in the constructor, and why the update() method can be called there. For custom elements without shadow DOM rendering the element's content should be deferred until connectedCallback().\n\nAll the new files of this example put together:\n\nindex.htmlindex.cssreset.cssindex.jsheader.jsheader.css\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <link rel=\"stylesheet\" href=\"index.css\">\n    <script type=\"module\" src=\"index.js\" defer></script>\n</head>\n<body>\n    <x-header title=\"Welcome\">\n        <x-badge content=\"2\">\n            <x-avatar src=\"https://i.pravatar.cc/150?u=a042581f4e29026704d\"></x-avatar>\n        </x-badge>\n    </x-header>\n    <main>\n        <p>Hello, shadow DOM!</p>\n    </main>\n</body>\n</html>\n\nAs you can see in header.css, styling the content of a shadow DOM is a bit different:\n\nThe :host pseudo-selector applies styles to the element from the light DOM that hosts the shadow DOM (or in other words, to the custom element itself).\nThe other styles (like h1 in this example) are isolated inside the shadow DOM.\nThe shadow DOM starts out unstyled, which is why reset.css is imported again.\nTo shadow or not to shadow?\n\nBecause custom elements can contain children with or without a shadow DOM, you may be wondering when to use this feature.\n\nShadow DOM comes with a number of downsides:\n\nThere is a performance penalty, noticeable when putting hundreds of shadow DOMs on a page.\nIt can cause accessibility issues.\nWhile Google can crawl inside shadow DOM, other crawlers may have trouble.\nThere can be a FOUC while a stylesheet from a <link> tag is loading. This can be worked around with constructable stylesheets, but this adds complexity.\n\nFor those reasons, if you're not making components for someone else, you may find it easier to avoid shadow DOM.\n\nShadow DOM is however recommended in these situations:\n\nIntermediate elements need to be created between the root element and the contained children, like the <header> in the example above. Only the use of a slot inside of a shadow DOM makes this possible.\nMultiple places in the web component will accept children. Named slots provide this ability. This can be convenient for layout components.\nThe styles and DOM need to be isolated from the containing page. This is often the case for web components designed to be used by others or embedded in third-party sites.\nPassing Data\n\nEverything up to this point assumes that data passed between web components is very simple, just simple numeric and string attributes passing down. A real world web application however passes complex data such as objects and arrays between parent and child components.\n\nThis example demonstrates the three major ways that data can be passed between web components:\n\nEvents\n\nThe first way is passing events, usually from child components to their parent component. This is demonstrated by the form at the top of the example.\n\ncomponents/form.js\nclass SantasForm extends HTMLElement {\n    connectedCallback() {\n        if (this.querySelector('form')) return;\n        this.innerHTML = `\n            <form>\n                <label for=\"name\">Name</label>\n                <input type=\"text\" id=\"name\" name=\"name\" required />\n                <input type=\"checkbox\" id=\"nice\" name=\"nice\" value=\"1\" />\n                <label for=\"nice\">Nice?</label>\n                <button type=\"submit\">Add</button>\n            </form>\n        `;\n        this.querySelector('form').onsubmit = (e) => {\n            e.preventDefault();\n            const data = new FormData(e.target);\n            this.dispatchEvent(new CustomEvent('add', {\n                detail: { form: Object.fromEntries(data.entries()) }\n            }));\n            e.target.reset();\n        }\n    }\n}\n\nexport const registerSantasForm = \n    () => customElements.define('santas-form', SantasForm);\n\n\nEvery time the Add button is pressed a CustomEvent of type add is dispatched using the dispatchEvent method. The event data's detail property carries the submitted form data.\n\nThe event is handled one level up:\n\ncomponents/app.js\nclass SantasApp extends HTMLElement {\n    #theList = [/* { name, nice } */];\n\n    connectedCallback() {\n        if (this.querySelector('h1')) return;\n        this.innerHTML = `\n            <h1>Santa's List</h1>\n            <santas-form></santas-form>\n            <santas-list></santas-list>\n            <santas-summary></santas-summary>\n        `;\n        this.querySelector('santas-form')\n            .addEventListener('add', (e) => {\n                this.#theList.push(e.detail.form);\n                this.update();\n            });\n        this.update();\n    }\n\n    update() {\n        this.querySelector('santas-list').list = this.#theList.slice();\n        this.querySelector('santas-summary').update(this.#theList.slice());\n    }\n}\n\nexport const registerApp = \n    () => customElements.define('santas-app', SantasApp);\n\n\nThe update() method sends the updated list back down to the <santas-list> and <santas-summary> components, using the next two methods.\n\nMemory leak?\n\nYou may be wondering if real world code would need a removeEventListener() to prevent memory leaks. In most cases the answer is a surprising no, because DOM event listeners are weakly bound and do not prevent garbage collection of the thing they are listening to. If it soothes your mind, you're still free to add those remove calls anyway.\n\nProperties\n\nThe second way to pass complex data is by using class properties, as exemplified by the <santas-list> component:\n\ncomponents/list.js\nclass SantasList extends HTMLElement {\n    #currentList = [/* { name, nice } */];\n    set list(newList) {\n        this.#currentList = newList;\n        this.update();\n    }\n    update() {\n        this.innerHTML = \n            '<ul>' +\n            this.#currentList.map(person => \n                `<li>${person.name} is ${person.nice ? 'nice' : 'naughty'}</li>`\n            ).join('\\n') +\n            '</ul>';\n    }\n}\n\nexport const registerSantasList =\n    () => customElements.define('santas-list', SantasList);\n\n\nThe list setter calls the update() method to rerender the list.\n\nThis is the recommended way to pass complex data to stateful web components.\n\nThe best practice way of implementing attributes, properties and events is subtle and opinionated. The article The Attribute-Property Duality dives into this topic in depth, and is recommended reading when making web components that will be embedded in third-party sites or are otherwise expected to behave like built-in elements.\n\nBeware of XSS\n\nKeen observers may have noticed there's a cross-site scripting bug in the above example. This can be solved by properly encoding entities for person.name. To see how this can be done, check out the entity encoding chapter on the Applications page.\n\nMethods\n\nThe third way to pass complex data is by calling a method on the web component, as exemplified by the <santas-summary> component:\n\ncomponents/summary.js\nclass SantasSummary extends HTMLElement {\n    update(list) {\n        const nice = list.filter((item) => item.nice).length;\n        const naughty = list.length - nice;\n        this.innerHTML = list.length ? `\n            <p>${nice} nice, ${naughty} naughty</p>\n        ` : \"<p>Nobody's on the list yet.</p>\";\n    }\n}\n\nexport const registerSantasSummary = \n    () => customElements.define('santas-summary', SantasSummary);\n\n\nThis is the recommended way to pass complex data to stateless web components.\n\nComplete example\n\nFinally then, here is all the code for the Santa's List application:\n\nindex.htmlindex.jsindex.cssapp.jsform.jslist.jssummary.js\n<!doctype html>\n<html lang=\"en\">\n<head>\n    <link rel=\"stylesheet\" href=\"index.css\">\n    <script type=\"module\" src=\"index.js\" defer></script>\n</head>\n<body>\n    <santas-app></santas-app>\n</body>\n</html>\nThe power of the browser\n\nA reminder that all of this code is still vanilla. It does not make use of any framework, library or build tool and works in all the major browsers. It will never need changes to be compatible with new dependency versions. And most importantly, it remains readable and maintainable.\n\nThere's still more to say on web components. For a deeper dive, check out this article on the web component lifecycle.\n\nUp next\n\nLearn about styling Web Components in ways that are encapsulated and reusable.\n\nAdd Styling\n\nContact GitHub\n\nBack to top"
+}

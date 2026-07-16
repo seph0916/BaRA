@@ -1,0 +1,820 @@
+{
+    "image_count": 62,
+    "images": [
+        "https://assets.sellerassistant.app/images/Seller-Assistant-logo.svg",
+        "https://assets.sellerassistant.app/images/price-list-analyzer_1.svg",
+        "https://assets.sellerassistant.app/images/lister-icon-2.svg",
+        "https://assets.sellerassistant.app/images/ai-supplier-finder-icon-v3.svg",
+        "https://assets.sellerassistant.app/images/seller-spy-1.svg",
+        "https://assets.sellerassistant.app/images/Product-Page-View-1.svg",
+        "https://assets.sellerassistant.app/images/restriction-cheker-1.svg",
+        "https://assets.sellerassistant.app/images/affcfcc_api-1.svg",
+        "https://assets.sellerassistant.app/images/Purchase-Orders-1.svg",
+        "https://assets.sellerassistant.app/images/product-database-2.svg",
+        "https://assets.sellerassistant.app/images/Suppliers.svg",
+        "https://assets.sellerassistant.app/images/Warehouses-1.svg",
+        "https://assets.sellerassistant.app/images/fba-shipments-icon-v6.svg",
+        "https://assets.sellerassistant.app/images/skus-icon-v1.svg",
+        "https://assets.sellerassistant.app/images/seller-assistant-extension-1.svg",
+        "https://assets.sellerassistant.app/images/ip-alert-1.svg",
+        "https://assets.sellerassistant.app/images/vpn-1.svg",
+        "https://assets.sellerassistant.app/images/Free-amazon-ip-alert-lookup-1.svg",
+        "https://assets.sellerassistant.app/images/Free-amazon-ip-alert-lookup-1.svg",
+        "https://assets.sellerassistant.app/images/Free-amazon-ip-alert-lookup-1.svg",
+        "https://assets.sellerassistant.app/images/API--Integrations-1.svg",
+        "https://assets.sellerassistant.app/images/API--Integrations-1.svg",
+        "https://assets.sellerassistant.app/images/API--Integrations-1.svg",
+        "https://assets.sellerassistant.app/images/api.svg",
+        "https://assets.sellerassistant.app/images/zapier.svg",
+        "https://assets.sellerassistant.app/images/n8n-color.svg",
+        "https://assets.sellerassistant.app/images/make.avif",
+        "https://assets.sellerassistant.app/images/Google_Sheets_logo_2014-2020.svg_1.avif",
+        "https://assets.sellerassistant.app/images/airtable-icon-512x428.avif",
+        "https://assets.sellerassistant.app/images/amazon-seller_1.avif",
+        "https://assets.sellerassistant.app/images/Warehouses-1.svg",
+        "https://assets.sellerassistant.app/images/Blog-1.svg",
+        "https://assets.sellerassistant.app/images/uni2.svg",
+        "https://assets.sellerassistant.app/images/Selling-on-Amazon-Guide-2.svg",
+        "https://assets.sellerassistant.app/images/Amazon-Online-Arbitrage-Check-List-1.svg",
+        "https://assets.sellerassistant.app/images/Help-Center-1.svg",
+        "https://assets.sellerassistant.app/images/Issues-and-Error-Messages-1.svg",
+        "https://assets.sellerassistant.app/images/contact-support-team-1.svg",
+        "https://assets.sellerassistant.app/images/News--Updates-1.svg",
+        "https://assets.sellerassistant.app/images/Selling-on-Amazon-Guide-1.svg",
+        "https://assets.sellerassistant.app/images/Reviews-1.svg",
+        "https://assets.sellerassistant.app/images/affcfcc_api-1.svg",
+        "https://assets.sellerassistant.app/images/Affiliate-Program-1.svg",
+        "https://assets.sellerassistant.app/images/Parthners.svg",
+        "https://assets.sellerassistant.app/blog/how-to-easily-create-purchase-order-from-supplier-price-list/image-1.png",
+        "https://assets.sellerassistant.app/blog/how-to-use-seller-assistants-product-db/banner.png",
+        "https://assets.sellerassistant.app/blog/supplier-price-list-analysis-tool/image-1.png",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/Upload-Price-List-for-site_1.avif",
+        "https://assets.sellerassistant.app/blog/66c5d9452895dba6a2b02fa4_64d63fa89aa0b7be545e4d2d_8jWGOZsHQJRkFdev30sPQBshKIerQhmW1_vr-hWIRdddm4LQn8HOOxLpCE-YS-uG_qW57YvzN6Wbf7hnTcTA7HK1Z_UN_nIVN7Ugy1Ds-aQcL5qyIAwS3youKMNVPfGh4WKeAcRXahD6KZ32x-zfq_SDRprUuBgLFFutwsh2ZXb0fEztlP4d343xBam7kw.png",
+        "https://assets.sellerassistant.app/blog/66c5d9452895dba6a2b02f9e_64d63fa89478cbcfcf8dc5ab_2FMwtsLoSvs-vq8aD20_09GjIyQ5Usy7VLnfieXuyRnwdZ3JJM19cUc-Skx-WI-pN76aJxMHUsU4SdG5NMZCcdHhgvYva8uUGH9L1wlkr-bnNAGiWVSr8PC_ZKAxLuxIWKh8rfoBiBknWXiER2FVCt_E1F21eZtZBL3WFv4C3G6flpsFcDeyjXXfySVPpw.png",
+        "https://assets.sellerassistant.app/blog/66c5d9452895dba6a2b02f9b_64d63fa870543481ee6d4c8c_yo46MjkHVagOkm5C_bd7dy7WzPq4D0Cbgdn1Pfz3K0Dr3wcF_ipI8Vld0Xxlfg6LhOCbaFYl1m5Oeqk1LKpylD_5uOpJFQpULyDtUFbtBcYCirI6S1MGeGtUi84uq0YqQ8AfaJrStkFW2bdJeMLgkRRpx_0UwYQ6Y7vHWsN_5n18dgWi7c2-RMvLvjbXig.png",
+        "https://assets.sellerassistant.app/blog/66e95f787d00a0a6e7bf1ce0_654b5507304988f9880efbf5_xhRmyWS3i2u-plnqIBs1-6lbwPLWvuML-7JsV4rPaAPzQafn9SRsj9NFB5ls1KtpViW1atN7M8QytmxkYtgS_SsYLYpWi8Z9oiO7VqQuVc3F3WH2WGOsdNQAiZBdEdj2Z4g9dREhAZuOjNo0-SQUbts.png",
+        "https://assets.sellerassistant.app/images/Seller-Assistant-logo.svg",
+        "https://assets.sellerassistant.app/images/ChromeWebStore_Badge_v2_340x96.avif",
+        "https://assets.sellerassistant.app/images/Edge-button_1.avif",
+        "https://assets.sellerassistant.app/images/Firefox-button_1.avif",
+        "https://assets.sellerassistant.app/images/amazon-app-store.7e4eedb7.svg",
+        "https://assets.sellerassistant.app/images/facebook-dark.svg",
+        "https://assets.sellerassistant.app/images/instagram-dark.svg",
+        "https://assets.sellerassistant.app/images/x.svg",
+        "https://assets.sellerassistant.app/images/youtube-icon.svg"
+    ],
+    "video_count": 1,
+    "videos": [
+        "https://www.youtube.com/embed/9hYcMVx001U"
+    ],
+    "link_count": 186,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.sellerassistant.app/"
+        },
+        {
+            "text": "Wholesale",
+            "href": "https://www.sellerassistant.app/solutions/wholesale/"
+        },
+        {
+            "text": "Online Arbitrage",
+            "href": "https://www.sellerassistant.app/solutions/online-arbitrage/"
+        },
+        {
+            "text": "Dropshipping",
+            "href": "https://www.sellerassistant.app/solutions/dropshipping/"
+        },
+        {
+            "text": "Agencies",
+            "href": "https://www.sellerassistant.app/solutions/agencies/"
+        },
+        {
+            "text": "Seller Assistant vs Analyzer.Tools",
+            "href": "https://www.sellerassistant.app/alternatives/analyzer-tools/"
+        },
+        {
+            "text": "Seller Assistant vs ScanUnlimited",
+            "href": "https://www.sellerassistant.app/alternatives/scan-unlimited/"
+        },
+        {
+            "text": "Seller Assistant vs SellerAmp",
+            "href": "https://www.sellerassistant.app/alternatives/selleramp-sas/"
+        },
+        {
+            "text": "Seller Assistant vs Revseller",
+            "href": "https://www.sellerassistant.app/alternatives/revseller/"
+        },
+        {
+            "text": "Price List Analyzer",
+            "href": "https://www.sellerassistant.app/tools/price-list-analyzer/"
+        },
+        {
+            "text": "Lister",
+            "href": "https://www.sellerassistant.app/tools/lister/"
+        },
+        {
+            "text": "AI Supplier Finder",
+            "href": "https://www.sellerassistant.app/tools/ai-supplier-finder/"
+        },
+        {
+            "text": "Seller Spy",
+            "href": "https://www.sellerassistant.app/tools/seller-spy/"
+        },
+        {
+            "text": "Brand Analyzer",
+            "href": "https://www.sellerassistant.app/tools/brand-analyzer/"
+        },
+        {
+            "text": "Bulk Restriction Checker",
+            "href": "https://www.sellerassistant.app/tools/bulk-restriction-checker/"
+        },
+        {
+            "text": "API",
+            "href": "https://www.sellerassistant.app/products/api/"
+        },
+        {
+            "text": "Purchase Orders",
+            "href": "https://www.sellerassistant.app/tools/purchase-orders/"
+        },
+        {
+            "text": "Products",
+            "href": "https://www.sellerassistant.app/tools/product-database/"
+        },
+        {
+            "text": "Suppliers",
+            "href": "https://www.sellerassistant.app/tools/suppliers/"
+        },
+        {
+            "text": "Warehouses",
+            "href": "https://www.sellerassistant.app/tools/warehouses/"
+        },
+        {
+            "text": "FBA Shipments",
+            "href": "https://www.sellerassistant.app/tools/fba-shipments/"
+        },
+        {
+            "text": "SKUs",
+            "href": "https://www.sellerassistant.app/tools/skus/"
+        },
+        {
+            "text": "Seller Assistant Extension",
+            "href": "https://www.sellerassistant.app/products/seller-assistant-extension/"
+        },
+        {
+            "text": "IP-Alert® by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/ip-alert-extension/"
+        },
+        {
+            "text": "VPN by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/vpn-extension/"
+        },
+        {
+            "text": "All Free Tools",
+            "href": "https://www.sellerassistant.app/free-tools/"
+        },
+        {
+            "text": "Free Amazon ASIN Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/asin-lookup/"
+        },
+        {
+            "text": "Free Amazon IP-Alert Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/ip-alert-lookup/"
+        },
+        {
+            "text": "Free Supplier Finder by Brand",
+            "href": "https://www.sellerassistant.app/free-tools/supplier-finder-by-brand/"
+        },
+        {
+            "text": "Free ASIN to UPC Converter",
+            "href": "https://www.sellerassistant.app/free-tools/asin-to-upc-converter/"
+        },
+        {
+            "text": "Free UPC to ASIN Converter",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "Free EAN to ASIN Converter",
+            "href": "https://www.sellerassistant.app/free-tools/ean-to-asin-converter/"
+        },
+        {
+            "text": "All Integrations",
+            "href": "https://www.sellerassistant.app/integrations/"
+        },
+        {
+            "text": "API",
+            "href": "https://www.sellerassistant.app/products/api/"
+        },
+        {
+            "text": "Zapier",
+            "href": "https://www.sellerassistant.app/integrations/zapier/"
+        },
+        {
+            "text": "n8n",
+            "href": "https://www.sellerassistant.app/integrations/n8n/"
+        },
+        {
+            "text": "Make",
+            "href": "https://www.sellerassistant.app/integrations/make/"
+        },
+        {
+            "text": "Google Sheets",
+            "href": "https://www.sellerassistant.app/integrations/google-sheets/"
+        },
+        {
+            "text": "Airtable",
+            "href": "https://www.sellerassistant.app/integrations/airtable/"
+        },
+        {
+            "text": "Seller Central",
+            "href": "https://www.sellerassistant.app/integrations/seller-central/"
+        },
+        {
+            "text": "Prep Centers",
+            "href": "https://www.sellerassistant.app/integrations/prep-centers/"
+        },
+        {
+            "text": "All Resources",
+            "href": "https://www.sellerassistant.app/resources/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.sellerassistant.app/blog/"
+        },
+        {
+            "text": "Seller Assistant University",
+            "href": "https://www.sellerassistant.app/blog/category/seller-assistant-university/"
+        },
+        {
+            "text": "Selling on Amazon Guide",
+            "href": "https://www.sellerassistant.app/resources/selling-on-amazon-guide/"
+        },
+        {
+            "text": "OA Check List",
+            "href": "https://www.sellerassistant.app/oa-checklist/"
+        },
+        {
+            "text": "Help Center",
+            "href": "https://help.sellerassistant.app/"
+        },
+        {
+            "text": "Office Hours",
+            "href": "https://www.sellerassistant.app/resources/office-hours/"
+        },
+        {
+            "text": "Contact Support Team",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/#"
+        },
+        {
+            "text": "News & Updates",
+            "href": "https://news.sellerassistant.app/"
+        },
+        {
+            "text": "Product Roadmap",
+            "href": "https://feedback.sellerassistant.app/roadmap"
+        },
+        {
+            "text": "Reviews",
+            "href": "https://www.sellerassistant.app/reviews/"
+        },
+        {
+            "text": "Developers",
+            "href": "https://developer.sellerassistant.app/"
+        },
+        {
+            "text": "Affiliate Program",
+            "href": "https://www.sellerassistant.app/affiliate-program/"
+        },
+        {
+            "text": "Partners",
+            "href": "https://www.sellerassistant.app/partners/"
+        },
+        {
+            "text": "Wholesale How to Easily Create Purchase Order from Supplier Price List",
+            "href": "https://www.sellerassistant.app/blog/how-to-easily-create-purchase-order-from-supplier-price-list/"
+        },
+        {
+            "text": "Product Research How to Use Seller Assistant’s Product DB",
+            "href": "https://www.sellerassistant.app/blog/how-to-use-seller-assistants-product-db/"
+        },
+        {
+            "text": "Wholesale Supplier Price List Analysis Tool",
+            "href": "https://www.sellerassistant.app/blog/supplier-price-list-analysis-tool/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://www.sellerassistant.app/pricing/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://www.sellerassistant.app/pricing/"
+        },
+        {
+            "text": "Get a demo",
+            "href": "https://www.sellerassistant.app/demo/"
+        },
+        {
+            "text": "Login",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "Register",
+            "href": "https://app.sellerassistant.app/register"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "Get a demo",
+            "href": "https://www.sellerassistant.app/demo/"
+        },
+        {
+            "text": "Login",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "Register",
+            "href": "https://app.sellerassistant.app/register"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "4.9\nCapterra & Chrome Store",
+            "href": "https://www.capterra.com/p/10004795/Seller-Assistant-App/"
+        },
+        {
+            "text": "45k+\nExtension Users",
+            "href": "https://chromewebstore.google.com/detail/seller-assistant/ngddmlfbgokkcfbmnniahfbffdohlhgf"
+        },
+        {
+            "text": "Amazon\nSoftware Partner",
+            "href": "https://sellercentral.amazon.com/selling-partner-appstore/dp/amzn1.sellerapps.app.8040c52d-357a-41e5-8969-fdc7f14dbd34"
+        },
+        {
+            "text": "Upload File",
+            "href": "https://app.sellerassistant.app/register?redirect=price-list-analyzer"
+        },
+        {
+            "text": "Price List Analyzer",
+            "href": "https://www.sellerassistant.app/tools/price-list-analyzer/"
+        },
+        {
+            "text": "Try Bulk UPC to ASIN Converter",
+            "href": "https://app.sellerassistant.app/register?redirect=price-list-analyzer"
+        },
+        {
+            "text": "UPC to ASIN Converter tool",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "Free EAN to ASIN Converter tool",
+            "href": "https://www.sellerassistant.app/free-tools/ean-to-asin-converter/"
+        },
+        {
+            "text": "Best Free UPC to ASIN Converter Tool",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "Convert Now →",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "Seller Assistant Extension Review",
+            "href": "https://www.sellerassistant.app/blog/seller-assistant-extension-review/"
+        },
+        {
+            "text": "Seller Assistant — the Ultimate Tool for Amazon Online Arbitrage",
+            "href": "https://www.sellerassistant.app/blog/15-best-amazon-online-arbitrage-tools/"
+        },
+        {
+            "text": "Amazon ASIN, EAN, ISBN, and UPC Explained",
+            "href": "https://www.sellerassistant.app/free-tools/asin-to-upc-converter/"
+        },
+        {
+            "text": "Amazon Glossary for Sellers",
+            "href": "https://www.sellerassistant.app/blog/amazon-glossary-for-sellers/"
+        },
+        {
+            "text": "converting the UPC to an ASIN",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "UPC/EAN to ASIN converter",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "Seller Assistant",
+            "href": "https://www.sellerassistant.app/"
+        },
+        {
+            "text": "UPC/EAN to ASIN Converter",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "UPC to ASIN converter",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "UPC to ASIN Converter",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "UPC to ASIN converter",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "EAN to ASIN converter",
+            "href": "https://www.sellerassistant.app/free-tools/ean-to-asin-converter/"
+        },
+        {
+            "text": "FBM&FBA profit calculator,",
+            "href": "https://www.sellerassistant.app/features/fba-calculator/"
+        },
+        {
+            "text": "Quick View,",
+            "href": "https://www.sellerassistant.app/features/quickview/"
+        },
+        {
+            "text": "Restrictions Checker",
+            "href": "https://www.sellerassistant.app/features/restrictions-checker/"
+        },
+        {
+            "text": "Start free trial",
+            "href": "https://app.sellerassistant.app/register"
+        },
+        {
+            "text": "Chat with our team",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/#"
+        },
+        {
+            "text": "",
+            "href": "https://www.sellerassistant.app/"
+        },
+        {
+            "text": "",
+            "href": "https://chrome.google.com/webstore/detail/seller-assistant-app/ngddmlfbgokkcfbmnniahfbffdohlhgf"
+        },
+        {
+            "text": "",
+            "href": "https://microsoftedge.microsoft.com/addons/detail/dppojflkgphclkkjanbgakhkogdikhan"
+        },
+        {
+            "text": "",
+            "href": "https://addons.mozilla.org/firefox/addon/seller-assistant-app/"
+        },
+        {
+            "text": "",
+            "href": "https://sellercentral.amazon.com/apps/store/dp/amzn1.sellerapps.app.8040c52d-357a-41e5-8969-fdc7f14dbd34"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.sellerassistant.app/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://www.sellerassistant.app/pricing/"
+        },
+        {
+            "text": "Download",
+            "href": "https://www.sellerassistant.app/download/"
+        },
+        {
+            "text": "SOLUTIONS",
+            "href": "https://www.sellerassistant.app/solutions/"
+        },
+        {
+            "text": "Online Arbitrage",
+            "href": "https://www.sellerassistant.app/solutions/online-arbitrage/"
+        },
+        {
+            "text": "Wholesale",
+            "href": "https://www.sellerassistant.app/solutions/wholesale/"
+        },
+        {
+            "text": "Dropshipping",
+            "href": "https://www.sellerassistant.app/solutions/dropshipping/"
+        },
+        {
+            "text": "Agencies",
+            "href": "https://www.sellerassistant.app/solutions/agencies/"
+        },
+        {
+            "text": "Price List Analyzer",
+            "href": "https://www.sellerassistant.app/tools/price-list-analyzer/"
+        },
+        {
+            "text": "Lister",
+            "href": "https://www.sellerassistant.app/tools/lister/"
+        },
+        {
+            "text": "Purchase Orders",
+            "href": "https://www.sellerassistant.app/tools/purchase-orders/"
+        },
+        {
+            "text": "Suppliers",
+            "href": "https://www.sellerassistant.app/tools/suppliers/"
+        },
+        {
+            "text": "Warehouses",
+            "href": "https://www.sellerassistant.app/tools/warehouses/"
+        },
+        {
+            "text": "Seller Assistant Extension",
+            "href": "https://www.sellerassistant.app/products/seller-assistant-extension/"
+        },
+        {
+            "text": "IP-Alert by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/ip-alert-extension/"
+        },
+        {
+            "text": "VPN by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/vpn-extension/"
+        },
+        {
+            "text": "Bulk Restriction Checker",
+            "href": "https://www.sellerassistant.app/tools/bulk-restriction-checker/"
+        },
+        {
+            "text": "Seller Spy",
+            "href": "https://www.sellerassistant.app/tools/seller-spy/"
+        },
+        {
+            "text": "Brand Analyzer",
+            "href": "https://www.sellerassistant.app/tools/brand-analyzer/"
+        },
+        {
+            "text": "FREE TOOLS",
+            "href": "https://www.sellerassistant.app/free-tools/"
+        },
+        {
+            "text": "ASIN Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/asin-lookup/"
+        },
+        {
+            "text": "IP-Alert Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/ip-alert-lookup/"
+        },
+        {
+            "text": "Supplier Finder",
+            "href": "https://www.sellerassistant.app/free-tools/supplier-finder-by-brand/"
+        },
+        {
+            "text": "ASIN to UPC",
+            "href": "https://www.sellerassistant.app/free-tools/asin-to-upc-converter/"
+        },
+        {
+            "text": "UPC to ASIN",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "EAN to ASIN",
+            "href": "https://www.sellerassistant.app/free-tools/ean-to-asin-converter/"
+        },
+        {
+            "text": "FEATURES",
+            "href": "https://www.sellerassistant.app/features/"
+        },
+        {
+            "text": "FBM & FBA Calculator",
+            "href": "https://www.sellerassistant.app/features/fba-calculator/"
+        },
+        {
+            "text": "VAT Calculator",
+            "href": "https://www.sellerassistant.app/features/vat/"
+        },
+        {
+            "text": "Amazon IP-Alert",
+            "href": "https://www.sellerassistant.app/features/ip-alert/"
+        },
+        {
+            "text": "Side Panel View",
+            "href": "https://www.sellerassistant.app/features/side-panel-view/"
+        },
+        {
+            "text": "Amazon Quick View",
+            "href": "https://www.sellerassistant.app/features/quickview/"
+        },
+        {
+            "text": "Storefront Widget",
+            "href": "https://www.sellerassistant.app/features/storefront-widget/"
+        },
+        {
+            "text": "Alerts & Flags",
+            "href": "https://www.sellerassistant.app/features/alerts-and-flags/"
+        },
+        {
+            "text": "Restrictions Checker",
+            "href": "https://www.sellerassistant.app/features/restrictions-checker/"
+        },
+        {
+            "text": "Sales Estimator",
+            "href": "https://www.sellerassistant.app/features/sales-estimator/"
+        },
+        {
+            "text": "Offers",
+            "href": "https://www.sellerassistant.app/features/offers/"
+        },
+        {
+            "text": "Variation Viewer",
+            "href": "https://www.sellerassistant.app/features/variation-viewer/"
+        },
+        {
+            "text": "Stock Checker",
+            "href": "https://www.sellerassistant.app/features/stock-checker/"
+        },
+        {
+            "text": "ASIN Grabber",
+            "href": "https://www.sellerassistant.app/features/asin-grabber/"
+        },
+        {
+            "text": "Sub-Accounts for VAs",
+            "href": "https://www.sellerassistant.app/features/virtual-assistants/"
+        },
+        {
+            "text": "Export to Google Sheets",
+            "href": "https://www.sellerassistant.app/features/export-to-sheets/"
+        },
+        {
+            "text": "Notes",
+            "href": "https://www.sellerassistant.app/features/notes/"
+        },
+        {
+            "text": "ALTERNATIVES",
+            "href": "https://www.sellerassistant.app/alternatives/"
+        },
+        {
+            "text": "Analyzer.Tools Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/analyzer-tools/"
+        },
+        {
+            "text": "Scan Unlimited Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/scan-unlimited/"
+        },
+        {
+            "text": "SmartScout Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/smartscout/"
+        },
+        {
+            "text": "RevSeller Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/revseller/"
+        },
+        {
+            "text": "BuyBotPro Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/buybotpro/"
+        },
+        {
+            "text": "AZInsight Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/azinsight-by-asinzen/"
+        },
+        {
+            "text": "SellerAmp Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/selleramp-sas/"
+        },
+        {
+            "text": "IP-Alert Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/ip-alert/"
+        },
+        {
+            "text": "DS Quick View Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/ds-amazon-quick-view/"
+        },
+        {
+            "text": "Affiliate Program",
+            "href": "https://www.sellerassistant.app/affiliate-program/"
+        },
+        {
+            "text": "Partners",
+            "href": "https://www.sellerassistant.app/partners/"
+        },
+        {
+            "text": "Amazon Experts",
+            "href": "https://www.sellerassistant.app/blog/category/amazon-experts/"
+        },
+        {
+            "text": "Press Kit",
+            "href": "https://drive.google.com/drive/folders/125jGd7mwV_QOrjumWjStOPXFBzSkaCTM?usp=sharing"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.sellerassistant.app/blog/"
+        },
+        {
+            "text": "Get a Demo",
+            "href": "https://www.sellerassistant.app/demo/"
+        },
+        {
+            "text": "Help Center",
+            "href": "https://help.sellerassistant.app/"
+        },
+        {
+            "text": "Office Hours",
+            "href": "https://www.sellerassistant.app/resources/office-hours/"
+        },
+        {
+            "text": "News & Updates",
+            "href": "https://news.sellerassistant.app/"
+        },
+        {
+            "text": "Product Roadmap",
+            "href": "https://feedback.sellerassistant.app/roadmap"
+        },
+        {
+            "text": "Reviews",
+            "href": "https://www.sellerassistant.app/reviews/"
+        },
+        {
+            "text": "",
+            "href": "https://facebook.com/sellerassistantappeng"
+        },
+        {
+            "text": "",
+            "href": "https://www.instagram.com/sellerassistant.app"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/sellerassistapp"
+        },
+        {
+            "text": "",
+            "href": "https://www.youtube.com/channel/UCN5SmhJDghGBd3-THxSHjvw/"
+        },
+        {
+            "text": "INTEGRATIONS",
+            "href": "https://www.sellerassistant.app/integrations/"
+        },
+        {
+            "text": "Zapier",
+            "href": "https://www.sellerassistant.app/integrations/zapier/"
+        },
+        {
+            "text": "Make",
+            "href": "https://www.sellerassistant.app/integrations/make/"
+        },
+        {
+            "text": "Airtable",
+            "href": "https://www.sellerassistant.app/integrations/airtable/"
+        },
+        {
+            "text": "n8n",
+            "href": "https://www.sellerassistant.app/integrations/n8n/"
+        },
+        {
+            "text": "Google Sheets",
+            "href": "https://www.sellerassistant.app/integrations/google-sheets/"
+        },
+        {
+            "text": "Seller Central",
+            "href": "https://www.sellerassistant.app/integrations/seller-central/"
+        },
+        {
+            "text": "Prep Centers",
+            "href": "https://www.sellerassistant.app/integrations/prep-centers/"
+        },
+        {
+            "text": "API",
+            "href": "https://www.sellerassistant.app/products/api/"
+        },
+        {
+            "text": "IP-Alert by Seller Assistant",
+            "href": "https://ip-alert.com/"
+        },
+        {
+            "text": "🇬🇧 English",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "🇷🇺 Русский",
+            "href": "https://www.sellerassistant.app/ru/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "🇪🇸 Español",
+            "href": "https://www.sellerassistant.app/es/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "🇹🇷 Türkçe",
+            "href": "https://www.sellerassistant.app/tr/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://www.sellerassistant.app/terms-of-use/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.sellerassistant.app/privacy-policy/"
+        },
+        {
+            "text": "Cookie Policy",
+            "href": "https://www.sellerassistant.app/cookie-policy/"
+        },
+        {
+            "text": "Refund Policy",
+            "href": "https://www.sellerassistant.app/refund-policy/"
+        }
+    ],
+    "text_length": 16106,
+    "text_full": "Solutions\nTools\nIntegrations\nResources\nPricing\nGet a demo\nLogin\nRegister\nFree UPC to ASIN Converter\n\nConvert UPC to ASIN in seconds. Paste any valid UPC code, click convert, and instantly get the matching Amazon ASIN without manual catalog searches.\n\n4.9\nCapterra & Chrome Store\n45k+\nExtension Users\n1M+\nASINs analyzed monthly\nAmazon\nSoftware Partner\nASIN, UPC, OR EAN\nTry ASIN: B00U26V4VQ\nTry UPC: 010343829923\nor analyze multiple →\nUpload File\nMARKETPLACE\namazon.com\namazon.co.uk\namazon.de\namazon.fr\namazon.co.jp\namazon.ca\namazon.it\namazon.es\namazon.in\namazon.com.mx\namazon.com.br\nCONVERT\nWhat is the UPC to ASIN Converter?\n\nThe free UPC to ASIN Converter by Seller Assistant instantly converts UPC or EAN barcodes to Amazon ASINs. Perfect for wholesale and online arbitrage sellers matching supplier catalogs to Amazon listings.\n\nUPC to ASIN in Seconds\n\nPaste any UPC or barcode and instantly find the matching Amazon ASIN and product details.\n\nMultiple ASIN Matches\n\nWhen one UPC maps to multiple ASINs, Seller Assistant's converter shows all matching listings so you can pick the right one.\n\nSave Time on Research\n\nEliminate manual Amazon catalog searches. Convert supplier UPCs to ASINs in your sourcing workflow instantly.\n\nReduce Conversion Errors\n\nReal Amazon catalog data and advanced matching logic deliver highly accurate results and reduce mismatches.\n\nBulk Conversion via PLA\n\nUpload a supplier CSV or XLSX into Price List Analyzer to convert thousands of UPCs with full profit analysis.\n\nFree for Single Lookups\n\nSingle UPC to ASIN conversions are completely free. No account required.\n\nHow to Convert UPC to ASIN\n\nTurn supplier catalogs into profitable Purchase Orders with our bulk UPC to ASIN converter and FBA calculator.\n\n1\nEnter Your UPC Code\n\nPaste one or more UPC codes into the input field above. You can enter a single UPC or multiple codes (each on a new line) for bulk conversion.\n\n2\nClick Convert\n\nClick the Convert button to run the UPC to ASIN conversion. The tool will instantly match your UPC codes to their corresponding Amazon ASINs.\n\n3\nReview and Copy Results\n\nView the returned ASINs and copy them into your spreadsheet, sourcing tool, or use them with Seller Assistant workflow tools. Use these ASINs for product research, competitor analysis, or supplier search.\n\n4\nFor Bulk Lists, Use Price List Analyzer\n\nIf you have a large supplier price list with hundreds of UPCs, use Price List Analyzer for faster bulk UPC to ASIN conversion with profitability calculations and restriction checking included.\n\nWhy Choose Seller Assistant's UPC to ASIN Converter?\n\nWhen sourcing products on Amazon, accuracy and speed matter. That's why sellers trust Seller Assistant's free UPC to ASIN converter:\n\nInstant Matching\n\nGet ASIN results in seconds using real Amazon catalog data.\n\nPart of Ecosystem\n\nThe free converter integrates seamlessly with Seller Assistant Extension and Price List Analyzer.\n\nBuilt by Sellers, for Sellers\n\nTrusted by 45,000+ extension users for online arbitrage, wholesale sourcing, and dropshipping.\n\nTrusted for Scale\n\nProcess thousands of UPCs monthly without slowdowns. From solo entrepreneurs to agency VAs, our converter handles your workflow.\n\nNo Setup Required\n\nNo complex setup. Paste your UPCs, click convert, use your ASINs. The simplicity is intentional. We respect your time.\n\nCommon Use Cases\n\nOur UPC to ASIN converter is used by different types of Amazon sellers and sourcing models. The most common workflows are:\n\nOnline Arbitrage\n\nFind a product at retail and need to check if it's on Amazon? Paste the UPC, get the ASIN instantly. Continue your profit analysis immediately. Spot-check products in real-time while sourcing.\n\nWholesale Sourcing\n\nYour supplier sends a catalog with UPCs, not ASINs. Use Price List Analyzer to bulk convert your entire supplier list, see profit potential, and identify FBA restrictions automatically. Convert and analyze supplier catalogs in one workflow.\n\nDropshipping\n\nConverting supplier UPCs to ASINs helps you verify products exist on Amazon and check FBA/FBM eligibility. Integrate directly with your product sourcing process. Verify Amazon compatibility before sourcing.\n\nVirtual Assistant Workflows\n\nManaging multiple seller accounts means processing product lists quickly. Convert UPCs to ASINs and use Price List Analyzer for deeper analysis. Handle more accounts with the same effort. Streamline client sourcing workflows.\n\nBULK UPC TO ASIN CONVERTER\n\nBulk UPC to ASIN conversion\n\nSimply upload UPCs or EANs and get the conversion results to your mailbox.\n\nTry Bulk UPC to ASIN Converter\nUPC/EAN to ASIN on Amazon: Seller’s Guide\n\nNote: Looking for a quicker way to convert UPC or EAN codes to ASINs? We’ve put together a simple free tool that does it instantly. Try Free UPC to ASIN Converter tool or Free EAN to ASIN Converter tool\n\n‍\n\nUPC/EAN to ASIN conversion is essential for online arbitrage, wholesale, and dropshipping sellers who match supplier products to Amazon listings and check profitability. This seller’s guide explains how UPC, EAN, and ASIN identifiers work together, why UPC/EAN to ASIN conversion matters, and which tools you can use to automate it at scale.\n\nIf you just need a fast UPC to ASIN converter tool, use our Best Free UPC to ASIN Converter Tool\n\n🚀 Try Our Free UPC to ASIN Converter\n\nConvert UPCs into Amazon ASINs in seconds to quickly identify products and validate sourcing ideas. Built for fast, accurate product research. No signup required.\n\nConvert Now →\n\nASIN vs. UPC vs. EAN — What Is the Difference?\n\nASIN, UPC, and EAN are all product identifiers but have different uses and formats. Here’s the explanation of what they are.\n\nRelated: Seller Assistant Extension Review\n\nSeller Assistant — the Ultimate Tool for Amazon Online Arbitrage\n\nASIN\n\nASIN stands for Amazon Standard Identification Number. It is a unique identifier assigned to each product on Amazon. ASINs are used to track products, identify them in search results, and create product listings.\n\nAmazon ASIN\n\nUPC\n\nUPC stands for Universal Product Code. It is a 12-digit barcode used to identify products in the United States and Canada. UPCs are required for selling products on Amazon.\n\nUPC example\n\nEAN\n\nEAN stands for European Article Number. It is a 13-digit barcode used to identify products in Europe and other parts of the world. EANs are also accepted on Amazon.\n\nEAN example\n\nThe main difference between ASINs and UPCs/EANs is that ASINs are specific to Amazon, while UPCs/EANs can be used in any store that sells products with barcodes. Another difference is that ASINs are 10 characters long, while UPCs/EANs are 12/13 characters long.\n\nDifference between ASINs and UPCs/EANs\n\nRelated: Amazon ASIN, EAN, ISBN, and UPC Explained\n\nAmazon Glossary for Sellers\n\nWhy Do You Need to Convert UPC to ASIN?\n\nAmazon sellers doing online arbitrage, wholesale sellers, and dropshippers who make money on the price difference of the products from different suppliers must be able to convert UPCs or EANs to ASINs. Here’s why that is necessary.\n\nProduct matching\n\nYou must be able to match products on Amazon and other websites. UPCs and EANs are unique identifiers for products, but they are not always displayed on Amazon product pages. By converting the UPC to an ASIN, sellers can quickly and easily identify the product on Amazon.\n\nExample. An online arbitrage seller finds a product on a retail website that is listed at a lower price than it is selling for on Amazon. To see if the product is a profitable deal, the seller must convert a UPC to ASIN to look up the product on Amazon and check the sales and performance data. If the seller determines the product is profitable, they can purchase it from the retail website and list it on Amazon for a higher price.\n\nProfitability estimation\n\nYou must estimate if a product is a profitable deal. Amazon provides sellers with information about the product’s Best Sellers Rank, ratings, and other product performance metrics, but this data is only available for products with ASINs. By converting the UPC or EAN to an ASIN, sellers can get a better idea of how well a product is selling and whether it is likely to be profitable.\n\nExample. A wholesale seller gets a list from a supplier with 1000 products. The supplier provides the seller with the UPCs for the products. The wholesale seller must search the Amazon ASINs that match UPCs or EANs and find their product listings. They compare the product average Buy Box prices to the wholesale prices of the products they get from the supplier. They sort out the products having a lower wholesale price than the average selling price on Amazon. These products are the candidates for profitable deals. \n\nWhat Is UPC/EAN to ASIN Converter?\n\nA UPC/EAN to ASIN converter is any tool that converts UPCs and EANs into Amazon ASINs so you can identify the correct listing and analyze demand and profitability. UPC to ASIN converters are useful for sellers, as they help them automatically identify products on Amazon. That lets them quickly estimate if these products are suitable for selling and help save time and effort.\n\nTip. Suppose you are an online arbitrage or wholesale seller, dropshipper, or virtual assistant doing product research. In that case, one of your best options is to use an all-in-one product research tool with all the necessary features to find high-profit deals, including the UPC/EAN to ASIN converter feature. Seller Assistant offers all these features.\n\nBenefits of Seller Assistant’s UPC/EAN to ASIN Converter\n\nSeller Assistant’s UPC/EAN to ASIN Converter is a powerful tool that can help sellers quickly and easily identify a product’s ASIN on Amazon by its UPC or EAN. Below are the benefits it offers.\n\nTime-saving \n\nSeller Assistant’s UPC to ASIN converter can save sellers a lot of time by automating the process of converting UPCs and EANs to ASINs.\n\nImproved product identification\n\nUPC/EAN codes can be challenging to identify products, especially for items sold in packs (5-pack, 10-pack, etc.). These products may have the same UPC/EAN code, but the quantity may differ. Seller Assistant’s UPC/EAN to ASIN converter helps quickly and accurately provide product ASINs for these products.\n\nReduced errors\n\nFor a single UPC code, there may be multiple ASINs. That can lead to errors in Amazon Inventory Loader, which may incorrectly match UPCs with ASINs. Using Seller Assistant’s UPC/EAN to ASIN converter can help to reduce these errors.\n\nImproved profitability estimates\n\nWholesale sellers often receive lists of products with UPC/EAN codes. To determine if these products are profitable to resell on Amazon, sellers must compare them to similar products already listed on the platform. ASINs are needed to find these products. Seller Assistant’s UPC/EAN to ASIN converter can help sellers quickly and easily convert UPC/EAN codes to ASINs, which allows for more accurate profitability estimates.\n\nEase of use\n\nSeller Assistant’s UPC to ASIN Converter is easy to use. Sellers simply need to enter the UPC or EAN for the product and click “Convert.” The converter will then return the ASIN for the product.\n\nAll-in-one functionality\n\nSeller Assistant offers everything you need for product research, including UPC/EAN to ASIN Converter. You can easily understand if a product is suitable for reselling and don’t need to switch between many tools and pay separately for each of them.\n\nFAQ\nHow to create a new ASIN on Amazon?\n\nTo create a new ASIN on Amazon, go to Seller Central, click “Inventory” > “Add a Product” > “Create New ASIN,” and enter the product details.\n\nWhat does ASIN mean?\n\nASIN stands for Amazon Standard Identification Number. It is a unique 10-digit alphanumeric code assigned to each product on Amazon. ASIN is used to track inventory, identify products in search results, and create product listings.\n\nCan you get a UPC from an ASIN?\n\nYou can use a UPC/EAN to ASIN converter to find the UPC for a product if you have the ASIN. These converters work by searching for the product on Amazon using the ASIN and then returning the UPC for the product.\n\nIs ASIN and UPC the same?\n\nNo, ASIN and UPC are not the same. ASIN stands for Amazon Standard Identification Number, a unique 10-digit code assigned to each product on Amazon. UPC stands for Universal Product Code, a unique 12-digit barcode assigned to products worldwide. ASIN is used to identify products on Amazon, while UPC is used to identify products across all retail channels.\n\nHow do I get an ASIN number?\n\nIf you are selling a product on Amazon that already has a product listing, you will need to use the existing ASIN. If you are selling a new product or a product that does not yet have a listing, you will need to create a new ASIN.\n\nCan I convert UPC to EAN?\n\nWhen you scan a product’s barcode, you may need to convert a UPC into an EAN if your scanner doesn’t do this automatically. If your scanner doesn’t read a 12-digit UPC number, just add a 0 before the first UPC code’s digit to convert it into an EAN. \n\nFinal Thoughts\n\nAll Amazon sellers are very well aware that time is money. You need to be able to quickly and easily identify products that are profitable to sell on Amazon. By converting UPCs and EANs to ASINs, you can quickly and easily find such products. \n\nSeller Assistant’s UPC to ASIN converter and EAN to ASIN converter can help you to do it quickly and accurately. Seller Assistant is an excellent product research tool that combines all must-have features to find winning products. In addition, it offers an FBM&FBA profit calculator, Quick View, Stock Checker, Restrictions Checker, and more. This browser extension lets you identify if a product will bring you profit and if it has any problems or restrictions. You can see all this data right on the Amazon product search and search pages.\n\nQuick Overview of Price List Analyzer\n\nSee how to analyze supplier price lists, match UPCs to ASINs, and calculate profit in bulk — all in one workflow.\n\nFrequently Asked Questions\nWhat is an ASIN?\nWhat is a UPC?\nWhy does one UPC return multiple ASINs?\nWhat is the UPC to ASIN Converter?\nCan I convert UPCs to ASINs in bulk?\nHow accurate is the UPC to ASIN Converter?\nWho should use this tool?\nIs the UPC to ASIN Converter free?\nHow do I use the bulk UPC to ASIN feature in Price List Analyzer?\nCan I analyze products beyond ASIN matching?\nStart Selling Smarter with Seller Assistant\n\nAnalyze price lists, check margins, and source products faster with the full Seller Assistant toolkit.\n\nStart free trial\n\n14-day risk free trial. Cancel anytime.\n\nNot sure which plan fits your sourcing workflow? Chat with our team — we're happy to help.\n\nNAVIGATION\nHome\nPricing\nDownload\nSOLUTIONS\nOnline Arbitrage\nWholesale\nDropshipping\nAgencies\nPRODUCTS\nPrice List Analyzer\nLister\nPurchase Orders\nSuppliers\nWarehouses\nSeller Assistant Extension\nIP-Alert by Seller Assistant\nVPN by Seller Assistant\nBulk Restriction Checker\nSeller Spy\nBrand Analyzer\nFREE TOOLS\nASIN Lookup\nIP-Alert Lookup\nSupplier Finder\nASIN to UPC\nUPC to ASIN\nEAN to ASIN\nFEATURES\nFBM & FBA Calculator\nVAT Calculator\nAmazon IP-Alert\nSide Panel View\nAmazon Quick View\nStorefront Widget\nAlerts & Flags\nRestrictions Checker\nSales Estimator\nOffers\nVariation Viewer\nStock Checker\nASIN Grabber\nSub-Accounts for VAs\nExport to Google Sheets\nNotes\nALTERNATIVES\nAnalyzer.Tools Alternative\nScan Unlimited Alternative\nSmartScout Alternative\nRevSeller Alternative\nBuyBotPro Alternative\nAZInsight Alternative\nSellerAmp Alternative\nIP-Alert Alternative\nDS Quick View Alternative\nPARTNERS\nAffiliate Program\nPartners\nAmazon Experts\nPress Kit\nRESOURCES\nBlog\nGet a Demo\nHelp Center\nOffice Hours\nNews & Updates\nProduct Roadmap\nReviews\nINTEGRATIONS\nZapier\nMake\nAirtable\nn8n\nGoogle Sheets\nSeller Central\nPrep Centers\nAPI\nOTHER LINKS\nIP-Alert by Seller Assistant\nLANGUAGE\n🇬🇧 English\n🇷🇺 Русский\n🇪🇸 Español\n🇹🇷 Türkçe\n\nCopyright © 2019-2026 Linen Art, LLC. All rights reserved.\nAmazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates.\n\nTerms of Use\n|\nPrivacy Policy\n|\nCookie Policy\n|\nRefund Policy"
+}

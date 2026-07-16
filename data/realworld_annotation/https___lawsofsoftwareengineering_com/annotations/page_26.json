@@ -1,0 +1,167 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/dry.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 38,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/dry-principle/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=DRY+%28Don%27t+Repeat+Yourself%29%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fdry-principle%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fdry-principle%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fdry-principle%2F&title=DRY+%28Don%27t+Repeat+Yourself%29%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/dry-principle/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/dry-principle/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/dry-principle/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/dry-principle/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/dry-principle/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/dry-principle/#further-reading"
+        },
+        {
+            "text": "The Pragmatic Programmer, 20th Anniversary Edition\nThe original source of the DRY principle by Hunt and Thomas",
+            "href": "https://amzn.to/4piJutH"
+        },
+        {
+            "text": "DRY - Wikipedia\nOverview of the principle and related concepts",
+            "href": "https://en.wikipedia.org/wiki/Don%27t_repeat_yourself"
+        },
+        {
+            "text": "Code Complete\nSteve McConnell's guide covering code duplication and abstraction",
+            "href": "https://amzn.to/3N57T8t"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "DESIGN\nSOLID Principles\n\nFive main guidelines that enhance software design, making code more maintainable and scalable.",
+            "href": "https://lawsofsoftwareengineering.com/laws/solid-principles/"
+        },
+        {
+            "text": "A\nB\nC\nDESIGN\nLaw of Demeter\n\nAn object should only interact with its immediate friends, not strangers.",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-demeter/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 4317,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nDRY (Don't Repeat Yourself)\nDRY (Don't Repeat Yourself)\nDESIGN\nJUNIOR\n1\n2 min read\n\nEvery piece of knowledge must have a single, unambiguous, authoritative representation.\n\nTakeaways\nThe DRY principle is about avoiding duplication of knowledge in code. If the same idea or logic is in multiple places, it’s a signal to refactor.\nWhen requirements change, you should update logic in only one place. Repeated code increases the risk of inconsistencies and bugs (you might fix a bug in one copy and forget about the others).\nBe careful to apply DRY wisely. It’s about knowledge repetition, not just duplication. Sometimes two pieces of code look alike but do different jobs; merging them could over-complicate things.\nOverview\n\nThe idea of DRY is simple: each fact or piece of logic in your system should be expressed once and only once. If you find the same code, formula, or rule in multiple modules, you’re violating DRY. Such repetition creates hidden maintenance cost. When the business rule changes, you must hunt down every duplicate instance.\n\nBy following DRY, developers strive for a single, unique implementation of any given behavior. This often means abstracting common code into a function or class, or consolidating configuration into a single file.\n\nDRY also applies to database schemas, tests, and documentation.\n\nHowever, remember that DRY is about duplicated intent, not just similar-looking code. Two pieces of code can look identical but serve different purposes in an application.\n\nDRY (Don’t Repeat Yourself)\n\nExamples\n\nAn application has a database connection URL in five different source files. If the database host changes, you’d have to edit all five places. The DRY approach keeps that URL in a single configuration variable that all modules read.\n\nIf two parts of an app both format dates the same way, create a single formatDate() utility function and call it from both places. Now if the date format needs to change, there’s precisely one function to modify.\n\nLarge codebases benefit from DRY through shared libraries. If multiple applications need the same security logic, create a shared library instead of copying code across applications.\n\nOrigins\n\nThe term “DRY” was coined in 1999 by Andy Hunt and Dave Thomas in their book The Pragmatic Programmer. They defined it as: “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.”\n\nEven earlier, avoiding code duplication was part of structured programming and the Unix philosophy. In Extreme Programming, a similar idea was known as “Once and Only Once.” Hunt and Thomas gave it a catchy name and expanded its scope beyond just code to all information.\n\nFurther Reading\nThe Pragmatic Programmer, 20th Anniversary Edition\nThe original source of the DRY principle by Hunt and Thomas\nDRY - Wikipedia\nOverview of the principle and related concepts\nCode Complete\nSteve McConnell's guide covering code duplication and abstraction\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). DRY (Don't Repeat Yourself). Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/dry-principle/\n\nPlain text: \"DRY (Don't Repeat Yourself)\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/dry-principle/\n\nBibTeX: @misc{milanovic_dry-principle_2026, author = {Dr. Milan Milanović}, title = {DRY (Don't Repeat Yourself)}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/dry-principle/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nDESIGN\nSOLID Principles\n\nFive main guidelines that enhance software design, making code more maintainable and scalable.\n\nA\nB\nC\nDESIGN\nLaw of Demeter\n\nAn object should only interact with its immediate friends, not strangers.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

@@ -1,0 +1,63 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "Chain of Thought",
+            "href": "https://addyosmani.com/agentic-engineering/chain-of-thought/"
+        },
+        {
+            "text": "Spec-Driven Development",
+            "href": "https://addyosmani.com/blog/good-spec/"
+        },
+        {
+            "text": "AGENTS.md",
+            "href": "https://addyosmani.com/blog/agents-md/"
+        },
+        {
+            "text": "Tokens",
+            "href": "https://addyosmani.com/agentic-engineering/tokens/"
+        },
+        {
+            "text": "← Back to Glossary",
+            "href": "https://addyosmani.com/agentic-engineering/"
+        }
+    ],
+    "text_length": 2651,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nPrompt Engineering\n\nThe craft of writing instructions that get AI to produce what you actually want.\n\nThe simple explanation\n\nPrompt engineering is the art of communicating effectively with AI. It's not about magic incantations or secret tricks - it's about being clear, specific, and structured in your instructions, the same skills that make someone a good technical writer or a good manager.\n\nThink about delegating a task to a new team member. If you say \"fix the login,\" you'll get very different results than if you say \"the login form on /auth/login is rejecting valid passwords when they contain special characters - fix the password validation in auth/validators.ts, and add a test case for passwords with @, #, and ! characters.\" The second prompt gives context, locates the problem, and defines what \"done\" looks like.\n\nThat's prompt engineering in a nutshell: providing enough context, constraint, and clarity so the AI does what you actually intended.\n\nWhy it matters for agentic engineering\n\nIn agentic engineering, prompt engineering evolves from one-off questions into systematic workflows. You're not just writing individual prompts - you're designing specs, AGENTS.md files, system prompts, and task descriptions that agents will use repeatedly.\n\nThe shift from chatbot-era prompting to agent-era prompting is significant. With chatbots, cleverness and phrasing tricks mattered. With agents, what matters is structure: break the task down clearly, provide the relevant files, define acceptance criteria, and specify constraints. Agents respond better to well-organized information than to clever phrasing.\n\nIn practice\nBe specific: \"Add error handling\" is vague. \"Wrap the API call in a try/catch, log the error with the request ID, and return a 500 response with a user-friendly message\" is actionable\nProvide context: Point to relevant files, mention the framework you're using, reference existing patterns in the codebase\nDefine done: Include acceptance criteria. What should the code do? What tests should pass? What edge cases should be handled?\nUse examples: Show the agent a pattern you want followed. \"Follow the same structure as UserService.ts\" is more effective than describing the structure from scratch\nIterate: If the first result isn't right, refine the prompt with more specific feedback rather than starting over. \"The error handling is good, but also handle the case where the API returns a 429 rate limit response\" is better than re-explaining everything\nRELATED TERMS\n\nChain of Thought · Spec-Driven Development · AGENTS.md · Tokens\n\n← Back to Glossary"
+}

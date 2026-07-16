@@ -1,0 +1,983 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5243266.jpg?imageId=5243266&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/242302.jpg?imageId=242302&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5242949.jpg?imageId=5242949&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5242542.jpg?imageId=5242542&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240303.jpg?imageId=5240303&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240975.jpg?imageId=5240975&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5240357.jpg?imageId=5240357&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239790.jpg?imageId=5239790&panox=0.00&panoy=9.94&panow=100.00&panoh=80.12&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239628.jpg?imageId=5239628&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=24.62&heighty=0.00&heightw=39.05&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239666.jpg?imageId=5239666&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258043.jpg?imageId=258043&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239035.jpg?imageId=5239035&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5239288.jpg?imageId=5239288&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5237381.jpg?imageId=5237381&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5235229.jpg?imageId=5235229&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5235914.jpg?imageId=5235914&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5219450.jpg?imageId=5219450&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229039.jpg?imageId=229039&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5230226.jpg?imageId=5230226&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/223086.jpg?imageId=223086&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/251845.jpg?imageId=251845&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227441.jpg?imageId=5227441&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247963.jpg?imageId=247963&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255776.jpg?imageId=255776&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227671.jpg?imageId=5227671&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5228037.jpg?imageId=5228037&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252519.jpg?imageId=252519&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227222.jpg?imageId=227222&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259550.jpg?imageId=259550&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253515.jpg?imageId=253515&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225696.jpg?imageId=5225696&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/263014.jpg?imageId=263014&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232438.jpg?imageId=232438&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5223573.jpg?imageId=5223573&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221063.jpg?imageId=5221063&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5224691.jpg?imageId=5224691&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252344.jpg?imageId=252344&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247071.jpg?imageId=247071&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254705.jpg?imageId=254705&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231897.jpg?imageId=231897&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256702.jpg?imageId=256702&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234350.jpg?imageId=234350&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243726.jpg?imageId=243726&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235231.jpg?imageId=235231&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257936.jpg?imageId=257936&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259550.jpg?imageId=259550&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225623.jpg?imageId=5225623&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/251783.jpg?imageId=251783&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225717.jpg?imageId=225717&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220499.jpg?imageId=5220499&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232725.jpg?imageId=232725&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5221490.jpg?imageId=5221490&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253501.jpg?imageId=253501&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5226831.jpg?imageId=5226831&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683988.jpg?imageId=1683988&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5222595.jpg?imageId=5222595&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256299.jpg?imageId=256299&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5227334.jpg?imageId=5227334&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094224.jpg?imageId=4094224&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259550.jpg?imageId=259550&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5220527.jpg?imageId=5220527&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225501.jpg?imageId=225501&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231186.jpg?imageId=231186&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094191.jpg?imageId=4094191&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683873.jpg?imageId=1683873&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262001.jpg?imageId=262001&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/260563.jpg?imageId=260563&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230051.jpg?imageId=230051&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231626.jpg?imageId=231626&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245408.jpg?imageId=245408&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 224,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/public-sector#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Smaller suppliers invited to pitch for £2.9B UK defense tech framework\n\nGovernment Commercial Agency wants DIPS 2 to reach beyond MoD buyers and the usual big-name suppliers",
+            "href": "https://www.theregister.com/public-sector/2026/05/20/smaller-suppliers-invited-to-pitch-for-29b-uk-defense-tech-framework/5243217"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/05/20/20264/"
+        },
+        {
+            "text": "AI sackings reach New Zealand, which will use it to eject 14 percent of government staff\n\nMinister demands AI becomes ‘basic expectation for all public entities’",
+            "href": "https://www.theregister.com/public-sector/2026/05/20/ai-sackings-reach-new-zealand-which-will-use-it-to-eject-14-percent-of-government-staff/5243076"
+        },
+        {
+            "text": "23",
+            "href": "https://forums.theregister.com/forum/all/2026/05/20/2026/"
+        },
+        {
+            "text": "America's top cyber-defense agency left a GitHub repo open with passwords, keys, tokens – and incredibly obvious filenames\n\nI wonder what's in 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'?",
+            "href": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/202618/"
+        },
+        {
+            "text": "Indra rides off with £1.96B Transport for London ticketing deal as Oyster heads for back-office overhaul\n\nNothing says 'future of urban transit' like a defense contractor running your bus, tube, and train pass",
+            "href": "https://www.theregister.com/public-sector/2026/05/19/indra-rides-off-with-196b-transport-for-london-ticketing-deal-as-oyster-heads-for-back-office-overhaul/5242520"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2026/05/19/20269/"
+        },
+        {
+            "text": "Wanted: Digital chief for England's schools. Must enjoy data, AI, and concrete problems\n\nAre you ready to RAAC?",
+            "href": "https://www.theregister.com/public-sector/2026/05/17/wanted-digital-chief-for-englands-schools-must-enjoy-data-ai-and-concrete-problems/5240242"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/05/17/2026/"
+        },
+        {
+            "text": "Britain's latest civil servant is a chatbot trained on GOV.UK misery\n\nWhitehall says the AI assistant will help citizens navigate public services faster; others may see it as a cheaper alternative to answering the phone",
+            "href": "https://www.theregister.com/public-sector/2026/05/15/britains-latest-civil-servant-is-a-chatbot-trained-on-govuk-misery/5240955"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/05/15/20264/"
+        },
+        {
+            "text": "UK government prescribes Single Patient Record for NHS data chaos\n\nDoctors welcome joined-up care plan, but warn patient trust depends on safeguards, access controls, and knowing where Palantir fits in",
+            "href": "https://www.theregister.com/public-sector/2026/05/14/uk-government-prescribes-single-patient-record-for-nhs-data-chaos/5240286"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/20269/"
+        },
+        {
+            "text": "Calling the cops just got extra AI as police seek to add tech to contact systems\n\nAI already listening in to call handlers in real time, conducting live database searches",
+            "href": "https://www.theregister.com/public-sector/2026/05/14/calling-the-cops-just-got-extra-ai-as-police-seek-to-add-tech-to-contact-systems/5239737"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/05/14/20265/"
+        },
+        {
+            "text": "Royal Household seeks £3M finance system fit for a King\n\nOne seeks contractor to manage millions in taxpayer cash, will provide generous 20% off Windsor biscuit tins and tea towels",
+            "href": "https://www.theregister.com/public-sector/2026/05/13/royal-household-seeks-3m-finance-system-fit-for-a-king/5239616"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202618/"
+        },
+        {
+            "text": "Greater Manchester still says no to NHS data platform with Palantir at its heart\n\nPublic concern has only grown, says ICB, while evidence of benefits remains thin",
+            "href": "https://www.theregister.com/public-sector/2026/05/13/greater-manchester-still-says-no-to-nhs-data-platform-with-palantir-at-its-heart/5239584"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202615/"
+        },
+        {
+            "text": "London cops hail fixed facial recognition cams after suspects collared every 35 mins\n\nCroydon trial helped secure 173 arrests, though civil liberties groups remain unconvinced",
+            "href": "https://www.theregister.com/public-sector/2026/05/13/london-cops-hail-fixed-facial-recognition-cams-after-suspects-collared-every-35-mins/5239521"
+        },
+        {
+            "text": "27",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202614/"
+        },
+        {
+            "text": "Civil servants to protest outside Capita AGM over pension shambles\n\nUnion demands government strips outsourcer of contract after delays, bereavement failures, and data breach",
+            "href": "https://www.theregister.com/public-sector/2026/05/13/civil-servants-to-protest-outside-capita-agm-over-pension-shambles/5238985"
+        },
+        {
+            "text": "58",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/20268/"
+        },
+        {
+            "text": "Vietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads\n\nCommunist government plans personalized ‘data-driven decision-making based on real-time information’ by 2035",
+            "href": "https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/20262/"
+        },
+        {
+            "text": "Europe wants out from under US tech – but first it has to find the exits\n\nReport maps the weak points in cloud, identity, and public sector procurement",
+            "href": "https://www.theregister.com/public-sector/2026/05/11/europe-wants-out-from-under-us-tech-but-first-it-has-to-find-the-exits/5234898"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/05/11/20263/"
+        },
+        {
+            "text": "UK wants fresh fingerprints on £300M biometrics platform\n\nHome Office probes supplier interest as core police and immigration system heads for support shake-up",
+            "href": "https://www.theregister.com/public-sector/2026/05/09/uk-wants-fresh-fingerprints-on-300m-biometrics-platform/5234933"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/09/2026/"
+        },
+        {
+            "text": "UK abandons police database cloud move after £35M transformation stalls\n\nHome Office finds 80% of code cannot be reused, balks at £26M in extra costs",
+            "href": "https://www.theregister.com/public-sector/2026/05/08/uk-abandons-police-database-cloud-move-after-35m-transformation-stalls/5235718"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/20269/"
+        },
+        {
+            "text": "Planning and land searches hit by IT problems in 3 councils following SaaS migration\n\nEXCLUSIVE: Searches go missing, house sales fall through, and a 5G mast erected by mistake",
+            "href": "https://www.theregister.com/saas/2026/05/06/planning-and-land-searches-hit-by-it-problems-in-3-councils-following-saas-migration/5219388"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/05/06/20261/"
+        },
+        {
+            "text": "Palantir CEO: 10 percent of the world 'professionally hates us'\n\nThe Iran war has been great for business",
+            "href": "https://www.theregister.com/on-prem/2026/05/05/palantir-ceo-10-percent-of-world-professionally-hates-us/5220719"
+        },
+        {
+            "text": "55",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/palantir_q1_2026/"
+        },
+        {
+            "text": "Royal Navy chief backs drones, autonomous weapons in ‘Hybrid Navy’\n\nPlan mixes crewed ships, robot escorts, and long-range strike to bolster a stretched fleet",
+            "href": "https://www.theregister.com/on-prem/2026/05/03/royal-navy-chief-backs-drones-robot-ships/5229976"
+        },
+        {
+            "text": "62",
+            "href": "https://forums.theregister.com/forum/all/2026/05/03/future_royal_navy_drones_high_tech/"
+        },
+        {
+            "text": "Job's a good 'un: Bank of England tech project wins watchdog praise\n\nPAC: Now why can't everybody else in public sector do it like this?",
+            "href": "https://www.theregister.com/on-prem/2026/05/03/bank-of-england-is-gold-standard-for-tech-projects-says-pac/5228629"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/05/03/bank_of_england_tech_migration/"
+        },
+        {
+            "text": "Mythos complicates the breakup, says Pentagon CTO, but Anthropic is still barred\n\nEmil Michael says agencies are evaluating the cybersecurity model, not deploying it",
+            "href": "https://www.theregister.com/on-prem/2026/05/01/pentagon-keeps-anthropic-barred-despite-mythos-interest/5223143"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/05/01/mythos_complicates_anthropic_us_gov_breakup/"
+        },
+        {
+            "text": "UK pensions dept goes shopping for spy-van tech with £2M surveillance tender\n\nCovert cameras, live-streaming systems, and in-vehicle recording kit sought to catch out fraudsters",
+            "href": "https://www.theregister.com/on-prem/2026/05/01/uk-pensions-dept-shopping-for-spy-van-tech-worth-up-to-2m/5226953"
+        },
+        {
+            "text": "30",
+            "href": "https://forums.theregister.com/forum/all/2026/05/01/dwp_goes_shopping_for_spyvan/"
+        },
+        {
+            "text": "DVLA's 14-week driving license fiasco – the tech, people and chatbot trying to clear it\n\nMedical license applicants still waiting months while agency insists it's 'putting things right'",
+            "href": "https://www.theregister.com/on-prem/2026/05/01/dvlas-licence-backlog-tech-staff-bots-to-fix-it/5220263"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/05/01/dvlas_14week_driving_licence_fiasco/"
+        },
+        {
+            "text": "UK.gov's DCMS to new CDIO: Migrate from Google to Microsoft, overhaul ERP, build a team\n\n£125k and a pension await whoever can herd 6 departments onto single platform without losing will to live",
+            "href": "https://www.theregister.com/on-prem/2026/04/28/dcms-to-new-cdio-microsoft-migration-overhaul-erp-survive/5224325"
+        },
+        {
+            "text": "21",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/ukgov_seeks_cdio_to_lead/"
+        },
+        {
+            "text": "UK govt dept sent a document 'in error.' Now it's being used in a £370M contract lawsuit\n\nComparison between 2 vendors was never meant to be seen ... or made",
+            "href": "https://www.theregister.com/on-prem/2026/04/28/document-sent-in-error-by-dwp-being-used-to-sue-department/5227145"
+        },
+        {
+            "text": "71",
+            "href": "https://forums.theregister.com/forum/all/2026/04/28/dwp_sent_document_in_error/"
+        },
+        {
+            "text": "The Navy's autonomous carrier-based refueling drone has finally flown\n\nAfter missing its 2025 target, Boeing's MQ-25A Stingray is one step closer to a carrier deck",
+            "href": "https://www.theregister.com/on-prem/2026/04/27/boeings-autonomous-navy-refueling-drone-takes-flight/5227462"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/navys_autonomous_carrierlaunched_refueling_drones/"
+        },
+        {
+            "text": "Trump's Golden Dome gets $3.2B of contractors and an AI sprinkle\n\nSpace Force awards 11 firms prototype deals to build orbital interceptors",
+            "href": "https://www.theregister.com/on-prem/2026/04/27/golden-dome-gets-32b-of-contractors-and-an-ai-sprinkle/5229047"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/us_names_firms_to_develop/"
+        },
+        {
+            "text": "ICO chief John Edwards steps back as workplace probe quietly unfolds\n\nUK’s data watchdog confirms its boss has been off the job since February while an HR investigation runs",
+            "href": "https://www.theregister.com/on-prem/2026/04/27/ico-boss-edwards-steps-back-amid-workplace-investigation/5222705"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/ico_chief_john_edwards_steps/"
+        },
+        {
+            "text": "Watch out UK taxpayers: 28,000 HMRC staffers just got an AI copilot\n\nMicrosoft Copilot now heading into ‘Official Sensitive’ work after winning back just 26 minutes a day in a trial",
+            "href": "https://www.theregister.com/on-prem/2026/04/27/uk-tax-authority-hands-28000-staff-an-ai-copilot/5226881"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2026/04/27/hmrc_hands_28000_staff_ai/"
+        },
+        {
+            "text": "Pentagon wants to water down drone program with autonomous subs\n\nWhat, you didn't expect autonomous military craft to stay in the sky forever?",
+            "href": "https://www.theregister.com/on-prem/2026/04/24/darpa-seeks-deep-sea-drones-for-autonomous-warfare-push/5223112"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/pentagons_deep_sea_drones/"
+        },
+        {
+            "text": "UK gov pays public £550 to discuss Digital ID – then bans journalists from the room\n\nNothing says 'We want honest opinions' like a 36,000-letter mailshot with no awkward questions allowed",
+            "href": "https://www.theregister.com/on-prem/2026/04/24/uk-govt-shells-out-550-for-digital-id-panel-bans-press/5225628"
+        },
+        {
+            "text": "83",
+            "href": "https://forums.theregister.com/forum/all/2026/04/24/digital_it_consult/"
+        },
+        {
+            "text": "US Air Force department names firms to power its bases with mini nukes\n\nThree vendors matched to three sites",
+            "href": "https://www.theregister.com/on-prem/2026/04/23/us-air-force-names-firms-to-power-its-bases-with-mini-nukes/5229541"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/04/23/us_air_force_names_firms_mini_nukes/"
+        },
+        {
+            "text": "American farms have a new steward for their safety net, disaster programs... Palantir\n\nWins $300M deal over Salesforce, IBM because of 'integration with existing USDA systems,' among other things",
+            "href": "https://www.theregister.com/on-prem/2026/04/23/us-farms-have-new-steward-for-their-safety-nets-palantir/5228344"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/04/23/palantir_wins_us_department_of_agriculture_contract/"
+        },
+        {
+            "text": "Linux may get a hall pass from one state age-check bill, but Congress plays hall monitor\n\nColorado amendments could exempt open source OSes, code repos, and containers",
+            "href": "https://www.theregister.com/on-prem/2026/04/22/linux-may-get-exemption-from-colorado-age-check-bill/5222771"
+        },
+        {
+            "text": "34",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/linux_us_state_age_verificaiton_laws/"
+        },
+        {
+            "text": "Chase got a spiff of $77 million to create one job with New York datacenter\n\nOfficial involved in deal tells El Reg number doesn't paint entire picture of datacenter's economic benefit",
+            "href": "https://www.theregister.com/on-prem/2026/04/20/77m-tax-subsidy-for-ny-datacenter-project-will-create-1-job/5220998"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/04/20/chase_77m_tax_subsidy_datacenter_job/"
+        },
+        {
+            "text": "Indonesia’s game rating system paused amid claims it leaked developer creds and glimpses of major new titles\n\nPLUS: India bins ID app pre-install plan; Robot wins Beijing half-marathon; AI writing Manga speech bubbles; and more!",
+            "href": "https://www.theregister.com/on-prem/2026/04/20/indonesias-game-rating-system-leaks-developer-creds/5223870"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/20/asia_tech_news_roundup/"
+        },
+        {
+            "text": "Capita won disastrous UK pensions gig after acing performance checks\n\nTop civil servant tells MPs bid was strong on quality and value for money",
+            "href": "https://www.theregister.com/on-prem/2026/04/17/capita-won-troubled-uk-pensions-gig-after-performance-checks/5222827"
+        },
+        {
+            "text": "105",
+            "href": "https://forums.theregister.com/forum/all/2026/04/17/capita_csps/"
+        },
+        {
+            "text": "Loud, power hungry – opposition grows to datacenters as Maine passes bit barn ban\n\nIf there's one thing folks want less than Copilot in their taskbar, it's a bit barn in their backyard",
+            "href": "https://www.theregister.com/on-prem/2026/04/16/maine-to-pause-big-bit-barns-as-local-opposition-spreads/5225764"
+        },
+        {
+            "text": "47",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/maine_pulls_bit_barn_brake/"
+        },
+        {
+            "text": "Brussels tells Google to hand rivals its search crown jewels as privacy row brews\n\nIncludes a to-do list on search data sharing and platform access as DMA enforcement ramps up",
+            "href": "https://www.theregister.com/on-prem/2026/04/16/eu-forces-googles-hand-on-search-data-angering-google/5219821"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/brussels_tells_google_to_open/"
+        },
+        {
+            "text": "Cops hand Motorola £25M no-bid deal to keep 2000-era radios alive\n\nBiz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget",
+            "href": "https://www.theregister.com/on-prem/2026/04/16/cops-hand-motorola-25m-to-keep-2000-era-radios-alive/5227951"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/motorola_airwave/"
+        },
+        {
+            "text": "UK told its Big Tech habit is now a national security risk\n\nOpen Rights Group says years of reliance on US giants have left Britain exposed",
+            "href": "https://www.theregister.com/on-prem/2026/04/15/uk-told-its-big-tech-habit-is-now-a-national-security-risk/5221084"
+        },
+        {
+            "text": "42",
+            "href": "https://forums.theregister.com/forum/all/2026/04/15/uk_big_tech_dependence/"
+        },
+        {
+            "text": "UK state bank considers lengthening disastrous IT program\n\nAlready £1.3B over budget and 4 years late, NS&I could extend timetable beyond 8 years",
+            "href": "https://www.theregister.com/on-prem/2026/04/14/uk-state-bank-considers-lengthening-disastrous-it-program/5220290"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2026/04/14/uk_state_bank_considers_lengthing/"
+        },
+        {
+            "text": "Attention, gamers: The FAA wants YOU to be an air traffic controller\n\nGG noob, who cleared you to land?",
+            "href": "https://www.theregister.com/on-prem/2026/04/13/faa-seeking-gamers-to-fill-air-traffic-control-ranks/5220934"
+        },
+        {
+            "text": "40",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/faa_gamers_air_traffic_control/"
+        },
+        {
+            "text": "Veterans Affairs has lost track of software licenses amid $985M bill\n\nDepartment putting systems in place to manage 'restrictive licensing practices'",
+            "href": "https://www.theregister.com/on-prem/2026/04/13/veterans-affairs-software-licensing-under-fire-in-gao-report/5222640"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/va_software_licensing_gao/"
+        },
+        {
+            "text": "France’s digital directorate dumping Windows desktops, adopting Linux instead\n\nAprès ça, le déluge, as plans call for move away from plenty more American software and hardware",
+            "href": "https://www.theregister.com/on-prem/2026/04/13/frances-digital-agency-dumping-windows-desktops-for-linux/5225890"
+        },
+        {
+            "text": "120",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/france_tech_sovereignty_plan/"
+        },
+        {
+            "text": "Fewer than 3 in 10 register for HMRC's Making Tax Digital shake-up\n\nMost sole traders and landlords ignore marketing campaigns, though fines are coming",
+            "href": "https://www.theregister.com/on-prem/2026/04/10/fewer-than-3-in-10-sign-up-for-hmrcs-making-tax-digital/5228404"
+        },
+        {
+            "text": "131",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/mtd_hmrc/"
+        },
+        {
+            "text": "South Korea introduces universal basic mobile data access\n\nEveryone gets unlimited 400 Kbps access, oldies get expanded caps, and leaky telcos get their social license back",
+            "href": "https://www.theregister.com/on-prem/2026/04/10/south-korea-introduces-universal-basic-mobile-data-access/5225273"
+        },
+        {
+            "text": "69",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/south_korea_data_access_universal/"
+        },
+        {
+            "text": "UK.gov's top tech jobs pay more than prime minister earns\n\nDSIT hiring directors general with packages reaching £260K plus pension",
+            "href": "https://www.theregister.com/on-prem/2026/04/09/ukgovs-top-tech-jobs-pay-more-than-prime-minister-earns/5222232"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/dsit_tech_jobs/"
+        },
+        {
+            "text": "Capita's pension portal exposes civil servants' private data\n\nAs if the backlog, the bugs, and the chatbot fixes weren't enough",
+            "href": "https://www.theregister.com/on-prem/2026/04/09/capitas-pension-portal-exposes-civil-servants-private-data/5220827"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/capita_breach/"
+        },
+        {
+            "text": "RAF eyes cheap drone-killer as Typhoon jet tests laser-guided rockets\n\nBAE says trials could offer cheaper way to counter uncrewed aerial threats",
+            "href": "https://www.theregister.com/on-prem/2026/04/08/raf-tests-typhoon-laser-guided-rockets-for-drone-defense/5219861"
+        },
+        {
+            "text": "69",
+            "href": "https://forums.theregister.com/forum/all/2026/04/08/typhoon_drone_laser_rockets/"
+        },
+        {
+            "text": "Japan relaxes privacy laws to make itself the ‘easiest country to develop AI’\n\nOpting out of personal data use won't be an option because Minister says that's a 'very big obstacle' to AI adoption",
+            "href": "https://www.theregister.com/on-prem/2026/04/08/japan-relaxes-privacy-laws-to-make-ai-development-easy/5228895"
+        },
+        {
+            "text": "25",
+            "href": "https://forums.theregister.com/forum/all/2026/04/08/japan_privacy_law_changes_ai/"
+        },
+        {
+            "text": "OpenInfra General Manager talks sovereignty, governments deploying tech 'kill switches'\n\nGeopolitics enter the room as Thierry Carrez shows that there's more to Kubecon than AI",
+            "href": "https://www.theregister.com/on-prem/2026/04/07/openinfra-general-manager-on-sovereignty-and-kill-switches/5221464"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/04/07/thierry_carrez_on_sovereignty_interview/"
+        },
+        {
+            "text": "Want to be the IT Crowd for the BBC? An £800M contract beckons\n\nSupplier will need to look after networks, email, tech support, tools and more – plus find cost savings",
+            "href": "https://www.theregister.com/on-prem/2026/04/02/bbc-puts-out-fresh-800m-it-contract-to-tender/5228690"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/04/02/bbc_800m_it_tender/"
+        },
+        {
+            "text": "Live and Let AI: Former CIA officer says human spies matter more in the LLM age\n\nAI is eroding trust in digital communications and data, giving old-school spycraft fresh relevance for modern agents",
+            "href": "https://www.theregister.com/on-prem/2026/04/01/human-intelligence-may-matter-more-in-the-ai-age/5226482"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/04/01/live_and_let_ai_excia/"
+        },
+        {
+            "text": "'People's Panel' to check if UK wants controversial Digital ID will cost £630K\n\nWe could tell you no for free",
+            "href": "https://www.theregister.com/on-prem/2026/04/01/peoples-panel-to-see-if-uk-wants-digital-id-to-cost-630k/5226252"
+        },
+        {
+            "text": "89",
+            "href": "https://forums.theregister.com/forum/all/2026/04/01/peoples_panel_digital_id/"
+        },
+        {
+            "text": "UK government admits Capita pension portal was crapita at launch\n\nPAC grilling reveals £239M bought a system that couldn't handle the work, the volumes, or placeholder text",
+            "href": "https://www.theregister.com/on-prem/2026/03/27/uk-government-admits-capita-pension-portal-wasnt-ready/5222541"
+        },
+        {
+            "text": "70",
+            "href": "https://forums.theregister.com/forum/all/2026/03/27/capita_pension_portal_pac/"
+        },
+        {
+            "text": "India's space program can't spend money fast enough, putting missions in peril\n\nSatnav systems aren't well, IP is being sold too cheap, and thousands of roles remain open",
+            "href": "https://www.theregister.com/on-prem/2026/03/27/indias-space-program-cant-spend-fast-enough-to-launch/5222862"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/03/27/india_space_program_report/"
+        },
+        {
+            "text": "'Empathetic' Salesforce bots to help those fired by uncaring humans\n\nI’m sorry, Dave. I can’t give you your job back, but here’s the form you fill out to collect benefits",
+            "href": "https://www.theregister.com/on-prem/2026/03/26/emphathetic-salesforce-bots-to-help-fired-via-labor-dept/5227129"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/03/26/salesforce_bots_to_help_those/"
+        },
+        {
+            "text": "UK wants to know if banning under-16s from social media does anything useful\n\n300 families undergo 6-week trial to test impact on sleep, school, and home life",
+            "href": "https://www.theregister.com/on-prem/2026/03/26/uks-teen-social-media-ban-gets-first-reality-check/5221048"
+        },
+        {
+            "text": "82",
+            "href": "https://forums.theregister.com/forum/all/2026/03/26/uk_social_media_ban_trial/"
+        },
+        {
+            "text": "HMRC hands £473M Fujitsu migration deal to AWS after competition melts away\n\nInsiders say single-bidder process left little room for negotiation",
+            "href": "https://www.theregister.com/on-prem/2026/03/25/hmrc-hands-473m-migration-deal-to-aws-after-rivals-walk/5226916"
+        },
+        {
+            "text": "48",
+            "href": "https://forums.theregister.com/forum/all/2026/03/25/hmrc_fujitsu_contract_aws/"
+        },
+        {
+            "text": "Nothing screams casual career pivot like joining the UK Ministry of Defence for a cool £162K\n\nAI and quantum on to-do list for Chief Digital Technology Officer in charge of £140.7M budget. Fancy it?",
+            "href": "https://www.theregister.com/on-prem/2026/03/25/uk-defense-ministry-hunts-for-tech-chief-offers-162k/5219741"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2026/03/25/uk_defense_ministry_digi_officer/"
+        },
+        {
+            "text": "CMA dithers on cloud probe as Microsoft's meter runs on taxpayer dime\n\nEvery month of 'careful consideration' is another month Redmond laughs all the way to the bank",
+            "href": "https://www.theregister.com/on-prem/2026/03/23/cma-dithers-as-microsofts-cloud-meter-runs-on-your-dime/5222311"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2026/03/23/the_cost_of_inaction_how/"
+        },
+        {
+            "text": "UK police force presses pause on live facial recognition after study finds racial bias\n\nCams statistically more likely to ID Black people, says new research",
+            "href": "https://www.theregister.com/on-prem/2026/03/20/uk-cops-suspend-live-facial-recog-as-study-finds-racial-bias/5228855"
+        },
+        {
+            "text": "67",
+            "href": "https://forums.theregister.com/forum/all/2026/03/20/uk_police_force_suspend_live_faical_recog_racial_bias/"
+        },
+        {
+            "text": "UK to rethink tech buying after Palantir contracts\n\nGovernment looks for sovereign tech as NHS deal nears break clause",
+            "href": "https://www.theregister.com/on-prem/2026/03/20/uk-promises-procurement-shift-after-palantir-deals/5220969"
+        },
+        {
+            "text": "38",
+            "href": "https://forums.theregister.com/forum/all/2026/03/20/uk_palantir_contracts/"
+        },
+        {
+            "text": "Starmer's digital ID reboot raises same old questions as its Blair-era ancestor\n\nAudit trails aplenty, but no price tag – and no clue how long your data sticks around",
+            "href": "https://www.theregister.com/on-prem/2026/03/20/what-was-missing-from-the-uk-digital-id-consultation/5224830"
+        },
+        {
+            "text": "125",
+            "href": "https://forums.theregister.com/forum/all/2026/03/20/digital_id_consultation/"
+        },
+        {
+            "text": "GOV.UK chatbot gets smarter but slower as LLMs improve\n\nAccuracy jumps from 76% to 90% across public pilots, while users wait nearly 11 seconds for answers",
+            "href": "https://www.theregister.com/on-prem/2026/03/19/govuk-chatbot-gets-smarter-but-slower-as-llms-improve/5229770"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/03/19/govuk_chatbot_accuracy/"
+        },
+        {
+            "text": "Ofcom sees no need for overhaul in next phase of fiber rollout despite BT domination\n\nRegulator nudges broadband market, hopes competition will turn up in 2031",
+            "href": "https://www.theregister.com/on-prem/2026/03/17/ofcom-sees-no-need-for-change-in-next-phase-of-fiber-rollout/5223675"
+        },
+        {
+            "text": "36",
+            "href": "https://forums.theregister.com/forum/all/2026/03/17/ofcom_telelcoms_access_review/"
+        },
+        {
+            "text": "Horizon redress still a mess, MPs say – and Fujitsu hasn't paid a penny\n\nSystem compensating victims of the Post Office Horizon scandal still slow, thousands of ex-subpostmasters waiting for payments",
+            "href": "https://www.theregister.com/on-prem/2026/03/16/horizon-redress-still-a-mess-mps-say/5222545"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2026/03/16/horizon_redress_still_a_mess/"
+        },
+        {
+            "text": "Watchdog boss calls Capita's £370M DWP win 'extraordinary' amid pension portal dumpster fire\n\nPAC chair asks Cabinet Office if anyone bothered telling dept about the shambles before handing over the keys",
+            "href": "https://www.theregister.com/on-prem/2026/03/13/watchdog-capitas-pension-fiasco-now-a-370m-dwp-gig/5226202"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/capita_contracts_questioned/"
+        },
+        {
+            "text": "Pentagon AI chief praises Palantir tech for speeding battlefield strikes\n\nGoing from eight systems to one means fewer people make decisions to unleash Epic Fury",
+            "href": "https://www.theregister.com/on-prem/2026/03/13/pentagon-praises-palantir-tech-for-battlefield-strike-speed/5224851"
+        },
+        {
+            "text": "26",
+            "href": "https://forums.theregister.com/forum/all/2026/03/13/palantirs_maven_smart_system_iran/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/public-sector?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 13523,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nPublic sector news | The Register\nON-PREM > PUBLIC SECTOR\n\nTaking the pulse of the Public Sector: Where policy meets tech Innovation.\nThere’s so much happening at The Register in our coverage of government tech that we've created a dedicated section for the public sector, which offers you a front-row seat to the intersection of governance and technology. From e-governance initiatives and cybersecurity protocols to digital transformation in public services, however fast (or slow) it happens, we bring you analyses, updates, and insights that matter.\n\nSmaller suppliers invited to pitch for £2.9B UK defense tech framework\n\nGovernment Commercial Agency wants DIPS 2 to reach beyond MoD buyers and the usual big-name suppliers\n\n19 hours|6\nAI sackings reach New Zealand, which will use it to eject 14 percent of government staff\n\nMinister demands AI becomes ‘basic expectation for all public entities’\n\n1 day|23\nAmerica's top cyber-defense agency left a GitHub repo open with passwords, keys, tokens – and incredibly obvious filenames\n\nI wonder what's in 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'?\n\n1 day|46\nIndra rides off with £1.96B Transport for London ticketing deal as Oyster heads for back-office overhaul\n\nNothing says 'future of urban transit' like a defense contractor running your bus, tube, and train pass\n\n2 days|32\nWanted: Digital chief for England's schools. Must enjoy data, AI, and concrete problems\n\nAre you ready to RAAC?\n\n4 days|9\nBritain's latest civil servant is a chatbot trained on GOV.UK misery\n\nWhitehall says the AI assistant will help citizens navigate public services faster; others may see it as a cheaper alternative to answering the phone\n\n6 days|20\nUK government prescribes Single Patient Record for NHS data chaos\n\nDoctors welcome joined-up care plan, but warn patient trust depends on safeguards, access controls, and knowing where Palantir fits in\n\n7 days|24\nCalling the cops just got extra AI as police seek to add tech to contact systems\n\nAI already listening in to call handlers in real time, conducting live database searches\n\n7 days|5\nRoyal Household seeks £3M finance system fit for a King\n\nOne seeks contractor to manage millions in taxpayer cash, will provide generous 20% off Windsor biscuit tins and tea towels\n\n1 week|13\nGreater Manchester still says no to NHS data platform with Palantir at its heart\n\nPublic concern has only grown, says ICB, while evidence of benefits remains thin\n\n1 week|12\nLondon cops hail fixed facial recognition cams after suspects collared every 35 mins\n\nCroydon trial helped secure 173 arrests, though civil liberties groups remain unconvinced\n\n1 week|27\nCivil servants to protest outside Capita AGM over pension shambles\n\nUnion demands government strips outsourcer of contract after delays, bereavement failures, and data breach\n\n1 week|58\nVietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads\n\nCommunist government plans personalized ‘data-driven decision-making based on real-time information’ by 2035\n\n1 week|6\nEurope wants out from under US tech – but first it has to find the exits\n\nReport maps the weak points in cloud, identity, and public sector procurement\n\n1 week|6\nUK wants fresh fingerprints on £300M biometrics platform\n\nHome Office probes supplier interest as core police and immigration system heads for support shake-up\n\n2 weeks|1\nUK abandons police database cloud move after £35M transformation stalls\n\nHome Office finds 80% of code cannot be reused, balks at £26M in extra costs\n\n2 weeks|1\nPlanning and land searches hit by IT problems in 3 councils following SaaS migration\n\nEXCLUSIVE: Searches go missing, house sales fall through, and a 5G mast erected by mistake\n\n2 weeks|5\nPalantir CEO: 10 percent of the world 'professionally hates us'\n\nThe Iran war has been great for business\n\n2 weeks|55\nRoyal Navy chief backs drones, autonomous weapons in ‘Hybrid Navy’\n\nPlan mixes crewed ships, robot escorts, and long-range strike to bolster a stretched fleet\n\n3 weeks|62\nJob's a good 'un: Bank of England tech project wins watchdog praise\n\nPAC: Now why can't everybody else in public sector do it like this?\n\n3 weeks|40\nMythos complicates the breakup, says Pentagon CTO, but Anthropic is still barred\n\nEmil Michael says agencies are evaluating the cybersecurity model, not deploying it\n\n3 weeks|10\nUK pensions dept goes shopping for spy-van tech with £2M surveillance tender\n\nCovert cameras, live-streaming systems, and in-vehicle recording kit sought to catch out fraudsters\n\n3 weeks|30\nDVLA's 14-week driving license fiasco – the tech, people and chatbot trying to clear it\n\nMedical license applicants still waiting months while agency insists it's 'putting things right'\n\n3 weeks|22\nUK.gov's DCMS to new CDIO: Migrate from Google to Microsoft, overhaul ERP, build a team\n\n£125k and a pension await whoever can herd 6 departments onto single platform without losing will to live\n\n3 weeks|21\nUK govt dept sent a document 'in error.' Now it's being used in a £370M contract lawsuit\n\nComparison between 2 vendors was never meant to be seen ... or made\n\n3 weeks|71\nThe Navy's autonomous carrier-based refueling drone has finally flown\n\nAfter missing its 2025 target, Boeing's MQ-25A Stingray is one step closer to a carrier deck\n\n3 weeks|34\nTrump's Golden Dome gets $3.2B of contractors and an AI sprinkle\n\nSpace Force awards 11 firms prototype deals to build orbital interceptors\n\n3 weeks|40\nICO chief John Edwards steps back as workplace probe quietly unfolds\n\nUK’s data watchdog confirms its boss has been off the job since February while an HR investigation runs\n\n3 weeks|11\nWatch out UK taxpayers: 28,000 HMRC staffers just got an AI copilot\n\nMicrosoft Copilot now heading into ‘Official Sensitive’ work after winning back just 26 minutes a day in a trial\n\n3 weeks|33\nPentagon wants to water down drone program with autonomous subs\n\nWhat, you didn't expect autonomous military craft to stay in the sky forever?\n\n4 weeks|24\nUK gov pays public £550 to discuss Digital ID – then bans journalists from the room\n\nNothing says 'We want honest opinions' like a 36,000-letter mailshot with no awkward questions allowed\n\n4 weeks|83\nUS Air Force department names firms to power its bases with mini nukes\n\nThree vendors matched to three sites\n\n4 weeks|10\nAmerican farms have a new steward for their safety net, disaster programs... Palantir\n\nWins $300M deal over Salesforce, IBM because of 'integration with existing USDA systems,' among other things\n\n4 weeks|20\nLinux may get a hall pass from one state age-check bill, but Congress plays hall monitor\n\nColorado amendments could exempt open source OSes, code repos, and containers\n\n4 weeks|34\nChase got a spiff of $77 million to create one job with New York datacenter\n\nOfficial involved in deal tells El Reg number doesn't paint entire picture of datacenter's economic benefit\n\n4 weeks|14\nIndonesia’s game rating system paused amid claims it leaked developer creds and glimpses of major new titles\n\nPLUS: India bins ID app pre-install plan; Robot wins Beijing half-marathon; AI writing Manga speech bubbles; and more!\n\n1 month|2\nCapita won disastrous UK pensions gig after acing performance checks\n\nTop civil servant tells MPs bid was strong on quality and value for money\n\n1 month|105\nLoud, power hungry – opposition grows to datacenters as Maine passes bit barn ban\n\nIf there's one thing folks want less than Copilot in their taskbar, it's a bit barn in their backyard\n\n1 month|47\nBrussels tells Google to hand rivals its search crown jewels as privacy row brews\n\nIncludes a to-do list on search data sharing and platform access as DMA enforcement ramps up\n\n1 month|22\nCops hand Motorola £25M no-bid deal to keep 2000-era radios alive\n\nBiz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget\n\n1 month|44\nUK told its Big Tech habit is now a national security risk\n\nOpen Rights Group says years of reliance on US giants have left Britain exposed\n\n1 month|42\nUK state bank considers lengthening disastrous IT program\n\nAlready £1.3B over budget and 4 years late, NS&I could extend timetable beyond 8 years\n\n1 month|31\nAttention, gamers: The FAA wants YOU to be an air traffic controller\n\nGG noob, who cleared you to land?\n\n1 month|40\nVeterans Affairs has lost track of software licenses amid $985M bill\n\nDepartment putting systems in place to manage 'restrictive licensing practices'\n\n1 month|22\nFrance’s digital directorate dumping Windows desktops, adopting Linux instead\n\nAprès ça, le déluge, as plans call for move away from plenty more American software and hardware\n\n1 month|120\nFewer than 3 in 10 register for HMRC's Making Tax Digital shake-up\n\nMost sole traders and landlords ignore marketing campaigns, though fines are coming\n\n1 month|131\nSouth Korea introduces universal basic mobile data access\n\nEveryone gets unlimited 400 Kbps access, oldies get expanded caps, and leaky telcos get their social license back\n\n1 month|69\nUK.gov's top tech jobs pay more than prime minister earns\n\nDSIT hiring directors general with packages reaching £260K plus pension\n\n1 month|19\nCapita's pension portal exposes civil servants' private data\n\nAs if the backlog, the bugs, and the chatbot fixes weren't enough\n\n1 month|17\nRAF eyes cheap drone-killer as Typhoon jet tests laser-guided rockets\n\nBAE says trials could offer cheaper way to counter uncrewed aerial threats\n\n1 month|69\nJapan relaxes privacy laws to make itself the ‘easiest country to develop AI’\n\nOpting out of personal data use won't be an option because Minister says that's a 'very big obstacle' to AI adoption\n\n1 month|25\nOpenInfra General Manager talks sovereignty, governments deploying tech 'kill switches'\n\nGeopolitics enter the room as Thierry Carrez shows that there's more to Kubecon than AI\n\n1 month|6\nWant to be the IT Crowd for the BBC? An £800M contract beckons\n\nSupplier will need to look after networks, email, tech support, tools and more – plus find cost savings\n\n2 months|24\nLive and Let AI: Former CIA officer says human spies matter more in the LLM age\n\nAI is eroding trust in digital communications and data, giving old-school spycraft fresh relevance for modern agents\n\n2 months|11\n'People's Panel' to check if UK wants controversial Digital ID will cost £630K\n\nWe could tell you no for free\n\n2 months|89\nUK government admits Capita pension portal was crapita at launch\n\nPAC grilling reveals £239M bought a system that couldn't handle the work, the volumes, or placeholder text\n\n2 months|70\nIndia's space program can't spend money fast enough, putting missions in peril\n\nSatnav systems aren't well, IP is being sold too cheap, and thousands of roles remain open\n\n2 months|6\n'Empathetic' Salesforce bots to help those fired by uncaring humans\n\nI’m sorry, Dave. I can’t give you your job back, but here’s the form you fill out to collect benefits\n\n2 months|5\nUK wants to know if banning under-16s from social media does anything useful\n\n300 families undergo 6-week trial to test impact on sleep, school, and home life\n\n2 months|82\nHMRC hands £473M Fujitsu migration deal to AWS after competition melts away\n\nInsiders say single-bidder process left little room for negotiation\n\n2 months|48\nNothing screams casual career pivot like joining the UK Ministry of Defence for a cool £162K\n\nAI and quantum on to-do list for Chief Digital Technology Officer in charge of £140.7M budget. Fancy it?\n\n2 months|28\nCMA dithers on cloud probe as Microsoft's meter runs on taxpayer dime\n\nEvery month of 'careful consideration' is another month Redmond laughs all the way to the bank\n\n2 months|6\nUK police force presses pause on live facial recognition after study finds racial bias\n\nCams statistically more likely to ID Black people, says new research\n\n2 months|67\nUK to rethink tech buying after Palantir contracts\n\nGovernment looks for sovereign tech as NHS deal nears break clause\n\n2 months|38\nStarmer's digital ID reboot raises same old questions as its Blair-era ancestor\n\nAudit trails aplenty, but no price tag – and no clue how long your data sticks around\n\n2 months|125\nGOV.UK chatbot gets smarter but slower as LLMs improve\n\nAccuracy jumps from 76% to 90% across public pilots, while users wait nearly 11 seconds for answers\n\n2 months|10\nOfcom sees no need for overhaul in next phase of fiber rollout despite BT domination\n\nRegulator nudges broadband market, hopes competition will turn up in 2031\n\n2 months|36\nHorizon redress still a mess, MPs say – and Fujitsu hasn't paid a penny\n\nSystem compensating victims of the Post Office Horizon scandal still slow, thousands of ex-subpostmasters waiting for payments\n\n2 months|31\nWatchdog boss calls Capita's £370M DWP win 'extraordinary' amid pension portal dumpster fire\n\nPAC chair asks Cabinet Office if anyone bothered telling dept about the shambles before handing over the keys\n\n2 months|28\nPentagon AI chief praises Palantir tech for speeding battlefield strikes\n\nGoing from eight systems to one means fewer people make decisions to unleash Epic Fury\n\n2 months|26\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

@@ -1,0 +1,201 @@
+{
+    "image_count": 9,
+    "images": [
+        "https://piechowski.io/post/git-commands-before-reading-code/cover_hu3f66e25b7571f7e32d40f355f31a2ca9_56928_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/vim-tabclose/cover_hu05e50695b4b0858a2e9f131f1fdb039b_59726_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/bundle-audit_hubdfe0f1032e5e0f6888e3c8791c14ae7_147924_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/vim-tabnew/vim-help-tabnew_huaa90c9621e7cfd80322d8a5f4d061da8_48072_800x0_resize_box_3.png",
+        "https://piechowski.io/post/why-is-default-scope-bad-rails/cover_hu698cbe9da9758f5e3d49778b8a4d5d7c_57806_800x0_resize_q75_h2_box_2.webp",
+        "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/last-arg-deprecated-screenshot_hu3cc3e391735eb1758c4dcdc05d067fa1_75862_800x0_resize_box_3.png",
+        "https://piechowski.io/post/how-to-open-current-opened-file-in-new-tab-vim/vim-newtab-percent_hu491bfb808348f06e91e956cb16f01f7a_178575_800x0_resize_box_3.png",
+        "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/irb-active-record-queries_hu3e1d38a86036662fc5c36e8ff04aba6e_177141_800x0_resize_box_3.png",
+        "https://piechowski.io/post/let-and-context-rspec-pattern/rspec-let-context-pattern_hud62507713aa918dddb5440df59744214_144056_800x0_resize_box_3.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 45,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "← All posts",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "The Git Commands I Run Before Reading Any Code",
+            "href": "https://piechowski.io/post/git-commands-before-reading-code/"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "git",
+            "href": "https://piechowski.io/tags/git"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "Why Your Engineering Team Is Slow (It's the Codebase, Not the People)",
+            "href": "https://piechowski.io/post/codebase-drag-audit/"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "leadership",
+            "href": "https://piechowski.io/tags/leadership"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "How to Close a Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabclose/"
+        },
+        {
+            "text": "vim",
+            "href": "https://piechowski.io/tags/vim"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "legacy",
+            "href": "https://piechowski.io/tags/legacy"
+        },
+        {
+            "text": "How to Open a New Tab in Vim",
+            "href": "https://piechowski.io/post/vim-tabnew/"
+        },
+        {
+            "text": "vim",
+            "href": "https://piechowski.io/tags/vim"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "Vim: How to Open Current Opened File in New Tab",
+            "href": "https://piechowski.io/post/how-to-open-current-opened-file-in-new-tab-vim/"
+        },
+        {
+            "text": "vim",
+            "href": "https://piechowski.io/tags/vim"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "Rails: How to Use Greater Than/Less Than in Active Record where Statements",
+            "href": "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "Using Let and Context to Modularize RSpec Tests",
+            "href": "https://piechowski.io/post/let-and-context-rspec-pattern/"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "testing",
+            "href": "https://piechowski.io/tags/testing"
+        },
+        {
+            "text": "2",
+            "href": "https://piechowski.io/tags/development/page/2/"
+        },
+        {
+            "text": "»",
+            "href": "https://piechowski.io/tags/development/page/2/"
+        },
+        {
+            "text": "»»",
+            "href": "https://piechowski.io/tags/development/page/2/"
+        }
+    ],
+    "text_length": 2430,
+    "text_full": "Work With Me\nGithub\nBlog\n← All posts\nPosts tagged: development\nApr 8, 2026\nThe Git Commands I Run Before Reading Any Code\n\nFive git log commands that diagnose a new codebase before you open a single file: code churn hotspots, bus factor, bug clusters, and crisis patterns.\n\ndevelopment\ngit\nlegacy\nMar 31, 2026\nWhy Your Engineering Team Is Slow (It's the Codebase, Not the People)\n\nA two-minute interactive audit to score whether technical debt is dragging your engineering team. Five signals that separate people problems from code problems.\n\nlegacy\nleadership\ndevelopment\nMar 9, 2026\nHow to Close a Tab in Vim\n\nTo close a tab in vim, use :tabclose\n\nvim\ndevelopment\nMar 5, 2026 · Updated Mar 28, 2026\nHow I Audit a Legacy Rails Codebase in the First Week\n\nMy Rails codebase audit process: stakeholder interviews before code, Gemfile and schema before any tools, and a single-page triage as the deliverable.\n\nrails\nruby\nlegacy\nFeb 10, 2022\nHow to Open a New Tab in Vim\n\nTo open a new tab in vim, use :tabnew\n\nvim\ndevelopment\nJan 6, 2020 · Updated Mar 9, 2026\nRails default_scope: Why You Should Never Use It\n\n`default_scope` quietly breaks `Model.all`, corrupts scope chaining, bleeds into associations, and can leak data in multi-tenant apps. Here's why it's dangerous and what to use instead.\n\nrails\nruby\ndevelopment\nJan 2, 2020 · Updated May 20, 2020\nSolved: Warning: Using the last argument as keyword parameters is deprecated\n\nRuby 2.7 deprecated the use of hashes in the last argument of a method call. Fix this warning by removing the curly braces or adding a hash splat (**) to a variable argument.\n\nrails\nruby\ndevelopment\nDec 31, 2019\nVim: How to Open Current Opened File in New Tab\n\nIn vim, you can open the current file in a new tab by utilizing :tabnew %.\n\nvim\ndevelopment\nDec 30, 2019\nRails: How to Use Greater Than/Less Than in Active Record where Statements\n\nWhen querying ActiveRecord for greater than and less than, most people turn to including raw SQL in their codebase... But raw SQL isn't required!\n\nrails\nruby\ndevelopment\nDec 23, 2019\nUsing Let and Context to Modularize RSpec Tests\n\nWhen test suites contain a lot of duplication, coupling occurs at an individual spec basis. By utilizing core RSpec functionality, developers can clean up specs in order to reduce duplication and add clarity to the focal point of the spec.\n\nruby\ndevelopment\ntesting\n««\n«\n1\n2\n»\n»»\nLet's talk about your codebase.\nEmail\nMessage"
+}

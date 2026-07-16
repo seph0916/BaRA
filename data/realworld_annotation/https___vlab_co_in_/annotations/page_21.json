@@ -1,0 +1,232 @@
+{
+    "image_count": 8,
+    "images": [
+        "https://www.vlab.co.in/images/fb-icon.png",
+        "https://www.vlab.co.in/images/logo.jpg",
+        "https://www.vlab.co.in/images/inner_slider/image1.gif",
+        "https://www.vlab.co.in/images/inner_slider/image2.gif",
+        "https://www.vlab.co.in/images/inner_slider/image3.gif",
+        "https://www.vlab.co.in/images/inner_slider/image4.gif",
+        "https://www.vlab.co.in/images/inner_slider/image5.gif",
+        "https://www.vlab.co.in/images/qr-code-mob6.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 53,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.facebook.com/VLabsIITDelhi/"
+        },
+        {
+            "text": "",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "HOME",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "ABOUT US",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "OUTREACH PORTAL",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "PARTICIPATING INSTITUTES",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "CONTACT US",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Outreach Portal",
+            "href": "https://centraloutreach.vlabs.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "NMEICT",
+            "href": "http://www.nmeict.ac.in/"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "Participating Institutes",
+            "href": "https://www.vlab.co.in/participating-institutes"
+        },
+        {
+            "text": "Digital Applications Lab",
+            "href": "https://da-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Digital Logic Design Lab (Logic Gates & Mux-Demux)",
+            "href": "https://dld-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Heat Transfer Lab (New)",
+            "href": "https://ht-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Engineering Physics Lab I (New)",
+            "href": "https://ep-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Systems of Linear Equations Lab (New)",
+            "href": "https://nm-sle-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Roots of Equation Lab (New)",
+            "href": "https://nm-re-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Ordinary Differential Equation Lab (New)",
+            "href": "https://nm-ode-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Regression Analysis Lab (New)",
+            "href": "https://nm-regression-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Interpolation Lab (New)",
+            "href": "https://nm-interpolation-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Eigen Analysis Lab (New)",
+            "href": "https://nm-ea-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Differentiation Lab (New)",
+            "href": "https://nm-differentiation-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Conduction Lab I (New)",
+            "href": "https://htc1-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Conduction Lab II (New)",
+            "href": "https://htc2-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Radiation Lab (New)",
+            "href": "https://htr-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Forced and Natural Convection Lab (New)",
+            "href": "https://htfnc-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Dynamics of Fluid Flow Lab (New)",
+            "href": "https://fm-dff-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Kinematics of Flow and Ideal Flow Lab (New)",
+            "href": "https://fm-kif-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Buoyancy and Flotation Lab (New)",
+            "href": "http://fm-bf-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Viscous Flow, Compressible Flow, Boundary Layer Virtual Lab (New)",
+            "href": "https://fm-vfc-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Flow through Pipes Virtual Lab (New)",
+            "href": "https://fm-ftp-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Hydrostatic Forces on Surface Lab (New)",
+            "href": "https://fm-hfs-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Pressure and its Measurement Virtual Lab (New)",
+            "href": "https://fm-pm-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Fluid Properties Virtual Lab (New)",
+            "href": "https://fm-fp-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Integration Lab (New)",
+            "href": "https://nm-integration-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Partial Differential Equation Lab (New)",
+            "href": "https://nm-pde-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Univariate Analysis Lab (New)",
+            "href": "https://nm-ua-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Thermodynamics II Virtual Lab (New)",
+            "href": "https://thermodynamics-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Engineering Physics Lab II (New)",
+            "href": "https://ep2-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Numerical Methods - Optimization Virtual Lab (New)",
+            "href": "https://nm-opt-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Boiling and Condensation Virtual Lab (New)",
+            "href": "https://bc-iitb.vlabs.ac.in/"
+        },
+        {
+            "text": "Lab Feedback Form",
+            "href": "http://38.100.110.143/feedback/feedback.html"
+        },
+        {
+            "text": "Lab Assessment Form",
+            "href": "http://38.100.110.143/labassessment/assessmentform.html"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://www.vlab.co.in/faq"
+        },
+        {
+            "text": "Shakshat Portal",
+            "href": "http://www.sakshat.ac.in/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.vlab.co.in/"
+        },
+        {
+            "text": "About us",
+            "href": "https://www.vlab.co.in/about-us"
+        },
+        {
+            "text": "Contact Us",
+            "href": "https://www.vlab.co.in/contact-us"
+        }
+    ],
+    "text_length": 1774,
+    "text_full": "21 May, 2026 | 06:14:55 AM\nVisitors  51333660\nAn Initiative of\nMinistry of Education\nUnder the National Mission on Education through ICT\nHOME\nABOUT US\nOUTREACH PORTAL\nPARTICIPATING INSTITUTES\nNMEICT\nCONTACT US\nIIT Bombay\nHome » Participating Institutes » IIT Bombay\nVirtual Labs At IIT Bombay\nDigital Applications Lab\nDigital Logic Design Lab (Logic Gates & Mux-Demux)\nHeat Transfer Lab (New)\nEngineering Physics Lab I (New)\nSystems of Linear Equations Lab (New)\nRoots of Equation Lab (New)\nOrdinary Differential Equation Lab (New)\nRegression Analysis Lab (New)\nInterpolation Lab (New)\nEigen Analysis Lab (New)\nDifferentiation Lab (New)\nConduction Lab I (New)\nConduction Lab II (New)\nRadiation Lab (New)\nForced and Natural Convection Lab (New)\nDynamics of Fluid Flow Lab (New)\nKinematics of Flow and Ideal Flow Lab (New)\nBuoyancy and Flotation Lab (New)\nViscous Flow, Compressible Flow, Boundary Layer Virtual Lab (New)\nFlow through Pipes Virtual Lab (New)\nHydrostatic Forces on Surface Lab (New)\nPressure and its Measurement Virtual Lab (New)\nFluid Properties Virtual Lab (New)\nIntegration Lab (New)\nPartial Differential Equation Lab (New)\nUnivariate Analysis Lab (New)\nThermodynamics II Virtual Lab (New)\nEngineering Physics Lab II (New)\nNumerical Methods - Optimization Virtual Lab (New)\nBoiling and Condensation Virtual Lab (New)\nContact Us\n\nSantosh Noronha\n\nProfessor\n\nDepartment of Chemical Engineering\n\nIIT BOMBAY\n\n+912225767238\n\nnoronha@che.iitb.ac.in\n\nQuick Links\n\nLab Feedback Form\nLab Assessment Form\nFAQ\nShakshat Portal\n\nAbout VLAB\n\nHome\nAbout us\nContact Us\n\nGet In Touch With Us\n\n  support@vlab.co.in\n   Phone(O) - +91-9211460624\n  Wireless Research Lab\nRoom No - 206/IIA\nBharti School of Telecom\nIndian Institute of Technology Delhi\nHauz Khas, New Delhi-110016"
+}

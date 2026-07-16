@@ -1,0 +1,92 @@
+{
+  "start_url": "https://hey.paris/posts/appleid",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://hey.paris/posts/appleid",
+    "https://hey.paris/",
+    "https://hey.paris/books-and-events/events/",
+    "https://hey.paris/books-and-events/books/",
+    "https://hey.paris/about/",
+    "https://hey.paris/all-posts/",
+    "https://hey.paris/tags/ai/",
+    "https://hey.paris/tags/space-news/",
+    "https://hey.paris/posts/libraries-tas-fellowship/",
+    "https://hey.paris/posts/big-plans/",
+    "https://hey.paris/posts/spacenews-april-2026/",
+    "https://hey.paris/posts/spacenews/",
+    "https://hey.paris/fiction/the-chair/",
+    "https://hey.paris/fiction/bolted-down/",
+    "https://hey.paris/posts/finalsession/",
+    "https://hey.paris/fiction/signal-to-noise/",
+    "https://hey.paris/fiction/gerrik-of-puddle/",
+    "https://hey.paris/bio/",
+    "https://hey.paris/posts/spacenews-march-2026/",
+    "https://hey.paris/posts/new-try-yarn-spinner/",
+    "https://hey.paris/posts/tasgm2026/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://hey.paris/posts/appleid"
+    ],
+    "1": [
+      "https://hey.paris/",
+      "https://hey.paris/books-and-events/events/",
+      "https://hey.paris/books-and-events/books/",
+      "https://hey.paris/about/",
+      "https://hey.paris/all-posts/"
+    ],
+    "2": [
+      "https://hey.paris/tags/ai/",
+      "https://hey.paris/tags/space-news/",
+      "https://hey.paris/posts/libraries-tas-fellowship/",
+      "https://hey.paris/posts/big-plans/",
+      "https://hey.paris/posts/spacenews-april-2026/",
+      "https://hey.paris/posts/spacenews/",
+      "https://hey.paris/fiction/the-chair/",
+      "https://hey.paris/fiction/bolted-down/",
+      "https://hey.paris/posts/finalsession/",
+      "https://hey.paris/fiction/signal-to-noise/",
+      "https://hey.paris/fiction/gerrik-of-puddle/",
+      "https://hey.paris/bio/",
+      "https://hey.paris/posts/spacenews-march-2026/",
+      "https://hey.paris/posts/new-try-yarn-spinner/",
+      "https://hey.paris/posts/tasgm2026/",
+      "https://hey.paris/posts/spacenews-february-2026/",
+      "https://hey.paris/posts/hint-line-93/"
+    ],
+    "3": [
+      "https://hey.paris/posts/state-ai-governance/",
+      "https://hey.paris/posts/yarn-spinner-no-ai/",
+      "https://hey.paris/posts/aisi-international-comparison/",
+      "https://hey.paris/posts/govai/",
+      "https://hey.paris/posts/tasmanai/",
+      "https://hey.paris/posts/spacenews-december-2025/",
+      "https://hey.paris/posts/spacenews-november-2025/",
+      "https://hey.paris/posts/spacenews-october-2025/",
+      "https://hey.paris/posts/spacenews-september-2025/",
+      "https://hey.paris/posts/spacenews-august-2025/",
+      "https://hey.paris/tags/space/",
+      "https://hey.paris/tags/tasmania/",
+      "https://hey.paris/tags/history/",
+      "https://hey.paris/tags/research/",
+      "https://hey.paris/tags/libraries-tasmania/",
+      "https://hey.paris/tags/games/",
+      "https://hey.paris/tags/secret-lab/",
+      "https://hey.paris/tags/bank-of-us/",
+      "https://hey.paris/tags/big-plans/",
+      "https://hey.paris/tags/education/",
+      "https://hey.paris/tags/abc-radio/",
+      "https://hey.paris/tags/radio/",
+      "https://hey.paris/tags/yarn-spinner/",
+      "https://hey.paris/tags/web/",
+      "https://hey.paris/tags/tools/",
+      "https://hey.paris/tags/tasgm/",
+      "https://hey.paris/tags/board/"
+    ]
+  },
+  "dead_links": [
+    "https://hey.paris/books"
+  ]
+}

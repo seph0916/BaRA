@@ -1,0 +1,79 @@
+{
+  "start_url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+    "https://www.eff.org/about",
+    "https://www.eff.org/about/contact",
+    "https://www.eff.org/press/contact",
+    "https://www.eff.org/about/staff",
+    "https://www.eff.org/about/opportunities",
+    "https://www.eff.org/35",
+    "https://www.eff.org/work",
+    "https://www.eff.org/issues/free-speech",
+    "https://www.eff.org/issues/innovation"
+  ],
+  "by_depth": {
+    "0": [
+      "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data"
+    ],
+    "1": [
+      "https://www.eff.org/about",
+      "https://www.eff.org/about/contact",
+      "https://www.eff.org/press/contact",
+      "https://www.eff.org/about/staff",
+      "https://www.eff.org/about/opportunities"
+    ],
+    "2": [
+      "https://www.eff.org/35",
+      "https://www.eff.org/work",
+      "https://www.eff.org/issues/free-speech",
+      "https://www.eff.org/issues/innovation",
+      "https://www.eff.org/issues/transparency",
+      "https://www.eff.org/issues/international",
+      "https://www.eff.org/issues/security",
+      "https://www.eff.org/updates",
+      "https://www.eff.org/deeplinks",
+      "https://www.eff.org/events/list",
+      "https://www.eff.org/pages/legal-cases",
+      "https://www.eff.org/how-to-fix-the-internet-podcast",
+      "https://www.eff.org/about/annual-reports-and-financials",
+      "https://act.eff.org/",
+      "https://efa.eff.org/",
+      "https://www.eff.org/about/opportunities/volunteer",
+      "https://www.eff.org/pages/tools",
+      "https://www.eff.org/pages/surveillance-self-defense",
+      "https://www.eff.org/pages/certbot",
+      "https://www.eff.org/pages/atlas-surveillance",
+      "https://www.eff.org/pages/cover-your-tracks",
+      "https://sls.eff.org/",
+      "https://www.eff.org/pages/apkeep",
+      "https://supporters.eff.org/donate/spring--DB",
+      "https://www.eff.org/givingsociety"
+    ],
+    "3": [
+      "https://shopeff.org/",
+      "https://www.eff.org/thanks",
+      "https://www.eff.org/pages/other-ways-give-and-donor-support",
+      "https://www.eff.org/pages/membership-faq",
+      "https://supporters.eff.org/donate/spring--MH",
+      "https://www.eff.org/copyright",
+      "https://www.eff.org/pages/trademark-and-brand-usage-policy",
+      "https://www.eff.org/policy",
+      "https://www.eff.org/",
+      "https://supporters.eff.org/donate/spring--MM",
+      "https://supporters.eff.org/donate/spring--wssn",
+      "https://supporters.eff.org/donate/spring--SD",
+      "https://supporters.eff.org/donate/spring--SM",
+      "https://www.eff.org/issues/content-blocking",
+      "https://www.eff.org/issues/export-controls",
+      "https://www.eff.org/issues/intellectual-property/the-term",
+      "https://www.eff.org/issues/intellectual-property",
+      "https://www.eff.org/issues/analog-hole",
+      "https://www.eff.org/issues/blockchain"
+    ]
+  },
+  "dead_links": []
+}

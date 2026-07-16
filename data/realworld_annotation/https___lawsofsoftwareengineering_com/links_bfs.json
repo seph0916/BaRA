@@ -1,0 +1,83 @@
+{
+  "start_url": "https://lawsofsoftwareengineering.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://lawsofsoftwareengineering.com/",
+    "https://lawsofsoftwareengineering.com/newsletter/",
+    "https://lawsofsoftwareengineering.com/info/",
+    "https://lawsofsoftwareengineering.com/book/",
+    "https://lawsofsoftwareengineering.com/poster/",
+    "https://lawsofsoftwareengineering.com/laws/conways-law/",
+    "https://lawsofsoftwareengineering.com/index.xml",
+    "https://lawsofsoftwareengineering.com/api.json",
+    "https://lawsofsoftwareengineering.com/laws/premature-optimization/",
+    "https://lawsofsoftwareengineering.com/laws/hyrums-law/",
+    "https://lawsofsoftwareengineering.com/laws/boy-scout-rule/",
+    "https://lawsofsoftwareengineering.com/laws/yagni/",
+    "https://lawsofsoftwareengineering.com/laws/brooks-law/",
+    "https://lawsofsoftwareengineering.com/print/laws/conways-law/",
+    "https://lawsofsoftwareengineering.com/laws/galls-law/",
+    "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/",
+    "https://lawsofsoftwareengineering.com/print/laws/premature-optimization/",
+    "https://lawsofsoftwareengineering.com/laws/hofstadters-law/",
+    "https://lawsofsoftwareengineering.com/laws/kernighans-law/",
+    "https://lawsofsoftwareengineering.com/laws/amdahls-law/",
+    "https://lawsofsoftwareengineering.com/print/laws/hyrums-law/",
+    "https://lawsofsoftwareengineering.com/print/laws/boy-scout-rule/",
+    "https://lawsofsoftwareengineering.com/laws/broken-windows-theory/",
+    "https://lawsofsoftwareengineering.com/laws/technical-debt/",
+    "https://lawsofsoftwareengineering.com/print/laws/yagni/",
+    "https://lawsofsoftwareengineering.com/laws/kiss-principle/",
+    "https://lawsofsoftwareengineering.com/laws/dry-principle/",
+    "https://lawsofsoftwareengineering.com/print/laws/brooks-law/",
+    "https://lawsofsoftwareengineering.com/laws/second-system-effect/",
+    "https://lawsofsoftwareengineering.com/laws/law-of-unintended-consequences/",
+    "https://lawsofsoftwareengineering.com/print/laws/galls-law/",
+    "https://lawsofsoftwareengineering.com/print/laws/law-of-leaky-abstractions/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://lawsofsoftwareengineering.com/"
+    ],
+    "1": [
+      "https://lawsofsoftwareengineering.com/newsletter/",
+      "https://lawsofsoftwareengineering.com/info/",
+      "https://lawsofsoftwareengineering.com/book/",
+      "https://lawsofsoftwareengineering.com/poster/",
+      "https://lawsofsoftwareengineering.com/laws/conways-law/"
+    ],
+    "2": [
+      "https://lawsofsoftwareengineering.com/index.xml",
+      "https://lawsofsoftwareengineering.com/api.json",
+      "https://lawsofsoftwareengineering.com/laws/premature-optimization/",
+      "https://lawsofsoftwareengineering.com/laws/hyrums-law/",
+      "https://lawsofsoftwareengineering.com/laws/boy-scout-rule/",
+      "https://lawsofsoftwareengineering.com/laws/yagni/",
+      "https://lawsofsoftwareengineering.com/laws/brooks-law/",
+      "https://lawsofsoftwareengineering.com/print/laws/conways-law/",
+      "https://lawsofsoftwareengineering.com/laws/galls-law/",
+      "https://lawsofsoftwareengineering.com/laws/law-of-leaky-abstractions/"
+    ],
+    "3": [
+      "https://lawsofsoftwareengineering.com/print/laws/premature-optimization/",
+      "https://lawsofsoftwareengineering.com/laws/hofstadters-law/",
+      "https://lawsofsoftwareengineering.com/laws/kernighans-law/",
+      "https://lawsofsoftwareengineering.com/laws/amdahls-law/",
+      "https://lawsofsoftwareengineering.com/print/laws/hyrums-law/",
+      "https://lawsofsoftwareengineering.com/print/laws/boy-scout-rule/",
+      "https://lawsofsoftwareengineering.com/laws/broken-windows-theory/",
+      "https://lawsofsoftwareengineering.com/laws/technical-debt/",
+      "https://lawsofsoftwareengineering.com/print/laws/yagni/",
+      "https://lawsofsoftwareengineering.com/laws/kiss-principle/",
+      "https://lawsofsoftwareengineering.com/laws/dry-principle/",
+      "https://lawsofsoftwareengineering.com/print/laws/brooks-law/",
+      "https://lawsofsoftwareengineering.com/laws/second-system-effect/",
+      "https://lawsofsoftwareengineering.com/laws/law-of-unintended-consequences/",
+      "https://lawsofsoftwareengineering.com/print/laws/galls-law/",
+      "https://lawsofsoftwareengineering.com/print/laws/law-of-leaky-abstractions/"
+    ]
+  },
+  "dead_links": []
+}

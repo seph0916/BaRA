@@ -1,0 +1,729 @@
+{
+    "image_count": 5,
+    "images": [
+        "https://turso.tech/_next/image?url=%2Favatar%2FPekka-Enberg.jpg&w=64&q=75",
+        "https://turso.tech/_next/image?url=%2Favatar%2FGlauber-Costa.jpg&w=64&q=75",
+        "https://turso.tech/_next/image?url=%2Fimages%2Fblog%2Fturso-0.6.0%2Fcover.png&w=3840&q=100",
+        "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=f75cd33d-277e-4a8b-bb61-d680a8d10275&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d61f9974-4f0c-4f60-b495-33ee1f280e97&pt=Turso%20v0.6.0&tw_document_href=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-0.6.0&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342908326.514572188871196694&txn_id=omspsomsps&type=javascript&version=2.3.53",
+        "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%2664%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=f75cd33d-277e-4a8b-bb61-d680a8d10275&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d61f9974-4f0c-4f60-b495-33ee1f280e97&pt=Turso%20v0.6.0&tw_document_href=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-0.6.0&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779342908326.514572188871196694&txn_id=omspsomsps&type=javascript&version=2.3.53"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 178,
+    "links": [
+        {
+            "text": "Join the waitlist",
+            "href": "https://turso.tech/private-beta"
+        },
+        {
+            "text": "Turso",
+            "href": "https://turso.tech/"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Docs",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Cloud Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Follow us on GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Follow us on X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Join us on Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "Login",
+            "href": "https://turso.tech/signin"
+        },
+        {
+            "text": "Start for free now",
+            "href": "https://app.turso.tech/signup"
+        },
+        {
+            "text": "Pekka Enberg",
+            "href": "https://turso.tech/author/pekka-enberg"
+        },
+        {
+            "text": "Glauber Costa",
+            "href": "https://turso.tech/author/glauber-costa"
+        },
+        {
+            "text": "What’s new?",
+            "href": "https://turso.tech/blog/turso-0.6.0#what-s-new-"
+        },
+        {
+            "text": "Multi-process support",
+            "href": "https://turso.tech/blog/turso-0.6.0#multi-process-support"
+        },
+        {
+            "text": "Vacuum",
+            "href": "https://turso.tech/blog/turso-0.6.0#vacuum"
+        },
+        {
+            "text": "SQL features",
+            "href": "https://turso.tech/blog/turso-0.6.0#sql-features"
+        },
+        {
+            "text": "Triggers",
+            "href": "https://turso.tech/blog/turso-0.6.0#triggers"
+        },
+        {
+            "text": "Tables",
+            "href": "https://turso.tech/blog/turso-0.6.0#tables"
+        },
+        {
+            "text": "Queries",
+            "href": "https://turso.tech/blog/turso-0.6.0#queries"
+        },
+        {
+            "text": "Functions",
+            "href": "https://turso.tech/blog/turso-0.6.0#functions"
+        },
+        {
+            "text": "Pragmas",
+            "href": "https://turso.tech/blog/turso-0.6.0#pragmas"
+        },
+        {
+            "text": "Type system improvements",
+            "href": "https://turso.tech/blog/turso-0.6.0#type-system-improvements"
+        },
+        {
+            "text": "Array types",
+            "href": "https://turso.tech/blog/turso-0.6.0#array-types"
+        },
+        {
+            "text": "Structs and unions",
+            "href": "https://turso.tech/blog/turso-0.6.0#structs-and-unions"
+        },
+        {
+            "text": "Domains",
+            "href": "https://turso.tech/blog/turso-0.6.0#domains"
+        },
+        {
+            "text": "Encryption",
+            "href": "https://turso.tech/blog/turso-0.6.0#encryption"
+        },
+        {
+            "text": "SDKs",
+            "href": "https://turso.tech/blog/turso-0.6.0#sdks"
+        },
+        {
+            "text": "JavaScript SDKs",
+            "href": "https://turso.tech/blog/turso-0.6.0#javascript-sdks"
+        },
+        {
+            "text": "Python",
+            "href": "https://turso.tech/blog/turso-0.6.0#python"
+        },
+        {
+            "text": "Rust",
+            "href": "https://turso.tech/blog/turso-0.6.0#rust"
+        },
+        {
+            "text": "SQLite C API",
+            "href": "https://turso.tech/blog/turso-0.6.0#sqlite-c-api"
+        },
+        {
+            "text": "Performance",
+            "href": "https://turso.tech/blog/turso-0.6.0#performance"
+        },
+        {
+            "text": "Summary",
+            "href": "https://turso.tech/blog/turso-0.6.0#summary"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#what-s-new-"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#whats-new"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#multi-process-support"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#multi-process-support"
+        },
+        {
+            "text": "#6236",
+            "href": "https://github.com/tursodatabase/turso/pull/6236"
+        },
+        {
+            "text": "Marc-André Moreau",
+            "href": "https://github.com/awakecoding"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#vacuum"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#vacuum"
+        },
+        {
+            "text": "#6402",
+            "href": "https://github.com/tursodatabase/turso/pull/6402"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#sql-features"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#sql-features"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#triggers"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#triggers"
+        },
+        {
+            "text": "#5768",
+            "href": "https://github.com/tursodatabase/turso/pull/5768"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#tables"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#tables"
+        },
+        {
+            "text": "#6323",
+            "href": "https://github.com/tursodatabase/turso/pull/6323"
+        },
+        {
+            "text": "#5964",
+            "href": "https://github.com/tursodatabase/turso/pull/5964"
+        },
+        {
+            "text": "#6134",
+            "href": "https://github.com/tursodatabase/turso/pull/6134"
+        },
+        {
+            "text": "#6422",
+            "href": "https://github.com/tursodatabase/turso/pull/6422"
+        },
+        {
+            "text": "#6530",
+            "href": "https://github.com/tursodatabase/turso/pull/6530"
+        },
+        {
+            "text": "Marc-André Moreau",
+            "href": "https://github.com/awakecoding"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#queries"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#queries"
+        },
+        {
+            "text": "#5879",
+            "href": "https://github.com/tursodatabase/turso/pull/5879"
+        },
+        {
+            "text": "#6427",
+            "href": "https://github.com/tursodatabase/turso/pull/6427"
+        },
+        {
+            "text": "#6029",
+            "href": "https://github.com/tursodatabase/turso/pull/6029"
+        },
+        {
+            "text": "#6510",
+            "href": "https://github.com/tursodatabase/turso/pull/6510"
+        },
+        {
+            "text": "#6171",
+            "href": "https://github.com/tursodatabase/turso/pull/6171"
+        },
+        {
+            "text": "#6063",
+            "href": "https://github.com/tursodatabase/turso/pull/6063"
+        },
+        {
+            "text": "#6242",
+            "href": "https://github.com/tursodatabase/turso/pull/6242"
+        },
+        {
+            "text": "#6058",
+            "href": "https://github.com/tursodatabase/turso/pull/6058"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#functions"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#functions"
+        },
+        {
+            "text": "#5477",
+            "href": "https://github.com/tursodatabase/turso/pull/5477"
+        },
+        {
+            "text": "#6132",
+            "href": "https://github.com/tursodatabase/turso/pull/6132"
+        },
+        {
+            "text": "#6216",
+            "href": "https://github.com/tursodatabase/turso/pull/6216"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#pragmas"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#pragmas"
+        },
+        {
+            "text": "#6621",
+            "href": "https://github.com/tursodatabase/turso/pull/6621"
+        },
+        {
+            "text": "#6200",
+            "href": "https://github.com/tursodatabase/turso/pull/6200"
+        },
+        {
+            "text": "#6232",
+            "href": "https://github.com/tursodatabase/turso/pull/6232"
+        },
+        {
+            "text": "#6234",
+            "href": "https://github.com/tursodatabase/turso/pull/6234"
+        },
+        {
+            "text": "#5772",
+            "href": "https://github.com/tursodatabase/turso/pull/5772"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#type-system-improvements"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#type-system-improvements"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#array-types"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#array-types"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#structs-and-unions"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#structs-and-unions"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#domains"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#domains"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#encryption"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#encryption"
+        },
+        {
+            "text": "Encryption for MVCC databases",
+            "href": "https://turso.tech/blog/introducing-fast-native-encryption-in-turso-database"
+        },
+        {
+            "text": "#5740",
+            "href": "https://github.com/tursodatabase/turso/pull/5740"
+        },
+        {
+            "text": "#5836",
+            "href": "https://github.com/tursodatabase/turso/pull/5836"
+        },
+        {
+            "text": "#6174",
+            "href": "https://github.com/tursodatabase/turso/pull/6174"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#sdks"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#sdks"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#javascript-sdks"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#javascript-sdks"
+        },
+        {
+            "text": "#6109",
+            "href": "https://github.com/tursodatabase/turso/pull/6109"
+        },
+        {
+            "text": "#6196",
+            "href": "https://github.com/tursodatabase/turso/pull/6196"
+        },
+        {
+            "text": "#6060",
+            "href": "https://github.com/tursodatabase/turso/pull/6060"
+        },
+        {
+            "text": "#6064",
+            "href": "https://github.com/tursodatabase/turso/pull/6064"
+        },
+        {
+            "text": "#6465",
+            "href": "https://github.com/tursodatabase/turso/pull/6465"
+        },
+        {
+            "text": "#6718",
+            "href": "https://github.com/tursodatabase/turso/pull/6718"
+        },
+        {
+            "text": "#6589",
+            "href": "https://github.com/tursodatabase/turso/pull/6589"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#python"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#python"
+        },
+        {
+            "text": "#6551",
+            "href": "https://github.com/tursodatabase/turso/pull/6551"
+        },
+        {
+            "text": "Akira Noda",
+            "href": "https://github.com/aknd"
+        },
+        {
+            "text": "#6526",
+            "href": "https://github.com/tursodatabase/turso/pull/6526"
+        },
+        {
+            "text": "Akira Noda",
+            "href": "https://github.com/aknd"
+        },
+        {
+            "text": "#6054",
+            "href": "https://github.com/tursodatabase/turso/pull/6054"
+        },
+        {
+            "text": "#6067",
+            "href": "https://github.com/tursodatabase/turso/pull/6067"
+        },
+        {
+            "text": "#6122",
+            "href": "https://github.com/tursodatabase/turso/pull/6122"
+        },
+        {
+            "text": "Kilian Hu",
+            "href": "https://github.com/kelvinhammond"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#rust"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#rust"
+        },
+        {
+            "text": "#6313",
+            "href": "https://github.com/tursodatabase/turso/pull/6313"
+        },
+        {
+            "text": "Hugues Morisset",
+            "href": "https://github.com/izissise"
+        },
+        {
+            "text": "#6765",
+            "href": "https://github.com/tursodatabase/turso/pull/6765"
+        },
+        {
+            "text": "#6448",
+            "href": "https://github.com/tursodatabase/turso/pull/6448"
+        },
+        {
+            "text": "wyhaya",
+            "href": "https://github.com/wyhaya"
+        },
+        {
+            "text": "#6601",
+            "href": "https://github.com/tursodatabase/turso/pull/6601"
+        },
+        {
+            "text": "Mark Hinshaw",
+            "href": "https://github.com/mahinshaw"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#sqlite-c-api"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#sqlite-c-api"
+        },
+        {
+            "text": "João Lucas",
+            "href": "https://github.com/jlucaso1"
+        },
+        {
+            "text": "Lucas Schwalm Silva",
+            "href": "https://github.com/sh-lucas"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#performance"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#performance"
+        },
+        {
+            "text": "#5827",
+            "href": "https://github.com/tursodatabase/turso/pull/5827"
+        },
+        {
+            "text": "#5822",
+            "href": "https://github.com/tursodatabase/turso/pull/5822"
+        },
+        {
+            "text": "#5880",
+            "href": "https://github.com/tursodatabase/turso/pull/5880"
+        },
+        {
+            "text": "#5741",
+            "href": "https://github.com/tursodatabase/turso/pull/5741"
+        },
+        {
+            "text": "#5894",
+            "href": "https://github.com/tursodatabase/turso/pull/5894"
+        },
+        {
+            "text": "#5785",
+            "href": "https://github.com/tursodatabase/turso/pull/5785"
+        },
+        {
+            "text": "#5771",
+            "href": "https://github.com/tursodatabase/turso/pull/5771"
+        },
+        {
+            "text": "#6217",
+            "href": "https://github.com/tursodatabase/turso/pull/6217"
+        },
+        {
+            "text": "#5923",
+            "href": "https://github.com/tursodatabase/turso/pull/5923"
+        },
+        {
+            "text": "#5977",
+            "href": "https://github.com/tursodatabase/turso/pull/5977"
+        },
+        {
+            "text": "#5981",
+            "href": "https://github.com/tursodatabase/turso/pull/5981"
+        },
+        {
+            "text": "#6430",
+            "href": "https://github.com/tursodatabase/turso/pull/6430"
+        },
+        {
+            "text": "#",
+            "href": "https://turso.tech/blog/turso-0.6.0#summary"
+        },
+        {
+            "text": "",
+            "href": "https://turso.tech/blog/turso-0.6.0#summary"
+        },
+        {
+            "text": "on GitHub",
+            "href": "https://github.com/tursodatabase/turso/releases/tag/v0.6.0"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "text": "Discord",
+            "href": "https://discord.gg/turso"
+        },
+        {
+            "text": "Turso Now Includes Unlimited Active Databases for Everybody",
+            "href": "https://turso.tech/blog/turso-now-includes-unlimited-databases-for-everybody"
+        },
+        {
+            "text": "The next generation of Turso Cloud is (almost) here: Now in Private Beta",
+            "href": "https://turso.tech/blog/turso-cloud-new-generation-private-beta"
+        },
+        {
+            "text": "Turso Cloud + Stripe Projects: Unlimited databases for all of your projects",
+            "href": "https://turso.tech/blog/turso-cloud-plus-stripe-projects"
+        },
+        {
+            "text": "Pekka Enberg",
+            "href": "https://turso.tech/author/pekka-enberg"
+        },
+        {
+            "text": "Glauber Costa",
+            "href": "https://turso.tech/author/glauber-costa"
+        },
+        {
+            "text": "Twitter / X",
+            "href": "https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20post%20on%20the%20%40tursodatabase%20blog%3A%20Turso%20v0.6.0%0A%0A&url=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-0.6.0"
+        },
+        {
+            "text": "Hacker News",
+            "href": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-0.6.0&t=Turso%20v0.6.0"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fturso.tech%2Fblog%2Fturso-0.6.0"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/quickstart"
+        },
+        {
+            "text": "Documentation",
+            "href": "https://docs.turso.tech/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://turso.tech/pricing"
+        },
+        {
+            "text": "API Status",
+            "href": "https://status.turso.tech/"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://turso.tech/terms-of-use"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://turso.tech/privacy-policy"
+        },
+        {
+            "text": "Embedded Replicas",
+            "href": "https://docs.turso.tech/features/embedded-replicas"
+        },
+        {
+            "text": "Database Branching",
+            "href": "https://docs.turso.tech/features/branching"
+        },
+        {
+            "text": "Backups & Recovery",
+            "href": "https://docs.turso.tech/features/point-in-time-recovery"
+        },
+        {
+            "text": "Platform API",
+            "href": "https://docs.turso.tech/features/platform-api"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://docs.turso.tech/introduction"
+        },
+        {
+            "text": "Changelog",
+            "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+        },
+        {
+            "text": "Releases",
+            "href": "https://github.com/tursodatabase/turso/releases"
+        },
+        {
+            "text": "About",
+            "href": "https://turso.tech/about"
+        },
+        {
+            "text": "Support",
+            "href": "https://docs.turso.tech/support"
+        },
+        {
+            "text": "Trust",
+            "href": "https://trust.turso.tech/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://turso.tech/blog"
+        },
+        {
+            "text": "Brand",
+            "href": "https://turso.tech/brand"
+        },
+        {
+            "text": "RSS",
+            "href": "https://turso.tech/blog/feed.xml"
+        },
+        {
+            "text": "YouTube",
+            "href": "https://www.youtube.com/@tursodatabase"
+        },
+        {
+            "text": "Discord",
+            "href": "https://tur.so/discord"
+        },
+        {
+            "text": "X",
+            "href": "https://x.com/tursodatabase"
+        },
+        {
+            "text": "Linkedin",
+            "href": "https://www.linkedin.com/company/turso"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/tursodatabase"
+        }
+    ],
+    "text_length": 19836,
+    "text_full": "Register now for early access to concurrent writes in the Turso Cloud. Join the waitlist\n\nTurso\nDocs\nCloud Pricing\nBlog\nChangelog\nFollow us on GitHub\nFollow us on X\nJoin us on Discord\nLogin\nStart for free now\n\nMay 12, 2026\n\nTurso v0.6.0\nPekka Enberg\nGlauber Costa\n\nTABLE OF CONTENTS\n\nWhat’s new?\nMulti-process support\nVacuum\nSQL features\nTriggers\nTables\nQueries\nFunctions\nPragmas\nType system improvements\nArray types\nStructs and unions\nDomains\nEncryption\nSDKs\nJavaScript SDKs\nPython\nRust\nSQLite C API\nPerformance\nSummary\n#What’s new?\nMulti-process support\nVacuum\nTurso CLI on npm\nGenerated columns\nTemporary tables\n...and more\n\nToday we are announcing the release of Turso 0.6. This release feels special: this is the first release of Turso where all the major features of SQLite are now supported. Two developments in particular got us to this point: Turso now supports multi-process access, as well as vacuum of the databases. In subsequent releases, we will be working to bring those features to production level.\n\nBut 0.6 also includes a lot more. There are improvements to Turso’s strict type system, improvements in SQLite compatibility, bug fixes and performance enhancements.\n\n#Multi-process support\n\nTurso now has experimental support for multi-process access (#6236) to the same database — enabled with dsn?experimental=multiprocess_wal — so users can inspect or interact with your .db files while they are open in your live application. This is useful for things like ETL, or simply running queries against your production database directly from the CLI without shutting down your app. On Linux, Turso uses byte-range per-fd OFD locking, and regular fcntl locking on other Unix systems. On Windows, the experimental IOCP backend must be used for multi-process support (contributed by Marc-André Moreau).\n\nNote that currently only WAL journal mode is supported for multiprocess access, which means BEGIN CONCURRENT is not supported with multi-process right now.\n\n#Vacuum\n\nTurso now supports VACUUM INTO and VACUUM, which allows you to rebuild the database file to reclaim space for unused pages.\n\nThe VACUUM INTO statement writes a compacted copy of the database to a new file:\n\nVACUUM INTO 'compacted.db';\n\n\nThe VACUUM statement, in contrast, rewrites the source database itself:\n\nVACUUM;\n\n\nThe in-place VACUUM (#6402) is marked as experimental in Turso 0.6 and requires you to enable it with --experimental-vacuum on the CLI. As the statement updates the database file in-place, make sure you have backups of your data and use it with caution.\n\n#SQL features\n#Triggers\n\nTriggers are no longer experimental (#5768). CREATE TRIGGER is now enabled by default, with no flag needed. Turso supports BEFORE, AFTER, and INSTEAD OF triggers on INSERT, UPDATE, and DELETE, as well as WHEN clauses and the usual NEW. and OLD. row references. The release also has many smaller fixes across the board to make triggers production-ready, covering things like foreign-key cascade interactions, RETURNING inside trigger bodies, BEFORE INSERT raw-value affinity, nested trigger subqueries, and RAISE() argument handling.\n\n#Tables\n\nTEMPORARY tables (#6323) are now fully supported via the CREATE TEMP TABLE and CREATE TEMP TRIGGER statements, for connection-scoped ephemeral tables and triggers.\n\nGenerated columns (#5964, #6134) are now supported as an experimental feature. Enable them with --experimental-generated-columns. A generated column is a column whose value is computed from an expression over the other columns in the row:\n\nCREATE TABLE products (\n    id INTEGER PRIMARY KEY,\n    price REAL,\n    quantity INTEGER,\n    total REAL AS (price * quantity)\n);\n\n\nIn 0.6, generated columns are VIRTUAL, recomputed on read rather than stored on disk, and behave correctly with the usual table machinery: CHECK and NOT NULL constraints, UNIQUE indexes, foreign keys, and ALTER TABLE ADD COLUMN. STORED generated columns are not yet supported, and virtual generated columns in STRICT tables are not type-checked yet.\n\nCREATE TABLE AS SELECT is now supported (#6422). It creates a new table whose column definitions are derived from the result set of a SELECT and populates it with the query's rows in one statement, which is handy for materializing query results or quickly cloning a table:\n\nCREATE TABLE active_users AS\nSELECT id, name, email FROM users WHERE last_seen > '2026-01-01';\n\n\nWITHOUT ROWID tables (#6530, contributed by Marc-André Moreau) are now supported as an experimental feature. Enable them with --experimental-without-rowid. In a regular SQLite/Turso table, every row has an implicit 64-bit rowid and the table is stored as a B-tree keyed by that rowid; a WITHOUT ROWID table instead stores rows directly in a B-tree keyed by the declared PRIMARY KEY. That's a better fit when the natural key is a string or a composite — you save the rowid lookup and avoid duplicating the key across a separate index:\n\nCREATE TABLE inventory (\n    sku TEXT PRIMARY KEY,\n    qty INTEGER\n) WITHOUT ROWID;\n\n\nIn 0.6, the supported subset is opening and querying existing WITHOUT ROWID databases, creating new ones, and INSERT. UPDATE, DELETE, secondary indexes, UPSERT/REPLACE, foreign keys, MVCC writes, and CDC on WITHOUT ROWID tables are rejected explicitly for now.\n\n#Queries\n\nCROSS JOIN is now supported as an explicit join syntax (#5879). A cross join produces the Cartesian product of two tables — every row on the left paired with every row on the right — and is the same thing you get from a comma-separated FROM list, but spelled out as a join so the intent is explicit:\n\nSELECT s.name, p.label\nFROM sizes s CROSS JOIN paints p;\n\n\nUPDATE ... FROM is now supported (#6427). The optional FROM clause on UPDATE lets you compute new values for a target table by joining against other tables, which is the standard way to apply per-row updates derived from another table without resorting to correlated subqueries:\n\nUPDATE inventory\n   SET qty = inventory.qty + delta.amount\n  FROM delta\n WHERE inventory.sku = delta.sku;\n\n\nThe INDEXED BY and NOT INDEXED BY clauses are now supported (#6029). These query-planner hints let you override Turso's index selection on a per-table basis: INDEXED BY <name> forces the specified index to be used for accessing the table, while NOT INDEXED forces a full table scan. They're useful for pinning the access method when the planner picks something suboptimal:\n\nSELECT * FROM orders INDEXED BY orders_by_customer WHERE customer_id = 42;\nSELECT * FROM orders NOT INDEXED WHERE status = 'pending';\n\n\nThe FILTER clause on aggregate functions is now supported (#6510). FILTER (WHERE ...) attached to an aggregate restricts which rows that aggregate sees — without splitting the query into separate SELECTs or stuffing CASE expressions inside the aggregate. It's especially useful for computing several conditional totals over the same grouping in one pass:\n\nSELECT\n    user_id,\n    COUNT(*) FILTER (WHERE status = 'success') AS successes,\n    COUNT(*) FILTER (WHERE status = 'failed')  AS failures\nFROM jobs\nGROUP BY user_id;\n\n\nThree ORDER BY and compound-SELECT gaps got filled in. Previously, NULLS FIRST was silently ignored and NULLS LAST was rejected outright — Turso now threads NULLS FIRST / NULLS LAST through the planner and sorter so NULL placement is independent of ASC/DESC (#6171). Compound SELECTs (UNION, UNION ALL, INTERSECT, EXCEPT) now respect ORDER BY and LIMIT/OFFSET on the merged result rather than returning rows in arbitrary order (#6063). And compound SELECTs are now also allowed inside WHERE-clause subqueries, which used to be rejected with a parse error (#6242):\n\nSELECT id FROM events\nWHERE user_id IN (\n    SELECT id FROM users WHERE region = 'eu'\n    UNION\n    SELECT id FROM admins\n)\nORDER BY created_at DESC NULLS LAST;\n\n\nThe DEFAULT keyword in INSERT VALUES (#6058) lets you fall back to a column's declared default on a per-row, per-column basis instead of having to omit the column from the insert list entirely:\n\nCREATE TABLE events (\n    id INTEGER PRIMARY KEY,\n    occurred_at TEXT DEFAULT CURRENT_TIMESTAMP,\n    payload TEXT\n);\n\nINSERT INTO events (occurred_at, payload) VALUES\n    (DEFAULT, 'first'),         -- use the default timestamp\n    ('2026-01-01', 'backfill'); -- explicit value\n\n\nThis is standard SQL (SQL:2016) but not something SQLite supports.\n\n#Functions\n\nROW_NUMBER() (#5477) is now supported as a window function — it returns a 1-based sequence number within each partition and is the most common building block for \"top N per group\" queries.\n\nTwo new scalar functions from SQLite 3.50. unistr(X) (#6132) expands \\uXXXX / \\UXXXXXXXX Unicode escape sequences in a string, and unistr_quote(X) (#6216) is the inverse, producing an SQL literal that round-trips through unistr().\n\n#Pragmas\n\nTurso 0.6 fills in several pragmas that show up in SQLite tooling and ORMs:\n\nPRAGMA foreign_key_list(table) (#6621) returns the foreign-key relationships declared on a table, matching SQLite's output columns and reverse-declaration ordering. The table-valued form pragma_foreign_key_list is also supported.\nPRAGMA full_column_names and PRAGMA short_column_names (#6200) control how column names appear in result sets (TABLE.COLUMN vs. just COLUMN). These are deprecated in SQLite but still needed by some test suites and clients.\nPRAGMA locking_mode (#6232) is now readable (the value can be queried but not changed).\n.dbconfig dqs_dml on/off (#6234) now actually controls whether unresolved double-quoted identifiers fall back to string literals — SQLite's infamous \"DQS\" misfeature — instead of being silently ignored.\nPRAGMA require_where (#5772, alias PRAGMA i_am_a_dummy as an homage to MySQL) rejects UPDATE and DELETE statements that have no WHERE clause — a syntactic guardrail against accidentally rewriting or wiping an entire table. Off by default, per-connection.\n#Type system improvements\n\nTurso 0.5 introduced full support for STRICT tables, and an experimental custom type system (enabled with --experimental-custom-types), which allows you to define your own types via CREATE TYPE and use them as column types in strict tables. Turso ships a handful of built-ins, such as Numeric and Datetime. Turso 0.6 builds on that with three new improvements: array types, structs and unions, and domains.\n\n#Array types\n\nWith array types, it is possible to define arrays as first class citizens. Example:\n\nCREATE TABLE t (id INTEGER PRIMARY KEY, items TEXT[]) STRICT;\nINSERT INTO t VALUES (1, ARRAY['first', 'second', 'third']);\n\nSELECT items[1], items[2], items[3] FROM t;\n-- first|second|third\n\nSELECT items[100] FROM t;\n-- NULL\n\nSELECT items[-1] FROM t;\n-- NULL\n\n\nMultidimensional arrays, slice-notation, array aggregation, are supported\n\n#Structs and unions\n\nUnions and structs are ways to represent the complex, composite data. With dot-notation accessors, it allows you to encode expressions without having to manually define your own access notations. Example:\n\nCREATE TYPE platform_id AS UNION(telegram INT, slack TEXT, signal TEXT);\n\nCREATE TABLE contacts (\n    id INTEGER PRIMARY KEY,\n    platform platform_id\n) STRICT;\n\nINSERT INTO contacts VALUES (1, union_value('telegram', 12345));\nINSERT INTO contacts VALUES (2, union_value('slack', 'U0ABC'));\nINSERT INTO contacts VALUES (3, union_value('signal', '+1555'));\n\n-- Dot notation extracts the variant value (NULL if tag doesn't match)\nSELECT id, platform.telegram, platform.slack FROM contacts ORDER BY id;\n-- 1|12345|\n-- 2||U0ABC\n-- 3||\n\n-- Combine with union_tag() to filter by variant\nSELECT id, platform.slack FROM contacts WHERE union_tag(platform) = 'slack';\n-- 2|U0ABC\n\n#Domains\n\nDomains are “mini-types”. They encode a type together with a sequence of validation functions. For example, “positive integer”\n\nDomains are also present in Postgres, and are now part of Turso 0.6\n\nHere is an example of how to use Domains:\n\nCREATE DOMAIN positive_int AS integer CHECK (value > 0);\n\nCREATE TABLE measurements (\n    id INTEGER PRIMARY KEY,\n    reading positive_int\n) STRICT;\n\nINSERT INTO measurements VALUES (1, 42);\n-- OK\n\nINSERT INTO measurements VALUES (2, -5);\n-- Error: domain positive_int constraint violation\n\n#Encryption\n\nEncryption for MVCC databases (#5740, #5836) is now fully supported. The MVCC logical log (.db-log) is encrypted at rest using the same AEAD cipher infrastructure as the pager: each transaction frame's payload is encrypted on write and decrypted on read, while the frame header and trailer remain in plaintext so recovery and CRC validation still work without the key.\n\nChunked encryption for large frames (#6174). Because transaction frames in the logical log are variable-sized (unlike fixed 4 KiB WAL pages), large payloads are split into 32 KiB chunks and encrypted independently. This keeps memory usage bounded — readers and writers only hold one chunk in memory at a time instead of the entire frame.\n\n#SDKs\n#JavaScript SDKs\n\nThe Turso CLI is now available on npm. To run the Turso shell, type:\n\nnpx -y turso\n\n\nAnd you will be greeted with the Turso shell:\n\nTurso v0.6.0\nEnter \".help\" for usage hints.\nDid you know that Turso supports vector search? Type .manual vector to learn more.\nThis software is in BETA, use caution with production data and ensure you have backups.\nConnected to a transient in-memory database.\nUse \".open FILENAME\" to reopen on a persistent database\nturso>\n\n\nPer-connection and per-query timeouts (#6109, #6196). Both @tursodatabase/database and @tursodatabase/serverless now support a configurable query timeout that interrupts long-running statements after a deadline. You can set a connection-level default and override it per call:\n\nconst db = new Database(\"app.db\", { defaultQueryTimeout: 5_000 });\n\n// Inherits the 5s default.\ndb.prepare(\"SELECT * FROM users\").all();\n\n// Per-query override.\ndb.prepare(\"SELECT * FROM big_table\").all(undefined, { queryTimeout: 100 });\ndb.exec(\"VACUUM\", { queryTimeout: 60_000 });\n\n\nFor the serverless package, timeouts also abort the underlying fetch(), so a stalled network call no longer blocks subsequent queries on the connection. Timed-out queries throw a TimeoutError (code: \"TIMEOUT\") so callers can distinguish them and decide whether to retry.\n\nDatabase.close() now finalizes statements (#6060, #6064). Previously, calling Database.close() closed the database handle but left unfinalized prepared statements dangling.\n\n@tursodatabase/serverless now properly supports interactive transactions (#6465). Previously, prepared statements obtained via Connection.prepare() allocated their own session per call, so in the following example the insert was not rolled back:\n\nconst insert = await db.prepare(\"INSERT INTO users(name) VALUES (?)\");\n\nawait db.exec(\"BEGIN\");\nawait insert.run([\"Alice\"]);\nawait db.exec(\"ROLLBACK\");\n\n\nDatabase.prepare() now returns a promise everywhere (#6718). The serverless package already had an async prepare(); in this release @tursodatabase/database is changed to do the same, unifying the interface between serverless and local database SDKs.\n\nBind parameter support on the Database object (#6589). Database.all(), Database.get(), and Database.iterate() now accept bind parameters directly, so applications no longer have to prepare a statement just to bind a value. This is useful, for example, for serverless applications to avoid the extra network round-trip that the prepare step otherwise incurs.\n\n#Python\n\nSQLAlchemy asyncio dialect (#6551, contributed by Akira Noda). The Python bindings now register a sqlite+aioturso:// SQLAlchemy dialect, so SQLAlchemy's create_async_engine() can talk to a local Turso database without a separate driver shim — analogous to sqlite+aiosqlite://.\n\nNamed parameter support (#6526, contributed by Akira Noda). Bind parameters can now be passed by name in the Python API as well as by position.\n\nWheel coverage and Python versions. Python 3.9 is dropped and Python 3.14 is added (#6054). CI now builds wheels for Linux aarch64 and macOS x86_64 alongside the existing Linux x86_64 and macOS arm64 targets (#6067). The bindings were also ported to PyO3's declarative module syntax ahead of the deprecation of function-based modules (#6122). All three contributed by Kilian Hu.\n\n#Rust\n\nCustom I/O on Builder (#6313, contributed by Hugues Morisset). The Rust Builder now accepts a custom I/O implementation via with_io_impl(...), so embedders can plug in their own async runtime or storage backend instead of being tied to the default.\n\nDynamic auth token on the sync engine (#6765). The sync engine's auth token can be a closure that returns a fresh token rather than a fixed string, letting applications rotate credentials without restarting.\n\nStatement::n_change() (#6448, contributed by wyhaya). When you run arbitrary SQL through .query(), you only get rows back; to also see how many rows were affected without re-running with .execute(), you can now call .n_change() on the statement.\n\nexperimental_index_method on the sync Builder (#6601, contributed by Mark Hinshaw). The local Rust Builder already had experimental_index_method(bool) for FTS / vector index methods; the sync Builder now mirrors it, unblocking synced databases that use CREATE INDEX ... USING fts(...).\n\n#SQLite C API\n\nSQLite C API coverage improvements. João Lucas and Lucas Schwalm Silva improved the SQLite C API, which, for example, helps in supporting Diesel and sqlx, the Rust ORMs.\n\nThe following SQLite C API functions were added:\n\nsqlite3_column_value\nsqlite3_complete\nsqlite3_context_db_handle\nsqlite3_interrupt\nsqlite3_prepare_v3\nsqlite3_progress_handler\nsqlite3_result_int\nsqlite3_stmt_readonly\nsqlite3_stmt_status\nsqlite3_stricmp\nsqlite3_value_dup/free\nsqlite3_value_int\n\nThe sqlite3_open_v2() function now also supports URI filename parsing.\n\n#Performance\nUnified single-index and multi-index access path selection in the optimizer (#5827)\nIN (list / uncorrelated subquery) as a scan+seek driver (#5822)\nReworked CTE / FROM-subquery materialization and costing; subqueries are now order-aware (#5880)\nStats-less heuristic tuning, plus a richer EXPLAIN QUERY PLAN (#5741)\nSimple COUNT(*) and MIN()/MAX() optimizations (#5894)\nPrepared-statement recompilation check replaced with a generation counter (#5785); other step() fast-path wins (#5771)\nTrigger execution fast paths: dedicated step_subprogram, statement caching, sparse OLD./NEW. binding (#6217)\nGROUP BY: deduplicated column reads, smaller sorter records (#5923)\nLock-free buffer pool slot bitmap (#5977)\nGrace hash join algorithm for disk-spilling joins (#5981)\nBitSet / ColumnMask replacing HashSet<usize> and Vec<usize> across the planner (#6430)\n#Summary\n\nTurso 0.6 closes out the last big SQLite feature gaps: multi-process access to the same database, in-place VACUUM, generated columns, and TEMPORARY tables. Triggers come out of experimental and the type system grows arrays, structs, unions, and domains. The Turso CLI now ships on npm so npx turso is all you need to drop into a shell. Over 500 merged PRs from 70+ contributors went into this release since v0.5.0. The full changelog is on GitHub. If you run into issues or have ideas, open an issue on GitHub or join us on Discord.\n\nCONTINUE READING\nTurso Now Includes Unlimited Active Databases for Everybody\n\nMay 3, 2026\n\nThe next generation of Turso Cloud is (almost) here: Now in Private Beta\n\nApr 8, 2026\n\nTurso Cloud + Stripe Projects: Unlimited databases for all of your projects\n\nMar 26, 2026\n\nMore posts by Pekka Enberg or Glauber Costa\n\nShare article\n\nTwitter / X\nHacker News\nEmail\nLinkedIn\nCopy link\nTurso Cloud\nQuickstart\nDocumentation\nPricing\nAPI Status\nTerms of Use\nPrivacy Policy\n \nEmbedded Replicas\nDatabase Branching\nBackups & Recovery\nPlatform API\nTurso Database\nQuickstart\nChangelog\nReleases\nCompany\nAbout\nContact Us\nSupport\nTrust\nBlog\nBrand\nRSS\nYouTube\nDiscord\nX\nLinkedin\nGitHub\n© Turso 2026"
+}

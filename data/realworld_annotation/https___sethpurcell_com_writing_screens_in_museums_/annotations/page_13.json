@@ -1,0 +1,31 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 5,
+    "links": [
+        {
+            "text": "Purcell's Posts",
+            "href": "https://sethpurcell.com/"
+        },
+        {
+            "text": "RSS Feed",
+            "href": "https://sethpurcell.com/rss.xml"
+        },
+        {
+            "text": "management",
+            "href": "https://sethpurcell.com/tags/management/"
+        },
+        {
+            "text": "Previous Post\nWhat Does it Mean to be a Dev Team Lead?",
+            "href": "https://sethpurcell.com/writing/dev-team-lead"
+        },
+        {
+            "text": "Next Post\nMy Take on Development Best Practices",
+            "href": "https://sethpurcell.com/writing/development-best-practices"
+        }
+    ],
+    "text_length": 2175,
+    "text_full": "Purcell's Posts\nSend an email to Purcell's Posts\nRSS Feed\nAmplifying Expertise and Accelerating Learning Through Apprenticeship\n\nCan software development benefit from an apprenticeship model? I think so.\n\nDec 8, 2013\nmanagement\n\nOrganization is a means of multiplying the strength of an individual.\n— Peter Drucker\n\nIn software engineering, conventional wisdom holds that the time a senior engineer spends not being hands-on is time wasted, and this includes time spent discussing and reviewing the work of junior engineers. As one writer put it: “[Having] junior developers report to senior ones…reduces the time spent on development by the best technicians.”\n\nI contend the opposite is true: any time a lead engineer spends doing low-value work like writing accessors is an expensive waste, like using an atomic clock to time your eggs. I’d say the ideal use of a senior engineer’s time is directing junior engineers in the execution of designs, investigations, and experiments. At architecture firms, partners don’t make the blueprints.\n\nIn my ideal dev team, a master engineer designs the solution, then communicates it to midlevel engineers, who create skeleton classes and tests and then hand these off to junior engineers, who fill in the required functionality. Defects flow in the opposite direction - junior engineers do the initial investigation, asking for help if they need to. Once the bug has been found, the junior engineer can fix it or escalate it; either way, his solution is reviewed by a more experienced engineer.\n\nIn this way, the junior members of the team learn from the senior members, just as they do in law firms and hospitals - under close supervision. This is very different from just turning inexperienced engineers loose on the codebase, as is commonly done. I know I would have benefited enormously from closer supervision and assistance early in my career, in both far greater productivity, which would also have benefited my team, and accelerated professional development.\n\nPrevious Post\nWhat Does it Mean to be a Dev Team Lead?\nNext Post\nMy Take on Development Best Practices\nCopyright © 2026 by Seth Purcell\n | \nHosted on a Raspberry Pi 5"
+}

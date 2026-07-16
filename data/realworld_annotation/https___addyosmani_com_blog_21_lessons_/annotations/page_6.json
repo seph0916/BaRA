@@ -1,0 +1,175 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 41,
+    "links": [
+        {
+            "text": "Home",
+            "href": "https://addyosmani.com/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/addyosmani"
+        },
+        {
+            "text": "Press",
+            "href": "https://addyosmani.com/press"
+        },
+        {
+            "text": "Biography",
+            "href": "https://addyosmani.com/bio"
+        },
+        {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/in/addyosmani/"
+        },
+        {
+            "text": "Twitter",
+            "href": "https://twitter.com/addyosmani"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://addyo.substack.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://addyosmani.com/blog"
+        },
+        {
+            "text": "official jQuery blog",
+            "href": "https://blog.jquery.com/page/16/"
+        },
+        {
+            "text": "jQuery UI Bootstrap",
+            "href": "https://addyosmani.com/blog/jquery-ui-bootstrap/"
+        },
+        {
+            "text": "repository",
+            "href": "https://github.com/tastejs/todomvc"
+        },
+        {
+            "text": "TodoMVC code lives directly in the WebKit/Speedometer repository",
+            "href": "https://github.com/WebKit/Speedometer/tree/release/3.0/resources/todomvc/architecture-examples/backbone"
+        },
+        {
+            "text": "Frontend.fm interview",
+            "href": "https://frontend.fm/episodes/1-addy-osmani/"
+        },
+        {
+            "text": "Speedometer 2.0",
+            "href": "https://webkit.org/blog/8063/speedometer-2-0-a-benchmark-for-modern-web-app-responsiveness/"
+        },
+        {
+            "text": "Speedometer 3.0",
+            "href": "https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/"
+        },
+        {
+            "text": "collaborated under shared governance",
+            "href": "https://browserbench.org/announcements/speedometer3/"
+        },
+        {
+            "text": "Apple explicitly cited Speedometer 2.0 scores when marketing the M1 chip",
+            "href": "https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/"
+        },
+        {
+            "text": "Speedometer measures “something very real and utterly practical: how fast web rendering is in an actual browser.”",
+            "href": "https://daringfireball.net/linked/2024/03/14/speedometer-3"
+        },
+        {
+            "text": "announced that loading=\"lazy\" would ship in Chrome 75",
+            "href": "https://x.com/addyosmani/status/1114777583302799360"
+        },
+        {
+            "text": "Chrome native lazy-loading coverage",
+            "href": "https://coywolf.com/news/web-development/chrome-native-lazy-loading/"
+        },
+        {
+            "text": "addyosmani.com - improved lazy-loading in Chrome",
+            "href": "https://addyosmani.com/blog/better-image-lazy-loading-in-chrome/"
+        },
+        {
+            "text": "WordPress 5.5 added loading=\"lazy\" to all images by default",
+            "href": "https://make.wordpress.org/core/2020/07/14/lazy-loading-images-in-5-5/"
+        },
+        {
+            "text": "HTTP Archive Web Almanac - Resource Hints",
+            "href": "https://almanac.httparchive.org/en/2020/resource-hints"
+        },
+        {
+            "text": "announcement for native lazy-loading of embeds",
+            "href": "https://addyosmani.com/blog/native-iframe-lazy-loading/"
+        },
+        {
+            "text": "Priority Hints specification",
+            "href": "https://wicg.github.io/priority-hints/"
+        },
+        {
+            "text": "Safari added support in December 2023; Firefox followed in October 2024",
+            "href": "https://github.com/mozilla/standards-positions/issues/606"
+        },
+        {
+            "text": "DebugBear - fetchpriority explainer",
+            "href": "https://www.debugbear.com/blog/fetchpriority-attribute"
+        },
+        {
+            "text": "Calibre - Priority Hints",
+            "href": "https://calibreapp.com/blog/priority-hints"
+        },
+        {
+            "text": "WordPress 6.3 added automatic fetchpriority=\"high\" on LCP images",
+            "href": "https://make.wordpress.org/core/2023/07/13/image-performance-enhancements-in-wordpress-6-3/"
+        },
+        {
+            "text": "Quicklink",
+            "href": "https://github.com/GoogleChromeLabs/quicklink"
+        },
+        {
+            "text": "web.dev - Quicklink in React",
+            "href": "https://web.dev/articles/quicklink"
+        },
+        {
+            "text": "Guess.js",
+            "href": "https://guess-js.github.io/docs/"
+        },
+        {
+            "text": "Minko Gechev’s introduction post",
+            "href": "https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/"
+        },
+        {
+            "text": "predictive-fetching research repo",
+            "href": "https://github.com/addyosmani/predictive-fetching"
+        },
+        {
+            "text": "Speculative loading and the Speculation Rules API - PerfPlanet 2024",
+            "href": "https://calendar.perfplanet.com/2024/speculative-loading-and-the-speculation-rules-api/"
+        },
+        {
+            "text": "Introducing Aurora - Chrome for Developers",
+            "href": "https://developer.chrome.com/docs/aurora/overview"
+        },
+        {
+            "text": "Chrome blog - What’s New with Aurora 2023",
+            "href": "https://developer.chrome.com/blog/aurora-update-2023"
+        },
+        {
+            "text": "HandWiki - Yeoman",
+            "href": "https://handwiki.org/wiki/Software:Yeoman"
+        },
+        {
+            "text": "Workbox",
+            "href": "https://github.com/GoogleChrome/workbox"
+        },
+        {
+            "text": "PWA Libraries in Production - Medium/Dev Channel",
+            "href": "https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34"
+        },
+        {
+            "text": "sw-precache",
+            "href": "https://github.com/GoogleChromeLabs/sw-precache"
+        }
+    ],
+    "text_length": 12604,
+    "text_full": "Home GitHub Press Biography LinkedIn Twitter Newsletter Blog\nAddy and Open Source\n\nAddy Osmani has spent over fifteen years shaping how the web loads, renders, and performs - first as a community-driven open-source builder, then as an engineering leader at Google Chrome who turned practitioner insights into platform-level standards. His tools and specifications now touch billions of page loads daily. From creating TodoMVC and co-authoring the Fetch Priority spec to establishing Chrome Aurora’s framework partnerships and driving the Speedometer benchmarks used by Apple and Intel to optimize silicon, Osmani’s career traces a singular arc: build the tool, prove the pattern, ship the standard.\n\nThe jQuery Years and a Community-Builder’s Education\n\nBefore Google, Osmani built his reputation inside the jQuery ecosystem during its peak growth period. He served on the project’s Bug Triage Team, API Documentation Team, and Core Team, working alongside Dave Methvin - who succeeded John Resig as jQuery project lead - during the jQuery 1.6 through 1.7 era around 2011. His contributions were hands-on: triaging bugs, improving documentation, writing developer evangelism posts on the official jQuery blog, and helping launch the jQuery Standards Team alongside Yehuda Katz and Paul Irish.\n\nHe also created jQuery UI Bootstrap, a theme that resolved CSS collisions between Twitter Bootstrap and jQuery UI, and co-authored the Universal Module Definition (UMD) pattern. During this period, Osmani was a Senior JavaScript Engineer at AOL, and his jQuery involvement gave him a front-row seat to the tensions developers faced when choosing among a rapidly multiplying set of MV* frameworks - a problem that would inspire his most influential project.\n\nTodoMVC: The Rosetta Stone of JavaScript Frameworks\n\nIn 2011, Osmani created TodoMVC: the same todo application implemented across every major JavaScript MV* framework, providing developers a uniform basis for comparison. What began as an educational project became the canonical benchmark for the JavaScript ecosystem. The repository, hosted under the tastejs GitHub organization, grew to encompass 28,900 stars, 13,800 forks, and nearly 3,000 commits, with implementations spanning Backbone, Ember, AngularJS, React, Vue, Svelte, and dozens more. Core contributors included Sindre Sorhus, Pascal Hartig, Stephen Sawchuk, and Sam Saccone.\n\nTodoMVC’s most consequential second life came when Apple’s WebKit team adopted its implementations as the core workload for Speedometer, the browser performance benchmark that would go on to influence chip design. TodoMVC code lives directly in the WebKit/Speedometer repository today. As Osmani later reflected: “We ended up going from TodoMVC being a project for education, to TodoMVC being the basis for how browsers actually benchmark real-world performance.” (Frontend.fm interview)\n\nSpeedometer: Benchmarks That Now Shape How Silicon Gets Designed\n\nSpeedometer 1.0 launched in 2014 from Apple’s WebKit team, measuring browser responsiveness by simulating user interactions - adding, completing, and deleting 100 todo items - across TodoMVC implementations in Ember, Backbone, jQuery, AngularJS, React, and vanilla JavaScript. Unlike micro-benchmarks, it tested the full browser stack: DOM manipulation, JavaScript execution, CSS resolution, and layout.\n\nOsmani drove the cross-vendor collaboration that produced Speedometer 2.0 in 2018, expanding the benchmark to include React, Redux, Vue, Preact, Inferno, Angular, and modern build tooling like Webpack and Rollup. The scoring methodology shifted to geometric means, and the benchmark became a joint effort between Apple’s WebKit engineers and Google’s Chrome team.\n\nSpeedometer 3.0, released March 11, 2024, marked a historic first: all three major browser engines - Blink/V8 (Chrome), Gecko/SpiderMonkey (Firefox), and WebKit/JavaScriptCore (Safari) - collaborated under shared governance, with contributions from Apple, Google, Intel, Microsoft, and Mozilla. Osmani’s Aurora team helped implement this generation, which expanded far beyond TodoMVC to include Next.js and Nuxt news-site simulations, React chart dashboards, CodeMirror editing workloads, and complex DOM stress tests.\n\nThe stakes are enormous. Apple explicitly cited Speedometer 2.0 scores when marketing the M1 chip in November 2020, claiming it was “nearly 2x more responsive” based on the benchmark. As John Gruber noted, Speedometer measures “something very real and utterly practical: how fast web rendering is in an actual browser.” Intel, Qualcomm, and every major browser vendor optimize for these scores. A todo app created for framework education now drives hardware architecture decisions affecting billions of devices.\n\nNative Lazy Loading: Turning Years of Advocacy into a Platform Primitive\n\nFor years before native browser support existed, Osmani advocated for lazy loading images and iframes without JavaScript. In April 2019, he announced that loading=\"lazy\" would ship in Chrome 75, publishing the definitive blog post on the feature. The attribute shipped stable in Chrome 76 in July 2019, developed with Simon Pieters, Yoav Weiss, and Mathias Bynens. (Chrome native lazy-loading coverage)\n\nIn 2020, Osmani tuned Chrome’s lazy-loading thresholds - reducing them from 3,000px to 1,250px on fast connections - to match the behavior developers expected from JavaScript libraries like LazySizes. (addyosmani.com - improved lazy-loading in Chrome) When WordPress 5.5 added loading=\"lazy\" to all images by default in August 2020, adoption exploded: from 4.2% of pages in 2020 to 24.6% of mobile pages by 2024. (HTTP Archive Web Almanac - Resource Hints) Osmani also extended this work to iframes, publishing the announcement for native lazy-loading of embeds when it shipped in Chrome 77.\n\nFetch Priority: Co-Authoring the Spec That Fixed Resource Loading\n\nThe Fetch Priority API (fetchpriority attribute) followed a longer road. Osmani, Yoav Weiss, and Pat Meenan - creator of WebPageTest - co-authored the Priority Hints specification through the W3C Web Performance Working Group and WICG. The concept was first explored in 2017, but an initial origin trial in 2018 drew lukewarm response. Meenan rebooted the implementation effort in 2021, and the attribute (renamed from importance to fetchpriority during standardization) shipped in Chrome 101-102 in mid-2022.\n\nOsmani and Meenan served as spec editors, and the processing model was ultimately merged into the WHATWG Fetch and HTML specifications. Safari added support in December 2023; Firefox followed in October 2024, making it universal across all browsers. (DebugBear - fetchpriority explainer) (Calibre - Priority Hints)\n\nThe impact is measurable: Google Flights saw LCP improve from 2.6 seconds to 1.9 seconds after adopting fetchpriority. When WordPress 6.3 added automatic fetchpriority=\"high\" on LCP images in August 2023, adoption jumped to 17% of mobile pages in a single release cycle. Pat Meenan called it “a cheat code for LCP.”\n\nQuicklink and Guess.js: The Tools That Became Speculation Rules\n\nIn 2018, Osmani released two complementary prefetching projects that would prove to be a direct blueprint for a future web platform API.\n\nQuicklink (11,200+ GitHub stars) used IntersectionObserver to detect visible links, requestIdleCallback to schedule fetches during idle time, and navigator.connection.effectiveType to respect slow connections - all in under 2KB. It made intelligent prefetching accessible to any site without a build step. (web.dev - Quicklink in React)\n\nGuess.js, announced at Google I/O 2018 with Minko Gechev and Katie Hempenius (Minko Gechev’s introduction post), took a more ambitious approach: it consumed Google Analytics session data at build time to construct Markov chain models predicting user navigation, then prefetched the most probable next pages at runtime. Osmani also published earlier exploratory work as a predictive-fetching research repo, which helped seed community discussion about ML-powered navigation prediction.\n\nThese libraries directly informed the Speculation Rules API, which shipped in Chrome 109 in January 2023. The parallels are unmistakable: Quicklink’s viewport-based link detection became Speculation Rules’ document rules with href_matches and selector_matches; Quicklink’s idle-time scheduling became the API’s tiered eagerness levels (immediate, moderate, conservative); both libraries’ network awareness became the browser’s built-in resource and connection constraints. (Speculative loading and the Speculation Rules API - PerfPlanet 2024) Quicklink itself has since been updated to use Speculation Rules when available, completing the circle from library to platform. Google Search, WordPress, Cloudflare, and Akamai now use Speculation Rules in production.\n\nChrome Aurora: Making High Performance a Framework-Level Default\n\nOsmani’s Chrome team had long-standing engineering relationships with Angular and React that predated any formal program, reaching back to approximately 2019. In June 2021, he formalized this work as Chrome Aurora (internally codenamed “WebSDK”), with the thesis that high UX quality should be a side effect of building for the web, not something every developer must manually optimize. (Introducing Aurora - Chrome for Developers) (Chrome blog - What’s New with Aurora 2023)\n\nThe team - which included Shubhie Panicker, Kara Erickson (herself a former Angular Technical Lead), Houssein Djirdeh, Alex Castle, Gerald Monaco, and others - shipped performance improvements directly into the frameworks developers were already using, rather than asking them to change their habits.\n\nAurora’s most impactful contributions include:\n\nThe revamped next/image component in Next.js 13 - using native lazy loading and fetchpriority - helped partner Leboncoin improve LCP by up to 60%\nThe Angular image directive (NgOptimizedImage), shipped stable in Angular 15, reduced Land’s End’s median LCP from 12 seconds to 3 seconds - a 75% improvement\nFont optimization modules for Nuxt (nuxtjs/fontaine) and Google Fonts self-hosting tools\nScript loading optimization, third-party wrapper components, and INP improvements across the React, Vue, and Svelte ecosystems\nTools That Defined an Era\n\nBeyond standards work, Osmani built or co-created a generation of tools that developers still rely on today:\n\nYeoman - co-created with Paul Irish and Eric Bidelman at Google I/O 2012; spawned over 9,400 generator templates and influenced every subsequent CLI scaffolding tool from Create React App to Angular CLI (HandWiki - Yeoman)\nLighthouse - Chrome’s automated auditing tool, which Osmani’s team oversaw and which runs tens of millions of times monthly\nWorkbox - service worker library (12,900+ stars) that succeeded his earlier sw-precache and sw-toolbox tools, used in production at Flipkart, CNET, and across the PWA ecosystem (PWA Libraries in Production - Medium/Dev Channel)\nCritical - tool for extracting and inlining above-the-fold CSS (10,200+ stars)\nMaterial Design Lite - (32,200+ stars)\nsw-precache / sw-toolbox - early service worker tooling that defined progressive web app caching patterns before Workbox\nThe Through-Line: Practitioner Patterns Become Platform Primitives\n\nThe consistent pattern across Osmani’s career is unmistakable. He identified lazy loading as essential, built advocacy and implementation work inside Chrome, and loading=\"lazy\" now appears on a quarter of all mobile pages. He built Quicklink and Guess.js to prove prefetching patterns, and those patterns became the Speculation Rules API baked into Chromium. He co-authored the Fetch Priority spec from years of studying resource prioritization, and fetchpriority is now in every major browser. He created TodoMVC for education, and it became the workload that drives how Apple, Intel, and every browser vendor optimize their silicon and engines through Speedometer. He established Aurora to push performance best practices into frameworks at the source, rather than asking millions of individual developers to become performance experts.\n\nEach project followed the same cycle: identify a developer pain point, build an open-source tool that solves it, validate the pattern at scale, then work with standards bodies and browser teams to make it a permanent part of the web platform. Over 20 million developers have engaged with his content. The specifications he co-authored and the benchmarks he drove now reach billions of users on billions of devices - a testament to the compounding power of open-source work done with standards-grade ambition."
+}

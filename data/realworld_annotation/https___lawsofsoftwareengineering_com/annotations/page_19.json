@@ -1,0 +1,167 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/amdahl-law.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 38,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/amdahls-law/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=Amdahl%27s+Law%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Famdahls-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Famdahls-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Famdahls-law%2F&title=Amdahl%27s+Law%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/amdahls-law/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/amdahls-law/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/amdahls-law/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/amdahls-law/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/amdahls-law/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/amdahls-law/#further-reading"
+        },
+        {
+            "text": "Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities\nGene Amdahl's original 1967 paper",
+            "href": "https://dl.acm.org/doi/10.1145/1465482.1465560"
+        },
+        {
+            "text": "Amdahl's Law - Wikipedia\nOverview of the law with visual examples",
+            "href": "https://en.wikipedia.org/wiki/Amdahl%27s_law"
+        },
+        {
+            "text": "The Mythical Man-Month\nFred Brooks' classic on software engineering and scaling",
+            "href": "https://amzn.to/3MUjDL7"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "SCALE\nGustafson's Law\n\nIt is possible to achieve significant speedup in parallel processing by increasing the problem size.",
+            "href": "https://lawsofsoftwareengineering.com/laws/gustafsons-law/"
+        },
+        {
+            "text": "SCALE\nMetcalfe's Law\n\nThe value of a network is proportional to the square of the number of users.",
+            "href": "https://lawsofsoftwareengineering.com/laws/metcalfes-law/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 3391,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nAmdahl's Law\nAmdahl's Law\nSCALE\nSENIOR\n2 min read\n\nThe speedup from parallelization is limited by the fraction of work that cannot be parallelized.\n\nTakeaways\nSequential work sets the ceiling, and no amount of parallelism can overcome it.\nScaling exposes bottlenecks. More resources make limits visible, not disappear.\nFix before you scale: reduce sequential paths first. Parallelism comes second.\nIt applies to people, too. Decision bottlenecks can dominate at the team scale.\nOverview\n\nAs you add CPU cores, only the parallelizable fraction of your code speeds up. The sequential fraction remains unchanged and eventually dominates total execution time. If “s” is the sequential fraction, the maximum speedup with infinite parallel resources is 1/s. So if 10% is sequential, maximum speedup is 10x. If 50% is sequential, maximum speedup is only 2x.\n\nThis applies beyond hardware. If your system has a database that can’t be parallelized, adding application servers hits a wall. The same holds for organizations: if one person or committee handles all architectural decisions, adding engineers increases coordination costs without increasing throughput.\n\nAmdahl’s Law (Wikipedia)\n\nExamples\n\nAdding application servers doesn’t help if all requests hit a single database instance. One database becomes the limit.\n\nAnother example is breaking a monolith into microservices won’t improve performance if all requests ultimately serialize through a shared dependency, such as an authentication or billing service.\n\nOrigins\n\nGene Amdahl, a computer architect known for his work on IBM mainframes, introduced the law in 1967 at the AFIPS Spring Joint Computer Conference.\n\nIt was originally framed around processor performance but has since proven universally applicable to systems and organizations.\n\nFurther Reading\nValidity of the Single Processor Approach to Achieving Large Scale Computing Capabilities\nGene Amdahl's original 1967 paper\nAmdahl's Law - Wikipedia\nOverview of the law with visual examples\nThe Mythical Man-Month\nFred Brooks' classic on software engineering and scaling\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). Amdahl's Law. Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/amdahls-law/\n\nPlain text: \"Amdahl's Law\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/amdahls-law/\n\nBibTeX: @misc{milanovic_amdahls-law_2026, author = {Dr. Milan Milanović}, title = {Amdahl's Law}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/amdahls-law/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nSCALE\nGustafson's Law\n\nIt is possible to achieve significant speedup in parallel processing by increasing the problem size.\n\nSCALE\nMetcalfe's Law\n\nThe value of a network is proportional to the square of the number of users.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

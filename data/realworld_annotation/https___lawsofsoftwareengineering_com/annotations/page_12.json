@@ -1,0 +1,176 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/brooks-law.png",
+        "https://lawsofsoftwareengineering.com/images/laws/Littles%20Law.png",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 40,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=Brooks%27s+Law%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fbrooks-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fbrooks-law%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fbrooks-law%2F&title=Brooks%27s+Law%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/brooks-law/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/#sidenote"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/#further-reading"
+        },
+        {
+            "text": "The Mythical Man-Month\nFred Brooks's classic book on software engineering",
+            "href": "https://amzn.to/4peJbjC"
+        },
+        {
+            "text": "Brooks's Law - Wikipedia\nWikipedia article on Brooks's Law",
+            "href": "https://en.wikipedia.org/wiki/Brooks%27s_law"
+        },
+        {
+            "text": "No Silver Bullet\nFred Brooks's essay on essential vs accidental complexity",
+            "href": "https://en.wikipedia.org/wiki/No_Silver_Bullet"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "TEAMS\nConway's Law\n\nOrganizations design systems that mirror their own communication structure.",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/"
+        },
+        {
+            "text": "ARCHITECTURE\nSecond-System Effect\n\nSmall, successful systems tend to be followed by overengineered, bloated replacements.",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/"
+        },
+        {
+            "text": "ARCHITECTURE\nLaw of Unintended Consequences\n\nWhenever you change a complex system, expect surprise.",
+            "href": "https://lawsofsoftwareengineering.com/laws/law-of-unintended-consequences/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 4420,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nBrooks's Law\nBrooks's Law\nTEAMS\nMID-LEVEL\n2 min read\n\nAdding manpower to a late software project makes it later.\n\nTakeaways\nSimply throwing more developers at a project that’s running behind schedule usually slows it down further initially.\nNew people take time to get up to speed, consuming existing team members’ time for training and coordination, which reduces overall productivity.\nInstead of hoping manpower will solve slippage, adjust the scope or timeline. Be wary of ‘just hire more coders’ as a solution to lateness.\nOverview\n\nBrooks’s Law challenges the belief that a software development effort is perfectly divisible among people. In reality, adding a person to a project incurs training costs and increases the number of communication paths. This can outweigh that person’s contribution for a while.\n\nIf a project is already late, adding new developers can cause further delays as they learn the system and may introduce new bugs. Brooks illustrated this with the analogy: “You cannot get a baby in one month by impregnating nine women.” The law doesn’t say adding people never helps, but as a response to lateness, it’s usually counterproductive.\n\nBrooks’s Law\n\nExamples\n\nA project is one month behind schedule, so management adds 3 new developers to a 5-person team. Over the next few weeks, progress slows. The original developers spend much of their time explaining the design and code to newcomers, and merging their work causes integration headaches. The project slips further, now two months late.\n\nA complex bug required deep knowledge of the system. Adding more people didn’t help because only the original dev understood it, and more debuggers only made things worse. Scaling a software team isn’t linear. After a point, more members yield less and less output per person.\n\nOrigins\n\nFrederick P. Brooks Jr., who managed the IBM OS/360 project, formulated this law based on painful experience. His book The Mythical Man-Month (1975) explores why software projects fail and where management assumptions break down.\n\nThe book famously challenged the notion that “man-months” are interchangeable. Brooks demonstrated through real-world examples why the assumption that 12 programmers can do in one month what one programmer does in 12 months fails in software development.\n\nLittle's Law Makes Brooks's Law Measurable\n\nLittle’s Law (L = λ × W) connects work in progress, throughput, and lead time. If your team completes 5 tasks per week with 20 in progress, average lead time is 4 weeks. Push WIP to 40 with the same throughput, and lead time doubles.\n\nWhen you add people to a late project, WIP grows but throughput stays flat. Little’s Law shows the result: longer lead times, not shorter ones. If you want faster delivery, reduce WIP before adding people.\n\nLittle's Law\n\nFurther Reading\nThe Mythical Man-Month\nFred Brooks's classic book on software engineering\nBrooks's Law - Wikipedia\nWikipedia article on Brooks's Law\nNo Silver Bullet\nFred Brooks's essay on essential vs accidental complexity\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). Brooks's Law. Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/brooks-law/\n\nPlain text: \"Brooks's Law\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/brooks-law/\n\nBibTeX: @misc{milanovic_brooks-law_2026, author = {Dr. Milan Milanović}, title = {Brooks's Law}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/brooks-law/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nTEAMS\nConway's Law\n\nOrganizations design systems that mirror their own communication structure.\n\nARCHITECTURE\nSecond-System Effect\n\nSmall, successful systems tend to be followed by overengineered, bloated replacements.\n\nARCHITECTURE\nLaw of Unintended Consequences\n\nWhenever you change a complex system, expect surprise.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

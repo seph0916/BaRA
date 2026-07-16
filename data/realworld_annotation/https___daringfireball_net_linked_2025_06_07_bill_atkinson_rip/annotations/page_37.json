@@ -1,0 +1,83 @@
+{
+    "image_count": 7,
+    "images": [
+        "https://daringfireball.net/js/images-global/zoom/zoom-spin-1.png",
+        "https://daringfireball.net/js/images-global/zoom/spacer.gif",
+        "https://daringfireball.net/js/images-global/zoom/closebox.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-l.png",
+        "https://daringfireball.net/js/images-global/zoom/zoom-caption-r.png",
+        "https://daringfireball.net/graphics/logos/",
+        "https://daringfireball.net/martini/images/workos.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 16,
+    "links": [
+        {
+            "text": "",
+            "href": "https://daringfireball.net/"
+        },
+        {
+            "text": "ARCHIVE",
+            "href": "https://daringfireball.net/archive/"
+        },
+        {
+            "text": "THE TALK SHOW",
+            "href": "https://daringfireball.net/thetalkshow/"
+        },
+        {
+            "text": "DITHERING",
+            "href": "https://dithering.fm/"
+        },
+        {
+            "text": "PROJECTS",
+            "href": "https://daringfireball.net/projects/"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://daringfireball.net/contact/"
+        },
+        {
+            "text": "COLOPHON",
+            "href": "https://daringfireball.net/colophon/"
+        },
+        {
+            "text": "FEEDS / SOCIAL",
+            "href": "https://daringfireball.net/feeds/"
+        },
+        {
+            "text": "SPONSORSHIP",
+            "href": "https://daringfireball.net/feeds/sponsors/"
+        },
+        {
+            "text": "",
+            "href": "https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "WorkOS",
+            "href": "https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026"
+        },
+        {
+            "text": "PHOTOSHOP’S ‘MODERN USER INTERFACE’ SUCKS (AND DOESN’T FEEL MODERN)",
+            "href": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/"
+        },
+        {
+            "text": "without needing to",
+            "href": "https://unsung.aresluna.org/i-trust-in-textedit/"
+        },
+        {
+            "text": "brought up",
+            "href": "https://unsung.aresluna.org/decentralization-does-not-always-equal-delight/"
+        },
+        {
+            "text": "Héliographe’s devastating critique",
+            "href": "https://daringfireball.net/2026/01/thoughts_and_observations_regarding_apple_creator_studio"
+        },
+        {
+            "text": "Display Preferences",
+            "href": "https://daringfireball.net/preferences/"
+        }
+    ],
+    "text_length": 2030,
+    "text_full": "By JOHN GRUBER\n\nARCHIVE\nTHE TALK SHOW\nDITHERING\nPROJECTS\nCONTACT\nCOLOPHON\nFEEDS / SOCIAL\nSPONSORSHIP\n\nWorkOS — Agents need context. Ship the integrations that give it to them.\n\nPHOTOSHOP’S ‘MODERN USER INTERFACE’ SUCKS (AND DOESN’T FEEL MODERN)\n\nMarcin Wichary at Unsung:\n\nI’m angry. (Clearly.) We should all be angry in face of stuff like this. This is how people get fed up with software — because it feels unstable and deteriorates on its own without needing to.\n\nI know I brought up that an existing power user base can be a huge pain in the ass, and I am a decades-old Photoshop power user. But this is different than other examples where the product needs or at least wants to evolve past its core audience or toward a different market. For Photoshop here, nothing I see indicates any change in course or clientele — and yet all of these good moments in UI that used to help me out no longer exist.\n\nPlus, all those transgressions are solved problems. Those issues are not buried in pages of heavily litigated patents, or in seven collective brains of world-class interface designers whose driveways are presently occupied by cash-filled trucks sent over by frontier companies. This isn’t some long lost art that requires archaeologists to decipher. This feels like carelessness and laziness in face of basic UI engineering; in a likely internally-motivated effort to refresh the interface, the team threw an entire nursery worth of babies with the bathwater.\n\nThe before-and-after screenshots look like examples from a lecture on user interface design — if you swap them around make the new ones “before” and the old ones “after”. Better balance, better focus behavior, appropriate platform-native typography.\n\n(Shades of Héliographe’s devastating critique of the history of the app icon for Pages: “If you put the Apple icons in reverse it looks like the portfolio of someone getting really really good at icon design.”)\n\n★ Monday, 4 May 2026\n\n \n\nDisplay Preferences\n\nCopyright © 2002–2026 The Daring Fireball Company LLC."
+}

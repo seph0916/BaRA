@@ -1,0 +1,862 @@
+{
+    "image_count": 134,
+    "images": [
+        "https://assets.sellerassistant.app/images/Seller-Assistant-logo.svg",
+        "https://assets.sellerassistant.app/images/price-list-analyzer_1.svg",
+        "https://assets.sellerassistant.app/images/lister-icon-2.svg",
+        "https://assets.sellerassistant.app/images/ai-supplier-finder-icon-v3.svg",
+        "https://assets.sellerassistant.app/images/seller-spy-1.svg",
+        "https://assets.sellerassistant.app/images/Product-Page-View-1.svg",
+        "https://assets.sellerassistant.app/images/restriction-cheker-1.svg",
+        "https://assets.sellerassistant.app/images/affcfcc_api-1.svg",
+        "https://assets.sellerassistant.app/images/Purchase-Orders-1.svg",
+        "https://assets.sellerassistant.app/images/product-database-2.svg",
+        "https://assets.sellerassistant.app/images/Suppliers.svg",
+        "https://assets.sellerassistant.app/images/Warehouses-1.svg",
+        "https://assets.sellerassistant.app/images/fba-shipments-icon-v6.svg",
+        "https://assets.sellerassistant.app/images/skus-icon-v1.svg",
+        "https://assets.sellerassistant.app/images/seller-assistant-extension-1.svg",
+        "https://assets.sellerassistant.app/images/ip-alert-1.svg",
+        "https://assets.sellerassistant.app/images/vpn-1.svg",
+        "https://assets.sellerassistant.app/images/Free-amazon-ip-alert-lookup-1.svg",
+        "https://assets.sellerassistant.app/images/Free-amazon-ip-alert-lookup-1.svg",
+        "https://assets.sellerassistant.app/images/Free-amazon-ip-alert-lookup-1.svg",
+        "https://assets.sellerassistant.app/images/API--Integrations-1.svg",
+        "https://assets.sellerassistant.app/images/API--Integrations-1.svg",
+        "https://assets.sellerassistant.app/images/API--Integrations-1.svg",
+        "https://assets.sellerassistant.app/images/api.svg",
+        "https://assets.sellerassistant.app/images/zapier.svg",
+        "https://assets.sellerassistant.app/images/n8n-color.svg",
+        "https://assets.sellerassistant.app/images/make.avif",
+        "https://assets.sellerassistant.app/images/Google_Sheets_logo_2014-2020.svg_1.avif",
+        "https://assets.sellerassistant.app/images/airtable-icon-512x428.avif",
+        "https://assets.sellerassistant.app/images/amazon-seller_1.avif",
+        "https://assets.sellerassistant.app/images/Warehouses-1.svg",
+        "https://assets.sellerassistant.app/images/Blog-1.svg",
+        "https://assets.sellerassistant.app/images/uni2.svg",
+        "https://assets.sellerassistant.app/images/Selling-on-Amazon-Guide-2.svg",
+        "https://assets.sellerassistant.app/images/Amazon-Online-Arbitrage-Check-List-1.svg",
+        "https://assets.sellerassistant.app/images/Help-Center-1.svg",
+        "https://assets.sellerassistant.app/images/Issues-and-Error-Messages-1.svg",
+        "https://assets.sellerassistant.app/images/contact-support-team-1.svg",
+        "https://assets.sellerassistant.app/images/News--Updates-1.svg",
+        "https://assets.sellerassistant.app/images/Selling-on-Amazon-Guide-1.svg",
+        "https://assets.sellerassistant.app/images/Reviews-1.svg",
+        "https://assets.sellerassistant.app/images/affcfcc_api-1.svg",
+        "https://assets.sellerassistant.app/images/Affiliate-Program-1.svg",
+        "https://assets.sellerassistant.app/images/Parthners.svg",
+        "https://assets.sellerassistant.app/blog/how-to-easily-create-purchase-order-from-supplier-price-list/image-1.png",
+        "https://assets.sellerassistant.app/blog/how-to-use-seller-assistants-product-db/banner.png",
+        "https://assets.sellerassistant.app/blog/supplier-price-list-analysis-tool/image-1.png",
+        "https://assets.sellerassistant.app/images/4_1.avif",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/2_1.avif",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/1_1.avif",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/5_1.avif",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/6_1.avif",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/7_1.avif",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/Google_Chrome_Web_Store_icon_2015.svg_Zw8C9quImI.png?updatedAt=1709757059969",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://ik.imagekit.io/senja/tr:f-jpeg/Avatars/avatar_aOgsMJ-eZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657796891741",
+        "https://ik.imagekit.io/senja/tr:w-40,f-png/Logos/capterra-logo_dW13Iq2VO.png?updatedAt=1683237846036",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/star-filled-yellow.svg",
+        "https://assets.sellerassistant.app/images/chrome-bar.avif",
+        "https://assets.capterra.com/badge/cd58d9cffa8df5d221a2775000c37a9a.svg?v=2248529&p=282579",
+        "https://www.getapp.com/ext/reviews_widget/v1/dark/seller-assistant-app-application",
+        "https://badges.softwareadvice.com/reviews/bc31704a-8e85-4101-9cea-6b53a013fd44",
+        "https://capterra.s3.amazonaws.com/assets/images/gdm-badges/ca-value-2023.png",
+        "https://capterra.s3.amazonaws.com/assets/images/gdm-badges/ga-features_and_functionality-2023.png",
+        "https://capterra.s3.amazonaws.com/assets/images/gdm-badges/ca-ease_of_use-2023.png",
+        "https://assets.sellerassistant.app/images/arrow-right-color.svg",
+        "https://assets.sellerassistant.app/images/amazon-software_partners-badge_1.avif",
+        "https://assets.sellerassistant.app/images/Seller-Assistant-logo.svg",
+        "https://assets.sellerassistant.app/images/ChromeWebStore_Badge_v2_340x96.avif",
+        "https://assets.sellerassistant.app/images/Edge-button_1.avif",
+        "https://assets.sellerassistant.app/images/Firefox-button_1.avif",
+        "https://assets.sellerassistant.app/images/amazon-app-store.7e4eedb7.svg",
+        "https://assets.sellerassistant.app/images/facebook-dark.svg",
+        "https://assets.sellerassistant.app/images/instagram-dark.svg",
+        "https://assets.sellerassistant.app/images/x.svg",
+        "https://assets.sellerassistant.app/images/youtube-icon.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 179,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.sellerassistant.app/"
+        },
+        {
+            "text": "Wholesale",
+            "href": "https://www.sellerassistant.app/solutions/wholesale/"
+        },
+        {
+            "text": "Online Arbitrage",
+            "href": "https://www.sellerassistant.app/solutions/online-arbitrage/"
+        },
+        {
+            "text": "Dropshipping",
+            "href": "https://www.sellerassistant.app/solutions/dropshipping/"
+        },
+        {
+            "text": "Agencies",
+            "href": "https://www.sellerassistant.app/solutions/agencies/"
+        },
+        {
+            "text": "Seller Assistant vs Analyzer.Tools",
+            "href": "https://www.sellerassistant.app/alternatives/analyzer-tools/"
+        },
+        {
+            "text": "Seller Assistant vs ScanUnlimited",
+            "href": "https://www.sellerassistant.app/alternatives/scan-unlimited/"
+        },
+        {
+            "text": "Seller Assistant vs SellerAmp",
+            "href": "https://www.sellerassistant.app/alternatives/selleramp-sas/"
+        },
+        {
+            "text": "Seller Assistant vs Revseller",
+            "href": "https://www.sellerassistant.app/alternatives/revseller/"
+        },
+        {
+            "text": "Price List Analyzer",
+            "href": "https://www.sellerassistant.app/tools/price-list-analyzer/"
+        },
+        {
+            "text": "Lister",
+            "href": "https://www.sellerassistant.app/tools/lister/"
+        },
+        {
+            "text": "AI Supplier Finder",
+            "href": "https://www.sellerassistant.app/tools/ai-supplier-finder/"
+        },
+        {
+            "text": "Seller Spy",
+            "href": "https://www.sellerassistant.app/tools/seller-spy/"
+        },
+        {
+            "text": "Brand Analyzer",
+            "href": "https://www.sellerassistant.app/tools/brand-analyzer/"
+        },
+        {
+            "text": "Bulk Restriction Checker",
+            "href": "https://www.sellerassistant.app/tools/bulk-restriction-checker/"
+        },
+        {
+            "text": "API",
+            "href": "https://www.sellerassistant.app/products/api/"
+        },
+        {
+            "text": "Purchase Orders",
+            "href": "https://www.sellerassistant.app/tools/purchase-orders/"
+        },
+        {
+            "text": "Products",
+            "href": "https://www.sellerassistant.app/tools/product-database/"
+        },
+        {
+            "text": "Suppliers",
+            "href": "https://www.sellerassistant.app/tools/suppliers/"
+        },
+        {
+            "text": "Warehouses",
+            "href": "https://www.sellerassistant.app/tools/warehouses/"
+        },
+        {
+            "text": "FBA Shipments",
+            "href": "https://www.sellerassistant.app/tools/fba-shipments/"
+        },
+        {
+            "text": "SKUs",
+            "href": "https://www.sellerassistant.app/tools/skus/"
+        },
+        {
+            "text": "Seller Assistant Extension",
+            "href": "https://www.sellerassistant.app/products/seller-assistant-extension/"
+        },
+        {
+            "text": "IP-Alert® by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/ip-alert-extension/"
+        },
+        {
+            "text": "VPN by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/vpn-extension/"
+        },
+        {
+            "text": "All Free Tools",
+            "href": "https://www.sellerassistant.app/free-tools/"
+        },
+        {
+            "text": "Free Amazon ASIN Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/asin-lookup/"
+        },
+        {
+            "text": "Free Amazon IP-Alert Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/ip-alert-lookup/"
+        },
+        {
+            "text": "Free Supplier Finder by Brand",
+            "href": "https://www.sellerassistant.app/free-tools/supplier-finder-by-brand/"
+        },
+        {
+            "text": "Free ASIN to UPC Converter",
+            "href": "https://www.sellerassistant.app/free-tools/asin-to-upc-converter/"
+        },
+        {
+            "text": "Free UPC to ASIN Converter",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "Free EAN to ASIN Converter",
+            "href": "https://www.sellerassistant.app/free-tools/ean-to-asin-converter/"
+        },
+        {
+            "text": "All Integrations",
+            "href": "https://www.sellerassistant.app/integrations/"
+        },
+        {
+            "text": "API",
+            "href": "https://www.sellerassistant.app/products/api/"
+        },
+        {
+            "text": "Zapier",
+            "href": "https://www.sellerassistant.app/integrations/zapier/"
+        },
+        {
+            "text": "n8n",
+            "href": "https://www.sellerassistant.app/integrations/n8n/"
+        },
+        {
+            "text": "Make",
+            "href": "https://www.sellerassistant.app/integrations/make/"
+        },
+        {
+            "text": "Google Sheets",
+            "href": "https://www.sellerassistant.app/integrations/google-sheets/"
+        },
+        {
+            "text": "Airtable",
+            "href": "https://www.sellerassistant.app/integrations/airtable/"
+        },
+        {
+            "text": "Seller Central",
+            "href": "https://www.sellerassistant.app/integrations/seller-central/"
+        },
+        {
+            "text": "Prep Centers",
+            "href": "https://www.sellerassistant.app/integrations/prep-centers/"
+        },
+        {
+            "text": "All Resources",
+            "href": "https://www.sellerassistant.app/resources/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.sellerassistant.app/blog/"
+        },
+        {
+            "text": "Seller Assistant University",
+            "href": "https://www.sellerassistant.app/blog/category/seller-assistant-university/"
+        },
+        {
+            "text": "Selling on Amazon Guide",
+            "href": "https://www.sellerassistant.app/resources/selling-on-amazon-guide/"
+        },
+        {
+            "text": "OA Check List",
+            "href": "https://www.sellerassistant.app/oa-checklist/"
+        },
+        {
+            "text": "Help Center",
+            "href": "https://help.sellerassistant.app/"
+        },
+        {
+            "text": "Office Hours",
+            "href": "https://www.sellerassistant.app/resources/office-hours/"
+        },
+        {
+            "text": "Contact Support Team",
+            "href": "https://www.sellerassistant.app/reviews/#"
+        },
+        {
+            "text": "News & Updates",
+            "href": "https://news.sellerassistant.app/"
+        },
+        {
+            "text": "Product Roadmap",
+            "href": "https://feedback.sellerassistant.app/roadmap"
+        },
+        {
+            "text": "Reviews",
+            "href": "https://www.sellerassistant.app/reviews/"
+        },
+        {
+            "text": "Developers",
+            "href": "https://developer.sellerassistant.app/"
+        },
+        {
+            "text": "Affiliate Program",
+            "href": "https://www.sellerassistant.app/affiliate-program/"
+        },
+        {
+            "text": "Partners",
+            "href": "https://www.sellerassistant.app/partners/"
+        },
+        {
+            "text": "Wholesale How to Easily Create Purchase Order from Supplier Price List",
+            "href": "https://www.sellerassistant.app/blog/how-to-easily-create-purchase-order-from-supplier-price-list/"
+        },
+        {
+            "text": "Product Research How to Use Seller Assistant’s Product DB",
+            "href": "https://www.sellerassistant.app/blog/how-to-use-seller-assistants-product-db/"
+        },
+        {
+            "text": "Wholesale Supplier Price List Analysis Tool",
+            "href": "https://www.sellerassistant.app/blog/supplier-price-list-analysis-tool/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://www.sellerassistant.app/pricing/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://www.sellerassistant.app/pricing/"
+        },
+        {
+            "text": "Get a demo",
+            "href": "https://www.sellerassistant.app/demo/"
+        },
+        {
+            "text": "Login",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "Register",
+            "href": "https://app.sellerassistant.app/register"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "Get a demo",
+            "href": "https://www.sellerassistant.app/demo/"
+        },
+        {
+            "text": "Login",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "Register",
+            "href": "https://app.sellerassistant.app/register"
+        },
+        {
+            "text": "Dashboard",
+            "href": "https://app.sellerassistant.app/"
+        },
+        {
+            "text": "",
+            "href": "https://chromewebstore.google.com/detail/seller-assistant-%E2%80%94-amazon/ngddmlfbgokkcfbmnniahfbffdohlhgf"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/6028548/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/6028535/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/6004515/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/6001260/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/6000312/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5093205/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5093205/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5092733/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5082801/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5067898/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5060117/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5058277/"
+        },
+        {
+            "text": "",
+            "href": "https://www.capterra.com/p/10004795/a/reviews/5047512/"
+        },
+        {
+            "text": "Collect testimonials with Senja",
+            "href": "https://senja.io/?utm_medium=powered_by&utm_source=widget&utm_content=card_wall"
+        },
+        {
+            "text": "4.9 out of 5.0 by our customers on Chrome Web Store",
+            "href": "https://chrome.google.com/webstore/detail/seller-assistant-app/ngddmlfbgokkcfbmnniahfbffdohlhgf"
+        },
+        {
+            "text": "Learn More",
+            "href": "https://sellercentral.amazon.com/apps/store/dp/amzn1.sellerapps.app.8040c52d-357a-41e5-8969-fdc7f14dbd34"
+        },
+        {
+            "text": "",
+            "href": "https://sellercentral.amazon.com/apps/store/dp/amzn1.sellerapps.app.8040c52d-357a-41e5-8969-fdc7f14dbd34"
+        },
+        {
+            "text": "GET STARTED",
+            "href": "https://app.sellerassistant.app/register"
+        },
+        {
+            "text": "Chat with our team",
+            "href": "https://www.sellerassistant.app/reviews/#"
+        },
+        {
+            "text": "",
+            "href": "https://www.sellerassistant.app/"
+        },
+        {
+            "text": "",
+            "href": "https://chrome.google.com/webstore/detail/seller-assistant-app/ngddmlfbgokkcfbmnniahfbffdohlhgf"
+        },
+        {
+            "text": "",
+            "href": "https://microsoftedge.microsoft.com/addons/detail/dppojflkgphclkkjanbgakhkogdikhan"
+        },
+        {
+            "text": "",
+            "href": "https://addons.mozilla.org/firefox/addon/seller-assistant-app/"
+        },
+        {
+            "text": "",
+            "href": "https://sellercentral.amazon.com/apps/store/dp/amzn1.sellerapps.app.8040c52d-357a-41e5-8969-fdc7f14dbd34"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.sellerassistant.app/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://www.sellerassistant.app/pricing/"
+        },
+        {
+            "text": "Download",
+            "href": "https://www.sellerassistant.app/download/"
+        },
+        {
+            "text": "SOLUTIONS",
+            "href": "https://www.sellerassistant.app/solutions/"
+        },
+        {
+            "text": "Online Arbitrage",
+            "href": "https://www.sellerassistant.app/solutions/online-arbitrage/"
+        },
+        {
+            "text": "Wholesale",
+            "href": "https://www.sellerassistant.app/solutions/wholesale/"
+        },
+        {
+            "text": "Dropshipping",
+            "href": "https://www.sellerassistant.app/solutions/dropshipping/"
+        },
+        {
+            "text": "Agencies",
+            "href": "https://www.sellerassistant.app/solutions/agencies/"
+        },
+        {
+            "text": "Price List Analyzer",
+            "href": "https://www.sellerassistant.app/tools/price-list-analyzer/"
+        },
+        {
+            "text": "Lister",
+            "href": "https://www.sellerassistant.app/tools/lister/"
+        },
+        {
+            "text": "Purchase Orders",
+            "href": "https://www.sellerassistant.app/tools/purchase-orders/"
+        },
+        {
+            "text": "Suppliers",
+            "href": "https://www.sellerassistant.app/tools/suppliers/"
+        },
+        {
+            "text": "Warehouses",
+            "href": "https://www.sellerassistant.app/tools/warehouses/"
+        },
+        {
+            "text": "Seller Assistant Extension",
+            "href": "https://www.sellerassistant.app/products/seller-assistant-extension/"
+        },
+        {
+            "text": "IP-Alert by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/ip-alert-extension/"
+        },
+        {
+            "text": "VPN by Seller Assistant",
+            "href": "https://www.sellerassistant.app/products/vpn-extension/"
+        },
+        {
+            "text": "Bulk Restriction Checker",
+            "href": "https://www.sellerassistant.app/tools/bulk-restriction-checker/"
+        },
+        {
+            "text": "Seller Spy",
+            "href": "https://www.sellerassistant.app/tools/seller-spy/"
+        },
+        {
+            "text": "Brand Analyzer",
+            "href": "https://www.sellerassistant.app/tools/brand-analyzer/"
+        },
+        {
+            "text": "FREE TOOLS",
+            "href": "https://www.sellerassistant.app/free-tools/"
+        },
+        {
+            "text": "ASIN Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/asin-lookup/"
+        },
+        {
+            "text": "IP-Alert Lookup",
+            "href": "https://www.sellerassistant.app/free-tools/ip-alert-lookup/"
+        },
+        {
+            "text": "Supplier Finder",
+            "href": "https://www.sellerassistant.app/free-tools/supplier-finder-by-brand/"
+        },
+        {
+            "text": "ASIN to UPC",
+            "href": "https://www.sellerassistant.app/free-tools/asin-to-upc-converter/"
+        },
+        {
+            "text": "UPC to ASIN",
+            "href": "https://www.sellerassistant.app/free-tools/upc-to-asin-converter/"
+        },
+        {
+            "text": "EAN to ASIN",
+            "href": "https://www.sellerassistant.app/free-tools/ean-to-asin-converter/"
+        },
+        {
+            "text": "FEATURES",
+            "href": "https://www.sellerassistant.app/features/"
+        },
+        {
+            "text": "FBM & FBA Calculator",
+            "href": "https://www.sellerassistant.app/features/fba-calculator/"
+        },
+        {
+            "text": "VAT Calculator",
+            "href": "https://www.sellerassistant.app/features/vat/"
+        },
+        {
+            "text": "Amazon IP-Alert",
+            "href": "https://www.sellerassistant.app/features/ip-alert/"
+        },
+        {
+            "text": "Side Panel View",
+            "href": "https://www.sellerassistant.app/features/side-panel-view/"
+        },
+        {
+            "text": "Amazon Quick View",
+            "href": "https://www.sellerassistant.app/features/quickview/"
+        },
+        {
+            "text": "Storefront Widget",
+            "href": "https://www.sellerassistant.app/features/storefront-widget/"
+        },
+        {
+            "text": "Alerts & Flags",
+            "href": "https://www.sellerassistant.app/features/alerts-and-flags/"
+        },
+        {
+            "text": "Restrictions Checker",
+            "href": "https://www.sellerassistant.app/features/restrictions-checker/"
+        },
+        {
+            "text": "Sales Estimator",
+            "href": "https://www.sellerassistant.app/features/sales-estimator/"
+        },
+        {
+            "text": "Offers",
+            "href": "https://www.sellerassistant.app/features/offers/"
+        },
+        {
+            "text": "Variation Viewer",
+            "href": "https://www.sellerassistant.app/features/variation-viewer/"
+        },
+        {
+            "text": "Stock Checker",
+            "href": "https://www.sellerassistant.app/features/stock-checker/"
+        },
+        {
+            "text": "ASIN Grabber",
+            "href": "https://www.sellerassistant.app/features/asin-grabber/"
+        },
+        {
+            "text": "Sub-Accounts for VAs",
+            "href": "https://www.sellerassistant.app/features/virtual-assistants/"
+        },
+        {
+            "text": "Export to Google Sheets",
+            "href": "https://www.sellerassistant.app/features/export-to-sheets/"
+        },
+        {
+            "text": "Notes",
+            "href": "https://www.sellerassistant.app/features/notes/"
+        },
+        {
+            "text": "ALTERNATIVES",
+            "href": "https://www.sellerassistant.app/alternatives/"
+        },
+        {
+            "text": "Analyzer.Tools Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/analyzer-tools/"
+        },
+        {
+            "text": "Scan Unlimited Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/scan-unlimited/"
+        },
+        {
+            "text": "SmartScout Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/smartscout/"
+        },
+        {
+            "text": "RevSeller Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/revseller/"
+        },
+        {
+            "text": "BuyBotPro Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/buybotpro/"
+        },
+        {
+            "text": "AZInsight Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/azinsight-by-asinzen/"
+        },
+        {
+            "text": "SellerAmp Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/selleramp-sas/"
+        },
+        {
+            "text": "IP-Alert Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/ip-alert/"
+        },
+        {
+            "text": "DS Quick View Alternative",
+            "href": "https://www.sellerassistant.app/alternatives/ds-amazon-quick-view/"
+        },
+        {
+            "text": "Affiliate Program",
+            "href": "https://www.sellerassistant.app/affiliate-program/"
+        },
+        {
+            "text": "Partners",
+            "href": "https://www.sellerassistant.app/partners/"
+        },
+        {
+            "text": "Amazon Experts",
+            "href": "https://www.sellerassistant.app/blog/category/amazon-experts/"
+        },
+        {
+            "text": "Press Kit",
+            "href": "https://drive.google.com/drive/folders/125jGd7mwV_QOrjumWjStOPXFBzSkaCTM?usp=sharing"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.sellerassistant.app/blog/"
+        },
+        {
+            "text": "Get a Demo",
+            "href": "https://www.sellerassistant.app/demo/"
+        },
+        {
+            "text": "Help Center",
+            "href": "https://help.sellerassistant.app/"
+        },
+        {
+            "text": "Office Hours",
+            "href": "https://www.sellerassistant.app/resources/office-hours/"
+        },
+        {
+            "text": "News & Updates",
+            "href": "https://news.sellerassistant.app/"
+        },
+        {
+            "text": "Product Roadmap",
+            "href": "https://feedback.sellerassistant.app/roadmap"
+        },
+        {
+            "text": "Reviews",
+            "href": "https://www.sellerassistant.app/reviews/"
+        },
+        {
+            "text": "",
+            "href": "https://facebook.com/sellerassistantappeng"
+        },
+        {
+            "text": "",
+            "href": "https://www.instagram.com/sellerassistant.app"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/sellerassistapp"
+        },
+        {
+            "text": "",
+            "href": "https://www.youtube.com/channel/UCN5SmhJDghGBd3-THxSHjvw/"
+        },
+        {
+            "text": "INTEGRATIONS",
+            "href": "https://www.sellerassistant.app/integrations/"
+        },
+        {
+            "text": "Zapier",
+            "href": "https://www.sellerassistant.app/integrations/zapier/"
+        },
+        {
+            "text": "Make",
+            "href": "https://www.sellerassistant.app/integrations/make/"
+        },
+        {
+            "text": "Airtable",
+            "href": "https://www.sellerassistant.app/integrations/airtable/"
+        },
+        {
+            "text": "n8n",
+            "href": "https://www.sellerassistant.app/integrations/n8n/"
+        },
+        {
+            "text": "Google Sheets",
+            "href": "https://www.sellerassistant.app/integrations/google-sheets/"
+        },
+        {
+            "text": "Seller Central",
+            "href": "https://www.sellerassistant.app/integrations/seller-central/"
+        },
+        {
+            "text": "Prep Centers",
+            "href": "https://www.sellerassistant.app/integrations/prep-centers/"
+        },
+        {
+            "text": "API",
+            "href": "https://www.sellerassistant.app/products/api/"
+        },
+        {
+            "text": "IP-Alert by Seller Assistant",
+            "href": "https://ip-alert.com/"
+        },
+        {
+            "text": "🇬🇧 English",
+            "href": "https://www.sellerassistant.app/reviews/"
+        },
+        {
+            "text": "🇷🇺 Русский",
+            "href": "https://www.sellerassistant.app/ru/reviews/"
+        },
+        {
+            "text": "🇪🇸 Español",
+            "href": "https://www.sellerassistant.app/es/reviews/"
+        },
+        {
+            "text": "🇹🇷 Türkçe",
+            "href": "https://www.sellerassistant.app/tr/reviews/"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://www.sellerassistant.app/terms-of-use/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.sellerassistant.app/privacy-policy/"
+        },
+        {
+            "text": "Cookie Policy",
+            "href": "https://www.sellerassistant.app/cookie-policy/"
+        },
+        {
+            "text": "Refund Policy",
+            "href": "https://www.sellerassistant.app/refund-policy/"
+        }
+    ],
+    "text_length": 13368,
+    "text_full": "Solutions\nTools\nIntegrations\nResources\nPricing\nGet a demo\nLogin\nRegister\n\nSELLER ASSISTANT REVIEWS\n\nAmazon experts and sellers about Seller Assistant\n\nSeller Assistant makes Amazon sellers more successful by providing actionable insights and intelligence, backed by industry-leading data. Learn why Seller Assistant is essential to your seller toolkit.\n\n\"Seller Assistant is an incredible extension. It can help you identify great gaps in the market, great potential products that you can wholesale, resale, sell in whatever way that you want\".\n\nKrystel Abi-Assi\n\nThe founder of Amazon Sellers Society\n\n\"Seller Assistant is a powerful product-sourcing software designed to meet the diverse needs of Amazon sellers, including those involved in online arbitrage, wholesale, and dropshipping\".\n\nIan Kaneshiro\n\nHost of \"Not Another eComm Podcast\"\n\n\"It is a cool software for Amazon sellers with a lot of features. Once you learn how it works, you'll find it easier than ever to search for online arbitrage and wholesale products. It'll do the magic for you\".\n\nVova Even\n\nAmazon Seller\n\n\"The best tool for conducting arbitrage on Amazon. With it, you will be able to find profitable products in a very easy and very fast way. Additionally, you will save a lot of time with the included Restriction Checker\".\n\nRod Hilfer\n\nAmazon Expert for 13 years\n\n\"Seller Assistant provides advanced analytics to help make informed decisions. Furthermore, it has an IP Alert Chrome extension. As you browse products to potentially sell on Amazon, it will give you real-time intellectual property risk alerts to help you keep your account safe\".\n\nRyan Hogue\n\n7-figure FBA & Print on Demand Seller\n\n\"A software that does everything! It offers a seamless product research experience and allows you to sort through and be spoon-fed profitable buys that you can make, along with all the most important information\".\n\nBryan Guerra\n\nDropshipping & Entrepreneurship Expert\n\nWHAT OUR USERS SAY\n\nTrusted by Amazon sellers worldwide\nVladimir Pushkar\nSeller Assistant has truly been a game-changer for my product analysis. The user-friendly interface and robust features have made it exceptionally easy to gather insights into my products' performance.\nAug 2, 2025\nPurnambica Kolavennu\nOne of the best online browser extension for amazon resellers that provides the selection of the best suited products and helps in leveraging the wholesale and online arbitrage of the same globally. It is a simple and easy to understand software which simplifies the product search process and provide accurate outcome. It has made the wholesale and dropshipping process easiest than ever. Vey simple and intuitive interface and it never hangs during online resale. Very light software with advanced features for best product selection for online arbitrage\n\nThe tool is greatly helping the resellers in product wholesaling and online arbitraging. Also, the tool comes with numerous features like FBA Profit calculator, stock checker etc. which enables the selection of high profitable items and also smoothens the online process of dropshipping, wholesale and online arbitrage of product items in most streamlined manner without any glitch or issue. The free trial of 30 days is good enough for exploring the features and functionalities of the software from scratch and so far, my e commerce team has found the software quite helpful and of high utility.\n\nNo issues found till now. The integration of the software with our internal e commerce seller platform often poses some compatibility issue but s always resolved on priority so overall its going good till now.\nNov 16, 2023\nVikash Ghatala\nUsed for a while and here are the things that I like most about this.\nIf you are a amazon seller or reseller, this will surely help you for providing you the best profit with you products and providing you all the information for available products.\nProvides all necessary information like Margin, profit, FBA and also stock availability.\nThis service also provides the 14 days trial which is really great to try by yourself.\n\nFound nothing much but I would recommend to lower the price a little bit for small sellers. Just a little bit so that the starters can also afford this in their expense. Otherwise, everything is great.\nNov 16, 2023\nShivam Tiwari\nMarketing and sales are improved by its market data. The product's high integration allows us to thoroughly investigate many market routes.\n\nThis app is the most flexible for daily revenue and profit forecasting. Data-driven analytics show us how we compare to competitors.\n\nSince implementing Seller Assistant App, operations have been uninterrupted.\nOct 30, 2023\nGbenga Elijah\nthe app's product research tools have proven to be invaluable in enabling my team to identify profitable products with greater efficiency. This has resulted in significant time and resource savings\n\nSince all the features are available on the platform, there’s no comment\nOct 27, 2023\nElisabetta Catania\nThe tool provides instant information to sellers, enabling them to make crucial product decisions on Amazon. The Seller Assistant app directly impacts the quality of service provided to customers. Support can answer customers' questions and concerns when they have questions or problems.\n\nThis cutting-edge tool was created to help Amazon sellers streamline their operations and maximize their profits. We can focus on more critical aspects of your business by automating repetitive product searches, drop shipping, wholesale, and Internet arbitrage.\n\nSo far, there have been no problems. It simplifies the product search process by constantly providing us with comprehensive information.\nOct 26, 2023\nDamola Adeleke\nIt was a good marketing software\n\nIn just using this software for 6months.. it changed my online sales gains.. one of the things i love most, is the online arbitrage lead option, Before i want to purchase any online arbitrage , i can already gain access to the core essential information like, e.g The best seller rank, the category, the competition analysis, and the suppliers website etc... me getting access to all this information made it easy for me to make accurate marketing judgements.\n\nThe only cons i have is that, they should give the trial version users more features to acess\nOct 25, 2023\nDamola Adeleke\nIt was a good marketing software\n\nIn just using this software for 6months.. it changed my online sales gains.. one of the things i love most, is the online arbitrage lead option, Before i want to purchase any online arbitrage , i can already gain access to the core essential information like, e.g The best seller rank, the category, the competition analysis, and the suppliers website etc... me getting access to all this information made it easy for me to make accurate marketing judgements.\n\nThe only cons i have is that, they should give the trial version users more features to acess\nOct 25, 2023\nNaman Agrawal\nThe app is so simple to use and the data it provides is bang on. I have been using a couple of them and have struggled with the data they provide. It has helped me in keeping an eye on the competitors and I love it absolutely!\n\nIt it would have a desktop app, then it would be better too. Otherwise it's good\nOct 25, 2023\nMichael Ade\nThis tool has totally changed the way i manage my amazon KDP business.. It is awesome\n\nFirstly , i would like to start by saying this app was worth every dime, from the get go detailed product analytics to the very intuitive user interface .. This app generate so much data on a product that helps me making good and efficient online seller (Amazon KDP)... In the last 6months i have started using this tool..it is mind-blowing especially with all these detailed reports and most important of all ..the profitability analysis feature.\n\nI love everything about the software, It is really Mindblowing\nOct 18, 2023\nadekunle Oma\nMy experience with the Seller Assistant has been incredibly positive. This tool has proven to be invaluable for Amazon sellers like me. It offers a comprehensive set of features that have greatly improved my operations, decision-making, and overall seller experience. From managing inventory and analyzing sales data to optimizing product listings and tracking customer feedback, the Seller Assistant has become an essential part of my journey as an Amazon seller.\n\nWhat I like most about Seller Assistant's seller platform is the \"Online Arbitrage lead\" feature. It allows you to access valuable information before purchasing an online arbitrage deal, including details like BSR (Best Seller Rank), category, supplier's website, competition analysis, and more. This transparency in pre-purchase information helps in making informed decisions when sourcing products for online arbitrage.\n\nThe Seller Assistant platform is functioning seamlessly however, I believe it would be beneficial if they allowed new free trial users to add team members during the trial period. This would enable them to fully explore and navigate the platform as a team from the outset.\nOct 9, 2023\nAnkit Ram\nWith the Seller Assistant app, I was able to find and check product ideas on Amazon without any problems. It saved me time and money by giving me accurate information. Anyone who wants to sell something can gain from using the Seller Assistant App.\n\nThe Seller Assistant app helps you find goods and categories that make you a lot of money by showing you things like sales rank, expected income, fees, reviews, ratings, and more. You can send the data to Google Sheets so that you can look at it more closely. To keep things smooth, it lets me know about IP and company limits.\n\nIt's bad that the Seller Assistant App doesn't work with my other Chrome tabs and add-ons. It sometimes slows down my browser and makes plugins not work right. It would be great to have more options for optimizing keywords and ads.\nOct 4, 2023\nDisco Gerry\nIt saves time. Saves all results and provides excellent security for your data. This is the best bizarre software for me.If you want to leverage your work results then you should camp here with me, Seller Assistant App has your back.\n\nThis is the most effective software have ever used.Its ease of use spices up your work and magnifies their good work in your results. Have been using it for stock checking and trust me it has brought a great impact, no errors. It calculator helps a lot. Ha a restricted checker. This software is just perfect.\n\nNo cons. Has been of great help. Its the secret that we experts use.\nOct 2, 2023\nRuth Njoki\nThe secret catalyst to perfect success.Go for this App if greatness is your thing.\n\nSeller Assistant App is an absolutely satisfying software for online works. It has extra ordinary features which magnifies their good work in your it's compatibility and ease of use spices up your mood which working and provides excellent results.Has helped me to strategize my company plans very well. It has enhanced proper growth rate of my organization.For stock checking, this software has your back. It does wonders when it comes to calculation no rooms for mistakes.\n\nHas excellent features.i know I can confidently rely on this software, that's why I have no complain.\nSep 25, 2023\nCollect testimonials with Senja\n\nSELLER ASSISTANT\n\nWhy use Seller Assistant?\n\nYour Amazon product research tool to effortlessly find best-selling high-profit deals. Automatically spot thousands of high-margin and best-selling products with our bulk tools. Quickly analyze brands and competitors to identify new product ideas.\n\n4.9 out of 5.0 by our customers on Chrome Web Store\n\nTrusted third-party software partner\n\nReviewed and monitored by Amazon to ensure compliance\n\nLearn More\nBest Product Sourcing Software for Amazon Online Arbitrage and Wholesale\n\nFind Profitable Products on Amazon with FREE TRIAL Now!\n\nGET STARTED\n\nNot sure which plan fits your sourcing workflow? Chat with our team — we're happy to help.\n\nNAVIGATION\nHome\nPricing\nDownload\nSOLUTIONS\nOnline Arbitrage\nWholesale\nDropshipping\nAgencies\nPRODUCTS\nPrice List Analyzer\nLister\nPurchase Orders\nSuppliers\nWarehouses\nSeller Assistant Extension\nIP-Alert by Seller Assistant\nVPN by Seller Assistant\nBulk Restriction Checker\nSeller Spy\nBrand Analyzer\nFREE TOOLS\nASIN Lookup\nIP-Alert Lookup\nSupplier Finder\nASIN to UPC\nUPC to ASIN\nEAN to ASIN\nFEATURES\nFBM & FBA Calculator\nVAT Calculator\nAmazon IP-Alert\nSide Panel View\nAmazon Quick View\nStorefront Widget\nAlerts & Flags\nRestrictions Checker\nSales Estimator\nOffers\nVariation Viewer\nStock Checker\nASIN Grabber\nSub-Accounts for VAs\nExport to Google Sheets\nNotes\nALTERNATIVES\nAnalyzer.Tools Alternative\nScan Unlimited Alternative\nSmartScout Alternative\nRevSeller Alternative\nBuyBotPro Alternative\nAZInsight Alternative\nSellerAmp Alternative\nIP-Alert Alternative\nDS Quick View Alternative\nPARTNERS\nAffiliate Program\nPartners\nAmazon Experts\nPress Kit\nRESOURCES\nBlog\nGet a Demo\nHelp Center\nOffice Hours\nNews & Updates\nProduct Roadmap\nReviews\nINTEGRATIONS\nZapier\nMake\nAirtable\nn8n\nGoogle Sheets\nSeller Central\nPrep Centers\nAPI\nOTHER LINKS\nIP-Alert by Seller Assistant\nLANGUAGE\n🇬🇧 English\n🇷🇺 Русский\n🇪🇸 Español\n🇹🇷 Türkçe\n\nCopyright © 2019-2026 Linen Art, LLC. All rights reserved.\nAmazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates.\n\nTerms of Use\n|\nPrivacy Policy\n|\nCookie Policy\n|\nRefund Policy"
+}

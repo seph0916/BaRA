@@ -1,0 +1,87 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "Karabiner Elements",
+            "href": "https://karabiner-elements.pqrs.org/"
+        },
+        {
+            "text": "Raycast",
+            "href": "https://www.raycast.com/"
+        },
+        {
+            "text": "Sebastian De Deyne",
+            "href": "https://sebastiandedeyne.com/hyper-key/"
+        },
+        {
+            "text": "Brett Terpstra",
+            "href": "https://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/"
+        },
+        {
+            "text": "",
+            "href": "https://benholmen.com/"
+        },
+        {
+            "text": "The Kilopixel recap - season one",
+            "href": "https://benholmen.com/blog/kilopixel-season-1/"
+        },
+        {
+            "text": "I spent 6 years building a ridiculous wooden pixel display",
+            "href": "https://benholmen.com/blog/kilopixel/"
+        },
+        {
+            "text": "Pairing with Strangers (the Pair-amid Scheme)",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "Mapping a Hyper key on MacOS with Karabiner Elements (the easy way)",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "Defragment your PHPUnit tests",
+            "href": "https://benholmen.com/blog/defragment-your-phpunit-tests/"
+        },
+        {
+            "text": "A photo a day for 30 days",
+            "href": "https://benholmen.com/blog/a-photo-a-day/"
+        },
+        {
+            "text": "Building howtall.is",
+            "href": "https://benholmen.com/blog/howtall.is/"
+        },
+        {
+            "text": "The Art of Pairing with Strangers - Over Engineered Podcast",
+            "href": "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/"
+        },
+        {
+            "text": "Just how old is a 45 year old soup (and would you eat it)",
+            "href": "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/"
+        },
+        {
+            "text": "Growing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "VIEW ALL ⇢",
+            "href": "https://benholmen.com/blog/"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/benholmen.com"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/benholmen/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/benholmen"
+        }
+    ],
+    "text_length": 1883,
+    "text_full": " \nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\n\nJanuary 30, 2024\n\nI was just helping someone set up a hyper key and was surprised at how confusing most of the guides were. So here's my very simple version!\n\nWait a sec, what's a hyper key?\n\nA hyper key is mapping a single key to <shift> + <control> + <option> + <command> so when you push that single key, you're really getting all of the modifier keys at once. It's useful for setting up global keyboard shortcuts because no sane application would require all four modifier keys in a shortcut.\n\nQuick howto\nInstall Karabiner Elements\nOpen Karabiner Elements, goto \"Complex Modifications\"\nClick \"Add predefined rule\"\nClick \"Import more rules from the internet\"\nSearch for \"Caps Lock → Hyper Key (⌃⌥⇧⌘) (Caps Lock if alone)\" and import it\nEnable it\n\nThat's it, you're done! Your <caps lock> key now functions as a hyper key.\n\nSo what would you use this for?\n\nYou can use this hyper key in any keyboard shortcut you can configure on your computer. I think it's most useful with Raycast, which I use for window management, quickly opening/switching most used apps, emoji search, and more. For example, <hyper> + e opens an emoji picker; <hyper> + c opens Chrome; <hyper> + v opens VSCode; <hyper> + 1 fires a confetti cannon, etc.\n\nMore information\nSebastian De Deyne\nBrett Terpstra\nPopular Posts\nThe Kilopixel recap - season one\nI spent 6 years building a ridiculous wooden pixel display\nPairing with Strangers (the Pair-amid Scheme)\nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\nDefragment your PHPUnit tests\nRecent Posts\nA photo a day for 30 days\nBuilding howtall.is\nThe Art of Pairing with Strangers - Over Engineered Podcast\nJust how old is a 45 year old soup (and would you eat it)\nGrowing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast\nVIEW ALL ⇢"
+}

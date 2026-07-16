@@ -1,0 +1,81 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://media.npr.org/assets/img/2019/10/24/thaisoup1_wide-c50a17391d9021ccc9b823a0009df7acc5a04547.jpg?s=1600&c=85&f=webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 17,
+    "links": [
+        {
+            "text": "Cheese & Weather",
+            "href": "https://cheeseandweather.com/16"
+        },
+        {
+            "text": "this soup that has been continuously simmering for 45 years",
+            "href": "https://www.npr.org/sections/thesalt/2019/11/03/772030934/soups-on-and-on-thai-beef-noodle-brew-has-been-simmering-for-45-years"
+        },
+        {
+            "text": "",
+            "href": "https://benholmen.com/"
+        },
+        {
+            "text": "The Kilopixel recap - season one",
+            "href": "https://benholmen.com/blog/kilopixel-season-1/"
+        },
+        {
+            "text": "I spent 6 years building a ridiculous wooden pixel display",
+            "href": "https://benholmen.com/blog/kilopixel/"
+        },
+        {
+            "text": "Pairing with Strangers (the Pair-amid Scheme)",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "Mapping a Hyper key on MacOS with Karabiner Elements (the easy way)",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "Defragment your PHPUnit tests",
+            "href": "https://benholmen.com/blog/defragment-your-phpunit-tests/"
+        },
+        {
+            "text": "A photo a day for 30 days",
+            "href": "https://benholmen.com/blog/a-photo-a-day/"
+        },
+        {
+            "text": "Building howtall.is",
+            "href": "https://benholmen.com/blog/howtall.is/"
+        },
+        {
+            "text": "The Art of Pairing with Strangers - Over Engineered Podcast",
+            "href": "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/"
+        },
+        {
+            "text": "Just how old is a 45 year old soup (and would you eat it)",
+            "href": "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/"
+        },
+        {
+            "text": "Growing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "VIEW ALL ⇢",
+            "href": "https://benholmen.com/blog/"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/benholmen.com"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/benholmen/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/benholmen"
+        }
+    ],
+    "text_length": 3126,
+    "text_full": " \nJust how old is a 45 year old soup (and would you eat it)\n\nJuly 14, 2024\n\nOn my absurd podcast Cheese & Weather we covered a topic Jason Beggs has been requesting: what do we think of this soup that has been continuously simmering for 45 years? Since that article was written in 2019 it's actually a 50 year old soup!\n\nI'll let you listen to the podcast to hear our take, but I was wondering: is there a single molecule of the soup that went into the pot in 1974? That's 18,250 days of selling the soup, keeping \"a little bit\" for the next day, and diluting it. That's a huge amount of dilution, but on the other hand - there are an astronomical number of molecules in a single spoon of soup, let alone a cauldron.\n\nSo let's figure it out. That article describes a large pot, 5 feet in diameter, 2.5 feet tall. Such a pot would contain 367 gallons if it was a perfect cylinder and full to the brim - let's reduce it by 10% and assume 330 gallons. That's 1,249 liters or 1.249 × 106 cm³.\n\nLet's assume the cauldron is full of water, and only water - the tradeoff is that the density of the different ingredients, and the broth itself, is approximately but not exactly the same as the density of water. The density of water at the boiling point is 0.95837 g/cm³.\n\n0.95837 g/cm³ × 1.249 × 106 cm³ = 1.197 × 106 g of H2O\n\nSo how many molecules are in 1,197 kg of H2O?\n\nThe molar mass of H2O is 18.015 g/mol, so 1.197 × 106 g / 18.015 g/mol = 6.644 × 104 mol of H2O.\n\nUsing Avogadro's number we can calculate the number of molecules:\n\n6.644 × 104 mol × 6.022 × 1023 = 4.001 × 1028 molecules\n\nSo that's a lot of molecules. For some scale, the universe is 13.8 billion years old, which is 4.3 × 1017 seconds. Nowhere close!\n\nSo what percentage of the soup remains after 50 years, or 18,250 days of saving \"a little bit\" of the soup? Let's assume that they keep just 1%, or 3.3 gallons, each day. After one day, 1% of the original soup remains. After two days, 0.01% of the soup remains. After one week, just 0.00000000000001% of the original soup remains. After 50 years, 0.0118250 remains, or 10-36498%. That is a vanishingly small number that completely dwarfs the large number of molecules.\n\nIn fact, I'm not even sure that a single molecule remains after 15 days! After 15 days 0.0115 or 10-30 remains. 4.001 × 1028 molecules × 10-30 = 0.04 molecules. Not many molecules.\n\nSo yeah, you're not eating 50 year old soup. At most, it's about two weeks old. Which is definitely longer than the 2 hours the FDA recommends for perishable foods, so let's hope they've kept it above 140 °F.\n\nBon appetit!\n\nPopular Posts\nThe Kilopixel recap - season one\nI spent 6 years building a ridiculous wooden pixel display\nPairing with Strangers (the Pair-amid Scheme)\nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\nDefragment your PHPUnit tests\nRecent Posts\nA photo a day for 30 days\nBuilding howtall.is\nThe Art of Pairing with Strangers - Over Engineered Podcast\nJust how old is a 45 year old soup (and would you eat it)\nGrowing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast\nVIEW ALL ⇢"
+}

@@ -1,0 +1,106 @@
+{
+    "image_count": 2,
+    "images": [
+        "https://evanhahn.com/mac-ocr-script/photo.avif",
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 23,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#macos",
+            "href": "https://evanhahn.com/tags/macos/"
+        },
+        {
+            "text": "#swift",
+            "href": "https://evanhahn.com/tags/swift/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "a script",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/da1e0dc446ab3142e0070277f5dad8f2dc228083/home/bin/bin/ocr"
+        },
+        {
+            "text": "Frog",
+            "href": "https://github.com/tenderowl/frog/"
+        },
+        {
+            "text": "Tesseract",
+            "href": "https://tesseract-ocr.github.io/"
+        },
+        {
+            "text": "Apple’s Vision framework",
+            "href": "https://developer.apple.com/documentation/vision"
+        },
+        {
+            "text": "please let me know",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 2445,
+    "text_full": "Simple macOS script to extract text from images (OCR)\nby Evan Hahn, posted Jul 14, 2025, tagged #release #macos #swift #ai\n\nI wrote a script that lets me run ocr image.png to extract text from images. This is useful for pulling text from screenshots, photos, and more.\n\nIt only works on macOS because it uses Apple’s proprietary text recognition API. (I’ve used Frog for OCR on Linux, which I believe uses Tesseract under the hood.)\n\nLet’s say I want to extract text from this picture:\n\nI run this command…\n\nocr /path/to/photo.jpg\n\n\n…to get this output:\n\nThe author's reflections on his situation- Is\ndeceived by a promise of being delivered - His\ndespair at sailing for the West Indies-Arrives at\nMontserrat, where he is sold to Mr. King-Various\ninteresting instances of oppression, cruelty, and\nextortion, which the author saw practised upon\nthe slaves in the West Indies during his captivity\nfrom the year 1763 to 1766- Address on it to the\nplanters.\n\n\nAs you can see, it isn’t perfect. For example, it messes up em dashes here. But this is usually good enough for me!\n\nHere’s the script’s source code, which uses Swift and Apple’s Vision framework:\n\n#!/usr/bin/env swift\n\nimport Foundation\n\nimport Vision\n\n\n\nfunc die(_ msg: String) -> Never {\n\n  fputs(\"\\(msg)\\n\", stderr)\n\n  exit(1)\n\n}\n\n\n\nif CommandLine.arguments.count != 2 {\n\n  die(\"usage: ocr /path/to/image1.jpg\")\n\n}\n\n\n\nlet path = URL(fileURLWithPath: CommandLine.arguments[1])\n\n\n\nvar recognizeTextRequest = RecognizeTextRequest()\n\nrecognizeTextRequest.automaticallyDetectsLanguage = true\n\nrecognizeTextRequest.usesLanguageCorrection = true\n\nrecognizeTextRequest.recognitionLevel = .accurate\n\n\n\nguard let observations = try? await recognizeTextRequest.perform(on: path) else {\n\n  die(\"couldn't recognize text\")\n\n}\n\n\n\nfor observation in observations {\n\n  if let candidate = observation.topCandidates(1).first {\n\n    print(candidate.string)\n\n  }\n\n}\n\n\nMy script has one minor issue: if text recognition fails, it logs a nasty error to stdout. I couldn’t figure out how to stop this. I’m okay with that because this is a simple script for my own purposes, but if you have a fix, please let me know.\n\nHope this is helpful to someone out there!\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

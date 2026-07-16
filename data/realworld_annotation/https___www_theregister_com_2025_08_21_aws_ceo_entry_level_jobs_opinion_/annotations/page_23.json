@@ -1,0 +1,979 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5242864.jpg?imageId=5242864&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230518.jpg?imageId=230518&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238106.jpg?imageId=5238106&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238863.jpg?imageId=5238863&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=63.59&heighty=0.00&heightw=32.38&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5238831.jpg?imageId=5238831&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235742.jpg?imageId=235742&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232836.jpg?imageId=232836&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252281.jpg?imageId=252281&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243795.jpg?imageId=243795&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253209.jpg?imageId=253209&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5225140.jpg?imageId=5225140&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231483.jpg?imageId=231483&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225813.jpg?imageId=225813&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241714.jpg?imageId=241714&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230446.jpg?imageId=230446&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252281.jpg?imageId=252281&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245920.jpg?imageId=245920&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230936.jpg?imageId=230936&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231602.jpg?imageId=231602&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230936.jpg?imageId=230936&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/233433.jpg?imageId=233433&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/263266.jpg?imageId=263266&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255861.jpg?imageId=255861&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227816.jpg?imageId=227816&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252578.jpg?imageId=252578&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227617.jpg?imageId=227617&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226375.jpg?imageId=226375&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/237888.jpg?imageId=237888&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094262.jpg?imageId=4094262&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094173.jpg?imageId=4094173&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230259.jpg?imageId=230259&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229881.jpg?imageId=229881&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094048.jpg?imageId=4094048&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262716.jpg?imageId=262716&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/262729.jpg?imageId=262729&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227469.jpg?imageId=227469&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093947.jpg?imageId=4093947&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227644.jpg?imageId=227644&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254008.jpg?imageId=254008&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/260794.jpg?imageId=260794&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253921.jpg?imageId=253921&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231117.jpg?imageId=231117&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4093963.jpg?imageId=4093963&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/4094072.jpg?imageId=4094072&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247768.jpg?imageId=247768&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228453.jpg?imageId=228453&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252113.jpg?imageId=252113&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230936.jpg?imageId=230936&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254284.jpg?imageId=254284&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222778.jpg?imageId=222778&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/223845.jpg?imageId=223845&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684255.jpg?imageId=1684255&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247906.jpg?imageId=247906&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227995.jpg?imageId=227995&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684077.jpg?imageId=1684077&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/247056.jpg?imageId=247056&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235026.jpg?imageId=235026&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252273.jpg?imageId=252273&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683980.jpg?imageId=1683980&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1684240.jpg?imageId=1684240&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228093.jpg?imageId=228093&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234747.jpg?imageId=234747&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244280.jpg?imageId=244280&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222429.jpg?imageId=222429&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228149.jpg?imageId=228149&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258197.jpg?imageId=258197&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/205229.jpg?imageId=205229&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228981.jpg?imageId=228981&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232210.jpg?imageId=232210&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/263244.jpg?imageId=263244&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 223,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/databases#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "PostgreSQL backup tool gets some backup of its own after sole maintainer sounds alarm\n\nAWS, Percona, Supabase, pgEdge, and Tiger Data rally round pgBackRest with funding pledge",
+            "href": "https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/05/20/20265/"
+        },
+        {
+            "text": "London's police asked Big Tech for comms data over 700,000 times last year\n\nA Freedom of Information Act request shows the extent of the surveillance",
+            "href": "https://www.theregister.com/databases/2026/05/20/londons-police-asked-big-tech-for-comms-data-over-700000-times-last-year/5242590"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/05/20/20266/"
+        },
+        {
+            "text": "Google tells database devs to lean hard on AI for PostgreSQL work\n\nCloud giant says humans remain accountable, even when code gets an assist from the machines",
+            "href": "https://www.theregister.com/databases/2026/05/18/google-tells-database-devs-to-lean-hard-on-ai-for-postgresql-work/5238070"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2026/05/18/20266/"
+        },
+        {
+            "text": "dBase debased: Database titan fades to black after 47 years\n\nBlog post mourning decline appears to have helped knock what was left of the veteran app's online presence offline",
+            "href": "https://www.theregister.com/databases/2026/05/13/dbase-debased-database-titan-fades-to-black-after-47-years/5238841"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2026/05/13/202611/"
+        },
+        {
+            "text": "NHS England confirms: Palantir staff can access patient data\n\nTech firm's employees can get an 'admin' role letting them into the National Data Integration Tenant... and its identifiable information",
+            "href": "https://www.theregister.com/databases/2026/05/12/nhs-england-confirms-palantir-staff-can-access-patient-data/5238712"
+        },
+        {
+            "text": "49",
+            "href": "https://forums.theregister.com/forum/all/2026/05/12/202616/"
+        },
+        {
+            "text": "SAP dives deeper into Iceberg with Dremio acquisition\n\nERP giant previously leaned on Databricks for integration",
+            "href": "https://www.theregister.com/software/2026/05/05/sap-dives-deeper-into-iceberg-with-dremio-acquisition/5226560"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/05/05/sap_dremio/"
+        },
+        {
+            "text": "AI clause in new SAP API policy has partners worried over lock-in\n\nExpert says it could push customers and partners to work with undocumented APIs",
+            "href": "https://www.theregister.com/software/2026/04/29/ai-clause-in-new-sap-api-policy-provokes-lock-in-concern/5225767"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/04/29/new_sap_api_policy_provokes/"
+        },
+        {
+            "text": "Database world trying to build natural language query systems again – this time with LLMs\n\nText-to-SQL might be useful for analysts and DBAs, but be cautious with general user adoption",
+            "href": "https://www.theregister.com/software/2026/04/22/llms-fuel-new-generation-of-natural-language-query-systems/5225705"
+        },
+        {
+            "text": "18",
+            "href": "https://forums.theregister.com/forum/all/2026/04/22/llms_natural_langauge_systems_new/"
+        },
+        {
+            "text": "The spaghettified DBMS chart that shows Oracle's crown is slowly slipping\n\nChange is glacial, but the direction is clear",
+            "href": "https://www.theregister.com/software/2026/04/21/the-dbms-chart-that-shows-oracles-crown-is-slowly-slipping/5226401"
+        },
+        {
+            "text": "59",
+            "href": "https://forums.theregister.com/forum/all/2026/04/21/gartner_bamboozling_dbms_chart_shows/"
+        },
+        {
+            "text": "DuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses\n\nBatching teensy changes in chunks creates massive performance boost, DuckDB Labs team claims",
+            "href": "https://www.theregister.com/software/2026/04/16/duckdb-uses-rdbms-to-tackle-lakehouse-small-changes-issue/5222357"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2026/04/16/duckdb_uses_rdbms_lakehouse/"
+        },
+        {
+            "text": "WARNING: Oracle's AI obsession could mean higher prices and worse support\n\nAdvisers say fewer staff could mean slower answers and tougher renewals",
+            "href": "https://www.theregister.com/software/2026/04/13/oracle-ai-obsession-could-mean-higher-prices-worse-support/5224760"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/04/13/oracle_job_losses_ai_impact_support/"
+        },
+        {
+            "text": "Britain's biggest nuclear site skips competition, hands SAP £33M to start ERP switch\n\nSellafield says sticking with German giant is only way off legacy ECC before support runs dry",
+            "href": "https://www.theregister.com/software/2026/04/10/sellafield-starts-sap-migration-with-33m-award/5221588"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2026/04/10/sellafield_sap_erp/"
+        },
+        {
+            "text": "DXC lands Metropolitan Police outsourcing deal that could climb to £1B\n\nSupplier will support the current Oracle E-Business Suite and lead migration to a new Oracle Fusion SaaS platform",
+            "href": "https://www.theregister.com/software/2026/04/08/dxc-lands-metropolitan-police-contract-worth-up-to-1b/5226991"
+        },
+        {
+            "text": "18",
+            "href": "https://forums.theregister.com/forum/all/2026/04/08/dxc_met_police_contract/"
+        },
+        {
+            "text": "EDB Postgres AI for WarehousePG: Reclaiming control of the enterprise data warehouse\n\nProprietary warehouses delivered scale — but at the cost of control, predictable pricing, and real flexibility. Enterprises are doing the math.",
+            "href": "https://www.theregister.com/software/2026/03/31/edb-postgres-ai-for-warehousepg-enterprise-data-warehouse/5228422"
+        },
+        {
+            "text": "SAP looking to pull more external data into its AI platform with Reltio acquisition\n\nMerger positioned to boost appeal of ERP giant's Business Data Cloud",
+            "href": "https://www.theregister.com/software/2026/03/30/sap-eyes-broader-data-integration-with-reltio-acquisition/5227228"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2026/03/30/sap_reltio/"
+        },
+        {
+            "text": "Microsoft Fabric Database Hub only a 'partial' solution for admins\n\nCould help break silos, but users should take wait-and-see approach to system limited to Microsoft DBs and DBaaS",
+            "href": "https://www.theregister.com/software/2026/03/30/microsoft-fabric-database-hub-dubbed-partial-solution/5229192"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/03/30/microsoft_fabric_database_hub_partial_solution/"
+        },
+        {
+            "text": "SAP already shifting focus from ERP migration disaster in pursuit of AI-driven growth\n\nNew commercial models planned after cloud transition falls €2B behind target",
+            "href": "https://www.theregister.com/software/2026/03/24/sap-already-shifting-away-from-erp-migration-disaster/5219808"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2026/03/24/sap_commercial_focus/"
+        },
+        {
+            "text": "Palantir trial plugs into UK financial watchdog's data trove\n\nUS analytics firm handed access to sensitive intel, raising yet more questions about vendor lock-in",
+            "href": "https://www.theregister.com/software/2026/03/23/palantir-trial-plugs-into-uk-financial-watchdogs-data-trove/5227680"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/03/23/palantir_fca/"
+        },
+        {
+            "text": "SAP's grand cloud escape plan €2B short of the runway\n\nStrategy launched after 2020 share price crash is 24% behind target",
+            "href": "https://www.theregister.com/software/2026/03/19/saps-grand-cloud-escape-plan-2b-short-of-the-runway/5221557"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2026/03/19/sap_2b_off_target/"
+        },
+        {
+            "text": "Microsoft promises all-in-one database wrangling hub on Fabric\n\nPostgreSQL, MySQL, SQL Server all handled via Database Hub, vendor says",
+            "href": "https://www.theregister.com/software/2026/03/18/microsoft-promises-multi-database-wrangling-hub-on-fabric/5226093"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/03/18/microsoft_fabric_latest/"
+        },
+        {
+            "text": "West Sussex's Oracle rollout pushed back again as costs balloon 15 times\n\nAlready five years late, project delayed another six months after price tag swells from £2.6M to £41M",
+            "href": "https://www.theregister.com/software/2026/03/16/west-sussex-county-council-pushes-back-oracle-rollout-again/5224574"
+        },
+        {
+            "text": "47",
+            "href": "https://forums.theregister.com/forum/all/2026/03/16/west_sussex_oracle/"
+        },
+        {
+            "text": "Campaigners claim NHS Palantir system could be accessed by police and immigration\n\nUS spy-tech biz and platform provider retorts that this would be against the current law and a breach of its contract",
+            "href": "https://www.theregister.com/software/2026/03/12/campaigners-claim-nhs-palantir-data-could-reach-govt-depts/5226821"
+        },
+        {
+            "text": "18",
+            "href": "https://forums.theregister.com/forum/all/2026/03/12/medact_palantir/"
+        },
+        {
+            "text": "Oracle moves to assure MySQL community it really does care\n\nBig Red waves new features including vector support, while skeptics await concrete timescales",
+            "href": "https://www.theregister.com/software/2026/03/10/oracle-moves-to-assure-mysql-community-it-really-does-care/5225671"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/03/10/mysql_oracle_updates/"
+        },
+        {
+            "text": "MariaDB backs down on Galera removal after community outcry\n\nBut questions remain over long-term commitment to clustering tech in open source",
+            "href": "https://www.theregister.com/software/2026/03/09/mariadb-backs-down-on-galera-removal-after-community-outcry/5224684"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/03/09/mariadb_galera/"
+        },
+        {
+            "text": "UK government's Shared Services Strategy is entering the danger zone\n\nGargantuan ERP and HR overhaul has committed around £1.7B and affects nearly half a million public workers",
+            "href": "https://www.theregister.com/software/2026/03/09/uks-shared-services-strategy-is-entering-the-danger-zone/5220778"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2026/03/09/shared_services_danger_zone/"
+        },
+        {
+            "text": "UK Treasury not sure about ditching Oracle to join £1.7 billion shared services program it is funding\n\nIt promised £1.15B… but finance ministry yet to show 'formal commitment' to adopt Workday SaaS, watchdog says",
+            "href": "https://www.theregister.com/software/2026/03/06/uk-treasury-unsure-about-joining-17b-program-it-is-funding/4537259"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/03/06/uk_treasury_matrix_nao/"
+        },
+        {
+            "text": "Capita's £370M Whitehall outsourcing deal challenged as 'abnormally low'\n\nRival bidder Sopra Steria launched legal claim over DWP procurement",
+            "href": "https://www.theregister.com/software/2026/03/04/capita-370m-whitehall-outsourcing-deal-challenged-in-court/4949889"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2026/03/04/370m_capita_government_deal/"
+        },
+        {
+            "text": "SAP writes $480M check to finally end IP legal spat with Teradata\n\nA joint venture from 2008 led to years of claims and counter-claims between the data whizzkids",
+            "href": "https://www.theregister.com/software/2026/03/02/sap-to-pay-teradata-480m-to-resolve-ip-legal-spat/4835165"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/03/02/sap_teradata_settlement/"
+        },
+        {
+            "text": "Open source devs consider making hogs pay for every download\n\nCareless big-time users are treating FOSS repos like content delivery networks",
+            "href": "https://www.theregister.com/software/2026/02/28/open-source-package-repositories-face-sustainability-crisis/5106934"
+        },
+        {
+            "text": "97",
+            "href": "https://forums.theregister.com/forum/all/2026/02/28/open_source_opinion/"
+        },
+        {
+            "text": "Mondelēz picks Celonis as process backbone for SAP overhaul\n\nSnack giant opts for vendor-neutral process mining as it shifts from ECC to S/4HANA",
+            "href": "https://www.theregister.com/software/2026/02/27/mondelz-picks-celonis-as-process-backbone-for-sap-overhaul/4908186"
+        },
+        {
+            "text": "1",
+            "href": "https://forums.theregister.com/forum/all/2026/02/27/mondelez_sap_migration_celonis/"
+        },
+        {
+            "text": "Quebec vehicles agency spent C$245M over budget on SAP ERP it wasn't sure it needed\n\nProbe says SAAQ misled government and botched rollout caused province-wide disruption",
+            "href": "https://www.theregister.com/software/2026/02/20/quebec-watchdog-faults-saaq-over-sap-overrun/4994210"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2026/02/20/saaq_sap_overrun/"
+        },
+        {
+            "text": "Dear Oracle, we need to talk about the future of MySQL\n\nFaithful pen open letter proposing independent foundation with or without Big Red's participation",
+            "href": "https://www.theregister.com/software/2026/02/17/dear-oracle-we-need-to-talk-about-the-future-of-mysql/4605955"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2026/02/17/mysql_foundation_oracle_letter/"
+        },
+        {
+            "text": "Oracle vows 'new era' for MySQL as users sharpen their forks\n\nCommit drought and governance gripes push Big Red to reset",
+            "href": "https://www.theregister.com/software/2026/02/16/oracle-promises-new-approach-to-mysql/4507849"
+        },
+        {
+            "text": "30",
+            "href": "https://forums.theregister.com/forum/all/2026/02/16/oracle_new_era_mysql/"
+        },
+        {
+            "text": "UK council digs deeper into capital assets to keep Oracle project afloat\n\nWest Sussex plans to triple use of property sales as ERP budget blows past original estimates",
+            "href": "https://www.theregister.com/software/2026/02/06/uk-council-dips-into-capital-assets-to-fund-oracle-project/4542968"
+        },
+        {
+            "text": "53",
+            "href": "https://forums.theregister.com/forum/all/2026/02/06/west_sussex_oracle/"
+        },
+        {
+            "text": "Most SAP migrations bust budgets and project timelines, research finds\n\nAs 2027 ECC support cliff looms, half choose not to re-engineer processes in critical ERP upgrade",
+            "href": "https://www.theregister.com/software/2026/02/05/most-sap-migrations-bust-budgets-and-deadlines-study-finds/4536059"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2026/02/05/sap_migrations_research/"
+        },
+        {
+            "text": "Snowflake plugs PostgreSQL into its AI Data Cloud\n\nYes, it already had Unistore",
+            "href": "https://www.theregister.com/software/2026/02/03/snowflake-plugs-postgresql-into-its-ai-data-cloud/4467099"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/02/03/snowflake_postgresql_ai_data/"
+        },
+        {
+            "text": "Oracle's first general on-prem release of its .ai database iteration draws skeptics\n\nUsers happy with 19c as experts question AI lock-in",
+            "href": "https://www.theregister.com/software/2026/02/02/oracles-database-26ai-goes-on-prem-but-draws-skeptics/4212912"
+        },
+        {
+            "text": "2",
+            "href": "https://forums.theregister.com/forum/all/2026/02/02/oracles_on_prem_ai_database/"
+        },
+        {
+            "text": "SAP refuses to budge on renewal discounts despite cloud growth slowdown\n\nDrop in customers' cloud conversion rate causes share price to plunge 22% – steepest decline since 2020",
+            "href": "https://www.theregister.com/software/2026/02/02/sap-share-price-slides-but-renewal-discounts-stay-off-table/4637108"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2026/02/02/sap_renewal_discounts/"
+        },
+        {
+            "text": "Oracle seeks to build bridges with MySQL developers\n\nBig Red promises 'new era' as long-frustrated contributors weigh whether to believe it",
+            "href": "https://www.theregister.com/software/2026/01/30/oracle-seeks-to-build-bridges-with-mysql-developers/4395252"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2026/01/30/oracle_mysql/"
+        },
+        {
+            "text": "In-house techies fixed faults before outsourced help even noticed they'd happened\n\n60-minute SLA was effectively useless and the contractor admitted it",
+            "href": "https://www.theregister.com/software/2026/01/30/it-team-fixed-faults-faster-than-outsourcer-could-find-them/4441488"
+        },
+        {
+            "text": "101",
+            "href": "https://forums.theregister.com/forum/all/2026/01/30/on_call/"
+        },
+        {
+            "text": "Birmingham City Council's Oracle ERP fiasco now £144M and still not working\n\nFive years after its planned go-live, the system remains incomplete as costs balloon more than sevenfold",
+            "href": "https://www.theregister.com/software/2026/01/29/birmingham-oracle-erp-fiasco-now-144m-and-still-not-working/4238750"
+        },
+        {
+            "text": "86",
+            "href": "https://forums.theregister.com/forum/all/2026/01/29/birmingham_oracle_latest/"
+        },
+        {
+            "text": "Microsoft shifting to cloud management software brings possibility of it peeking into your estate\n\nDeprecation of popular management tool requires a new look at Azure-based system",
+            "href": "https://www.theregister.com/software/2026/01/23/microsofts-shift-to-cloud-management-sw-brings-concerns/4830588"
+        },
+        {
+            "text": "20",
+            "href": "https://forums.theregister.com/forum/all/2026/01/23/microsoft_shifting_to_cloud_management/"
+        },
+        {
+            "text": "As Oracle loses interest in MySQL, devs mull future options\n\nAs Big Red's governance of the popular database comes into question, contributors to MySQL consider wresting control",
+            "href": "https://www.theregister.com/software/2026/01/23/devs-assessing-options-for-mysqls-future-beyond-oracle/4346294"
+        },
+        {
+            "text": "67",
+            "href": "https://forums.theregister.com/forum/all/2026/01/23/mysql_post_oracle/"
+        },
+        {
+            "text": "SAP scores £275M award from UK tax collector – sans competition\n\nSystem handling £800B must be SaaS and sovereign. Only German vendor fits the bill, says HMRC",
+            "href": "https://www.theregister.com/software/2026/01/22/sap-scores-275m-award-from-hmrc-without-competition/4254772"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2026/01/22/sap_275_million_award_from/"
+        },
+        {
+            "text": "ERP isn't dead yet – but most execs are planning the wake\n\n7 out of 10 C-suite cats reckon software category's best days are behind it, but can't agree what's next",
+            "href": "https://www.theregister.com/software/2026/01/19/erp-isnt-dead-yet-but-most-execs-are-planning-the-wake/4834027"
+        },
+        {
+            "text": "37",
+            "href": "https://forums.theregister.com/forum/all/2026/01/19/erp_survey_rimini_street/"
+        },
+        {
+            "text": "Birmingham pauses Oracle relaunch to get staff on board\n\nEurope's largest council delays Fusion reimplementation four years after go-live disaster",
+            "href": "https://www.theregister.com/software/2026/01/13/birmingham-pauses-oracle-relaunch-to-get-staff-on-board/4280259"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2026/01/13/birmingham_oracle_delay/"
+        },
+        {
+            "text": "Bank of England's Oracle cloud migration bill triples as project grinds on\n\nInitial £7M estimate proves optimistic after multiple contract uplifts",
+            "href": "https://www.theregister.com/software/2026/01/09/bank-of-england-oracle-cloud-migration-project-bill-triples/4798497"
+        },
+        {
+            "text": "51",
+            "href": "https://forums.theregister.com/forum/all/2026/01/09/bank_of_england_oracle/"
+        },
+        {
+            "text": "No membrane in sight as Osmos diffuses into Microsoft Fabric\n\nAI data engineering startup acquisition brings ETL and Spark automation in-house",
+            "href": "https://www.theregister.com/software/2026/01/06/microsoft-acquires-osmos-for-ai-powered-data-engineering/2654499"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2026/01/06/microsoft_acquires_osmos/"
+        },
+        {
+            "text": "Airbus exec: Most CIOs in Europe will not finish SAP ECC6 migration by 2030\n\nAerospace giant faces 'massive work' to move legacy ERP systems to S/4HANA as support deadline looms",
+            "href": "https://www.theregister.com/software/2025/12/11/airbus-exec-most-of-us-will-not-hit-sap-migration-by-2030/2572834"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2025/12/11/airbus_exec_sap/"
+        },
+        {
+            "text": "Oracle raises AI spending estimate, spooks investors\n\nBut if you assume cloud IOUs will be fulfilled, business is booming",
+            "href": "https://www.theregister.com/software/2025/12/11/oracle-raises-ai-spending-estimate-spooks-investors/2227580"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2025/12/11/oracle_q2_fy_2026/"
+        },
+        {
+            "text": "SAP users in the dark about vendor's plan for data analytics\n\nFebruary product launch fails to register, with concerns remaining about integration",
+            "href": "https://www.theregister.com/software/2025/12/09/sap-users-baffled-by-business-data-cloud/2753233"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2025/12/09/dsag_sap_business_data_cloud/"
+        },
+        {
+            "text": "IBM straps AI to Db2 console in bid to modernize the old warhorse\n\nIntelligence Center features aim to unify management across on-prem, cloud, and containerized estates",
+            "href": "https://www.theregister.com/software/2025/12/08/ibm-promises-improved-control-of-db2-in-hybrid-environments/2447842"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2025/12/08/ibm_db2_intelligence_center/"
+        },
+        {
+            "text": "UK SAP users say they're baffled by Business Suite reboot licensing maze\n\nPricing complexity makes justifying migrations an uphill battle",
+            "href": "https://www.theregister.com/software/2025/12/04/uk-sap-users-baffled-by-business-suite-reboot-licensing-maze/1983164"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2025/12/04/uk_sap_business_suite/"
+        },
+        {
+            "text": "MongoDB talks up its AI chops by talking down PostgreSQL\n\nCEO touts win from 'super-high growth' customer that couldn't scale on rival system",
+            "href": "https://www.theregister.com/software/2025/12/02/mongodb-talks-up-its-ai-chops-by-talking-down-postgresql/2905884"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2025/12/02/mongodb_postgresql_scalability/"
+        },
+        {
+            "text": "Dorset Council ditching customized SAP for £14M Oracle overhaul\n\nAuthority follows Birmingham and West Sussex, which both suffered disastrous transitions",
+            "href": "https://www.theregister.com/software/2025/12/01/dorset-council-set-to-move-from-sap-to-oracle-in-142m-leap/2337367"
+        },
+        {
+            "text": "62",
+            "href": "https://forums.theregister.com/forum/all/2025/12/01/dorset_council_oracle/"
+        },
+        {
+            "text": "Employee trust in SAP board dips amid ongoing restructure\n\nGerman mega vendor responds to latest in-house survey",
+            "href": "https://www.theregister.com/software/2025/11/25/employee-trust-in-sap-board-dips-amid-ongoing-restructure/2630176"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2025/11/25/employee_trust_sap/"
+        },
+        {
+            "text": "Manchester hits snooze again on joining Palantir-run NHS data platform\n\nCare board still waiting for evidence that it will be in the best interests of the population",
+            "href": "https://www.theregister.com/software/2025/11/20/manchester-defers-joining-palantir-nhs-data-platform-again/1903254"
+        },
+        {
+            "text": "38",
+            "href": "https://forums.theregister.com/forum/all/2025/11/20/manchester_nhs_fdp_deferred/"
+        },
+        {
+            "text": "Microsoft spins up Azure HorizonDB to take on distributed Postgres rivals\n\nOpen source RDMS popularity offers devs 'something other than Oracle' as database standard, analyst says",
+            "href": "https://www.theregister.com/software/2025/11/19/microsoft-launches-distributed-postgresql-to-rival-aws/2227008"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2025/11/19/microsoft_azure_horizondb/"
+        },
+        {
+            "text": "SAP's migration narrative suddenly looks messy as Kingfisher goes off-script\n\nB&Q owner resists the S/4HANA push, betting it can innovate around legacy ERP, but questions remain",
+            "href": "https://www.theregister.com/software/2025/11/19/kingfisher-picks-third-party-support-as-sap-deadlines-loom/1978271"
+        },
+        {
+            "text": "10",
+            "href": "https://forums.theregister.com/forum/all/2025/11/19/kingfisher_sap/"
+        },
+        {
+            "text": "Cloudflare broke itself – and a big chunk of the Internet – with a bad database query\n\nThought it was the victim of a ‘hyper-scale DDoS attack’ before finding the fix",
+            "href": "https://www.theregister.com/software/2025/11/19/cloudflare-broke-the-internet-with-a-bad-db-query/2094987"
+        },
+        {
+            "text": "83",
+            "href": "https://forums.theregister.com/forum/all/2025/11/19/cloudflare_incident_report/"
+        },
+        {
+            "text": "Palantir plots NHS skills drive for its controversial data platform\n\nPartnership with UK-based 'AI upskilling platform' aims to boost software's usage",
+            "href": "https://www.theregister.com/software/2025/11/17/palantir-to-launch-training-drive-for-nhs-data-platform/1993550"
+        },
+        {
+            "text": "18",
+            "href": "https://forums.theregister.com/forum/all/2025/11/17/palantir_nhs_training_drive/"
+        },
+        {
+            "text": "ERP carnage continues as orgs jump in unprepared\n\nLack of executive backing, unrealistic plans, and muddled goals remain recipe for failure",
+            "href": "https://www.theregister.com/software/2025/11/13/why-erp-projects-so-often-end-in-disaster/2367676"
+        },
+        {
+            "text": "28",
+            "href": "https://forums.theregister.com/forum/all/2025/11/13/erp_disaster_gartner/"
+        },
+        {
+            "text": "Retail giant Kingfisher rejects SAP ERP upgrade plan\n\n'Don't just give me a price list or licensing module that spikes cost by 20x, show me the value,' says CTO",
+            "href": "https://www.theregister.com/software/2025/11/12/retail-giant-kingfisher-rejects-sap-erp-upgrade-plan/2062201"
+        },
+        {
+            "text": "54",
+            "href": "https://forums.theregister.com/forum/all/2025/11/12/retail_giant_kingfisher_says_no/"
+        },
+        {
+            "text": "Two-fifths of SAP Americas users yet to ditch legacy ERP\n\nS/4HANA migration? Many still worried about business process change",
+            "href": "https://www.theregister.com/software/2025/11/05/two-fifths-of-sap-americas-users-yet-to-ditch-legacy-erp/1175012"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2025/11/05/two_years_out_from_support/"
+        },
+        {
+            "text": "Snowflake goes all out to woo PostgreSQL developers with lakehouse extensions\n\nBuyers still struggling to differentiate data platforms in era of AI",
+            "href": "https://www.theregister.com/software/2025/11/05/snowflake-woos-postgresql-devs-with-lakehouse-extensions/533484"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2025/11/05/snowflake_postgresql_push/"
+        },
+        {
+            "text": "‘ERP down for emergency maintenance’ was code for ‘You deleted what?’\n\nOne SQL slip-up is survivable. Not learning from the first mess meant change",
+            "href": "https://www.theregister.com/software/2025/11/03/erp-emergency-maintenance-was-code-for-you-deleted-what/994184"
+        },
+        {
+            "text": "78",
+            "href": "https://forums.theregister.com/forum/all/2025/11/03/who_me/"
+        },
+        {
+            "text": "The clock's ticking for MySQL 8.0 as end of life looms\n\nPercona says more than half of installs remain on version set to lose support in 2026",
+            "href": "https://www.theregister.com/software/2025/10/31/the-clocks-ticking-for-mysql-80-as-end-of-life-looms/920161"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2025/10/31/mysql_8_support_end/"
+        },
+        {
+            "text": "SAP says some customers are dragging their feet on contract sign-offs\n\nShare price dips as cloud sales outlook disappoints amid slow US public sector bookings",
+            "href": "https://www.theregister.com/software/2025/10/23/sap-says-some-customers-dragging-feet-on-contract-sign-offs/1030966"
+        },
+        {
+            "text": "5",
+            "href": "https://forums.theregister.com/forum/all/2025/10/23/sap_q3/"
+        },
+        {
+            "text": "Carnegie Mellon team claims vector-based system can turbocharge PostgreSQL\n\nResearchers say 'Proto-X' fine-tunes databases automatically, delivering multifold performance boosts",
+            "href": "https://www.theregister.com/software/2025/10/22/researchers-tout-vector-based-automated-tuning-in-postgresql/802683"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/10/22/cmu_proto_x_postgres/"
+        },
+        {
+            "text": "SAP users still wrestling with business case for S/4HANA\n\nA decade later, ERP giant struggles to convince legacy customers to upgrade",
+            "href": "https://www.theregister.com/software/2025/10/17/sap-users-still-wrestling-with-business-case-for-s/4hana/408268"
+        },
+        {
+            "text": "23",
+            "href": "https://forums.theregister.com/forum/all/2025/10/17/sap_s4hana_business_case/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/databases?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 12474,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nDatabase news | The Register\nSOFTWARE > DATABASES\nLatest news on database software and vendors\nPostgreSQL backup tool gets some backup of its own after sole maintainer sounds alarm\n\nAWS, Percona, Supabase, pgEdge, and Tiger Data rally round pgBackRest with funding pledge\n\n20 hours|0\nLondon's police asked Big Tech for comms data over 700,000 times last year\n\nA Freedom of Information Act request shows the extent of the surveillance\n\n20 hours|9\nGoogle tells database devs to lean hard on AI for PostgreSQL work\n\nCloud giant says humans remain accountable, even when code gets an assist from the machines\n\n3 days|7\ndBase debased: Database titan fades to black after 47 years\n\nBlog post mourning decline appears to have helped knock what was left of the veteran app's online presence offline\n\n1 week|44\nNHS England confirms: Palantir staff can access patient data\n\nTech firm's employees can get an 'admin' role letting them into the National Data Integration Tenant... and its identifiable information\n\n1 week|49\nSAP dives deeper into Iceberg with Dremio acquisition\n\nERP giant previously leaned on Databricks for integration\n\n2 weeks|0\nAI clause in new SAP API policy has partners worried over lock-in\n\nExpert says it could push customers and partners to work with undocumented APIs\n\n3 weeks|2\nDatabase world trying to build natural language query systems again – this time with LLMs\n\nText-to-SQL might be useful for analysts and DBAs, but be cautious with general user adoption\n\n4 weeks|18\nThe spaghettified DBMS chart that shows Oracle's crown is slowly slipping\n\nChange is glacial, but the direction is clear\n\n4 weeks|59\nDuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses\n\nBatching teensy changes in chunks creates massive performance boost, DuckDB Labs team claims\n\n1 month|5\nWARNING: Oracle's AI obsession could mean higher prices and worse support\n\nAdvisers say fewer staff could mean slower answers and tougher renewals\n\n1 month|17\nBritain's biggest nuclear site skips competition, hands SAP £33M to start ERP switch\n\nSellafield says sticking with German giant is only way off legacy ECC before support runs dry\n\n1 month|10\nDXC lands Metropolitan Police outsourcing deal that could climb to £1B\n\nSupplier will support the current Oracle E-Business Suite and lead migration to a new Oracle Fusion SaaS platform\n\n1 month|18\nEDB Postgres AI for WarehousePG: Reclaiming control of the enterprise data warehouse\n\nProprietary warehouses delivered scale — but at the cost of control, predictable pricing, and real flexibility. Enterprises are doing the math.\n\n2 months\nSAP looking to pull more external data into its AI platform with Reltio acquisition\n\nMerger positioned to boost appeal of ERP giant's Business Data Cloud\n\n2 months|3\nMicrosoft Fabric Database Hub only a 'partial' solution for admins\n\nCould help break silos, but users should take wait-and-see approach to system limited to Microsoft DBs and DBaaS\n\n2 months|1\nSAP already shifting focus from ERP migration disaster in pursuit of AI-driven growth\n\nNew commercial models planned after cloud transition falls €2B behind target\n\n2 months|22\nPalantir trial plugs into UK financial watchdog's data trove\n\nUS analytics firm handed access to sensitive intel, raising yet more questions about vendor lock-in\n\n2 months|20\nSAP's grand cloud escape plan €2B short of the runway\n\nStrategy launched after 2020 share price crash is 24% behind target\n\n2 months|13\nMicrosoft promises all-in-one database wrangling hub on Fabric\n\nPostgreSQL, MySQL, SQL Server all handled via Database Hub, vendor says\n\n2 months|4\nWest Sussex's Oracle rollout pushed back again as costs balloon 15 times\n\nAlready five years late, project delayed another six months after price tag swells from £2.6M to £41M\n\n2 months|47\nCampaigners claim NHS Palantir system could be accessed by police and immigration\n\nUS spy-tech biz and platform provider retorts that this would be against the current law and a breach of its contract\n\n2 months|18\nOracle moves to assure MySQL community it really does care\n\nBig Red waves new features including vector support, while skeptics await concrete timescales\n\n2 months|12\nMariaDB backs down on Galera removal after community outcry\n\nBut questions remain over long-term commitment to clustering tech in open source\n\n2 months|9\nUK government's Shared Services Strategy is entering the danger zone\n\nGargantuan ERP and HR overhaul has committed around £1.7B and affects nearly half a million public workers\n\n2 months|9\nUK Treasury not sure about ditching Oracle to join £1.7 billion shared services program it is funding\n\nIt promised £1.15B… but finance ministry yet to show 'formal commitment' to adopt Workday SaaS, watchdog says\n\n2 months|14\nCapita's £370M Whitehall outsourcing deal challenged as 'abnormally low'\n\nRival bidder Sopra Steria launched legal claim over DWP procurement\n\n3 months|28\nSAP writes $480M check to finally end IP legal spat with Teradata\n\nA joint venture from 2008 led to years of claims and counter-claims between the data whizzkids\n\n3 months|1\nOpen source devs consider making hogs pay for every download\n\nCareless big-time users are treating FOSS repos like content delivery networks\n\n3 months|97\nMondelēz picks Celonis as process backbone for SAP overhaul\n\nSnack giant opts for vendor-neutral process mining as it shifts from ECC to S/4HANA\n\n3 months|1\nQuebec vehicles agency spent C$245M over budget on SAP ERP it wasn't sure it needed\n\nProbe says SAAQ misled government and botched rollout caused province-wide disruption\n\n3 months|19\nDear Oracle, we need to talk about the future of MySQL\n\nFaithful pen open letter proposing independent foundation with or without Big Red's participation\n\n3 months|12\nOracle vows 'new era' for MySQL as users sharpen their forks\n\nCommit drought and governance gripes push Big Red to reset\n\n3 months|30\nUK council digs deeper into capital assets to keep Oracle project afloat\n\nWest Sussex plans to triple use of property sales as ERP budget blows past original estimates\n\n3 months|53\nMost SAP migrations bust budgets and project timelines, research finds\n\nAs 2027 ECC support cliff looms, half choose not to re-engineer processes in critical ERP upgrade\n\n3 months|8\nSnowflake plugs PostgreSQL into its AI Data Cloud\n\nYes, it already had Unistore\n\n3 months|2\nOracle's first general on-prem release of its .ai database iteration draws skeptics\n\nUsers happy with 19c as experts question AI lock-in\n\n4 months|2\nSAP refuses to budge on renewal discounts despite cloud growth slowdown\n\nDrop in customers' cloud conversion rate causes share price to plunge 22% – steepest decline since 2020\n\n4 months|4\nOracle seeks to build bridges with MySQL developers\n\nBig Red promises 'new era' as long-frustrated contributors weigh whether to believe it\n\n4 months|17\nIn-house techies fixed faults before outsourced help even noticed they'd happened\n\n60-minute SLA was effectively useless and the contractor admitted it\n\n4 months|101\nBirmingham City Council's Oracle ERP fiasco now £144M and still not working\n\nFive years after its planned go-live, the system remains incomplete as costs balloon more than sevenfold\n\n4 months|86\nMicrosoft shifting to cloud management software brings possibility of it peeking into your estate\n\nDeprecation of popular management tool requires a new look at Azure-based system\n\n4 months|20\nAs Oracle loses interest in MySQL, devs mull future options\n\nAs Big Red's governance of the popular database comes into question, contributors to MySQL consider wresting control\n\n4 months|67\nSAP scores £275M award from UK tax collector – sans competition\n\nSystem handling £800B must be SaaS and sovereign. Only German vendor fits the bill, says HMRC\n\n4 months|11\nERP isn't dead yet – but most execs are planning the wake\n\n7 out of 10 C-suite cats reckon software category's best days are behind it, but can't agree what's next\n\n4 months|37\nBirmingham pauses Oracle relaunch to get staff on board\n\nEurope's largest council delays Fusion reimplementation four years after go-live disaster\n\n4 months|31\nBank of England's Oracle cloud migration bill triples as project grinds on\n\nInitial £7M estimate proves optimistic after multiple contract uplifts\n\n4 months|51\nNo membrane in sight as Osmos diffuses into Microsoft Fabric\n\nAI data engineering startup acquisition brings ETL and Spark automation in-house\n\n4 months|0\nAirbus exec: Most CIOs in Europe will not finish SAP ECC6 migration by 2030\n\nAerospace giant faces 'massive work' to move legacy ERP systems to S/4HANA as support deadline looms\n\n5 months|17\nOracle raises AI spending estimate, spooks investors\n\nBut if you assume cloud IOUs will be fulfilled, business is booming\n\n5 months|15\nSAP users in the dark about vendor's plan for data analytics\n\nFebruary product launch fails to register, with concerns remaining about integration\n\n5 months|0\nIBM straps AI to Db2 console in bid to modernize the old warhorse\n\nIntelligence Center features aim to unify management across on-prem, cloud, and containerized estates\n\n5 months|5\nUK SAP users say they're baffled by Business Suite reboot licensing maze\n\nPricing complexity makes justifying migrations an uphill battle\n\n6 months|8\nMongoDB talks up its AI chops by talking down PostgreSQL\n\nCEO touts win from 'super-high growth' customer that couldn't scale on rival system\n\n6 months|13\nDorset Council ditching customized SAP for £14M Oracle overhaul\n\nAuthority follows Birmingham and West Sussex, which both suffered disastrous transitions\n\n6 months|62\nEmployee trust in SAP board dips amid ongoing restructure\n\nGerman mega vendor responds to latest in-house survey\n\n6 months|5\nManchester hits snooze again on joining Palantir-run NHS data platform\n\nCare board still waiting for evidence that it will be in the best interests of the population\n\n6 months|38\nMicrosoft spins up Azure HorizonDB to take on distributed Postgres rivals\n\nOpen source RDMS popularity offers devs 'something other than Oracle' as database standard, analyst says\n\n6 months|8\nSAP's migration narrative suddenly looks messy as Kingfisher goes off-script\n\nB&Q owner resists the S/4HANA push, betting it can innovate around legacy ERP, but questions remain\n\n6 months|10\nCloudflare broke itself – and a big chunk of the Internet – with a bad database query\n\nThought it was the victim of a ‘hyper-scale DDoS attack’ before finding the fix\n\n6 months|83\nPalantir plots NHS skills drive for its controversial data platform\n\nPartnership with UK-based 'AI upskilling platform' aims to boost software's usage\n\n6 months|18\nERP carnage continues as orgs jump in unprepared\n\nLack of executive backing, unrealistic plans, and muddled goals remain recipe for failure\n\n6 months|28\nRetail giant Kingfisher rejects SAP ERP upgrade plan\n\n'Don't just give me a price list or licensing module that spikes cost by 20x, show me the value,' says CTO\n\n6 months|54\nTwo-fifths of SAP Americas users yet to ditch legacy ERP\n\nS/4HANA migration? Many still worried about business process change\n\n6 months|7\nSnowflake goes all out to woo PostgreSQL developers with lakehouse extensions\n\nBuyers still struggling to differentiate data platforms in era of AI\n\n6 months|0\n‘ERP down for emergency maintenance’ was code for ‘You deleted what?’\n\nOne SQL slip-up is survivable. Not learning from the first mess meant change\n\n7 months|78\nThe clock's ticking for MySQL 8.0 as end of life looms\n\nPercona says more than half of installs remain on version set to lose support in 2026\n\n7 months|11\nSAP says some customers are dragging their feet on contract sign-offs\n\nShare price dips as cloud sales outlook disappoints amid slow US public sector bookings\n\n7 months|5\nCarnegie Mellon team claims vector-based system can turbocharge PostgreSQL\n\nResearchers say 'Proto-X' fine-tunes databases automatically, delivering multifold performance boosts\n\n7 months|6\nSAP users still wrestling with business case for S/4HANA\n\nA decade later, ERP giant struggles to convince legacy customers to upgrade\n\n7 months|23\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

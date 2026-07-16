@@ -1,0 +1,304 @@
+{
+    "image_count": 12,
+    "images": [
+        "https://securitybrief.com.au/brands/sb-new-logo.svg",
+        "https://securitybrief.com.au/brands/td-new-logo-right.svg",
+        "https://securitybrief.com.au/uploads/story/2026/05/14/Semperis.webp",
+        "https://securitybrief.com.au/uploads/pages/team/MARK_TARRE_TECHDAY_PORTRAIT.webp",
+        "https://securitybrief.com.au/brands/td-left-new-logo.svg",
+        "https://securitybrief.com.au/brands/cfo-white-logo.svg",
+        "https://securitybrief.com.au/brands/cl-white-logo.svg",
+        "https://securitybrief.com.au/brands/ecn-white-logo.svg",
+        "https://securitybrief.com.au/brands/f5-white-logo.svg",
+        "https://securitybrief.com.au/brands/itb-white-logo.svg",
+        "https://securitybrief.com.au/brands/sb-white-logo.svg",
+        "https://securitybrief.com.au/brands/tn-white-logo.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 70,
+    "links": [
+        {
+            "text": "AUSTRALIA",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "POWERED BY",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "Cloud Security",
+            "href": "https://securitybrief.com.au/tag/cloud-security"
+        },
+        {
+            "text": "Cybersecurity",
+            "href": "https://securitybrief.com.au/tag/cybersecurity"
+        },
+        {
+            "text": "Endpoint Protection",
+            "href": "https://securitybrief.com.au/tag/endpoint-protection"
+        },
+        {
+            "text": "Firewalls",
+            "href": "https://securitybrief.com.au/tag/firewalls"
+        },
+        {
+            "text": "Ransomware",
+            "href": "https://securitybrief.com.au/tag/ransomware"
+        },
+        {
+            "text": "DATA PROTECTION",
+            "href": "https://securitybrief.com.au/tag/data-protection"
+        },
+        {
+            "text": "DR",
+            "href": "https://securitybrief.com.au/tag/disaster-recovery"
+        },
+        {
+            "text": "DIGITAL TRANSFORMATION",
+            "href": "https://securitybrief.com.au/tag/digital-transformation"
+        },
+        {
+            "text": "MARK TARRE\nNews Chief",
+            "href": "https://securitybrief.com.au/author/mark-tarre"
+        },
+        {
+            "text": "FOLLOW",
+            "href": "https://www.linkedin.com/company/techday-australia"
+        },
+        {
+            "text": "FOLLOW",
+            "href": "https://x.com/techday_au"
+        },
+        {
+            "text": "SHARE",
+            "href": "https://www.linkedin.com/feed/?shareActive=true&text=Most%20Australian%20organisations%20are%20using%20or%20planning%20AI%20agents%20for%20security%20tasks%20before%20formal%20controls%20are%20in%20place%2C%20Semperis%20found.%20https%3A%2F%2Fsecuritybrief.com.au%2Fstory%2Faustralia-ai-identity-governance-lags-as-risks-rise"
+        },
+        {
+            "text": "SHARE",
+            "href": "https://x.com/intent/post?text=Most%20Australian%20organisations%20are%20using%20or%20planning%20AI%20agents%20for%20security%20tasks%20before%20formal%20controls%20are%20in%20place%2C%20Semperis%20found.%20%40techday_au&url=https%3A%2F%2Fsecuritybrief.com.au%2Fstory%2Faustralia-ai-identity-governance-lags-as-risks-rise"
+        },
+        {
+            "text": "PREFERRED SOURCE",
+            "href": "https://google.com/preferences/source?q=https://securitybrief.com.au"
+        },
+        {
+            "text": "ANZ firms shift to cyber resilience as AI risk grows",
+            "href": "https://securitybrief.com.au/story/anz-firms-shift-to-cyber-resilience-as-ai-risk-grows"
+        },
+        {
+            "text": "AI bots overwhelm identity controls in Australia & NZ",
+            "href": "https://securitybrief.com.au/story/ai-bots-overwhelm-identity-controls-in-australia-nz"
+        },
+        {
+            "text": "Meta AI agent exposes sensitive data in internal leak",
+            "href": "https://securitybrief.com.au/story/meta-ai-agent-exposes-sensitive-data-in-internal-leak"
+        },
+        {
+            "text": "Rubrik deepens identity security & AI governance push",
+            "href": "https://securitybrief.com.au/story/rubrik-deepens-identity-security-ai-governance-push"
+        },
+        {
+            "text": "APAC firms struggle as AI identities swell, survey finds",
+            "href": "https://securitybrief.com.au/story/apac-firms-struggle-as-ai-identities-swell-survey-finds"
+        },
+        {
+            "text": "Apple blocks USD $2.2 billion in fraudulent App Store fraud",
+            "href": "https://securitybrief.com.au/story/apple-blocks-usd-2-2-billion-in-fraudulent-app-store-fraud"
+        },
+        {
+            "text": "AI accountability gap widens as organisations scale faster than governance",
+            "href": "https://securitybrief.com.au/story/ai-accountability-gap-widens-as-organisations-scale-faster-than-governance"
+        },
+        {
+            "text": "Kong partners with Unfold to widen ANZ channel reach",
+            "href": "https://securitybrief.com.au/story/kong-partners-with-unfold-to-widen-anz-channel-reach"
+        },
+        {
+            "text": "Group-IB named Gartner vendor in incident response guide",
+            "href": "https://securitybrief.com.au/story/group-ib-named-gartner-vendor-in-incident-response-guide"
+        },
+        {
+            "text": "A long time ago in a galaxy far, far away…Cybersecurity was already hard",
+            "href": "https://securitybrief.com.au/story/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard"
+        },
+        {
+            "text": "",
+            "href": "https://techday.com.au/"
+        },
+        {
+            "text": "GET THE LATEST FROM\nSecurityBrief Australia\nSUBSCRIBE",
+            "href": "https://securitybrief.com.au/subscribe"
+        },
+        {
+            "text": "FOLLOW US ON\nLinkedIn",
+            "href": "https://www.linkedin.com/company/techday-australia"
+        },
+        {
+            "text": "FOLLOW US ON\nX",
+            "href": "https://x.com/techday_au"
+        },
+        {
+            "text": "",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://cfotech.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://cfotech.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://channellife.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://channellife.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://ecommercenews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://ecommercenews.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://futurefive.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://futurefive.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://itbrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://itbrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://securitybrief.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Visit",
+            "href": "https://telconews.com.au/"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://telconews.com.au/media-kit"
+        },
+        {
+            "text": "Asia",
+            "href": "https://techday.asia/"
+        },
+        {
+            "text": "Canada",
+            "href": "https://techdayca.com/"
+        },
+        {
+            "text": "India",
+            "href": "https://techday.in/"
+        },
+        {
+            "text": "Ireland",
+            "href": "https://techday.ie/"
+        },
+        {
+            "text": "New Zealand",
+            "href": "https://techday.co.nz/"
+        },
+        {
+            "text": "United Kingdom",
+            "href": "https://techday.co.uk/"
+        },
+        {
+            "text": "United States",
+            "href": "https://techday.com/"
+        },
+        {
+            "text": "Brand guidelines",
+            "href": "https://securitybrief.com.au/brand-guidelines"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://securitybrief.com.au/contact-us"
+        },
+        {
+            "text": "Editorial Calendar",
+            "href": "https://securitybrief.com.au/editorial-calendar"
+        },
+        {
+            "text": "Editorial standards",
+            "href": "https://securitybrief.com.au/editorial-standards"
+        },
+        {
+            "text": "FAQs",
+            "href": "https://securitybrief.com.au/tag/frequently-asked-questions"
+        },
+        {
+            "text": "Media kit",
+            "href": "https://securitybrief.com.au/media-kit"
+        },
+        {
+            "text": "Our team",
+            "href": "https://securitybrief.com.au/our-team"
+        },
+        {
+            "text": "Our terms",
+            "href": "https://securitybrief.com.au/our-terms"
+        },
+        {
+            "text": "YOUTUBE",
+            "href": "https://www.youtube.com/@techdaynetwork"
+        },
+        {
+            "text": "RSS",
+            "href": "https://securitybrief.com.au/feed"
+        },
+        {
+            "text": "Plan B's Cloud Services",
+            "href": "https://www.planb.co.nz/tech-services/cloud-services/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        },
+        {
+            "text": "PowerDMARC",
+            "href": "https://powerdmarc.com/?utm_content=techday&utm_source=techday&utm_medium=techday&utm_campaign=techday"
+        }
+    ],
+    "text_length": 7219,
+    "text_full": "SecurityBrief Australia - Technology news for CISOs & cybersecurity decision-makers\nAUSTRALIA\nPOWERED BY\nGUIDES\nCloud Security\nCybersecurity\nEndpoint Protection\nFirewalls\nRansomware\nDATA PROTECTION\nDR\nDIGITAL TRANSFORMATION\nAustralia AI identity governance lags as risks rise\nThu, 14th May 2026\nMARK TARRE\nNews Chief\n\nSemperis has published research on how AI is affecting the security of identity systems in Australian organisations, finding that most respondents already use or plan to use AI agents for sensitive security tasks.\n\nThe survey covered 1,100 organisations globally across multiple industries and examined identity platforms including Active Directory, EntraID and Okta. In Australia, the results point to growing use of AI agents in core security processes before formal controls are fully in place.\n\nIt found that 95% of Australian organisations either already use or plan to use AI agents for tasks such as password resets and VPN access. Nearly a quarter, 24%, already use AI agents to handle security-related help desk tickets, while another 69% intend to do so within the next year.\n\nAt the same time, 80% of Australian organisations surveyed believe AI will increase attacks on identity infrastructure. Another 92% said AI is installed on at least some local machines with access to SSH and encryption keys.\n\nThe results also point to concerns about incident response. Only 21% of Australian respondents said they were very confident they could regain control if AI exposed admin credentials, compared with 32% globally, while 10% said they were not confident they could do so.\n\nGovernance gap\n\nAustralia trails global peers on governance of AI-related identities. Only 52% of Australian organisations said their AI identities are fully registered, authenticated and authorised in a formal system, compared with 65% globally.\n\nAmong organisations that track AI identities, 62% use the same system as for human identities. The remaining 38% authenticate and authorise AI identities through a separate system.\n\nThe issue centres on the rise of non-human identities created by software agents. As more organisations give those agents access to sensitive systems, identity infrastructure is becoming a bigger target for attackers and more complex to govern.\n\nAlex Weinert, Chief Product Officer at Semperis, commented on the broader trend identified in the survey.\n\n\"The accelerated use of AI is introducing a bevy of new agents, each with its own non-human identity (NHI) throughout global enterprises and many companies are just way too optimistic about their ability to recover their identity infrastructure following a breach, even as they expand this landscape of NHIs,\" Weinert said.\n\nGerry Sillars, Vice President of APJ at Semperis, said the Australian results stood out against the international sample.\n\n\"The data reveals that Australian organisations are lagging behind their international peers when it comes to governing AI-related identities. Locally, organisations are racing to introduce AI identities, despite lacking the visibility and controls needed to securely manage them at scale. Compared to their global counterparts, Australian organisations also express less confidence in their ability to regain control of their identity systems if AI were to expose their admin credentials. It is clear that AI is changing the identity threat landscape faster than Australian organisations can adapt,\" Sillars said.\n\nRecovery concerns\n\nThe research also drew comment from external figures cited in the report. Grace Cassy, Partner at Ten Eleven Ventures, said the pace of adoption had outstripped operational readiness in many cases.\n\n\"What is striking about the Semperis AI Study is not just how quickly AI is being integrated into identity systems but how unprepared many organisations are to recover when things go wrong. Introducing AI at the identity layer offers operational advantages, but it must be accompanied by guardrails, observability, and recovery readiness. It is a new dimension of an old question, really: Are you resilient enough to respond in the event of critical disruption,\" Cassy said.\n\nChris Inglis, the first U.S. National Cyber Director and a strategic advisor to Semperis, focused on the difference between planning for cyber incidents and restoring identity systems after a breach.\n\n\"The pattern of global organisations overestimating how quickly they can recover from a cyberattack is real, especially when identity is within the blast radius. On paper, organisations have plans and backups; in practice, identity failures turn technical incidents into prolonged business crises, exposing a dangerous gap between perceived resilience and reality,\" Inglis said.\n\nDespite the gaps identified in the report, 79% of respondents said AI identity governance is a priority in the coming months. Measures under consideration include treating AI agents as non-human identities, applying least-privilege access rules, separating agent and human trust boundaries where needed, monitoring anomalous agent behaviour, and ensuring identity systems can be restored to a trusted state after a breach.\n\nThe Australian findings come as AI takes a more prominent role in organisational technology strategies, with identity management emerging as an area where deployment is moving quickly while control frameworks remain uneven.\n\nFOLLOW\nFOLLOW\nSHARE\nSHARE\nPREFERRED SOURCE\nImage: Gerry Sillars from Semperis\nRelated stories\nANZ firms shift to cyber resilience as AI risk grows\nAI bots overwhelm identity controls in Australia & NZ\nMeta AI agent exposes sensitive data in internal leak\nRubrik deepens identity security & AI governance push\nAPAC firms struggle as AI identities swell, survey finds\nTop stories\nApple blocks USD $2.2 billion in fraudulent App Store fraud\nAI accountability gap widens as organisations scale faster than governance\nKong partners with Unfold to widen ANZ channel reach\nGroup-IB named Gartner vendor in incident response guide\nA long time ago in a galaxy far, far away…Cybersecurity was already hard\n61 specialist tech sites.\n8 regions. One network.\n678,397\nPUBLISHED STORIES\n7\nAUSTRALIAN SITES\nHuman\nPOWERED\n20th\nyear of business\nGET THE LATEST FROM\nSecurityBrief Australia\nSUBSCRIBE\nFOLLOW US ON\nLinkedIn\nFOLLOW US ON\nX\nAUSTRALIAN\nFinTech\n\nTechnology news for CFOs & financial decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nIndustry\n\nIndustry insider news for technology resellers\n\nVisit\nMedia kit\nAUSTRALIAN\nCommerce\n\nTechnology news for digital commerce decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nConsumer tech\n\nConsumer technology news from the future\n\nVisit\nMedia kit\nAUSTRALIAN\nEnterprise\n\nTechnology news for CIOs & IT decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nCybersecurity\n\nTechnology news for CISOs & cybersecurity decision-makers\n\nVisit\nMedia kit\nAUSTRALIAN\nTelecomms\n\nTelecommunications news for ICT decision-makers\n\nVisit\nMedia kit\nExplore other regions\nAsia\nCanada\nIndia\nIreland\nNew Zealand\nUnited Kingdom\nUnited States\nBrand guidelines\nContact us\nEditorial Calendar\nEditorial standards\nFAQs\nMedia kit\nOur team\nOur terms\nYOUTUBE\nRSS\n© 2026 TechDay, All rights reserved. Hosted on Plan B's Cloud Services. DMARC protection by PowerDMARC."
+}

@@ -1,0 +1,45 @@
+{
+  "start_url": "https://mahadk.com/posts/slack",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://mahadk.com/posts/slack",
+    "https://mahadk.com/",
+    "https://mahadk.com/posts",
+    "https://mahadk.com/projects",
+    "https://mahadk.com/contact",
+    "https://mahadk.com/rss.xml",
+    "https://mahadk.com/posts/4o",
+    "https://mahadk.com/posts/ai-skills-hub",
+    "https://mahadk.com/posts/m1-mba",
+    "https://mahadk.com/posts/activestorage-file-id",
+    "https://mahadk.com/posts/ai-browsers",
+    "https://mahadk.com/posts/spaces-vuln",
+    "https://mahadk.com/posts/astro-og-with-satori",
+    "https://mahadk.com/posts/satori-with-tailwind-config"
+  ],
+  "by_depth": {
+    "0": [
+      "https://mahadk.com/posts/slack"
+    ],
+    "1": [
+      "https://mahadk.com/",
+      "https://mahadk.com/posts",
+      "https://mahadk.com/projects",
+      "https://mahadk.com/contact",
+      "https://mahadk.com/rss.xml"
+    ],
+    "2": [
+      "https://mahadk.com/posts/4o",
+      "https://mahadk.com/posts/ai-skills-hub",
+      "https://mahadk.com/posts/m1-mba",
+      "https://mahadk.com/posts/activestorage-file-id",
+      "https://mahadk.com/posts/ai-browsers",
+      "https://mahadk.com/posts/spaces-vuln",
+      "https://mahadk.com/posts/astro-og-with-satori",
+      "https://mahadk.com/posts/satori-with-tailwind-config"
+    ]
+  },
+  "dead_links": []
+}

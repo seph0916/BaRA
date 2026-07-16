@@ -1,0 +1,171 @@
+{
+    "image_count": 3,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/logo.png",
+        "https://lawsofsoftwareengineering.com/images/laws/second-system-effect.jpeg",
+        "https://lawsofsoftwareengineering.com/images/tech-world-with-milan-logo-white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 39,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/#main-content"
+        },
+        {
+            "text": "Laws of Software Engineering",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "NEWSLETTER",
+            "href": "https://lawsofsoftwareengineering.com/newsletter"
+        },
+        {
+            "text": "INFO",
+            "href": "https://lawsofsoftwareengineering.com/info"
+        },
+        {
+            "text": "BOOK",
+            "href": "https://lawsofsoftwareengineering.com/book"
+        },
+        {
+            "text": "POSTER",
+            "href": "https://lawsofsoftwareengineering.com/poster"
+        },
+        {
+            "text": "← Back to Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "Laws",
+            "href": "https://lawsofsoftwareengineering.com/"
+        },
+        {
+            "text": "",
+            "href": "https://twitter.com/intent/tweet?text=Second-System+Effect%20-%20Laws%20of%20Software%20Engineering&url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fsecond-system-effect%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fsecond-system-effect%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.reddit.com/submit?url=https%3A%2F%2Flawsofsoftwareengineering.com%2Flaws%2Fsecond-system-effect%2F&title=Second-System+Effect%20-%20Laws%20of%20Software%20Engineering"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/print/laws/second-system-effect/"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/#takeaways"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/#overview"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/#examples"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/#origins"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/laws/second-system-effect/#further-reading"
+        },
+        {
+            "text": "The Mythical Man-Month\nFred Brooks' classic book on software engineering",
+            "href": "https://amzn.to/4b4GU72"
+        },
+        {
+            "text": "Second-system effect - Wikipedia\nWikipedia article on the Second-system effect",
+            "href": "https://en.wikipedia.org/wiki/Second-system_effect"
+        },
+        {
+            "text": "Things You Should Never Do, Part I\nJoel Spolsky on the Netscape rewrite disaster",
+            "href": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
+        },
+        {
+            "text": "Get the Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "DESIGN\nYAGNI (You Aren't Gonna Need It)\n\nDon't add functionality until it is necessary.",
+            "href": "https://lawsofsoftwareengineering.com/laws/yagni/"
+        },
+        {
+            "text": "ARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.",
+            "href": "https://lawsofsoftwareengineering.com/laws/galls-law/"
+        },
+        {
+            "text": "TEAMS\nBrooks's Law\n\nAdding manpower to a late software project makes it later.",
+            "href": "https://lawsofsoftwareengineering.com/laws/brooks-law/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "",
+            "href": "https://newsletter.techworld-with-milan.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/milanmilanovic/"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/milan_milanovic"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/milanm"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/index.xml"
+        },
+        {
+            "text": "",
+            "href": "https://lawsofsoftwareengineering.com/api.json"
+        },
+        {
+            "text": "Dr. Milan Milanović",
+            "href": "https://milan.milanovic.org/"
+        },
+        {
+            "text": "License",
+            "href": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://lawsofsoftwareengineering.com/privacy/"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://lawsofsoftwareengineering.com/newsletter/"
+        },
+        {
+            "text": "Info",
+            "href": "https://lawsofsoftwareengineering.com/info/"
+        },
+        {
+            "text": "Book",
+            "href": "https://lawsofsoftwareengineering.com/book/"
+        },
+        {
+            "text": "Poster",
+            "href": "https://lawsofsoftwareengineering.com/poster/"
+        }
+    ],
+    "text_length": 3978,
+    "text_full": "Skip to main content\nLaws of Software Engineering\nNEWSLETTER\nINFO\nBOOK\nPOSTER\n← Back to Laws\nLaws\nSecond-System Effect\nSecond-System Effect\nARCHITECTURE\nSENIOR\n2 min read\n\nSmall, successful systems tend to be followed by overengineered, bloated replacements.\n\nTakeaways\nThe first system is kept lean by constraints or inexperience. When designing its successor, there’s a tendency to incorporate all the extras initially left out, leading to feature bloat.\nOverconfidence plays a role. Having succeeded once, the team feels they can tackle much more, underestimating complexity.\nThe second-system effect often results in over-engineering with more modules, generality, and features than necessary, hurting performance and maintainability.\nOverview\n\nA small, elegant system is built and works well. A second version is initiated, and the designers, freed from the constraints of the first project, try to build something much bigger and more complex. They add enhancements, address all edge cases, and incorporate wishlist features. The result is often an overly complex, behind-schedule system.\n\nBrooks noted this with IBM’s OS/360: simpler earlier systems were followed by a second system that became very complex. The syndrome is an exercise in hubris. The team doesn’t realize how much harder the bigger scope will be.\n\nThe second-system effect warns engineers to be suspicious of grand redesigns that promise to include everything.\n\nThe Second-System Effect as an Overengineered House\n\nExamples\n\nA startup builds a minimal web service that’s very successful. For version 2, the team plans a complete rewrite with microservice architecture, tons of configuration options, plug-in frameworks, and features users never asked for. The project explodes in complexity and misses deadlines.\n\nNetscape Navigator in the 1990s decided to rewrite their browser after initial success, leading to the Mozilla Suite. The rewrite took many years, during which Internet Explorer caught up. The new suite was considered overly complicated, and Netscape lost its lead.\n\nOrigins\n\nFred Brooks coined the term in 1975 in The Mythical Man-Month. He observed it in practice at IBM, where successful small systems (such as simplistic tape-based OS) were followed by OSes that tried to do far more and ran late or failed.\n\nThe phrase “second-system syndrome” appears in an essay of the same name in the book.\n\nFurther Reading\nThe Mythical Man-Month\nFred Brooks' classic book on software engineering\nSecond-system effect - Wikipedia\nWikipedia article on the Second-system effect\nThings You Should Never Do, Part I\nJoel Spolsky on the Netscape rewrite disaster\nHow to cite this page\n\nWhen referencing this law in articles, papers, blog posts, or AI responses, use one of the following citations:\n\nAPA: Dr. Milan Milanović. (2026). Second-System Effect. Laws of Software Engineering. https://lawsofsoftwareengineering.com/laws/second-system-effect/\n\nPlain text: \"Second-System Effect\" — Dr. Milan Milanović, Laws of Software Engineering, https://lawsofsoftwareengineering.com/laws/second-system-effect/\n\nBibTeX: @misc{milanovic_second-system-effect_2026, author = {Dr. Milan Milanović}, title = {Second-System Effect}, year = {2026}, url = {https://lawsofsoftwareengineering.com/laws/second-system-effect/}, note = {Laws of Software Engineering} }\n\nWant to go deeper?\n\nAll 63+ laws are covered with more depth, examples, and practical guidance in the Laws of Software Engineering book.\n\nGet the Book\nLast updated: April 15, 2026\nRelated Laws\nDESIGN\nYAGNI (You Aren't Gonna Need It)\n\nDon't add functionality until it is necessary.\n\nARCHITECTURE\nGall's Law\n\nA complex system that works is invariably found to have evolved from a simple system that worked.\n\nTEAMS\nBrooks's Law\n\nAdding manpower to a late software project makes it later.\n\nA collection of principles and patterns that shape software systems, teams, and decisions.\n\n© 2026 Dr. Milan Milanović · License · Privacy\n\nNewsletter\nInfo\nBook\nPoster"
+}

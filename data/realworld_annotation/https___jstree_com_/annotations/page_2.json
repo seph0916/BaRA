@@ -1,0 +1,49 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 9,
+    "links": [
+        {
+            "text": "jsTree - jQuery tree plugin\n3.3.17",
+            "href": "https://jstree.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Demo",
+            "href": "https://www.jstree.com/demo"
+        },
+        {
+            "text": "API",
+            "href": "https://www.jstree.com/api"
+        },
+        {
+            "text": "Plugins",
+            "href": "https://www.jstree.com/plugins"
+        },
+        {
+            "text": "Root 1",
+            "href": "https://www.jstree.com/demo/#"
+        },
+        {
+            "text": "Root 2",
+            "href": "https://www.jstree.com/demo/#"
+        },
+        {
+            "text": "click here for the old site (v.1)",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/vakata/jstree"
+        }
+    ],
+    "text_length": 288,
+    "text_full": "jsTree - jQuery tree plugin\n3.3.17\n Home\n Demo\n API\n Plugins\nBasic AJAX demo\n Create  Rename  Delete\n \nRoot 1\n \nRoot 2\n\nshow the complete code\n\nYou can see the code of the following demos in the demo folder of the download\nFilebrowser demo\nDatabase demo\n\nclick here for the old site (v.1)"
+}

@@ -1,0 +1,325 @@
+{
+    "image_count": 17,
+    "images": [
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/the_register_vulture_logo.53c8756c.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass.9cbf748e.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://cdn.theregister.com/assets/images/magnifying_glass_vulture.292e7b64.svg",
+        "https://cdn.theregister.com/assets/images/burger_menu.5dd339c3.svg",
+        "https://cdn.theregister.com/assets/images/close.77a839fd.svg",
+        "https://vendorvoice.theregister.com/media/images/rubrik_vendor_voice_and_sponsored_section_ta_zWwEu9g.max-500x500.png",
+        "https://vendorvoice.theregister.com/media/images/theresilienceroadmap.2e16d0ba.fill-648x234.png",
+        "https://vendorvoice.theregister.com/media/images/immutablerecovery.2e16d0ba.fill-648x234.png",
+        "https://vendorvoice.theregister.com/media/images/fromdetectiontorecovery.2e16d0ba.fill-648x234.png",
+        "https://vendorvoice.theregister.com/media/images/secureyourinnovationengine.2e16d0ba.fill-648x234.png",
+        "https://vendorvoice.theregister.com/media/images/the-4-levels-of-cloud-cyber-resili.2e16d0ba.fill-648x234.png",
+        "https://vendorvoice.theregister.com/media/images/the-modern-adversarys-grip-on-m365.2e16d0ba.fill-648x234.png",
+        "https://cdn.theregister.com/assets/images/the_register_logo.6befe899.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_two_lines.7bfa3d3e.svg",
+        "https://cdn.theregister.com/assets/images/situation_publishing_logo_one_line.b1e3235b.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 74,
+    "links": [
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "VIDEO\n\nThe Resilience Roadmap: How to Defeat the Modern Attack Lifecycle\n\nIn an era where breaches are viewed as \"when,\" not \"if,\" true resilience isn't just about building higher walls—it's about ensuring your business can bounce back before it becomes a business-ending event.",
+            "href": "https://go.theregister.com/k/rubrik-ondemand-goldcast-io"
+        },
+        {
+            "text": "VIDEO\n\nBeyond Backup: Immutable Recovery for Okta and the Multi-IdP World\n\nAttackers are increasingly targeting identity systems as the fastest and most effective path to business disruption. As organizations work to consolidate their IAM services, most still operate in complex hybrid or multi-IdP environments—making identity infrastructure both vital and vulnerable.",
+            "href": "https://go.theregister.com/k/Beyond-Backup-Immutable-Recovery"
+        },
+        {
+            "text": "VIDEO\n\nFrom Detection to Recovery: How CrowdStrike & Rubrik Unite to Stop Identity-Driven Attacks\n\nModern attacks target identity to get to what really matters—your data. Stopping them requires more than just alerts; it demands a coordinated response across identity, data, and infrastructure.",
+            "href": "https://go.theregister.com/k/From-Detection-to-Recovery"
+        },
+        {
+            "text": "VIDEO\n\nSecure Your Innovation Engine: Why DevOps is the New Frontier for Cloud Resilience\n\nAttackers are increasingly targeting identity systems as the fastest and most effective path to business disruption. As organizations work to consolidate their IAM services, most still operate in complex hybrid or multi-IdP environments—making identity infrastructure both vital and vulnerable.",
+            "href": "https://go.theregister.com/k/Secure-Your-Innovation-Engine"
+        },
+        {
+            "text": "VIDEO\n\nThe 4 Levels of Cloud Cyber Resilience: Where Does Your Organization Stand?\n\nIn a world where a single compromised credential can unravel your entire infrastructure, relying on infrastructure durability alone is a dangerous gamble.",
+            "href": "https://go.theregister.com/k/Levels-of-Cloud-Cyber-Resilience"
+        },
+        {
+            "text": "VIDEO\n\nThe Modern Adversary's Grip on M365: From Identity Incident to Crisis\n\nIt isn't just about credential theft anymore; it's about total identity compromise. Today, attackers can undermine the trust layer of your identity system by logging in they don't have to break in they don't just break in, they log in.",
+            "href": "https://go.theregister.com/k/Modern-Adversarys-Grip-on-M365"
+        },
+        {
+            "text": "BACK TO TOP",
+            "href": "https://vendorvoice.theregister.com/rubrik/#vendor-voice"
+        },
+        {
+            "text": "The Register Home Page",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/Profile/contact/"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/Profile/about_the_register/"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/Profile/privacy/"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/Profile/terms_and_conditions_of_use/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        }
+    ],
+    "text_length": 2537,
+    "text_full": "Sign in\n\nThe Register Home Page\n\nSearch\nNavigation\n\nSponsored By\n\nCybercriminals never sleep. Neither does Rubrik Security Cloud.\n\nAt Rubrik, we help you achieve business resilience against cyberattacks, malicious insiders, and operational disruptions. We secure your data wherever it lives—across enterprise, cloud, and SaaS—making your business unstoppable.\n\nVIDEO\n\nThe Resilience Roadmap: How to Defeat the Modern Attack Lifecycle\n\nIn an era where breaches are viewed as \"when,\" not \"if,\" true resilience isn't just about building higher walls—it's about ensuring your business can bounce back before it becomes a business-ending event.\n\nVIDEO\n\nBeyond Backup: Immutable Recovery for Okta and the Multi-IdP World\n\nAttackers are increasingly targeting identity systems as the fastest and most effective path to business disruption. As organizations work to consolidate their IAM services, most still operate in complex hybrid or multi-IdP environments—making identity infrastructure both vital and vulnerable.\n\nVIDEO\n\nFrom Detection to Recovery: How CrowdStrike & Rubrik Unite to Stop Identity-Driven Attacks\n\nModern attacks target identity to get to what really matters—your data. Stopping them requires more than just alerts; it demands a coordinated response across identity, data, and infrastructure.\n\nVIDEO\n\nSecure Your Innovation Engine: Why DevOps is the New Frontier for Cloud Resilience\n\nAttackers are increasingly targeting identity systems as the fastest and most effective path to business disruption. As organizations work to consolidate their IAM services, most still operate in complex hybrid or multi-IdP environments—making identity infrastructure both vital and vulnerable.\n\nVIDEO\n\nThe 4 Levels of Cloud Cyber Resilience: Where Does Your Organization Stand?\n\nIn a world where a single compromised credential can unravel your entire infrastructure, relying on infrastructure durability alone is a dangerous gamble.\n\nVIDEO\n\nThe Modern Adversary's Grip on M365: From Identity Incident to Crisis\n\nIt isn't just about credential theft anymore; it's about total identity compromise. Today, attackers can undermine the trust layer of your identity system by logging in they don't have to break in they don't just break in, they log in.\n\nBACK TO TOP\nThe Register Home Page\n\nBiting the hand that feeds IT\n\nABOUT US\nContact us\nAdvertise with us\nWho we are\nOUR WEBSITES\nThe Next Platform\nDevClass\nBlocks and Files\nYOUR PRIVACY\nCookies Policy\nPrivacy Policy\nTs & Cs\nSituation Publishing\n\nCopyright. All rights reserved © 1998–2026"
+}

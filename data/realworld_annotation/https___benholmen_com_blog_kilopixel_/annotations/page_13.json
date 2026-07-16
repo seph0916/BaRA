@@ -1,0 +1,127 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 29,
+    "links": [
+        {
+            "text": "Growing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "READ ⇢",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "Timezone Management in Laravel - for Laravel News",
+            "href": "https://benholmen.com/blog/timezone-management-in-laravel-for-laravel-news/"
+        },
+        {
+            "text": "READ ⇢",
+            "href": "https://benholmen.com/blog/timezone-management-in-laravel-for-laravel-news/"
+        },
+        {
+            "text": "Pairing with Strangers (the Pair-amid Scheme)",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "READ ⇢",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "Migrating from Homebrew MySQL/Meilisearch/Redis to Laravel Herd Pro Services",
+            "href": "https://benholmen.com/blog/migrating-from-homebrew-to-laravel-herd/"
+        },
+        {
+            "text": "READ ⇢",
+            "href": "https://benholmen.com/blog/migrating-from-homebrew-to-laravel-herd/"
+        },
+        {
+            "text": "Fluently removing global scopes with Laravel's new ScopedBy Attribute",
+            "href": "https://benholmen.com/blog/removing-global-scopes-with-new-attribute-syntax/"
+        },
+        {
+            "text": "READ ⇢",
+            "href": "https://benholmen.com/blog/removing-global-scopes-with-new-attribute-syntax/"
+        },
+        {
+            "text": "Mapping a Hyper key on MacOS with Karabiner Elements (the easy way)",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "READ ⇢",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "⇠ PREV",
+            "href": "https://benholmen.com/blog"
+        },
+        {
+            "text": "NEXT ⇢",
+            "href": "https://benholmen.com/blog/3"
+        },
+        {
+            "text": "",
+            "href": "https://benholmen.com/"
+        },
+        {
+            "text": "The Kilopixel recap - season one",
+            "href": "https://benholmen.com/blog/kilopixel-season-1/"
+        },
+        {
+            "text": "I spent 6 years building a ridiculous wooden pixel display",
+            "href": "https://benholmen.com/blog/kilopixel/"
+        },
+        {
+            "text": "Pairing with Strangers (the Pair-amid Scheme)",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "Mapping a Hyper key on MacOS with Karabiner Elements (the easy way)",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "Defragment your PHPUnit tests",
+            "href": "https://benholmen.com/blog/defragment-your-phpunit-tests/"
+        },
+        {
+            "text": "A photo a day for 30 days",
+            "href": "https://benholmen.com/blog/a-photo-a-day/"
+        },
+        {
+            "text": "Building howtall.is",
+            "href": "https://benholmen.com/blog/howtall.is/"
+        },
+        {
+            "text": "The Art of Pairing with Strangers - Over Engineered Podcast",
+            "href": "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/"
+        },
+        {
+            "text": "Just how old is a 45 year old soup (and would you eat it)",
+            "href": "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/"
+        },
+        {
+            "text": "Growing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "VIEW ALL ⇢",
+            "href": "https://benholmen.com/blog/"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/benholmen.com"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/benholmen/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/benholmen"
+        }
+    ],
+    "text_length": 2625,
+    "text_full": " \nGrowing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast\n\nI was honored to chat with my friend Matt Stauffer on his new podcast, The Business of Laravel. We chatted about building a large wholesale platform on the TALL stack, building a team of happy and productive developers, effectively managing a remote team, and of course, my...\n\nREAD ⇢\nTimezone Management in Laravel - for Laravel News\n\nI recorded my first tip video for the good people at Laravel News. Enjoy! Some favorites in America: eight in Indiana, three in North Dakota, twelve in Argentina, but I'm partial to America/Chicago. They come from timelib, which uses tz maintained by the Internet Assigned...\n\nREAD ⇢\nPairing with Strangers (the Pair-amid Scheme)\n\nI typically pair with people on my team but I recently reached out to Joe Tannenbaum when he mentioned that he'd never paired before. We both took a chance on an internet stranger, hopped on a Zoom call, and had a blast pairing together! It turned out to be a great way to...\n\nREAD ⇢\nMigrating from Homebrew MySQL/Meilisearch/Redis to Laravel Herd Pro Services\n\nLaravel Herd is a fantastic application from the Germans wizards at Beyondco.de that makes it so easy to run PHP applications on your Mac or Windows machine. They offer a paid Pro version that provides MySQL, Meilisearch full text search, Redis, and more. I've been running those...\n\nREAD ⇢\nFluently removing global scopes with Laravel's new ScopedBy Attribute\n\nLaravel v10.44 just shipped with a new approach to global scopes: #[ScopedBy]. Using my codebase as an example: Products have a global scope that hides them if their Company is not visible. I like this syntax a lot, and I also like to use a scope to remove global...\n\nREAD ⇢\nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\n\nI was just helping someone set up a hyper key and was surprised at how confusing most of the guides were. So here's my very simple version! A hyper key is mapping a single key to <shift> + <control> + <option> + <command> so when you push...\n\nREAD ⇢\n⇠ PREV\nNEXT ⇢\nPopular Posts\nThe Kilopixel recap - season one\nI spent 6 years building a ridiculous wooden pixel display\nPairing with Strangers (the Pair-amid Scheme)\nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\nDefragment your PHPUnit tests\nRecent Posts\nA photo a day for 30 days\nBuilding howtall.is\nThe Art of Pairing with Strangers - Over Engineered Podcast\nJust how old is a 45 year old soup (and would you eat it)\nGrowing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast\nVIEW ALL ⇢"
+}

@@ -1,0 +1,85 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 18,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#mpv",
+            "href": "https://evanhahn.com/tags/mpv/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "mpv",
+            "href": "https://mpv.io/"
+        },
+        {
+            "text": "mpv’s docs",
+            "href": "https://github.com/mpv-player/mpv/blob/a0fba7be57f3822d967b04f0f6b6d6341e7516e7/DOCS/man/options.rst"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 1107,
+    "text_full": "How to play a file in reverse with mpv\nby Evan Hahn, posted Feb 11, 2025, tagged #mpv #guide\n\nThis post was last updated for mpv 0.39.\n\nHere’s how to use mpv to play a file in reverse:\n\nmpv --play-direction=backward my_video.mp4\n\n\nOr a shorthand:\n\nmpv --play-direction=- my_video.mp4\n\n\nHowever, it may not work well. To quote mpv’s docs:\n\nBackward playback is extremely fragile. It may not always work, is much slower than forward playback, and breaks certain other features. How well it works depends mainly on the file being played. Generally, it will show good results (or results at all) only if the stars align.\n\nI found this to be true in my cursory testing; mpv could play my videos in reverse but it had trouble. You can read much more about this on the mpv manpage.\n\nI couldn’t find this quickly documented anywhere so I thought I’d write this post!\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

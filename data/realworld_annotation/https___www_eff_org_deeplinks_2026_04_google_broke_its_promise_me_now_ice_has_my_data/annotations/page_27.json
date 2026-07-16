@@ -1,0 +1,387 @@
+{
+    "image_count": 19,
+    "images": [
+        "https://sls.eff.org/assets/eff-monogram-white-82e096a984dc1f116f80dbea3f0f704d2e1a7407a359a616057f4e7917cd7a26.svg",
+        "https://sls.eff.org/assets/globe-54ce3b0c3b43065e07a53826025a3b07657c141b646dc37047e18a7d4622854e.svg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/24/SLS-icon-ALPR-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/18/SLS-icon-biometric-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/17/SLS-icon-bodycam-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/16/SLS-icon-camera-network-2-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/11/SLS-icon-cellsite-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/10/SLS-icon-Drone-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/19/SLS-facial-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/22/SLS-electronic-monitoring-2023-SQUARE.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/8/SLS-icon-gunshot-2-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/47/SLS-forensic-2023-SQUARE.png",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/6/SLS-police-access-IoT-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/5/SLS-predictive-policing-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/4/SLS-icon-community-surveillance-apps-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/3/SLS-locational-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/20/SLS-socialmedia-surveillance-2023.jpg",
+        "https://sls.eff.org/files/sls/technology/uploaded_icon_attachment/file/21/SLS-icon-database-2-2023.jpg",
+        "https://sls.eff.org/assets/eff-logo-lockup-lilac-33727372b144d69191e94265cc4875fa97ae13f73f527b91b0c66b55ae9b5b0f.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 89,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://sls.eff.org/#main-content"
+        },
+        {
+            "text": "STREET LEVEL SURVEILLANCE",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "TECHNOLOGIES",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "Automated License Plate Readers",
+            "href": "https://sls.eff.org/technologies/automated-license-plate-readers-alprs"
+        },
+        {
+            "text": "Biometric Surveillance",
+            "href": "https://sls.eff.org/technologies/biometric-surveillance"
+        },
+        {
+            "text": "Body-Worn Cameras",
+            "href": "https://sls.eff.org/technologies/body-worn-cameras"
+        },
+        {
+            "text": "Surveillance Camera Networks",
+            "href": "https://sls.eff.org/technologies/surveillance-camera-networks"
+        },
+        {
+            "text": "Cell-Site Simulators/ IMSI Catchers",
+            "href": "https://sls.eff.org/technologies/cell-site-simulators-imsi-catchers"
+        },
+        {
+            "text": "Drones and Robots",
+            "href": "https://sls.eff.org/technologies/drones-and-robots"
+        },
+        {
+            "text": "Face Recognition",
+            "href": "https://sls.eff.org/technologies/face-recognition"
+        },
+        {
+            "text": "Electronic Monitoring",
+            "href": "https://sls.eff.org/technologies/electronic-monitoring"
+        },
+        {
+            "text": "Gunshot Detection",
+            "href": "https://sls.eff.org/technologies/gunshot-detection"
+        },
+        {
+            "text": "Forensic Extraction Tools",
+            "href": "https://sls.eff.org/technologies/forensic-extraction-tools"
+        },
+        {
+            "text": "Police Access to IoT Devices",
+            "href": "https://sls.eff.org/technologies/police-access-to-iot-devices"
+        },
+        {
+            "text": "Predictive Policing",
+            "href": "https://sls.eff.org/technologies/predictive-policing"
+        },
+        {
+            "text": "Community Surveillance Apps",
+            "href": "https://sls.eff.org/technologies/community-surveillance-apps"
+        },
+        {
+            "text": "Real-Time Location Tracking",
+            "href": "https://sls.eff.org/technologies/real-time-location-tracking"
+        },
+        {
+            "text": "Social Media Monitoring",
+            "href": "https://sls.eff.org/technologies/social-media-monitoring"
+        },
+        {
+            "text": "Police Databases",
+            "href": "https://sls.eff.org/technologies/police-databases"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://sls.eff.org/#about"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://atlasofsurveillance.org/"
+        },
+        {
+            "text": "Spot the Surveillance",
+            "href": "https://eff.org/spot"
+        },
+        {
+            "text": "Surveillance Self Defense",
+            "href": "https://ssd.eff.org/"
+        },
+        {
+            "text": "DONATE",
+            "href": "https://eff.org/slsgive"
+        },
+        {
+            "text": "TECHNOLOGIES",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "ABOUT",
+            "href": "https://sls.eff.org/?class=scrolly#about"
+        },
+        {
+            "text": "NEWS",
+            "href": "https://sls.eff.org/articles"
+        },
+        {
+            "text": "ATLAS OF SURVEILLANCE",
+            "href": "https://atlasofsurveillance.org/"
+        },
+        {
+            "text": "SPOT THE SURVEILLANCE",
+            "href": "https://eff.org/spot"
+        },
+        {
+            "text": "SURVEILLANCE SELF DEFENSE",
+            "href": "https://ssd.eff.org/"
+        },
+        {
+            "text": "DONATE",
+            "href": "https://eff.org/slsgive"
+        },
+        {
+            "text": "BLUESKY",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "FACEBOOK",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "MASTODON",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.eff.org/rss"
+        },
+        {
+            "text": "SUBSCRIBE",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "BLUESKY",
+            "href": "https://bsky.app/intent/compose?text=Street-Level%20Surveillance%20by%20%40EFF.org%20is%20an%20accessible%20resource%20when%20you%20need%20a%20field%20guide%20to%20the%20technology%20used%20by%20police%2C%20how%20it%20works%2C%20and%20why%20it%27s%20dangerous.%20Learn%20more%20about%20surveillance%20cameras%2C%20license%20plate%20readers%2C%20and%20more.%20https%3A%2F%2Fsls.eff.org"
+        },
+        {
+            "text": "FACEBOOK",
+            "href": "https://www.facebook.com/share.php?u=https%3A%2F%2Fsls.eff.org"
+        },
+        {
+            "text": "BLUESKY",
+            "href": "https://share.joinmastodon.org/#text=Street-Level%20Surveillance%20by%20%40eff%40mastodon.social%20is%20an%20accessible%20resource%20when%20you%20need%20a%20field%20guide%20to%20the%20technology%20used%20by%20police%2C%20how%20it%20works%2C%20and%20why%20it%27s%20dangerous.%20Learn%20more%20about%20surveillance%20cameras%2C%20license%20plate%20readers%2C%20and%20more.%20https%3A%2F%2Fsls.eff.org"
+        },
+        {
+            "text": "×",
+            "href": "https://sls.eff.org/#"
+        },
+        {
+            "text": "≡",
+            "href": "https://sls.eff.org/#mobile-nav"
+        },
+        {
+            "text": "",
+            "href": "https://eff.org/"
+        },
+        {
+            "text": "ENGLISH",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "Español",
+            "href": "https://sls.eff.org/es/"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/automated-license-plate-readers-alprs"
+        },
+        {
+            "text": "Automated License Plate Readers",
+            "href": "https://sls.eff.org/technologies/automated-license-plate-readers-alprs"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/biometric-surveillance"
+        },
+        {
+            "text": "Biometric Surveillance",
+            "href": "https://sls.eff.org/technologies/biometric-surveillance"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/body-worn-cameras"
+        },
+        {
+            "text": "Body-Worn Cameras",
+            "href": "https://sls.eff.org/technologies/body-worn-cameras"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/surveillance-camera-networks"
+        },
+        {
+            "text": "Surveillance Camera Networks",
+            "href": "https://sls.eff.org/technologies/surveillance-camera-networks"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/cell-site-simulators-imsi-catchers"
+        },
+        {
+            "text": "Cell-Site Simulators/ IMSI Catchers",
+            "href": "https://sls.eff.org/technologies/cell-site-simulators-imsi-catchers"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/drones-and-robots"
+        },
+        {
+            "text": "Drones and Robots",
+            "href": "https://sls.eff.org/technologies/drones-and-robots"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/face-recognition"
+        },
+        {
+            "text": "Face Recognition",
+            "href": "https://sls.eff.org/technologies/face-recognition"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/electronic-monitoring"
+        },
+        {
+            "text": "Electronic Monitoring",
+            "href": "https://sls.eff.org/technologies/electronic-monitoring"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/gunshot-detection"
+        },
+        {
+            "text": "Gunshot Detection",
+            "href": "https://sls.eff.org/technologies/gunshot-detection"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/forensic-extraction-tools"
+        },
+        {
+            "text": "Forensic Extraction Tools",
+            "href": "https://sls.eff.org/technologies/forensic-extraction-tools"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/police-access-to-iot-devices"
+        },
+        {
+            "text": "Police Access to IoT Devices",
+            "href": "https://sls.eff.org/technologies/police-access-to-iot-devices"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/predictive-policing"
+        },
+        {
+            "text": "Predictive Policing",
+            "href": "https://sls.eff.org/technologies/predictive-policing"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/community-surveillance-apps"
+        },
+        {
+            "text": "Community Surveillance Apps",
+            "href": "https://sls.eff.org/technologies/community-surveillance-apps"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/real-time-location-tracking"
+        },
+        {
+            "text": "Real-Time Location Tracking",
+            "href": "https://sls.eff.org/technologies/real-time-location-tracking"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/social-media-monitoring"
+        },
+        {
+            "text": "Social Media Monitoring",
+            "href": "https://sls.eff.org/technologies/social-media-monitoring"
+        },
+        {
+            "text": "",
+            "href": "https://sls.eff.org/technologies/police-databases"
+        },
+        {
+            "text": "Police Databases",
+            "href": "https://sls.eff.org/technologies/police-databases"
+        },
+        {
+            "text": "DONATE TO EFF",
+            "href": "https://eff.org/slsgive"
+        },
+        {
+            "text": "",
+            "href": "https://eff.org/"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "CONTACT",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "COPYRIGHT (CC-BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "BlueSky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "Facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.eff.org/rss"
+        },
+        {
+            "text": "Subscribe",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "BlueSky",
+            "href": "https://bsky.app/intent/compose?text=Street-Level%20Surveillance%20by%20%40EFF.org%20is%20an%20accessible%20resource%20when%20you%20need%20a%20field%20guide%20to%20the%20technology%20used%20by%20police%2C%20how%20it%20works%2C%20and%20why%20it%27s%20dangerous.%20Learn%20more%20about%20surveillance%20cameras%2C%20license%20plate%20readers%2C%20and%20more.%20https%3A%2F%2Fsls.eff.org"
+        },
+        {
+            "text": "Facebook",
+            "href": "https://www.facebook.com/share.php?u=https%3A%2F%2Fsls.eff.org"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://share.joinmastodon.org/#text=Street-Level%20Surveillance%20by%20%40eff%40mastodon.social%20is%20an%20accessible%20resource%20when%20you%20need%20a%20field%20guide%20to%20the%20technology%20used%20by%20police%2C%20how%20it%20works%2C%20and%20why%20it%27s%20dangerous.%20Learn%20more%20about%20surveillance%20cameras%2C%20license%20plate%20readers%2C%20and%20more.%20https%3A%2F%2Fsls.eff.org"
+        }
+    ],
+    "text_length": 2858,
+    "text_full": "Skip to main content\nSTREET LEVEL SURVEILLANCE\nTECHNOLOGIES\nABOUT\nRESOURCES    \nDONATE\nTECHNOLOGIES\nABOUT\nNEWS\nRESOURCES\nATLAS OF SURVEILLANCE\nSPOT THE SURVEILLANCE\nSURVEILLANCE SELF DEFENSE\nDONATE\nFOLLOW US\nBLUESKY\nFACEBOOK\nMASTODON\nRSS\nSUBSCRIBE\nSHARE\nBLUESKY\nFACEBOOK\nBLUESKY\nCOPY LINK\n×\nENGLISH\nABOUT\n\nWelcome to the Field Guide to Police Surveillance. \n\nEFF’s Street-Level Surveillance project shines a light on the surveillance technologies that law enforcement agencies routinely deploy in our communities. These resources are designed for advocacy organizations, journalists, defense attorneys, policymakers, and members of the public who often are not getting the straight story from police representatives or the vendors marketing this equipment.\n\nWhether it’s phone-based location tracking, ubiquitous video recording, biometric data collection, or police access to people’s smart devices, law enforcement agencies follow closely behind their counterparts in the military and intelligence services in acquiring privacy-invasive technologies and getting access to consumer data. Just as analog surveillance historically has been used as a tool for oppression, we must understand the threat posed by emerging technologies to successfully defend civil liberties and civil rights in the digital age. \n\nThe threats to privacy of these surveillance technologies are enormous, as law enforcement agencies at all levels of government use surveillance technologies to compile vast databases filled with our personal information or gain access to devices that can lay bare the intricacies of our daily lives. Use of these surveillance technologies can infringe on our constitutional rights, including to speak and associate freely under the First Amendment or be free from unlawful search and seizure under the Fourth Amendment. Law enforcement also tends to deploy surveillance technologies disproportionately against marginalized communities. These technologies are prone to abuse by rogue officers, and can be subject to error or vulnerability, causing damaging repercussions for those who interact with the criminal justice system.\n\nThe resources contained in this hub bring together years of research, litigation, and advocacy by EFF staff and our allies, and will continue to grow as we obtain more information.\n\nDONATE\n\nSince 1990, EFF has defended your rights to online free speech and privacy. Whether we're fighting invasive surveillance powers in court, researching the latest in police tech, or rallying and educating online activists like you to speak out, we couldn't do any of it without people like you.\n\nDonate to EFF and support the mission to defend civil liberties and human rights online.\n\nDONATE TO EFF\nPRIVACY POLICY\nCONTACT\nCOPYRIGHT (CC-BY)\nFOLLOW US\nBlueSky\nFacebook\nMastodon\nRSS\nSubscribe\nSHARE\nBlueSky\nFacebook\nMastodon\nCopy Link"
+}

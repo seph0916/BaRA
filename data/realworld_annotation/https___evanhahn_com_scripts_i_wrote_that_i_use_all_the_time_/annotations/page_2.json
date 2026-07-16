@@ -1,0 +1,89 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 19,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Scripts I wrote that I use all the time",
+            "href": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "Why \"alias\" is my last resort for aliases",
+            "href": "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "How to set a Zsh option only if supported",
+            "href": "https://evanhahn.com/how-to-set-a-zsh-option-only-if-supported/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "#zsh",
+            "href": "https://evanhahn.com/tags/zsh/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "A decade of dotfiles",
+            "href": "https://evanhahn.com/a-decade-of-dotfiles/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "Automatically ls when changing directories in zsh",
+            "href": "https://evanhahn.com/automatically-ls-when-changing-directories-in-zsh/"
+        },
+        {
+            "text": "#zsh",
+            "href": "https://evanhahn.com/tags/zsh/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        }
+    ],
+    "text_length": 402,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n6 posts tagged #dotfiles\n2025\nScripts I wrote that I use all the time\n2025-10-22 #dotfiles\nWhy \"alias\" is my last resort for aliases\n2025-03-05 #dotfiles\n2024\nHow to set a Zsh option only if supported\n2024-06-04 #dotfiles #zsh #guide\n2022\nA decade of dotfiles\n2022-05-29 #dotfiles #reflection\n2016\nAutomatically ls when changing directories in zsh\n2016-12-26 #zsh #dotfiles"
+}

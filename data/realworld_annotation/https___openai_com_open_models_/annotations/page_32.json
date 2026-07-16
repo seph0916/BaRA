@@ -1,0 +1,377 @@
+{
+    "image_count": 4,
+    "images": [
+        "https://images.ctfassets.net/kftzwdyauwt9/6HIfga5zjofGwccjVeZA2e/fcca68f123b1110c7b4f275caa2d3669/Spreadsheet_-_desktop_-_light.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp",
+        "https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp"
+    ],
+    "video_count": 4,
+    "videos": [
+        "https://player.vimeo.com/video/1170544607?h=40e47b825f&amp%3Bbadge=0&amp%3Bautopause=0&amp%3Bplayer_id=0&amp%3Bapp_id=58479&controls=0&autopause=0",
+        "https://player.vimeo.com/video/1170553262?h=14d9d4766f&amp%3Bbadge=0&amp%3Bautopause=0&amp%3Bplayer_id=0&amp%3Bapp_id=58479&controls=0&autopause=0",
+        "https://player.vimeo.com/video/1170427106?h=1d450cca50&amp%3Bbadge=0&amp%3Bautopause=0&amp%3Bplayer_id=0&amp%3Bapp_id=58479&controls=0&autopause=0",
+        "https://player.vimeo.com/video/1170417003?h=83a46f7c33&amp%3Bbadge=0&amp%3Bautopause=0&amp%3Bplayer_id=0&amp%3Bapp_id=58479&controls=0&autopause=0"
+    ],
+    "link_count": 89,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#main"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/"
+        },
+        {
+            "text": "Research",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Business",
+            "href": "https://openai.com/business/"
+        },
+        {
+            "text": "Developers",
+            "href": "https://openai.com/api/"
+        },
+        {
+            "text": "Company",
+            "href": "https://openai.com/about/"
+        },
+        {
+            "text": "Foundation\n(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "Try ChatGPT\n(opens in a new window)",
+            "href": "https://chatgpt.com/?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "Foundation(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#knowledge-work"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#computer-use-and-vision"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#coding"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#tool-use"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#steerability"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#safety"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#availability-and-pricing"
+        },
+        {
+            "text": "",
+            "href": "https://openai.com/index/introducing-gpt-5-4/#evaluations"
+        },
+        {
+            "text": "Product",
+            "href": "https://openai.com/news/product-releases/"
+        },
+        {
+            "text": "Release",
+            "href": "https://openai.com/research/index/release/"
+        },
+        {
+            "text": "GPT‑5.3‑Codex⁠",
+            "href": "https://openai.com/index/introducing-gpt-5-3-codex/"
+        },
+        {
+            "text": "GDPval⁠",
+            "href": "https://openai.com/index/gdpval/"
+        },
+        {
+            "text": "ChatGPT for Excel add-in⁠\n(opens in a new window)",
+            "href": "https://chatgpt.com/apps/spreadsheets/?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "spreadsheet⁠\n(opens in a new window)",
+            "href": "https://github.com/openai/skills/tree/main/skills/.curated/spreadsheet"
+        },
+        {
+            "text": "presentation skills⁠\n(opens in a new window)",
+            "href": "https://github.com/openai/skills/tree/main/skills/.curated/slides"
+        },
+        {
+            "text": "input detail⁠\n(opens in a new window)",
+            "href": "https://developers.openai.com/api/docs/guides/images-vision/#specify-image-input-detail-level"
+        },
+        {
+            "text": "updated documentation⁠\n(opens in a new window)",
+            "href": "https://developers.openai.com/api/docs/guides/latest-model"
+        },
+        {
+            "text": "priority processing⁠\n(opens in a new window)",
+            "href": "https://developers.openai.com/api/docs/guides/priority-processing"
+        },
+        {
+            "text": "Playwright (Interactive)⁠\n(opens in a new window)",
+            "href": "https://github.com/openai/skills/tree/main/skills/.curated/playwright-interactive"
+        },
+        {
+            "text": "tool search⁠\n(opens in a new window)",
+            "href": "https://developers.openai.com/api/docs/guides/tools-tool-search"
+        },
+        {
+            "text": "MCP Atlas⁠\n(opens in a new window)",
+            "href": "https://scale.com/leaderboard/mcp_atlas"
+        },
+        {
+            "text": "τ2-bench⁠⁠\n(opens in a new window)",
+            "href": "https://arxiv.org/pdf/2506.07982"
+        },
+        {
+            "text": "chatgpt.com⁠\n(opens in a new window)",
+            "href": "http://chatgpt.com/?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "system card⁠\n(opens in a new window)",
+            "href": "https://deploymentsafety.openai.com/gpt-5-4-thinking"
+        },
+        {
+            "text": "CoT controllability⁠",
+            "href": "https://openai.com/index/reasoning-models-chain-of-thought-controllability/"
+        },
+        {
+            "text": "Context windows⁠\n(opens in a new window)",
+            "href": "https://help.openai.com/en/articles/11909943-gpt-53-and-54-in-chatgpt"
+        },
+        {
+            "text": "2026",
+            "href": "https://openai.com/news/?tags=2026"
+        },
+        {
+            "text": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments⁠\n(opens in a new window)",
+            "href": "https://arxiv.org/abs/2404.07972"
+        },
+        {
+            "text": "View all",
+            "href": "https://openai.com/news/"
+        },
+        {
+            "text": "A new personal finance experience in ChatGPT\n\nProduct\nMay 15, 2026",
+            "href": "https://openai.com/index/personal-finance-chatgpt/"
+        },
+        {
+            "text": "Work with Codex from anywhere\n\nProduct\nMay 14, 2026",
+            "href": "https://openai.com/index/work-with-codex-from-anywhere/"
+        },
+        {
+            "text": "Advancing voice intelligence with new models in the API\n\nProduct\nMay 7, 2026",
+            "href": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/"
+        },
+        {
+            "text": "Research Index",
+            "href": "https://openai.com/research/index/"
+        },
+        {
+            "text": "Research Overview",
+            "href": "https://openai.com/research/"
+        },
+        {
+            "text": "Research Residency",
+            "href": "https://openai.com/residency/"
+        },
+        {
+            "text": "Economic Research",
+            "href": "https://openai.com/signals/"
+        },
+        {
+            "text": "GPT-5.5",
+            "href": "https://openai.com/index/introducing-gpt-5-5/"
+        },
+        {
+            "text": "GPT-5.4",
+            "href": "https://openai.com/index/introducing-gpt-5-4/"
+        },
+        {
+            "text": "GPT-5.3 Instant",
+            "href": "https://openai.com/index/gpt-5-3-instant/"
+        },
+        {
+            "text": "GPT-5.3-Codex",
+            "href": "https://openai.com/index/introducing-gpt-5-3-codex/"
+        },
+        {
+            "text": "Safety Approach",
+            "href": "https://openai.com/safety/"
+        },
+        {
+            "text": "Security & Privacy",
+            "href": "https://openai.com/security-and-privacy/"
+        },
+        {
+            "text": "Trust & Transparency",
+            "href": "https://openai.com/trust-and-transparency/"
+        },
+        {
+            "text": "Explore ChatGPT\n(opens in a new window)",
+            "href": "https://chatgpt.com/overview?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "Business",
+            "href": "https://chatgpt.com/business/business-plan?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "Enterprise",
+            "href": "https://chatgpt.com/business/enterprise?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "Education",
+            "href": "https://chatgpt.com/business/education?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "Pricing\n(opens in a new window)",
+            "href": "https://chatgpt.com/pricing?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "Download\n(opens in a new window)",
+            "href": "https://chatgpt.com/download?openaicom-did=fdb93331-ba24-45d3-b4fa-05caffeb6a1c&openaicom_referred=true"
+        },
+        {
+            "text": "Platform Overview",
+            "href": "https://openai.com/api/"
+        },
+        {
+            "text": "Pricing",
+            "href": "https://openai.com/api/pricing/"
+        },
+        {
+            "text": "API log in\n(opens in a new window)",
+            "href": "https://platform.openai.com/login"
+        },
+        {
+            "text": "Documentation\n(opens in a new window)",
+            "href": "https://developers.openai.com/api/docs"
+        },
+        {
+            "text": "Developer Forum\n(opens in a new window)",
+            "href": "https://community.openai.com/"
+        },
+        {
+            "text": "Business Overview",
+            "href": "https://openai.com/business/"
+        },
+        {
+            "text": "Solutions",
+            "href": "https://openai.com/solutions/"
+        },
+        {
+            "text": "Contact Sales",
+            "href": "https://openai.com/contact-sales/"
+        },
+        {
+            "text": "About Us",
+            "href": "https://openai.com/about/"
+        },
+        {
+            "text": "Our Charter",
+            "href": "https://openai.com/charter/"
+        },
+        {
+            "text": "Foundation\n(opens in a new window)",
+            "href": "https://openaifoundation.org/"
+        },
+        {
+            "text": "Careers",
+            "href": "https://openai.com/careers/"
+        },
+        {
+            "text": "Brand",
+            "href": "https://openai.com/brand/"
+        },
+        {
+            "text": "Help Center\n(opens in a new window)",
+            "href": "https://help.openai.com/"
+        },
+        {
+            "text": "News",
+            "href": "https://openai.com/news/"
+        },
+        {
+            "text": "Stories",
+            "href": "https://openai.com/stories/"
+        },
+        {
+            "text": "Academy",
+            "href": "https://openai.com/academy/"
+        },
+        {
+            "text": "Livestreams",
+            "href": "https://openai.com/live/"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://openai.com/podcast/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://openai.com/news/rss.xml"
+        },
+        {
+            "text": "Terms of Use",
+            "href": "https://openai.com/policies/terms-of-use/"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://openai.com/policies/privacy-policy/"
+        },
+        {
+            "text": "Other Policies",
+            "href": "https://openai.com/policies/"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://x.com/OpenAI"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.youtube.com/OpenAI"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.linkedin.com/company/openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://github.com/openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.instagram.com/openai/"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://www.tiktok.com/@openai"
+        },
+        {
+            "text": "(opens in a new window)",
+            "href": "https://discord.gg/openai"
+        },
+        {
+            "text": "Cookie Policy",
+            "href": "https://openai.com/policies/cookie-policy/"
+        }
+    ],
+    "text_length": 28342,
+    "text_full": "Skip to main content\nResearch\nProducts\nBusiness\nDevelopers\nCompany\nFoundation\n(opens in a new window)\nLog in\nTry ChatGPT\n(opens in a new window)\nIntroducing GPT-5.4 | OpenAI\nTable of contents\n\nMarch 5, 2026\n\nProduct\nRelease\nIntroducing GPT‑5.4\n\nDesigned for professional work\n\nListen to article\n16:00\nShare\n\nToday, we’re releasing GPT‑5.4 in ChatGPT (as GPT‑5.4 Thinking), the API, and Codex. It’s our most capable and efficient frontier model for professional work. We’re also releasing GPT‑5.4 Pro in ChatGPT and the API, for people who want maximum performance on complex tasks.\n\nGPT‑5.4 brings together the best of our recent advances in reasoning, coding, and agentic workflows into a single frontier model. It incorporates the industry-leading coding capabilities of GPT‑5.3‑Codex⁠ while improving how the model works across tools, software environments, and professional tasks involving spreadsheets, presentations, and documents. The result is a model that gets complex real work done accurately, effectively, and efficiently—delivering what you asked for with less back and forth.\n\nIn ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns. GPT‑5.4 Thinking also improves deep web research, particularly for highly specific queries, while better maintaining context for questions that require longer thinking. Together, these improvements mean higher-quality answers that arrive faster and stay relevant to the task at hand.\n\nIn Codex and the API, GPT‑5.4 is the first general-purpose model we’ve released with native, state-of-the-art computer-use capabilities, enabling agents to operate computers and carry out complex workflows across applications. It supports up to 1M tokens of context, allowing agents to plan, execute, and verify tasks across long horizons. GPT‑5.4 also improves how models work across large ecosystems of tools and connectors with tool search, helping agents find and use the right tools more efficiently without sacrificing intelligence. Finally, GPT‑5.4 is our most token efficient reasoning model yet, using significantly fewer tokens to solve problems when compared to GPT‑5.2—translating to reduced token usage and faster speeds.\n\nTogether with advances in general reasoning, coding, and professional knowledge work, GPT‑5.4 enables more reliable agents, faster developer workflows, and higher-quality outputs across ChatGPT, the API, and Codex.\n\n\n\n\n\t\n\nGPT-5.4 \n\n\t\n\nGPT-5.3-Codex\n\n\t\n\nGPT-5.2\n\n\n\n\nGDPval (wins or ties)\n\n\t\n\n83.0%\n\n\t\n\n70.9%\n\n\t\n\n70.9%\n\n\n\n\nSWE-Bench Pro (Public)\n\n\t\n\n57.7%\n\n\t\n\n56.8%\n\n\t\n\n55.6%\n\n\n\n\nOSWorld-Verified\n\n\t\n\n75.0%\n\n\t\n\n74.0%* \n\n\t\n\n47.3%\n\n\n\n\nToolathlon\n\n\t\n\n54.6%\n\n\t\n\n51.9%\n\n\t\n\n46.3%\n\n\n\n\nBrowseComp\n\n\t\n\n82.7%\n\n\t\n\n77.3%\n\n\t\n\n65.8%\n\n*Previously reported as 64.7%. GPT‑5.3‑Codex achieves 74.0% with a newly introduced API parameter that preserves the original image resolution.\n\nKnowledge work\n\nBuilding on GPT‑5.2’s general reasoning capabilities, GPT‑5.4 delivers even more consistent and polished results on real-world tasks that matter to professionals.\n\nOn GDPval⁠, which tests agents’ abilities to produce well-specified knowledge work across 44 occupations, GPT‑5.4 achieves a new state of the art, matching or exceeding industry professionals in 83.0% of comparisons, compared to 70.9% for GPT‑5.2.\n\nIn GDPval, models attempt well-specified knowledge work spanning 44 occupations from the top 9 industries contributing to U.S. GDP. Tasks request real work products, such as sales presentations, accounting spreadsheets, urgent care schedules, manufacturing diagrams, or short videos. Reasoning effort was set to xhigh for GPT‑5.4 and heavy for GPT‑5.2 (a slightly lower level in ChatGPT).\n\nMercor\nWalleye Capital\nFundamental Research Labs\nRogo\nBalyasny Asset Management\n“GPT-5.4 is the best model we’ve ever tried. It’s now top of the leaderboard on our APEX-Agents benchmark, which measures model performance for professional services work. It excels at creating long-horizon deliverables such as slide decks, financial models, and legal analysis, delivering top performance while running faster and at a lower cost than competitive frontier models.”\n— Brendan Foody, CEO at Mercor\n\nWe put a particular focus on improving GPT‑5.4’s ability to create and edit spreadsheets, presentations, and documents. On an internal benchmark of spreadsheet modeling tasks that a junior investment banking analyst might do, GPT‑5.4 achieves a mean score of 87.3%, compared to 68.4% for GPT‑5.2. On a set of presentation evaluation prompts, human raters preferred presentations from GPT‑5.4 68.0% of the time over those from GPT‑5.2 due to stronger aesthetics, greater visual variety, and more effective use of image generation.\n\nSpreadsheets\nDocuments\nPresentations\n\nDocuments were generated with reasoning effort set to xhigh\n\nYou can try these capabilities in ChatGPT using GPT‑5.4 Thinking or Pro. If you’re an Enterprise customer, we recommend using our newly released ChatGPT for Excel add-in⁠\n(opens in a new window)\n, which was also launched today. We've also updated our spreadsheet⁠\n(opens in a new window)\n and presentation skills⁠\n(opens in a new window)\n available in Codex and the API.\n\nTo make GPT‑5.4 better at real-world work, we continued our progress at driving down hallucinations and errors. GPT‑5.4 is our most factual model yet: on a set of de-identified prompts where users flagged factual errors, GPT‑5.4’s individual claims are 33% less likely to be false and its full responses are 18% less likely to contain any errors, relative to GPT‑5.2.\n\nHarvey\nThomson Reuters\nNotion\nHockeyStack\nLegora\nClio\n“GPT-5.4 sets a new bar for document-heavy legal work. On our BigLaw Bench eval, it scored 91%. Compared to other models, GPT-5.4 is currently better at structuring complex transactional analysis, maintaining accuracy across lengthy contracts, and delivering the high level of detail legal practitioners require.”\n— Niko Grupen, Head of Applied Research at Harvey\nComputer use and vision\n\nGPT‑5.4 is our first general-purpose model with native computer-use capabilities and marks a major step forward for developers and agents alike. It’s the best model currently available for developers building agents that complete real tasks across websites and software systems.\n\nWe’ve designed GPT‑5.4 to be performant across a wide range of computer-use workloads. It is excellent at writing code to operate computers via libraries like Playwright, as well as issuing mouse and keyboard commands in response to screenshots. Its behavior is steerable via developer messages, meaning that developers can adjust behavior to suit particular use cases. Developers can even configure the model’s safety behavior to suit different levels of risk tolerance by specifying custom confirmation policies.\n\nThe model’s performance and flexibility are reflected across benchmarks that test computer use across different settings. On OSWorld-Verified, which measures a model’s ability to navigate a desktop environment through screenshots and keyboard/mouse actions, GPT‑5.4 achieves a state-of-the-art 75.0% success rate, far exceeding GPT‑5.2’s 47.3%, and surpassing human performance at 72.4%.1\n\nOn WebArena-Verified, which tests browser use, GPT‑5.4 achieves a leading 67.3% success rate when using both DOM- and screenshot-driven interaction, compared to GPT‑5.2’s 65.4%. On Online-Mind2Web, which also tests browser use, GPT‑5.4 achieves a 92.8% success rate using screenshot-based observations alone, improving over ChatGPT Atlas’s Agent Mode, which achieves a success rate of 70.9%.\n\nA tool yield is when an assistant yields to await tool responses. If 3 tools are called in parallel, followed by 3 more tools called in parallel, the number of yields would be 2. Tool yields are a better proxy of latency than tool calls because they reflect the benefits of parallelization.\n\nEmail & calendar\nBulk data entry\n\nGPT‑5.4 interprets screenshots of a browser interface and interacts with UI elements through coordinate-based clicking to send emails and schedule a calendar event. Video is not sped up.\n\nGPT‑5.4’s improved computer use is built on the model’s improved general visual perception capabilities. On MMMU-Pro, a test of a model’s visual understanding and reasoning, GPT‑5.4 achieves an 81.2% success rate without tool use, an improvement over GPT‑5.2’s 79.5%. Improved visual perception also translates into better document parsing capabilities. On OmniDocBench, GPT‑5.4 without reasoning effort achieves an average error (measured by normalized edit distance between model prediction and ground truth) of 0.109, improved from GPT‑5.2’s 0.140.\n\nMMMUPro was run with reasoning effort set to xhigh. OmniDocBench was run with reasoning effort set to none, to reflect low-cost, low-latency performance.\n\nWe’re also improving visual understanding for dense, high-resolution images where full fidelity matters. Starting with GPT‑5.4, we’re introducing an original image input detail⁠\n(opens in a new window)\n level which supports full-fidelity perception up to 10.24M total pixels or 6000-pixel maximum dimension, whichever is lower; the high image input detail level now supports up to 2.56M total pixels or a 2048-pixel maximum dimension. In early testing with API users, we observed strong gains in localization ability, image understanding, and click accuracy when using original or high detail.\n\nMainstay\nMomentic\nPace\n“In our evals measuring computer use performance across ~30K HOA and property tax portals, GPT-5.4 achieved a 95% success rate on the first attempt and 100% within three attempts, compared to ~73–79% with prior CUA models. It also completed sessions ~3x faster while using ~70% fewer tokens, materially improving reliability and cost efficiency at scale.\"\n— Dod Fraser, CEO at Mainstay\n\nIn the API, developers can access these capabilities using the updated computer tool. Please see our updated documentation⁠\n(opens in a new window)\n for recommended best practices.\n\nCoding\n\nGPT‑5.4 combines the coding strengths of GPT‑5.3‑Codex with leading knowledge work and computer-use capabilities, which matter most on longer-running tasks where the model can use tools, iterate, and push work further with less manual intervention. It matches or outperforms GPT‑5.3‑Codex on SWE-Bench Pro while being lower latency across reasoning efforts.\n\nWe estimate latency by looking at the production behavior of our models, and simulating this offline. The latency estimate accounts for tool call duration (code execution time), sampled tokens, and input tokens. Real-world latency may vary substantially, and depends on many factors not captured in our simulation. Reasoning efforts were swept from none to xhigh.\n\nWhen toggled on, /fast mode in Codex delivers up to 1.5x faster token velocity with GPT‑5.4. It’s the same model and the same intelligence, just faster. That means users can move through coding tasks, iteration, and debugging while staying in flow. Developers can access GPT‑5.4 at the same fast speeds via the API by using priority processing⁠\n(opens in a new window)\n.\n\nIn evaluation and internal testing we found that GPT‑5.4 excels at complex frontend tasks, with noticeably more aesthetic and more functional results than any models we’ve launched previously.\n\nAs a demonstration of the model’s improved computer-use and coding capabilities working in tandem, we’re also releasing an experimental Codex skill called “Playwright (Interactive)⁠\n(opens in a new window)\n”. This allows Codex to visually debug web and Electron apps; it can even be used to test an app it’s building, as it’s building it.\n\nTheme park simulation game\nRPG game\nGolden Gate Bridge flyover\n\nTheme park simulation game made with GPT‑5.4 from a single lightly specified prompt, using Playwright Interactive for browser playtesting and image generation for the isometric asset set. The simulation includes tile-based path placement, ride and scenery construction, guest pathfinding, queueing, and ride cycles, while park metrics like money, guest count, happiness, cleanliness, and rating rise or fall based on how the layout performs and how guests respond to it. Playwright was used to automate browser playtests by building and expanding the park, placing and removing paths and attractions, checking camera navigation, and verifying that guests, queues, ride states, and UI metrics updated correctly over several rounds of play.\n\nPrompt: Use $playwright-interactive and $imagegen. Create an interactive isometric theme park simulation game that I can build and navigate in the browser. Use imagegen to establish the overall visual vision and generate the game’s assets, including rides, paths, terrain, trees, water, food stalls, decorations, buildings, icons, and UI illustrations. The world should feel cohesive, polished, and visually rich, with a premium art direction that works well from an isometric perspective. Let me place and remove paths, add attractions, position scenery, and move around the park smoothly while monitoring guest activity, ride status, and park growth. Include believable guest movement, simple park management systems like money, cleanliness, queueing, and happiness, and make the experience feel playful, clear, and complete rather than like a rough prototype. Prioritize charm, readability, and strong game feel over realism. \n\nWhen play testing, be sure to build and expand a park through several rounds of play, verify that placement and navigation work smoothly, confirm that guests react to the park layout and attractions, and ensure the visuals, UI, and interactions feel stable and cohesive.\n\nShow more\n\n00:00\n\nCursor\nGitHub\nJetBrains\nAugment Code\nWindsurf\n“GPT-5.4 is currently the leader on our internal benchmarks. Our engineers find it to be more natural and assertive than previous models. It works through ambiguous problems without second-guessing itself, and it's proactive about parallelizing work to keep things moving.”\n— Lee Robinson, VP of Developer Education at Cursor\nTool use\n\nWith GPT‑5.4, we’ve significantly improved how models work with external tools. Agents can now operate across larger tool ecosystems, choose the right tools more reliably, and complete multi-step workflows with lower cost and latency.\n\nTool search\n\nIn the API, GPT‑5.4 introduces tool search⁠\n(opens in a new window)\n, which allows models to work efficiently when given many tools.\n\nPreviously, when a model was given tools, all tool definitions were included in the prompt upfront. For systems with many tools, this could add thousands—or even tens of thousands—of tokens to every request, increasing cost, slowing responses, and crowding the context with information the model might never use.\n\nWith tool search, GPT‑5.4 instead receives a lightweight list of available tools along with a tool search capability. When the model needs to use a tool, it can look up that tool’s definition and append it to the conversation at that moment.\n\nThis approach dramatically reduces the number of tokens required for tool-heavy workflows and preserves the cache, making requests faster and cheaper. It also enables agents to reliably work with much larger tool ecosystems. For MCP servers that may contain tens of thousands of tokens of tool definitions, the efficiency gains can be substantial.\n\nTo demonstrate the efficiency gains, we evaluated 250 tasks from Scale’s MCP Atlas⁠\n(opens in a new window)\n benchmark with all 36 MCP servers enabled in two modes: (1) exposing every MCP function directly in the model context, and (2) placing all MCP servers behind tool search. The tool-search configuration reduced total token usage by 47% while achieving the same accuracy.\n\nExample token counts come from averaging 250 tasks in the MCP-Atlas public dataset.\n\nAgentic tool calling\n\nGPT‑5.4 also improves tool calling, making it more accurate and efficient when deciding when and how to use tools during reasoning, particularly in the API.  Compared to GPT‑5.2, it achieves higher accuracy in fewer turns on Toolathlon, a benchmark that tests how well AI agents can use real-world tools and APIs to complete multi-step tasks. For example, an agent needs to read emails, extract assignment attachments, upload them, grade them and record results in a spreadsheet.\n\nA tool yield is when an assistant yields to await tool responses. If 3 tools are called in parallel, followed by 3 more tools called in parallel, the number of yields would be 2. Tool yields are a better proxy of latency than tool calls because they reflect the benefits of parallelization.\n\nFor latency-sensitive use cases where reasoning effort None is preferred, GPT‑5.4 further improves upon its predecessors.\n\nIn τ2-bench⁠⁠\n(opens in a new window)\n, a model must use tools to accomplish a customer service task, where there may be a simulated user who can communicate and take actions on the world state. Reasoning effort was set to None.\n\nShow more\nImproved web search\n\nGPT‑5.4 is better at agentic web search. On BrowseComp, a measurement of how well AI agents can persistently browse the web to find hard-to-locate information, GPT‑5.4 leaps 17%abs over GPT‑5.2, and GPT‑5.4 Pro sets a new state of the art of 89.3%.\n\nIn practice, this means GPT‑5.4 Thinking is stronger at answering questions that require pulling together information from many sources on the web. It can more persistently search across multiple rounds to identify the most relevant sources, particularly for “needle-in-a-haystack” questions, and synthesize them into a clear, well-reasoned answer.\n\nIn BrowseComp, we used a search blocklist excluding websites containing benchmark answers from evaluation to prevent contamination and ensure a fair measure of performance. GPT‑5.4 was measured on a later date than GPT‑5.2, so scores reflect changes in the model, our search system, and state of the internet. GPT‑5.4 was tested with a longer, updated blocklist. Models use the ChatGPT search tool, which can have small differences from API search.\n\nZapier\nGlean\nClay\nBasis\nHex\nDatabricks\nWhoop\n“GPT-5.4 xhigh is the new state of the art for multi-step tool use. Zapier runs some of the most rigorous tool use benchmarks in the industry, testing models across hundreds of advanced real-world workflows. GPT-5.4 finished the job where previous models gave up - the most persistent model to date.”\n— Wade, CEO at Zapier\nSteerability\n\nSimilarly to how Codex outlines its approach when it starts working, GPT‑5.4 Thinking in ChatGPT will now outline its work with a preamble for longer, more complex queries. You can also add instructions or adjust its direction mid-response. This makes it easier to guide the model toward the exact outcome you want without starting over or requiring multiple additional turns. This feature is available now on chatgpt.com⁠\n(opens in a new window)\n and the Android app, coming soon to the iOS app.\n\nThe model can also think longer on difficult tasks while maintaining stronger awareness of earlier steps in the conversation. This allows it to handle longer workflows and more complex prompts while keeping answers coherent and relevant throughout.\n\n00:00\n\nThis video was sped up for illustrative purposes.\n\nSafety\n\nOver recent months, we’ve continued improving the safeguards we introduced with GPT‑5.3‑Codex while preparing GPT‑5.4 for deployment. Similar to GPT‑5.3‑Codex, we are treating GPT‑5.4 as High cyber capability under our Preparedness Framework, and we are deploying it with the corresponding protections as documented in the system card⁠\n(opens in a new window)\n. These include an expanded cyber safety stack, including monitoring systems, trusted access controls, and asynchronous blocking for higher-risk requests for customers on Zero Data Retention (ZDR) surfaces, alongside ongoing investment in the broader security ecosystem.\n\nBecause cybersecurity capabilities are inherently dual-use, we maintain a precautionary approach to deployment while continuing to calibrate our policies and classifiers. For certain customers on ZDR surfaces, request-level blocking remains part of our cyber risk mitigation stack; because classifiers are still improving, some false positives may occur as we continue refining these safeguards. These updates aim to improve how safeguards operate in practice, including reducing unnecessary refusals and overly caveated responses, while preserving strong protections against misuse.\n\nWe’ve continued our safety research on Chain-of-Thought (CoT) monitorability to better understand how models reason and help detect potential misbehavior. As part of this work, we introduce a new open-source evaluation, CoT controllability⁠,  measuring whether models can deliberately obfuscate their reasoning to evade monitoring. We find that GPT‑5.4 Thinking’s ability to control its CoT is low, which is a positive property for safety, suggesting that the model lacks the ability to hide its reasoning and that CoT monitoring remains an effective safety tool.\n\nAvailability and pricing\n\nGPT‑5.4 is rolling out gradually today across ChatGPT and Codex. In the API, GPT‑5.4 is available now as gpt-5.4. GPT‑5.4 Pro is also available in the API as gpt-5.4-pro for developers who need maximum performance on the most complex tasks.\n\nIn ChatGPT, GPT‑5.4 Thinking is available starting today to ChatGPT Plus, Team, and Pro users, replacing GPT‑5.2 Thinking. GPT‑5.2 Thinking will remain available for three months for paid users in the model picker under the Legacy Models section, after which it will be retired on June 5, 2026. Those on Enterprise and Edu plans can enable early access via admin settings. GPT‑5.4 Pro is available to Pro and Enterprise plans. Context windows⁠\n(opens in a new window)\n in ChatGPT for GPT‑5.4 Thinking remain unchanged from GPT‑5.2 Thinking.\n\nGPT‑5.4 is our first mainline reasoning model that incorporates the frontier coding capabilities of GPT‑5.3‑codex and that is rolling out across ChatGPT, the API and Codex. We're calling it GPT‑5.4 to reflect that jump, and to simplify the choice between models when using Codex. Over time, you can expect our Instant models and Thinking models to evolve at different speeds.\n\nGPT‑5.4 in Codex includes experimental support for the 1M context window. Developers can try this by configuring model_context_window and model_auto_compact_token_limit. Requests that exceed the standard 272K context window count against usage limits at 2x the normal rate.\n\nIn the API, GPT‑5.4 is priced higher per token than GPT‑5.2 to reflect its improved capabilities, while its greater token efficiency helps reduce the total number of tokens required for many tasks. Batch and Flex pricing are available at half the standard API rate, while Priority processing is available at twice the standard API rate.\n\nAPI model\n\n\t\n\nInput price\n\n\t\n\nCached input price\n\n\t\n\nOutput price\n\n\n\n\ngpt-5.2\n\n\t\n\n$1.75 / M tokens\n\n\t\n\n$0.175 / M tokens\n\n\t\n\n$14 / M tokens\n\n\n\n\ngpt-5.4\n\n\t\n\n$2.50 / M tokens\n\n\t\n\n$0.25 / M tokens\n\n\t\n\n$15 / M tokens\n\n\n\n\ngpt-5.2-pro\n\n\t\n\n$21 / M tokens\n\n\t\n\n-\n\n\t\n\n$168 / M tokens\n\n\n\n\ngpt-5.4-pro\n\n\t\n\n$30 / M tokens\n\n\t\n\n-\n\n\t\n\n$180 / M tokens\n\nEvaluations\nProfessional\n\nEval\n\n\t\n\nGPT‑5.4\n\n\t\n\nGPT‑5.4\nPro\n\n\t\n\nGPT‑5.3-Codex\n\n\t\n\nGPT‑5.2\n\n\t\n\nGPT‑5.2\nPro\n\n\n\n\nGDPval\n\n\t\n\n83.0%\n\n\t\n\n82.0%\n\n\t\n\n70.9%\n\n\t\n\n70.9%\n\n\t\n\n74.1%\n\n\n\n\nFinanceAgent v1.1\n\n\t\n\n56.0%\n\n\t\n\n61.5%\n\n\t\n\n54.0%\n\n\t\n\n59.5%\n\n\t\n\n—\n\n\n\n\nInvestment Banking Modeling Tasks (Internal)\n\n\t\n\n87.3%\n\n\t\n\n83.6%\n\n\t\n\n79.3%\n\n\t\n\n68.4%\n\n\t\n\n71.7%\n\n\n\n\nOfficeQA\n\n\t\n\n68.1%\n\n\t\n\n—\n\n\t\n\n65.1%\n\n\t\n\n63.1%\n\n\t\n\n—\n\nCoding\n\nEval\n\n\t\n\nGPT‑5.4\n\n\t\n\nGPT‑5.4\nPro\n\n\t\n\nGPT‑5.3-Codex\n\n\t\n\nGPT‑5.2\n\n\t\n\nGPT‑5.2\nPro\n\n\n\n\nSWE-Bench Pro (Public)\n\n\t\n\n57.7%\n\n\t\n\n—\n\n\t\n\n56.8%\n\n\t\n\n55.6%\n\n\t\n\n—\n\n\n\n\nTerminal-Bench 2.0\n\n\t\n\n75.1%\n\n\t\n\n—\n\n\t\n\n77.3%\n\n\t\n\n62.2%\n\n\t\n\n—\n\nComputer use and vision\n\nEval\n\n\t\n\nGPT‑5.4\n\n\t\n\nGPT‑5.4\nPro\n\n\t\n\nGPT‑5.3-Codex\n\n\t\n\nGPT‑5.2\n\n\t\n\nGPT‑5.2\nPro\n\n\n\n\nOSWorld-Verified\n\n\t\n\n75.0%\n\n\t\n\n—\n\n\t\n\n74.0%\n\n\t\n\n47.3%\n\n\t\n\n—\n\n\n\n\nMMMU Pro (no tools)\n\n\t\n\n81.2%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n79.5%\n\n\t\n\n—\n\n\n\n\nMMMU Pro (with tools)\n\n\t\n\n82.1%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n80.4%\n\n\t\n\n—\n\nTool use\n\nEval\n\n\t\n\nGPT‑5.4\n\n\t\n\nGPT‑5.4\nPro\n\n\t\n\nGPT‑5.3-Codex\n\n\t\n\nGPT‑5.2\n\n\t\n\nGPT‑5.2\nPro\n\n\n\n\nBrowseComp\n\n\t\n\n82.7%\n\n\t\n\n89.3%\n\n\t\n\n77.3%\n\n\t\n\n65.8%\n\n\t\n\n77.9%\n\n\n\n\nMCP Atlas\n\n\t\n\n67.2%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n60.6%\n\n\t\n\n—\n\n\n\n\nToolathlon\n\n\t\n\n54.6%\n\n\t\n\n—\n\n\t\n\n51.9%\n\n\t\n\n45.7%\n\n\t\n\n—\n\n\n\n\nTau2-bench Telecom\n\n\t\n\n98.9%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n98.7%\n\n\t\n\n—\n\nAcademic\n\nEval\n\n\t\n\nGPT‑5.4\n\n\t\n\nGPT‑5.4\nPro\n\n\t\n\nGPT‑5.3-Codex\n\n\t\n\nGPT‑5.2\n\n\t\n\nGPT‑5.2\nPro\n\n\n\n\nFrontier Science Research\n\n\t\n\n33.0%\n\n\t\n\n36.7%\n\n\t\n\n—\n\n\t\n\n25.2%\n\n\t\n\n—\n\n\n\n\nFrontierMath Tier 1–3\n\n\t\n\n47.6%\n\n\t\n\n50.0%\n\n\t\n\n—\n\n\t\n\n40.7%\n\n\t\n\n—\n\n\n\n\nFrontierMath Tier 4\n\n\t\n\n27.1%\n\n\t\n\n38.0%\n\n\t\n\n—\n\n\t\n\n18.8%\n\n\t\n\n31.3%\n\n\n\n\nGPQA Diamond\n\n\t\n\n92.8%\n\n\t\n\n94.4%\n\n\t\n\n92.6%\n\n\t\n\n92.4%\n\n\t\n\n93.2%\n\n\n\n\nHumanity's Last Exam (no tools)\n\n\t\n\n39.8%\n\n\t\n\n42.7%\n\n\t\n\n—\n\n\t\n\n34.5%\n\n\t\n\n36.6%\n\n\n\n\nHumanity's Last Exam (with tools)\n\n\t\n\n52.1%\n\n\t\n\n58.7%\n\n\t\n\n—\n\n\t\n\n45.5%\n\n\t\n\n50.0%\n\nLong context\n\nEval\n\n\t\n\nGPT‑5.4\n\n\t\n\nGPT‑5.4\nPro\n\n\t\n\nGPT‑5.3-Codex\n\n\t\n\nGPT‑5.2\n\n\t\n\nGPT‑5.2\nPro\n\n\n\n\nGraphwalks BFS 0K–128K\n\n\t\n\n93.0%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n94.0%\n\n\t\n\n—\n\n\n\n\nGraphwalks BFS 256K–1M\n\n\t\n\n21.4%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\n\n\n\nGraphwalks parents 0–128K (accuracy)\n\n\t\n\n89.8%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n89.0%\n\n\t\n\n—\n\n\n\n\nGraphwalks parents 256K–1M (accuracy)\n\n\t\n\n32.4%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 4K–8K\n\n\t\n\n97.3%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n98.2%\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 8K–16K\n\n\t\n\n91.4%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n89.3%\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 16K–32K\n\n\t\n\n97.2%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n95.3%\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 32K–64K\n\n\t\n\n90.5%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n92.0%\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 64K–128K\n\n\t\n\n86.0%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n85.6%\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 128K–256K\n\n\t\n\n79.3%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n77.0%\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 256K–512K\n\n\t\n\n57.5%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\n\n\n\nOpenAI MRCR v2 8-needle 512K–1M\n\n\t\n\n36.6%\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\n\t\n\n—\n\nAbstract reasoning\n\nEval\n\n\t\n\nGPT‑5.4\n\n\t\n\nGPT‑5.4\nPro\n\n\t\n\nGPT‑5.3-Codex\n\n\t\n\nGPT‑5.2\n\n\t\n\nGPT‑5.2\nPro\n\n\n\n\nARC-AGI-1 (Verified)\n\n\t\n\n93.7%\n\n\t\n\n94.5%\n\n\t\n\n—\n\n\t\n\n86.2%\n\n\t\n\n90.5%\n\n\n\n\nARC-AGI-2 (Verified)\n\n\t\n\n73.3%\n\n\t\n\n83.3%\n\n\t\n\n—\n\n\t\n\n52.9%\n\n\t\n\n54.2% (high)\n\nEvals without reasoning\n\nEval\n\n\t\n\nGPT‑5.4\n(none)\n\n\t\n\nGPT‑5.2\n(none)\n\n\t\n\nGPT-4.1\n\n\n\n\nOmniDocBench (normalized edit distance)\n\n\t\n\n0.109\n\n\t\n\n0.140\n\n\t\n\n—\n\n\n\n\nTau2-bench Telecom\n\n\t\n\n64.3%\n\n\t\n\n57.2%\n\n\t\n\n43.6%\n\nEvals were run with reasoning effort set to xhigh, except where specified otherwise. Benchmarks were conducted in a research environment, which may provide slightly different output from production ChatGPT in some cases.\n\n2026\nAuthor\nOpenAI\nFootnotes\n\n1 Human performance reported in OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments⁠\n(opens in a new window)\n.\n\nKeep reading\nView all\nA new personal finance experience in ChatGPT\n\nProduct\nMay 15, 2026\n\nWork with Codex from anywhere\n\nProduct\nMay 14, 2026\n\nAdvancing voice intelligence with new models in the API\n\nProduct\nMay 7, 2026\n\nOur Research\nResearch Index\nResearch Overview\nResearch Residency\nEconomic Research\nLatest Advancements\nGPT-5.5\nGPT-5.4\nGPT-5.3 Instant\nGPT-5.3-Codex\nSafety\nSafety Approach\nSecurity & Privacy\nTrust & Transparency\nChatGPT\nExplore ChatGPT\n(opens in a new window)\nBusiness\nEnterprise\nEducation\nPricing\n(opens in a new window)\nDownload\n(opens in a new window)\nAPI Platform\nPlatform Overview\nPricing\nAPI log in\n(opens in a new window)\nDocumentation\n(opens in a new window)\nDeveloper Forum\n(opens in a new window)\nFor Business\nBusiness Overview\nSolutions\nContact Sales\nCompany\nAbout Us\nOur Charter\nFoundation\n(opens in a new window)\nCareers\nBrand\nSupport\nHelp Center\n(opens in a new window)\nMore\nNews\nStories\nAcademy\nLivestreams\nPodcast\nRSS\nTerms & Policies\nTerms of Use\nPrivacy Policy\nOther Policies\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\n(opens in a new window)\nOpenAI © 2015–2026\nManage Cookies\nEnglish\nUnited States\n\nWe use cookies\n\nWe use cookies to help this site function, understand service usage, and support marketing efforts. Visit Manage Cookies to change preferences anytime. View our Cookie Policy for more info.\n\nManage Cookies\nReject non-essential\nAccept all"
+}

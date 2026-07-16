@@ -1,0 +1,49 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/image.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 9,
+    "links": [
+        {
+            "text": "Plain Vanilla",
+            "href": "https://plainvanillaweb.com/index.html"
+        },
+        {
+            "text": "Blog",
+            "href": "https://plainvanillaweb.com/blog/index.html"
+        },
+        {
+            "text": "March 9, 2026",
+            "href": "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/#"
+        },
+        {
+            "text": "Safari is being annoying",
+            "href": "https://caniuse.com/css-marker-pseudo"
+        },
+        {
+            "text": "Chromium-only trick",
+            "href": "https://css-tricks.com/almanac/properties/i/interpolate-size/"
+        },
+        {
+            "text": "Discuss on Mastodon",
+            "href": "https://mstdn.social/@joeri_s/116201477581872111"
+        },
+        {
+            "text": "Contact",
+            "href": "https://sebrechts.net/"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/jsebrech/plainvanilla"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://plainvanillaweb.com/blog/articles/2026-03-09-details-matters/#top"
+        }
+    ],
+    "text_length": 6197,
+    "text_full": "Plain Vanilla Blog\n\nA blog about vanilla web development — no frameworks, just standards.\n\nPlain Vanilla\nBlog\nMarch 9, 2026\n<details> matters\n\nJoeri Sebrechts\n\nThe richness of HTML continues to be a delightful surprise.\n\nFor example, take an unassuming element like <details>. We've all seen it before. Here it is in its pure form:\n\n<details>\n    <summary>A summary</summary>\n    Some details to further explain the summary.\n</details>\n\n\nWe can merrily click the summary to open and close the details to our heart's content. But this is kind of plain-looking. Can we change that triangle into something else?\n\nIn a just world, this would work by neatly styling the ::marker pseudo-element, but like so often Safari is being annoying. Thankfully we can instead replace the marker by removing it with list-style: none; and adding a new summary marker on the ::before or ::after pseudo-elements.\n\n<style>\n    details {\n        summary {\n            list-style: none;\n        }\n        summary::before {\n            content: \"\\1F512\";\n            margin: 0 0.3em 0 -0.1em;\n        }\n        &[open] summary::before {\n            content: \"\\1F513\";\n        }\n    }\n</style>\n<details>\n    <summary>A summary</summary>\n    Some details to further explain the summary.\n</details>\n\n\nAnd really, the summary element can contain anything at all, inviting our creativity. Here's a fancier example that replaces the marker by an animated svg icon.\n\n<style>\n    details {\n        summary {\n            list-style: none;\n            user-select: none;\n            svg {\n                display: inline-block;\n                vertical-align: bottom;\n                color: gray;\n                rotate: 0;\n                transition: rotate 0.3s ease-out;\n            }\n        }\n        &[open] summary {\n            svg {\n                rotate: 180deg;\n            }\n        }\n    }\n</style>\n<details>\n    <summary>\n        A summary\n        <svg focusable=\"false\" width=\"24\" height=\"24\" aria-hidden=\"true\">\n            <path d=\"M6.34317 7.75732L4.92896 9.17154L12 16.2426L19.0711 9.17157L17.6569 7.75735L12 13.4142L6.34317 7.75732Z\" fill=\"currentColor\" />\n        </svg>\n    </summary>\n    Some details to further explain the summary.\n</details>\n\n\nThere's no reason to stop at decorating the marker though. We can make the details element look like anything we want, all it takes is the right CSS. If we wanted, we could make it look like a card.\n\n<style>\n    details {\n        border: 1px solid gray;\n        max-width: 20em;\n\n        summary {\n            position: relative;\n            list-style: none;\n            padding: 0.2em 0.4em;\n            user-select: none;\n            svg {\n                position: absolute;\n                right: 0.2em;\n                top: 0.3em;\n                color: gray;\n                rotate: 0;\n                transition: rotate 0.3s ease-out;\n            }\n        }\n\n        &[open] {\n            summary {\n                font-weight: bold;\n                svg {\n                    rotate: 180deg;\n                }\n            }\n\n            &::details-content {\n                border-top: 1px solid gray;\n                padding: 0.2em 0.4em;        \n            }\n        }\n    }\n</style>\n<details>\n    <summary>\n        A summary\n        <svg focusable=\"false\" width=\"24\" height=\"24\" aria-hidden=\"true\">\n            <path d=\"M6.34317 7.75732L4.92896 9.17154L12 16.2426L19.0711 9.17157L17.6569 7.75735L12 13.4142L6.34317 7.75732Z\" fill=\"currentColor\" />\n        </svg>\n    </summary>\n    Some details to further explain the summary.\n    And this is another sentence that spends a great deal of time saying nothing.\n</details>\n\nOne caveat with this example is the ::details-content pseudo-element used to select the expanded content area. This is baseline 2025 so still pretty new. For older browsers you can wrap the content in a div and style that instead.\n\nBut wait, there's more! In baseline 2024 <details> picked up a neat trick where all the elements with the same name attribute are mutually exclusive, meaning only one can be open at the same time. All we have to do is stack them to magically get an accordion.\n\n<style>\n    /* ... details styles repeated from previous example ... */\n\n    details + details {\n        border-top: none;\n    }\n\n    @supports (interpolate-size: allow-keywords) {\n        :root {\n            interpolate-size: allow-keywords;\n        }\n\n        details::details-content {\n            /* allow discrete transitions for the details content (animating to height auto) */\n            transition:\n                height 0.3s ease,\n                content-visibility 0.3s ease allow-discrete;\n            /* hide the details content by default */\n            height: 0;\n            overflow: clip;\n        }\n\n        /* show the details content when the details is open */\n        details[open]::details-content {\n            height: auto;\n        }\n    }\n</style>\n<details name=\"accordion\">\n    ...\n</details>\n<details name=\"accordion\">\n    ...\n</details>\n<details name=\"accordion\">\n    ...\n</details>\n\nThere's no magic code here to make the accordion work aside from the name attributes. HTML is doing the magic for us, which means this also happens to be fully keyboard-navigable and accessible. The only tricky bit is animating the expanding and collapsing of the cards. In this example that is implemented using interpolate-size: allow-keywords, which is a Chromium-only trick hopefully coming to other browsers near you. Thankfully in those other browsers this is still perfectly functional, just not as smoothly animating.\n\nBy the way, the mutually exclusive <details> elements do not even need to share a parent element. These accordion cards could be wrapped in custom elements, or <fieldset> or <form> elements, and they would work just fine in all browsers, today. But you'll have to take my word for it. After all, I have to leave some exercises up to the reader. 😉\n\nLike I said, the richness of HTML continues to be a delightful surprise. If you ask me then <details> has a bright future ahead of it.\n\nNo JavaScript was harmed in the making of this blog post.\n\nDiscuss on Mastodon\n\nContact GitHub\n\nBack to top"
+}

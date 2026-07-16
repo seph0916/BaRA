@@ -1,0 +1,65 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/irb-active-record-queries_hu3e1d38a86036662fc5c36e8ff04aba6e_177141_1500x0_resize_q75_h2_box_3.webp"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 13,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        },
+        {
+            "text": "rails",
+            "href": "https://piechowski.io/tags/rails"
+        },
+        {
+            "text": "ruby",
+            "href": "https://piechowski.io/tags/ruby"
+        },
+        {
+            "text": "development",
+            "href": "https://piechowski.io/tags/development"
+        },
+        {
+            "text": "activerecord",
+            "href": "https://piechowski.io/tags/activerecord"
+        },
+        {
+            "text": "How I Audit a Legacy Rails Codebase in the First Week",
+            "href": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
+        },
+        {
+            "text": "Rails default_scope: Why You Should Never Use It",
+            "href": "https://piechowski.io/post/why-is-default-scope-bad-rails/"
+        },
+        {
+            "text": "Rails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It",
+            "href": "https://piechowski.io/post/rails-7-to-8-upgrade-what-actually-breaks/"
+        },
+        {
+            "text": "Solved: Warning: Using the last argument as keyword parameters is deprecated",
+            "href": "https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/"
+        },
+        {
+            "text": "Ruby 3.2 Is EOL: What You Actually Need to Do",
+            "href": "https://piechowski.io/post/ruby-3-2-eol/"
+        }
+    ],
+    "text_length": 2277,
+    "text_full": "Work With Me\nGithub\nBlog\nRails: How to Use Greater Than/Less Than in Active Record where Statements\n\nWhen querying ActiveRecord for greater than and less than, most people turn to including raw SQL in their codebase... But raw SQL isn't required!\n\nAlly Piechowski · Dec 30, 2019 · 2 min read\nrails\nruby\ndevelopment\nactiverecord\n\nFor example, if I want to find all users created within the last week, I would ask for all users from my User model in which the column updated_at is greater than 1 week ago, or 1.week.ago.\n\n1. Using Ruby’s Infinity Range (Best)\n\nIn Rails 5+ and Ruby 2.6+, the infinity range can be used like so:\n\nUser.where(created_at: 1.week.ago..)\n\n\nIf you haven’t upgraded to Ruby 2.6 yet, you can specify the end of the range as the constant Float::INFINITY:\n\nUser.where(created_at: 1.week.ago..Float::INFINITY)\n\n\nThis is the best option because it is the closest syntax to actuality.\n\nFrom 1 week ago until infinity == greater than or equal to 1 week ago\n\nIt also doesn’t have any of the caveats that using a raw string has (explained later in this post)\n\n2. Using Active Record’s Arel Table\n\nUtilizing arel directly, we can signal to ActiveRecord the logical SQL we want to do functionally:\n\nUser.where(User.arel_table[:created_at].gt(1.week.ago))\n\n\nWhen faced with a challenging ActiveRecord Query that doesn’t fit into the core ruby-style syntax, I typically turn to Arel to provide me with a functional core and extra safety.\n\n3. Using a Raw String (Worst)\n\nIn ActiveRecord, it’s possible to utilize a raw string to access sql’s interface directly, like so:\n\nUser.where('users.created_at > ?', 1.week.ago)\n\n\nOr even the keyword interpolation style:\n\nUser.where('users.created_at > :after_date', after_date: 1.week.ago)\n\n\nWhile this works, using SQL strings with ActiveRecord isn’t always the best due to:\n\nHigher risk of accidental sql injection vulnerabilities\nReduced database adapter compatibility\nRelated Articles\nHow I Audit a Legacy Rails Codebase in the First Week\nRails default_scope: Why You Should Never Use It\nRails 7.2 to 8.1 Upgrade: What Actually Breaks and How to Fix It\nSolved: Warning: Using the last argument as keyword parameters is deprecated\nRuby 3.2 Is EOL: What You Actually Need to Do\nLet's talk about your codebase.\nEmail\nMessage"
+}

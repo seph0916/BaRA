@@ -1,0 +1,84 @@
+{
+  "start_url": "https://the-yeatman-hotel.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://the-yeatman-hotel.com/",
+    "https://www.the-yeatman-hotel.com/en/",
+    "https://www.the-yeatman-hotel.com/en/gallery/",
+    "https://www.the-yeatman-hotel.com/en/contacts/",
+    "https://www.the-yeatman-hotel.com/en/food/restaurants/",
+    "https://www.the-yeatman-hotel.com/pt/",
+    "https://www.the-yeatman-hotel.com/es/",
+    "https://www.the-yeatman-hotel.com/fr/",
+    "https://www.the-yeatman-hotel.com/de/",
+    "https://www.the-yeatman-hotel.com/ko/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://the-yeatman-hotel.com/"
+    ],
+    "1": [
+      "https://www.the-yeatman-hotel.com/en/",
+      "https://www.the-yeatman-hotel.com/en/gallery/",
+      "https://www.the-yeatman-hotel.com/en/contacts/",
+      "https://www.the-yeatman-hotel.com/en/food/restaurants/",
+      "https://www.the-yeatman-hotel.com/pt/"
+    ],
+    "2": [
+      "https://www.the-yeatman-hotel.com/es/",
+      "https://www.the-yeatman-hotel.com/fr/",
+      "https://www.the-yeatman-hotel.com/de/",
+      "https://www.the-yeatman-hotel.com/ko/",
+      "https://www.the-yeatman-hotel.com/en/rooms-suites/",
+      "https://www.the-yeatman-hotel.com/pt/galerias/",
+      "https://www.the-yeatman-hotel.com/es/galerias/",
+      "https://www.the-yeatman-hotel.com/fr/galeries/",
+      "https://www.the-yeatman-hotel.com/de/galerien/",
+      "https://www.the-yeatman-hotel.com/ko/gallery/",
+      "https://www.the-yeatman-hotel.com/pt/contactos/",
+      "https://www.the-yeatman-hotel.com/es/contactos/",
+      "https://www.the-yeatman-hotel.com/fr/contact/",
+      "https://www.the-yeatman-hotel.com/de/kontakte/",
+      "https://www.the-yeatman-hotel.com/ko/contacts/",
+      "https://www.the-yeatman-hotel.com/pt/gastronomia/restaurantes/",
+      "https://www.the-yeatman-hotel.com/es/gastronomia/restaurantes/",
+      "https://www.the-yeatman-hotel.com/fr/gastronomie/restaurants/",
+      "https://www.the-yeatman-hotel.com/de/gastronomie/gaststatten/",
+      "https://www.the-yeatman-hotel.com/ko/food/restaurants/",
+      "https://www.the-yeatman-hotel.com/pt/spa-porto/reservas/",
+      "https://www.the-yeatman-hotel.com/pt/quartos-suites/",
+      "https://www.the-yeatman-hotel.com/pt/quartos-suites/executivo/",
+      "https://www.the-yeatman-hotel.com/pt/quartos-suites/quarto-superior/",
+      "https://www.the-yeatman-hotel.com/pt/quartos-suites/superior/"
+    ],
+    "3": [
+      "https://www.the-yeatman-hotel.com/es/habitaciones-y-suites/",
+      "https://www.the-yeatman-hotel.com/es/habitaciones-y-suites/habitacion-ejecutiva/",
+      "https://www.the-yeatman-hotel.com/es/habitaciones-y-suites/habitacion-superior/",
+      "https://www.the-yeatman-hotel.com/es/habitaciones-y-suites/habitacion-superior-deluxe-panoramica/",
+      "https://www.the-yeatman-hotel.com/es/habitaciones-y-suites/suites/",
+      "https://www.the-yeatman-hotel.com/fr/chambres-suites/",
+      "https://www.the-yeatman-hotel.com/fr/chambres-suites/chambre-executive/",
+      "https://www.the-yeatman-hotel.com/fr/chambres-suites/chambre-superieure/",
+      "https://www.the-yeatman-hotel.com/fr/chambres-suites/chambre-superieure-deluxe-panoramique/",
+      "https://www.the-yeatman-hotel.com/fr/chambres-suites/suites/",
+      "https://www.the-yeatman-hotel.com/de/zimmer-suiten/",
+      "https://www.the-yeatman-hotel.com/de/zimmer-suiten/executive-zimmer/",
+      "https://www.the-yeatman-hotel.com/de/zimmer-suiten/superior-zimmer/",
+      "https://www.the-yeatman-hotel.com/de/zimmer-suiten/superior-deluxe-zimmer-panoramablick/",
+      "https://www.the-yeatman-hotel.com/de/zimmer-suiten/suites/",
+      "https://www.the-yeatman-hotel.com/ko/photos-videos/",
+      "https://www.the-yeatman-hotel.com/ko/recruitment/",
+      "https://www.the-yeatman-hotel.com/ko/book/restaurants/",
+      "https://www.the-yeatman-hotel.com/ko/book/spa/"
+    ]
+  },
+  "dead_links": [
+    "https://www.the-yeatman-hotel.com/de/porto-spa/buchen-2",
+    "https://www.the-yeatman-hotel.com/en/porto-spa/book-a-treatment-2",
+    "https://www.the-yeatman-hotel.com/es/spa-oporto/reservas-2",
+    "https://www.the-yeatman-hotel.com/fr/porto-spa/reservations-2"
+  ]
+}

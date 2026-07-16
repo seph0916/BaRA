@@ -1,0 +1,27 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 4,
+    "links": [
+        {
+            "text": "",
+            "href": "https://piechowski.io/"
+        },
+        {
+            "text": "Work With Me",
+            "href": "https://piechowski.io/work-with-me"
+        },
+        {
+            "text": "Github",
+            "href": "https://github.com/grepsedawk"
+        },
+        {
+            "text": "Blog",
+            "href": "https://piechowski.io/post"
+        }
+    ],
+    "text_length": 2909,
+    "text_full": "Work With Me\nGithub\nBlog\nCodebase Audits & Rescue | Ally Piechowski\nI Fix Codebases. Here’s How.\n\nMost of my clients come through referrals. If someone sent you here, they probably told you the short version: I fix codebases that are holding teams back. Here’s the longer version.\n\nCodebase Audit\n\nWhat’s actually wrong, and what to do about it.\n\nA focused diagnostic engagement. I read through the codebase, the CI/CD pipeline, the deploy process, and the test suite. You get a written report with a prioritized list of what’s blocking your team, what’s risky, and what I’d fix first. No vague “you have tech debt” conclusions: specific files, specific patterns, specific recommendations.\n\nThis is for you if: You suspect the codebase is the bottleneck but need an outside expert to confirm it and give you ammunition for the conversation with leadership.\n\nScope: 1–2 weeks. Fixed price.\n\nCodebase Rescue\n\nI go in and fix it.\n\nThe full engagement. I embed with your team (or work solo if there’s no team on this part of the codebase), and I do the work: framework upgrades, god model decomposition, CI/CD, deploy pipeline, test coverage, architecture. I work incrementally. You see progress in days, not months.\n\nThis is for you if: You know the codebase is the problem. You’ve tried to fix it internally and it didn’t stick. You need someone who’s done this before.\n\nScope: 4–12 weeks. Weekly rate.\n\nEmbedded Engineering\n\nA senior engineer who operates independently.\n\nFor teams that need another senior-level contributor, not another person to manage. I pick up the work your team can’t get to, whether that’s legacy cleanup, new features, or a mix of both. I mentor your developers along the way and leave the codebase better than I found it.\n\nThis is for you if: You need senior-level output but don’t have the headcount, the time to hire, or the appetite for a full-time commitment.\n\nScope: Ongoing. Weekly rate.\n\nTechnical Advisory\n\nOngoing access to a senior engineer who’s seen this before.\n\nFor engineering leaders who don’t need hands-on-keyboard work right now but want a senior technical voice in the room. Architecture reviews, second opinions on build-vs-buy decisions, help evaluating contractors or new hires, gut-checks on technical direction. I’ve seen what works and what doesn’t. You get that pattern recognition on call.\n\nThis is for you if: You’re a CTO or VP Eng at a growing company, you don’t have a peer-level technical advisor, and you’re making decisions that will be expensive to reverse.\n\nScope: Ongoing retainer. A few hours per week.\n\nI’m based in Southeast Asia and a US citizen, available for remote work with US and international clients.\n\nGet in touch\n\nTell me a bit about what you’re dealing with and I’ll get back to you within a day or two. No commitment, no sales pitch. If it sounds like I can help, we’ll set up a call.\n\nLet's talk about your codebase.\nEmail\nMessage"
+}

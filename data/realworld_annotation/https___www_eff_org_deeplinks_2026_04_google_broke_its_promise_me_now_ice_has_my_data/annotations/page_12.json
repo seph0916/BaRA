@@ -1,0 +1,871 @@
+{
+    "image_count": 15,
+    "images": [
+        "https://www.eff.org/sites/all/themes/phoenix/images/logo-monogram-white.svg",
+        "https://www.eff.org/files/2026-membership-sitebanner-desktop-3_0.png",
+        "https://www.eff.org/files/2026-membership-sitebanner-mobile.png",
+        "https://www.eff.org/files/issues/icon-2019-security_0.png",
+        "https://www.eff.org/files/styles/highlight/public/issues/vintage-keys.jpg?itok=3q0oMH1v",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/og-ssd-logo.png?itok=7OluJkzB",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/coder-cat-2.png?itok=IFxf5vi2",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/secret-identity-2_0.png?itok=7pxZSDHa",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/mobile-privacy.png?itok=ZJNHAjqW",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/htfi-2024-hero-1200.jpg?itok=gZGkXc4h",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/certbot-logo-type-1.png?itok=dsePG9sv",
+        "https://www.eff.org/files/styles/teaser/public/banner_library/keys-crossed-pink-starburst_0.png?itok=89H05wbG",
+        "https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg",
+        "https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/issues/security&action_name=Security%20%7C%20Electronic%20Frontier%20Foundation&urlref=",
+        ""
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 211,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.eff.org/issues/security#main-content"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Join EFF Lists",
+            "href": "https://eff.org/signup"
+        },
+        {
+            "text": "Copyright (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "Trademark",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "Thanks",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--m"
+        },
+        {
+            "text": "DONATE TODAY",
+            "href": "https://supporters.eff.org/donate/spring--wssn"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SD"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SM"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://certbot.eff.org/"
+        },
+        {
+            "text": "Coders' Rights Project",
+            "href": "https://www.eff.org/issues/coders"
+        },
+        {
+            "text": "surveillance self-defense",
+            "href": "https://ssd.eff.org/"
+        },
+        {
+            "text": "STATE-SPONSORED MALWARE",
+            "href": "https://www.eff.org/issues/state-sponsored-malware"
+        },
+        {
+            "text": "2G",
+            "href": "https://www.eff.org/issues/2g"
+        },
+        {
+            "text": "COMPUTER FRAUD AND ABUSE ACT REFORM",
+            "href": "https://www.eff.org/issues/cfaa"
+        },
+        {
+            "text": "ELECTION SECURITY",
+            "href": "https://www.eff.org/issues/e-voting"
+        },
+        {
+            "text": "ELECTRONIC FRONTIER ALLIANCE",
+            "href": "https://www.eff.org/fight"
+        },
+        {
+            "text": "ENCRYPTING THE WEB",
+            "href": "https://www.eff.org/encrypt-the-web"
+        },
+        {
+            "text": "GOVERNMENT HACKING AND SUBVERSION OF DIGITAL SECURITY",
+            "href": "https://www.eff.org/issues/government-hacking-digital-security"
+        },
+        {
+            "text": "SECURITY EDUCATION",
+            "href": "https://www.eff.org/issues/security-education"
+        },
+        {
+            "text": "SOPA/PIPA: INTERNET BLACKLIST LEGISLATION",
+            "href": "https://www.eff.org/issues/coica-internet-censorship-and-copyright-bill"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/encrypt-the-web"
+        },
+        {
+            "text": "ISSUES",
+            "href": "https://www.eff.org/issues"
+        },
+        {
+            "text": "Encrypting the Web",
+            "href": "https://www.eff.org/encrypt-the-web"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/coders"
+        },
+        {
+            "text": "ISSUES",
+            "href": "https://www.eff.org/issues"
+        },
+        {
+            "text": "Coders' Rights Project",
+            "href": "https://www.eff.org/issues/coders"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "RINDALA ALAJAJI",
+            "href": "https://www.eff.org/about/staff/rindala-alajaji"
+        },
+        {
+            "text": "Utah’s New Law Targeting VPNs Goes Into Effect May 6th",
+            "href": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "THORIN KLOSOWSKI",
+            "href": "https://www.eff.org/about/staff/thorin-klosowski-0"
+        },
+        {
+            "text": "How Push Notifications Can Betray Your Privacy (and What to Do About It)",
+            "href": "https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/03/bonus-podcast-episode-privacys-defender-cindy-cohn-conversation-cory-doctorow"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JOSH RICHMAN",
+            "href": "https://www.eff.org/about/staff/josh-richman-0"
+        },
+        {
+            "text": "Bonus Podcast Episode: Privacy’s Defender - Cindy Cohn with Cory Doctorow",
+            "href": "https://www.eff.org/deeplinks/2026/03/bonus-podcast-episode-privacys-defender-cindy-cohn-conversation-cory-doctorow"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JACOB HOFFMAN-ANDREWS",
+            "href": "https://www.eff.org/about/staff/jacob-hoffman-andrews"
+        },
+        {
+            "text": "Certbot and Let's Encrypt Now Support IP Address Certificates",
+            "href": "https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates"
+        },
+        {
+            "text": "cross-posted on the Let's Encrypt blog",
+            "href": "https://letsencrypt.org/2026/03/11/shorter-certs-certbot"
+        },
+        {
+            "text": "issues IP address and six-day certificates",
+            "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "JACOB HOFFMAN-ANDREWS",
+            "href": "https://www.eff.org/about/staff/jacob-hoffman-andrews"
+        },
+        {
+            "text": "How to Pick Your Password Manager",
+            "href": "https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager"
+        },
+        {
+            "text": "2",
+            "href": "https://www.eff.org/issues/security?page=1"
+        },
+        {
+            "text": "3",
+            "href": "https://www.eff.org/issues/security?page=2"
+        },
+        {
+            "text": "4",
+            "href": "https://www.eff.org/issues/security?page=3"
+        },
+        {
+            "text": "5",
+            "href": "https://www.eff.org/issues/security?page=4"
+        },
+        {
+            "text": "6",
+            "href": "https://www.eff.org/issues/security?page=5"
+        },
+        {
+            "text": "7",
+            "href": "https://www.eff.org/issues/security?page=6"
+        },
+        {
+            "text": "8",
+            "href": "https://www.eff.org/issues/security?page=7"
+        },
+        {
+            "text": "9",
+            "href": "https://www.eff.org/issues/security?page=8"
+        },
+        {
+            "text": "NEXT ›",
+            "href": "https://www.eff.org/issues/security?page=1"
+        },
+        {
+            "text": "LAST »",
+            "href": "https://www.eff.org/issues/security?page=260"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://www.eff.org/issues/security#main-content"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "instagram",
+            "href": "https://www.instagram.com/efforg/"
+        },
+        {
+            "text": "Blue Sky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "youtube",
+            "href": "https://www.youtube.com/efforg"
+        },
+        {
+            "text": "flicker",
+            "href": "https://www.flickr.com/photos/electronicfrontierfoundation"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/EFF"
+        },
+        {
+            "text": "tiktok",
+            "href": "https://www.tiktok.com/@efforg"
+        },
+        {
+            "text": "threads",
+            "href": "https://www.threads.net/@efforg"
+        },
+        {
+            "text": "Charity Navigator",
+            "href": "https://www.charitynavigator.org/ein/043091431"
+        },
+        {
+            "text": "General",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Legal",
+            "href": "https://www.eff.org/pages/legal-assistance"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/security"
+        },
+        {
+            "text": "Membership",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Calendar",
+            "href": "https://www.eff.org/event"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Victories",
+            "href": "https://www.eff.org/victories"
+        },
+        {
+            "text": "History",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Jobs",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Staff",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Diversity & Inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity & Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.eff.org/deeplinks?type=blog"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/updates?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "EFFector Newsletter",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "Press Contact",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Join or Renew Membership Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "One-Time Donation Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Corporate Giving and Sponsorship",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/helpout"
+        },
+        {
+            "text": "COPYRIGHT (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "TRADEMARK",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "THANKS",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "JavaScript license information",
+            "href": "https://www.eff.org/librejs/jslicense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/issues/security#"
+        }
+    ],
+    "text_length": 4685,
+    "text_full": "Skip to main content\nIf you use technology, this fight is yours.\nDONATE TODAY\nElectronic Frontier Foundation\nAbout\nIssues\nOur Work\nTake Action\nTools\nDonate\nSECURITY\n\nComputer security and the lack of computer security is a fundamental issue that underpins much of how the Internet does (and doesn't) function. Many of the policy issues that EFF works on are linked to security in deep ways including privacy and anonymity, DRM, censorship, and network neutrality.\n\nEFF works directly on a wide range of security issues including increased deployment of cryptographic protocols through projects like Certbot; improving the security of those protocols; offering legal assistance to researchers through our Coders' Rights Project; offering practical security advice to activists through the surveillance self-defense project; and working on the development of new security standards.\n\nSECURITY TOPICS\nSTATE-SPONSORED MALWARE\n2G\nCOMPUTER FRAUD AND ABUSE ACT REFORM\nELECTION SECURITY\nELECTRONIC FRONTIER ALLIANCE\nENCRYPTING THE WEB\nGOVERNMENT HACKING AND SUBVERSION OF DIGITAL SECURITY\nSECURITY EDUCATION\nSOPA/PIPA: INTERNET BLACKLIST LEGISLATION\nSECURITY HIGHLIGHTS\nISSUES\nEncrypting the Web\nThe web has largely switched from non-secure HTTP to the more secure HTTPS protocol. All web servers use one of these two protocols to get web pages from the server to your browser. HTTP has serious problems that make it vulnerable to eavesdropping and content hijacking. HTTPS fixes most of...\nRESOURCE\nSurveillance Self-Defense\nISSUES\nCoders' Rights Project\n\nEFF's Coders' Rights Project protects programmers and developers engaged in cutting-edge exploration of technology. Security and encryption researchers help build a safer future for all of us using digital technologies, but too many legitimate researchers face serious legal challenges that prevent or inhibit their work. These challenges come from laws...\n\nSECURITY UPDATES\nFILTER BY TYPE:\nALL\nDEEPLINKS BLOG BY RINDALA ALAJAJI | APRIL 30, 2026\nUtah’s New Law Targeting VPNs Goes Into Effect May 6th\n\nUpdate, May 11, 2026: Utah has agreed to not enforce the VPN law until Sept. 3, 2026 after Aylo, the parent company of Pornhub.com, challenged the law in court.For the last couple of years, we’ve watched the same predictable cycle play out across the globe: a state (or country) passes...\n\nDEEPLINKS BLOG BY THORIN KLOSOWSKI | APRIL 16, 2026\nHow Push Notifications Can Betray Your Privacy (and What to Do About It)\nA phone’s push notifications can contain a significant amount of information about you, your communications, and what you do throughout the day. And there are myriad ways that law enforcement can access the content or metadata of push notifications. Let’s fix that.\nDEEPLINKS BLOG BY JOSH RICHMAN | MARCH 17, 2026\nBonus Podcast Episode: Privacy’s Defender - Cindy Cohn with Cory Doctorow\n\nWhile How to Fix the Internet is on hiatus, we wanted to share a great conversation with you from last week. EFF Executive Director Cindy Cohn spoke with bestselling novelist, journalist, and EFF Special Advisor Cory Doctorow about Cindy’s new book, “Privacy’s Defender: My Thirty-Year Fight Against Digital Surveillance” (...\n\nDEEPLINKS BLOG BY JACOB HOFFMAN-ANDREWS | MARCH 11, 2026\nCertbot and Let's Encrypt Now Support IP Address Certificates\n\n(Note: This post is also cross-posted on the Let's Encrypt blog)As announced earlier this year, Let's Encrypt now issues IP address and six-day certificates to the general public. The Certbot team here at the Electronic Frontier Foundation has been working on two improvements to support these features:...\n\nDEEPLINKS BLOG BY JACOB HOFFMAN-ANDREWS | FEBRUARY 25, 2026\nHow to Pick Your Password Manager\nPhishing and data breaches are a constant on the internet. The single best defense against both is to use a password manager to generate and automatically fill a unique password for every site. There are free options, and even ones built into your operating system or browser. We can help...\nPAGES\n1 2 3 4 5 6 7 8 9 NEXT › LAST »\nFOLLOW EFF:\nmastodon\nfacebook\ninstagram\nBlue Sky\nyoutube\nflicker\nlinkedin\ntiktok\nthreads\n\nCheck out our 4-star rating on Charity Navigator.\n\nCONTACT\nGeneral\nLegal\nSecurity\nMembership\nPress\nABOUT\nCalendar\nVolunteer\nVictories\nHistory\nInternships\nJobs\nStaff\nDiversity & Inclusion\nISSUES\nFree Speech\nPrivacy\nCreativity & Innovation\nTransparency\nInternational\nSecurity\nUPDATES\nBlog\nPress Releases\nEvents\nLegal Cases\nWhitepapers\nEFFector Newsletter\nPRESS\nPress Contact\nDONATE\nJoin or Renew Membership Online\nOne-Time Donation Online\nGiving Societies\nCorporate Giving and Sponsorship\nShop\nOther Ways to Give\nCOPYRIGHT (CC BY)\nTRADEMARK\nPRIVACY POLICY\nTHANKS"
+}

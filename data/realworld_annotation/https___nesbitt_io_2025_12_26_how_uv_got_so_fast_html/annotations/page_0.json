@@ -1,0 +1,195 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 46,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "python",
+            "href": "https://nesbitt.io/search#python"
+        },
+        {
+            "text": "deep-dive",
+            "href": "https://nesbitt.io/search#deep-dive"
+        },
+        {
+            "text": "Jane Street talk",
+            "href": "https://www.janestreet.com/tech-talks/uv-an-extremely-fast-python-package-manager/"
+        },
+        {
+            "text": "Xebia engineering deep-dive",
+            "href": "https://xebia.com/blog/uv-the-engineering-secrets-behind-pythons-speed-king/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#the-standards-that-made-uv-possible"
+        },
+        {
+            "text": "setup.py",
+            "href": "https://setuptools.pypa.io/"
+        },
+        {
+            "text": "PEP 518",
+            "href": "https://peps.python.org/pep-0518/"
+        },
+        {
+            "text": "PEP 518",
+            "href": "https://peps.python.org/pep-0518/"
+        },
+        {
+            "text": "PEP 517",
+            "href": "https://peps.python.org/pep-0517/"
+        },
+        {
+            "text": "PEP 621",
+            "href": "https://peps.python.org/pep-0621/"
+        },
+        {
+            "text": "PEP 658",
+            "href": "https://peps.python.org/pep-0658/"
+        },
+        {
+            "text": "May 2023",
+            "href": "https://discuss.python.org/t/pep-658-714-are-now-live-on-pypi/26693"
+        },
+        {
+            "text": "February 2024",
+            "href": "https://astral.sh/blog/uv"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#what-uv-drops"
+        },
+        {
+            "text": "compatibility documentation",
+            "href": "https://docs.astral.sh/uv/pip/compatibility/"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#optimizations-that-dont-need-rust"
+        },
+        {
+            "text": "Wheel files",
+            "href": "https://packaging.python.org/en/latest/specifications/binary-distribution-format/"
+        },
+        {
+            "text": "hardlinks",
+            "href": "https://en.wikipedia.org/wiki/Hard_link"
+        },
+        {
+            "text": "PubGrub algorithm",
+            "href": "https://github.com/dart-lang/pub/blob/master/doc/solver.md"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#where-rust-actually-matters"
+        },
+        {
+            "text": "rkyv",
+            "href": "https://rkyv.org/"
+        },
+        {
+            "text": "1",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#fn:1"
+        },
+        {
+            "text": "1",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#fn:1"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#design-over-language"
+        },
+        {
+            "text": "tef",
+            "href": "https://tef.computer/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#fnref:1"
+        },
+        {
+            "text": "↩2",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html#fnref:1:1"
+        },
+        {
+            "text": "Common Package Specification",
+            "href": "https://nesbitt.io/2026/04/13/common-package-specification.html"
+        },
+        {
+            "text": "The Roles of Packages",
+            "href": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html"
+        },
+        {
+            "text": "What's Going On with FAIR Package Manager",
+            "href": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html"
+        },
+        {
+            "text": "If It Quacks Like a Package Manager",
+            "href": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+        },
+        {
+            "text": "Package Managers Need to Cool Down",
+            "href": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-12-26-how-uv-got-so-fast.md"
+        }
+    ],
+    "text_length": 8872,
+    "text_full": "Andrew Nesbitt\n      \nHow uv got so fast\npackage-managerspythondeep-dive\n\nDec 26, 2025\n\nuv installs packages faster than pip by an order of magnitude. The usual explanation is “it’s written in Rust.” That’s true, but it doesn’t explain much. Plenty of tools are written in Rust without being notably fast. The interesting question is what design decisions made the difference.\n\nCharlie Marsh’s Jane Street talk and a Xebia engineering deep-dive cover the technical details well. The interesting parts are the design decisions: standards that enable fast paths, things uv drops that pip supports, and optimizations that don’t require Rust at all.\n\nThe standards that made uv possible#\n\npip’s slowness isn’t a failure of implementation. For years, Python packaging required executing code to find out what a package needed.\n\nThe problem was setup.py. You couldn’t know a package’s dependencies without running its setup script. But you couldn’t run its setup script without installing its build dependencies. PEP 518 in 2016 called this out explicitly: “You can’t execute a setup.py file without knowing its dependencies, but currently there is no standard way to know what those dependencies are in an automated fashion without executing the setup.py file.”\n\nThis chicken-and-egg problem forced pip to download packages, execute untrusted code, fail, install missing build tools, and try again. Every install was potentially a cascade of subprocess spawns and arbitrary code execution. Installing a source distribution was essentially curl | bash with extra steps.\n\nThe fix came in stages:\n\nPEP 518 (2016) created pyproject.toml, giving packages a place to declare build dependencies without code execution. The TOML format was borrowed from Rust’s Cargo, which makes a Rust tool returning to fix Python packaging feel less like coincidence.\nPEP 517 (2017) separated build frontends from backends, so pip didn’t need to understand setuptools internals.\nPEP 621 (2020) standardized the [project] table, so dependencies could be read by parsing TOML rather than running Python.\nPEP 658 (2022) put package metadata directly in the Simple Repository API, so resolvers could fetch dependency information without downloading wheels at all.\n\nPEP 658 went live on PyPI in May 2023. uv launched in February 2024. uv could be fast because the ecosystem finally had the infrastructure to support it. A tool like uv couldn’t have shipped in 2020. The standards weren’t there yet.\n\nOther ecosystems figured this out earlier. Cargo has had static metadata from the start. npm’s package.json is declarative. Python’s packaging standards finally bring it to parity.\n\nWhat uv drops#\n\nSpeed comes from elimination. Every code path you don’t have is a code path you don’t wait for.\n\nuv’s compatibility documentation is a list of things it doesn’t do:\n\nNo .egg support. Eggs were the pre-wheel binary format. pip still handles them; uv doesn’t even try. The format has been obsolete for over a decade.\n\nNo pip.conf. uv ignores pip’s configuration files entirely. No parsing, no environment variable lookups, no inheritance from system-wide and per-user locations.\n\nNo bytecode compilation by default. pip compiles .py files to .pyc during installation. uv skips this step, shaving time off every install. You can opt in if you want it.\n\nVirtual environments required. pip lets you install into system Python by default. uv inverts this, refusing to touch system Python without explicit flags. This removes a whole category of permission checks and safety code.\n\nStricter spec enforcement. pip accepts malformed packages that technically violate packaging specs. uv rejects them. Less tolerance means less fallback logic.\n\nIgnoring requires-python upper bounds. When a package says it requires python<4.0, uv ignores the upper bound and only checks the lower. This reduces resolver backtracking dramatically since upper bounds are almost always wrong. Packages declare python<4.0 because they haven’t tested on Python 4, not because they’ll actually break. The constraint is defensive, not predictive.\n\nFirst-index wins by default. When multiple package indexes are configured, pip checks all of them. uv picks from the first index that has the package, stopping there. This prevents dependency confusion attacks and avoids extra network requests.\n\nEach of these is a code path pip has to execute and uv doesn’t.\n\nOptimizations that don’t need Rust#\n\nSome of uv’s speed comes from Rust. But not as much as you’d think. Several key optimizations could be implemented in pip today:\n\nHTTP range requests for metadata. Wheel files are zip archives, and zip archives put their file listing at the end. uv tries PEP 658 metadata first, falls back to HTTP range requests for the zip central directory, then full wheel download, then building from source. Each step is slower and riskier. The design makes the fast path cover 99% of cases. None of this requires Rust.\n\nParallel downloads. pip downloads packages one at a time. uv downloads many at once. Any language can do this.\n\nGlobal cache with hardlinks. pip copies packages into each virtual environment. uv keeps one copy globally and uses hardlinks (or copy-on-write on filesystems that support it). Installing the same package into ten venvs takes the same disk space as one. Any language with filesystem access can do this.\n\nPython-free resolution. pip needs Python running to do anything, and invokes build backends as subprocesses to get metadata from legacy packages. uv parses TOML and wheel metadata natively, only spawning Python when it hits a setup.py-only package that has no other option.\n\nPubGrub resolver. uv uses the PubGrub algorithm, originally from Dart’s pub package manager. Both pip and PubGrub use backtracking, but PubGrub applies conflict-driven clause learning from SAT solvers: when it hits a dead end, it analyzes why and skips similar dead ends later. This makes it faster on complex dependency graphs and better at explaining failures. pip could adopt PubGrub without rewriting in Rust.\n\nWhere Rust actually matters#\n\nSome optimizations do require Rust:\n\nZero-copy deserialization. uv uses rkyv to deserialize cached data without copying it. The data format is the in-memory format. Libraries like FlatBuffers achieve this in other languages, but rkyv integrates tightly with Rust’s type system.1\n\nThread-level parallelism. Python’s GIL forces parallel work into separate processes, with IPC overhead and data copying. Rust can parallelize across threads natively, sharing memory without serialization boundaries. This matters most for resolution, where the solver explores many version combinations.1\n\nNo interpreter startup. Every time pip spawns a subprocess, it pays Python’s startup cost. uv is a single static binary with no runtime to initialize.\n\nCompact version representation. uv packs versions into u64 integers where possible, making comparison and hashing fast. Over 90% of versions fit in one u64. This is micro-optimization that compounds across millions of comparisons.\n\nThese are real advantages. But they’re smaller than the architectural wins from dropping legacy support and exploiting modern standards.\n\nDesign over language#\n\nuv is fast because of what it doesn’t do, not because of what language it’s written in. The standards work of PEP 518, 517, 621, and 658 made fast package management possible. Dropping eggs, pip.conf, and permissive parsing made it achievable. Rust makes it a bit faster still.\n\npip could implement parallel downloads, global caching, and metadata-only resolution tomorrow. It doesn’t, largely because backwards compatibility with fifteen years of edge cases takes precedence. But it means pip will always be slower than a tool that starts fresh with modern assumptions.\n\nOther package managers could learn from this: static metadata, no code execution to discover dependencies, and the ability to resolve everything upfront before downloading. Cargo and npm have operated this way for years. If your ecosystem requires running arbitrary code to find out what a package needs, you’ve already lost.\n\nAn earlier version of this post overstated how Rust-specific these techniques are. Thanks to tef for the correction. ↩ ↩2\n\nRelated posts\nCommon Package Specification Apr 13, 2026\n\nNot the cross-ecosystem format the name suggests.\n\nThe Roles of Packages Mar 29, 2026\n\nApplying Sajaniemi's roles of variables to packages across every kind of package manager.\n\nWhat's Going On with FAIR Package Manager Mar 14, 2026\n\nFederated FAIR pivots from WordPress to TYPO3\n\nIf It Quacks Like a Package Manager Mar 8, 2026\n\nSome tools waddle like package managers without learning to swim.\n\nPackage Managers Need to Cool Down Mar 4, 2026\n\nA survey of dependency cooldown support across package managers and update tools.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}

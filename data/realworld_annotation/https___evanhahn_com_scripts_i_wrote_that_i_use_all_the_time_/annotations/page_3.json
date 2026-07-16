@@ -1,0 +1,165 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 38,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#dotfiles",
+            "href": "https://evanhahn.com/tags/dotfiles/"
+        },
+        {
+            "text": "#reflection",
+            "href": "https://evanhahn.com/tags/reflection/"
+        },
+        {
+            "text": "my dotfiles repository",
+            "href": "https://codeberg.org/EvanHahn/dotfiles"
+        },
+        {
+            "text": "entr",
+            "href": "https://eradman.com/entrproject/"
+        },
+        {
+            "text": "ffmpeg",
+            "href": "https://ffmpeg.org/"
+        },
+        {
+            "text": "built a small tool to interactively set up ffmpeg commands",
+            "href": "https://evanhahn.github.io/ffmpeg-buddy/"
+        },
+        {
+            "text": "shellcheck",
+            "href": "https://www.shellcheck.net/"
+        },
+        {
+            "text": "stow",
+            "href": "https://www.gnu.org/software/stow/"
+        },
+        {
+            "text": "tig",
+            "href": "https://jonas.github.io/tig/"
+        },
+        {
+            "text": "youtube-dl",
+            "href": "https://youtube-dl.org/"
+        },
+        {
+            "text": "z",
+            "href": "https://github.com/rupa/z"
+        },
+        {
+            "text": "boop",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/f7a9d94ae2254cb7e5f67e6e5bdb74b6467f6dec/home/zsh/.config/zsh/aliases.zsh#L53-L61"
+        },
+        {
+            "text": "jsproj",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/bin/bin/jsproj"
+        },
+        {
+            "text": "lilvagrant",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/bin/bin/lilvagrant"
+        },
+        {
+            "text": "murder",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/bin/bin/murder"
+        },
+        {
+            "text": "running",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/bin/bin/running"
+        },
+        {
+            "text": "theme",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/bin/bin/theme"
+        },
+        {
+            "text": "There exist more elegant solutions",
+            "href": "https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/"
+        },
+        {
+            "text": "a full blog post",
+            "href": "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/"
+        },
+        {
+            "text": "Stow",
+            "href": "https://www.gnu.org/software/stow/"
+        },
+        {
+            "text": "the common vimrc_local pattern",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/vim/.config/nvim/init.vim#L296-L300"
+        },
+        {
+            "text": "Installing the GNU versions of tools like grep on macOS",
+            "href": "https://apple.stackexchange.com/a/69332"
+        },
+        {
+            "text": "my $EDITOR environment variable",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/zsh/.config/zsh/env.zsh#L18-L24"
+        },
+        {
+            "text": "gracefully handle cases where I can’t enable some option",
+            "href": "https://codeberg.org/EvanHahn/dotfiles/src/commit/ece393e625bb8254fe05774df33bb5af8a73d7e7/home/vim/.config/nvim/init.vim#L133-L137"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 7602,
+    "text_full": "A decade of dotfiles\nby Evan Hahn, posted May 29, 2022, tagged #dotfiles #reflection\n\nMy first commit to my dotfiles repository was ten years ago. Here are a few things I’ve learned about maintaining a system configuration in that time.\n\n(This will mostly be for macOS and Linux. I don’t have experience configuring Windows or FreeBSD machines, for example.)\n\nTools I like\nentr lets you run commands when files change. For example, ls | entr make will run make whenever any of the files from ls change. Many tools have flags like --watch which are usually better if available, but entr comes to the rescue in a number of situations. I use it to get rapid feedback on quick-and-dirty scripts (for example, ls my_script.rb | entr ruby my_script.rb) or when --watch flags don’t exist or don’t work (which happens to me a lot).\nffmpeg is well-known, but I love it. I use it to convert audio and video files a few times per week. I often forget the arguments so I built a small tool to interactively set up ffmpeg commands.\nshellcheck is a linter for shell scripts. Without it, I fear I’ll introduce some subtle computer-destroying bug into my Bash scripts. (I’ll probably introduce one anyway.)\nstow makes it easy to pull in configuration files piecemeal, and it’s what I use to “move” my dotfiles out of a repository folder and into a configuration folder.\ntig is an interactive ncurses-based interface for Git. I usually use it to navigate Git history. I prefer its UI to git log most of the time.\nyoutube-dl’s name is a bit of a misnomer: it downloads audio and video from a variety of different websites, including YouTube. It’s great for downloading audio and video for offline usage.\nz watches where you cd and learns the directories you frequent. Later, you can quickly jump from anywhere to one of these directories. For example, after a little while, z dotfiles takes me to my dotfiles directory.\nTools I made\nboop plays a happy sound if the previous command exited successfully (i.e., exited with status code 0) and a sad sound otherwise. For example, if I’m running a long-running test, I might run npm test ; boop. It helps me know whether something finished, and whether something went wrong.\njsproj isn’t something I expect anyone else to use, but it’s useful to quickly scaffold a project. I’ve got a few similar scripts, like lilvagrant, which are the same idea: create a few files and run some common commands.\nmurder is just an easier-to-use kill. It offers me two main features: (1) I don’t have to know the pid. murder node, for example, saves you a step (2) it starts by asking nicely with SIGTERM, waits a bit, and then gets more and more “aggressive” before eventually sending SIGKILL. It’s a simple script but I use it when a process really needs to be shut down.\nrunning is sugar on top of ps aux | grep $PROCESS, which I find a little hard to read sometimes.\ntheme lets me change the whole system from light to dark theme. It also updates configuration files. There exist more elegant solutions which I wanna try.\n\nIn another decade, I bet I’ll learn that half of these are already covered by built-ins that have been around since 1970.\n\nPrefer scripts over aliases\n\nI expanded this idea into a full blog post if you want to read more about this.\n\nLet’s say I want to have a custom command called foo. I could do this in one of three ways:\n\nAdd an alias to my shell configuration, like alias foo=...\nAdd a function in my shell configuration, like foo () { ... }\nWrite a full shell script, and add it to my $PATH\n\nI usually prefer to do the last option: a full shell script. It’s a bit more heavyweight, but it has a couple of advantages:\n\nYou don’t need to reload your shell when you work on it. If you decide you want foo to behave a little differently, just edit the script and you’re done. You can even add new scripts to the folder and they’ll automatically be available. With functions and aliases, you need to reload things before they’re available.\nYou have more choices of programming language. If you’re using Bash, aliases and functions have to be written in Bash. But scripts can be written in whatever you want, because they’re just executables like any other. I avoid writing scripts in compiled languages because I don’t want the complexity of a build step, but I could do it.\n\nI do this by having a folder, bin/, which I add to my $PATH.\n\nIt doesn’t work for everything. For example, I have a boop command (which I mentioned above) that needs access to the previous command’s exit status—as far as I know, that’s impossible with a script.\n\nEvery computer is different\n\nI’ve stopped trying to make my configuration work effortlessly on any computer. Some amount of manual work is required to scaffold a new machine. In other words, I don’t have a fancy provisioning script any more.\n\nWhat works well on macOS may not work well on Ubuntu, and what works well on your modern laptop might not work well on some old server. And don’t get me started on Windows—for better or worse, that’s a very different environment.\n\nI used to have setup scripts that would provision a new machine with a single command. These scripts got complicated and rarely worked exactly right. Instead, I try to organize things to be customizable per machine.\n\nThere are several parts to this:\n\nI pull in configuration files piecemeal. For example, if I want to use my standard Vim configuration but not my standard tmux configuration, I can. I use Stow for this, and only stow configurations I need for that particular system.\nI usually want per-machine configuration. For example, I use the common vimrc_local pattern. These files aren’t checked into my main dotfiles repository. It’s useful for things you might only want on, say, your work computer.\nI jump between macOS and Linux frequently, and there are many subtle differences to smooth out. Sometimes I try to make the experience consistent. Installing the GNU versions of tools like grep on macOS helps, as do aliases. The rest of the time, I don’t—making the experience perfectly seamless feels like a losing battle.\nI try to add fallbacks where relevant. For example, my $EDITOR environment variable tries nvim first, then vim, then vi. And, in my Vim configuration, I try to gracefully handle cases where I can’t enable some option.\n\nThe stuff above is certainly helpful, but I’d be lying if I said it was seamless. However, this piecemeal approach is simpler and is way less of a headache than trying to have fancy setup scripts. (For me, anyway!)\n\nThis probably wouldn’t work if I were provisioning machines frequently. I only provision a new machine a handful of times a year, and most of the time those are virtual machines. I’d probably want something more automatic if I did this more often.\n\nEvery person is different\n\nSaying that I’ve been maintaining my dotfiles for a decade is like saying that I’ve been decorating my home for a decade. I probably know what works for me, but that doesn’t mean I know what you’ll like!\n\nAnother ten years?\n\nWho knows what computing will look like in ten years? People are improving every part of the developer stack, from the operating system to the terminal to the editor, and my work changes a little bit every day. Maybe I won’t have any dotfiles in 2032, or maybe I’ll still be tweaking my .vimrc.\n\nIn any case, it’s been a lot of fun!\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

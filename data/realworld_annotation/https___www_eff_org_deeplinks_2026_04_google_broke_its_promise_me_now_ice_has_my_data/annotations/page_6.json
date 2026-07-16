@@ -1,0 +1,801 @@
+{
+    "image_count": 17,
+    "images": [
+        "https://www.eff.org/sites/all/themes/phoenix/images/logo-monogram-white.svg",
+        "https://www.eff.org/files/2026-membership-sitebanner-desktop-3_0.png",
+        "https://www.eff.org/files/2026-membership-sitebanner-mobile.png",
+        "https://www.eff.org/files/circuit-city-og-static.png",
+        "https://www.eff.org/files/2020/07/03/cindysignature.png",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/circuit-city-og-static.png?itok=97rx3gMe",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/circuit-city-og-static.png?itok=97rx3gMe",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/effectingeffturns35_banner_updated_0.png?itok=G4_fW-T1",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/circuit-city-og-static.png?itok=97rx3gMe",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/challenge-coin-2025-preview-v2.jpg?itok=x7kPcxGh",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/barlow-smile.jpg?itok=wNP6zw-E",
+        "https://www.eff.org/files/styles/highlight/public/eff-og.png?itok=NiNoPDQ1",
+        "https://www.eff.org/files/styles/highlight/public/eff-og.png?itok=NiNoPDQ1",
+        "https://www.eff.org/files/styles/highlight/public/banner_library/EFF-work-icons.png?itok=Y-SQ0RIn",
+        "https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg",
+        "https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/35&action_name=Celebrating%2035%20Years%20of%20EFF%20Wins%20%7C%20Electronic%20Frontier%20Foundation&urlref=",
+        ""
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 193,
+    "links": [
+        {
+            "text": "Skip to main content",
+            "href": "https://www.eff.org/35#main-content"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Join EFF Lists",
+            "href": "https://eff.org/signup"
+        },
+        {
+            "text": "Copyright (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "Trademark",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "Thanks",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--m"
+        },
+        {
+            "text": "DONATE TODAY",
+            "href": "https://supporters.eff.org/donate/spring--wssn"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SD"
+        },
+        {
+            "text": "",
+            "href": "https://supporters.eff.org/donate/spring--SM"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Foundation",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "About",
+            "href": "https://www.eff.org/about"
+        },
+        {
+            "text": "Contact",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "People",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Opportunities",
+            "href": "https://www.eff.org/about/opportunities"
+        },
+        {
+            "text": "EFF's 35th Anniversary",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Issues",
+            "href": "https://www.eff.org/work"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity and Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Our Work",
+            "href": "https://www.eff.org/updates"
+        },
+        {
+            "text": "Deeplinks Blog",
+            "href": "https://www.eff.org/deeplinks"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/events/list?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "Podcast",
+            "href": "https://www.eff.org/how-to-fix-the-internet-podcast"
+        },
+        {
+            "text": "Annual Reports",
+            "href": "https://www.eff.org/about/annual-reports-and-financials"
+        },
+        {
+            "text": "Take Action",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Action Center",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "Electronic Frontier Alliance",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Tools",
+            "href": "https://www.eff.org/pages/tools"
+        },
+        {
+            "text": "Privacy Badger",
+            "href": "https://www.eff.org/pages/privacy-badger"
+        },
+        {
+            "text": "Surveillance Self-Defense",
+            "href": "https://www.eff.org/pages/surveillance-self-defense"
+        },
+        {
+            "text": "Certbot",
+            "href": "https://www.eff.org/pages/certbot"
+        },
+        {
+            "text": "Atlas of Surveillance",
+            "href": "https://www.eff.org/pages/atlas-surveillance"
+        },
+        {
+            "text": "Cover Your Tracks",
+            "href": "https://www.eff.org/pages/cover-your-tracks"
+        },
+        {
+            "text": "Street Level Surveillance",
+            "href": "https://sls.eff.org/"
+        },
+        {
+            "text": "apkeep",
+            "href": "https://www.eff.org/pages/apkeep"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/join-eff-today"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Sponsorships",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "Membership FAQ",
+            "href": "https://www.eff.org/pages/membership-faq"
+        },
+        {
+            "text": "Donate",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Donate to EFF",
+            "href": "https://supporters.eff.org/donate/site-m--h"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/pages/other-ways-give-and-donor-support"
+        },
+        {
+            "text": "join EFF",
+            "href": "https://eff.org/r.90sy"
+        },
+        {
+            "text": "activism",
+            "href": "https://act.eff.org/"
+        },
+        {
+            "text": "tech projects",
+            "href": "https://www.eff.org/about/opportunities/volunteer/coding-with-eff"
+        },
+        {
+            "text": "digital security",
+            "href": "https://ssd.eff.org/"
+        },
+        {
+            "text": "local internet freedom supporters",
+            "href": "https://efa.eff.org/"
+        },
+        {
+            "text": "friends and loved ones,",
+            "href": "https://www.digitalrightsbytes.org/"
+        },
+        {
+            "text": "DONATE TO EFF",
+            "href": "https://eff.org/r.90sy"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/07/future-worth-fighting"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "We're Envisioning A Better Future",
+            "href": "https://www.eff.org/deeplinks/2025/07/future-worth-fighting"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/07/its-effs-35th-anniversary-and-were-just-getting-started"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "It's EFF's 35th Anniversary (And We're Just Getting Started)",
+            "href": "https://www.eff.org/deeplinks/2025/07/its-effs-35th-anniversary-and-were-just-getting-started"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/06/effecting-change-eff-turns-35"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "EFFecting Change: EFF Turns 35!",
+            "href": "https://www.eff.org/deeplinks/2025/06/effecting-change-eff-turns-35"
+        },
+        {
+            "text": "We're wishing EFF a happy birthday on July 10!",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/deeplinks/2025/06/35-years-internet-freedom"
+        },
+        {
+            "text": "DEEPLINKS BLOG",
+            "href": "https://www.eff.org/updates?type=blog"
+        },
+        {
+            "text": "35 Years for Your Freedom Online",
+            "href": "https://www.eff.org/deeplinks/2025/06/35-years-internet-freedom"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/35th-anniversary-challenge-coins"
+        },
+        {
+            "text": "35th Anniversary Challenge Coins",
+            "href": "https://www.eff.org/pages/35th-anniversary-challenge-coins"
+        },
+        {
+            "text": "Celebrating 35 Years of EFF Wins",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/across-electronic-frontier"
+        },
+        {
+            "text": "Across the Electronic Frontier",
+            "href": "https://www.eff.org/pages/across-electronic-frontier"
+        },
+        {
+            "text": "Celebrating 35 Years of EFF Wins",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/not-terribly-brief-history-electronic-frontier-foundation"
+        },
+        {
+            "text": "A Not Terribly Brief History of the Electronic Frontier Foundation",
+            "href": "https://www.eff.org/pages/not-terribly-brief-history-electronic-frontier-foundation"
+        },
+        {
+            "text": "Celebrating 35 Years of EFF Wins",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/pages/legal-victories-intro-text"
+        },
+        {
+            "text": "Legal Victories",
+            "href": "https://www.eff.org/pages/legal-victories-intro-text"
+        },
+        {
+            "text": "Celebrating 35 Years of EFF Wins",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "A History of Protecting Freedom Where Law and Technology Collide",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Celebrating 35 Years of EFF Wins",
+            "href": "https://www.eff.org/35"
+        },
+        {
+            "text": "Back to top",
+            "href": "https://www.eff.org/35#main-content"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/"
+        },
+        {
+            "text": "mastodon",
+            "href": "https://mastodon.social/@eff"
+        },
+        {
+            "text": "facebook",
+            "href": "https://www.facebook.com/eff"
+        },
+        {
+            "text": "instagram",
+            "href": "https://www.instagram.com/efforg/"
+        },
+        {
+            "text": "Blue Sky",
+            "href": "https://bsky.app/profile/eff.org"
+        },
+        {
+            "text": "youtube",
+            "href": "https://www.youtube.com/efforg"
+        },
+        {
+            "text": "flicker",
+            "href": "https://www.flickr.com/photos/electronicfrontierfoundation"
+        },
+        {
+            "text": "linkedin",
+            "href": "https://www.linkedin.com/company/EFF"
+        },
+        {
+            "text": "tiktok",
+            "href": "https://www.tiktok.com/@efforg"
+        },
+        {
+            "text": "threads",
+            "href": "https://www.threads.net/@efforg"
+        },
+        {
+            "text": "Charity Navigator",
+            "href": "https://www.charitynavigator.org/ein/043091431"
+        },
+        {
+            "text": "General",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Legal",
+            "href": "https://www.eff.org/pages/legal-assistance"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/security"
+        },
+        {
+            "text": "Membership",
+            "href": "https://www.eff.org/about/contact"
+        },
+        {
+            "text": "Press",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Calendar",
+            "href": "https://www.eff.org/event"
+        },
+        {
+            "text": "Volunteer",
+            "href": "https://www.eff.org/about/opportunities/volunteer"
+        },
+        {
+            "text": "Victories",
+            "href": "https://www.eff.org/victories"
+        },
+        {
+            "text": "History",
+            "href": "https://www.eff.org/about/history"
+        },
+        {
+            "text": "Internships",
+            "href": "https://www.eff.org/about/opportunities/interns"
+        },
+        {
+            "text": "Jobs",
+            "href": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=28620672D234BF368306CEB4A2746667"
+        },
+        {
+            "text": "Staff",
+            "href": "https://www.eff.org/about/staff"
+        },
+        {
+            "text": "Diversity & Inclusion",
+            "href": "https://www.eff.org/pages/effs-diversity-statement"
+        },
+        {
+            "text": "Free Speech",
+            "href": "https://www.eff.org/issues/free-speech"
+        },
+        {
+            "text": "Privacy",
+            "href": "https://www.eff.org/issues/privacy"
+        },
+        {
+            "text": "Creativity & Innovation",
+            "href": "https://www.eff.org/issues/innovation"
+        },
+        {
+            "text": "Transparency",
+            "href": "https://www.eff.org/issues/transparency"
+        },
+        {
+            "text": "International",
+            "href": "https://www.eff.org/issues/international"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.eff.org/issues/security"
+        },
+        {
+            "text": "Blog",
+            "href": "https://www.eff.org/deeplinks?type=blog"
+        },
+        {
+            "text": "Press Releases",
+            "href": "https://www.eff.org/updates?type=press_release"
+        },
+        {
+            "text": "Events",
+            "href": "https://www.eff.org/updates?type=event&type=event"
+        },
+        {
+            "text": "Legal Cases",
+            "href": "https://www.eff.org/pages/legal-cases"
+        },
+        {
+            "text": "Whitepapers",
+            "href": "https://www.eff.org/updates?type=whitepaper"
+        },
+        {
+            "text": "EFFector Newsletter",
+            "href": "https://www.eff.org/effector"
+        },
+        {
+            "text": "Press Contact",
+            "href": "https://www.eff.org/press/contact"
+        },
+        {
+            "text": "Join or Renew Membership Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "One-Time Donation Online",
+            "href": "https://supporters.eff.org/donate/donate-df"
+        },
+        {
+            "text": "Giving Societies",
+            "href": "https://www.eff.org/givingsociety"
+        },
+        {
+            "text": "Corporate Giving and Sponsorship",
+            "href": "https://www.eff.org/thanks#organizational_members"
+        },
+        {
+            "text": "Shop",
+            "href": "https://shop.eff.org/"
+        },
+        {
+            "text": "Other Ways to Give",
+            "href": "https://www.eff.org/helpout"
+        },
+        {
+            "text": "COPYRIGHT (CC BY)",
+            "href": "https://www.eff.org/copyright"
+        },
+        {
+            "text": "TRADEMARK",
+            "href": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
+            "text": "PRIVACY POLICY",
+            "href": "https://www.eff.org/policy"
+        },
+        {
+            "text": "THANKS",
+            "href": "https://www.eff.org/thanks"
+        },
+        {
+            "text": "JavaScript license information",
+            "href": "https://www.eff.org/librejs/jslicense"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        },
+        {
+            "text": "",
+            "href": "https://www.eff.org/35#"
+        }
+    ],
+    "text_length": 6311,
+    "text_full": "Skip to main content\nIf you use technology, this fight is yours.\nDONATE TODAY\nElectronic Frontier Foundation\nAbout\nIssues\nOur Work\nTake Action\nTools\nDonate\nCelebrating 35 Years of EFF Wins\n\nIn 1990, a small group of people caught a glimpse of the possibilities of the coming digital future and decided that the world needed a kick-ass defender to ensure that technology could empower people, rather than oppress them. EFF was born, and we’ve been fighting for you ever since.\n\nWe’ve won many of those fights for encryption, free speech, innovation, and privacy in too many battles to count. The rise of the internet meant that the dangers from corporate and state gatekeepers have grown as well: companies giddily lock down your software; online platforms throttle, censor, and wall off information; and state actors and advertisers scramble to capture your private thoughts and movements. Right now, it feels like the forces pushing for digital dystopia are surging.\n\nBut there's a not-so-secret weapon that keeps EFF in the fight, even when the odds are against us: we never lose sight of our vision for a better future.\n\nThe future we envision is possible. It’s a future where your device is truly yours. It’s a world where you can speak, move, and organize without the threat of pervasive surveillance. Your technology helps you connect with the people you care about, wherever they might be. With support from members around the world, EFF uses law, technology, and activism to create the conditions for human rights and civil liberties to flourish, and for repression to fail. After all, how can we achieve democracy and equity if you don’t first have privacy, security, and free expression?\n\nEFF uses law, technology, and activism to create the conditions for human rights and civil liberties to flourish, and for repression to fail.\n\nThroughout EFF’s year-long 35th Anniversary celebration, I’m joining our dedicated activists, investigators, technologists, and attorneys to use the lessons from EFF’s long and rich history to dynamically address and overcome the obstacles we face now. After all, EFF was founded at a time when governments were hostile and clueless about technology. Standing up to the powerful to defend the users is not a new posture, even as the context changes. Grounded in our principles and our vision of a better future, we will stand tall in the courts, before lawmakers, and in the streets. \n\nAs we celebrate its 35th birthday, EFF is vibrant nestled within an even bigger community where we protect each other, including the most vulnerable and marginalized among us.  There are more ways than ever that you can pitch in.  You can join EFF, take part in activism, contribute code to our tech projects, learn about digital security, connect with local internet freedom supporters, or simply share the issues you care about with friends and loved ones, just to name a few.\n\nBelieve me when I say that contributing some good to the world can take the edge off even the darkest of days, and that the digital rights community is stronger and more diverse than ever before. I hope you’ll stand with us and remember that EFF is—and always has been—here for you, too.\n\nFor your rights online,\n\n\nCindy Cohn\nEFF Executive Director\n\n \n\nCELEBRATE EFF'S 35TH ANNIVERSARY AND HELP PROTECT FREEDOM ONLINE\n\nDONATE TO EFF\n\nDEEPLINKS BLOG | JULY 22, 2025\nWe're Envisioning A Better Future\nFrom people soaring through the sky, to space cats, geometric unicorns, and (so many) mechas—our team is always imagining what the future could look like when we get things right. We're determined to build a better future and with your help, we're not backing down.\nDEEPLINKS BLOG | JULY 10, 2025\nIt's EFF's 35th Anniversary (And We're Just Getting Started)\nToday we celebrate 35 years of EFF bearing the torch for digital rights against the darkness of the world. While threats from state and commercial forces grew alongside the internet, so too did EFF’s expertise.\nDEEPLINKS BLOG | JULY 1, 2025\nEFFecting Change: EFF Turns 35!\n\nWe're wishing EFF a happy birthday on July 10! Since 1990, EFF's lawyers, activists, analysts, and technologists have used everything in their toolkit to ensure that technology supports freedom, justice, and innovation for all people of the world. They've seen it all and in this special edition of our...\n\nDEEPLINKS BLOG | JUNE 10, 2025\n35 Years for Your Freedom Online\nIn 1990, a small group saw the coming digital future and banded together to ensure that technology would empower people, not oppress them—and EFF was born. While the dangers of corporate and state forces grew alongside the internet, EFF and supporters like you faithfully rose to the occasion.\nSTORYPAGE\n35th Anniversary Challenge Coins\n\nWith your help, EFF is here to stay. Become a Sustaining Donor to receive a 35th Anniversary Challenge Coin.\n\nCelebrating 35 Years of EFF Wins\nSTORYPAGE\nAcross the Electronic Frontier\n\nby: Mitchell Kapor and John Perry Barlow\n    Electronic Frontier Foundation\n    Washington, D.C.\n    July 10, 1990\n\nCelebrating 35 Years of EFF Wins\nSTORYPAGE\nA Not Terribly Brief History of the Electronic Frontier Foundation\nby John Perry Barlow\n\nThursday, November 8, 1990\n\nCelebrating 35 Years of EFF Wins\nSTORYPAGE\nLegal Victories\n\nSince its founding in 1990, EFF has consistently taken critical cases, challenged tough opponents, and achieved landmark victories.\n\nCelebrating 35 Years of EFF Wins\nSTORYPAGE\nA History of Protecting Freedom Where Law and Technology Collide\n\nThe Electronic Frontier Foundation was founded in July of 1990 in response to a basic threat to speech and privacy.\n\nCelebrating 35 Years of EFF Wins\nFOLLOW EFF:\nmastodon\nfacebook\ninstagram\nBlue Sky\nyoutube\nflicker\nlinkedin\ntiktok\nthreads\n\nCheck out our 4-star rating on Charity Navigator.\n\nCONTACT\nGeneral\nLegal\nSecurity\nMembership\nPress\nABOUT\nCalendar\nVolunteer\nVictories\nHistory\nInternships\nJobs\nStaff\nDiversity & Inclusion\nISSUES\nFree Speech\nPrivacy\nCreativity & Innovation\nTransparency\nInternational\nSecurity\nUPDATES\nBlog\nPress Releases\nEvents\nLegal Cases\nWhitepapers\nEFFector Newsletter\nPRESS\nPress Contact\nDONATE\nJoin or Renew Membership Online\nOne-Time Donation Online\nGiving Societies\nCorporate Giving and Sponsorship\nShop\nOther Ways to Give\nCOPYRIGHT (CC BY)\nTRADEMARK\nPRIVACY POLICY\nTHANKS"
+}

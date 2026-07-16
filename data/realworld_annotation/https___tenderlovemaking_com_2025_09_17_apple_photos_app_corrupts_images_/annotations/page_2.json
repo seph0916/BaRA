@@ -1,0 +1,702 @@
+{
+    "image_count": 6,
+    "images": [
+        "https://tenderlovemaking.com/images/logo1.png",
+        "https://tenderlovemaking.com/images/mastodon-icon.svg",
+        "https://tenderlovemaking.com/images/bluesky.svg",
+        "https://tenderlovemaking.com/images/github-icon.svg",
+        "https://tenderlovemaking.com/images/instagram-icon.svg",
+        "https://tenderlovemaking.com/images/x.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 171,
+    "links": [
+        {
+            "text": "",
+            "href": "https://tenderlovemaking.com/"
+        },
+        {
+            "text": "Rails Security, AI, and IBB",
+            "href": "https://tenderlovemaking.com/2026/05/06/rails-security-ai-and-ibb/"
+        },
+        {
+            "text": "Bainbridge Island Mochi Tsuki",
+            "href": "https://tenderlovemaking.com/shots/2026-01-19-bainbridge-island-mochi-tsuki/"
+        },
+        {
+            "text": "Pixoo64 Ruby Client",
+            "href": "https://tenderlovemaking.com/2026/01/01/pixoo64-ruby-client/"
+        },
+        {
+            "text": "Cat Pics",
+            "href": "https://tenderlovemaking.com/shots/2025-12-30-cat-pics/"
+        },
+        {
+            "text": "Can Bundler Be as Fast as uv?",
+            "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
+        },
+        {
+            "text": "Happy Holidays",
+            "href": "https://tenderlovemaking.com/shots/2025-12-22-happy-holidays/"
+        },
+        {
+            "text": "Seattle Waterfront",
+            "href": "https://tenderlovemaking.com/shots/2025-12-16-seattle-waterfront/"
+        },
+        {
+            "text": "Seattle Downtown Library",
+            "href": "https://tenderlovemaking.com/shots/2025-11-30-public-library/"
+        },
+        {
+            "text": "Apple Photos App Corrupts Images",
+            "href": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/"
+        },
+        {
+            "text": "File preallocation on macOS in Ruby",
+            "href": "https://tenderlovemaking.com/2025/09/10/file-preallocation-on-macos-in-ruby/"
+        },
+        {
+            "text": "Monkey Patch Detection in Ruby",
+            "href": "https://tenderlovemaking.com/2024/10/16/monkey-patch-detection-in-ruby/"
+        },
+        {
+            "text": "Eliminating Intermediate Array Allocations",
+            "href": "https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/"
+        },
+        {
+            "text": "Using Serial Ports with Ruby",
+            "href": "https://tenderlovemaking.com/2024/02/16/using-serial-ports-with-ruby/"
+        },
+        {
+            "text": "Fast Tokenizers with StringScanner",
+            "href": "https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner/"
+        },
+        {
+            "text": "Bitmap Matrix and Undirected Graphs in Ruby",
+            "href": "https://tenderlovemaking.com/2023/03/19/bitmap-matrix-and-undirected-graphs-in-ruby/"
+        },
+        {
+            "text": "Vim, tmux, and Fish",
+            "href": "https://tenderlovemaking.com/2023/01/18/vim-tmux-and-fish/"
+        },
+        {
+            "text": "In Memory of a Giant",
+            "href": "https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant/"
+        },
+        {
+            "text": "Cross Platform Machine Code",
+            "href": "https://tenderlovemaking.com/2022/06/12/cross-platform-machine-code/"
+        },
+        {
+            "text": "Homebrew, Rosetta, and Ruby",
+            "href": "https://tenderlovemaking.com/2022/01/07/homebrew-rosetta-and-ruby/"
+        },
+        {
+            "text": "Publishing Gems With Your YubiKey",
+            "href": "https://tenderlovemaking.com/2021/10/26/publishing-gems-with-your-yubikey/"
+        },
+        {
+            "text": "Debugging an Assertion Error in Ruby",
+            "href": "https://tenderlovemaking.com/2021/02/03/debugging-an-assertion-error-in-ruby/"
+        },
+        {
+            "text": "Counting Write Barrier Unprotected Objects",
+            "href": "https://tenderlovemaking.com/2020/08/26/counting-write-barrier-unprotected-objects/"
+        },
+        {
+            "text": "Guide to String Encoding in Ruby",
+            "href": "https://tenderlovemaking.com/2020/01/13/guide-to-string-encoding-in-ruby/"
+        },
+        {
+            "text": "My Career Goals",
+            "href": "https://tenderlovemaking.com/2019/10/12/my-career-goals/"
+        },
+        {
+            "text": "ESP8266 and Plantower Particle Sensor",
+            "href": "https://tenderlovemaking.com/2019/09/03/esp8266-and-plantower-particle-sensor/"
+        },
+        {
+            "text": "Instance Variable Performance",
+            "href": "https://tenderlovemaking.com/2019/06/26/instance-variable-performance/"
+        },
+        {
+            "text": "Speeding up Ruby with Shared Strings",
+            "href": "https://tenderlovemaking.com/2018/02/12/speeding-up-ruby-with-shared-strings/"
+        },
+        {
+            "text": "Reducing Memory Usage in Ruby",
+            "href": "https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby/"
+        },
+        {
+            "text": "Visualizing Your Ruby Heap",
+            "href": "https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap/"
+        },
+        {
+            "text": "Object ID in MRI",
+            "href": "https://tenderlovemaking.com/2017/02/01/object-id-in-mri/"
+        },
+        {
+            "text": "Evented GPIO on Raspberry PI with Ruby",
+            "href": "https://tenderlovemaking.com/2017/01/17/evented-gpio-on-raspberry-pi-with-ruby/"
+        },
+        {
+            "text": "I am a puts debuggerer",
+            "href": "https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer/"
+        },
+        {
+            "text": "Inline caching in MRI",
+            "href": "https://tenderlovemaking.com/2015/12/23/inline-caching-in-mri/"
+        },
+        {
+            "text": "Predicting Test Failures",
+            "href": "https://tenderlovemaking.com/2015/02/13/predicting-test-failures/"
+        },
+        {
+            "text": "Weird stuff with hashes",
+            "href": "https://tenderlovemaking.com/2015/02/11/weird-stuff-with-hashes/"
+        },
+        {
+            "text": "My experience with Minitest and RSpec",
+            "href": "https://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec/"
+        },
+        {
+            "text": "YAGNI methods slow us down",
+            "href": "https://tenderlovemaking.com/2014/06/04/yagni-methods-slow-us-down/"
+        },
+        {
+            "text": "YAGNI methods are killing me",
+            "href": "https://tenderlovemaking.com/2014/06/02/yagni-methods-are-killing-me/"
+        },
+        {
+            "text": "Webcam photos with Ruby",
+            "href": "https://tenderlovemaking.com/2014/03/26/webcam-photos-with-ruby/"
+        },
+        {
+            "text": "AdequateRecord Pro™: Like ActiveRecord, but more adequate",
+            "href": "https://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord-but-more-adequate/"
+        },
+        {
+            "text": "Me And Facebook Open Academy",
+            "href": "https://tenderlovemaking.com/2014/02/10/me-and-facebook-open-academy/"
+        },
+        {
+            "text": "Enabling ttyO1 on BeagleBone",
+            "href": "https://tenderlovemaking.com/2014/01/19/enabling-ttyo1-on-beaglebone/"
+        },
+        {
+            "text": "One Danger of Freedom Patches",
+            "href": "https://tenderlovemaking.com/2013/05/21/one-danger-of-freedom-patches/"
+        },
+        {
+            "text": "Dynamic Method Definitions",
+            "href": "https://tenderlovemaking.com/2013/03/03/dynamic-method-definitions/"
+        },
+        {
+            "text": "YAML f7u12",
+            "href": "https://tenderlovemaking.com/2013/02/06/yaml-f7u12/"
+        },
+        {
+            "text": "Rails 4 and your Gemfile",
+            "href": "https://tenderlovemaking.com/2012/12/18/rails-4-and-your-gemfile/"
+        },
+        {
+            "text": "Protected Methods and Ruby 2.0",
+            "href": "https://tenderlovemaking.com/2012/09/07/protected-methods-and-ruby-2.0/"
+        },
+        {
+            "text": "Is it live?",
+            "href": "https://tenderlovemaking.com/2012/07/30/is-it-live/"
+        },
+        {
+            "text": "Removing config.threadsafe!",
+            "href": "https://tenderlovemaking.com/2012/06/18/removing-config.threadsafe/"
+        },
+        {
+            "text": "Ten Years of Nerd Club",
+            "href": "https://tenderlovemaking.com/2012/02/16/ten-years-of-nerd-club/"
+        },
+        {
+            "text": "Profiling Rails startup with DTrace",
+            "href": "https://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace/"
+        },
+        {
+            "text": "PSA: The number of gems installed on your system can impact rails boot time",
+            "href": "https://tenderlovemaking.com/2011/11/30/psa-the-number-of-gems-installed-on-your-system-can-impact-rails-boot-time/"
+        },
+        {
+            "text": "Connection Management in ActiveRecord",
+            "href": "https://tenderlovemaking.com/2011/10/20/connection-management-in-activerecord/"
+        },
+        {
+            "text": "I want DTrace probes in Ruby",
+            "href": "https://tenderlovemaking.com/2011/06/29/i-want-dtrace-probes-in-ruby/"
+        },
+        {
+            "text": "TIL: It's OK to return nil from to_ary",
+            "href": "https://tenderlovemaking.com/2011/06/28/til-its-ok-to-return-nil-from-to_ary/"
+        },
+        {
+            "text": "Mechanize 2.0.0 has been released!",
+            "href": "https://tenderlovemaking.com/2011/06/27/mechanize-2.0.0-has-been-released/"
+        },
+        {
+            "text": "Rack API is awkward",
+            "href": "https://tenderlovemaking.com/2011/03/03/rack-api-is-awkward/"
+        },
+        {
+            "text": "RubyCommitters.org winners",
+            "href": "https://tenderlovemaking.com/2011/01/21/rubycommitters.org-winners/"
+        },
+        {
+            "text": "Ruby Committers Design Contest Update!",
+            "href": "https://tenderlovemaking.com/2011/01/20/ruby-committers-design-contest-update/"
+        },
+        {
+            "text": "rubycommitters.org design contest!",
+            "href": "https://tenderlovemaking.com/2011/01/04/rubycommitters.org-design-contest/"
+        },
+        {
+            "text": "Writing Ruby C Extensions: Part 2",
+            "href": "https://tenderlovemaking.com/2010/12/11/writing-ruby-c-extensions-part-2/"
+        },
+        {
+            "text": "Ruby Advent Calendar",
+            "href": "https://tenderlovemaking.com/2010/12/09/ruby-advent-calendar/"
+        },
+        {
+            "text": "Event based JSON and YAML parsing",
+            "href": "https://tenderlovemaking.com/2010/04/17/event-based-json-and-yaml-parsing/"
+        },
+        {
+            "text": "Compiling with Clang",
+            "href": "https://tenderlovemaking.com/2010/01/03/compiling-with-clang/"
+        },
+        {
+            "text": "Writing Ruby C extensions: Part 1",
+            "href": "https://tenderlovemaking.com/2009/12/18/writing-ruby-c-extensions-part-1/"
+        },
+        {
+            "text": "Rubyconf 2009 Slides",
+            "href": "https://tenderlovemaking.com/2009/12/07/rubyconf-2009-slides/"
+        },
+        {
+            "text": "Full Text Search on Heroku",
+            "href": "https://tenderlovemaking.com/2009/10/17/full-text-search-on-heroku/"
+        },
+        {
+            "text": "String Encoding in Ruby 1.9 C extensions",
+            "href": "https://tenderlovemaking.com/2009/06/26/string-encoding-in-ruby-1.9-c-extensions/"
+        },
+        {
+            "text": "Easy Markup Validation",
+            "href": "https://tenderlovemaking.com/2009/06/12/easy-markup-validation/"
+        },
+        {
+            "text": "Fat binary gems make the rockin' world go round",
+            "href": "https://tenderlovemaking.com/2009/05/07/fat-binary-gems-make-the-rockin-world-go-round/"
+        },
+        {
+            "text": "[ANN] nokogiri 1.3.0rc1 has been released!",
+            "href": "https://tenderlovemaking.com/2009/05/06/ann-nokogiri-1.3.0rc1-has-been-released/"
+        },
+        {
+            "text": "Namespaces in XML",
+            "href": "https://tenderlovemaking.com/2009/04/23/namespaces-in-xml/"
+        },
+        {
+            "text": "Testing JavaScript Outside the Browser",
+            "href": "https://tenderlovemaking.com/2009/04/05/testing-javascript-outside-the-browser/"
+        },
+        {
+            "text": "Custom CSS functions in Nokogiri",
+            "href": "https://tenderlovemaking.com/2009/02/07/custom-css-functions-in-nokogiri/"
+        },
+        {
+            "text": "Nokogiri's Slop Feature",
+            "href": "https://tenderlovemaking.com/2008/12/04/nokogiris-slop-feature/"
+        },
+        {
+            "text": "Cross Compiling Ruby Gems for win32",
+            "href": "https://tenderlovemaking.com/2008/11/21/cross-compiling-ruby-gems-for-win32/"
+        },
+        {
+            "text": "Underpant-Free Excitement",
+            "href": "https://tenderlovemaking.com/2008/11/18/underpant-free-excitement/"
+        },
+        {
+            "text": "RubyConf Slides",
+            "href": "https://tenderlovemaking.com/2008/11/11/rubyconf-slides/"
+        },
+        {
+            "text": "Nokogiri Is Released",
+            "href": "https://tenderlovemaking.com/2008/10/30/nokogiri-is-released/"
+        },
+        {
+            "text": "Identifying unknown music with Ruby",
+            "href": "https://tenderlovemaking.com/2008/08/04/identifying-unknown-music-with-ruby/"
+        },
+        {
+            "text": "Back Home!",
+            "href": "https://tenderlovemaking.com/2008/07/08/back-home/"
+        },
+        {
+            "text": "Meow meow meow meow meow",
+            "href": "https://tenderlovemaking.com/2008/06/06/meow-meow-meow-meow-meow/"
+        },
+        {
+            "text": "Write your Rails view in....... JavaScript?",
+            "href": "https://tenderlovemaking.com/2008/05/06/write-your-rails-view-in.......-javascript/"
+        },
+        {
+            "text": "New Ruby Implementation - Brobinius",
+            "href": "https://tenderlovemaking.com/2008/04/01/new-ruby-implementation-brobinius/"
+        },
+        {
+            "text": "Laser Etch My Macbook Air",
+            "href": "https://tenderlovemaking.com/2008/03/20/laser-etch-my-macbook-air/"
+        },
+        {
+            "text": "mechanize version 0.7.5 has been released!",
+            "href": "https://tenderlovemaking.com/2008/03/15/mechanize-version-0.7.5-has-been-released/"
+        },
+        {
+            "text": "mechanize version 0.7.1 has been released!",
+            "href": "https://tenderlovemaking.com/2008/03/04/mechanize-version-0.7.1-has-been-released/"
+        },
+        {
+            "text": "Automated Youtube Uploads",
+            "href": "https://tenderlovemaking.com/2008/02/26/automated-youtube-uploads/"
+        },
+        {
+            "text": "Watch Your Twits",
+            "href": "https://tenderlovemaking.com/2008/02/26/watch-your-twits/"
+        },
+        {
+            "text": "TwitterBrite",
+            "href": "https://tenderlovemaking.com/2008/02/22/twitterbrite/"
+        },
+        {
+            "text": "Faster RubyGems (GEMS 早くになりました)",
+            "href": "https://tenderlovemaking.com/2008/02/20/faster-rubygems-gems-%E6%97%A9%E3%81%8F%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/"
+        },
+        {
+            "text": "king of teh intarwebs",
+            "href": "https://tenderlovemaking.com/2008/02/18/king-of-teh-intarwebs/"
+        },
+        {
+            "text": "betabrite version 1.0.1 has been released!",
+            "href": "https://tenderlovemaking.com/2008/02/15/betabrite-version-1.0.1-has-been-released/"
+        },
+        {
+            "text": "icanhasaudio version 0.1.0 has been released!",
+            "href": "https://tenderlovemaking.com/2008/02/15/icanhasaudio-version-0.1.0-has-been-released/"
+        },
+        {
+            "text": "I'm going to Japan.",
+            "href": "https://tenderlovemaking.com/2008/02/15/im-going-to-japan./"
+        },
+        {
+            "text": "betabrite version 1.0.0 has been released!",
+            "href": "https://tenderlovemaking.com/2008/02/11/betabrite-version-1.0.0-has-been-released/"
+        },
+        {
+            "text": "Pointcut Your Javascript",
+            "href": "https://tenderlovemaking.com/2008/01/24/pointcut-your-javascript/"
+        },
+        {
+            "text": "Clean it up! RKelly::Nodes::Node#to_ecma",
+            "href": "https://tenderlovemaking.com/2008/01/23/clean-it-up-rkellynodesnode%23to_ecma/"
+        },
+        {
+            "text": "パンツないな興奮 - Javascript stuff",
+            "href": "https://tenderlovemaking.com/2008/01/19/%E3%83%91%E3%83%B3%E3%83%84%E3%81%AA%E3%81%84%E3%81%AA%E8%88%88%E5%A5%AE-javascript-stuff/"
+        },
+        {
+            "text": "mechanize version 0.7.0 has been released!",
+            "href": "https://tenderlovemaking.com/2008/01/15/mechanize-version-0.7.0-has-been-released/"
+        },
+        {
+            "text": "Happy New Year! (RKelly Progress report)",
+            "href": "https://tenderlovemaking.com/2008/01/03/happy-new-year-rkelly-progress-report/"
+        },
+        {
+            "text": "Road to Mechanize 0.7.0",
+            "href": "https://tenderlovemaking.com/2007/12/09/road-to-mechanize-0.7.0/"
+        },
+        {
+            "text": "Birthdays, and Congrats",
+            "href": "https://tenderlovemaking.com/2007/12/07/birthdays-and-congrats/"
+        },
+        {
+            "text": "csspool version 0.2.4 has been released!",
+            "href": "https://tenderlovemaking.com/2007/12/06/csspool-version-0.2.4-has-been-released/"
+        },
+        {
+            "text": "csspool version 0.2.3 has been released!",
+            "href": "https://tenderlovemaking.com/2007/12/05/csspool-version-0.2.3-has-been-released/"
+        },
+        {
+            "text": "csspool version 0.2.2 has been released!",
+            "href": "https://tenderlovemaking.com/2007/12/04/csspool-version-0.2.2-has-been-released/"
+        },
+        {
+            "text": "mechanize version 0.6.11 has been released!",
+            "href": "https://tenderlovemaking.com/2007/12/04/mechanize-version-0.6.11-has-been-released/"
+        },
+        {
+            "text": "Nerd Meeting",
+            "href": "https://tenderlovemaking.com/2007/12/03/nerd-meeting/"
+        },
+        {
+            "text": "CSSPoolのドキュメンテーション",
+            "href": "https://tenderlovemaking.com/2007/12/01/csspool%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"
+        },
+        {
+            "text": "csspool version 0.2.1 has been released!",
+            "href": "https://tenderlovemaking.com/2007/12/01/csspool-version-0.2.1-has-been-released/"
+        },
+        {
+            "text": "csspool version 0.2.0 has been released!",
+            "href": "https://tenderlovemaking.com/2007/11/28/csspool-version-0.2.0-has-been-released/"
+        },
+        {
+            "text": "csspool version 0.1.1 has been released!",
+            "href": "https://tenderlovemaking.com/2007/11/17/csspool-version-0.1.1-has-been-released/"
+        },
+        {
+            "text": "More CSSPool Fun",
+            "href": "https://tenderlovemaking.com/2007/11/15/more-csspool-fun/"
+        },
+        {
+            "text": "RubyConf 2007",
+            "href": "https://tenderlovemaking.com/2007/11/03/rubyconf-2007/"
+        },
+        {
+            "text": "CSSPool released",
+            "href": "https://tenderlovemaking.com/2007/11/03/csspool-released/"
+        },
+        {
+            "text": "Ruby Bleach",
+            "href": "https://tenderlovemaking.com/2007/10/06/ruby-bleach/"
+        },
+        {
+            "text": "Decode MP3s with Ruby",
+            "href": "https://tenderlovemaking.com/2007/09/21/decode-mp3s-with-ruby/"
+        },
+        {
+            "text": "Wasps Suck. Seriously.",
+            "href": "https://tenderlovemaking.com/2007/09/19/wasps-suck.-seriously./"
+        },
+        {
+            "text": "icanhasaudio version 0.0.2 has been released!",
+            "href": "https://tenderlovemaking.com/2007/07/28/icanhasaudio-version-0.0.2-has-been-released/"
+        },
+        {
+            "text": "Streaming KEXP with Ruby",
+            "href": "https://tenderlovemaking.com/2007/07/23/streaming-kexp-with-ruby/"
+        },
+        {
+            "text": "icanhasaudio version 0.0.1 has been released!",
+            "href": "https://tenderlovemaking.com/2007/07/11/icanhasaudio-version-0.0.1-has-been-released/"
+        },
+        {
+            "text": "drawr version 1.0.1 has been released!",
+            "href": "https://tenderlovemaking.com/2007/06/24/drawr-version-1.0.1-has-been-released/"
+        },
+        {
+            "text": "raop-client version 0.1.1 has been released!",
+            "href": "https://tenderlovemaking.com/2007/06/17/raop-client-version-0.1.1-has-been-released/"
+        },
+        {
+            "text": "Stream music to your Airport Express with Ruby!",
+            "href": "https://tenderlovemaking.com/2007/06/14/stream-music-to-your-airport-express-with-ruby/"
+        },
+        {
+            "text": "Punched in the Penis",
+            "href": "https://tenderlovemaking.com/2007/05/26/punched-in-the-penis/"
+        },
+        {
+            "text": "More ECMA Awesomeness",
+            "href": "https://tenderlovemaking.com/2007/05/22/more-ecma-awesomeness/"
+        },
+        {
+            "text": "drawr version 1.0.0 has been released!",
+            "href": "https://tenderlovemaking.com/2007/04/24/drawr-version-1.0.0-has-been-released/"
+        },
+        {
+            "text": "Converting JavaScript to Ruby with RKelly",
+            "href": "https://tenderlovemaking.com/2007/04/15/converting-javascript-to-ruby-with-rkelly/"
+        },
+        {
+            "text": "mechanize version 0.6.8 has been released!",
+            "href": "https://tenderlovemaking.com/2007/04/15/mechanize-version-0.6.8-has-been-released/"
+        },
+        {
+            "text": "mechanize version 0.6.7 has been released!",
+            "href": "https://tenderlovemaking.com/2007/03/29/mechanize-version-0.6.7-has-been-released/"
+        },
+        {
+            "text": "What's in a name?",
+            "href": "https://tenderlovemaking.com/2007/03/16/whats-in-a-name/"
+        },
+        {
+            "text": "mechanize version 0.6.5 has been released!",
+            "href": "https://tenderlovemaking.com/2007/03/15/mechanize-version-0.6.5-has-been-released/"
+        },
+        {
+            "text": "Heat of the Moment",
+            "href": "https://tenderlovemaking.com/2007/03/05/heat-of-the-moment/"
+        },
+        {
+            "text": "Trigger Happy",
+            "href": "https://tenderlovemaking.com/2007/03/01/trigger-happy/"
+        },
+        {
+            "text": "Audit Logs with ActiveRecord",
+            "href": "https://tenderlovemaking.com/2007/03/01/audit-logs-with-activerecord/"
+        },
+        {
+            "text": "ruby mechanize 0.6.5 Released",
+            "href": "https://tenderlovemaking.com/2007/02/26/ruby-mechanize-0.6.5-released/"
+        },
+        {
+            "text": "Trapped with the Isley Brothers?",
+            "href": "https://tenderlovemaking.com/2007/01/26/trapped-with-the-isley-brothers/"
+        },
+        {
+            "text": "Resizing Animated Gif's with RMagick",
+            "href": "https://tenderlovemaking.com/2006/12/01/resizing-animated-gifs-with-rmagick/"
+        },
+        {
+            "text": "King County Limo Service",
+            "href": "https://tenderlovemaking.com/2006/11/15/king-county-limo-service/"
+        },
+        {
+            "text": "Random Clam",
+            "href": "https://tenderlovemaking.com/2006/11/05/random-clam/"
+        },
+        {
+            "text": "Hitchhikers, Denver",
+            "href": "https://tenderlovemaking.com/2006/10/23/hitchhikers-denver/"
+        },
+        {
+            "text": "RubyConf 2006 Lightning Talk",
+            "href": "https://tenderlovemaking.com/2006/10/21/rubyconf-2006-lightning-talk/"
+        },
+        {
+            "text": "Twenty Bucks a Day",
+            "href": "https://tenderlovemaking.com/2006/10/05/twenty-bucks-a-day/"
+        },
+        {
+            "text": "New Ruby BetaBrite - 0.0.2",
+            "href": "https://tenderlovemaking.com/2006/09/28/new-ruby-betabrite-0.0.2/"
+        },
+        {
+            "text": "Ruby WWW::Mechanize 0.6.1 (Chuck)",
+            "href": "https://tenderlovemaking.com/2006/09/23/ruby-wwwmechanize-0.6.1-chuck/"
+        },
+        {
+            "text": "My NPR is so Loud, they Hatin'",
+            "href": "https://tenderlovemaking.com/2006/09/11/my-npr-is-so-loud-they-hatin/"
+        },
+        {
+            "text": "Road to Ruby Mechanize 0.6.0",
+            "href": "https://tenderlovemaking.com/2006/09/04/road-to-ruby-mechanize-0.6.0/"
+        },
+        {
+            "text": "Automatically Query iTunes Shares",
+            "href": "https://tenderlovemaking.com/2006/08/24/automatically-query-itunes-shares/"
+        },
+        {
+            "text": "More Ruby Mechanize Dev",
+            "href": "https://tenderlovemaking.com/2006/08/08/more-ruby-mechanize-dev/"
+        },
+        {
+            "text": "Holla",
+            "href": "https://tenderlovemaking.com/2006/08/01/holla/"
+        },
+        {
+            "text": "I Like Making Stuff",
+            "href": "https://tenderlovemaking.com/2006/07/25/i-like-making-stuff/"
+        },
+        {
+            "text": "Overcoming Adversity Mix",
+            "href": "https://tenderlovemaking.com/2006/07/14/overcoming-adversity-mix/"
+        },
+        {
+            "text": "New Ruby iTunes Client",
+            "href": "https://tenderlovemaking.com/2006/07/09/new-ruby-itunes-client/"
+        },
+        {
+            "text": "Dreyers and Splenda",
+            "href": "https://tenderlovemaking.com/2006/07/05/dreyers-and-splenda/"
+        },
+        {
+            "text": "Perfect Comedic Timing",
+            "href": "https://tenderlovemaking.com/2006/06/29/perfect-comedic-timing/"
+        },
+        {
+            "text": "Build your own Sonos player with Ruby on Rails",
+            "href": "https://tenderlovemaking.com/2006/06/27/build-your-own-sonos-player-with-ruby-on-rails/"
+        },
+        {
+            "text": "New Stuff in Ruby Mechanize 0.5.0",
+            "href": "https://tenderlovemaking.com/2006/06/22/new-stuff-in-ruby-mechanize-0.5.0/"
+        },
+        {
+            "text": "Do Not Litter",
+            "href": "https://tenderlovemaking.com/2006/06/09/do-not-litter/"
+        },
+        {
+            "text": "Ruby iTunes Client",
+            "href": "https://tenderlovemaking.com/2006/06/01/ruby-itunes-client/"
+        },
+        {
+            "text": "Beta Brite Signs",
+            "href": "https://tenderlovemaking.com/2006/05/28/beta-brite-signs/"
+        },
+        {
+            "text": "A Tender Moment or Two",
+            "href": "https://tenderlovemaking.com/2006/05/26/a-tender-moment-or-two/"
+        },
+        {
+            "text": "Mechanize One Liners",
+            "href": "https://tenderlovemaking.com/2006/05/26/mechanize-one-liners/"
+        },
+        {
+            "text": "A Mechanize Spider",
+            "href": "https://tenderlovemaking.com/2006/05/24/a-mechanize-spider/"
+        },
+        {
+            "text": "Browsing iTunes Networks with Ruby",
+            "href": "https://tenderlovemaking.com/2006/05/23/browsing-itunes-networks-with-ruby/"
+        },
+        {
+            "text": "Archives",
+            "href": "https://tenderlovemaking.com/archives"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/tenderlove.dev"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://instagram.com/tenderlove"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/tenderlove"
+        }
+    ],
+    "text_length": 6009,
+    "text_full": "May 2026\nRails Security, AI, and IBB\nJanuary 2026\nBainbridge Island Mochi Tsuki\nPixoo64 Ruby Client\nDecember 2025\nCat Pics\nCan Bundler Be as Fast as uv?\nHappy Holidays\nSeattle Waterfront\nNovember 2025\nSeattle Downtown Library\nSeptember 2025\nApple Photos App Corrupts Images\nFile preallocation on macOS in Ruby\nOctober 2024\nMonkey Patch Detection in Ruby\nSeptember 2024\nEliminating Intermediate Array Allocations\nFebruary 2024\nUsing Serial Ports with Ruby\nSeptember 2023\nFast Tokenizers with StringScanner\nMarch 2023\nBitmap Matrix and Undirected Graphs in Ruby\nJanuary 2023\nVim, tmux, and Fish\nDecember 2022\nIn Memory of a Giant\nJune 2022\nCross Platform Machine Code\nJanuary 2022\nHomebrew, Rosetta, and Ruby\nOctober 2021\nPublishing Gems With Your YubiKey\nFebruary 2021\nDebugging an Assertion Error in Ruby\nAugust 2020\nCounting Write Barrier Unprotected Objects\nJanuary 2020\nGuide to String Encoding in Ruby\nOctober 2019\nMy Career Goals\nSeptember 2019\nESP8266 and Plantower Particle Sensor\nJune 2019\nInstance Variable Performance\nFebruary 2018\nSpeeding up Ruby with Shared Strings\nJanuary 2018\nReducing Memory Usage in Ruby\nSeptember 2017\nVisualizing Your Ruby Heap\nFebruary 2017\nObject ID in MRI\nJanuary 2017\nEvented GPIO on Raspberry PI with Ruby\nFebruary 2016\nI am a puts debuggerer\nDecember 2015\nInline caching in MRI\nFebruary 2015\nPredicting Test Failures\nWeird stuff with hashes\nJanuary 2015\nMy experience with Minitest and RSpec\nJune 2014\nYAGNI methods slow us down\nYAGNI methods are killing me\nMarch 2014\nWebcam photos with Ruby\nFebruary 2014\nAdequateRecord Pro™: Like ActiveRecord, but more adequate\nMe And Facebook Open Academy\nJanuary 2014\nEnabling ttyO1 on BeagleBone\nMay 2013\nOne Danger of Freedom Patches\nMarch 2013\nDynamic Method Definitions\nFebruary 2013\nYAML f7u12\nDecember 2012\nRails 4 and your Gemfile\nSeptember 2012\nProtected Methods and Ruby 2.0\nJuly 2012\nIs it live?\nJune 2012\nRemoving config.threadsafe!\nFebruary 2012\nTen Years of Nerd Club\nDecember 2011\nProfiling Rails startup with DTrace\nNovember 2011\nPSA: The number of gems installed on your system can impact rails boot time\nOctober 2011\nConnection Management in ActiveRecord\nJune 2011\nI want DTrace probes in Ruby\nTIL: It's OK to return nil from to_ary\nMechanize 2.0.0 has been released!\nMarch 2011\nRack API is awkward\nJanuary 2011\nRubyCommitters.org winners\nRuby Committers Design Contest Update!\nrubycommitters.org design contest!\nDecember 2010\nWriting Ruby C Extensions: Part 2\nRuby Advent Calendar\nApril 2010\nEvent based JSON and YAML parsing\nJanuary 2010\nCompiling with Clang\nDecember 2009\nWriting Ruby C extensions: Part 1\nRubyconf 2009 Slides\nOctober 2009\nFull Text Search on Heroku\nJune 2009\nString Encoding in Ruby 1.9 C extensions\nEasy Markup Validation\nMay 2009\nFat binary gems make the rockin' world go round\n[ANN] nokogiri 1.3.0rc1 has been released!\nApril 2009\nNamespaces in XML\nTesting JavaScript Outside the Browser\nFebruary 2009\nCustom CSS functions in Nokogiri\nDecember 2008\nNokogiri's Slop Feature\nNovember 2008\nCross Compiling Ruby Gems for win32\nUnderpant-Free Excitement\nRubyConf Slides\nOctober 2008\nNokogiri Is Released\nAugust 2008\nIdentifying unknown music with Ruby\nJuly 2008\nBack Home!\nJune 2008\nMeow meow meow meow meow\nMay 2008\nWrite your Rails view in....... JavaScript?\nApril 2008\nNew Ruby Implementation - Brobinius\nMarch 2008\nLaser Etch My Macbook Air\nmechanize version 0.7.5 has been released!\nmechanize version 0.7.1 has been released!\nFebruary 2008\nAutomated Youtube Uploads\nWatch Your Twits\nTwitterBrite\nFaster RubyGems (GEMS 早くになりました)\nking of teh intarwebs\nbetabrite version 1.0.1 has been released!\nicanhasaudio version 0.1.0 has been released!\nI'm going to Japan.\nbetabrite version 1.0.0 has been released!\nJanuary 2008\nPointcut Your Javascript\nClean it up! RKelly::Nodes::Node#to_ecma\nパンツないな興奮 - Javascript stuff\nmechanize version 0.7.0 has been released!\nHappy New Year! (RKelly Progress report)\nDecember 2007\nRoad to Mechanize 0.7.0\nBirthdays, and Congrats\ncsspool version 0.2.4 has been released!\ncsspool version 0.2.3 has been released!\ncsspool version 0.2.2 has been released!\nmechanize version 0.6.11 has been released!\nNerd Meeting\nCSSPoolのドキュメンテーション\ncsspool version 0.2.1 has been released!\nNovember 2007\ncsspool version 0.2.0 has been released!\ncsspool version 0.1.1 has been released!\nMore CSSPool Fun\nRubyConf 2007\nCSSPool released\nOctober 2007\nRuby Bleach\nSeptember 2007\nDecode MP3s with Ruby\nWasps Suck. Seriously.\nJuly 2007\nicanhasaudio version 0.0.2 has been released!\nStreaming KEXP with Ruby\nicanhasaudio version 0.0.1 has been released!\nJune 2007\ndrawr version 1.0.1 has been released!\nraop-client version 0.1.1 has been released!\nStream music to your Airport Express with Ruby!\nMay 2007\nPunched in the Penis\nMore ECMA Awesomeness\nApril 2007\ndrawr version 1.0.0 has been released!\nConverting JavaScript to Ruby with RKelly\nmechanize version 0.6.8 has been released!\nMarch 2007\nmechanize version 0.6.7 has been released!\nWhat's in a name?\nmechanize version 0.6.5 has been released!\nHeat of the Moment\nTrigger Happy\nAudit Logs with ActiveRecord\nFebruary 2007\nruby mechanize 0.6.5 Released\nJanuary 2007\nTrapped with the Isley Brothers?\nDecember 2006\nResizing Animated Gif's with RMagick\nNovember 2006\nKing County Limo Service\nRandom Clam\nOctober 2006\nHitchhikers, Denver\nRubyConf 2006 Lightning Talk\nTwenty Bucks a Day\nSeptember 2006\nNew Ruby BetaBrite - 0.0.2\nRuby WWW::Mechanize 0.6.1 (Chuck)\nMy NPR is so Loud, they Hatin'\nRoad to Ruby Mechanize 0.6.0\nAugust 2006\nAutomatically Query iTunes Shares\nMore Ruby Mechanize Dev\nHolla\nJuly 2006\nI Like Making Stuff\nOvercoming Adversity Mix\nNew Ruby iTunes Client\nDreyers and Splenda\nJune 2006\nPerfect Comedic Timing\nBuild your own Sonos player with Ruby on Rails\nNew Stuff in Ruby Mechanize 0.5.0\nDo Not Litter\nRuby iTunes Client\nMay 2006\nBeta Brite Signs\nA Tender Moment or Two\nMechanize One Liners\nA Mechanize Spider\nBrowsing iTunes Networks with Ruby\nArchives\n \n \n \n \n\nCopyright © 2026 Tenderlovemaking.com All rights reserved."
+}

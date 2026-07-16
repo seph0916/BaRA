@@ -1,0 +1,105 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 23,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#open-source",
+            "href": "https://evanhahn.com/tags/open-source/"
+        },
+        {
+            "text": "#helmet",
+            "href": "https://evanhahn.com/tags/helmet/"
+        },
+        {
+            "text": "Helmet.js",
+            "href": "https://helmetjs.github.io/"
+        },
+        {
+            "text": "227 million downloads in 2023",
+            "href": "https://npm-stat.com/charts.html?package=helmet&from=2025-01-01&to=2025-12-31"
+        },
+        {
+            "text": "most recent major version had a few breaking changes",
+            "href": "https://github.com/helmetjs/helmet/blob/20fae0d8225783fd53449a782cf92901ec201ea6/CHANGELOG.md#600---2022-08-26"
+        },
+        {
+            "text": "document some example code that accomplished the goal",
+            "href": "https://github.com/helmetjs/helmet/wiki/Conditionally-using-middleware"
+        },
+        {
+            "text": "the tag for my project",
+            "href": "https://stackoverflow.com/questions/tagged/helmet.js"
+        },
+        {
+            "text": "proposed adding some of these optimizations to core npm",
+            "href": "https://github.com/npm/rfcs/pull/595"
+        },
+        {
+            "text": "everyone who has contributed to Helmet over the years",
+            "href": "https://helmetjs.github.io/contributors/"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 4512,
+    "text_full": "9 years maintaining a sorta-popular open source package: lessons learned\nby Evan Hahn, updated Jan 1, 2026 (originally posted Jan 23, 2023), tagged #open-source #helmet\n\nI maintain Helmet.js, a sorta-popular JavaScript package. I say “sorta” because it’s used by lots of people, but it’s not pervasive. It had 227 million downloads in 2023. Compared to React, a bigger project with over a billion downloads, Helmet is about 16% as popular.\n\nOver the years, I’ve learned a few things, which I’ve tried to collect here. I’m sure I’d learn different lessons if I maintained a different project, but I hope some of these can be useful.\n\nThis post is primarily for (aspiring?) maintainers of open source projects. Some of these lessons may apply elsewhere, but others may not.\n\nKnow your audience\n\nWhen you use something like Rails or Express or React, you probably think about it a lot. It’s part of your project’s infrastructure.\n\nMy project, on the other hand, is not exactly core infrastructure. My goal is for users to set it up once and then forget about it. I don’t want people to spend much time thinking about my project—that’s my job!\n\nIt took some time and a lot of feedback, but it’s been useful for me to learn who I’m building it for. That helps guide my decisions as a maintainer, and I’m still learning.\n\nCareful with breaking changes\n\nSome developers are hygienic and keep their dependencies up to date, but most don’t upgrade quickly. Most people delay updates if they ever update at all. If only we had more time!\n\nTo that end, I try to avoid breaking changes to make these updates easier.\n\nOne of Helmet’s major versions had a lot of breaking changes. The migration would be more work, I knew, but developers would only have to do it once. I even wrote a guide to help people! I saw a lot more issues and questions after I did that, despite my best efforts. And I now regret it.\n\nI think about one of the worst examples of this in our industry: the rollout of Python 3. The difference between Python 2 and Python 3 was too great, I reckon, and many people still use Python 2. I made the same mistake on a smaller scale.\n\nNow, I try to avoid making breaking changes. Helmet’s most recent major version had a few breaking changes which I tried to keep very small. When I have grander visions, I try to roll them out over many versions and many months.\n\nDocument your way to features\n\nSometimes, I’ve been asked to add a feature that I don’t think really fits into the library. But it’s still a useful idea.\n\nFor example, some users wanted to be able to conditionally use Helmet. I thought this was a useful feature, but I didn’t think it should’ve been done in my code. But it was such a common feature request…what should I do?\n\nI found that I could document some example code that accomplished the goal, rather than actually adding it to the library. This helps people accomplish their goals without increasing Helmet’s surface area.\n\nI don’t always think this is a useful solution, but it’s worked for me in a few cases.\n\nFollow the tag on StackOverflow\n\nThis is a smaller tip.\n\nA lot of programmers use Stack Overflow today. (I wish there were a popular nonprofit alternative I could recommended.)\n\nI subscribed to the tag for my project, so I get an email any time anyone asks a question about it. In addition to (hopefully) being useful answering questions, it’s a good way to see what people struggle with.\n\nMicro-optimizations can matter\n\nOver the years, I’ve added many little optimizations to the project’s file size. These little optimizations, which deserve a full blog post, have cut the package size in half.\n\nWithout these optimizations, the package would be about 20 kilobytes larger. That doesn’t sound like much, but it adds up when your project has millions of downloads. That saved about 2 terabytes of bandwidth in 2022, which I think is worth doing.\n\n(I even proposed adding some of these optimizations to core npm, but was ultimately convinced this wasn’t worth it.)\n\nI still have lots to learn\n\nI’ve been maintaining Helmet for 9 years. I’ve learned a lot about maintaining it in that time, and I hope this has been helpful…but I’ve still got a long way to go.\n\nThanks to everyone who has contributed to Helmet over the years!\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

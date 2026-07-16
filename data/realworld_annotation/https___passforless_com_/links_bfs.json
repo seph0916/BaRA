@@ -1,0 +1,79 @@
+{
+  "start_url": "https://passforless.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://passforless.com/",
+    "https://www.passforless.com/contact.php",
+    "https://www.passforless.com/",
+    "https://www.passforless.com/all",
+    "https://www.passforless.com/all/new-york",
+    "https://www.passforless.com/all/las-vegas",
+    "https://www.passforless.com/article",
+    "https://www.passforless.com/all/los-angeles",
+    "https://www.passforless.com/all/antelope-canyon",
+    "https://www.passforless.com/signin.php"
+  ],
+  "by_depth": {
+    "0": [
+      "https://passforless.com/"
+    ],
+    "1": [
+      "https://www.passforless.com/contact.php",
+      "https://www.passforless.com/",
+      "https://www.passforless.com/all",
+      "https://www.passforless.com/all/new-york",
+      "https://www.passforless.com/all/las-vegas"
+    ],
+    "2": [
+      "https://www.passforless.com/article",
+      "https://www.passforless.com/all/los-angeles",
+      "https://www.passforless.com/all/antelope-canyon",
+      "https://www.passforless.com/signin.php",
+      "https://www.passforless.com/aboutus.php",
+      "https://www.passforless.com/empire-state-building-tickets-observatory-and-optional-skip-the-line-tickets-tour-322.html",
+      "https://www.passforless.com/one-world-observatory-admission-tour-7500.html",
+      "https://www.passforless.com/new-york-summit-one-vanderbilt-ticket-tour-4705.html",
+      "https://www.passforless.com/new-york-edge-ticket-tour-11748.html",
+      "https://www.passforless.com/new-york-top-of-the-rock-observation-deck-ticket-tour-11950.html",
+      "https://www.passforless.com/original-hollywood-sign-hike-walking-tour-12726.html",
+      "https://www.passforless.com/grand-canyon-west-skywalk-vegas-tour-12694.html",
+      "https://www.passforless.com/las-vegas-high-roller-ticket-tour-8970.html",
+      "https://www.passforless.com/california-academy-of-sciences-tour-7445.html",
+      "https://www.passforless.com/universal-studios-hollywood-1-day-ticket-tour-12505.html",
+      "https://www.passforless.com/new-york-statue-of-liberty-express-ticket-tour-11734.html",
+      "https://www.passforless.com/new-york-american-museum-of-natural-history-tour-316.html",
+      "https://www.passforless.com/the-intrepid-museum-tour-7867.html",
+      "https://www.passforless.com/new-york-9-11-memorial-and-museum-tickets-tour-12072.html",
+      "https://www.passforless.com/new-york-liberty-cruise-ticket-tour-11773.html",
+      "https://www.passforless.com/las-vegas-grand-canyon-1-day-tour-176.html",
+      "https://www.passforless.com/las-vegas-horseshoe-bend-antelope-canyon-lake-powell-1-day-tour-8649.html",
+      "https://www.passforless.com/las-vegas-antelope-horseshoe-bend-1-day-tour-6042.html",
+      "https://www.passforless.com/las-vegas-grand-canyon-1-day-tour-164.html",
+      "https://www.passforless.com/big-bus-las-vegas-sightseeing-night-tour-12693.html"
+    ],
+    "3": [
+      "https://www.passforless.com/all/san-francisco",
+      "https://www.passforless.com/all/chicago",
+      "https://www.passforless.com/faq.php",
+      "https://www.passforless.com/extra-payment.php",
+      "https://www.passforless.com/reviews",
+      "https://www.passforless.com/whale-watching-cruise-newport-beach-tour-12697.html",
+      "https://www.passforless.com/aquarium-of-the-pacific-adult-long-beach-tour-12716.html",
+      "https://www.passforless.com/universal-studios-hollywood-express-tour-12506.html",
+      "https://www.passforless.com/guided-whale-watching-long-beach-tour-12703.html",
+      "https://www.passforless.com/dolby-theatre-admission-ticket-and-tour-12718.html",
+      "https://www.passforless.com/antelope-canyon-horsebend-halfday-tour-11997.html",
+      "https://www.passforless.com/page-antelope-canyon-ticket-tour-12012.html",
+      "https://www.passforless.com/antelope-canyon-ticket-tour-6782.html",
+      "https://www.passforless.com/lower-antelope-ticket-tour-8507.html",
+      "https://www.passforless.com/lower-antelope-canyon-tickets-prime-time-tour-10428.html",
+      "https://www.passforless.com/user-agreement.php",
+      "https://www.passforless.com/all/orlando",
+      "https://www.passforless.com/all/san-diego",
+      "https://www.passforless.com/all/miami"
+    ]
+  },
+  "dead_links": []
+}

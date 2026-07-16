@@ -1,0 +1,109 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 24,
+    "links": [
+        {
+            "text": "Evan Hahn",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "JavaScript Compression Streams API",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/Compression_Streams_API"
+        },
+        {
+            "text": "“What can go wrong?”",
+            "href": "https://evanhahn.com/javascript-compression-streams-api-with-strings/#what-can-go-wrong"
+        },
+        {
+            "text": "Uint8Array",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array"
+        },
+        {
+            "text": "Blob",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/Blob"
+        },
+        {
+            "text": "CompressionStream",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/CompressionStream"
+        },
+        {
+            "text": "TextDecoder",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder"
+        },
+        {
+            "text": "Unicode replacement character",
+            "href": "https://unicodeplus.com/U+FFFD"
+        },
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "About me",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "RSS",
+            "href": "https://evanhahn.com/blog/index.xml"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.com/evanhahn"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://bigshoulders.city/@EvanHahn"
+        },
+        {
+            "text": "Creative Commons Attribution-NonCommercial License",
+            "href": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "text": "Unlicense",
+            "href": "https://unlicense.org/"
+        },
+        {
+            "text": "Lulu Tang",
+            "href": "http://luluspice.com/"
+        },
+        {
+            "text": "Ali Boschert-Downs",
+            "href": "https://www.instagram.com/boschertdowns/"
+        }
+    ],
+    "text_length": 12087,
+    "text_full": "How to use the JavaScript Compression Streams API to (de)compress strings\nby Evan Hahn, updated Oct 14, 2023 (originally posted Oct 7, 2023), tagged #javascript #compression #guide\n\nThis post is written for people familiar with JavaScript.\n\nThe JavaScript Compression Streams API lets you compress and decompress data. Let’s see how to use it with strings.\n\nJust show me the code!\n\nHere’s some code you can copy-paste:\n\n/**\n\n * Convert a string to its UTF-8 bytes and compress it.\n\n *\n\n * @param {string} str\n\n * @returns {Promise<Uint8Array>}\n\n */\n\nasync function compress(str) {\n\n  // Convert the string to a byte stream.\n\n  const stream = new Blob([str]).stream();\n\n\n\n  // Create a compressed stream.\n\n  const compressedStream = stream.pipeThrough(\n\n    new CompressionStream(\"gzip\"),\n\n  );\n\n\n\n  // Read all the bytes from this stream.\n\n  const chunks = [];\n\n  for await (const chunk of compressedStream) {\n\n    chunks.push(chunk);\n\n  }\n\n  return await concatUint8Arrays(chunks);\n\n}\n\n\n\n/**\n\n * Decompress bytes into a UTF-8 string.\n\n *\n\n * @param {Uint8Array} compressedBytes\n\n * @returns {Promise<string>}\n\n */\n\nasync function decompress(compressedBytes) {\n\n  // Convert the bytes to a stream.\n\n  const stream = new Blob([compressedBytes]).stream();\n\n\n\n  // Create a decompressed stream.\n\n  const decompressedStream = stream.pipeThrough(\n\n    new DecompressionStream(\"gzip\"),\n\n  );\n\n\n\n  // Read all the bytes from this stream.\n\n  const chunks = [];\n\n  for await (const chunk of decompressedStream) {\n\n    chunks.push(chunk);\n\n  }\n\n  const stringBytes = await concatUint8Arrays(chunks);\n\n\n\n  // Convert the bytes to a string.\n\n  return new TextDecoder().decode(stringBytes);\n\n}\n\n\n\n/**\n\n * Combine multiple Uint8Arrays into one.\n\n *\n\n * @param {ReadonlyArray<Uint8Array>} uint8arrays\n\n * @returns {Promise<Uint8Array>}\n\n */\n\nasync function concatUint8Arrays(uint8arrays) {\n\n  const blob = new Blob(uint8arrays);\n\n  const buffer = await blob.arrayBuffer();\n\n  return new Uint8Array(buffer);\n\n}\n\n\nHere’s you compress a string:\n\nconst str = \"foo\".repeat(1000);\n\nconst compressedBytes = await compress(str);\n\nconsole.log(compressedBytes);\n\n// => Uint8Array(61) [31, 139, 8, 0, ...]\n\n\nAnd here’s how you decompress one:\n\nconst decompressed = await decompress(compressedBytes);\n\nconsole.log(decompressed);\n\n// => \"foofoofoofoofoo ...\"\n\n\nI recommend reading the “What can go wrong?” section below.\n\nIf you want to learn how this works, read on.\n\nCompressing strings\n\nIn this post, we’ll build a function that takes a string and gives back compressed bytes.\n\nAt a high level, our function will:\n\nConvert the string to a stream of UTF-8 bytes.\nPipe that stream through a compressor to get a compressed stream.\nRead all the bytes out of that compressed stream.\n\nLet’s start with a skeleton function signature:\n\n/**\n\n * Convert a string to its UTF-8 bytes and compress it.\n\n *\n\n * @param {string} str\n\n * @returns {Promise<Uint8Array>}\n\n */\n\nasync function compress(str) {\n\n  // TODO\n\n}\n\n\nThis function takes a string and returns a Promise that resolves to a Uint8Array, which is basically an array of bytes.\n\nThe Compression Streams API operates on streams of bytes, not strings. Let’s start by converting our string to a byte stream:\n\nasync function compress(str) {\n\n  const stream = new Blob([str]).stream();\n\n\n\n  // TODO\n\n}\n\n\nThis converts our string to a Blob and pulls a stream out. There are other ways to convert strings to streams, but I like this method because (1) it converts the string to UTF-8 automatically (2) it’s short.\n\nNext, we need to pipe this stream through a CompressionStream.\n\nasync function compress(str) {\n\n  // ...\n\n\n\n  const compressedStream = stream.pipeThrough(\n\n    new CompressionStream(\"gzip\"),\n\n  );\n\n\n\n  // TODO\n\n}\n\n\nThis example uses gzip compression, but you can also use Deflate. (It’s possible that other compression algorithms will be supported in the future.)\n\nWe have a stream of compressed bytes! We’ve done the hard part. Now let’s read all of those bytes:\n\nasync function compress(str) {\n\n  // ...\n\n\n\n  const chunks = [];\n\n  for await (const chunk of compressedStream) {\n\n    chunks.push(chunk);\n\n  }\n\n\n\n  // TODO\n\n}\n\n\nAs you can see, this reads all the chunks from the stream into an array. It’s likely that your compressed stream will have multiple chunks. Each chunk is a Uint8Array, which we want to combine into one. There are a few ways to do this, but here’s my favorite:\n\nasync function concatUint8Arrays(uint8arrays) {\n\n  const blob = new Blob(uint8arrays);\n\n  const buffer = await blob.arrayBuffer();\n\n  return new Uint8Array(buffer);\n\n}\n\n\nThe last thing we need to do is call this new function on our array of chunks:\n\nasync function compress(str) {\n\n  // ...\n\n\n\n  return await concatUint8Arrays(chunks);\n\n}\n\n\nAnd we’re done! Here’s how you might use it:\n\nconst str = \"foo\".repeat(1000);\n\nconst compressedBytes = await compress(str);\n\nconsole.log(compressedBytes);\n\n// => Uint8Array(61) [31, 139, 8, 0, ...]\n\n\nHere’s the finished code peppered with some comments:\n\n/**\n\n * Convert a string to its UTF-8 bytes and compress it.\n\n *\n\n * @param {string} str\n\n * @returns {Promise<Uint8Array>}\n\n */\n\nasync function compress(str) {\n\n  // Convert the string to a byte stream.\n\n  const stream = new Blob([str]).stream();\n\n\n\n  // Create a compressed stream.\n\n  const compressedStream = stream.pipeThrough(\n\n    new CompressionStream(\"gzip\"),\n\n  );\n\n\n\n  // Read all the bytes from this stream.\n\n  const chunks = [];\n\n  for await (const chunk of compressedStream) {\n\n    chunks.push(chunk);\n\n  }\n\n  return await concatUint8Arrays(chunks);\n\n}\n\n\n\n/**\n\n * Combine multiple Uint8Arrays into one.\n\n *\n\n * @param {ReadonlyArray<Uint8Array>} uint8arrays\n\n * @returns {Promise<Uint8Array>}\n\n */\n\nasync function concatUint8Arrays(uint8arrays) {\n\n  const blob = new Blob(uint8arrays);\n\n  const buffer = await blob.arrayBuffer();\n\n  return new Uint8Array(buffer);\n\n}\n\nDecompressing\n\nDecompressing is basically the same process in reverse. Our function will look very similar.\n\nAt a high level, our function will:\n\nConvert the compressed bytes to a stream.\nPipe that stream through a decompressor to get a decompressed stream.\nRead all the bytes out of that compressed stream.\nInterpret those bytes as UTF-8 and convert them to a string.\n\nLet’s start with the first three steps, which are almost identical to the compression step:\n\n/**\n\n * Decompress bytes into a UTF-8 string.\n\n *\n\n * @param {Uint8Array} compressedBytes\n\n * @returns {Promise<string>}\n\n */\n\nasync function decompress(compressedBytes) {\n\n  // Convert the bytes to a stream.\n\n  const stream = new Blob([compressedBytes]).stream();\n\n\n\n  // Create a decompressed stream.\n\n  const decompressedStream = stream.pipeThrough(\n\n    new DecompressionStream(\"gzip\"),\n\n  );\n\n\n\n  // Read all the bytes from this stream.\n\n  const chunks = [];\n\n  for await (const chunk of decompressedStream) {\n\n    chunks.push(chunk);\n\n  }\n\n  const stringBytes = await concatUint8Arrays(chunks);\n\n\n\n  // TODO\n\n}\n\n\nAs you can see, this looks a lot like the compress function we wrote above. It converts the argument to a stream, pipes it through a decompressor, and reads all the bytes in chunks.\n\nHowever, there’s still a TODO in there—we haven’t converted the bytes to a string. To do that, we can use a TextDecoder:\n\nasync function decompress(compressedBytes) {\n\n  // ...\n\n\n\n  return new TextDecoder().decode(stringBytes);\n\n}\n\n\nThis will interpret the decompressed bytes as UTF-8 and convert them to a string.\n\nHere’s how you use this:\n\nconst decompressed = await decompress(compressedBytes);\n\nconsole.log(decompressed);\n\n// => \"foofoofoofoofoofoofoofoo...\"\n\n\nAnd here’s the whole function:\n\n/**\n\n * Decompress bytes into a UTF-8 string.\n\n *\n\n * @param {Uint8Array} compressedBytes\n\n * @returns {Promise<string>}\n\n */\n\nasync function decompress(compressedBytes) {\n\n  // Convert the bytes to a stream.\n\n  const stream = new Blob([compressedBytes]).stream();\n\n\n\n  // Create a decompressed stream.\n\n  const decompressedStream = stream.pipeThrough(\n\n    new DecompressionStream(\"gzip\"),\n\n  );\n\n\n\n  // Read all the bytes from this stream.\n\n  const chunks = [];\n\n  for await (const chunk of decompressedStream) {\n\n    chunks.push(chunk);\n\n  }\n\n  const stringBytes = await concatUint8Arrays(chunks);\n\n\n\n  // Convert the bytes to a string.\n\n  return new TextDecoder().decode(stringBytes);\n\n}\n\n\nEverything’s working great! What could possibly go wrong…?\n\nWhat can go wrong?\n\nThere are three major things that can go wrong here.\n\nProblem 1: decompressing garbage\n\nThe most obvious issue: our decompress breaks if passed invalid data.\n\nconst garbage = new Uint8Array([1, 2, 3]);\n\nawait decompress(garbage);\n\n// => TypeError: The input data is corrupted: incorrect header check\n\n\nIf you pass gzip-compressed data, great! If you don’t, the promise will reject with an error. I recommend handling this problem, possibly by showing an error to the user.\n\nProblem 2: inefficiency\n\nStreams let you work with data in smaller chunks. For small data this can be inconvenient, but you can get a lot of efficiency benefits as you deal with more data.\n\nStreams can be useful as part of a data pipeline. For example, imagine you’re compressing a large string and uploading it to a server. If you use streams effectively, you can start the upload before the compression finishes—imagine an assembly line where each chunk is uploaded as soon as it’s ready.\n\nStreams can also help reduce memory usage. If you’re decompressing a lot of data, you can do it in small chunks instead of having to allocate huge swaths of RAM and processing everything all at once.\n\nHere’s an example that takes a string and converts it to a compressed stream, then uploads that stream with fetch:\n\nconst getCompressedStream = (str) =>\n\n  new Blob([str]).stream().pipeThrough(new CompressionStream(\"gzip\"));\n\n\n\nconst str = \"foo\".repeat(500);\n\n\n\nawait fetch(\"https://server.example/upload-text\", {\n\n  method: \"POST\",\n\n  headers: {\n\n    \"Content-Type\": \"text/plain; charset=utf-8\",\n\n    \"Content-Encoding\": \"gzip\",\n\n  },\n\n  body: getCompressedStream(str),\n\n});\n\n\nNotice that we avoid compressing the whole string at once. Instead, we pass the stream to fetch, which can start uploading as soon as the first compressed chunk is ready.\n\nProblem 3: bad strings\n\nJavaScript strings are made up of UTF-16 code units. It’s called UTF-16 because each code unit is 16 bits long, which means that there are 65,536 (216) possibilities.\n\nHowever, there are a lot more than 65,536 characters! That means that some characters need to be split into two code units, which is called a “surrogate pair”. For example, 😎 requires two code units: 55,357 and 56,846.\n\nIt’s possible to construct strings that have “lone surrogates”—in other words, strings that contain half of a surrogate pair. The bad news: this is bogus data. The good news: it’s pretty easy to detect.\n\nThe Blob constructor (which we use in our compressor) will replace lone surrogates with the Unicode replacement character. That means that you might lose a small amount of bogus data during compression.\n\nFor example, if you compress a string with a lone surrogate, you’ll get a slightly different string back out the other side:\n\nconst stringWithLoneSurrogate = \"\\uDFFF ok\";\n\nconst compressed = await compress(stringWithLoneSurrogate);\n\nconst decompressed = await decompress(compressed);\n\nconsole.log(compressed === stringWithLoneSurrogate);\n\n// => false\n\n\nIf you’ve got a string with lone surrogates, this is probably not your biggest problem. But know that Blob will slightly alter your data, which can mess with the compression.\n\nConclusion\n\nToday, we’ve learned about JavaScript’s Compression Streams API. We’ve learned how to compress and decompress strings, and a bunch of ancillary stuff along the way: streams, Blobs, UTF-16, and more.\n\nI hope this post has helped!\n\nAbout meContactProjectsGuidesBlog\nRSSNewsletterMastodon\n\nUnless noted otherwise, content is licensed under the Creative Commons Attribution-NonCommercial License and code under the Unlicense. Logo by Lulu Tang. Profile photo by Ali Boschert-Downs."
+}

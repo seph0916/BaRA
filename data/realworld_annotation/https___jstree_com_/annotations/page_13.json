@@ -1,0 +1,229 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 54,
+    "links": [
+        {
+            "text": "jsTree - jQuery tree plugin\n3.3.17",
+            "href": "https://jstree.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://www.jstree.com/"
+        },
+        {
+            "text": "Demo",
+            "href": "https://www.jstree.com/demo"
+        },
+        {
+            "text": "API",
+            "href": "https://www.jstree.com/api"
+        },
+        {
+            "text": "Plugins",
+            "href": "https://www.jstree.com/plugins"
+        },
+        {
+            "text": "config option",
+            "href": "https://www.jstree.com/api/#/?f=$.jstree.defaults.plugins"
+        },
+        {
+            "text": "checkbox plugin config options",
+            "href": "https://www.jstree.com/api/#/?q=$.jstree.defaults.checkbox"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 1",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 1",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "contextmenu plugin config options",
+            "href": "https://www.jstree.com/api/#/?q=$.jstree.defaults.contextmenu"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Context click me",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "dnd plugin config options",
+            "href": "https://www.jstree.com/api/#/?q=$.jstree.defaults.dnd"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 1",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "massload plugin config options",
+            "href": "https://www.jstree.com/api/#/?q=$.jstree.defaults.massload"
+        },
+        {
+            "text": "search for items",
+            "href": "https://www.jstree.com/api/#/?f=search("
+        },
+        {
+            "text": "search plugin config options",
+            "href": "https://www.jstree.com/api/#/?q=$.jstree.defaults.search"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 1",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Child node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "comparison config option function",
+            "href": "https://www.jstree.com/api/#/?f=$.jstree.defaults.sort"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "0",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "1",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "3",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "state plugin config options",
+            "href": "https://www.jstree.com/api/#/?q=$.jstree.defaults.state"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "A",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "few",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "more",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "nodes",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "types plugin config options & functions",
+            "href": "https://www.jstree.com/api/#/?f=$.jstree.defaults.types"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Node",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "Root node 2",
+            "href": "https://www.jstree.com/plugins/#"
+        },
+        {
+            "text": "click here for the old site (v.1)",
+            "href": "https://old.jstree.com/"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/vakata/jstree"
+        }
+    ],
+    "text_length": 6097,
+    "text_full": "jsTree - jQuery tree plugin\n3.3.17\n Home\n Demo\n API\n Plugins\nPlugins?\n\njsTree has some functionality moved out of the core so you can only use it when you need it. To enable a plugin use the plugins config option and add that plugin's name to the array.\n\nFor example enabling all the plugins can be done this way: (enable only plugins you need)\n\n\"plugins\" : [\n\t\"checkbox\",\n\t\"contextmenu\",\n\t\"dnd\",\n\t\"massload\",\n\t\"search\",\n\t\"sort\",\n\t\"state\",\n\t\"types\",\n\t\"unique\",\n\t\"wholerow\",\n\t\"changed\",\n\t\"conditionalselect\"\n]\n\nHere is a quick overview for each one.\n\n Changed plugin\n\nThis plugin adds additional information about selection changes. Once included in the plugins config option, each changed.jstree event data will contain a new property named changed, which will give information about selected and deselected nodes since the last changed.jstree event\n\n$(function () {\n  $(\"#plugins\")\n    .on(\"changed.jstree\", function (e, data) {\n      console.log(data.changed.selected); // newly selected\n      console.log(data.changed.deselected); // newly deselected\n    })\n    .jstree({\n      \"plugins\" : [ \"changed\" ]\n    });\n});\n Checkbox plugin\n\nThis plugin renders checkbox icons in front of each node, making multiple selection much easier.\nIt also supports tri-state behavior, meaning that if a node has a few of its children checked it will be rendered as undetermined, and state will be propagated up. You can also fine tune the cascading options with the cascade config option.\nKeep in mind when cascading checkbox will check even disabled nodes.\n\nUndetermined state is automatically calculated, but if you are using AJAX and loading on demand and want to render a node as underemined pass \"undetermined\" : true in its state.\n\nYou can find all the checkbox plugin config options in the API.\n\n$(function () {\n  $(\"#plugins1\").jstree({\n    \"checkbox\" : {\n      \"keep_selected_style\" : false\n    },\n    \"plugins\" : [ \"checkbox\" ]\n  });\n});\nRoot node\nChild node 1\nChild node 2\n Conditionalselect plugin\n\nThis plugin overrides the activate_node function (the one that gets called when a user tries to select a node) and enables preventing the function invokation by using a callback.\n\n$(function () {\n  $(\"#plugins10\").jstree({\n    \"conditionalselect\" : function (node, event) {\n      return false;\n    },\n    \"plugins\" : [ \"conditionalselect\" ]\n  });\n});\nRoot node\nChild node 1\nChild node 2\n Contextmenu plugin\n\nThis plugin makes it possible to right click nodes and shows a list of configurable actions in a menu.\n\nYou can find all the contextmenu plugin config options in the API.\n\n$(function () {\n  $(\"#plugins2\").jstree({\n     \"core\" : {\n       // so that create works\n       \"check_callback\" : true\n     },\n    \"plugins\" : [ \"contextmenu\" ]\n  });\n});\nRoot node\nContext click me\n Drag & drop plugin\n\nThis plugin makes it possible to drag and drop tree nodes and rearrange the tree.\n\nYou can find all the dnd plugin config options in the API.\n\n$(function () {\n  $(\"#plugins3\").jstree({\n    \"core\" : {\n      \"check_callback\" : true\n    },\n    \"plugins\" : [ \"dnd\" ]\n  });\n});\nRoot node\nChild node 1\nChild node 2\nRoot node 2\n Massload plugin\n\nThis plugin makes it possible to load nodes in a single request (used with lazy loading).\n\nYou can find all the massload plugin config options in the API.\n\n$(function () {\n  $(\"#plugins10\").jstree({\n    \"core\" : {\n      \"data\" : { .. AJAX config .. }\n    },\n    \"massload\" : {\n      \"url\" : \"/some/path\",\n      \"data\" : function (nodes) {\n        return { \"ids\" : nodes.join(\",\") };\n      }\n    }\n    \"plugins\" : [ \"massload\", \"state\" ]\n  });\n});\n Search plugin\n\nThis plugin adds the possibility to search for items in the tree and even to show only matching nodes.\n\nYou can find all the search plugin config options in the API.\n\n$(function () {\n  $(\"#plugins4\").jstree({\n    \"plugins\" : [ \"search\" ]\n  });\n  var to = false;\n  $('#plugins4_q').keyup(function () {\n    if(to) { clearTimeout(to); }\n    to = setTimeout(function () {\n      var v = $('#plugins4_q').val();\n      $('#plugins4').jstree(true).search(v);\n    }, 250);\n  });\n});\nRoot node\nChild node 1\nChild node 2\nRoot node 2\n Sort plugin\n\nThis plugin automatically arranges all sibling nodes according to a comparison config option function, which defaults to alphabetical order.\n\n$(function () {\n  $(\"#plugins5\").jstree({\n    \"plugins\" : [ \"sort\" ]\n  });\n});\nRoot node\n0\n1\n2\n3\nRoot node 2\n State plugin\n\nThis plugin saves all opened and selected nodes in the user's browser, so when returning to the same tree the previous state will be restored.\n\nYou can find all the state plugin config options in the API. Make a selection and refresh this page to see the change persisted.\n\n$(function () {\n  $(\"#plugins6\").jstree({\n    \"state\" : { \"key\" : \"demo2\" },\n    \"plugins\" : [ \"state\" ]\n  });\n});\nRoot node\nA\nfew\nmore\nnodes\nRoot node 2\n Types plugin\n\nThis plugin makes it possible to add predefined types for groups of nodes, which means to easily control nesting rules and icon for each group.\n\nTo set a node's type you can use set_type or supply a type property with the node's data.\n\nYou can find all the types plugin config options & functions in the API.\n\n$(function () {\n  $(\"#plugins7\").jstree({\n    \"types\" : {\n      \"default\" : {\n        \"icon\" : \"glyphicon glyphicon-flash\"\n      },\n      \"demo\" : {\n        \"icon\" : \"glyphicon glyphicon-ok\"\n      }\n    },\n    \"plugins\" : [ \"types\" ]\n  });\n});\nRoot node\nNode\nRoot node 2\n Unique plugin\n\nEnforces that no nodes with the same name can coexist as siblings. This plugin has no options, it just prevents renaming and moving nodes to a parent, which already contains a node with the same name.\n\n$(function () {\n  $(\"#plugins8\").jstree({\n    \"core\" : {\n      \"check_callback\" : true\n    },\n    \"plugins\" : [ \"unique\", \"dnd\" ]\n  });\n});\nRoot node\nNode\nRoot node 2\n Wholerow plugin\n\nMakes each node appear block level which makes selection easier. May cause slow down for large trees in old browsers.\n\n$(function () {\n  $(\"#plugins9\").jstree({\n    \"plugins\" : [ \"wholerow\" ]\n  });\n});\n \nRoot node\n \nNode\n \nRoot node 2\n\nclick here for the old site (v.1)"
+}

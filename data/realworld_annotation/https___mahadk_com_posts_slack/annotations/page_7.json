@@ -1,0 +1,100 @@
+{
+    "image_count": 8,
+    "images": [
+        "https://cdn.mahadk.com/s/v3/fa4d19cdf4b054d4_image.png",
+        "https://cdn.mahadk.com/s/v3/fa0761d06de95286_image.png",
+        "https://cdn.mahadk.com/s/v3/9aed674092d49d24_image.png",
+        "https://cdn.mahadk.com/s/v3/f346a09eb011342a_image.png",
+        "https://cdn.mahadk.com/s/v3/1e8f7dc501128b15_image.png",
+        "https://cdn.mahadk.com/s/v3/61dc1d957dc892f8_image.png",
+        "https://cdn.mahadk.com/s/v3/f03c15b9365950ff_image.png",
+        "https://mahadk.com/_astro/hc-icon.DZgRWiaK_1X3xi2.svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 20,
+    "links": [
+        {
+            "text": "Mahad Kalam",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Home",
+            "href": "https://mahadk.com/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Projects",
+            "href": "https://mahadk.com/projects"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "Contact",
+            "href": "https://mahadk.com/contact"
+        },
+        {
+            "text": "‘AI Skills Hub’",
+            "href": "https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030"
+        },
+        {
+            "text": "£4.1 million (~$5,657,000).",
+            "href": "https://www.find-tender.service.gov.uk/Notice/001337-2025"
+        },
+        {
+            "text": "fair use",
+            "href": "https://en.wikipedia.org/wiki/Fair_use"
+        },
+        {
+            "text": "(credits for the photo)",
+            "href": "https://x.com/ednewtonrex/status/2016443895505203379"
+        },
+        {
+            "text": "“AI Delivery”",
+            "href": "https://delivery.ai.gov.uk/"
+        },
+        {
+            "text": "Back to all blog posts",
+            "href": "https://mahadk.com/posts"
+        },
+        {
+            "text": "Subscribe on RSS",
+            "href": "https://mahadk.com/rss.xml"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/SkyfallWasTaken"
+        },
+        {
+            "text": "",
+            "href": "https://x.com/skyfall_ggs"
+        },
+        {
+            "text": "Update image link for Spaces admin panel screenshot\n(8f92858)",
+            "href": "https://github.com/SkyfallWasTaken/skyfall-site/commit/8f92858"
+        },
+        {
+            "text": "512KB Club\nTeam Blue",
+            "href": "https://512kb.club/"
+        },
+        {
+            "text": "‹",
+            "href": "https://saleh.hackclub.com/"
+        },
+        {
+            "text": "",
+            "href": "https://webring.hackclub.com/"
+        },
+        {
+            "text": "›",
+            "href": "https://doruk.dino.icu/"
+        }
+    ],
+    "text_length": 3231,
+    "text_full": "Mahad Kalam\nHome /\nBlog /\nProjects /\nGitHub /\nContact\nThe UK paid £4.1 million for a bookmarks site\n\nThe UK Government recently unveiled its ‘AI Skills Hub’, which wants to provide 10 million workers with AI skills by 2030. The main site was delivered by PwC for the low, low price of.. £4.1 million (~$5,657,000).\n\nIt is not good. Like, at all - the UI is insanely bad and it’s clear that this was just a vibecoded site (to be fair, this is the AI Skills Hub, but c’mon, where is the pride in your work? I would be ashamed to even release this as a prototype!)\n\nPwC didn’t even write any of the course content! The only thing the Skills Hub does is link out to external pages, like Salesforce’s free Trailhead learning platform:\n\nNote that I’m fairly certain this course already existed before the contract was even awarded, so all the site does is.. link out to other sites?\n\nPwC itself also admits that the site does not properly meet accessibility standards:\n\nEven for those without a disability, the lack of here in this regard means that the site can be very confusing and buggy as a result.\n\nIncorrect laws\n\nThe site has a course on “AI and intellectual property”. One thing it mentions is fair use:\n\n(credits for the photo)\n\nExcept that fair use is not a thing in the UK - that’s a US concept! The UK uses what’s known as “fair dealing”, which is more restrictive than fair use, so the details here are plain wrong.\n\nLack of care, lack of craft\n\nThe interface for this website has also not been clearly thought out - one glaring example is the process of actually enrolling in a course.\n\nOn the course page, the “Enroll Now” button is tiny, and if you don’t see it and try scrolling down to the bottom, you will find yourself nothing but a comment section!\n\nThen you have other bugs too, like the “Skills & Training Gap Analysis” - which is linked at the top of the site! - apparently being closed off to the public for no reason:\n\nTo be honest, seeing this made me angry.\n\nI’m angry at the sheer wastefulness of the UK Government here. Our public services are collapsing - while £4 million is admittedly chump change for the UK government, there are real people behind these numbers - families waiting months for NHS appointments, children in crumbling schools, vulnerable people not getting the care they need. The waste feels particularly galling when you realise that almost no one will actually use this site!\n\nI’m also angry that the small webdev businesses we have here in the UK were left out of this - for less than 5% of the cost, we’d have a better website and help out small businesses who actually care about their work, instead of handing the project to a multinational company that made nearly $60 billion in revenue in a year and has zero qualms about ripping off the British taxpayer.\n\nDo better.\n\nA reader sent me another “AI Delivery” site from the government, that was also AI generated. This one is admittedly a fair bit better — for one thing, we didn’t pay £4.1 million for it! — but have some pride in your work, for goodness sake!\n\nJanuary 28th 2026\nBack to all blog posts\nSubscribe on RSS\n\n© 2026 Mahad Kalam.\n\nUpdate image link for Spaces admin panel screenshot\n(8f92858)\n512KB Club\nTeam Blue\n‹\n›"
+}

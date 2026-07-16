@@ -1,0 +1,92 @@
+{
+  "start_url": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
+    "https://www.cs.cmu.edu/~pavlo/",
+    "https://www.cs.cmu.edu/~pavlo/blog/index.html",
+    "https://www.cs.cmu.edu/~pavlo/publications.html",
+    "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html",
+    "https://www.cs.cmu.edu/~pavlo/blog/2024/01/2023-databases-retrospective.html",
+    "https://db.cs.cmu.edu/",
+    "https://pdl.cmu.edu/",
+    "https://www.cs.cmu.edu/~pavlo/info/pavlo-bio2025.txt",
+    "https://csd.cmu.edu/people/staff/michael-stanley",
+    "https://www.toddcmowry.org/",
+    "https://www.cs.cmu.edu/~pavlo/blog/2023/06/yes-postgresql-has-problems-but-were-sticking-with-it.html",
+    "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html",
+    "https://www.cs.cmu.edu/~pavlo/blog/2022/12/2022-databases-retrospective.html",
+    "https://www.cs.cmu.edu/~pavlo/blog/2022/03/database-ten-commandments.html",
+    "https://www.cs.cmu.edu/~pavlo/blog/2021/12/2021-databases-retrospective.html",
+    "https://db.cs.cmu.edu/mmap-cidr2022/",
+    "https://db.cs.cmu.edu/seminars/fall2024/",
+    "http://reports-archive.adm.cs.cmu.edu/anon/2023/abstracts/23-144.html",
+    "https://www.cmu.edu/policies/faculty/appointment-and-tenure-policy.html"
+  ],
+  "by_depth": {
+    "0": [
+      "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html"
+    ],
+    "1": [
+      "https://www.cs.cmu.edu/~pavlo/",
+      "https://www.cs.cmu.edu/~pavlo/blog/index.html",
+      "https://www.cs.cmu.edu/~pavlo/publications.html",
+      "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html",
+      "https://www.cs.cmu.edu/~pavlo/blog/2024/01/2023-databases-retrospective.html"
+    ],
+    "2": [
+      "https://db.cs.cmu.edu/",
+      "https://pdl.cmu.edu/",
+      "https://www.cs.cmu.edu/~pavlo/info/pavlo-bio2025.txt",
+      "https://csd.cmu.edu/people/staff/michael-stanley",
+      "https://www.toddcmowry.org/",
+      "https://www.cs.cmu.edu/~pavlo/blog/2023/06/yes-postgresql-has-problems-but-were-sticking-with-it.html",
+      "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html",
+      "https://www.cs.cmu.edu/~pavlo/blog/2022/12/2022-databases-retrospective.html",
+      "https://www.cs.cmu.edu/~pavlo/blog/2022/03/database-ten-commandments.html",
+      "https://www.cs.cmu.edu/~pavlo/blog/2021/12/2021-databases-retrospective.html",
+      "https://db.cs.cmu.edu/mmap-cidr2022/",
+      "https://db.cs.cmu.edu/seminars/fall2024/",
+      "http://reports-archive.adm.cs.cmu.edu/anon/2023/abstracts/23-144.html",
+      "https://www.cmu.edu/policies/faculty/appointment-and-tenure-policy.html",
+      "https://15799.courses.cs.cmu.edu/spring2025/",
+      "https://15721.courses.cs.cmu.edu/spring2023/schedule.html",
+      "https://db.cs.cmu.edu/tour2014/"
+    ],
+    "3": [
+      "https://db.cs.cmu.edu/people/",
+      "https://db.cs.cmu.edu/projects/",
+      "https://db.cs.cmu.edu/publications/",
+      "https://db.cs.cmu.edu/courses/",
+      "https://db.cs.cmu.edu/news/",
+      "https://www.cmu.edu/",
+      "https://pdl.cmu.edu/index.shtml",
+      "https://pdl.cmu.edu/about.shtml",
+      "https://pdl.cmu.edu/BigLearning/index.shtml",
+      "https://pdl.cmu.edu/CacheEviction/index.shtml",
+      "https://csd.cmu.edu/academics/current-student-resources",
+      "https://csd.cmu.edu/faculty-resources",
+      "https://csd.cmu.edu/staff-resources",
+      "https://givenow.cmu.edu/campaigns/42524/donations/new",
+      "https://www.cmu.edu/visit",
+      "https://www.cs.cmu.edu/~kaminsky/",
+      "https://www.pdl.cmu.edu/SDI/",
+      "https://www.pdl.cmu.edu/",
+      "https://db.cs.cmu.edu/events/building-blocks-apache-arrow-datafusion-a-fast-embeddable-modular-analytic-query-engine-andrew-lamb/",
+      "https://db.cs.cmu.edu/events/building-blocks-apache-datafusion-comet-andy-grove/",
+      "https://db.cs.cmu.edu/events/building-blocks-paradedb-philippe-noel/",
+      "https://www.cs.cmu.edu/research/publications",
+      "https://www.cs.cmu.edu/",
+      "https://www.cmu.edu/policies/index.html",
+      "https://www.cmu.edu/policies/administrative-and-governance/index.html",
+      "https://www.cmu.edu/policies/faculty/index.html",
+      "https://www.cmu.edu/policies/financial-management/index.html"
+    ]
+  },
+  "dead_links": [
+    "https://www.cs.cmu.edu/~pavlo/blog/2021/12/2021-databases-retrospective",
+    "https://www.cs.cmu.edu/~pavlo/blog/2024/01/run-postgresql-analyze-to-fix-a-slowdow-in-db"
+  ]
+}

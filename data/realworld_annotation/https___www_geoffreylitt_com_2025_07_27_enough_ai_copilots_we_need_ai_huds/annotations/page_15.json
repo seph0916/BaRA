@@ -1,0 +1,75 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://www.geoffreylitt.com/images/headshot.jpg?1761416283"
+    ],
+    "video_count": 1,
+    "videos": [
+        "https://www.geoffreylitt.com/images/project_images/json-sheets/jq-sheets.mp4"
+    ],
+    "link_count": 15,
+    "links": [
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Geoffrey Litt",
+            "href": "https://www.geoffreylitt.com/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://www.geoffreylitt.com/#projects"
+        },
+        {
+            "text": "Writing",
+            "href": "https://www.geoffreylitt.com/#writing"
+        },
+        {
+            "text": "Inspirations",
+            "href": "https://www.geoffreylitt.com/inspirations"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://buttondown.email/geoffreylitt"
+        },
+        {
+            "text": "Twitter",
+            "href": "http://www.twitter.com/geoffreylitt"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@geoffreylitt"
+        },
+        {
+            "text": "RSS",
+            "href": "https://www.geoffreylitt.com/feed.xml"
+        },
+        {
+            "text": "code on Github",
+            "href": "https://github.com/geoffreylitt/json-sheets"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/projects/json-sheets#v1-jq-sheets"
+        },
+        {
+            "text": "jq",
+            "href": "https://stedolan.github.io/jq/manual/"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/projects/json-sheets#v2-gui-sheets"
+        },
+        {
+            "text": "Observable’s dependency viz",
+            "href": "https://observablehq.com/@observablehq/introducing-visual-dataflow"
+        },
+        {
+            "text": "",
+            "href": "https://www.geoffreylitt.com/projects/json-sheets#v3-and-beyond"
+        }
+    ],
+    "text_length": 5601,
+    "text_full": " Geoffrey Litt\nProjects\nWriting\nInspirations\nSubscribe:\nNewsletter \nTwitter \nMastodon \nRSS \nContact\nEmail me \nJSON Sheets\n\nIn fall 2019 I made some prototypes of a live programming environment called JSON Sheets. At this point it’s still just an 🚧 early draft 🚧, but I plan to return to it at some point to develop it further.\n\nYou can see the (very prototype-y) code on Github.\n\nv1: jq-sheets\n\nOften, programming requires tedious manipulation of data structures, like “loop over each element in this list, and extract this deeply nested key.”\n\nLanguage features can help here, especially idioms from functional programming. But I think another part of the solution is having an environment where you can see the data as you transform it, so you’re not working blindfolded.\n\nThe original idea for this project was to make a live programming environment around jq, which is a nice language for manipulating JSON data.\n\nIn the demo video below, I’m taking a list of git commits from the Github API, getting the author for each commit, getting the API endpoint for querying their followers, issuing web requests to those URLs to fetch the list of followers, and then getting the usernames of the author’s followers.\n\nEach column contains an array of JSON data. At the top of the column, the user can enter a formula that transforms the previous column’s data. Just like in a spreadsheet, you can see each intermediate stage of your data transformation in a separate column.\n\nThere are two options for the formula language:\n\njq, a concise DSL for manipulating JSON collections. The expression operates on the entire JSON collection all at once.\nJavascript, for general-purpose programming. Currently, the runtime iterates over the top-level array and runs the provided code snippet once per element. This makes it easy to run code once per object, eg in the demo, doing an HTTP request for each URL, without needing to write your own map function.\n\nThere’s so much more that could be done on top of this starting point; a few ideas:\n\nThere should be autocomplete for field names in the formula editor, and the ability to directly click on fields in the data to use them in a formula, like clicking on cells in a spreadsheet\nCurrently the formula editor just errors out on partial formulas that aren’t syntactically valid. This needs to be improved for a smoother live programming experience, to guide users towards a correct full formula\nBecause there are no grid rows, it’s a bit hard to tell which objects on the left correspond to which objects in the downstream output on the right. This could be solved with better visual cues.\njq is nice, but I want to try designing a language that can take better advantage of the visual environment (just as a spreadsheet formula language is co-designed with the spreadsheet editor)\nv2: GUI-Sheets\n\nEventually the project spiraled out of control morphed into something quite different: a live programming environment for building GUI applications in a pure functional style.\n\nHere’s a 10 minute demo of TodoMVC built in this environment:\n\nThe main ideas:\n\nMake your UI a pure function of your data\nUse a spreadsheet-style reactive interface to build up the function data -> UI. Split up the transformation into little incremental “cells”, each of which show live output. The formula code for each cell is written in Javascript. A cell can reactively reference data from other cells, and can output either data (as vanilla JS data) or UI (using JSX templating).\nHandling user input is the tricky part. Here’s how it works: there’s one special system cell that exposes an append-only event stream of all the DOM events happening in the UI. All other cells derive their state as pure functions over the live output of this cell. (This is kind of related to the Elm architecture / event sourcing. Also thanks to Steve Krouse for the inspiration here.)\n\nSome future areas of work:\n\nVisualizing event stream manipulations: Those complicated reduce functions in Javascript aren’t easy to write or read. I think 1) a cleaner DSL that can pattern match on event types, 2) more visualization of what the reduce is doing to the stream would help.\nVisualizing dependencies: Unlike a “nodes-and-wires” environment, we use the spreadsheet style of referencing by name here, to avoid the chaos of wires. In a normal spreadsheet, you can see much of the data you care about all at once, but in JSON Sheets, there’s so much nested data that most of it is hidden from you, which makes it difficult to intuit how dependencies are working (eg “when I update this cell, what else is updating?”) Since we have the explicit dependency graph available, I’d like to explore lots of options for surfacing the dependencies. A couple basic ideas:\nWhen a cell updates, its child cells briefly flash to indicate they updated\nWhen editing a cell, the right-hand cell list prioritizes showing you the parents and children of the cell you’re editing\nTake inspiration from Observable’s dependency viz\nPerformance: Currently the implementation is incredibly naive. At the least it needs to use the classic spreadsheet dependency update algorithm to work faster. Also probably need to compact the event stream? Most likely can’t keep reducing over the whole stream forever.\nv3 and beyond?\n\nAt this point, jq-sheets and GUI-sheets are basically independent ideas.\n\nI think GUI-sheets seems more interesting to explore further – pure data transformation pipelines are well-trodden ground, but building interactive UIs in a spreadsheet is murkier territory.\n\nLet me know if you have ideas about this."
+}

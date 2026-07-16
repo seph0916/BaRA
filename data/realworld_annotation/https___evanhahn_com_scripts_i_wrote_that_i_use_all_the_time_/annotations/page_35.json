@@ -1,0 +1,173 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://evanhahn.com/images/logo_white.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 40,
+    "links": [
+        {
+            "text": "",
+            "href": "https://evanhahn.com/"
+        },
+        {
+            "text": "Contact",
+            "href": "https://evanhahn.com/contact/"
+        },
+        {
+            "text": "Projects",
+            "href": "https://evanhahn.com/projects/"
+        },
+        {
+            "text": "Guides",
+            "href": "https://evanhahn.com/guides/"
+        },
+        {
+            "text": "Blog",
+            "href": "https://evanhahn.com/blog/"
+        },
+        {
+            "text": "Make ZIP files smaller with ZIP Shrinker",
+            "href": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "All tests pass: a short story",
+            "href": "https://evanhahn.com/all-tests-pass-a-short-story/"
+        },
+        {
+            "text": "#story",
+            "href": "https://evanhahn.com/tags/story/"
+        },
+        {
+            "text": "#ai",
+            "href": "https://evanhahn.com/tags/ai/"
+        },
+        {
+            "text": "#arturo",
+            "href": "https://evanhahn.com/tags/arturo/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#satire",
+            "href": "https://evanhahn.com/tags/satire/"
+        },
+        {
+            "text": "Introducing gzpeek, a tool to parse gzip metadata",
+            "href": "https://evanhahn.com/introducing-gzpeek/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#experiment",
+            "href": "https://evanhahn.com/tags/experiment/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#tool",
+            "href": "https://evanhahn.com/tags/tool/"
+        },
+        {
+            "text": "#zig",
+            "href": "https://evanhahn.com/tags/zig/"
+        },
+        {
+            "text": "Notes from January 2026",
+            "href": "https://evanhahn.com/notes-from-january-2026/"
+        },
+        {
+            "text": "#month-notes",
+            "href": "https://evanhahn.com/tags/month-notes/"
+        },
+        {
+            "text": "#work",
+            "href": "https://evanhahn.com/tags/work/"
+        },
+        {
+            "text": "#release",
+            "href": "https://evanhahn.com/tags/release/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#public-domain",
+            "href": "https://evanhahn.com/tags/public-domain/"
+        },
+        {
+            "text": "#link",
+            "href": "https://evanhahn.com/tags/link/"
+        },
+        {
+            "text": "How to use the JavaScript Compression Streams API to (de)compress strings",
+            "href": "https://evanhahn.com/javascript-compression-streams-api-with-strings/"
+        },
+        {
+            "text": "#javascript",
+            "href": "https://evanhahn.com/tags/javascript/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "My mnemonic to remember tar commands on Linux",
+            "href": "https://evanhahn.com/mnemonic-to-remember-tar-commands/"
+        },
+        {
+            "text": "#unix",
+            "href": "https://evanhahn.com/tags/unix/"
+        },
+        {
+            "text": "#guide",
+            "href": "https://evanhahn.com/tags/guide/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "Proof of concept: drop-in JSON replacement that produces smaller payloads",
+            "href": "https://evanhahn.com/jsos-proof-of-concept/"
+        },
+        {
+            "text": "#json",
+            "href": "https://evanhahn.com/tags/json/"
+        },
+        {
+            "text": "#compression",
+            "href": "https://evanhahn.com/tags/compression/"
+        },
+        {
+            "text": "#performance",
+            "href": "https://evanhahn.com/tags/performance/"
+        }
+    ],
+    "text_length": 747,
+    "text_full": "Contact\nProjects\nGuides\nBlog\n7 posts tagged #compression\n2026\nMake ZIP files smaller with ZIP Shrinker\n2026-05-16 #compression #tool #release\nAll tests pass: a short story\n2026-03-22 #story #ai #arturo #compression #satire\nIntroducing gzpeek, a tool to parse gzip metadata\n2026-02-26 #compression #experiment #release #tool #zig\nNotes from January 2026\n2026-01-31 #month-notes #work #release #compression #public-domain #link\n2023\nHow to use the JavaScript Compression Streams API to (de)compress strings\n2023-10-07 #javascript #compression #guide\nMy mnemonic to remember tar commands on Linux\n2023-08-19 #unix #guide #compression\nProof of concept: drop-in JSON replacement that produces smaller payloads\n2023-07-19 #json #compression #performance"
+}

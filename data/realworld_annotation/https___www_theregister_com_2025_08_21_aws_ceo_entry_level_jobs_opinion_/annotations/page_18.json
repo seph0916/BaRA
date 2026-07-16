@@ -1,0 +1,979 @@
+{
+    "image_count": 75,
+    "images": [
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+        "https://image.theregister.com/5237495.jpg?imageId=5237495&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/5231074.jpg?imageId=5231074&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227778.jpg?imageId=227778&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257605.jpg?imageId=257605&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/1683886.jpg?imageId=1683886&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/236073.jpg?imageId=236073&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235651.jpg?imageId=235651&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256663.jpg?imageId=256663&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/224820.jpg?imageId=224820&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256704.jpg?imageId=256704&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241611.jpg?imageId=241611&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225153.jpg?imageId=225153&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254904.jpg?imageId=254904&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256615.jpg?imageId=256615&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/227765.jpg?imageId=227765&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256446.jpg?imageId=256446&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/259070.jpg?imageId=259070&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256518.jpg?imageId=256518&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226461.jpg?imageId=226461&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/176319.jpg?imageId=176319&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261865.jpg?imageId=261865&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/252284.jpg?imageId=252284&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/257846.jpg?imageId=257846&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244095.jpg?imageId=244095&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/240087.jpg?imageId=240087&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255283.jpg?imageId=255283&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226871.jpg?imageId=226871&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241402.jpg?imageId=241402&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254457.jpg?imageId=254457&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/258237.jpg?imageId=258237&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/261874.jpg?imageId=261874&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243410.jpg?imageId=243410&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/229608.jpg?imageId=229608&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/242737.jpg?imageId=242737&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228496.jpg?imageId=228496&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253503.jpg?imageId=253503&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254087.jpg?imageId=254087&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/243702.jpg?imageId=243702&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/232215.jpg?imageId=232215&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/223362.jpg?imageId=223362&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255393.jpg?imageId=255393&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254945.jpg?imageId=254945&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253370.jpg?imageId=253370&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/195645.jpg?imageId=195645&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230587.jpg?imageId=230587&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234618.jpg?imageId=234618&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/240010.jpg?imageId=240010&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234922.jpg?imageId=234922&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/241627.jpg?imageId=241627&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/245251.jpg?imageId=245251&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/254904.jpg?imageId=254904&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/263011.jpg?imageId=263011&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253533.jpg?imageId=253533&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/222434.jpg?imageId=222434&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/251962.jpg?imageId=251962&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/250846.jpg?imageId=250846&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/244578.jpg?imageId=244578&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/230165.jpg?imageId=230165&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/164714.jpg?imageId=164714&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/255251.jpg?imageId=255251&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/238130.jpg?imageId=238130&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/256057.jpg?imageId=256057&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/253028.jpg?imageId=253028&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/260641.jpg?imageId=260641&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/226024.jpg?imageId=226024&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/235535.jpg?imageId=235535&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/234831.jpg?imageId=234831&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/225431.jpg?imageId=225431&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/228760.jpg?imageId=228760&width=960&height=432&format=webp&format=jpg",
+        "https://image.theregister.com/231347.jpg?imageId=231347&width=960&height=432&format=webp&format=jpg",
+        "https://www.theregister.com/files/2025/10/15/The_register_full_icon_white.svg",
+        "https://beta.theregister.com/files/2025/10/09/SituationPublishing_Logo_Evolution_Twolines-White-Barlow%20(1).svg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 223,
+    "links": [
+        {
+            "text": "Jump to main content",
+            "href": "https://www.theregister.com/cxo#main"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cyber_crime"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/patches"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/research"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cso"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/off_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/edge_iot"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/channel"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/paas_iaas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/saas"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/on_prem"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/systems"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/storage"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/networks"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/hpc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/personal_tech"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/cxo"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/public-sector"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/software"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/ai_ml"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/applications"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/databases"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/devops"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/oses"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/virtualization"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/offbeat"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/columnists"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/science"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bofh"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/legal"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/bootnotes"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/site_news"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/about_us"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/tag/special_features"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/explainer/ai-explainer"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/rsa"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/agentic_ai"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/future_of_the_datacenter"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/aws_reinvent"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/nvidia_gtc"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_sycomp_supercomputing"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/special_features/2025_11_supercomputing_month"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/infinidat/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/everpure/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/rubrik/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_capgemini/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_fis/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/zte_news_and_stories/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+        },
+        {
+            "text": "",
+            "href": "https://vendorvoice.theregister.com/aws_new_horizon/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://intelligence.theregister.com/events/list/"
+        },
+        {
+            "text": "",
+            "href": "https://account.theregister.com/login?r=https%3A%2F%2Faccount.theregister.com%2Fedit%2Fnewsletter%2F"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "",
+            "href": "https://www.theregister.com/"
+        },
+        {
+            "text": "Sign in",
+            "href": "https://account.theregister.com/login/"
+        },
+        {
+            "text": "Datacenter",
+            "href": "https://www.theregister.com/tag/datacenter"
+        },
+        {
+            "text": "Security",
+            "href": "https://www.theregister.com/security"
+        },
+        {
+            "text": "Microsoft",
+            "href": "https://www.theregister.com/tag/microsoft"
+        },
+        {
+            "text": "AWS",
+            "href": "https://www.theregister.com/tag/aws"
+        },
+        {
+            "text": "Developer",
+            "href": "https://www.theregister.com/tag/developer"
+        },
+        {
+            "text": "Open Source",
+            "href": "https://www.theregister.com/tag/open%20source"
+        },
+        {
+            "text": "IT Careers",
+            "href": "https://www.theregister.com/tag/tech%20jobs"
+        },
+        {
+            "text": "Columnists",
+            "href": "https://www.theregister.com/tag/columnists"
+        },
+        {
+            "text": "Who, Me?",
+            "href": "https://www.theregister.com/tag/who%20me"
+        },
+        {
+            "text": "On Call",
+            "href": "https://www.theregister.com/tag/on%20call/"
+        },
+        {
+            "text": "Tech is now rolling out the old grievance grift\n\nNot just for hated US Presidents, now even tech bros lament their foes",
+            "href": "https://www.theregister.com/cxo/2026/05/08/tech-is-now-rolling-out-the-old-grievance-grift/5237475"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/05/08/202618/"
+        },
+        {
+            "text": "Home Office seeks three CTOs to keep borders, passports, and core IT ticking\n\nRoles span eGates, passports, visas, asylum applications, and enterprise services – yours for up to £105K",
+            "href": "https://www.theregister.com/cxo/2026/05/07/home-office-seeks-three-ctos-to-keep-borders-passports-and-core-it-ticking/5231039"
+        },
+        {
+            "text": "14",
+            "href": "https://forums.theregister.com/forum/all/2026/05/07/20264/"
+        },
+        {
+            "text": "World's smallest violin spotted at Amazon HQ as exec pay packets deflate\n\nC-suite forced to take sandwiches into work, cycle home",
+            "href": "https://www.theregister.com/on-prem/2026/04/09/tiny-violins-as-amazon-execs-face-pay-packet-pinch/5223438"
+        },
+        {
+            "text": "24",
+            "href": "https://forums.theregister.com/forum/all/2026/04/09/amazon_execs_pay_packet_pinch/"
+        },
+        {
+            "text": "ServiceNow lays out possible co-CEO structure, but says no change imminent\n\nThe ITSM outfit would join Oracle, Comcast, and Netflix in installing bunk beds in the corner office",
+            "href": "https://www.theregister.com/on-prem/2025/12/30/servicenow-sec-filing-outlines-possible-co-ceo-structure/2784446"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2025/12/30/servicenow_outlines_coceo_structure/"
+        },
+        {
+            "text": "Techie 'forgot' to tell boss their cost-saving idea meant a day of gaming\n\nOne keypress turned a tricky Windows NT balancing act into a life of leisure",
+            "href": "https://www.theregister.com/on-prem/2025/12/15/techie-convinced-her-boss-that-playing-games-was-really-work/2203450"
+        },
+        {
+            "text": "113",
+            "href": "https://forums.theregister.com/forum/all/2025/12/15/who_me/"
+        },
+        {
+            "text": "Apple reportedly peels away some sales staff in small round of layoffs\n\nCompany has hitherto thought different about sackings",
+            "href": "https://www.theregister.com/on-prem/2025/11/24/apple-peels-away-some-sales-staff-in-small-layoff/2439519"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/11/24/apple_sales_layoffs_report/"
+        },
+        {
+            "text": "Trump's anti-sustainability agenda comes to Eurozone\n\nESG kicked like a 'toxic political football' amid greenwashing",
+            "href": "https://www.theregister.com/on-prem/2025/10/15/trumps-anti-sustainability-agenda-comes-to-eurozone/1455339"
+        },
+        {
+            "text": "128",
+            "href": "https://forums.theregister.com/forum/all/2025/10/15/europe_sustainability_canalys/"
+        },
+        {
+            "text": "Two heads better than one? Oracle gives the co-CEO model another shot\n\nCloud and apps chiefs step up as Safra Catz moves upstairs. Larry remains Larry",
+            "href": "https://www.theregister.com/on-prem/2025/09/22/two-heads-better-than-one-oracle-tries-co-ceo-model-again/931050"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2025/09/22/oracle_leadership_changes/"
+        },
+        {
+            "text": "Get paid like a prime minister to tame Home Office IT chaos\n\nDepartment dangles £160K salary for CDIO to wrangle legacy systems, failed projects, and £1.8B budget",
+            "href": "https://www.theregister.com/on-prem/2025/09/10/get-paid-like-a-prime-minister-to-tame-home-office-it-chaos/1426830"
+        },
+        {
+            "text": "43",
+            "href": "https://forums.theregister.com/forum/all/2025/09/10/home_office_cdio/"
+        },
+        {
+            "text": "Microsoft CEO feels weighed down by job cuts\n\nSatya Nadella lays out revised mission for Redmond. Spoiler: It involves AI",
+            "href": "https://www.theregister.com/on-prem/2025/07/25/microsoft-ceo-feels-weighed-down-by-job-cuts/651746"
+        },
+        {
+            "text": "44",
+            "href": "https://forums.theregister.com/forum/all/2025/07/25/microsoft_ceo_job_cuts/"
+        },
+        {
+            "text": "Intel's leaders have stopped pretending – and it's about time\n\nNot even in the top 10, CEO Lip-Bu Tan reportedly tells employees",
+            "href": "https://www.theregister.com/on-prem/2025/07/10/intel-ceo-reportedly-comes-to-terms-with-chipmakers-fall/769296"
+        },
+        {
+            "text": "75",
+            "href": "https://forums.theregister.com/forum/all/2025/07/10/intel_ceo_offers_reality_check/"
+        },
+        {
+            "text": "European Commission: Make Europe Great Again... for startups\n\nSick of paying the US tech tax and relinquishing talent to other continents, politicians finally wake up",
+            "href": "https://www.theregister.com/on-prem/2025/05/29/european-commission-make-europe-great-again-for-startups/1059340"
+        },
+        {
+            "text": "31",
+            "href": "https://forums.theregister.com/forum/all/2025/05/29/european_commission_wants_tech_startups/"
+        },
+        {
+            "text": "Empire of office workers strikes back against RTO mandates\n\nThe rebellion grows and it seems resistance is not futile",
+            "href": "https://www.theregister.com/on-prem/2025/05/27/empire-of-office-workers-strkes-back-against-rto-mandates/1131926"
+        },
+        {
+            "text": "126",
+            "href": "https://forums.theregister.com/forum/all/2025/05/27/office_workers_ignore_rto_mandate/"
+        },
+        {
+            "text": "To progress as an engineer career-wise, become a great communicator\n\nIt'll even help you develop technical skills",
+            "href": "https://www.theregister.com/on-prem/2025/05/18/be-a-great-communicator-to-progress-in-engineering/909260"
+        },
+        {
+            "text": "35",
+            "href": "https://forums.theregister.com/forum/all/2025/05/18/communications_for_engineers/"
+        },
+        {
+            "text": "Bosses weren’t being paranoid: Remote workers more likely to start own biz\n\nAll those return to office mandates make a lot more sense now",
+            "href": "https://www.theregister.com/on-prem/2025/05/12/remote-work-leads-to-more-startups-economists-find/1133355"
+        },
+        {
+            "text": "46",
+            "href": "https://forums.theregister.com/forum/all/2025/05/12/remote_work_leads_to_more_startups/"
+        },
+        {
+            "text": "Break free from infrastructure limits: Nutanix and Dell for Agile, scalable IT\n\nJoin us here at 0900 PT, April 30, to find out more",
+            "href": "https://www.theregister.com/on-prem/2025/04/18/choose-nutanix-dell-for-agile-scalable-it/914460"
+        },
+        {
+            "text": "Datacenters selling power back to the grid? Don’t bet on it, say operators\n\nBit barns in Dublin doubled as battery farms, the rest of the world isn’t buying it",
+            "href": "https://www.theregister.com/on-prem/2025/04/17/datacenters-selling-power-back-to-the-grid-dont-bet-on-it/1135464"
+        },
+        {
+            "text": "33",
+            "href": "https://forums.theregister.com/forum/all/2025/04/17/datacenters_feed_energy_back_unrealistic/"
+        },
+        {
+            "text": "Trump's tariff turmoil leaves IT projects in deep freeze\n\nInvestment delays are inevitable as uncertainty clouds US trade policy, warns investment bank",
+            "href": "https://www.theregister.com/on-prem/2025/04/14/trumps-tariff-turmoil-leaves-it-projects-in-deep-freeze/437119"
+        },
+        {
+            "text": "116",
+            "href": "https://forums.theregister.com/forum/all/2025/04/14/trump_trade_war_jefferies/"
+        },
+        {
+            "text": "Apple settles unfair labor charges brought by fired engineering manager\n\nWhistleblower Ashley Gjøvik hails iWatershed iMoment for iStaff iRights",
+            "href": "https://www.theregister.com/on-prem/2025/04/10/apple-agrees-to-settle-unfair-labor-charges/370367"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2025/04/10/apple_agrees_to_settle_unfair/"
+        },
+        {
+            "text": "Not even Intel's top bosses know what's on CEO Lip-Bu Tan's chopping block\n\nChipzilla chief asked customers to be 'brutally honest' ... which will lead to what changes, we wonder",
+            "href": "https://www.theregister.com/on-prem/2025/04/01/intels-top-execs-clueless-on-tans-chopping-block/903369"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2025/04/01/intel_vision_cuts/"
+        },
+        {
+            "text": "Samsung co-CEO Han Jong-hee dies of heart attack at 63\n\nThe man who helped make Sammy the biggest name in modern tellies",
+            "href": "https://www.theregister.com/on-prem/2025/03/25/samsung-co-ceo-han-jong-hee-dies-of-heart-attack-at-63/1223996"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2025/03/25/samsung_co_ceo_dies/"
+        },
+        {
+            "text": "4-day work-week pilot due in tech land by early summer\n\nMicrosoft and Dell keeping quiet on their work-life-balance trials",
+            "href": "https://www.theregister.com/on-prem/2025/03/25/4-day-work-week-pilot-due-in-tech-land-by-early-summer/1463016"
+        },
+        {
+            "text": "35",
+            "href": "https://forums.theregister.com/forum/all/2025/03/25/fourdayworkweek_pilot_due_in_tech/"
+        },
+        {
+            "text": "2 in 5 techies quit over inflexible workplace policies\n\nReturn to office, hours and intensity of work cited as reasons to walk",
+            "href": "https://www.theregister.com/on-prem/2025/03/24/2-in-5-techies-quit-over-inflexible-workplace-policies/1563284"
+        },
+        {
+            "text": "122",
+            "href": "https://forums.theregister.com/forum/all/2025/03/24/2_in_5_techies_quit/"
+        },
+        {
+            "text": "Diversity, equity, and inclusion is not an illusion, but it soon might be\n\nGlobal tech corps wrestle with policy disparity on either side of the Atlantic",
+            "href": "https://www.theregister.com/on-prem/2025/02/13/diversity-equity-and-inclusion-is-not-an-illusion/499448"
+        },
+        {
+            "text": "280",
+            "href": "https://forums.theregister.com/forum/all/2025/02/13/diversity_equity_inclusion_tech/"
+        },
+        {
+            "text": "Trump admin seeks to reclassify federal CIOs, opening door to political appointees\n\nFall in line with executive policy or you're gone, acting OPM chief insists",
+            "href": "https://www.theregister.com/on-prem/2025/02/05/trump-admin-seeks-to-make-federal-cios-political-appointees/855316"
+        },
+        {
+            "text": "48",
+            "href": "https://forums.theregister.com/forum/all/2025/02/05/trump_administration_reclassified_cios/"
+        },
+        {
+            "text": "Former Amazon exec appointed as boss of UK's competition watchdog\n\nInterim appointment after former head booted out for not being 'sufficiently focused on growth'",
+            "href": "https://www.theregister.com/on-prem/2025/01/22/ex-amazon-exec-appointed-chair-of-uks-competition-watchdog/1346551"
+        },
+        {
+            "text": "11",
+            "href": "https://forums.theregister.com/forum/all/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/"
+        },
+        {
+            "text": "Business value from GenAI remains elusive despite IT spending boom\n\nThe nascent tech enters Hype Cycle’s downward slope, says Gartner",
+            "href": "https://www.theregister.com/on-prem/2025/01/22/genais-business-value-remains-elusive-amid-it-spending-boom/679954"
+        },
+        {
+            "text": "13",
+            "href": "https://forums.theregister.com/forum/all/2025/01/22/business_value_genai_elusive/"
+        },
+        {
+            "text": "IT job market is still shrinking but not as quickly as last year\n\nHalf the number of roles axed, and yes – you can keep blaming AI",
+            "href": "https://www.theregister.com/on-prem/2025/01/15/two-years-on-and-the-it-job-market-is-still-shrinking/1330796"
+        },
+        {
+            "text": "36",
+            "href": "https://forums.theregister.com/forum/all/2025/01/15/it_job_market/"
+        },
+        {
+            "text": "Intel Capital next into the chip giant's trebuchet, to be shot as far over the wall as possible\n\nThis'll be good for you, don't you worry, CFO tells venture fund while pulling back the sling",
+            "href": "https://www.theregister.com/on-prem/2025/01/15/intel-to-spin-out-intel-capital-this-year/856188"
+        },
+        {
+            "text": "8",
+            "href": "https://forums.theregister.com/forum/all/2025/01/15/intel_capital_spinout/"
+        },
+        {
+            "text": "Tesla, Musk double down on $56B payday appeal\n\nWhat could be the motivation for continuing to fight the case?",
+            "href": "https://www.theregister.com/on-prem/2025/01/09/musk-appeals-decision-against-56-billion-pay-award/1132652"
+        },
+        {
+            "text": "72",
+            "href": "https://forums.theregister.com/forum/all/2025/01/09/musk_appeal_tesla_pay/"
+        },
+        {
+            "text": "Kyndryl's consulting business may be less than it seems\n\nInsiders say it's largely a matter of labeling",
+            "href": "https://www.theregister.com/on-prem/2024/12/08/kyndryls-consulting-business-may-be-less-than-it-seems/580944"
+        },
+        {
+            "text": "22",
+            "href": "https://forums.theregister.com/forum/all/2024/12/08/kyndryl_consulting_business/"
+        },
+        {
+            "text": "The workplace has become a surveillance state\n\nCracked Labs report explores the use of motion sensors and wireless networking kit to monitor offices",
+            "href": "https://www.theregister.com/on-prem/2024/11/27/modern-workplaces-increasingly-resemble-surveillance-zones/690955"
+        },
+        {
+            "text": "72",
+            "href": "https://forums.theregister.com/forum/all/2024/11/27/workplace_surveillance/"
+        },
+        {
+            "text": "TSMC's US operations threatened with employee discrimination class action\n\nAllegedly it's hard to get ahead at the chipmaker unless you speak Mandarin",
+            "href": "https://www.theregister.com/on-prem/2024/11/13/tsmc-facing-discrimination-lawsuit-from-us-employees/1354921"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2024/11/13/tsmc_usa_putative_employee_lawsuit/"
+        },
+        {
+            "text": "Now Dell salespeople must be onsite five days a week\n\nReturn-to-office mandate reaches inevitable conclusion",
+            "href": "https://www.theregister.com/on-prem/2024/09/27/now-dell-sales-staff-must-be-onsite-five-days-per-week/1536117"
+        },
+        {
+            "text": "119",
+            "href": "https://forums.theregister.com/forum/all/2024/09/26/dell_sales_staff_full_rto/"
+        },
+        {
+            "text": "Medical cannabis CTO says vendors would hang up when he called looking for a deal\n\nAlternaleaf now has an outsized tech team, a build-not-buy mentality, and a love of FOSS",
+            "href": "https://www.theregister.com/on-prem/2024/09/11/medical-cannabis-cto-says-vendors-wouldnt-sell-him-stuff/1531483"
+        },
+        {
+            "text": "15",
+            "href": "https://forums.theregister.com/forum/all/2024/09/11/medical_cannabis_vendor_worries/"
+        },
+        {
+            "text": "Pat Gelsinger's grand plan to reinvent Intel is in jeopardy\n\nFoundry faces a reckoning",
+            "href": "https://www.theregister.com/on-prem/2024/09/06/gelsingers-grand-plan-to-reinvent-intel-is-in-jeopardy/741379"
+        },
+        {
+            "text": "66",
+            "href": "https://forums.theregister.com/forum/all/2024/09/06/intel_foundry_in_jeopardy/"
+        },
+        {
+            "text": "Cognizant alleges Infosys swiped its trade secrets\n\nSueball suggests outsourcer went out of bounds by developing competing product",
+            "href": "https://www.theregister.com/on-prem/2024/08/26/cognizant-alleges-infosys-swiped-its-trade-secrets/324201"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2024/08/26/cognizant_subsidiary_sues_infosys_for/"
+        },
+        {
+            "text": "Delta: CrowdStrike's offer to help in Falcon meltdown was too little, too late\n\nAirline unimpressed with 'unhelpful and untimely' phone call from CEO, Falcon maker says claims untrue",
+            "href": "https://www.theregister.com/on-prem/2024/08/08/delta-crowdstrikes-offer-for-help-too-little-too-late/313642"
+        },
+        {
+            "text": "32",
+            "href": "https://forums.theregister.com/forum/all/2024/08/08/delta_crowdstrikes_offer_for_help/"
+        },
+        {
+            "text": "Microsoft punches back at Delta Air Lines and its legal threats\n\nSatNad himself offered CrowdStrike recovery help, Redmond says, before suggesting airline's IT is in a mess",
+            "href": "https://www.theregister.com/on-prem/2024/08/07/microsoft-punches-back-against-deltas-legal-threats/535772"
+        },
+        {
+            "text": "39",
+            "href": "https://forums.theregister.com/forum/all/2024/08/07/microsoft_delta_fight/"
+        },
+        {
+            "text": "How deliciously binary: AI has yet to pay off – or is transforming business\n\nCalculating ROI of neural networks turns out to be rather complicated",
+            "href": "https://www.theregister.com/on-prem/2024/07/30/ai-has-yet-to-pay-off-but-some-companies-see-value/1270625"
+        },
+        {
+            "text": "68",
+            "href": "https://forums.theregister.com/forum/all/2024/07/30/ai_has_yet_to_pay/"
+        },
+        {
+            "text": "EU's renewable hydrogen plan needs a 'reality check'\n\nMember nations aren't on the same page, investors are confused, and nobody understands the real costs",
+            "href": "https://www.theregister.com/on-prem/2024/07/19/eu-renewable-hydrogen-plan-needs-a-reality-check/1390702"
+        },
+        {
+            "text": "78",
+            "href": "https://forums.theregister.com/forum/all/2024/07/19/eu_renewable_hydrogen_audit/"
+        },
+        {
+            "text": "IBM, Kyndryl again once sued for age discrimination – this time by its own VPs\n\nMore big blues at Big Blue ... And of course El Reg is cited in lawsuit",
+            "href": "https://www.theregister.com/on-prem/2024/06/20/ibm-and-kyndryl-again-sued-for-age-discrimination/1496533"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2024/06/20/ibm_and_kyndryl_again_sued/"
+        },
+        {
+            "text": "Wells Fargo fires employees accused of faking keyboard activity to pretend to work\n\nHomer Simpson was ahead of his time",
+            "href": "https://www.theregister.com/on-prem/2024/06/13/wells-fargo-fires-employees-for-faking-keyboard-activity/771827"
+        },
+        {
+            "text": "121",
+            "href": "https://forums.theregister.com/forum/all/2024/06/13/wells_fargo_fires_employees/"
+        },
+        {
+            "text": "IT infrastructure scared away potential buyers of struggling e-commerce site\n\nWhatever gear storied cycling site Wiggle used didn't propel it to a successful sale after the biz hit bumps",
+            "href": "https://www.theregister.com/on-prem/2024/05/31/it-infrastructure-scared-buyers-of-struggling-e-com-site/1551135"
+        },
+        {
+            "text": "42",
+            "href": "https://forums.theregister.com/forum/all/2024/05/31/wiggle_it_infrastructure_sale/"
+        },
+        {
+            "text": "The hiring frenzy is over at India's services giants\n\nHeadcounts are down for the first time in ages, margins are up, and CEOs are happy",
+            "href": "https://www.theregister.com/on-prem/2024/04/30/the-hiring-frenzy-is-over-at-indias-services-giants/799768"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2024/04/30/hcl_tcs_wipro_infosys_results/"
+        },
+        {
+            "text": "Today in tech layoffs: Sony Interactive and Expedia\n\nGame over for 900 staff as PlayStation London office and more shuttered",
+            "href": "https://www.theregister.com/on-prem/2024/02/27/tech-layoffs-continue-with-cuts-at-sony-interactive-expedia/1398991"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2024/02/27/sony_expedia_layoffs/"
+        },
+        {
+            "text": "Staff say Dell's return to office mandate is a stealth layoff, especially for women\n\nEmployees feel frustrated by lack of communication and bosses' inability to tell them which offices are open",
+            "href": "https://www.theregister.com/on-prem/2024/02/20/dell-rto-mandate-said-to-be-a-stealth-layoff-for-women/788534"
+        },
+        {
+            "text": "182",
+            "href": "https://forums.theregister.com/forum/all/2024/02/20/dell_rto_mandate/"
+        },
+        {
+            "text": "Bank boss has pay slashed after presiding over tech outages in 2023\n\nSingapore's DBS wants accountability for digital dropouts",
+            "href": "https://www.theregister.com/on-prem/2024/02/07/bank-bosss-pay-slashed-after-presiding-over-tech-outages/414036"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2024/02/07/dbs_ceo_pay_docked/"
+        },
+        {
+            "text": "GitOps pioneer Weaveworks unravels after funding fabric frays\n\nCompany burned through $61.6M in investment",
+            "href": "https://www.theregister.com/on-prem/2024/02/06/weaveworks-pulls-down-cloud-native-shutters/1247386"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2024/02/06/weaveworks_folds/"
+        },
+        {
+            "text": "When it comes to working from home, Register readers are bucking national trends\n\nOur survey shows you like your away-from-office comforts",
+            "href": "https://www.theregister.com/on-prem/2024/02/05/register-readers-are-bucking-working-from-home-trends/350601"
+        },
+        {
+            "text": "73",
+            "href": "https://forums.theregister.com/forum/all/2024/02/05/register_working_from_home_survey/"
+        },
+        {
+            "text": "Dell said to be preparing broad Return To Office order this Monday\n\nRemote work option will still be offered – but at the cost of career advancement",
+            "href": "https://www.theregister.com/on-prem/2024/02/03/dell-said-to-be-preparing-broad-return-to-office-mandate/683102"
+        },
+        {
+            "text": "105",
+            "href": "https://forums.theregister.com/forum/all/2024/02/03/dell_return_to_work/"
+        },
+        {
+            "text": "Return-to-office mandates boost company profits? Nope\n\nBiz boffins say bottom line and market cap didn't change post directive – but staff mood did",
+            "href": "https://www.theregister.com/on-prem/2024/02/02/return-to-office-mandates-boost-company-profits-nope/1323466"
+        },
+        {
+            "text": "74",
+            "href": "https://forums.theregister.com/forum/all/2024/02/02/return_to_office_mandates_do_not_boost_profits/"
+        },
+        {
+            "text": "Enterprise wallets to sustain European IT growth as devices lag\n\nSoftware and services set to save continent's tech growth into 2024, says Gartner",
+            "href": "https://www.theregister.com/on-prem/2023/11/09/enterprise-wallets-to-sustain-euro-it-growth-as-devices-lag/1194466"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2023/11/09/enterprise_spending_gartner_europe/"
+        },
+        {
+            "text": "Digital democracy or IT anarchy? Gartner flags the low-code revolution\n\nWithout strong governance, incoming tools will wreak havoc for CIOs",
+            "href": "https://www.theregister.com/on-prem/2023/11/08/emea-cios-are-heading-to-a-world-of-digital-co-ownership/470009"
+        },
+        {
+            "text": "17",
+            "href": "https://forums.theregister.com/forum/all/2023/11/08/gartner_shadow_it_low_code/"
+        },
+        {
+            "text": "Woo-hoo, UK ahead of Europe in this at least – enterprise IT automation\n\nBut plenty of tech folk wish management would just leave them alone",
+            "href": "https://www.theregister.com/on-prem/2023/11/07/red-hat-survey-places-uk-ahead-in-enterprise-it-automation/726892"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2023/11/07/red_hat_survey_automation/"
+        },
+        {
+            "text": "US venture capitalist spending continues to slide, hits six year low in Q3\n\nLooking for a bright spot? Well, it's easier to beg the Feds for cash now, say researchers",
+            "href": "https://www.theregister.com/on-prem/2023/10/13/us-vc-spending-reached-a-dismal-six-year-low-in-q3/617093"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2023/10/12/us_venture_capitalist_spending_continues/"
+        },
+        {
+            "text": "What to expect when the UK-US Data Bridge comes into force this week\n\nBritain's privacy watchdog still not happy that agreement 'appropriately' protects sensitive data",
+            "href": "https://www.theregister.com/on-prem/2023/10/11/what-to-expect-when-the-uk-us-data-bridge-comes-into-force/376149"
+        },
+        {
+            "text": "19",
+            "href": "https://forums.theregister.com/forum/all/2023/10/11/uk_us_data_bridge/"
+        },
+        {
+            "text": "Microsoft reportedly runs GitHub's AI Copilot at a loss\n\nRedmond willing to do its accounts in red ink to get you hooked",
+            "href": "https://www.theregister.com/on-prem/2023/10/11/microsoft-reportedly-runs-githubs-ai-copilot-at-a-loss/361250"
+        },
+        {
+            "text": "6",
+            "href": "https://forums.theregister.com/forum/all/2023/10/11/github_ai_copilot_microsoft/"
+        },
+        {
+            "text": "BYOD should stand for bring your own disaster, according to Microsoft ransomware data\n\nRising number of RaaS baddies drive global attack numbers up 200%",
+            "href": "https://www.theregister.com/on-prem/2023/10/05/bad-byod-facilitates-most-ransomware-attacks-says-microsoft/613795"
+        },
+        {
+            "text": "9",
+            "href": "https://forums.theregister.com/forum/all/2023/10/05/microsoft_byod_ransomware/"
+        },
+        {
+            "text": "BlackBerry to split into two companies, foraging for tastier fare for shareholders\n\nHopes to float IoT biz and keep infosec ops, then make a second pressing",
+            "href": "https://www.theregister.com/on-prem/2023/10/05/blackberry-to-split-itself-into-two-companies/994603"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2023/10/05/blackberry_split_plan/"
+        },
+        {
+            "text": "Supreme Court doesn't want to hear union's beef about STEM grad work visas\n\nEnd of the road for those hoping to cut 3-year permit back down to 12 months",
+            "href": "https://www.theregister.com/on-prem/2023/10/03/supreme-court-declines-to-hear-stem-opt-visa-challenge/649905"
+        },
+        {
+            "text": "7",
+            "href": "https://forums.theregister.com/forum/all/2023/10/03/supreme_court_visa/"
+        },
+        {
+            "text": "Datacenters face double dilemma of supply issues and a need for speed\n\nSkills shortage is also holding industry back, survey finds",
+            "href": "https://www.theregister.com/on-prem/2023/10/02/datacenters-grapple-with-supply-issues-need-for-speed/1362100"
+        },
+        {
+            "text": "4",
+            "href": "https://forums.theregister.com/forum/all/2023/10/02/datacenter_industry_survey/"
+        },
+        {
+            "text": "French monopoly cops raid Nvidia office in cloud probe\n\nAI accelerator maker suspected of potential anti-competitive tricks",
+            "href": "https://www.theregister.com/on-prem/2023/09/28/french-authorities-raid-nvidia-office-amid-cloud-inquiry/1259232"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2023/09/28/french_competition_authority_raids_nvidias/"
+        },
+        {
+            "text": "Oracle early leader in pointing vectors at business data, say analysts\n\nBig Red’s 'big announcement' strives to bring LLM technique to the business data arena",
+            "href": "https://www.theregister.com/on-prem/2023/09/25/oracle-sensible-to-point-vectors-at-business-data-analysts/1205997"
+        },
+        {
+            "text": "0",
+            "href": "https://forums.theregister.com/forum/all/2023/09/25/oracle_early_leader_in_pointing/"
+        },
+        {
+            "text": "Academics have 'no confidence' in Edinburgh University's response to its Oracle disaster\n\nInstitution yet to answer 'elementary' project management questions after upgrade left staff and suppliers unpaid",
+            "href": "https://www.theregister.com/on-prem/2023/05/03/academics-unhappy-over-edinburgh-uni-oracle-disaster/559104"
+        },
+        {
+            "text": "43",
+            "href": "https://forums.theregister.com/forum/all/2023/05/03/edinburgh_uni_senate_report/"
+        },
+        {
+            "text": "Cloud slowdown hits Amazon as orgs look to rein in cost\n\nOff-prem tech is 'SERIOUSLY expensive' Reg reader complains",
+            "href": "https://www.theregister.com/on-prem/2023/04/28/cloud-slowdown-hits-amazon-as-companies-look-to-rein-in-cost/569057"
+        },
+        {
+            "text": "16",
+            "href": "https://forums.theregister.com/forum/all/2023/04/28/cloud_slowdown_hits_amazon_as/"
+        },
+        {
+            "text": "SoftBank taps Arm CEO Rene Haas for its board of directors\n\nAhead of planned IPO, parent company moves executive pawn into place",
+            "href": "https://www.theregister.com/on-prem/2023/04/27/softbank-nominates-arm-ceo-for-its-board-of-directors/792055"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2023/04/27/softbank_haas_board_nomination/"
+        },
+        {
+            "text": "Microsoft may stop bundling Teams with Office amid antitrust probe threat\n\nFirst came Slack then others joined the scrum to tackle the Beast of Redmond",
+            "href": "https://www.theregister.com/on-prem/2023/04/25/microsoft-mulls-unbundling-of-teams-and-office/286459"
+        },
+        {
+            "text": "95",
+            "href": "https://forums.theregister.com/forum/all/2023/04/25/microsoft_teams_office_bundling/"
+        },
+        {
+            "text": "It's a matter of when, not if, customers move to the cloud, SAP tells investors\n\nThat's news to some as analysts claim on-prem will be here for the foreseeable",
+            "href": "https://www.theregister.com/on-prem/2023/04/21/sap-tells-investors-customers-already-choose-cloud/795654"
+        },
+        {
+            "text": "12",
+            "href": "https://forums.theregister.com/forum/all/2023/04/21/sap_customers_cloud/"
+        },
+        {
+            "text": "Cloud projects keep being postponed amid economic uncertainty\n\nOVH joins AWS, Microsoft and others in saying customer deals not dead... they're just resting",
+            "href": "https://www.theregister.com/on-prem/2023/04/19/cloud-projects-keep-being-postponed-amid-economic-wobble/800184"
+        },
+        {
+            "text": "3",
+            "href": "https://forums.theregister.com/forum/all/2023/04/19/public_cloud_growth_slowing_ovh_q2/"
+        },
+        {
+            "text": "Next →",
+            "href": "https://www.theregister.com/cxo?start=70"
+        },
+        {
+            "text": "Contact us",
+            "href": "https://www.theregister.com/profile/contact"
+        },
+        {
+            "text": "Advertise with us",
+            "href": "https://situationpublishing.com/contact/"
+        },
+        {
+            "text": "Who we are",
+            "href": "https://www.theregister.com/profile/about_the_register"
+        },
+        {
+            "text": "Newsletter",
+            "href": "https://account.theregister.com/register/?product=reg_weekly"
+        },
+        {
+            "text": "The Next Platform",
+            "href": "https://www.nextplatform.com/"
+        },
+        {
+            "text": "DevClass",
+            "href": "https://devclass.com/"
+        },
+        {
+            "text": "Blocks and Files",
+            "href": "https://blocksandfiles.com/"
+        },
+        {
+            "text": "Situation Publishing",
+            "href": "https://situationpublishing.com/"
+        },
+        {
+            "text": "Cookies Policy",
+            "href": "https://www.theregister.com/Profile/cookies"
+        },
+        {
+            "text": "Privacy Policy",
+            "href": "https://www.theregister.com/profile/privacy"
+        },
+        {
+            "text": "Ts & Cs",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "Do not share my personal information",
+            "href": "https://www.theregister.com/Profile/privacy_policy_california_residents/"
+        },
+        {
+            "text": "Your Consent Options",
+            "href": "https://www.theregister.com/profile/terms_and_conditions_of_use"
+        },
+        {
+            "text": "27 years of articles",
+            "href": "https://www.theregister.com/archive"
+        }
+    ],
+    "text_length": 11791,
+    "text_full": "Jump to main content\nSign in\nDatacenter\nSecurity\nMicrosoft\nAWS\nDeveloper\nOpen Source\nIT Careers\nColumnists\nWho, Me?\nOn Call\nCXO news | The Register\nON-PREM > CXO\n\nCxO at The Register: Your Tech Compass for the C-Suite\n\nTech is now rolling out the old grievance grift\n\nNot just for hated US Presidents, now even tech bros lament their foes\n\n2 weeks|24\nHome Office seeks three CTOs to keep borders, passports, and core IT ticking\n\nRoles span eGates, passports, visas, asylum applications, and enterprise services – yours for up to £105K\n\n2 weeks|14\nWorld's smallest violin spotted at Amazon HQ as exec pay packets deflate\n\nC-suite forced to take sandwiches into work, cycle home\n\n1 month|24\nServiceNow lays out possible co-CEO structure, but says no change imminent\n\nThe ITSM outfit would join Oracle, Comcast, and Netflix in installing bunk beds in the corner office\n\n5 months|11\nTechie 'forgot' to tell boss their cost-saving idea meant a day of gaming\n\nOne keypress turned a tricky Windows NT balancing act into a life of leisure\n\n5 months|113\nApple reportedly peels away some sales staff in small round of layoffs\n\nCompany has hitherto thought different about sackings\n\n6 months|6\nTrump's anti-sustainability agenda comes to Eurozone\n\nESG kicked like a 'toxic political football' amid greenwashing\n\n7 months|128\nTwo heads better than one? Oracle gives the co-CEO model another shot\n\nCloud and apps chiefs step up as Safra Catz moves upstairs. Larry remains Larry\n\n8 months|7\nGet paid like a prime minister to tame Home Office IT chaos\n\nDepartment dangles £160K salary for CDIO to wrangle legacy systems, failed projects, and £1.8B budget\n\n8 months|43\nMicrosoft CEO feels weighed down by job cuts\n\nSatya Nadella lays out revised mission for Redmond. Spoiler: It involves AI\n\n10 months|44\nIntel's leaders have stopped pretending – and it's about time\n\nNot even in the top 10, CEO Lip-Bu Tan reportedly tells employees\n\n10 months|75\nEuropean Commission: Make Europe Great Again... for startups\n\nSick of paying the US tech tax and relinquishing talent to other continents, politicians finally wake up\n\n12 months|31\nEmpire of office workers strikes back against RTO mandates\n\nThe rebellion grows and it seems resistance is not futile\n\n12 months|126\nTo progress as an engineer career-wise, become a great communicator\n\nIt'll even help you develop technical skills\n\nMay 2025|35\nBosses weren’t being paranoid: Remote workers more likely to start own biz\n\nAll those return to office mandates make a lot more sense now\n\nMay 2025|46\nBreak free from infrastructure limits: Nutanix and Dell for Agile, scalable IT\n\nJoin us here at 0900 PT, April 30, to find out more\n\nApril 2025\nDatacenters selling power back to the grid? Don’t bet on it, say operators\n\nBit barns in Dublin doubled as battery farms, the rest of the world isn’t buying it\n\nApril 2025|33\nTrump's tariff turmoil leaves IT projects in deep freeze\n\nInvestment delays are inevitable as uncertainty clouds US trade policy, warns investment bank\n\nApril 2025|116\nApple settles unfair labor charges brought by fired engineering manager\n\nWhistleblower Ashley Gjøvik hails iWatershed iMoment for iStaff iRights\n\nApril 2025|3\nNot even Intel's top bosses know what's on CEO Lip-Bu Tan's chopping block\n\nChipzilla chief asked customers to be 'brutally honest' ... which will lead to what changes, we wonder\n\nApril 2025|8\nSamsung co-CEO Han Jong-hee dies of heart attack at 63\n\nThe man who helped make Sammy the biggest name in modern tellies\n\nMarch 2025|6\n4-day work-week pilot due in tech land by early summer\n\nMicrosoft and Dell keeping quiet on their work-life-balance trials\n\nMarch 2025|35\n2 in 5 techies quit over inflexible workplace policies\n\nReturn to office, hours and intensity of work cited as reasons to walk\n\nMarch 2025|122\nDiversity, equity, and inclusion is not an illusion, but it soon might be\n\nGlobal tech corps wrestle with policy disparity on either side of the Atlantic\n\nFebruary 2025|280\nTrump admin seeks to reclassify federal CIOs, opening door to political appointees\n\nFall in line with executive policy or you're gone, acting OPM chief insists\n\nFebruary 2025|48\nFormer Amazon exec appointed as boss of UK's competition watchdog\n\nInterim appointment after former head booted out for not being 'sufficiently focused on growth'\n\nJanuary 2025|11\nBusiness value from GenAI remains elusive despite IT spending boom\n\nThe nascent tech enters Hype Cycle’s downward slope, says Gartner\n\nJanuary 2025|13\nIT job market is still shrinking but not as quickly as last year\n\nHalf the number of roles axed, and yes – you can keep blaming AI\n\nJanuary 2025|36\nIntel Capital next into the chip giant's trebuchet, to be shot as far over the wall as possible\n\nThis'll be good for you, don't you worry, CFO tells venture fund while pulling back the sling\n\nJanuary 2025|8\nTesla, Musk double down on $56B payday appeal\n\nWhat could be the motivation for continuing to fight the case?\n\nJanuary 2025|72\nKyndryl's consulting business may be less than it seems\n\nInsiders say it's largely a matter of labeling\n\nDecember 2024|22\nThe workplace has become a surveillance state\n\nCracked Labs report explores the use of motion sensors and wireless networking kit to monitor offices\n\nNovember 2024|72\nTSMC's US operations threatened with employee discrimination class action\n\nAllegedly it's hard to get ahead at the chipmaker unless you speak Mandarin\n\nNovember 2024|7\nNow Dell salespeople must be onsite five days a week\n\nReturn-to-office mandate reaches inevitable conclusion\n\nSeptember 2024|119\nMedical cannabis CTO says vendors would hang up when he called looking for a deal\n\nAlternaleaf now has an outsized tech team, a build-not-buy mentality, and a love of FOSS\n\nSeptember 2024|15\nPat Gelsinger's grand plan to reinvent Intel is in jeopardy\n\nFoundry faces a reckoning\n\nSeptember 2024|66\nCognizant alleges Infosys swiped its trade secrets\n\nSueball suggests outsourcer went out of bounds by developing competing product\n\nAugust 2024|9\nDelta: CrowdStrike's offer to help in Falcon meltdown was too little, too late\n\nAirline unimpressed with 'unhelpful and untimely' phone call from CEO, Falcon maker says claims untrue\n\nAugust 2024|32\nMicrosoft punches back at Delta Air Lines and its legal threats\n\nSatNad himself offered CrowdStrike recovery help, Redmond says, before suggesting airline's IT is in a mess\n\nAugust 2024|39\nHow deliciously binary: AI has yet to pay off – or is transforming business\n\nCalculating ROI of neural networks turns out to be rather complicated\n\nJuly 2024|68\nEU's renewable hydrogen plan needs a 'reality check'\n\nMember nations aren't on the same page, investors are confused, and nobody understands the real costs\n\nJuly 2024|78\nIBM, Kyndryl again once sued for age discrimination – this time by its own VPs\n\nMore big blues at Big Blue ... And of course El Reg is cited in lawsuit\n\nJune 2024|4\nWells Fargo fires employees accused of faking keyboard activity to pretend to work\n\nHomer Simpson was ahead of his time\n\nJune 2024|121\nIT infrastructure scared away potential buyers of struggling e-commerce site\n\nWhatever gear storied cycling site Wiggle used didn't propel it to a successful sale after the biz hit bumps\n\nMay 2024|42\nThe hiring frenzy is over at India's services giants\n\nHeadcounts are down for the first time in ages, margins are up, and CEOs are happy\n\nApril 2024|4\nToday in tech layoffs: Sony Interactive and Expedia\n\nGame over for 900 staff as PlayStation London office and more shuttered\n\nFebruary 2024|9\nStaff say Dell's return to office mandate is a stealth layoff, especially for women\n\nEmployees feel frustrated by lack of communication and bosses' inability to tell them which offices are open\n\nFebruary 2024|182\nBank boss has pay slashed after presiding over tech outages in 2023\n\nSingapore's DBS wants accountability for digital dropouts\n\nFebruary 2024|4\nGitOps pioneer Weaveworks unravels after funding fabric frays\n\nCompany burned through $61.6M in investment\n\nFebruary 2024|3\nWhen it comes to working from home, Register readers are bucking national trends\n\nOur survey shows you like your away-from-office comforts\n\nFebruary 2024|73\nDell said to be preparing broad Return To Office order this Monday\n\nRemote work option will still be offered – but at the cost of career advancement\n\nFebruary 2024|105\nReturn-to-office mandates boost company profits? Nope\n\nBiz boffins say bottom line and market cap didn't change post directive – but staff mood did\n\nFebruary 2024|74\nEnterprise wallets to sustain European IT growth as devices lag\n\nSoftware and services set to save continent's tech growth into 2024, says Gartner\n\nNovember 2023|0\nDigital democracy or IT anarchy? Gartner flags the low-code revolution\n\nWithout strong governance, incoming tools will wreak havoc for CIOs\n\nNovember 2023|17\nWoo-hoo, UK ahead of Europe in this at least – enterprise IT automation\n\nBut plenty of tech folk wish management would just leave them alone\n\nNovember 2023|12\nUS venture capitalist spending continues to slide, hits six year low in Q3\n\nLooking for a bright spot? Well, it's easier to beg the Feds for cash now, say researchers\n\nOctober 2023|3\nWhat to expect when the UK-US Data Bridge comes into force this week\n\nBritain's privacy watchdog still not happy that agreement 'appropriately' protects sensitive data\n\nOctober 2023|19\nMicrosoft reportedly runs GitHub's AI Copilot at a loss\n\nRedmond willing to do its accounts in red ink to get you hooked\n\nOctober 2023|6\nBYOD should stand for bring your own disaster, according to Microsoft ransomware data\n\nRising number of RaaS baddies drive global attack numbers up 200%\n\nOctober 2023|9\nBlackBerry to split into two companies, foraging for tastier fare for shareholders\n\nHopes to float IoT biz and keep infosec ops, then make a second pressing\n\nOctober 2023|16\nSupreme Court doesn't want to hear union's beef about STEM grad work visas\n\nEnd of the road for those hoping to cut 3-year permit back down to 12 months\n\nOctober 2023|7\nDatacenters face double dilemma of supply issues and a need for speed\n\nSkills shortage is also holding industry back, survey finds\n\nOctober 2023|4\nFrench monopoly cops raid Nvidia office in cloud probe\n\nAI accelerator maker suspected of potential anti-competitive tricks\n\nSeptember 2023|3\nOracle early leader in pointing vectors at business data, say analysts\n\nBig Red’s 'big announcement' strives to bring LLM technique to the business data arena\n\nSeptember 2023|0\nAcademics have 'no confidence' in Edinburgh University's response to its Oracle disaster\n\nInstitution yet to answer 'elementary' project management questions after upgrade left staff and suppliers unpaid\n\nMay 2023|43\nCloud slowdown hits Amazon as orgs look to rein in cost\n\nOff-prem tech is 'SERIOUSLY expensive' Reg reader complains\n\nApril 2023|16\nSoftBank taps Arm CEO Rene Haas for its board of directors\n\nAhead of planned IPO, parent company moves executive pawn into place\n\nApril 2023|3\nMicrosoft may stop bundling Teams with Office amid antitrust probe threat\n\nFirst came Slack then others joined the scrum to tackle the Beast of Redmond\n\nApril 2023|95\nIt's a matter of when, not if, customers move to the cloud, SAP tells investors\n\nThat's news to some as analysts claim on-prem will be here for the foreseeable\n\nApril 2023|12\nCloud projects keep being postponed amid economic uncertainty\n\nOVH joins AWS, Microsoft and others in saying customer deals not dead... they're just resting\n\nApril 2023|3\nNext →\n\nBiting the hand that feeds IT\n\nAbout Us\n\nContact us\nAdvertise with us\nWho we are\nNewsletter\n\nOur Websites\n\nThe Next Platform\nDevClass\nBlocks and Files\nSituation Publishing\n\nYour Privacy\n\nCookies Policy\nPrivacy Policy\nTs & Cs\nDo not share my personal information\nYour Consent Options\n\nArchives\n27 years of articles\n\nCopyright. All rights reserved © 1998-2026."
+}

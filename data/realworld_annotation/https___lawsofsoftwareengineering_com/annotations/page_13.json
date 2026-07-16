@@ -1,0 +1,17 @@
+{
+    "image_count": 1,
+    "images": [
+        "https://lawsofsoftwareengineering.com/images/laws/conways-law.png"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 1,
+    "links": [
+        {
+            "text": "← Back to Law",
+            "href": "https://lawsofsoftwareengineering.com/laws/conways-law/"
+        }
+    ],
+    "text_length": 2870,
+    "text_full": "Print\n← Back to Law\nLAWS OF SOFTWARE ENGINEERING\nConway's Law\n\nOrganizations design systems that mirror their own communication structure.\n\nKEY TAKEAWAYS\n1.\nThe architecture of software systems often mirrors the organization’s org chart or team structure.\n2.\nIf your company is organized in silos, you might end up with siloed software modules that don’t communicate well, reflecting those barriers.\n3.\nTo achieve a desired software architecture (e.g., microservices), you might need to restructure teams accordingly, because teams build software aligned with their communication paths.\n4.\nWhen starting a project, realize that how you split teams or departments will likely lead to software boundaries at the same places.\nOVERVIEW\n\nConway’s Law states that software systems reflect the communication structure of the organization that builds them. A company with separate frontend, backend, and database departments will likely produce a three-tier architecture. Small, distributed teams tend to produce modular service architectures, while large, collocated teams tend to build monoliths.\n\nTo mitigate this, teams can use the Inverse Conway Maneuver: intentionally structuring the organization to match the desired software architecture.\n\nConway's Law\n\nEXAMPLES\n\nA company had separate departments for frontend, backend, and database. The software they built had a three-tier architecture, with each tier independently designed by its respective department. Integration between tiers was painful because the teams had misaligned goals.\n\nAmazon famously organized “two-pizza teams”, each owning a specific service. Conway’s Law suggests that’s why Amazon’s architecture is service-oriented, with clear API contracts between services.\n\nORIGINS\n\nMelvin Conway introduced the idea in his 1967 paper “How Do Committees Invent?” After Harvard Business Review rejected it for lacking formal proof, Datamation published it in 1968.\n\nFred Brooks later named it “Conway’s Law” in The Mythical Man-Month, which established the concept as foundational in software engineering.\n\nRELATED TO\nBrooks's Law\nGall's Law\nThe Law of Leaky Abstractions\nHyrum's Law\nTHE SPOTIFY MODEL\nThe Spotify Model organizes teams around features rather than technologies. Cross-functional Squads (6-12 people) own end-to-end features, grouped into Tribes by business area. Chapters and Guilds provide skill-sharing across squads. It works when it solves real coordination problems, but fails when copied blindly.\nFURTHER READING\nHow Do Committees Invent?\nhttps://www.melconway.com/Home/Committees_Paper.html\nConway's Law\nhttps://martinfowler.com/bliki/ConwaysLaw.html\nSpotify Engineering Culture\nhttps://engineering.atspotify.com/2014/3/spotify-engineering-culture-part-1\nTeam Topologies\nhttps://amzn.to/4jgRZ6V\n\nFrom Laws of Software Engineering\n\nhttps://lawsofsoftwareengineering.com/laws/conways-law/"
+}

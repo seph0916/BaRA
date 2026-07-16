@@ -1,0 +1,19 @@
+{
+  "start_url": "https://royal-lama-casino.com/",
+  "max_depth": 3,
+  "max_width": 5,
+  "max_pages": 50,
+  "visited_order": [
+    "https://royal-lama-casino.com/",
+    "https://royal-lama-casino.com/play/"
+  ],
+  "by_depth": {
+    "0": [
+      "https://royal-lama-casino.com/"
+    ],
+    "1": [
+      "https://royal-lama-casino.com/play/"
+    ]
+  },
+  "dead_links": []
+}

@@ -1,0 +1,125 @@
+{
+    "image_count": 5,
+    "images": [
+        "https://benholmen.com/assets/images/kilopixel/prototype-1-1.jpg",
+        "https://benholmen.com/assets/images/kilopixel/ping-pong-pixels-1.jpg",
+        "https://benholmen.com/assets/images/kilopixel/ping-pong-pixels-2.jpg",
+        "https://benholmen.com/assets/images/kilopixel/lego-wheel-hub.jpg",
+        "https://benholmen.com/assets/images/kilopixel/gantry-with-solenoid.jpg"
+    ],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 27,
+    "links": [
+        {
+            "text": "kilopx.com",
+            "href": "https://kilopx.com/"
+        },
+        {
+            "text": "Danny Rozin's unconvenional mirrors",
+            "href": "https://en.wikipedia.org/wiki/Danny_Rozin"
+        },
+        {
+            "text": "24 frames per hour movie player",
+            "href": "https://github.com/TomWhitwell/SlowMovie"
+        },
+        {
+            "text": "kilopx.com",
+            "href": "https://kilopx.com/"
+        },
+        {
+            "text": "kilopx_com on Instagram",
+            "href": "https://instagram.com/kilopx_com"
+        },
+        {
+            "text": "hardware kits from Openbuilds",
+            "href": "https://openbuildspartstore.com/v-slot-linear-rail-1/"
+        },
+        {
+            "text": "styrofoam balls",
+            "href": "https://www.amazon.com/gp/product/B079FRNY4Z?psc=1"
+        },
+        {
+            "text": "bounce balls",
+            "href": "https://www.amazon.com/gp/product/B086M7V1PX?psc=1"
+        },
+        {
+            "text": "wooden balls",
+            "href": "https://www.amazon.com/gp/product/B01DJHL04K?psc=1"
+        },
+        {
+            "text": "Inventables X-Carve",
+            "href": "https://www.inventables.com/technologies/x-carve"
+        },
+        {
+            "text": "Beyond Code",
+            "href": "https://github.com/beyondcode/laravel-websockets/"
+        },
+        {
+            "text": "foam nerf balls",
+            "href": "https://www.amazon.com/dp/B09TH659FL?psc=1"
+        },
+        {
+            "text": "",
+            "href": "https://benholmen.com/"
+        },
+        {
+            "text": "The Kilopixel recap - season one",
+            "href": "https://benholmen.com/blog/kilopixel-season-1/"
+        },
+        {
+            "text": "I spent 6 years building a ridiculous wooden pixel display",
+            "href": "https://benholmen.com/blog/kilopixel/"
+        },
+        {
+            "text": "Pairing with Strangers (the Pair-amid Scheme)",
+            "href": "https://benholmen.com/blog/pairing-magic/"
+        },
+        {
+            "text": "Mapping a Hyper key on MacOS with Karabiner Elements (the easy way)",
+            "href": "https://benholmen.com/blog/hyper-key-with-karabiner-elements-raycast/"
+        },
+        {
+            "text": "Defragment your PHPUnit tests",
+            "href": "https://benholmen.com/blog/defragment-your-phpunit-tests/"
+        },
+        {
+            "text": "A photo a day for 30 days",
+            "href": "https://benholmen.com/blog/a-photo-a-day/"
+        },
+        {
+            "text": "Building howtall.is",
+            "href": "https://benholmen.com/blog/howtall.is/"
+        },
+        {
+            "text": "The Art of Pairing with Strangers - Over Engineered Podcast",
+            "href": "https://benholmen.com/blog/overengineered-podcast-the-art-of-pairing-with-strangers/"
+        },
+        {
+            "text": "Just how old is a 45 year old soup (and would you eat it)",
+            "href": "https://benholmen.com/blog/how-old-is-a-45-year-old-soup/"
+        },
+        {
+            "text": "Growing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast",
+            "href": "https://benholmen.com/blog/the-business-of-laravel-growing-into-a-leadership-role-pairing-with-strangers/"
+        },
+        {
+            "text": "VIEW ALL ⇢",
+            "href": "https://benholmen.com/blog/"
+        },
+        {
+            "text": "",
+            "href": "https://bsky.app/profile/benholmen.com"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/benholmen/"
+        },
+        {
+            "text": "",
+            "href": "https://www.linkedin.com/in/benholmen"
+        }
+    ],
+    "text_length": 6050,
+    "text_full": " \nThe long and winding Kilopixel road\n\nMay 5, 2023\n\nUpdate July 2025: you can now experiment with the Kilopixel and submit art to be drawn! Please, submit anything and everything at kilopx.com.\n\nA few years ago I had an idea to build a large, inefficient display with a web interface that anyone could interact with. I've noticed Danny Rozin's unconvenional mirrors over the years and then saw a 24 frames per hour movie player that got me thinking about a laborious display that could slowly assemble an image.\n\nThis led me to the idea of a 40x25 pixel grid of pixels, turned one by one by a motor on a gantry. A really, really inefficient way to generate an image. Conveniently, 40x25 = 1,000 pixels, leading to the name Kilopixel and the six-letter domain name kilopx.com. How do you back down from that? That's the best domain name I've ever owned.\n\nSo I got to work. This project has everything: a web app, a physical controller, a custom CNC build, generating and controlling gcode, tons of fabrication, 3d modeling, 3d printing, material sourcing... so much to get lost in. And honestly, I've been tinkering with it for years and been stuck a number of times. Now - in May 2023, after 4 years of stopping and starting, I've completed a prototype, learned so much, and am still far from finished.\n\nIt's time to bring you on board\n\nBut I've picked it up again. And sharing is one of my favorite parts of making, so I'm documenting the rest until I have a proper first working product. This post is meant to tell some history, show the evolution, and drop you into the story. You can also follow kilopx_com on Instagram.\n\nFirst sketches\n\nMy first idea was to use a wooden gantry that would ride on some sort of track. Since I'm most comfortable working with wood, it's my default prototyping medium. However, I quickly pivoted to extruded aluminum and the excellent hardware kits from Openbuilds that include pulleys, gantry parts, extruded aluminum, and timing belts. It's very similar to most 3D printers, and connects very easily with stepper motors. This allowed me to build a gantry with X and Y, essentially a wall-mounted plotter.\n\n1,000 of anything is expensive\n\nPicking pixels has been a real pain. I've tried ping pong balls, styrofoam balls, bounce balls, wooden balls, 3d printed balls, golf balls, foam balls...anything approximately spherical and about 1-1.5in in diameter. The problems I found were largely cost (even a $0.50 ball is $500 of balls), weight (again, 1,000 of these things), and availability. For a long time I thought ping pong balls were my best bet, so I purchased a few hundred of them, 3d printed painting jigs, and spray painted them. I then used a hot nail to melt two opposite holes on each ball so they could be strung up on the display.\n\nPing pong balls are basically pop cans\n\nYou can stand on a pop can, as long as it's not open. Turns out, ping pong balls are the same way. They're strong and robust, until you melt two holes in them. Then they can be deformed, which is fatal to any spray paint you've put on them. And not only are they fragile, but the cheap ones are inconsistently sized, and a half millimeter here and there adds up when you have a row of 40 balls.\n\n3D modeling + printing\n\nI had the idea to use a small, slow motor to rotate a LEGO wheel against the ping pong ball. I'd monitor the reflectivity to know if it was showing black or white, and stop once the pixel was rotated properly. To accomplish this, I had to model and print a custom hub for the LEGO wheel, a mechanism to move the wheel in and out of contact of the ping pong ball, and some way to connect it to the gantry. I had an idea to use a solenoid to push the motor to the ball, and an elastic band to pull it back, but this proved unreliable and underpowered.\n\nSome real progress with the CNC\n\nI have quite a bit of experience with my Inventables X-Carve so I was familiar with the basics of using gcode to control a CNC machine. I also knew the X-Carve is basically an Arduino, so I managed to find a decent CNC controller board that is used for CNC mills and laser cutters. This allowed me to control one stepper motor for the X axis, one for the Y axis, and a spindle/laser power source to run some kind of pixel actuator once I'd arrived at a given pixel.\n\nI wrote a Python script to query an API for the next pixel, generate the gcode to move the gantry to that pixel, and engage the actuator to eventually rotate the ping pong ball from the white side to the black side.\n\nA new tech stack for the web app\n\nThanks to a (now abandoned?) package by Beyond Code I decided to port the web app to Laravel with a Vue 3 frontend. I have it mostly complete, with a few preset modes as well as a default free draw option.\n\nLessons learned and what's next\n\nI've learned so much in general (nodejs, websockets, python, gcode, stepper motors, CNC controllers, power supplies, extrusion hardware, 3D modeling, Vue) and that's been very satisfying. I've ruled out a lot of ball options and I'm trying foam nerf balls next. They're smaller - 7/8\" diameter - but seem to take paint well, will thread on a wire well, and won't rotate when neighboring balls rotate. I'm also switching to a servo instead of a solenoid to push the motor against the ball.\n\nThe next set of challenges: making the servo work, controlling the motor with python and the Raspberry Pi's GPIO pins, and adding a phototransistor to detect whether the pixel is in the right spot or not. We'll see how these foam balls work out.\n\nPopular Posts\nThe Kilopixel recap - season one\nI spent 6 years building a ridiculous wooden pixel display\nPairing with Strangers (the Pair-amid Scheme)\nMapping a Hyper key on MacOS with Karabiner Elements (the easy way)\nDefragment your PHPUnit tests\nRecent Posts\nA photo a day for 30 days\nBuilding howtall.is\nThe Art of Pairing with Strangers - Over Engineered Podcast\nJust how old is a 45 year old soup (and would you eat it)\nGrowing Into a Leadership Role, and Pairing With Strangers - The Business of Laravel Podcast\nVIEW ALL ⇢"
+}

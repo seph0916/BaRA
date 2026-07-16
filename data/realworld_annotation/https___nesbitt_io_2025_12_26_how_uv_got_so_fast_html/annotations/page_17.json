@@ -1,0 +1,439 @@
+{
+    "image_count": 0,
+    "images": [],
+    "video_count": 0,
+    "videos": [],
+    "link_count": 107,
+    "links": [
+        {
+            "text": "",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "Andrew Nesbitt",
+            "href": "https://nesbitt.io/"
+        },
+        {
+            "text": "",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "package-managers",
+            "href": "https://nesbitt.io/search#package-managers"
+        },
+        {
+            "text": "reference",
+            "href": "https://nesbitt.io/search#reference"
+        },
+        {
+            "text": "Categorizing Package Registries",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-registries.html"
+        },
+        {
+            "text": "CSV",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/data/package-manager-clients.csv"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#resolution-algorithms"
+        },
+        {
+            "text": "ecosyste.ms resolver documentation",
+            "href": "https://github.com/ecosyste-ms/package-manager-resolvers"
+        },
+        {
+            "text": "SAT solving",
+            "href": "https://research.swtch.com/version-sat"
+        },
+        {
+            "text": "PubGrub",
+            "href": "https://nex3.medium.com/pubgrub-2fb6470504f"
+        },
+        {
+            "text": "1",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:libsolv"
+        },
+        {
+            "text": "1",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:libsolv"
+        },
+        {
+            "text": "2",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:opam-cudf"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pubgrub"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pubgrub"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pubgrub"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pubgrub"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pubgrub"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pubgrub"
+        },
+        {
+            "text": "3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pubgrub"
+        },
+        {
+            "text": "4",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:cabal-solver"
+        },
+        {
+            "text": "5",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:spack-clingo"
+        },
+        {
+            "text": "Minimal version selection",
+            "href": "https://research.swtch.com/vgo-mvs"
+        },
+        {
+            "text": "6",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:vcpkg-mvs"
+        },
+        {
+            "text": "7",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:cargo-semver-compat"
+        },
+        {
+            "text": "8",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:maven-nearest"
+        },
+        {
+            "text": "9",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:gradle-highest"
+        },
+        {
+            "text": "10",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:nuget-lowest"
+        },
+        {
+            "text": "11",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:clojars-maven"
+        },
+        {
+            "text": "Molinillo",
+            "href": "https://github.com/CocoaPods/Molinillo"
+        },
+        {
+            "text": "12",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:apt-scoring"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#lockfiles-and-reproducibility"
+        },
+        {
+            "text": "13",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:cabal-freeze"
+        },
+        {
+            "text": "14",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:go-sum"
+        },
+        {
+            "text": "15",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pip-lockfiles"
+        },
+        {
+            "text": "16",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:hackage-freeze"
+        },
+        {
+            "text": "17",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:conda-lock"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#build-hooks"
+        },
+        {
+            "text": "18",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:npm-postinstall"
+        },
+        {
+            "text": "19",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pip-setuppy"
+        },
+        {
+            "text": "20",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:composer-scripts"
+        },
+        {
+            "text": "21",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:rubygems-extensions"
+        },
+        {
+            "text": "22",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:maven-plugins"
+        },
+        {
+            "text": "23",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:cargo-buildrs"
+        },
+        {
+            "text": "24",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:nix-sandboxed"
+        },
+        {
+            "text": "25",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:system-postinst"
+        },
+        {
+            "text": "26",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pnpm-disabled"
+        },
+        {
+            "text": "27",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:bun-disabled"
+        },
+        {
+            "text": "28",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:deno-permissions"
+        },
+        {
+            "text": "29",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fn:pip-wheels"
+        },
+        {
+            "text": "#",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#manifest-format"
+        },
+        {
+            "text": "libsolv",
+            "href": "https://github.com/openSUSE/libsolv"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:libsolv"
+        },
+        {
+            "text": "↩2",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:libsolv:1"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:opam-cudf"
+        },
+        {
+            "text": "PubGrub",
+            "href": "https://nex3.medium.com/pubgrub-2fb6470504f"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pubgrub"
+        },
+        {
+            "text": "↩2",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pubgrub:1"
+        },
+        {
+            "text": "↩3",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pubgrub:2"
+        },
+        {
+            "text": "↩4",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pubgrub:3"
+        },
+        {
+            "text": "↩5",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pubgrub:4"
+        },
+        {
+            "text": "↩6",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pubgrub:5"
+        },
+        {
+            "text": "↩7",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pubgrub:6"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:cabal-solver"
+        },
+        {
+            "text": "Clingo",
+            "href": "https://potassco.org/clingo/"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:spack-clingo"
+        },
+        {
+            "text": "minimal version selection algorithm",
+            "href": "https://learn.microsoft.com/en-us/vcpkg/users/versioning.concepts"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:vcpkg-mvs"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:cargo-semver-compat"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:maven-nearest"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:gradle-highest"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:nuget-lowest"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:clojars-maven"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:apt-scoring"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:cabal-freeze"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:go-sum"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pip-lockfiles"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:hackage-freeze"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:conda-lock"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:npm-postinstall"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pip-setuppy"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:composer-scripts"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:rubygems-extensions"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:maven-plugins"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:cargo-buildrs"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:nix-sandboxed"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:system-postinst"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pnpm-disabled"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:bun-disabled"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:deno-permissions"
+        },
+        {
+            "text": "↩",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#fnref:pip-wheels"
+        },
+        {
+            "text": "Package Security Problems for AI Agents",
+            "href": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
+        },
+        {
+            "text": "Package Manager Easter Eggs",
+            "href": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
+        },
+        {
+            "text": "Package Manager Mirroring",
+            "href": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html"
+        },
+        {
+            "text": "Package Manager Magic Files",
+            "href": "https://nesbitt.io/2026/03/05/package-manager-magic-files.html"
+        },
+        {
+            "text": "Package Manager Podcast Episodes",
+            "href": "https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html"
+        },
+        {
+            "text": "",
+            "href": "https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html"
+        },
+        {
+            "text": "Mastodon",
+            "href": "https://mastodon.social/@andrewnez"
+        },
+        {
+            "text": "GitHub",
+            "href": "https://github.com/andrew"
+        },
+        {
+            "text": "RSS",
+            "href": "https://nesbitt.io/feed.xml"
+        },
+        {
+            "text": "Stats",
+            "href": "https://nesbitt.io/stats"
+        },
+        {
+            "text": "Search",
+            "href": "https://nesbitt.io/search"
+        },
+        {
+            "text": "About",
+            "href": "https://nesbitt.io/about"
+        },
+        {
+            "text": "View source",
+            "href": "https://github.com/andrew/nesbitt.io/blob/master/_posts/2025-12-29-categorizing-package-manager-clients.md"
+        }
+    ],
+    "text_length": 6368,
+    "text_full": "Andrew Nesbitt\n      \nCategorizing Package Manager Clients\npackage-managersreference\n\nDec 29, 2025\n\nThis is the companion to Categorizing Package Registries, focusing on the client side: how package managers resolve dependencies, track versions, run build code, and declare dependencies. The data is also available as CSV. There are gaps; contributions welcome.\n\nEach package manager combines these choices differently. Cargo uses backtracking resolution, generates lockfiles, allows build hooks via build.rs, and uses TOML manifests. Go uses minimal version selection, achieves reproducibility without lockfiles, forbids hooks entirely, and embeds dependencies in go.mod. npm uses deduplication with nesting, generates lockfiles, allows postinstall hooks, and uses JSON. The particular combination shapes the developer experience more than any single choice.\n\nResolution algorithms#\n\nHow does the package manager decide which versions to install? The ecosyste.ms resolver documentation covers the major algorithm families.\n\nSAT solving treats resolution as a satisfiability problem. Can find solutions when they exist and prove when they don’t, but computationally expensive. PubGrub is a variant that produces better error messages by tracking why versions were excluded.\n\nComposer\nDNF\nConda/Mamba1\nZypper1\nopam2\npub3\nPoetry3\nuv3\npdm3\nSwift Package Manager3\nHex3\nBundler3\n\nBacktracking tries versions in order and backs up when conflicts arise.\n\npip\nCargo\nCabal4\n\nASP solving uses answer set programming for complex constraint solving.\n\nSpack5\n\nMinimal version selection picks the oldest version that satisfies constraints.\n\nGo modules\nvcpkg6\n\nDeduplication with nesting installs multiple versions when packages need incompatible versions.\n\nnpm\nYarn\npnpm\nCargo7\n\nVersion mediation lets build systems pick winners using different strategies.\n\nMaven8\nGradle9\nNuGet10\nsbt\nClojars11\nIvy\n\nMolinillo is a backtracking solver with heuristics tuned for Ruby’s ecosystem.\n\nRubyGems\nCocoaPods\n\nSystem package resolution handles system-level constraints like file conflicts and provides/requires relationships.\n\napt12\npacman\napk\nPortage\nFreeBSD ports\npkgsrc\n\nSingle version per formula with topological sort for dependency ordering.\n\nHomebrew\n\nExplicit dependencies with no version resolution needed.\n\nNix\nGuix\nLockfiles and reproducibility#\n\nCan you reproduce the same install later?\n\nGenerates lockfiles to record exact versions resolved. Committed to version control.\n\nBundler\nnpm\nYarn\npnpm\nCargo\nPoetry\nuv\npdm\nComposer\nMix\npub\nSwift Package Manager\nElm\nCabal13\nStack\nSpack\nHomebrew\nNuGet\nJulia\nConan\ndub\nCocoaPods\nopam\n\nDeterministic resolution through algorithms that produce stable results without needing a lockfile to pin versions.\n\nGo modules14\n\nNo native lockfile means resolution happens fresh each time, or build systems handle pinning.\n\npip15\nMaven\nGradle\napt\nCRAN\nHackage16\nCPAN\nConda17\n\nContent-addressed packages are identified by input hash. Reproducibility without traditional lockfiles.\n\nNix\nGuix\nBuild hooks#\n\nCan packages run code during installation?\n\nHooks allowed let packages execute scripts during install, build, or publish.\n\nnpm18\nYarn\npip19\nComposer20\nRubyGems21\nMaven22\nGradle\nCargo23\nCocoaPods\nHomebrew\nNix24\napt/dpkg25\nRPM/DNF\n\nHooks restricted allow some build-time execution with limitations.\n\npnpm26\nBun27\nDeno28\n\nNo hooks by design.\n\nGo\nElm\nSwift Package Manager\npip29\nManifest format#\n\nHow are dependencies declared?\n\nTOML\n\nCargo\nPoetry\nuv\nJulia\npdm\n\nJSON\n\nnpm\nComposer\nDeno\nElm\ndub\nvcpkg\n\nYAML\n\nConda\npub\nGitHub Actions\nHelm\npnpm\n\nHost language\n\nBundler (Ruby)\nCocoaPods (Ruby)\nGradle (Groovy/Kotlin)\nHomebrew (Ruby)\nLeiningen (Clojure)\nMix (Elixir)\nNix (nix)\nSpack (Python)\nSwift Package Manager (Swift)\nsbt (Scala)\n\nXML\n\nMaven\nNuGet\nIvy\n\nCustom format\n\nGo\nCabal\nCPAN\nCRAN\npip\n\nVia libsolv. ↩ ↩2\n\nUses external CUDF solvers. ↩\n\nUses PubGrub. ↩ ↩2 ↩3 ↩4 ↩5 ↩6 ↩7\n\nModular solver with backjumping. ↩\n\nVia Clingo. ↩\n\nMicrosoft explicitly documents vcpkg’s minimal version selection algorithm. ↩\n\nLimited to one version per semver-compatible range (one per major version, or one per minor if pre-1.0). ↩\n\nNearest definition wins. ↩\n\nHighest version wins. ↩\n\nLowest applicable version. ↩\n\nClojars uses Maven’s resolution algorithm since it’s a Maven-compatible repository. ↩\n\nScoring with immediate resolution. ↩\n\nThe cabal freeze command generates a freeze file pinning versions. ↩\n\ngo.sum exists but contains checksums for verification, not version pins. MVS means the same go.mod always resolves to the same versions. ↩\n\npip-tools, Poetry, and uv provide lockfile functionality for pip. ↩\n\nCabal can generate freeze files, but Hackage itself doesn’t require them. ↩\n\nconda-lock is a separate tool that adds lockfile support. ↩\n\npostinstall scripts run after package installation. ↩\n\nHistorically via setup.py; modern PEP 517 builds use wheel build backends, which still execute arbitrary code at build time. ↩\n\nComposer scripts can run at various lifecycle points. ↩\n\nNative extensions compile C code during installation. ↩\n\nMaven plugins execute during build phases. ↩\n\nbuild.rs scripts run at compile time, typically for native code compilation. ↩\n\nBuild hooks run in a sandboxed environment. ↩\n\nSystem packages do have maintainer scripts that run as root, but those are part of the distribution’s build pipeline, not arbitrary user-space package hooks. ↩\n\nScripts are disabled by default; must be explicitly enabled. ↩\n\nLifecycle scripts are disabled by default. ↩\n\nRequires explicit permission flags for network, file system, and subprocess access. ↩\n\nWheel format explicitly forbids install-time code execution; sdist still allows setup.py hooks. ↩\n\nRelated posts\nPackage Security Problems for AI Agents Apr 8, 2026\n\nPackages all the way down, agents all the way up.\n\nPackage Manager Easter Eggs Apr 3, 2026\n\nA tour of the easter eggs hiding inside package managers.\n\nPackage Manager Mirroring Mar 20, 2026\n\nEvery mirroring tool I could find, and the protocols underneath them.\n\nPackage Manager Magic Files Mar 5, 2026\n\nPackage manager magic files and where to find them: .npmrc, MANIFEST.in, Directory.Packages.props, .pnpmfile.cjs, and more.\n\nPackage Manager Podcast Episodes Feb 9, 2026\n\nA reference list of podcast episodes about package managers, grouped by ecosystem.\n\nMastodon · GitHub · RSS · Stats · Search · About\nView source"
+}
